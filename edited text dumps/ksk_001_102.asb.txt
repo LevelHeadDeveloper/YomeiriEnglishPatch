@@ -1,0 +1,29 @@
+__main
+@Lclearscreenall
+@ksk_001_102
+@expose
+KSK/KSK0001120
+Oh, but....
+KSK/KSK0001130
+Why did you come check on me?[nl]You could have pretended you didn't know....
+Why did you?
+I can't pretend I don't know
+Should I have pretended I didn't know?
+@ザクシャ小咲・１
+KSK/KSK0001140
+------------!
+KSK/KSK0001150
+Th-Thanks.[nl]You're so kind, Ichijo.
+@ksk_001_103
+KSK/KSK0001160
+Ah, no![nl]That's not what I meant....!
+KSK/KSK0001170
+I guess I'm just a little surprised you followed me,[nl]even though I didn't know....
+@ksk_001_201
+KSK/KSK0001180
+Did I ask something you couldn't answer?
+KSK/KSK0001190
+Sorry.....
+common.asb
+ksk_001_103.asb
+ksk_001_201.asb

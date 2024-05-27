@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@hol_001_301
+OTM/OTM0007560
+I think one of these'll be good.
+RAK/RAK0066750
+Let's see... 
+@プレゼント選択
+RAK/RAK0066930
+I really hope it's okay...
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+SSR/SSR0020600
+Mm! Raku Ichijo...[nl]If you're looking for the mistress, she's out.
+RAK/RAK0067000
+No. I'm not looking for Chitoge. It's you I'm looking for.
+SSR/SSR0020610
+Me? W-What did you need...?[nl]If you're being insolent--
+RAK/RAK0067010
+That's dumb! Why would I come all this way[nl]just to say something rude!?
+RAK/RAK0067020
+Since you've been so good to me, I figured I might as well[nl]give you this.
+@プレゼント表示
+SSR/SSR0020620
+T-This is...!
+@ザクシャ誠士郎・大
+SSR/SSR0020630
+Are.... you certain I can have it?
+RAK/RAK0067030
+Yes, of course.[nl]That's why I brought it.
+RAK/RAK0067040
+Well then, I'm gonna head back.
+@expose
+SSR/SSR0020660
+Aah! W-Wait just a second!
+@expose2
+SSR/SSR0020670
+Raku Ichijo! A-Are you, by any chance... free today?
+RAK/RAK0067050
+Yeah, I'm not too busy. 
+SSR/SSR0020680
+I-I just got a bag of tea leaves.[nl]...Would you like me to make you some?
+RAK/RAK0067060
+Hmm. Well, I guess, since I'm here.
+@フェードアウト
+RAK/RAK0067070
+(I had a great time with Tsugumi this Sunday.)
+@イベント終了処理
+common.asb

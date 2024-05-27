@@ -1,0 +1,1488 @@
+SelfId
+id
+chara_id
+event_no
+time_zone
+drop_num
+script_name
+file_name
+func_name
+R_EventListctg000
+Chitoge Main 1
+ctg_001_001.asb
+@ctg_001
+R_EventListctg001
+Chitoge Main 2
+ctg_002_001.asb
+@ctg_002
+R_EventListctg002
+Chitoge Main 3
+ctg_003_001.asb
+@ctg_003
+R_EventListctg003
+Chitoge Main 4
+ctg_004_001.asb
+@ctg_004
+R_EventListctg004
+Chitoge Main 5
+ctg_005_001.asb
+@ctg_005
+R_EventListctg005
+Chitoge Main 6
+ctg_006_001.asb
+@ctg_006
+R_EventListctg006
+Chitoge Map Event 1
+ctg_101_001.asb
+@ctg_101
+R_EventListctg007
+Chitoge Map Event 2
+ctg_102_001.asb
+@ctg_102
+R_EventListctg008
+Chitoge Map Event 3
+ctg_103_001.asb
+@ctg_103
+R_EventListctg009
+Chitoge Map Event 4
+ctg_104_001.asb
+@ctg_104
+R_EventListctg010
+Chitoge Map Event 5
+ctg_105_001.asb
+@ctg_105
+R_EventListctg011
+Chitoge Map Event 6
+ctg_106_001.asb
+@ctg_106
+R_EventListctg012
+Chitoge Map Event 7
+ctg_107_001.asb
+@ctg_107
+R_EventListctg013
+Chitoge Map Event 8
+ctg_108_001.asb
+@ctg_108
+R_EventListctg014
+Chitoge Map Event 9
+ctg_109_001.asb
+@ctg_109
+R_EventListctg015
+Chitoge Map Event 10
+ctg_110_001.asb
+@ctg_110
+R_EventListctg016
+Chitoge Map Event 11
+ctg_111_001.asb
+@ctg_111
+R_EventListctg017
+Chitoge Map Event 12
+ctg_112_001.asb
+@ctg_112
+R_EventListctg018
+Chitoge Map Event 13
+ctg_113_001.asb
+@ctg_113
+R_EventListctg019
+Chitoge Map Event 14
+ctg_114_001.asb
+@ctg_114
+R_EventListctg020
+Chitoge Map Event 15
+ctg_115_001.asb
+@ctg_115
+R_EventListctg021
+Chitoge Map Event 16
+ctg_116_001.asb
+@ctg_116
+R_EventListctg022
+Chitoge Map Event 17
+ctg_117_001.asb
+@ctg_117
+R_EventListctg023
+Chitoge Map Event 18
+ctg_118_001.asb
+@ctg_118
+R_EventListctg024
+Chitoge Map Event 19
+ctg_119_001.asb
+@ctg_119
+R_EventListctg025
+Chitoge Map Event 20
+ctg_120_001.asb
+@ctg_120
+R_EventListctg026
+Chitoge Map Event 21
+ctg_121_001.asb
+@ctg_121
+R_EventListctg027
+Chitoge Map Event 22
+ctg_122_001.asb
+@ctg_122
+R_EventListctg028
+Chitoge Map Event 23
+ctg_123_001.asb
+@ctg_123
+R_EventListctg029
+Chitoge Map Event 24
+ctg_124_001.asb
+@ctg_124
+R_EventListctg030
+Chitoge Map Event 25
+ctg_125_001.asb
+@ctg_125
+R_EventListctg031
+Chitoge Map Event 26
+ctg_126_001.asb
+@ctg_126
+R_EventListctg032
+Chitoge Map Event 27
+ctg_127_001.asb
+@ctg_127
+R_EventListctg033
+Chitoge Map Event 28
+ctg_128_001.asb
+@ctg_128
+R_EventListctg034
+Chitoge Map Event 29
+ctg_129_001.asb
+@ctg_129
+R_EventListctg035
+Chitoge Map Event 30
+ctg_130_001.asb
+@ctg_130
+R_EventListctg036
+Chitoge Map Event 31
+ctg_131_001.asb
+@ctg_131
+R_EventListctg037
+Chitoge Event 1
+ctg_201_001.asb
+@ctg_201
+R_EventListctg038
+Chitoge Event 2
+ctg_202_001.asb
+@ctg_202
+R_EventListctg039
+Chitoge Event 3
+ctg_203_001.asb
+@ctg_203
+R_EventListctg040
+Chitoge Event 4
+ctg_204_001.asb
+@ctg_204
+R_EventListctg041
+Chitoge Event 5
+ctg_205_001.asb
+@ctg_205
+R_EventListctg042
+Chitoge Event 6
+ctg_206_001.asb
+@ctg_206
+R_EventListctg043
+Chitoge Event 7
+ctg_207_001.asb
+@ctg_207
+R_EventListctg044
+Chitoge Event 8
+ctg_208_001.asb
+@ctg_208
+R_EventListctg045
+Chitoge Event 9
+ctg_209_001.asb
+@ctg_209
+R_EventListctg046
+Chitoge Event 10
+ctg_210_001.asb
+@ctg_210
+R_EventListctg047
+Chitoge Event 11
+ctg_211_001.asb
+@ctg_211
+R_EventListctg048
+Chitoge Event 12
+ctg_212_001.asb
+@ctg_212
+R_EventListctg049
+Chitoge Event 13
+ctg_213_001.asb
+@ctg_213
+R_EventListctg050
+Chitoge Event 14
+ctg_214_001.asb
+@ctg_214
+R_EventListctg051
+Chitoge Event 15
+ctg_215_001.asb
+@ctg_215
+R_EventListctg052
+Chitoge Saturday 1
+ctg_301_001.asb
+@ctg_301
+R_EventListctg053
+Chitoge Saturday 2
+ctg_302_001.asb
+@ctg_302
+R_EventListctg054
+Chitoge Saturday 3
+ctg_303_001.asb
+@ctg_303
+R_EventListctg055
+Chitoge Saturday 4
+ctg_304_001.asb
+@ctg_304
+R_EventListctg056
+Chitoge Majikoi Scenario 1
+ctg_401_001.asb
+@ctg_401
+R_EventListctg057
+Chitoge Majikoi Scenario 2
+ctg_402_001.asb
+@ctg_402
+R_EventListctg058
+Chitoge Majikoi Scenario 3
+ctg_403_001.asb
+@ctg_403
+R_EventListctg059
+Chitoge Majikoi Scenario 4
+ctg_404_001.asb
+@ctg_404
+R_EventListctg077
+Chitoge Main 6 (Sneak Fail)
+ctg_601_001.asb
+@ctg_601
+R_EventListksk100
+Kosaki Main 1
+ksk_001_001.asb
+@ksk_001
+R_EventListksk101
+Kosaki Main 2
+ksk_002_001.asb
+@ksk_002
+R_EventListksk102
+Kosaki Main 3
+ksk_003_001.asb
+@ksk_003
+R_EventListksk103
+Kosaki Main 4
+ksk_004_001.asb
+@ksk_004
+R_EventListksk104
+Kosaki Main 5
+ksk_005_001.asb
+@ksk_005
+R_EventListksk105
+Kosaki Main 6
+ksk_006_001.asb
+@ksk_006
+R_EventListksk106
+Kosaki Map Event 1
+ksk_101_001.asb
+@ksk_101
+R_EventListksk107
+Kosaki Map Event 2
+ksk_102_001.asb
+@ksk_102
+R_EventListksk108
+Kosaki Map Event 3
+ksk_103_001.asb
+@ksk_103
+R_EventListksk109
+Kosaki Map Event 4
+ksk_104_001.asb
+@ksk_104
+R_EventListksk110
+Kosaki Map Event 5
+ksk_105_001.asb
+@ksk_105
+R_EventListksk111
+Kosaki Map Event 6
+ksk_106_001.asb
+@ksk_106
+R_EventListksk112
+Kosaki Map Event 7
+ksk_107_001.asb
+@ksk_107
+R_EventListksk113
+Kosaki Map Event 8
+ksk_108_001.asb
+@ksk_108
+R_EventListksk114
+Kosaki Map Event 9
+ksk_109_001.asb
+@ksk_109
+R_EventListksk115
+Kosaki Map Event 10
+ksk_110_001.asb
+@ksk_110
+R_EventListksk116
+Kosaki Map Event 11
+ksk_111_001.asb
+@ksk_111
+R_EventListksk117
+Kosaki Map Event 12
+ksk_112_001.asb
+@ksk_112
+R_EventListksk118
+Kosaki Map Event 13
+ksk_113_001.asb
+@ksk_113
+R_EventListksk119
+Kosaki Map Event 14
+ksk_114_001.asb
+@ksk_114
+R_EventListksk120
+Kosaki Map Event 15
+ksk_115_001.asb
+@ksk_115
+R_EventListksk121
+Kosaki Map Event 16
+ksk_116_001.asb
+@ksk_116
+R_EventListksk122
+Kosaki Map Event 17
+ksk_117_001.asb
+@ksk_117
+R_EventListksk123
+Kosaki Map Event 18
+ksk_118_001.asb
+@ksk_118
+R_EventListksk124
+Kosaki Map Event 19
+ksk_119_001.asb
+@ksk_119
+R_EventListksk125
+Kosaki Map Event 20
+ksk_120_001.asb
+@ksk_120
+R_EventListksk126
+Kosaki Map Event 21
+ksk_121_001.asb
+@ksk_121
+R_EventListksk127
+Kosaki Map Event 22
+ksk_122_001.asb
+@ksk_122
+R_EventListksk128
+Kosaki Map Event 23
+ksk_123_001.asb
+@ksk_123
+R_EventListksk129
+Kosaki Map Event 24
+ksk_124_001.asb
+@ksk_124
+R_EventListksk130
+Kosaki Map Event 25
+ksk_125_001.asb
+@ksk_125
+R_EventListksk131
+Kosaki Map Event 26
+ksk_126_001.asb
+@ksk_126
+R_EventListksk132
+Kosaki Map Event 27
+ksk_127_001.asb
+@ksk_127
+R_EventListksk133
+Kosaki Map Event 28
+ksk_128_001.asb
+@ksk_128
+R_EventListksk134
+Kosaki Map Event 29
+ksk_129_001.asb
+@ksk_129
+R_EventListksk135
+Kosaki Map Event 30
+ksk_130_001.asb
+@ksk_130
+R_EventListksk136
+Kosaki Map Event 31
+ksk_131_001.asb
+@ksk_131
+R_EventListksk137
+Kosaki Event 1
+ksk_201_001.asb
+@ksk_201
+R_EventListksk138
+Kosaki Event 2
+ksk_202_001.asb
+@ksk_202
+R_EventListksk139
+Kosaki Event 3
+ksk_203_001.asb
+@ksk_203
+R_EventListksk140
+Kosaki Event 4
+ksk_204_001.asb
+@ksk_204
+R_EventListksk141
+Kosaki Event 5
+ksk_205_001.asb
+@ksk_205
+R_EventListksk142
+Kosaki Event 6
+ksk_206_001.asb
+@ksk_206
+R_EventListksk143
+Kosaki Event 7
+ksk_207_001.asb
+@ksk_207
+R_EventListksk144
+Kosaki Event 8
+ksk_208_001.asb
+@ksk_208
+R_EventListksk145
+Kosaki Event 9
+ksk_209_001.asb
+@ksk_209
+R_EventListksk146
+Kosaki Event 10
+ksk_210_001.asb
+@ksk_210
+R_EventListksk147
+Kosaki Event 11
+ksk_211_001.asb
+@ksk_211
+R_EventListksk148
+Kosaki Event 12
+ksk_212_001.asb
+@ksk_212
+R_EventListksk149
+Kosaki Event 13
+ksk_213_001.asb
+@ksk_213
+R_EventListksk150
+Kosaki Event 14
+ksk_214_001.asb
+@ksk_214
+R_EventListksk151
+Kosaki Event 15
+ksk_215_001.asb
+@ksk_215
+R_EventListksk152
+Kosaki Saturday 1
+ksk_301_001.asb
+@ksk_301
+R_EventListksk153
+Kosaki Saturday 2
+ksk_302_001.asb
+@ksk_302
+R_EventListksk154
+Kosaki Saturday 3
+ksk_303_001.asb
+@ksk_303
+R_EventListksk155
+Kosaki Saturday 4
+ksk_304_001.asb
+@ksk_304
+R_EventListksk156
+Kosaki Majikoi Scenario 1
+ksk_401_001.asb
+@ksk_401
+R_EventListksk157
+Kosaki Majikoi Scenario 2
+ksk_402_001.asb
+@ksk_402
+R_EventListksk158
+Kosaki Majikoi Scenario 3
+ksk_403_001.asb
+@ksk_403
+R_EventListksk159
+Kosaki Majikoi Scenario 4
+ksk_404_001.asb
+@ksk_404
+R_EventListksk177
+Kosaki Main 5 (Sneak Fail)
+ksk_601_001.asb
+@ksk_601
+R_EventListksk178
+Kosaki Map Event 23 (Sneak Fail)
+ksk_602_001.asb
+@ksk_602
+R_EventListssr200
+Seishiro Main 1
+ssr_001_001.asb
+@ssr_001
+R_EventListssr201
+Seishiro Main 2
+ssr_002_001.asb
+@ssr_002
+R_EventListssr202
+Seishiro Main 3
+ssr_003_001.asb
+@ssr_003
+R_EventListssr203
+Seishiro Main 4
+ssr_004_001.asb
+@ssr_004
+R_EventListssr204
+Seishiro Main 5
+ssr_005_001.asb
+@ssr_005
+R_EventListssr205
+Seishiro Main 6
+ssr_006_001.asb
+@ssr_006
+R_EventListssr206
+Seishiro Map Event 1
+ssr_101_001.asb
+@ssr_101
+R_EventListssr207
+Seishiro Map Event 2
+ssr_102_001.asb
+@ssr_102
+R_EventListssr208
+Seishiro Map Event 3
+ssr_103_001.asb
+@ssr_103
+R_EventListssr209
+Seishiro Map Event 4
+ssr_104_001.asb
+@ssr_104
+R_EventListssr210
+Seishiro Map Event 5
+ssr_105_001.asb
+@ssr_105
+R_EventListssr211
+Seishiro Map Event 6
+ssr_106_001.asb
+@ssr_106
+R_EventListssr212
+Seishiro Map Event 7
+ssr_107_001.asb
+@ssr_107
+R_EventListssr213
+Seishiro Map Event 8
+ssr_108_001.asb
+@ssr_108
+R_EventListssr214
+Seishiro Map Event 9
+ssr_109_001.asb
+@ssr_109
+R_EventListssr215
+Seishiro Map Event 10
+ssr_110_001.asb
+@ssr_110
+R_EventListssr216
+Seishiro Map Event 11
+ssr_111_001.asb
+@ssr_111
+R_EventListssr217
+Seishiro Map Event 12
+ssr_112_001.asb
+@ssr_112
+R_EventListssr218
+Seishiro Map Event 13
+ssr_113_001.asb
+@ssr_113
+R_EventListssr219
+Seishiro Map Event 14
+ssr_114_001.asb
+@ssr_114
+R_EventListssr220
+Seishiro Map Event 15
+ssr_115_001.asb
+@ssr_115
+R_EventListssr221
+Seishiro Map Event 16
+ssr_116_001.asb
+@ssr_116
+R_EventListssr222
+Seishiro Map Event 17
+ssr_117_001.asb
+@ssr_117
+R_EventListssr223
+Seishiro Map Event 18
+ssr_118_001.asb
+@ssr_118
+R_EventListssr224
+Seishiro Map Event 19
+ssr_119_001.asb
+@ssr_119
+R_EventListssr225
+Seishiro Map Event 20
+ssr_120_001.asb
+@ssr_120
+R_EventListssr226
+Seishiro Map Event 21
+ssr_121_001.asb
+@ssr_121
+R_EventListssr227
+Seishiro Map Event 22
+ssr_122_001.asb
+@ssr_122
+R_EventListssr228
+Seishiro Map Event 23
+ssr_123_001.asb
+@ssr_123
+R_EventListssr229
+Seishiro Map Event 24
+ssr_124_001.asb
+@ssr_124
+R_EventListssr230
+Seishiro Map Event 25
+ssr_125_001.asb
+@ssr_125
+R_EventListssr231
+Seishiro Map Event 26
+ssr_126_001.asb
+@ssr_126
+R_EventListssr232
+Seishiro Map Event 27
+ssr_127_001.asb
+@ssr_127
+R_EventListssr233
+Seishiro Map Event 28
+ssr_128_001.asb
+@ssr_128
+R_EventListssr234
+Seishiro Map Event 29
+ssr_129_001.asb
+@ssr_129
+R_EventListssr235
+Seishiro Map Event 30
+ssr_130_001.asb
+@ssr_130
+R_EventListssr236
+Seishiro Event 1
+ssr_201_001.asb
+@ssr_201
+R_EventListssr237
+Seishiro Event 2
+ssr_202_001.asb
+@ssr_202
+R_EventListssr238
+Seishiro Event 3
+ssr_203_001.asb
+@ssr_203
+R_EventListssr239
+Seishiro Event 4
+ssr_204_001.asb
+@ssr_204
+R_EventListssr240
+Seishiro Event 5
+ssr_205_001.asb
+@ssr_205
+R_EventListssr241
+Seishiro Event 6
+ssr_206_001.asb
+@ssr_206
+R_EventListssr242
+Seishiro Event 7
+ssr_207_001.asb
+@ssr_207
+R_EventListssr243
+Seishiro Event 8
+ssr_208_001.asb
+@ssr_208
+R_EventListssr244
+Seishiro Event 9
+ssr_209_001.asb
+@ssr_209
+R_EventListssr245
+Seishiro Event 10
+ssr_210_001.asb
+@ssr_210
+R_EventListssr246
+Seishiro Event 11
+ssr_211_001.asb
+@ssr_211
+R_EventListssr247
+Seishiro Event 12
+ssr_212_001.asb
+@ssr_212
+R_EventListssr248
+Seishiro Event 13
+ssr_213_001.asb
+@ssr_213
+R_EventListssr249
+Seishiro Event 14
+ssr_214_001.asb
+@ssr_214
+R_EventListssr250
+Seishiro Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListssr251
+Seishiro Saturday 1
+ssr_301_001.asb
+@ssr_301
+R_EventListssr252
+Seishiro Saturday 2
+ssr_302_001.asb
+@ssr_302
+R_EventListssr253
+Seishiro Saturday 3
+ssr_303_001.asb
+@ssr_303
+R_EventListssr254
+Seishiro Saturday 4
+ssr_304_001.asb
+@ssr_304
+R_EventListssr255
+Seishiro Majikoi Scenario 1
+ssr_401_001.asb
+@ssr_401
+R_EventListssr256
+Seishiro Majikoi Scenario 2
+ssr_402_001.asb
+@ssr_402
+R_EventListssr257
+Seishiro Majikoi Scenario 3
+ssr_403_001.asb
+@ssr_403
+R_EventListssr258
+Seishiro Majikoi Scenario 4
+ssr_404_001.asb
+@ssr_404
+R_EventListssr276
+Seishiro Main 4 (Sneak Fail)
+ssr_601_001.asb
+@ssr_601
+R_EventListssr277
+Seishiro Map Event 6 (Sneak Fail)
+ssr_602_001.asb
+@ssr_602
+R_EventListmrk300
+Marika Main 1
+mrk_001_001.asb
+@mrk_001
+R_EventListmrk301
+Marika Main 2
+mrk_002_001.asb
+@mrk_002
+R_EventListmrk302
+Marika Main 3
+mrk_003_001.asb
+@mrk_003
+R_EventListmrk303
+Marika Main 4
+mrk_004_001.asb
+@mrk_004
+R_EventListmrk304
+Marika Main 5
+mrk_005_001.asb
+@mrk_005
+R_EventListmrk305
+Marika Main 6
+mrk_006_001.asb
+@mrk_006
+R_EventListmrk306
+Marika Map Event 1
+mrk_101_001.asb
+@mrk_101
+R_EventListmrk307
+Marika Map Event 2
+mrk_102_001.asb
+@mrk_102
+R_EventListmrk308
+Marika Map Event 3
+mrk_103_001.asb
+@mrk_103
+R_EventListmrk309
+Marika Map Event 4
+mrk_104_001.asb
+@mrk_104
+R_EventListmrk310
+Marika Map Event 5
+mrk_105_001.asb
+@mrk_105
+R_EventListmrk311
+Marika Map Event 6
+mrk_106_001.asb
+@mrk_106
+R_EventListmrk312
+Marika Map Event 7
+mrk_107_001.asb
+@mrk_107
+R_EventListmrk313
+Marika Map Event 8
+mrk_108_001.asb
+@mrk_108
+R_EventListmrk314
+Marika Map Event 9
+mrk_109_001.asb
+@mrk_109
+R_EventListmrk315
+Marika Map Event 10
+mrk_110_001.asb
+@mrk_110
+R_EventListmrk316
+Marika Map Event 11
+mrk_111_001.asb
+@mrk_111
+R_EventListmrk317
+Marika Map Event 12
+mrk_112_001.asb
+@mrk_112
+R_EventListmrk318
+Marika Map Event 13
+mrk_113_001.asb
+@mrk_113
+R_EventListmrk319
+Marika Map Event 14
+mrk_114_001.asb
+@mrk_114
+R_EventListmrk320
+Marika Map Event 15
+mrk_115_001.asb
+@mrk_115
+R_EventListmrk321
+Marika Map Event 16
+mrk_116_001.asb
+@mrk_116
+R_EventListmrk322
+Marika Map Event 17
+mrk_117_001.asb
+@mrk_117
+R_EventListmrk323
+Marika Map Event 18
+mrk_118_001.asb
+@mrk_118
+R_EventListmrk324
+Marika Map Event 19
+mrk_119_001.asb
+@mrk_119
+R_EventListmrk325
+Marika Map Event 20
+mrk_120_001.asb
+@mrk_120
+R_EventListmrk326
+Marika Map Event 21
+mrk_121_001.asb
+@mrk_121
+R_EventListmrk327
+Marika Map Event 22
+mrk_122_001.asb
+@mrk_122
+R_EventListmrk328
+Marika Map Event 23
+mrk_123_001.asb
+@mrk_123
+R_EventListmrk329
+Marika Map Event 24
+mrk_124_001.asb
+@mrk_124
+R_EventListmrk330
+Marika Map Event 25
+mrk_125_001.asb
+@mrk_125
+R_EventListmrk331
+Marika Map Event 26
+mrk_126_001.asb
+@mrk_126
+R_EventListmrk332
+Marika Map Event 27
+mrk_127_001.asb
+@mrk_127
+R_EventListmrk333
+Marika Map Event 28
+mrk_128_001.asb
+@mrk_128
+R_EventListmrk334
+Marika Map Event 29
+mrk_129_001.asb
+@mrk_129
+R_EventListmrk335
+Marika Map Event 30
+mrk_130_001.asb
+@mrk_130
+R_EventListmrk336
+Marika Occurence 1
+mrk_201_001.asb
+@mrk_201
+R_EventListmrk337
+Marika Occurence 2
+mrk_202_001.asb
+@mrk_202
+R_EventListmrk338
+Marika Occurence 3
+mrk_203_001.asb
+@mrk_203
+R_EventListmrk339
+Marika Occurence 4
+mrk_204_001.asb
+@mrk_204
+R_EventListmrk340
+Marika Occurence 5
+mrk_205_001.asb
+@mrk_205
+R_EventListmrk341
+Marika Occurence 6
+mrk_206_001.asb
+@mrk_206
+R_EventListmrk342
+Marika Occurence 7
+mrk_207_001.asb
+@mrk_207
+R_EventListmrk343
+Marika Occurence 8
+mrk_208_001.asb
+@mrk_208
+R_EventListmrk344
+Marika Occurence 9
+mrk_209_001.asb
+@mrk_209
+R_EventListmrk345
+Marika Occurence 10
+mrk_210_001.asb
+@mrk_210
+R_EventListmrk346
+Marika Occurence 11
+mrk_211_001.asb
+@mrk_211
+R_EventListmrk347
+Marika Occurence 12
+mrk_212_001.asb
+@mrk_212
+R_EventListmrk348
+Marika Occurence 13
+mrk_213_001.asb
+@mrk_213
+R_EventListmrk349
+Marika Occurence 14
+mrk_214_001.asb
+@mrk_214
+R_EventListmrk350
+Marika Occurence 15
+mrk_215_001.asb
+@mrk_215
+R_EventListmrk351
+Marika Saturday 1
+mrk_301_001.asb
+@mrk_301
+R_EventListmrk352
+Marika Saturday 2
+mrk_302_001.asb
+@mrk_302
+R_EventListmrk353
+Marika Saturday 3
+mrk_303_001.asb
+@mrk_303
+R_EventListmrk354
+Marika Majikoi Scenario 1
+mrk_401_001.asb
+@mrk_401
+R_EventListmrk355
+Marika Majikoi Scenario 2
+mrk_402_001.asb
+@mrk_402
+R_EventListmrk356
+Marika Majikoi Scenario 3
+mrk_403_001.asb
+@mrk_403
+R_EventListmrk357
+Marika Majikoi Scenario 4
+mrk_404_001.asb
+@mrk_404
+R_EventListrur400
+Ruri Main 1
+rur_001_001.asb
+@rur_001
+R_EventListrur401
+Ruri Main 2
+rur_002_001.asb
+@rur_002
+R_EventListrur402
+Ruri Main 3
+rur_003_001.asb
+@rur_003
+R_EventListrur403
+Ruri Main 4
+rur_004_001.asb
+@rur_004
+R_EventListrur404
+Ruri Main 5
+rur_005_001.asb
+@rur_005
+R_EventListrur405
+Ruri Main 6
+rur_006_001.asb
+@rur_006
+R_EventListrur406
+Ruri Map Event 1
+rur_101_001.asb
+@rur_101
+R_EventListrur407
+Ruri Map Event 2
+rur_102_001.asb
+@rur_102
+R_EventListrur408
+Ruri Map Event 3
+rur_103_001.asb
+@rur_103
+R_EventListrur409
+Ruri Map Event 4
+rur_104_001.asb
+@rur_104
+R_EventListrur410
+Ruri Map Event 5
+rur_105_001.asb
+@rur_105
+R_EventListrur411
+Ruri Map Event 6
+rur_106_001.asb
+@rur_106
+R_EventListrur412
+Ruri Map Event 7
+rur_107_001.asb
+@rur_107
+R_EventListrur413
+Ruri Map Event 8
+rur_108_001.asb
+@rur_108
+R_EventListrur414
+Ruri Map Event 9
+rur_109_001.asb
+@rur_109
+R_EventListrur415
+Ruri Map Event 10
+rur_110_001.asb
+@rur_110
+R_EventListrur416
+Ruri Map Event 11
+rur_111_001.asb
+@rur_111
+R_EventListrur417
+Ruri Map Event 12
+rur_112_001.asb
+@rur_112
+R_EventListrur418
+Ruri Map Event 13
+rur_113_001.asb
+@rur_113
+R_EventListrur419
+Ruri Map Event 14
+rur_114_001.asb
+@rur_114
+R_EventListrur420
+Ruri Map Event 15
+rur_115_001.asb
+@rur_115
+R_EventListrur421
+Ruri Map Event 16
+rur_116_001.asb
+@rur_116
+R_EventListrur422
+Ruri Map Event 17
+rur_117_001.asb
+@rur_117
+R_EventListrur423
+Ruri Map Event 18
+rur_118_001.asb
+@rur_118
+R_EventListrur424
+Ruri Map Event 19
+rur_119_001.asb
+@rur_119
+R_EventListrur425
+Ruri Map Event 20
+rur_120_001.asb
+@rur_120
+R_EventListrur426
+Ruri Map Event 21
+rur_121_001.asb
+@rur_121
+R_EventListrur427
+Ruri Event 1
+rur_201_001.asb
+@rur_201
+R_EventListrur428
+Ruri Event 2
+rur_202_001.asb
+@rur_202
+R_EventListrur429
+Ruri Event 3
+rur_203_001.asb
+@rur_203
+R_EventListrur430
+Ruri Event 4
+rur_204_001.asb
+@rur_204
+R_EventListrur431
+Ruri Event 5
+rur_205_001.asb
+@rur_205
+R_EventListrur432
+Ruri Event 6
+rur_206_001.asb
+@rur_206
+R_EventListrur433
+Ruri Event 7
+rur_207_001.asb
+@rur_207
+R_EventListrur434
+Ruri Event 8
+rur_208_001.asb
+@rur_208
+R_EventListrur435
+Ruri Event 9
+rur_209_001.asb
+@rur_209
+R_EventListrur436
+Ruri Event 10
+rur_210_001.asb
+@rur_210
+R_EventListrur437
+Ruri Saturday 1
+rur_301_001.asb
+@rur_301
+R_EventListrur438
+Ruri Saturday 2
+rur_302_001.asb
+@rur_302
+R_EventListrur439
+Ruri Majikoi Scenario 1
+rur_401_001.asb
+@rur_401
+R_EventListrur440
+Ruri Majikoi Scenario 2
+rur_402_001.asb
+@rur_402
+R_EventListrur441
+Ruri Majikoi Scenario 3
+rur_403_001.asb
+@rur_403
+R_EventListrur442
+Ruri Majikoi Scenario 4
+rur_404_001.asb
+@rur_404
+R_EventListrur460
+Ruri Main 2 (Sneak Fail)
+rur_601_001.asb
+@rur_601
+R_EventListrur461
+Ruri Main 5 (Sneak Fail)
+rur_602_001.asb
+@rur_602
+R_EventListrur462
+Ruri Main 6 (Sneak Fail)
+rur_603_001.asb
+@rur_603
+R_EventListano500
+Shuu Map Event 1
+ano_101_001.asb
+@ano_101
+R_EventListano501
+Shuu Map Event 2
+ano_102_001.asb
+@ano_102
+R_EventListano502
+Shuu Map Event 3
+ano_103_001.asb
+@ano_103
+R_EventListano503
+Shuu Map Event 4
+ano_104_001.asb
+@ano_104
+R_EventListano504
+Shuu Map Event 5
+ano_105_001.asb
+@ano_105
+R_EventListano505
+Shuu Map Event 6
+ano_106_001.asb
+@ano_106
+R_EventListano506
+Shuu Map Event 7
+ano_107_001.asb
+@ano_107
+R_EventListano507
+Shuu Map Event 8
+ano_108_001.asb
+@ano_108
+R_EventListano508
+Shuu Map Event 9
+ano_109_001.asb
+@ano_109
+R_EventListano509
+Shuu Map Event 10
+ano_110_001.asb
+@ano_110
+R_EventListano510
+Shuu Map Event 11
+ano_111_001.asb
+@ano_111
+R_EventListano511
+Misc Event 1
+ano_112_001.asb
+@ano_112
+R_EventListano512
+Misc Event 2
+ano_113_001.asb
+@ano_113
+R_EventListano513
+Misc Event 3
+ano_114_001.asb
+@ano_114
+R_EventListano514
+Misc Event 4
+ano_115_001.asb
+@ano_115
+R_EventListano515
+Misc Event 5
+ano_116_001.asb
+@ano_116
+R_EventListano516
+Misc Event 6
+ano_117_001.asb
+@ano_117
+R_EventListano517
+Misc Event 7
+ano_118_001.asb
+@ano_118
+R_EventListano518
+Misc Event 8
+ano_119_001.asb
+@ano_119
+R_EventListano519
+Misc Event 9
+ano_120_001.asb
+@ano_120
+R_EventListano521
+Misc Event 11
+ano_122_001.asb
+@ano_122
+R_EventListano522
+Misc Event 12
+ano_123_001.asb
+@ano_123
+R_EventListano523
+Misc Event 13
+ano_124_001.asb
+@ano_124
+R_EventListano524
+Misc Event 14
+ano_125_001.asb
+@ano_125
+R_EventListano525
+Shuu Event 1
+ano_201_001.asb
+@ano_201
+R_EventListano526
+Shuu Event 2
+ano_202_001.asb
+@ano_202
+R_EventListano527
+Shuu Event 3
+ano_203_001.asb
+@ano_203
+R_EventListano528
+Shuu Event 4
+ano_204_001.asb
+@ano_204
+R_EventListano529
+Shuu Event 5
+ano_205_001.asb
+@ano_205
+R_EventListano530
+Shuu Event 6
+ano_206_001.asb
+@ano_206
+R_EventListano531
+Shuu Event 7
+ano_207_001.asb
+@ano_207
+R_EventListano532
+Misc Event 1
+ano_208_001.asb
+@ano_208
+R_EventListano533
+Misc Event 2
+ano_209_001.asb
+@ano_209
+R_EventListano534
+Misc Event 3
+ano_210_001.asb
+@ano_210
+R_EventListano535
+Misc Event 4
+ano_211_001.asb
+@ano_211
+R_EventListano536
+Misc Event 5
+ano_212_001.asb
+@ano_212
+R_EventListano537
+Misc Event 7 (Sneak Fail)
+ano_601_001.asb
+@ano_601
+R_EventListano538
+Misc Event 8 (Sneak Fail)
+ano_602_001.asb
+@ano_602
+R_EventListano539
+Misc Event 1 (Old Maid Loss)
+ano_603_001.asb
+@ano_603
+R_EventListano540
+Misc Event 2 (Old Maid Loss)
+ano_604_001.asb
+@ano_604
+R_EventListrak600
+Raku Scenario 1
+rak_001_001.asb
+@rak_001
+R_EventListrak601
+Raku Scenario 2
+rak_002_001.asb
+@rak_002
+R_EventListrak602
+Raku Scenario 3
+rak_003_001.asb
+@rak_003
+R_EventListrak603
+Raku Scenario 4
+rak_004_001.asb
+@rak_004
+R_EventListrak604
+Raku Scenario 5
+rak_005_001.asb
+@rak_005
+R_EventListrak605
+Raku Scenario 6
+rak_006_001.asb
+@rak_006
+R_EventListrak607
+Raku Scenario 4 (Sneak Fail)
+rak_601_001.asb
+@rak_601
+R_EventListrak608
+Raku Scenario 2 Saturday
+rak_301_001.asb
+@rak_301
+R_EventListday700
+Morning Talk 1
+day_001_001.asb
+@day_001
+R_EventListday701
+Morning Talk 2
+day_002_001.asb
+@day_002
+R_EventListday702
+Morning Talk 3
+day_003_001.asb
+@day_003
+R_EventListday703
+Morning Talk 4
+day_004_001.asb
+@day_004
+R_EventListday704
+Morning Talk 5
+day_005_001.asb
+@day_005
+R_EventListday705
+Evening Talk 1
+day_006_001.asb
+@day_006
+R_EventListday706
+Evening Talk 2
+day_007_001.asb
+@day_007
+R_EventListday707
+Evening Talk 3
+day_008_001.asb
+@day_008
+R_EventListday708
+Evening Talk 4
+day_009_001.asb
+@day_009
+R_EventListday709
+Evening Talk 5
+day_010_001.asb
+@day_010
+R_EventListhol710
+Sunday Event 1
+hol_001_001.asb
+@hol_001
+R_EventListhol711
+Sunday Event 2
+hol_002_001.asb
+@hol_002
+R_EventListhol712
+Sunday Event 3
+hol_003_001.asb
+@hol_003
+R_EventListhol713
+Sunday Event 4
+hol_004_001.asb
+@hol_004
+R_EventListpro715
+Prolugue
+pro_001_001.asb
+@pro_001
+R_EventListpro716
+Prologue (Sneak Fail)
+pro_601_001.asb
+@pro_601
+R_EventListdwn720
+Out of HP (Day)
+dwn_001_001.asb
+@dwn_001
+R_EventListdwn721
+Out of HP(After School)
+dwn_002_001.asb
+@dwn_002
+R_EventListbad725
+Bad Ending
+bad_001_001.asb
+@bad_001
+R_EventListotm750
+Main Prologue
+otm_001_001.asb
+@otm_001
+R_EventListrtn800
+Special Wake-Up
+rtn_001_001.asb
+@rtn_001
+R_EventListall900
+All Clear 1
+all_001_001.asb
+@all_001
+R_EventListall901
+All Clear 2
+all_002_001.asb
+@all_002
+M
+TABLE
+GOP_TYPE
+GOP_EventList
+FILENAME
+GOP_イベントリスト.xls
+EXPORT_FILE
+gop_eventlist.gsv
+CREATE_TIME
+2013/11/22
+EXPORT_TIME
+2014/08/11 15:00
+CREATOR
+
+EXPORTER
+TSAKURAI
+ABOUT
+
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+enum定数
+文字列
+TYPE
+RecId
+Int32
+CHARA_ID
+TIME_ZONE
+String
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiiiii
+

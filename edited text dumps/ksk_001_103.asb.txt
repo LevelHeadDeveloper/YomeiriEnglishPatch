@@ -1,0 +1,62 @@
+__main
+@Lclearscreenall
+@ksk_001_103
+@expose
+KSK/KSK0001200
+But, um....
+KSK/KSK0001210
+Why....did you go that far?
+@ksk_001_01_ans01
+@ザクシャ小咲・１
+KSK/KSK0001220
+----------!
+KSK/KSK0001230
+I see....[nl]You were worried.....
+KSK/KSK0001240
+You were worried about me, Ichijo.
+.........
+KSK/KSK0001250
+Ah, um.....[nl]It's very hot out here, isn't it!
+KSK/KSK0001260
+Ahaha....haha!
+@ksk_001_01_ans02
+KSK/KSK0001270
+Huh!? You won't tell me!?
+KSK/KSK0001280
+You're so mean all of a sudden, Ichijo....
+@ksk_001_01_ans03
+KSK/KSK0001290
+Ah, of course she'd tell you to do that...
+KSK/KSK0001300
+It's just like her....yeah.
+@ksk_001_01_ans04
+KSK/KSK0001310
+Chitoge told you to?
+KSK/KSK0001320
+Haha....of course.
+KSK/KSK0001330
+You can't just turn down a request from Chitoge,[nl]can you, Ichijo.
+@ksk_001_01_ans05
+@expose
+KSK/KSK0001340
+Huh, Tsugumi told you to?
+KSK/KSK0001350
+That's definitely....surprising.
+KSK/KSK0001360
+Well, I guess you just got caught up in this, then.[nl]I see...
+@ksk_001_01_ans06
+KSK/KSK0001370
+Huh, Maiko told you to? Why?
+KSK/KSK0001380
+But, okay....That makes sense.
+KSK/KSK0001390
+If it's a friend asking you, you can't say no, right?
+@ksk_001_01_ans07
+KSK/KSK0001400
+It's a secret?
+KSK/KSK0001410
+I see...It's a secret, then.
+@ksk_001_101_END
+@ksk_001_201
+common.asb
+ksk_001_201.asb

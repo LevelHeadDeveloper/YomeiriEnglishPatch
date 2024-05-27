@@ -1,0 +1,201 @@
+__main
+@Lclearscreenall
+@ksk_002
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0000760
+Yeah, goal![nl]It's nice being middle-ranking~!
+RAK/RAK0008120
+What do you mean, it's nice...[nl]How did you rank?
+SYU/SYU0000770
+Solidly in the upper middle.
+RAK/RAK0008130
+(Damn, he's surprisingly quick....)
+SYU/SYU0000780
+Haahh. You see, there's something[nl]about marathons that I just adore.
+RAK/RAK0008140
+Huh? I didn't think you liked them that much.
+SYU/SYU0000790
+You misunderstand, Raku, old buddy![nl]I'm not talking about the running....
+SYU/SYU0000800
+At a marathon, you can watch the girls running their[nl]very hardest, with determined expressions and sweat[nl]dripping down their faces, and that's what gets me!
+RAK/RAK0008150
+No....I don't really understand or agree.
+SYU/SYU0000810
+Look, there's Onodera.
+RAK/RAK0008160
+Where!?
+@背景変更
+RAK/RAK0008170
+(Onodera's running her hardest, and her face is bright red.[nl] She looks tired....)
+RAK/RAK0008180
+(But I have to admit,[nl] she does look kinda cute like that.....)
+RAK/RAK0008190
+(She's not going very fast,[nl] but she's doing her very best....)
+RAK/RAK0008200
+(.....Uah! Our eyes met just now!?)
+RAK/RAK0008210
+(Wait, aagh! She averted her eyes immediately!)
+SYU/SYU0000820
+Hehehehe......[nl]So how about those running girls? Whaddya think?
+RAK/RAK0008220
+.....Yeah. They rule.....
+SYU/SYU0000830
+Right?
+CTG/CTG0007920
+Hey, Darling, why are you grinning like that?[nl]You're creeping me out.
+RAK/RAK0008230
+Huh?...Chitoge!?[nl]Are you done running already?
+@expose
+CTG/CTG0007930
+Yeah. I like to get lots of exercise,[nl]so it was pretty easy.
+SYU/SYU0000840
+As expected of you, Kirisaki.[nl]You had a great running figure.
+CTG/CTG0007940
+Well, thank--
+CTG/CTG0007950
+.....Wait. Why are you giving me that look?
+SYU/SYU0000850
+If something beautiful exists, everyone wants to admire it...[nl]Why, even Hikaru Genji was trying to get an eyeful of[nl]beautiful women, right?
+SYU/SYU0000860
+The only regret is that your belly is a little unflattering....
+SYU/SYU0000870
+Huh?
+.............
+@ＢＧＭ停止
+@フェードアウト
+@時間経過演出
+RAK/RAK0008240
+(Uuugh, that smarts.....[nl] Why'd she have to beat me up, too?)
+KSK/KSK0001600
+~Hah, ~Hah, ~Hahh......
+KSK/KSK0001610
+Fwahh.....I finally made it to the finish line.
+RAK/RAK0008250
+Congratulations, Onodera.
+KSK/KSK0001620
+Oh, Ichijo![nl]What happened to your face!?
+RAK/RAK0008260
+It's nothing, just a little messy at the moment.....[nl]It doesn't even hurt much, so it's nothing to worry about.
+KSK/KSK0001630
+No, that's not true![nl]If that gets infected, you'll be in big trouble!
+KSK/KSK0001640
+You need to take care of it.....[nl]I'll take you to the infirmary!
+RAK/RAK0008270
+Oh, okay....
+RAK/RAK0008280
+Sorry, Onodera.[nl]I think maybe it'll be better if I go to the infirmary[nl]by myself.
+KSK/KSK0001650
+Ahahaha, don't worry about it.[nl]I finished the run already....
+KSK/KSK0001660
+.......Ah-!!
+RAK/RAK0008290
+W-What is it!?
+KSK/KSK0001670
+----------.
+KSK/KSK0001680
+Ahh.....Um, uh.....[nl]I think my hair might be messed up right now....
+RAK/RAK0008300
+.......Hm?
+KSK/KSK0001690
+S-Sorry![nl]It's a little weird to ask you, Ichijo....
+KSK/KSK0001700
+I mean, I was just running after all,[nl]and I hope I look alright.....
+RAK/RAK0008310
+Ah, yeah![nl]You look great!
+RAK/RAK0008320
+Rather, I should be the one asking you that.[nl]I'm pretty sweaty.
+KSK/KSK0001710
+Y-You're fine! It's not a problem![nl]If anything....
+RAK/RAK0008330
+.......? If anything...?
+@expose2
+KSK/KSK0001720
+Ah, n-never mind.[nl]It's nothing....
+RAK/RAK0008340
+...? .....Is that right?
+RAK/RAK0008350
+.....Um...okay.[nl]Honestly, even if your hair's all messed up......[nl]I think you always look great, no matter what.....
+KSK/KSK0001730
+No, please don't say that!
+RAK/RAK0008360
+Eh? Why not?
+KSK/KSK0001740
+Well, the thing is....
+KSK/KSK0001750
+------------
+KSK/KSK0001760
+......Well, I.......
+RAK/RAK0008370
+Hm?
+@expose
+KSK/KSK0001770
+I, well.....[nl]Even if you're sweating, or bruised and scratched up.....[nl]I think you always look fine, regardless....?
+RAK/RAK0008380
+No, that's not true!!
+RAK/RAK0008390
+(Bruises, scratches, all this sweat dripping off me![nl] I don't want her to have to see this!)
+RAK/RAK0008400
+(Well, I feel like she's already seen quite a bit of that....)
+KSK/KSK0001780
+I-Is that so...?
+RAK/RAK0008410
+KSK/KSK0001790
+....Hehe.
+RAK/RAK0008420
+Hey, what are you laughing about?
+KSK/KSK0001800
+Never mind. It's nothing.
+RAK/RAK0008430
+---------?
+KSK/KSK0001810
+Excuse me.......
+KSK/KSK0001820
+Huh? It looks like the nurse isn't here.....
+RAK/RAK0008440
+Yeah, I think you're right....
+KSK/KSK0001830
+Ichijo, sit down.[nl]Okay, um, disinfectant....
+KSK/KSK0001840
+Ah, found it! "Bansoko Disinfectant!"
+KSK/KSK0001850
+Well, then...I'll clean up around the wounds a little first.
+RAK/RAK0008450
+Oh, okay. Thank you.
+RAK/RAK0008460
+(Oh, man....[nl] I'm alone with Onodera in the infirmary, and she's taking[nl] care of me....I'm so happy!)
+KSK/KSK0001860
+Um, let's see.....[nl]Oh, is the bottle empty?
+KSK/KSK0001870
+Mmmmmmph......
+KSK/KSK0001880
+Hey!
+@画面揺らし2
+RAK/RAK0008470
+Gyahhhhhhhhhhhh![nl]It hurts!
+KSK/KSK0001890
+Gyah!? S-Sorry!![nl]Let me wipe it off...!
+RAK/RAK0008480
+W-Wait, that's a dirty rag....!
+KSK/KSK0001900
+Gyah! My bad! Sorry![nl]What should I do? You'll get infected!
+RAK/RAK0008490
+Calm down, Onodera![nl]Take a deep breath!
+KSK/KSK0001910
+O-Okay!
+KSK/KSK0001920
+Fuuuuhhh~, hahhhhhhh.....[nl]Fuuuuhhh~, hahhhhhhh.....
+KSK/KSK0001930
+RAK/RAK0008500
+Feeling better?
+KSK/KSK0001940
+Yeah.....
+KSK/KSK0001950
+I'm sorry, Ichijo.[nl]I messed it up pretty badly just now.
+KSK/KSK0001960
+I've done....too much, haven't I?
+RAK/RAK0008510
+(Onodera's feeling bad....[nl] I need to cheer her up....!)
+@ksk_002_101
+common.asb
+

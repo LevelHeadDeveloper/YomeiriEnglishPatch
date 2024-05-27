@@ -1,0 +1,41 @@
+__main
+@Lclearscreenall
+@hol_001_401
+OTM/OTM0007560
+I think one of these'll be good.
+RAK/RAK0066750
+Let's see... 
+@プレゼント選択
+RAK/RAK0066930
+I really hope it's alright...
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+MRK/MRK0011580
+Well! Raku dearest!♪[nl]I can't believe you're here to visit me!!
+@expose
+MRK/MRK0011590
+Hah~-, you've finally decided to just propose?[nl]I'm so happy~!
+RAK/RAK0066940
+Don't be silly.[nl]I just thought I'd come and give you this,[nl]since you've been so good to me.
+@プレゼント表示
+@expose
+MRK/MRK0011600
+Oh... This is...!
+@ザクシャ万里花・大
+MRK/MRK0011620
+...May I have this?
+RAK/RAK0066950
+Of course.[nl]That's why I brought it, after all.
+RAK/RAK0066960
+Well then, I'm going home.
+MRK/MRK0011630
+Oh, please wait one moment![nl]Since you've come all this way,[nl]please come in and have a cup of tea or something.
+RAK/RAK0066970
+Hmm, okay.[nl]But just one, okay?
+@フェードアウト
+RAK/RAK0066980
+(I had a great time at Marika's house this Sunday.)
+@イベント終了処理
+common.asb

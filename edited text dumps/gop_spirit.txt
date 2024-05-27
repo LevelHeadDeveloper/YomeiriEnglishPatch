@@ -1,0 +1,346 @@
+SelfId
+spirit_id
+spirit_name
+title
+talk_spirit
+velocity
+word00
+index00
+word_color00
+cloud_color00
+word_name00
+word_result00
+word01
+index01
+word_color01
+cloud_color01
+word_name01
+word_result01
+word02
+index02
+word_color02
+cloud_color02
+word_name02
+word_result02
+word03
+index03
+word_color03
+cloud_color03
+word_name03
+word_result03
+word04
+index04
+word_color04
+cloud_color04
+word_name04
+word_result04
+word05
+index05
+word_color05
+cloud_color05
+word_name05
+word_result05
+word06
+index06
+word_color06
+cloud_color06
+word_name06
+word_result06
+word07
+index07
+word_color07
+cloud_color07
+word_name07
+word_result07
+word08
+index08
+word_color08
+cloud_color08
+word_name08
+word_result08
+word09
+index09
+word_color09
+cloud_color09
+word_name09
+word_result09
+R_SPIRIT0
+A
+Form
+Cute glasses
+Flat chest
+Swimsuit
+Mania appeal
+R_SPIRIT1
+同期版テスト6
+Talent
+R_SPIRIT2
+同期版テスト7
+Cuteness
+R_SPIRIT3
+同期版テスト8
+R_SPIRIT4
+同期版テスト9
+R_SPIRIT5
+同期版テスト10
+R_SPIRIT6
+非同期版テスト5
+R_SPIRIT7
+非同期版テスト6
+R_SPIRIT8
+非同期版テスト7
+R_SPIRIT9
+非同期版テスト8
+R_SPIRIT10
+非同期版テスト9
+R_SPIRIT11
+非同期版テスト10
+R_SPIRIT12
+ctg_001_01
+I am the...
+Boyfriend
+Senior
+Teacher
+Keeper
+Student
+Life
+R_SPIRIT13
+ctg_001_02
+Animals listen to...
+Strength
+Smarts
+Beauty
+Elegance
+Kindness
+Intimidation
+R_SPIRIT14
+プロローグおたま用
+The secret's in the...
+Fried Tofu
+Rice
+Water
+Dashi
+Sugar
+Mirin
+Vinegar
+Soy Sauce
+Talent
+R_SPIRIT15
+ctg_002_01
+The noise is...
+An animal
+Misheard
+A CD
+An incident
+A draft
+Boxing
+R_SPIRIT16
+ctg_002_02
+It's because of a...
+Nosebleed
+Movie Set
+Paint Set
+Murder
+Prank
+Lie
+R_SPIRIT17
+ctg_004_01
+What do you say?
+I'm sorry
+Let's talk
+I was worried
+Are you angry?
+Let's head back
+Lighten up!
+R_SPIRIT18
+ctg_005_01
+I'd be marooned with...
+You
+Onodera
+Tachibana
+Tsugumi
+Miyamoto
+Shuu
+Claude
+R_SPIRIT19
+ksk_001_01
+Why did you?
+Miyamoto
+Chitoge
+Worry
+Secret
+Tsugumi
+Shuu
+R_SPIRIT20
+ksk_002_01
+Did it hurt?
+It hurt
+It's okay
+Happens a lot
+It's working
+No problem
+It stings
+R_SPIRIT21
+ksk_003_01
+Talk about....
+Sweets
+Homework
+Miyamoto
+Your family
+Her family
+R_SPIRIT22
+ssr_001_01
+What do you say?
+Smile
+Scowl
+Sit still
+Embarrassing
+Quiet
+Let me draw
+R_SPIRIT23
+ssr_002_01
+Hug Seishiro how?
+Softly
+Lustfully
+Tightly
+Gently
+R_SPIRIT24
+ssr_004_01
+Apology?
+Unusual
+Do it cutely
+Smile
+No need
+All good
+Off-key
+R_SPIRIT25
+mrk_001_01
+Thoughts on Marika...
+Don't dislike
+Friend
+Usually Like
+Love....
+No comment
+Burdensome
+Pretty
+R_SPIRIT26
+mrk_002_01
+I prefer....
+Western
+Japanese
+Chinese
+Ethnic
+Italian
+French
+Space food
+R_SPIRIT27
+mrk_003_01
+To get her to rest...
+Prove it
+I'm worried
+You look pale
+Liar
+Good luck
+I trust you
+R_SPIRIT28
+mrk_004_01
+Are you hurt?
+You+Animals
+Chitoge
+10 years ago....
+You okay?
+R_SPIRIT29
+mrk_004_02
+Why aren't you liked?
+I dunno...
+They like me
+Beats me
+I like them
+Wish they did
+Help
+R_SPIRIT30
+rur_001_01
+The appeal is....
+They're cute
+I don't know
+The feel
+They're fluffy
+Indescribable
+The money
+R_SPIRIT31
+rur_002_01
+Why did you come here?
+I'm sorry
+To hang out
+Stopping by
+Creeping
+I'm lost
+Bringing a gift
+Searching
+R_SPIRIT32
+rur_002_02
+Looking for....
+Textbook
+Manga
+Keys
+A DVD
+Underwear
+R_SPIRIT33
+rur_003_01
+I chose you for your....
+R_SPIRIT34
+rak_002_01
+誰の様子を見に行く？
+千棘
+小咲
+誠士郎
+万里花
+るり
+集
+M
+TABLE
+GOP_TYPE
+GOP_SPIRIT
+FILENAME
+GOP_言霊キープ.xls
+EXPORT_FILE
+gop_spirit.gsv
+CREATE_TIME
+2013/09/24
+EXPORT_TIME
+2014/08/22 14:36
+CREATOR
+鈴木裕海
+EXPORTER
+HINABA
+ABOUT
+言霊キープのデータ
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+文字列
+enum定数
+32bit浮動小数
+RGB(0-255 の値3つ)
+TYPE
+RecId
+Int32
+String
+TALK_SPIRIT
+Float32
+Rgb
+TALK_RESULT
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2ciiii3(c)3(c)2cii
+

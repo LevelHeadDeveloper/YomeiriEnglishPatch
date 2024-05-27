@@ -1,0 +1,87 @@
+SelfId
+quiz_id
+quiz_name
+quiz_text
+answer_no
+select_1
+select_2
+select_3
+select_4
+time_limit
+text_time
+R_Quiz000
+Question 1
+What is the chemical formula for water?
+H2O2
+O2
+CO2
+H2O
+R_Quiz001
+Question 2
+"The Pillow Book" is[nl]a classic piece[nl]of literature written[nl]by who?
+Sei Shonagon
+Murasaki Shikibu
+Ki no Tsurayuki
+Ono no Komachi
+R_Quiz002
+Question 3
+In golf, what do you call[nl]the person who carries a[nl]player's clubs?
+Candy
+Caddy
+Catcher
+Carry
+R_Quiz003
+Question 4
+Japanese cooking usess[nl]5 basic ingredients:[nl]"Sa, Shi, Su, Se, So".[nl]What is "Se"?
+Back fat (Seabura)
+Salt (Shio)
+Soy Sauce (Seuyu)
+Celery (Serori)
+R_Quiz004
+Question 5
+In "Romeo and Juliet",[nl]Romeo was a Montague.[nl]What was Juliet's[nl]family name?
+Hamlet
+Capulet
+Gablet
+Ocelot
+M
+TABLE
+GOP_TYPE
+GOP_Quiz
+FILENAME
+GOP_クイズゲーム.xls
+EXPORT_FILE
+gop_quiz.gsv
+CREATE_TIME
+2014/04/07
+EXPORT_TIME
+2014/09/05 12:01
+CREATOR
+鈴木 裕海
+EXPORTER
+HINABA
+ABOUT
+クイズゲーム問題集
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+文字列
+8bit符号無し整数
+TYPE
+RecId
+Int32
+String
+UInt8
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENDSWPSTR
+iiiic3ciiiiii
+

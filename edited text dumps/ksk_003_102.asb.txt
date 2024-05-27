@@ -1,0 +1,37 @@
+__main
+@Lclearscreenall
+@ksk_003_102
+@expose
+KSK/KSK0003370
+......I'm usually also a taster at the shop.
+Kosaki's a taster!?
+I'll definitely have to go try it!
+Just a taster, huh...
+@ザクシャ小咲・１
+KSK/KSK0003380
+Thank you!
+KSK/KSK0003390
+Well....I actually haven't been able[nl]to help that much lately.
+Not much help?
+I'll try it anyway
+Being a taster is helping, right?
+KSK/KSK0003420
+T-That's right....[nl]You probably just want some delicious Japanese sweets.
+KSK/KSK0003430
+If you want to stop by, just let me know.
+@ksk_003_201
+KSK/KSK0003400
+Yes.
+KSK/KSK0003410
+It's delicious, if I do say so myself.
+@ksk_003_103
+KSK/KSK0003440
+Ah, but since I'm not helping with the actual cooking part,[nl]that just makes it more delicious and safer to eat!
+KSK/KSK0003450
+Hahh....[nl]It's making me sad to say it....
+KSK/KSK0003420
+KSK/KSK0003460
+I didn't make it![nl]Don't worry about it!
+common.asb
+ksk_003_201.asb
+ksk_003_103.asb

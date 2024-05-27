@@ -1,0 +1,88 @@
+SelfId
+chara_id
+situation
+info
+event_list_id
+R_MajikoiCTGSchool00
+At school with Chitoge.[nl]It's lunch time...
+R_MajikoiCTGDate00
+He had a date with Chitoge in town...[nl]But Raku was running late!!
+R_MajikoiCTGDream00
+Your new wife greets you at the door.[nl]The tiredness melts away...
+R_MajikoiCTGDream01
+After all, girls should be gentle...[nl]...Right??
+R_MajikoiKSKSchool00
+The sunset is casting shadows,[nl]you're at school with Kosaki...
+R_MajikoiKSKDate00
+You promised to meet her...[nl]Go out with Kosaki!
+R_MajikoiKSKDream00
+You get a call after graduation.[nl]Someone was waiting for the end of high school...
+R_MajikoiKSKDream01
+Onodera...is getting rebellious?[nl]I'm begging you, please go back!
+R_MajikoiSSRSchool00
+Lunchtime Strategy:[nl]A Turbulent Afternoon Begins
+R_MajikoiSSRDate00
+Have you been keeping up with our plans?[nl]Today's date assignment is...
+R_MajikoiSSRDream00
+Your new wife is shy.[nl]Newlywed life is surprisingly difficult...
+R_MajikoiSSRDream01
+Her true feelings are out!?[nl]She's aggressive today!
+R_MajikoiMRKSchool00
+Hectic lunch break.[nl]The usual lunchtime attack!
+R_MajikoiMRKDate00
+Holiday Date with Marika[nl]Enjoy a long, leisurely day.
+R_MajikoiMRKDream00
+Running to a cheap apartment...[nl]The honeymoon of poverty has begun
+R_MajikoiMRKDream01
+There's a cold going around...[nl]Marika's here to take care of you!
+R_MajikoiRURSchool00
+Joining Ruri's study group[nl]so I can help Onodera...
+R_MajikoiRURDate00
+Everyone else cancelled their plans![nl]Ruri and I are going out together...
+R_MajikoiRURDream00
+Newlywed life is supposed to be sweet...[nl]What is this marriage?
+R_MajikoiRURDream01
+Suddenly your vision goes black...[nl]Who the hell is laughing!?
+M
+TABLE
+GOP_TYPE
+GOP_Majikoi
+FILENAME
+GOP_マジコイ＋画面.xls
+EXPORT_FILE
+gop_majikoi.gsv
+CREATE_TIME
+2014/01/24
+EXPORT_TIME
+2014/08/15 17:30
+CREATOR
+鈴木 裕海
+EXPORTER
+KMIYAKAWA
+ABOUT
+マジコイ＋画面で使用される説明と実行されるイベントID
+FIELD
+INFO
+このGOPデータのID
+enum定数
+文字列
+32bit符号付き整数
+TYPE
+RecId
+CHARA_ID
+MAJIKOI_SITUATION
+String
+Int32
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiii
+

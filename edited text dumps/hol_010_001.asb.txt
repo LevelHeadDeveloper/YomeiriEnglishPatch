@@ -1,0 +1,69 @@
+__main
+@Lclearscreenall
+@hol_010
+@イベント開始処理
+@定型ＢＧＭ再生
+@hol_010_001
+RAK/RAK0066190
+I'm not busy....
+RAK/RAK0066200
+I can't just sit around, though.[nl]I'm going to clean up the house.
+@ＢＧＭ停止
+@フェードアウト
+@ＢＧＭ再生
+@背景変更
+RYU/RYU0001610
+Oh, I'm sorry.[nl]The young master was even doing laundry....
+RAK/RAK0066210
+We're a big family.[nl]I depend on you guys to feed me[nl]so you can depend on me to do this housework.
+RAK/RAK0066220
+Besides, you guys do everything during the week.[nl]Let me help you with the cooking, cleaning[nl]and laundry today.
+RYU/RYU0001620
+Mh... Young master.[nl]What a fine man you've grown up to be![nl]I guess I raised you right after all!
+RYU/RYU0001630
+You're a bit of a weak fighter, but when it comes[nl]to pure manliness, you're the best in all of Japan![nl]No, the whole world!
+RAK/RAK0066230
+That's hardly a nice compliment...                                
+@フェードアウト
+@背景変更
+RYU/RYU0001640
+Young master, what do you think of these seasonings?[nl]It's a combination I saw on TV a while back.[nl]A popular chef was using them...  
+RAK/RAK0066240
+Ohh! This is delicious![nl]You have to tell me what this is!
+RYU/RYU0001650
+Of course![nl]It should be pretty easy to show you while[nl]we make lunch.
+RAK/RAK0066250
+By the way, I made some inari sushi using a new method[nl]I invented. You should try it.
+RYU/RYU0001660
+Ehh... Young master, you've been making a lot[nl]of that fried tofu stuff lately, right?[nl]The stuff they offer at that one inari shrine...  
+RAK/RAK0066260
+Well, because there's someone nearby who keeps[nl]pestering me for food.
+RYU/RYU0001670
+Phew... You have strange friends.
+@背景変更2
+RYU/RYU0001680
+Phew... I've finished cleaning the bathroom.
+RAK/RAK0066270
+I'm tired as hell from all that housework,[nl]I guess I'm just not used to it.[nl]May I take a bath first?
+RYU/RYU0001690
+Oh, of course!
+RYU/RYU0001700
+Then, as the young head of the Shuei-gumi, allow me[nl]to be so presumptuous as to wash your backside!
+RAK/RAK0066280
+No thanks![nl]You're really embarassing me!
+RAK/RAK0066290
+Oh, I've finished prepping dinner, and I've got everyone's[nl]favorite sake chilled, so I'll leave the rest to you, Ryuu.
+RYU/RYU0001710
+Y-Young master![nl]What a capable young man!
+RYU/RYU0001720
+You'll make a great son-in-law to someone, kid![nl]I guarantee it!
+RAK/RAK0066300
+Hehe, stop it. You're embarassing me.
+@expose
+.........
+OTM/OTM0007280
+Raku... I thinketh that thou must try harder to[nl]just enjoy thy high-school years....
+OTM/OTM0007290
+I fear for thy future if things continue like this.
+@イベント終了処理
+common.asb

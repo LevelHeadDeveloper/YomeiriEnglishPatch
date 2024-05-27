@@ -1,0 +1,397 @@
+__main
+@Lclearscreenall
+@ksk_001
+@イベント開始処理
+SYU/SYU0000550
+Ahh, another lovely day~![nl]Raku, how about some karaoke with everyone?
+RAK/RAK0007130
+Sorry, man, I'm pretty busy with this.
+@expose
+SYU/SYU0000560
+Hmm? What is that? Homework?[nl]You're doing it already?
+RAK/RAK0007140
+It's that homework that was due today.[nl]I accidentally forgot about it.
+STK/STK0000010
+This is the Student Council! Listen up![nl]We're recruiting new members today![nl]If you're bored with your mundane life, come join up!
+STK/STK0000020
+I eagerly await everyone's applications...!
+SYU/SYU0000570
+Oho, sounds like the stakes are high.
+SYU/SYU0000580
+But it seems like you're all set, Raku.[nl]Your life is filled with excitement and hijinks, with[nl]no time for mediocrity or boredom!
+RAK/RAK0007150
+Well...I won't deny that.
+RAK/RAK0007160
+...But will you stop talking? You're distracting me!
+@ＢＧＭ再生
+KSK/KSK0000650
+Hah-...Sorry.
+RAK/RAK0007170
+Hm-!? O-Onodera!!
+RAK/RAK0007180
+(O-Oh no!![nl] What the hell was that timing...!?)
+KSK/KSK0000660
+Ah, um...I'm sorry if I interrupted you![nl]I'll talk to you about it later, it's not that urgent...
+RAK/RAK0007190
+Aah, no! I'm not busy at all! I was talking to Shuu just now![nl]Feel free to talk to me about anything you need to!
+SYU/SYU0000590
+Ehehehe...
+KSK/KSK0000670
+Well, okay. Today's Ruri's day to help the teacher,[nl]and she has to gather up all the homework and[nl]bring it over to her office.
+KSK/KSK0000680
+She doesn't have yours yet, so I came to come get it...
+RAK/RAK0007200
+(Gaahhhh![nl] I usually remember to bring my homework, but the one day[nl] I don't...Why did it have to be today!!)
+RAK/RAK0007210
+Sorry, Onodera.[nl]I'm not quite finished with it yet, so I'll bring[nl]it to Miyamoto myself later.
+KSK/KSK0000690
+Oh, no. It's okay. I'll wait.[nl]I'm not busy today.
+RAK/RAK0007220
+Really? Thanks.[nl]Well, I'll get right to work on it then!!
+KSK/KSK0000700
+No need to rush it.[nl]Take your time.
+RAK/RAK0007230
+(Gahhh...![nl] Onodera, you're an angel...!)
+KSK/KSK0000710
+But come to think of it, Ichijo,[nl]I think this is the first time I've seen you[nl]doing your homework here at school.
+SYU/SYU0000600
+It's just like you to go to that kind of trouble, Raku.
+RAK/RAK0007240
+Hmm? What do you mean?
+SYU/SYU0000610
+You're doing it yourself instead of just asking[nl]to copy notes from someone else.[nl]You really don't cut corners, do you.
+RAK/RAK0007250
+Of course.[nl]If you don't do the work yourself, then there's no point.
+KSK/KSK0000720
+...I see. So that's it.
+KSK/KSK0000730
+That's exactly what I like about.....
+KSK/KSK0000740
+------!
+RAK/RAK0007260
+...Hm? What is it?
+KSK/KSK0000750
+Nothing! I didn't say anything![nl]I mean, I was just saying I liked the assignment!
+KSK/KSK0000760
+A-Anyway, I'll be waiting! Bye!!
+RAK/RAK0007270
+O-Okay....
+@時間経過演出
+RAK/RAK0007280
+Alright, done![nl]Sorry to keep you waiting, Onodera!
+KSK/KSK0000770
+No, no worries.[nl]Good work, Ichijo!
+RAK/RAK0007290
+(Aah, talking with Onodera is great.[nl] I feel like it soothes my soul, or something...)
+KSK/KSK0000780
+Let's see....homework.....
+RAK/RAK0007300
+Ah, here they are![nl]Well then, here.
+KSK/KSK0000790
+Ah-
+RAK/RAK0007310
+(Wah...![nl] I brushed her finger by accident...!!)
+KSK/KSK0000800
+Um, S-S-Sorry![nl]I had my hand there....!!
+RAK/RAK0007320
+No, no, it was my fault!
+SYU/SYU0000620
+Well, well, well![nl]You young one these days are delightful~~.
+RAK/RAK0007330
+What the heck are you talking about![nl]You're a young one these days, too!
+@ＢＧＭ停止
+MST/MST0000010
+Um, excuse me.
+RAK/RAK0007340
+Hmm?
+MST/MST0000020
+Have any of you seen Kosaki Onodera around here?
+RAK/RAK0007350
+(...Is he an upperclassman?[nl] I don't think I recognize him...)
+KSK/KSK0000810
+Um, yes. Did you need me?
+MST/MST0000030
+Ah, Onodera!
+KSK/KSK0000820
+Y-Yes......!?
+MST/MST0000040
+I have something very important to ask you!
+MST/MST0000050
+I don't feel like we can talk here...[nl]Can we go somewhere else?
+KSK/KSK0000830
+...Hm? Sure....
+RAK/RAK0007360
+Onodera. Should I just give the homework to Miyamoto,[nl]after all?
+KSK/KSK0000840
+Uhh, okay.[nl]Thank you.
+RAK/RAK0007370
+Mhm.
+KSK/KSK0000850
+Let's go...
+RAK/RAK0007380
+(What was that just now...?)
+RUR/RUR0000430
+A massive problem.
+RAK/RAK0007390
+Ohh! Miyamoto!?[nl]When did you get here!?
+SYU/SYU0000630
+Hi, Ruri.[nl]How are you today?
+RUR/RUR0000440
+Hmph.
+RAK/RAK0007400
+Oh, well, I guess it works out.[nl]Here's my homework. Sorry it took so long.
+RUR/RUR0000450
+------------
+RUR/RUR0000460
+...Forget about the homework.
+RAK/RAK0007410
+Huh!? What does that mean?
+RUR/RUR0000470
+You're denser than a brick...[nl]If a boy has something very important to ask a girl,[nl]but he can't ask it around other people, what is it?
+RUR/RUR0000480
+A confession!
+@ＢＧＭ再生
+RAK/RAK0007420
+Wha-....
+RAK/RAK0007430
+A c-confession-------!?!?!?
+SYU/SYU0000640
+Yup.
+RAK/RAK0007440
+N-No... Waitwaitwaitwaitwait...[nl]How could you possibly know that from that conversation?[nl]He never said anything like that!?
+RUR/RUR0000490
+Are you a moron? What kind of idiot would just say to her[nl]"Hey, I need to confess my love. Please come with me."?
+RAK/RAK0007450
+I guess you're right...
+RAK/RAK0007460
+(Well, it's not implausible...!)[nl] Onodera's super-cute and popular with the guys,[nl] so of course she could get a confession...!!)
+RAK/RAK0007470
+(Gahhhhh, a confession? A love confession!?)
+SYU/SYU0000650
+Well, Raku? Are you just going to let that happen?
+RAK/RAK0007480
+W-Well, that's--!!
+RAK/RAK0007490
+(I don't like it, but I don't feel right stopping him...)
+CTG/CTG0007790
+Hey, what's everyone yelling about...?
+CTG/CTG0007800
+I heard something about a confession...?
+RUR/RUR0000500
+Some guy just came looking for Kosaki[nl]so he could ask her something.
+SSR/SSR0000690
+That sounds like a challenge! It's a duel![nl]Then I'll go...!
+SYU/SYU0000660
+No, no, it isn't.[nl]Though making that kind of mistake makes you[nl]even cuter, Seishiro~!!
+SSR/SSR0000700
+This isn't the time to talk like that![nl]If Mistress Onodera is in mortal danger,[nl]then we must go save her immediately...!
+RAK/RAK0007500
+I really don't think she's in any real danger...
+RUR/RUR0000510
+You never know. He might've pushed her down...
+RAK/RAK0007510
+P-Pushed her down...!?[nl]Right after confessing his love!?
+RUR/RUR0000520
+It's entirely possible.[nl]We can't just take the chance that she'll[nl]come home crying, can we, Ichijo?
+RAK/RAK0007520
+(Onodera crying.....That wouldn't be good![nl] What should we do...!?)
+Check on Onodera
+Don't check on Onodera
+RAK/RAK0007530
+...I'm going to go make sure she's okay.
+RAK/RAK0007540
+Maybe it's a little nosy, but I'm worried!
+CTG/CTG0007810
+Hold on, Raku! I'm going too![nl]I'm also worried about Kosaki.
+RAK/RAK0007550
+What's the point of going to check on her?[nl]It's up to her whether she goes out with him.
+CTG/CTG0007820
+You're cold![nl]Aren't you at all worried about her?
+RAK/RAK0007560
+I never said I wasn't worried![nl]That's not the point...
+RUR/RUR0000530
+Slacker...
+RAK/RAK0007570
+Eh?
+RUR/RUR0000540
+There's no time for complaining. Let's go.
+RAK/RAK0007580
+Wait...Miyamoto!?[nl]You're really going!?
+CTG/CTG0007830
+We're all going! Let's get the hell over there, Darling!
+@ＨＰ－１０
+RAK/RAK0007590
+Ouch!?
+SSR/SSR0000710
+I'm coming too. Even if this punk is an amateur opponent,[nl]I'll be there in case you need me!
+SYU/SYU0000670
+Oh, me too, me too.[nl]Can't let the girls have all the fun all the time, can we!
+@フェードアウト
+@スクリーン変更
+RAK/RAK0007600
+Look...It's Onodera!
+KSK/KSK0000860
+Um.....But, even so.....
+SYU/SYU0000680
+Oh, lucky![nl]We can even hear her voice!
+CTG/CTG0007840
+Shhh! Quiet!
+MST/MST0000060
+Please, Onodera...
+MST/MST0000070
+I need you!!
+RAK/RAK0007610G
+!!!
+RAK/RAK0007620
+(Whaaaaaaaaaa!?[nl] That's definitely a confession!)
+RUR/RUR0000560
+.....Color me surprised.[nl]There really was a confession after all.
+RAK/RAK0007630
+Hey...Miyamoto, you mean you didn't actually think it would[nl]happen!? You gave that whole passionate speech about[nl]something out-of-pocket!
+CTG/CTG0007860
+Ssssshhhhhhhh!![nl]Quiet, you...!
+MST/MST0000080
+I need you with me.[nl]I'm begging you...!!
+RAK/RAK0007640
+Guuu...!
+RAK/RAK0007650
+(How is she going to respond...?[nl] Crap! What should I do? Can I do anything!?)
+RAK/RAK0007660
+(No, wait! Focus![nl] Whatever she decides,[nl] I'll support that decision...!)
+KSK/KSK0000870
+Uh, um, I...
+KSK/KSK0000880
+I'm sorry!!
+RAK/RAK0007670
+(Huh.....She just....turned him down?)
+RAK/RAK0007680
+(What a relief...)
+RAK/RAK0007690
+(What kind of man am I, being relieved that[nl] another man got shot down!?)
+SSR/SSR0000730
+Raku Ichijo, are you feeling okay?[nl]Your face is red and pale at the same time...
+RAK/RAK0007700
+Yeah! Never better![nl]Never mind that!
+MST/MST0000090
+You can't just...?[nl]If you refuse, then I'll...!
+KSK/KSK0000890
+I'm really glad you asked me.....[nl]But it would be difficult.....I'm really sorry.....!
+MST/MST0000100
+Could you please think it over one more time?[nl]I'm desperate...!
+KSK/KSK0000900
+No, but.....Um.....
+RAK/RAK0007710
+(Onodera, it looks like you're in danger![nl] Why doesn't he just back off!?)
+SYU/SYU0000700
+He's very persistent.
+SSR/SSR0000740
+This guy couldn't even be in the same room as a man,[nl]let alone call himself one![nl]Permission to fight?
+Let me take care of him.
+We'll wait and see what happens.
+@ザクシャるり・小
+RUR/RUR0000570
+------!?
+CTG/CTG0007870
+Huh!? Wait, Raku!
+RAK/RAK0007720
+It's alright, it's Onodera after all.[nl]I'm sure nothing bad will happen.
+SSR/SSR0000750
+But since you said that....
+SYU/SYU0000710
+Oops, my hand slipped!!♪[nl]Boooom!!
+@画面揺らし2
+RAK/RAK0007730
+Tch!? Shuu, what the hell....!
+CTG/CTG0007880
+Kyah! Hey, stop pushing....!
+RAK/RAK0007740
+Owww....!!
+KSK/KSK0000910
+Eeh....Ichijo!? And everyone else...[nl]What are you doing here!?
+RAK/RAK0007750
+(Damn, it can't be helped now!)
+RAK/RAK0007760
+Hey, punk! Step back if you call yourself a man![nl]Stop bothering Onodera!
+MST/MST0000110
+Oh. Am I bothering you?
+KSK/KSK0000920
+T-The thing is....
+KSK/KSK0000930
+....Yeah. To tell you the truth....[nl]Maybe you are bothering me a little.
+MST/MST0000120
+Really? Oh.[nl]I didn't mean to pester you...
+MST/MST0000130
+Okay, I'll leave you alone.[nl]But you know where to go if you change your mind.
+KSK/KSK0000940
+Y-Yes...![nl]Again, I'm really sorry!
+RAK/RAK0007770
+(He left...)
+RAK/RAK0007780
+Onodera, are you okay?
+KSK/KSK0000950
+Eh...? Y-Yes, I was able to turn him down, at least...[nl]But I feel like I did something wrong to him.[nl]You even took the trouble to tell him off....
+CTG/CTG0007890
+Don't talk like that![nl]After all, what's the point of dating if it's[nl]someone you don't like!?
+KSK/KSK0000960
+Eh? Well, you're right....
+KSK/KSK0000970
+But I don't really dislike him.[nl]I just feel like I'm not cut out for that kind of thing.
+KSK/KSK0000980
+Besides, between my homework, and helping out around[nl]the house, and my other clubs, it would just be too much....
+RUR/RUR0000580
+Hm? Helping out at home?
+SYU/SYU0000720
+Other clubs?
+.........
+RAK/RAK0007790
+.....Hold on a sec.[nl]So what you're saying is...
+KSK/KSK0000990
+What is it, Ichijo?
+RAK/RAK0007800
+Okay, just to make sure.....[nl]Just now, that guy confessed his love to you, right?
+KSK/KSK0001000
+.....Confessed his love?
+KSK/KSK0001010
+....Huh.....Huuhh!??
+KSK/KSK0001020
+T-Th-Th-That wasn't it![nl]That was an officer from the student council....He just[nl]wanted some extra help, because they're so short!
+RAK/RAK0007810
+Huh? Ah- Ah-
+RAK/RAK0007820
+I-Is that right....?
+KSK/KSK0001030
+Y-Yes....!
+CTG/CTG0007900
+Well, what the hell! We got all worried for nothing!
+SSR/SSR0000760
+I'm glad it wasn't serious.
+RAK/RAK0007830
+(Wait....So I grossly misunderstood the situation and said[nl] something really embarassing just now...)
+KSK/KSK0001040
+Um, wait....Ichijo, why did you think that...?
+RAK/RAK0007840
+W-Well, see...
+SYU/SYU0000730
+Well, looks like nothing happened![nl]I think we should head back.
+RUR/RUR0000590
+We should.[nl]I'm reluctant to agree with you though, Maiko.
+SYU/SYU0000740
+Ahaha.....[nl]Don't be shy, Ruri-chan~.
+RUR/RUR0000595
+Hmph!
+@キャラ揺らし
+SYU/SYU0000750
+Gwagh!
+RUR/RUR0000600
+Are you coming, Chitoge?
+CTG/CTG0007910
+Yep. Raku, we're going ahead.
+RAK/RAK0007850
+(Shuu....You did so I could be alone with Onodera, right?)
+RAK/RAK0007860
+(....Or did you do it so I'd have to explain[nl] this whole mess?)
+RAK/RAK0007870
+(Either way....[nl] I have to explain it somehow!)
+@ksk_001_101
+common.asb
+ksk_001_101.asb

@@ -1,0 +1,93 @@
+__main
+@Lclearscreenall
+@hol_002
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0066660
+Today's Sunday, hmm...?
+@hol_010_001
+RAK/RAK0066670
+I don't have anything to do today,[nl]so what should I do?
+Housework[nl]
+Give a gift[nl]
+RAK/RAK0067080
+There's still too much junk in here...
+OTM/OTM0007650
+If it bothers thee still,[nl]why not give something to one of the girls again?
+RAK/RAK0067100
+Why did you appear so suddenly?
+OTM/OTM0007660
+Never mind. Who art thou giving a gift?
+RAK/RAK0067110
+(How about...)
+@hol_002_SEL
+Chitoge
+Onodera
+Tsugumi
+Tachibana
+@hol_002_001
+RAK/RAK0066740
+How about Chitoge?
+OTM/OTM0007540
+Mhm. That blonde girl, right?[nl]Alright, she'll do.
+@hol_001_101
+OTM/OTM0007670
+Hm. The blonde again?
+@hol_002_101
+@hol_002_002
+RAK/RAK0066840
+Maybe Onodera...?
+OTM/OTM0007590
+Mhm. That one with the Japanese sweets?[nl]Sure. Let's go.
+@hol_001_201
+OTM/OTM0007700
+Hm. That sweets girl again, I see.
+@hol_002_201
+@hol_002_003
+RAK/RAK0066990
+Well... How about Tsugumi? 
+OTM/OTM0007630
+Mhm. The one who wears guys' clothes?[nl]Okay. We'll go with her.
+@hol_001_301
+OTM/OTM0007720
+Hm. The tomboy again, huh? 
+@hol_002_301
+@hol_002_004
+RAK/RAK0066920
+Hmm... I guess Tachibana?
+OTM/OTM0007610
+Mhm. That girl with all those cops?[nl]That'll work.
+@hol_001_401
+OTM/OTM0007710
+That cop girl again?
+@hol_002_401
+@hol_002_005
+@expose
+OTM/OTM0007570
+Oh! We don't have a good item for the blonde!
+OTM/OTM0007600
+Oh! We don't have the right item for that sweets girl!
+OTM/OTM0007640
+Oh! We don't have the right item for that tomboy!
+OTM/OTM0007620
+Oh! We don't have the right item for the cop girl!
+RAK/RAK0066820
+Huh!? Really? 
+@hol_002_006
+Then maybe Chitoge...
+Then maybe Onodera...
+Then maybe Tsugumi...
+Let's just forget it.
+@hol_001_007
+Then maybe Tachibana...
+common.asb
+hol_010_001.asb
+hol_001_101.asb
+hol_002_101.asb
+hol_001_201.asb
+hol_002_201.asb
+hol_001_301.asb
+hol_002_301.asb
+hol_001_401.asb
+hol_002_401.asb
+hol_001_001.asb

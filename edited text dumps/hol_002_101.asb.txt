@@ -1,0 +1,45 @@
+__main
+@Lclearscreenall
+@hol_002_101
+OTM/OTM0007690
+I think one of these'll be good.
+RAK/RAK0066750
+Let's see... 
+@プレゼント選択
+RAK/RAK0066760
+I hope she likes it...
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+CTG/CTG0015500
+Yes, yes. Who's~?
+RAK/RAK0066770
+It's me. Raku.
+@ＢＧＭ再生
+CTG/CTG0015560
+Huh? Darling??[nl]Is something wrong?
+RAK/RAK0067120
+It's not much, but here.
+@プレゼント表示
+@expose
+CTG/CTG0015520
+...! This is...!
+@ザクシャ千棘・大
+CTG/CTG0015570
+I know you gave me one of these already, but...[nl]Could I have this one, also?
+RAK/RAK0067130
+Sure. I don't have much use for it.
+RAK/RAK0067140
+Well then, I'm off.
+CTG/CTG0015580
+There you go, trying to just go home again![nl]Have ten or twenty cups of tea and then leave!
+RAK/RAK0067150
+If I drink that much, I'll get a stomachache!
+RAK/RAK0067160
+...But I might as well have one or two.
+CTG/CTG0015590
+Yes, yes, come on in.
+RAK/RAK0066810
+(I had a great time at Chitoge's house this Sunday.)
+@イベント終了処理
+common.asb

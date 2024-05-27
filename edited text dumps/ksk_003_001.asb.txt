@@ -1,0 +1,135 @@
+__main
+@Lclearscreenall
+@ksk_003
+@イベント開始処理
+RAK/RAK0008980
+(Right, I wonder what I should make for dinner tonight....)
+KSK/KSK0002710
+Ichijo!
+RAK/RAK0008990
+Huh!?
+@ＢＧＭ再生
+KSK/KSK0002720
+Oh, it is you after all, Ichijo.
+RUR/RUR0000610
+You recognized him from awfully far away, Kosaki.
+KSK/KSK0002730
+Ah, hahaha.....[nl]He stands out, I guess....
+RAK/RAK0009000
+(Huh? Do I really stand out that much....?)
+@expose
+RUR/RUR0000620
+Headed home?
+RAK/RAK0009010
+Yeah. I'm gonna stop and grab some stuff for dinner[nl]first, though.
+KSK/KSK0002740
+Is that so?[nl]What are you making?
+RAK/RAK0009020
+I haven't decided yet.[nl]Yesterday we had grilled ginger, and I was thinking[nl]I might make some Western food today.
+RAK/RAK0009030
+It's a pretty big household, so I need to[nl]pick a recipe that feeds a lot of people as well.
+KSK/KSK0002750
+I see. Something you can make a lot of at once.[nl]That makes sense.
+RAK/RAK0009040
+Yeah.[nl]I just wish I knew more recipes....
+............
+RUR/RUR0000630
+See you later, Kosaki.[nl]I just remembered I have to do something. Bye.
+KSK/KSK0002760
+R-Ruri!?
+RUR/RUR0000640
+Take care of Kosaki for me, Ichijo.
+RAK/RAK0009050
+Oh, okay....?
+RUR/RUR0000650
+Kosaki. Do your best, okay!?
+KSK/KSK0002770
+------------
+RAK/RAK0009060
+(What did she mean "do your best"?[nl] Is Onodera in some kind of trouble.....?)
+KSK/KSK0002780
+Ah, um....[nl]Are you going somewhere after this?
+RAK/RAK0009070
+Well.....[nl]Just a quick stop the grocery store.
+KSK/KSK0002790
+Ah....[nl]Y-You did mention that!
+RAK/RAK0009080
+(Hm, wait! This is....[nl] A situation where I can be alone with Onodera....!?[nl] We could take a detour....)
+Take her on a detour
+Don't take a detour
+RAK/RAK0009090
+Ah, um..... Onodera, if you have a few minutes extra,[nl]would you like to take a detour?
+KSK/KSK0002800
+Eh...?
+RAK/RAK0009100
+I-I mean, if you're busy you can totally turn me down!
+KSK/KSK0002810
+N-No!
+@ザクシャ小咲・小
+KSK/KSK0002820
+I-I might.....[nl]I might also want to take a detour....
+RAK/RAK0009110
+I see. Alright.[nl]Let's go, then.
+KSK/KSK0002830
+Okay!
+RAK/RAK0009120
+(No, I guess we can't take a detour after all....)
+RAK/RAK0009130
+Well, I'll see you around, Onodera.
+KSK/KSK0002840
+Eh? Oh, okay.....
+RAK/RAK0009140
+(Aah, I'm such a wuss![nl] Even with the perfect opportunity to be alone with her....)
+KSK/KSK0002850
+Kyah!
+RAK/RAK0009150
+Hm?
+RAK/RAK0009160
+(Was that Miyamoto just now?[nl] I thought she had to go do something...)
+KSK/KSK0002860
+Uhh....um, Ichijo?
+KSK/KSK0002870
+Ummm, uh....[nl]W-Would you like to go.....halfway home with me?
+RAK/RAK0009170
+Hm?
+RAK/RAK0009180
+Oh, sure. Of course![nl]Wait....should we take a detour?
+KSK/KSK0002880
+RAK/RAK0009190
+(I don't know how, but I sure got lucky there!)
+@時間経過演出
+RAK/RAK0009200
+(W-What the hell....)
+RAK/RAK0009210
+(I always thought it would be fairly easy to make[nl]conversation if we were alone together, but I can't think of[nl] a single thing to talk about....!)
+RAK/RAK0009220
+(If it's like this every single time,[nl] Onodera will be disappointed....)
+RAK/RAK0009230
+(I mean, what if I'm boring her right now?)
+KSK/KSK0002890
+.....Oh.
+RAK/RAK0009240
+Huh!?
+RAK/RAK0009250
+(Our eyes met....!)
+KSK/KSK0002900
+S-Sorry!
+RAK/RAK0009260
+N-No.[nl]No need to apologize.
+KSK/KSK0002910
+That seems to happen a lot,[nl]our eyes meeting like that.
+RAK/RAK0009270
+Really, I guess it's a coincidence. Haha.
+KSK/KSK0002920
+......Walking like this, just the two of us,[nl]it kind of makes me nervous.
+RAK/RAK0009280
+......You too, huh?
+KSK/KSK0002930
+Yes.[nl]I always seem to be a bit more nervous around you.
+RAK/RAK0009290
+(Does that mean she's at least[nl] a little bit conscious of me?)
+RAK/RAK0009300
+(Alright! I have to take the lead now...!)
+@ksk_003_101
+common.asb
+ksk_003_101.asb

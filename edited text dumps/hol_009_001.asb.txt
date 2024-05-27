@@ -1,0 +1,181 @@
+__main
+@Lclearscreenall
+@hol_009
+@イベント開始処理
+@hol_009_001
+RAK/RAK0065910
+Yawwwn.[nl]I think I'll just sleep all day.
+RAK/RAK0065920
+...Zzz, Zzz... 
+OTM/OTM0007130
+Hey, Raku! 
+@画面揺らし2
+RAK/RAK0065930
+Gwah! G-Get off my stomach![nl]What the hell are you doing!?
+@expose
+OTM/OTM0007140
+Raku! Let's go!
+RAK/RAK0065940
+I'm sleepy, but...
+OTM/OTM0007150
+Thou shalt clean the shrine today! Get ready!
+@叫び揺れ
+RAK/RAK0065950
+Heyheyheyhey! I got it,[nl]let go of my arm!
+@ＢＧＭ停止
+@時間経過演出
+OTM/OTM0007160
+There's still some garbage over there![nl]Clean it up properly!
+RAK/RAK0065960
+Okay, okay![nl]Damn... This fox girl is really rough with people.
+RAK/RAK0065970
+I can't believe we're cleaning the shrine[nl]on a Sunday afternoon....
+OTM/OTM0007170
+As the grounds becometh beautiful through cleanliness,[nl]I can feel my body and soul becoming clearer.[nl]Ahh... It's so pleasant~.
+RAK/RAK0065980
+It's great that you're happy, but I still need to pick up all[nl]these fallen leaves, and wipe down the shrine...[nl]This is gonna take all day.
+OTM/OTM0007180
+Hmm? Thou needn't be so meticulous.[nl]As long as the trash gets picked up,[nl]thou canst just do the rest quickly and roughly.
+RAK/RAK0065990
+No, as long as I'm doing something,[nl]I'm going to do it right!
+OTM/OTM0007190
+As usual...
+OTM/OTM0007200
+Hm!? Someone approaches[nl]I shalt leave for a bit. Away...
+SYU/SYU0012820
+Yo, Raku![nl]Hey.... Are you here by yourself?
+SYU/SYU0012830
+I thought I heard you talking to someone when I was[nl]passing by, but... I guess you were talking to yourself.
+SYU/SYU0012840
+It's kinda scary...!
+RAK/RAK0066000
+I-It's okay, really![nl]Also, if you're free, I'd appreciate a hand with this.
+SYU/SYU0012850
+What do you need me to do?
+RAK/RAK0066010
+Help me clean this temple. It would take forever if[nl]I tried to do it myself.
+SYU/SYU0012860
+I see... If that's the case, just let me handle it.
+SYU/SYU0012870
+Ya~, ha~, h.....a~.[nl]Alright, sent! 
+RAK/RAK0066020
+Who did you just email?
+SYU/SYU0012880
+Hehehe... In around ten minutes,[nl]you should start calling me "Master Shuu"[nl]out of gratitude and respect.
+RAK/RAK0066030
+...Huh?
+@ＢＧＭ再生
+KSK/KSK0017520
+T-Thanks for waiting, Ichijo!
+KSK/KSK0017530
+Maiko's email said you were going to[nl]clean up this shrine, right?[nl]I'm here to help!
+RAK/RAK0066040
+Thank you, Master Shuu! 
+SYU/SYU0012890
+Bah, ha ha ha![nl]It doesn't get any better than this!
+MRK/MRK0011540
+Raku dearest, thank you for your patience![nl]I'm here to help you, too!
+CTG/CTG0015440
+It's a lot of trouble, but if my boyfriend needs help,[nl]I have to be there.
+SSR/SSR0020560
+I can't have the mistress cleaning up without me.[nl]Leave it to me, Raku Ichijo!
+RAK/RAK0066050
+O, Oh!?[nl]Did you call everyone? 
+SYU/SYU0012900
+It's more fun to clean when all these cute girls[nl]are helping you! I'm the man!
+RAK/RAK0066060
+Yeah, I guess you are the man...
+RUR/RUR0012550
+Looks like I got here last.
+RAK/RAK0066070
+Oh, you're here too, Miyamoto!?
+RUR/RUR0012560
+Yes. I'm here for the tasty baked- I mean,[nl]I'm here to help my classmates.
+RAK/RAK0066080
+Baked... What?
+RUR/RUR0012570
+Right, let's get to cleaning.[nl]I'll thoroughly clean up these fallen leaves.
+KSK/KSK0017540
+Ruri... Is that a sweet potato that just fell out of your bag?
+RAK/RAK0066090
+You're here for baked sweet potatoes, Miyamoto...
+CTG/CTG0015450
+Alright, let's finish up cleaning and then we can[nl]have a sweet potato party!
+KSK/KSK0017550
+Oh!♪
+OTM/OTM0007210
+Hm. Raku, thou doth have a lot of good friends.
+OTM/OTM0007220
+...The shrine is livelier now than it ever has been[nl]since I started living here.
+@時間経過演出
+RAK/RAK0066100
+Phew... I think we're done.[nl]Now, as for these leaves...
+RUR/RUR0012580
+No good. We don't have enough.
+RAK/RAK0066110
+Huh, what?
+RUR/RUR0012590
+We don't have enough leaves to bake enough[nl]sweet potatoes for the number of people here.
+RAK/RAK0066120
+I mean... It looks like we've got at least[nl]20 sweet potatoes as it is. Is that not enough?
+CTG/CTG0015460
+If we don't have enough leaves,[nl]why not grab some from the trees?
+KSK/KSK0017560
+We shouldn't do that, Chitoge.[nl]Wouldn't it be better to leave the healthy leaves alone?
+MRK/MRK0011550
+But then we can't have our baked potato party.
+SSR/SSR0020570
+Raku Ichijo... do you have any suggestions?
+RAK/RAK0066130
+Well, let me think...
+OTM/OTM0007230
+(Good grief, I guess I have to...) 
+RAK/RAK0066140
+(Huh...was that Otama speaking just now!?)
+OTM/OTM0007240
+(Thanks for cleaning up.... Enjoy thyselves!)
+CTG/CTG0015470G
+Kyaa!!
+SSR/SSR0020580
+It-It's so windy now!
+MRK/MRK0011560
+Well! Look at all the leaves that just fell!
+RUR/RUR0012600
+Looks like we have enough now!
+RAK/RAK0066150
+Otama....
+SYU/SYU0012910
+Alright, Raku![nl]Let's all gather around for a baked potato party!
+RAK/RAK0066160
+Oh, okay! 
+@背景変更
+CTG/CTG0015480
+Yum!★ It's so fluffy and delicious~!
+RUR/RUR0012610
+Nom nom nom.... I could eat these all day.
+SYU/SYU0012920
+Ah, um, Ruri!? That one was mine... .
+SSR/SSR0020590
+It's amazing. It just came off the fire, but it's so[nl]sweet and delicious.
+KSK/KSK0017580
+Won't they get mad at us[nl]for having a fire without an adult?
+MRK/MRK0011570
+Don't worry about that.[nl]Honda's keeping an eye on us. 
+CTG/CTG0015490
+I think Claude might be around here as well.[nl]In a way, we are accompanied by an adult.
+KSK/KSK0017590
+Ahaha... That's a relief..
+........ 
+@フェードアウト
+RAK/RAK0066170
+Here, I have one for you.
+RAK/RAK0066180
+You're the one who made our party possible.[nl]Eat well... Otama.
+OTM/OTM0007250
+Thy tone makes it sound like thou art dead.[nl]Hardly a good sign....
+OTM/OTM0007260
+Nom...
+OTM/OTM0007270
+Mmm. It's almost as good as fried tofu!
+@イベント終了処理
+common.asb

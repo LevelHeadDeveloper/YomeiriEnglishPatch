@@ -1,0 +1,34 @@
+__main
+@Lclearscreenall
+@ksk_002_102
+@expose
+KSK/KSK0002050
+I shouldn't have tried to treat you, right?
+Who can help you?
+I want Onodera to heal me
+I can't do it myself
+KSK/KSK0002060
+M-Me?[nl]Are you sure?
+Well, who else is here?
+Yes, you!
+KSK/KSK0002090
+Y-Yes, that's right.....[nl]There are only two of us here.....
+@ksk_002_103
+@ksk_002_201
+@ザクシャ小咲・１
+KSK/KSK0002070
+I-Is that so.....
+........
+KSK/KSK0002080
+Um....If you keep looking at me like that,[nl]I'll get embarrassed....!
+KSK/KSK0002100
+Well.....[nl]I guess I'll be quiet then....
+KSK/KSK0002110
+Yeah, that's also true....
+KSK/KSK0002120
+Sorry, that was a weird thing to say.
+KSK/KSK0002130
+That's right....[nl]Okay, I'll be quiet.....
+common.asb
+ksk_002_103.asb
+ksk_002_201.asb

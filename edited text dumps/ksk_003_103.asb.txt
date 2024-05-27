@@ -1,0 +1,29 @@
+__main
+@Lclearscreenall
+@ksk_003_103
+@expose
+KSK/KSK0003470
+Sweetshop Onodera has a great fall lineup.[nl]Please come try it sometime!
+@ksk_003_ana01_success
+KSK/KSK0003480
+Yes! We'll be waiting for you!
+@ザクシャ小咲・１
+@ksk_003_ana01_another
+KSK/KSK0003490
+Eh, what!?[nl]What's wrong!?
+KSK/KSK0003500
+It's okay! I'm not the one who makes them![nl]So don't worry!
+KSK/KSK0003450
+Hahh...[nl]Saying that makes me sad....
+@ksk_003_ana01_failure
+KSK/KSK0003510
+Huh? What did you say?
+KSK/KSK0003520
+Sorry.[nl]I don't think I heard right.
+@ksk_003_ana01_timeout
+KSK/KSK0003530
+Huh? Why are you silent?
+@ksk_003_103_end
+@ksk_003_201
+common.asb
+ksk_003_201.asb

@@ -1,0 +1,94 @@
+SelfId
+oldmaid_id
+oldmaid_name
+player_id_1
+card_taken_prob
+post_card_taken_prob
+voice_event_wait_count
+ai_select_prob
+pre_discard_prob
+discard_prob
+win_prob
+filename_2dc
+filename_pic
+pic_offset
+probability_Joker
+pairing_rate
+cursor_move_count
+cursor_move_speed
+select_wait_min
+select_wait_max
+face_0
+face_1
+face_2
+face_3
+face_taiman
+ui_face
+ui_tactics
+ui_decide
+ui_luck
+R_OldMaidCharaRaku
+Raku Ichijo
+%s_oldmaid.2dc
+%s_nwuni0f.2dc
+R_OldMaidCharaChitoge
+Chitoge Kirisaki
+R_OldMaidCharaKosaki
+Kosaki Onodera
+R_OldMaidCharaSeishirou
+Seishiro Tsugumi
+R_OldMaidCharaMarika
+Marika Tachibana
+R_OldMaidCharaRuri
+Ruri Miyamoto
+R_OldMaidCharaSyuu
+Shuu Maiko
+R_OldMaidCharaOtama
+Otama
+%s_nwprv0f.2dc
+M
+TABLE
+GOP_TYPE
+GOP_OldMaidChara
+FILENAME
+GOP_ババ抜キャラクター設定.xls
+EXPORT_FILE
+gop_oldmaidchara.gsv
+CREATE_TIME
+13/07/22
+EXPORT_TIME
+2014/08/27 22:19
+CREATOR
+栗原　弘樹
+EXPORTER
+KMIYAKAWA
+ABOUT
+ババ抜きキャラクター設定GOP
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+文字列
+enum定数
+数値
+3次元ベクトル(浮動小数)
+TYPE
+RecId
+Int32
+String
+CHARA_ID
+Vector3
+Float32
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiiiiiiiii3(f)iiiiiiiiiiiiiii
+

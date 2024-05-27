@@ -1,0 +1,177 @@
+__main
+@Lclearscreenall
+@hol_004
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0012800
+Hi, Raku! Over here, over here!
+RAK/RAK0064390
+Am I the last one here?
+KSK/KSK0017430
+Yes. Ruri and Tachibana left to get some[nl]gifts at the flea market.
+@expose
+SSR/SSR0020460
+I hope you have a present as well. 
+RAK/RAK0064400
+Wait!? Come to think of it, I couldn't find a good one! 
+CTG/CTG0015380
+Hmph, I thought that might happen. 
+SYU/SYU0012810
+Why don't you also head to the flea market?[nl]You might find a real bargain!
+RAK/RAK0064410
+Okay. I'll hurry! 
+@フェードアウト
+@背景変更
+RAK/RAK0064420
+Hmmm...[nl]Accessories, some toys and games, even books.
+RAK/RAK0064430
+...I guess I'll play it safe with an accessory.[nl]If a girl gets it, great. If a guy gets it, he can[nl]give it to one of is friends.
+RAK/RAK0064440
+Ummm... what sort of accessory should I get...?
+Ribbon
+Necklace
+Hair Clip
+Earrings
+RAK/RAK0064450
+...A ribbon, huh?[nl]I bet it would look great on Chitoge.
+RAK/RAK0064460
+I'm not saying she's likely to get it, but...
+RAK/RAK0064470
+Okay... I'll get this one!
+RAK/RAK0064480
+I like this necklace. It has a nice air of maturity.[nl]If Onodera wore something like this,[nl]I'll bet it would look great...
+RAK/RAK0064490
+Not that she'll necessarily get it, but...
+RAK/RAK0064500
+Tachibana always has a hair clip kinda like this one.[nl]I bet it would look great on her.
+RAK/RAK0064510
+Well, that doesn't mean Tachibana will get it, but...
+RAK/RAK0064520
+For now, I'll buy this one.
+RAK/RAK0064530
+Oh, these earrings are pretty stylish.[nl]I bet Tsugumi would look great wearing them.
+RAK/RAK0064540
+I'm not saying she'll necessarily end up with them, but...
+RAK/RAK0064550
+For now, we'll try this one.
+RYU/RYU0001530
+Everyone, please be patient![nl]Let's find out who got which gifts!
+RYU/RYU0001540
+Everyone, please open what you were given!
+RAK/RAK0064560
+(Hey, I wonder who got my gift?)
+CTG/CTG0015390
+Waa, this ribbon is adorable!
+RAK/RAK0064570
+Whoa, Chitoge actually got it!
+CTG/CTG0015400
+Huh? It says here it's from Raku!?
+RAK/RAK0064580
+I saw that ribbon and thought it would[nl]look great on you, so I got it.[nl]I didn't think you'd really end up with it.
+@ザクシャ千棘・大
+CTG/CTG0015410
+Hehe, I see. I wasn't supposed to get it.
+CTG/CTG0015420
+But, I might be happy.[nl]My saying that is a high point for you as a boyfriend.
+CTG/CTG0015430
+...I'll wear it on one of our dates sometime.[nl]You'll notice when I do, right?
+KSK/KSK0017450
+Ahhh~, this necklace is beautiful.
+RAK/RAK0064590
+Whoa!? It seriously ended up with Onodera!?
+KSK/KSK0017460
+Huh? By any chance, is this present from Ichijo?
+RAK/RAK0064600
+Uhh, that's right... 
+@ザクシャ小咲・大
+KSK/KSK0017470
+Hehh... It feels so nice and mature.[nl]I love it.
+KSK/KSK0017480
+But I wonder if it would suit me with how childish I am?
+RAK/RAK0064610
+Don't talk like that![nl]It suits you better that anyone else here!
+KSK/KSK0017490
+I-Is that so?
+KSK/KSK0017500
+....If you say so, I'll believe it. 
+KSK/KSK0017510
+I'll wear this the next time I go out.[nl]Thank you, Ichijo,
+MRK/MRK0011470
+Oh my, it's a hair clip. 
+RAK/RAK0064620
+Oh, wow! I can't believe you actually got it.
+MRK/MRK0011480
+Ehhh!?[nl]So, this is the present that Raku dearest picked out?
+RAK/RAK0064630
+It's the one that caught my eye.[nl]I figured it would suit you if you got it, right?
+@ザクシャ万里花・小
+MRK/MRK0011490
+So, this means that Raku dearest[nl]has given me a gift...
+RAK/RAK0064640
+Well, I guess. 
+MRK/MRK0011500
+A gift, given to me by Raku dearest out of love...
+RAK/RAK0064650
+Where did that come from!?
+@expose2
+MRK/MRK0011510
+Raku dearest! I'm so happy I could die![nl]I'm so lucky, I'm so happy, I'm so gosh darn happy~~~~!
+RAK/RAK0064660
+Oh, okay... So you like it.[nl]I'm glad.
+MRK/MRK0011520
+I'll put this hair clip in a glass case, and then I'll buy an[nl]anti-theft infrared sensor so no one can steal it...
+RAK/RAK0064670
+N-No, you can just use it normally.[nl]It wasn't that expensive. 
+MRK/MRK0011530
+But it's something you gave me, Raku dearest.[nl]It's worth more to me than any expensive gift.
+SSR/SSR0020470
+Hmm... Earrings?[nl]I don't think I've ever worn something like these...
+RAK/RAK0064680
+Tsugumi actually got them!
+SSR/SSR0020480
+What!? ...So, this is the present you picked out?
+RAK/RAK0064690
+That's right.[nl]I thought they would look cool if you wore them,[nl]but I didn't think you'd actually get them!
+@ザクシャ誠士郎・中
+SSR/SSR0020490
+S-Stop trying to flatter me![nl]I wouldn't look that great in earrings.
+RAK/RAK0064700
+That's not true.[nl]Put it on and go find the guy you like.[nl]He'll probably compliment you.
+SSR/SSR0020500
+そ、そんなヤツはいない！
+RAK/RAK0064710
+Hey, why are you yelling?[nl]I'm kinda surprised...
+SSR/SSR0020510
+Jeez...
+SSR/SSR0020520
+...Next time, I'll put these earrings on, [nl]so you can see how I look. 
+RAK/RAK0064720
+Huh...? 
+SSR/SSR0020530
+It's what you said earlier.[nl]I want to see if you really think they suit me.
+RAK/RAK0064730
+...Do you actually like them? 
+SSR/SSR0020540
+S-Shut up![nl]Who could be happy with a present from you!!?
+SSR/SSR0020550
+I'm not happy with it! I don't like it!! 
+RAK/RAK0064740
+Right, right... I get it.[nl]You're angry, probably embarrassed...[nl]You're having a hard time.
+RAK/RAK0064750
+(I'm glad you liked it.)
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0066660
+Is today Sunday...? 
+RAK/RAK0067330
+I don't really have any errands,[nl]so I'll do some housework...
+OTM/OTM0007760
+Thou art a pain in the ass.[nl]thou has been so carefree all this time,[nl]and the promised month is almost up.
+RAK/RAK0067340
+Hmm... Well, what will be will be, right?
+OTM/OTM0007780
+Take it easy. Jeez.
+RAK/RAK0067350
+(I was able to do some housework on Sunday.)
+@イベント終了処理
+common.asb

@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@hol_001
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0066660
+It's Sunday, huh...
+@hol_009_001
+RAK/RAK0066670
+I didn't have any real plans...[nl]What should I do?
+Sleep through
+Give someone a gift.
+RAK/RAK0066680
+I've got an awful lot of junk in here...
+OTM/OTM0007510
+If thou hast something thou needeth not,[nl]you could give it to one of your friends.
+RAK/RAK0066710
+Hmm? Would anyone like any of this?
+@expose
+OTM/OTM0007520
+It's the thought that counts, I'm told[nl]I think it's also important to whomst thou giveth it.
+RAK/RAK0066720
+That's really smart, ya know.
+OTM/OTM0007530
+That's because I'm smart![nl]Now, who art thou giving a gift?
+RAK/RAK0066730
+(Well....)
+@hol_001_SEL
+Chitoge...
+Onodera...
+Tsugumi...
+Tachibana...
+@hol_001_001
+RAK/RAK0066740
+How about Chitoge?
+OTM/OTM0007540
+Mhm. That blonde girl, right?[nl]Alright, she'll do.
+@hol_001_101
+@hol_001_002
+RAK/RAK0066840
+Maybe Onodera...?
+OTM/OTM0007590
+Mhm. That one with the Japanese sweets?[nl]Sure. Let's go.
+@hol_001_201
+@hol_001_003
+RAK/RAK0066990
+Well... How about Tsugumi?
+OTM/OTM0007630
+Mhm. The one who wears guys' clothes?[nl]Okay. We'll go with her.
+@hol_001_301
+@hol_001_004
+RAK/RAK0066920
+Hmm... I guess Tachibana?
+OTM/OTM0007610
+Mhm. That girl with all those cops?[nl]That'll work.
+@hol_001_401
+@hol_001_005
+OTM/OTM0007570
+Oh! We don't have a good item for the blonde!
+OTM/OTM0007600
+Oh! We don't have the right item for that sweets girl!
+OTM/OTM0007640
+Oh! We don't have the right item for that tomboy!
+OTM/OTM0007620
+Oh! We don't have the right item for the cop girl!
+RAK/RAK0066820
+Huh!? Really? 
+@hol_001_006
+Then maybe Chitoge...
+Then maybe Onodera...
+Then maybe Tsugumi...
+Let's just forget it.
+Then maybe Tachibana...
+@hol_001_007
+OTM/OTM0007580
+You're a real loser...[nl]Fine, then. You can just spend[nl]your Sunday alone and lonely.
+RAK/RAK0066830
+(Well, there's nothing to be done.)
+@イベント終了処理
+common.asb
+hol_009_001.asb
+hol_001_101.asb
+hol_001_201.asb
+hol_001_301.asb
+hol_001_401.asb

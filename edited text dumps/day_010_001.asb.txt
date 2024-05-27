@@ -1,0 +1,15 @@
+__main
+@Lclearscreenall
+@day_010
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0067480
+Alright, it's all clean.
+RAK/RAK0067490
+--Why the hell am I cleaning my room?[nl]I have homework!!
+OTM/OTM0007850
+It's what we call "escapism".
+RAK/RAK0067500
+W-w-w-whaaa, no...![nl]I don't have any time left to sleep!
+@イベント終了処理
+common.asb

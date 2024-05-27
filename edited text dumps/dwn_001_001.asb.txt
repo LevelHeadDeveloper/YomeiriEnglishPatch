@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@dwn_001
+@イベント開始処理
+@dwn_001_001
+RAK/RAK0067510
+(It's no use... I can't... stay up...)
+RAK/RAK0067520
+Ugh....
+SYU/SYU0013110
+Huh? Raku, you good?
+RAK/RAK0067530
+Yeah, I just need... a sec....
+@pan
+@ＢＧＭ再生
+SYU/SYU0013120
+H-Hey! Raku!
+SYU/SYU0013130
+Ms. Kyoko![nl]I'm gonna take him to the infirmary!
+KYK/KYK0000510
+Okay-.[nl]Have a good rest, Ichijo~!
+RAK/RAK0067540
+Ungh....
+RAK/RAK0067550
+(I guess I strained myself too much....)
+@ＢＧＭ停止
+@フェードアウト
+@ＨＰ＋１０
+@イベント終了処理
+common.asb

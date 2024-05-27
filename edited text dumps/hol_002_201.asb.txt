@@ -1,0 +1,47 @@
+__main
+@Lclearscreenall
+@hol_002_201
+OTM/OTM0007690
+I think one of these'll be good.
+RAK/RAK0066750
+Let's see... 
+@プレゼント選択
+RAK/RAK0066760
+I hope she likes it...
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+KSK/KSK0017600
+Welcome~!
+@expose
+KSK/KSK0017610
+--Oh, I-Ichijo!?
+RAK/RAK0066850
+H-Hello, Onodera.
+KSK/KSK0017670
+A-Are you here for some Japanese sweets?
+RAK/RAK0067170
+No, I'm actually here because[nl]I wanted to give you this...
+@プレゼント表示
+KSK/KSK0017630
+...! T-This is...!
+@ザクシャ小咲・大
+KSK/KSK0017680
+Amazing.[nl]I was just wishing I had one of these...
+KSK/KSK0017690
+But, are you really sure I can have it?
+RAK/RAK0066870
+Oh, of course.[nl]That's why I brought it.
+RAK/RAK0066880
+Well then, I'm headed home.
+KSK/KSK0017700
+Aah, wait a second![nl]Since you're here, we might as well have[nl]some tea and sweets!
+RAK/RAK0066890
+Eeh? R-Really?
+RAK/RAK0066900
+Well... thank you, then.
+RAK/RAK0066910
+(I had a great time at Onodera's house this Sunday.)
+@イベント終了処理
+common.asb

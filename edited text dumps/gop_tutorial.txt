@@ -1,0 +1,59 @@
+SelfId
+tutorial_id
+page_num
+enable_common
+tutorial_name
+R_TutorialMAP
+チュートリアル：マップ選択
+R_TutorialMAJIKOI
+チュートリアル：マジコイ＋
+R_TutorialOLDMAID
+Tutorial: Old Maid
+R_TutorialMAP_2
+Tutorial: Map Selection (Round 2)
+R_TutorialTOUCHPART
+Tutorial: Touch Part
+M
+TABLE
+GOP_TYPE
+GOP_Tutorial
+FILENAME
+GOP_チュートリアル.xls
+EXPORT_FILE
+gop_tutorial.gsv
+CREATE_TIME
+2014/03/28
+EXPORT_TIME
+2014/08/18 15:27
+CREATOR
+鈴木 裕海
+EXPORTER
+KFURUTA
+ABOUT
+チュートリアルデータ
+FIELD
+INFO
+このGOPデータのID
+enum定数
+32bit符号付き整数
+真偽値(true, false), ON/OFF, 1byte
+文字列
+TYPE
+RecId
+TUTORIAL_ID
+Int32
+bool
+String
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiic3ci
+

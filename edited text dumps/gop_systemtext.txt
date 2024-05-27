@@ -1,0 +1,276 @@
+SelfId
+szText
+F
+R_SystemTextTestText
+テスト文字列です
+R_SystemTextSaveLoadCheck
+Checking save data...
+R_SystemTextSaveLoadSysSaving
+Saving data.[nl]Please do not turn off the power.
+R_SystemTextSaveLoadSysSaved
+Save complete.
+R_SystemTextSaveLoadSysLoading
+Loading data...
+R_SystemTextSaveLoadSysLoaded
+Save data loaded.
+R_SystemTextSaveLoadSysCreating
+Creating save data...
+R_SystemTextSaveLoadSysCreated
+Save data created.
+R_SystemTextSaveLoadAskCreate
+No save data exists for this game.[nl]Would you like to create one?
+R_SystemTextSaveLoadAskNoData
+Are you sure you wish to proceed without[nl]creating save data?[nl](Save data can also be created later.)
+R_SystemTextSaveLoadAskBroken
+Your save data is corrupted.[nl]Erasing save data and making a new file.
+R_SystemTextSaveLoadXmbProjectTitle
+ニセコイ　ヨメイリ！？
+R_SystemTextSaveLoadXmbSystemDataTitle
+Save data
+R_SystemTextSaveLoadXmbGameDataTitlePro
+Slot %03d     Prologue
+R_SystemTextSaveLoadXmbGameDataTitleNormal
+Slot %03d     Day %02d
+R_SystemTextSaveLoadXmbGameDataTitleRoute
+Slot %03d     %s Route
+R_SystemTextSaveLoadXmbAutoGameDataTitle
+Autosave Data
+R_SystemTextSaveLoadXmbSystemSaveDataText
+This data saves information such as clear status.
+R_SystemTextSaveLoadXmbGameDataDetailFormat
+Save data for Nisekoi: Yomeiri!?
+R_SystemTextSaveLoadXmbAutoGameDataDetailFormat
+Autosave data for Nisekoi: Yomeiri!?
+R_SystemTextAutoSaveCheck
+Checking autosave data.
+R_SystemTextAutoSaveSaving
+Autosaving.[nl]Please do not turn off the power.
+R_SystemTextAutoSaveSaved
+R_SystemTextAutoSaveCreating
+Creating autosave data...
+R_SystemTextAutoSaveCreated
+Autosave data created.
+R_SystemTextAutoSaveAskCreate
+Autosave data for this game does not exist.[nl]Would you like to create one?
+R_SystemTextAutoSaveAskNoData
+Are you sure you wish to proceed without[nl]creating autosave data?[nl](Autosave data can be created later.)
+R_SystemTextAutoSaveAskBroken
+Your autosave data is corrupted.[nl]Erasing autosave data and creating a new file.
+R_SystemTextPrologueConfirmNormal
+Would you like to start from the prologue?
+R_SystemTextPrologueConfirmMain
+R_SystemTextPrologueConfirmMainFirst
+Would you like to view the prologue?
+R_SystemTextPrologueTakeOver
+#fs{20}By carrying over item data from the previous lap, you[nl]can view new events that were not previously unlocked.[nl](Even if you choose not to do this, the data will be[nl]available for use later.)[nl]Would you like to carry over the item data for this game?#fs{}
+R_SystemTextPrizeRouteRur
+Ruri Route unlocked.
+R_SystemTextPrizeRouteRak
+Raku Route unlocked.
+R_SystemTextPrizeModeMajikoi
+Majikoi+ Mode unlocked.
+R_SystemTextPrizeModeGallery
+Gallery Mode unlocked.
+R_SystemTextPrizeMajikoiCtg
+Chitoge has been added to Majikoi+.
+R_SystemTextPrizeMajikoiKsk
+Kosaki has been added to Majikoi+.
+R_SystemTextPrizeMajikoiSsr
+Seishiro has been added to Majikoi+.
+R_SystemTextPrizeMajikoiMrk
+Marika has been added to Majikoi+.
+R_SystemTextPrizeMajikoiRur
+Ruri has been added to Majikoi+.
+R_SystemTextPrizeSneak
+Stealth Game has been added to Playground.
+R_SystemTextPrizeBaba
+Old Maid has been added to Playground.
+R_SystemTextPrizeFreeTalk
+Free Talk has been added to Gallery.
+R_SystemTextPrizeVoiceRak
+Raku has been added to Navi Characters.
+R_SystemTextPrizeVoiceOtm
+Otama has been added to Navi Characters.
+R_SystemTextPrizeVoiceRur
+Ruri has been added to Navi Characters.
+R_SystemTextPrizeVoiceSyu
+Shuu has been added to Navi Characters.
+R_SystemTextPrizeFreeTalkRak
+Raku has been added to Free Talk.
+R_SystemTextPrizeFreeTalkCtg
+Chitoge has been added to Free Talk.
+R_SystemTextPrizeFreeTalkKsk
+Kosaki has been added to Free Talk.
+R_SystemTextPrizeFreeTalkSsr
+Seishiro has been added to Free Talk.
+R_SystemTextPrizeFreeTalkMrk
+Marika has been added to Free Talk.
+R_SystemTextPrizeFreeTalkRur
+Ruri has been added to Free Talk.
+R_SystemTextPrizeFreeTalkSyu
+Shuu has been added to Free Talk.
+R_SystemTextPrizeFreeTalkOtm
+Otama has been added to Free Talk.
+R_SystemTextPrizeFreeTalkCld
+Claude has been added to Free Talk.
+R_SystemTextPrizeFreeTalkRyu
+Ryuu has been added to Free Talk.
+R_SystemTextPrizeFreeTalkRap
+Raku's Dad has been added to Free Talk.
+R_SystemTextPrizeFreeTalkCtp
+Chitoge's Dad has been added to Free Talk.
+R_SystemTextPrizeFreeTalkMrp
+Marika's Dad has been added to Free Talk.
+R_SystemTextPrizeFreeTalkHnd
+Honda has been added to Free Talk.
+R_SystemTextPrizeFreeTalkKyk
+Ms. Kyoko has been added to Free Talk.
+R_SystemTextPrizeFreeTalkAno
+Unused voices have been added to Free Talk.
+R_SystemTextMapSelectSkipDaytime
+Would you like to skip time?
+R_SystemTextMapSelectSkipAfterSchool
+R_SystemTextADVGetItem
+Obtained %s.
+R_SystemTextADVUnknownItem
+???
+R_SystemTextADVNextHandItemList
+To next passable list of items
+R_SystemTextSettingReturnSet
+Save settings and exit?
+R_SystemTextSettingReturnNoSet
+Exit without changing settings?
+R_SystemTextSettingTitleReturnSet
+Save settings and return to title screen?
+R_SystemTextSettingTitleReturnNoSet
+Return to title screen without saving settings?
+R_SystemTextMajikoiReturnTitle
+Return to title screen?
+R_SystemTextMajikoiGoConfirm
+Are you sure you want to start?
+R_SystemTextMajikoiCtgOpen
+Chitoge unlocked.
+R_SystemTextMajikoiKskOpen
+Kosaki unlocked.
+R_SystemTextMajikoiSsrOpen
+Seishiro unlocked.
+R_SystemTextMajikoiMrkOpen
+Marika unlocked.
+R_SystemTextMajikoiRurOpen
+Ruri unlocked.
+R_SystemTextMajikoiCtgNormal
+Chitoge's "School" and "Date" events are now available.
+R_SystemTextMajikoiCtgDlc1
+Chitoge's "Marriage" events are now available.
+R_SystemTextMajikoiCtgDlc2
+Chitoge's "Yumekoi" events are now available.
+R_SystemTextMajikoiKskNormal
+Kosaki's "School" and "Date" events are now available.
+R_SystemTextMajikoiKskDlc1
+Kosaki's "Marriage" events are now available.
+R_SystemTextMajikoiKskDlc2
+Kosaki's "Yumekoi" events are now available.
+R_SystemTextMajikoiSsrNormal
+Seishiro's "School" and "Date" events are now available.
+R_SystemTextMajikoiSsrDlc1
+Seishiro's "Marriage" events are now available.
+R_SystemTextMajikoiSsrDlc2
+Seishiro's "Yumekoi" events are now available.
+R_SystemTextMajikoiMrkNormal
+Marika's "School" and "Date" events are now available.
+R_SystemTextMajikoiMrkDlc1
+Marika's "Marriage" events are now available.
+R_SystemTextMajikoiMrkDlc2
+Marika's "Yumekoi" events are now available.
+R_SystemTextMajikoiRurNormal
+Ruri's "School" and "Date" events are now available.
+R_SystemTextMajikoiRurDlc1
+Ruri's "Marriage" events are now available.
+R_SystemTextMajikoiRurDlc2
+Ruri's "Yumekoi" events are now available.
+R_SystemTextMajikoiExitConfirm
+Would you like to exit Majikoi+?
+R_SystemTextSneakGiveup
+This will result in a Stealth Failure. Proceed?
+R_SystemTextGalleryReturnTitle
+R_SystemTextGalleryGoOldMaid
+Begin Old Maid?
+R_SystemTextGalleryGoSneak
+Begin Stealth Game?
+R_SystemTextGalleryBgmNone
+???
+R_SystemTextOlaMaidExitMessage
+Quit Old Maid?
+R_SystemTextOlaMaidPauseMessage
+Paused
+R_SystemTextOlaMaidResult_rak_1
+Alright, first place!
+R_SystemTextOlaMaidResult_rak_2
+Hehe, okay~!
+R_SystemTextOlaMaidResult_ctg_1
+Yaaay! I got first place!
+R_SystemTextOlaMaidResult_ctg_2
+Hehe~! That's what I'm talking about!
+R_SystemTextOlaMaidResult_ksk_1
+Yes! I won!
+R_SystemTextOlaMaidResult_ksk_2
+Hehehe, I'm glad.
+R_SystemTextOlaMaidResult_ssr_1
+I got first place...!
+R_SystemTextOlaMaidResult_ssr_2
+Excuse me. I believe I won.
+R_SystemTextOlaMaidResult_mrk_1
+This is the power of true love!
+R_SystemTextOlaMaidResult_mrk_2
+I cannot be defeated in this game.
+R_SystemTextOlaMaidResult_rur_1
+Looks like I got lucky.
+R_SystemTextOlaMaidResult_rur_2
+Power? No, just luck.
+R_SystemTextOlaMaidResult_syu_1
+Iyaah~, sometimes my talent scares even me!
+R_SystemTextOlaMaidResult_syu_2
+Hey, hey, can we play the king game now? Please?
+R_SystemTextOlaMaidResult_otm_1
+Well? Can you now see the sheer power I possess?
+R_SystemTextOlaMaidResult_otm_2
+Ho ho ho![nl]You may feel free to praise me even more~!
+R_SystemTextSelectTimeOut
+Out of time
+M
+TABLE
+GOP_TYPE
+GOP_SystemText
+FILENAME
+GOP_システムテキスト.xls
+EXPORT_FILE
+gop_systemtext.gsv
+CREATE_TIME
+2013/07/22
+EXPORT_TIME
+2014/07/25 15:17
+CREATOR
+鈴木　裕海
+EXPORTER
+KMIYAKAWA
+ABOUT
+システムで使用する文字列定義
+FIELD
+INFO
+このGOPデータのID
+文字列
+TYPE
+RecId
+String
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENDSWPSTR
+ii
+

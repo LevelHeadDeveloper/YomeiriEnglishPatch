@@ -1,0 +1,108 @@
+__main
+@Lclearscreenall
+@hol_003
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0066660
+Today's Sunday, huh...
+RAK/RAK0066670
+I don't really have plans,[nl]what should I do?
+Sleep through
+Give a gift
+RAK/RAK0067210
+Alright! I'm gonna get some good sleep~~~!
+RAK/RAK0067220
+Zzz....
+OTM/OTM0007730
+Napping again...[nl]Maybe I picked the wrong person. 
+OTM/OTM0007740
+At this rate, I'll never reach my goal...[nl]I'm not sure what will happen...
+RAK/RAK0067230
+Nmmm.... Zzzz...
+@イベント終了処理
+RAK/RAK0067240
+Mhm. I have just as much junk as before.
+OTM/OTM0007650
+If thou hast something else thou needeth not,[nl]why not give it to one of those girls again?
+OTM/OTM0007750
+Here. Who shall it be this time?
+RAK/RAK0067250
+How about... 
+@hol_003_SEL
+...Chitoge?
+...Onodera?
+...Tsugumi?
+..Tachibana?
+@hol_003_001
+RAK/RAK0066740
+How about Chitoge?
+OTM/OTM0007540
+Mhm. That blonde girl, right?[nl]Alright, she'll do.
+@hol_001_101
+OTM/OTM0007670
+Hmm. The blonde again... 
+@hol_002_101
+@hol_003_101
+@hol_003_002
+RAK/RAK0066840
+How about Onodera? 
+OTM/OTM0007590
+Mhm. That one with the Japanese sweets?[nl]Sure. Let's go.
+@hol_001_201
+OTM/OTM0007700
+Hmm. That sweets girl again...? 
+@hol_002_201
+@hol_003_201
+@hol_003_003
+RAK/RAK0066990
+How about... Tsugumi?
+OTM/OTM0007630
+Mhm. The one who wears guys' clothes?[nl]Okay. We shalt go with her.
+@hol_001_301
+OTM/OTM0007720
+I see. The tomboy again.
+@hol_002_301
+@hol_003_301
+@hol_003_004
+RAK/RAK0066920
+Hmm... I guess Tachibana?
+OTM/OTM0007610
+Mhm. That girl with all those cops?[nl]That'll work.
+@hol_001_401
+OTM/OTM0007710
+The cop girl again..? 
+@hol_002_401
+@hol_003_401
+@hol_003_005
+@expose
+OTM/OTM0007570
+Oh! We don't have a good item for the blonde!
+OTM/OTM0007600
+Oh! We don't have the right item for that sweets girl!
+OTM/OTM0007640
+Oh! We don't have the right item for that tomboy!
+OTM/OTM0007620
+Oh! We don't have the right item for the cop girl!
+RAK/RAK0066820
+Huh!? Seriously?
+@hol_003_006
+Then maybe Chitoge...
+Then maybe Onodera...
+Then maybe Tsugumi...
+Let's just forget it.
+@hol_001_007
+Then maybe Tachibana...
+common.asb
+hol_001_101.asb
+hol_002_101.asb
+hol_003_101.asb
+hol_001_201.asb
+hol_002_201.asb
+hol_003_201.asb
+hol_001_301.asb
+hol_002_301.asb
+hol_003_301.asb
+hol_001_401.asb
+hol_002_401.asb
+hol_003_401.asb
+hol_001_001.asb

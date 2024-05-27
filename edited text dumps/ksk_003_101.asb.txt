@@ -1,0 +1,117 @@
+__main
+@Lclearscreenall
+@ksk_003_101
+@2ショット開始
+Lead Onodera!
+KSK/KSK0002940
+I hope you have something good to talk about.....
+..........
+@expose
+KSK/KSK0002950
+Um........
+KSK/KSK0002960
+Ahaha.....
+KSK/KSK0002970
+It's a little embarrasing to be face to face like this...
+KSK/KSK0002980
+Hahh....
+@ksk_003_01_ans01
+KSK/KSK0002990
+Huh?[nl]Which of this month's sweets do I recommend?
+KSK/KSK0002300
+Umm....
+KSK/KSK0003010
+How about the new daifuku with chestnut bean paste?
+KSK/KSK0003020
+If you like, you can come stop by our shop and try it?
+Will you?
+Are you sure!?
+I'll help you with your work...
+@ザクシャ小咲・１
+@expose
+KSK/KSK0003030
+Yes, of course.[nl]You've been so nice to me.
+KSK/KSK0003040
+Haha.[nl]I won't do that to one of my valued customers.
+KSK/KSK0003050
+Don't be shy.[nl]If you want to stop by and grab some sweets,[nl]let me know, OK?
+@ksk_003_102
+@ksk_003_01_ans02
+KSK/KSK0003060
+Um--....
+KSK/KSK0003070
+I haven't been able to do much homework lately.
+She isn't studying?
+How come?
+You're slouching.
+KSK/KSK0003080
+I'm pretty busy with the shop.
+KSK/KSK0003090
+Oh. It's not as though I'm doing it on purpose, y'know?
+KSK/KSK0003100
+It's just that I'm pretty busy with the shop....
+KSK/KSK0003110
+Is it the same for you, Ichijo?
+KSK/KSK0003120
+For me, it's because I'm pretty busy with the shop....
+KSK/KSK0003130
+I'm developing a new daifuku, with chestnuts,[nl]but it's hard....Everyone's tastes are so different.
+@ksk_003_01_ans03
+KSK/KSK0003140
+Lately, Ruri and I have been talking a lot about sweets.
+KSK/KSK0003150
+She eats a lot, so she knows all about good food.
+How to respond?
+She needs to watch her weight
+Appearances are deceiving
+KSK/KSK0003180
+You shouldn't be telling girls they're fat, okay?
+KSK/KSK0003190
+Besides, she's not gaining any weight.[nl]She swims a lot.
+KSK/KSK0003200
+I guess I should probably get some exercise as well....
+...........
+KSK/KSK0003210
+U-um, you know what?
+KSK/KSK0003160
+That is true.
+KSK/KSK0003170
+She's got such a small body,[nl]where does she put all that food?
+KSK/KSK0003220
+But the main reason we're talking about sweets is...
+KSK/KSK0003230
+Right now, she's helping me develop[nl]a new chestnut daifuku.
+@ksk_003_01_ans04
+KSK/KSK0003240
+By the way, is your family fond of Japanese sweets?
+Do they like sweets?
+Yes
+No
+KSK/KSK0003250
+Really? That's great!
+KSK/KSK0003260
+I wonder what their tastes are....
+KSK/KSK0003270
+I see....I'm a bit surprised.
+KSK/KSK0003280
+They always struck me as the kind of family that liked[nl]everything Japanese style....
+KSK/KSK0003290
+But it's not like they don't eat them at all, is it?
+KSK/KSK0003300
+Maybe Japanese sweets aren't that well liked....?
+KSK/KSK0003310
+Right now, our shop is developing a new chestnut daifuku.
+@ksk_003_01_ans05
+KSK/KSK0003320
+We're working on our fall lineup of sweets right now.
+KSK/KSK0003330
+It's a daifuku with chestnut bean paste....
+KSK/KSK0003340
+Would you like to stop by and try it sometime, Ichijo?
+@ksk_003_01_ans06
+KSK/KSK0003350
+Uhh, um....
+KSK/KSK0003360
+R-Right now, our shop is working on our[nl]new menu of sweets.
+common.asb
+ksk_003_102.asb

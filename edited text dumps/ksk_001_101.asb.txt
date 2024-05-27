@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@ksk_001_101
+@2ショット開始
+Convince Kosaki!
+@ＢＧＭ再生
+KSK/KSK0001050
+Ichijo....Why did you think he was confessing his love?
+Why did you think so?
+Miyamoto told me he was
+He was so serious about it
+@expose
+KSK/KSK0001080
+Ruri?
+KSK/KSK0001090
+It's too soon, Ruri.[nl]You're far too hasty.
+@ksk_001_102
+@ザクシャ小咲・１
+KSK/KSK0001060
+Oh, I see.....[nl]Those seniors are always working so hard, aren't they.
+KSK/KSK0001070
+But it's foolish to believe that means[nl]he was trying to confess his love.
+KSK/KSK0001100
+Huh? Why aren't you answering?
+KSK/KSK0001110
+Did I ask a bad question.....?
+@ksk_001_201
+common.asb
+ksk_001_102.asb
+ksk_001_201.asb

@@ -1,0 +1,470 @@
+SelfId
+chara_id
+chara_name
+ash_name
+chara_key
+height
+birthday_month
+birthday_day
+R_CharaRaku
+Raku Ichijo
+Raku
+rak
+R_CharaChitoge
+Chitoge Kirisaki
+Chitoge
+ctg
+R_CharaKosaki
+Kosaki Onodera
+Kosaki
+ksk
+R_CharaSeishirou
+Seishiro Tsugumi
+Seishiro
+ssr
+R_CharaMarika
+Marika Tachibana
+Marika
+mrk
+R_CharaRuri
+Ruri Miyamoto
+Ruri
+rur
+R_CharaSyuu
+Shuu Maiko
+Shuu
+syu
+R_CharaClaude
+Claude
+cld
+R_CharaOtama
+Otama
+otm
+R_CharaKyoko
+Ms. Kyoko
+kyk
+R_CharaRakupapa
+Raku's Father
+rap
+R_CharaArdelt
+Chitoge's Father
+Adelt
+ctp
+R_CharaRyu
+Ryuu
+ryu
+R_CharaKosakimama
+Kosaki's Mother
+ksm
+R_CharaHonda
+Honda
+hnd
+R_CharaMarikapapa
+Marika's Father
+mrp
+R_CharaMitoge
+Mitoge Kirisaki
+Mitoge
+mtg
+R_CharaSeishirou1
+Seishiro Tsugumi
+Tsugumi (Raku)
+ss1
+R_CharaRaku1
+Raku Ichijo
+Raku (Tsugumi)
+ra1
+R_Charaot1
+Otama
+Otama (Ruri)
+ot1
+R_CharaBaba
+Grandma
+bab
+R_CharaSnake
+Snake
+snk
+R_CharaAsika
+Sea Lion
+ask
+R_CharaIguana
+Iguana
+ign
+R_CharaIberico
+Iberico Pig
+ibr
+R_CharaTortoise
+Tortoise
+trt
+R_CharaCrow
+Crow
+crw
+R_CharaHen
+Chicken
+niw
+R_CharaMantohihi
+Baboon
+mnt
+R_CharaAlligator
+Alligator
+agt
+R_CharaDog
+Dog
+dog
+R_CharaKitten
+Kitten
+ktn
+R_CharaCrane
+Crane
+crn
+R_CharaCat
+Cat
+cat
+R_CharaStraydog
+Stray Dog
+sdg
+R_CharaHamster
+Hamster
+ham
+R_CharaUshikaeru
+Bullfrog
+ugr
+R_CharaKitsunezaru
+Lemur
+Lemur
+wow
+R_CharaW_student
+Female Student
+wst
+R_CharaW_studenta
+Female Student A
+wsa
+R_CharaW_studentb
+Female Student B
+wsb
+R_CharaW_studentc
+Female Student C
+wsc
+R_CharaW_studentd
+Female Student D
+wsd
+R_CharaW_volley
+Volleyball Club Member
+Volleyball Club Member
+wvb
+R_CharaW_kendo
+Kendo Club Member
+Kendo Club Member
+wkd
+R_CharaW_track
+Track and Field Member
+Track and Field Member
+wtk
+R_Charabikaiin
+Beautification Committee
+bik
+R_CharaM_student
+Male Student
+mst
+R_CharaM_studenta
+Male Student A
+msa
+R_CharaM_studentb
+Male Student B
+msb
+R_CharaM_studentc
+Male Student C
+msc
+R_CharaM_studentd
+Male Student D
+msd
+R_CharaM_studente
+Male Student E
+mse
+R_CharaM_tracka
+Track and Field Member
+Track and Field Member A
+mta
+R_CharaM_trackb
+Track and Field Member B
+mtb
+R_CharaJokyuseia
+Seniors
+Senior A
+jka
+R_CharaJokyuseib
+Senior
+Senior B
+jkb
+R_CharaJokyuseic
+Senior C
+jkc
+R_CharaSeitokai
+St. Council
+stk
+R_CharaChinpiraa
+Thug
+Thug A
+cpa
+R_CharaChinpirab
+Thug B
+cpb
+R_CharaSyueia
+Youth
+Youth A
+sea
+R_CharaSyueib
+Youth B
+seb
+R_CharaSyueic
+Youth C
+sec
+R_CharaSyueid
+Youth D
+sed
+R_CharaGanga
+Gangster
+Gangster A
+gna
+R_CharaGangb
+Gangster B
+gnb
+R_CharaGangc
+Gangster C
+gnc
+R_CharaGangd
+Gangster D
+gnd
+R_CharaRolicemana
+Policeman
+Policeman A
+pla
+R_CharaRolicemanb
+Policeman B
+plb
+R_CharaRolicemanc
+Policeman C
+plc
+R_CharaCpu
+CPU
+cpu
+R_CharaEventstaff
+Staff
+Event Staff
+evs
+R_CharaGamevisitora
+Arcade Visitor
+Arcade Visitor A
+gca
+R_CharaGamevisitorb
+Arcade Visitor B
+gcb
+R_CharaGamestaff
+Arcade Staff
+gcs
+R_CharaSystem
+System
+stm
+R_CharaStaff
+stf
+R_CharaTakoyaki
+Vendor
+Takoyaki Vendor
+tak
+R_CharaAnnouncer
+Announcer
+ana
+R_CharaProducer
+573 Pro P.
+Producer
+pro
+R_CharaFana
+Fan
+Fan A
+fna
+R_CharaFanb
+Fan B
+fnb
+R_CharaFanc
+Fan C
+fnc
+R_CharaFand
+Fan D
+fnd
+R_CharaFane
+Fan E
+fne
+R_CharaFanf
+Fan F
+fnf
+R_CharaMassmedia
+Media
+mas
+R_CharaParticipant
+Participant
+pcp
+R_CharaChairman
+Chairman
+chm
+R_CharaChild
+Child
+chd
+R_CharaOwner
+Owner
+owr
+R_CharaModel
+Human Body Model
+mdl
+R_CharaTelephone
+Answering Machine
+tlp
+R_Charanazoa
+Unknown Voice
+Unknown Voice A
+nza
+R_Charanazob
+Unknown Voice B
+nzb
+R_Charanazoc
+Unknown Voice C
+nzc
+R_Charanazod
+Unknown Voice D
+nzd
+R_Charanazoe
+Unknown Voice E
+nze
+R_CharaMother
+Mother
+mtr
+R_CharaLover
+Lover
+lvr
+R_CharaDlc_chitoge
+Chitoge
+dlc_ctg
+R_CharaDlc_kosaki
+Kosaki
+dlc_ksk
+R_CharaDlc_seishirou
+Seishiro
+dlc_ssr
+R_CharaDlc_marika
+Marika
+dlc_mrk
+R_CharaDlc_ruri
+Ruri
+dlc_rur
+R_CharaAnother
+???
+ano
+R_CharaRaku_Syuu
+Raku+Shuu
+rak_syu
+R_CharaRaku_Chitoge
+Raku+Chitoge
+rak_ctg
+R_CharaRaku_Kosaki
+Raku+Kosaki
+rak_ksk
+R_CharaRaku_Seishirou
+Raku+Seishiro
+rak_ssr
+R_CharaRaku_Marika
+Raku+Marika
+rak_mrk
+R_CharaRaku_Mitoge
+Raku+Mitoge
+rak_mtg
+R_CharaChitoge_Marika
+Chitoge+Marika
+ctg_mrk
+R_CharaChitoge_Mitoge
+Chitoge+Mitoge
+ctg_mtg
+R_CharaChitoge_Kosaki
+Chitoge+Kosaki
+ctg_ksk
+R_CharaKosaki_Marika
+Kosaki+Marika
+ksk_mrk
+R_CharaSyuu_Ruri
+Shuu+Ruri
+syu_rur
+R_CharaSyuu_Syuei
+Shuu+Youth
+syu_seg
+R_CharaClaude_Ryu
+Claude+Ryuu
+cld_ryu
+R_CharaAll
+All
+all
+R_CharaRakus
+Raku and others
+raks
+R_CharaChitoges
+Chitoge and others
+ctgs
+R_CharaKosakis
+Kosaki and others
+ksks
+R_CharaMarikas
+Marika and others
+mrks
+R_CharaM_students
+Students
+mss
+R_CharaPolicemans
+Policemen
+pls
+R_CharaStudent_All
+All Students
+st_all
+R_CharaW_sports
+Sports Girls
+w_spts
+M
+TABLE
+GOP_TYPE
+GOP_Chara
+FILENAME
+GOP_キャラ情報.xls
+EXPORT_FILE
+gop_chara.gsv
+CREATE_TIME
+13/07/22
+EXPORT_TIME
+2014/08/15 19:45
+CREATOR
+鈴木 裕海
+EXPORTER
+KMIYAKAWA
+ABOUT
+キャラクタ情報GOP
+FIELD
+INFO
+このGOPデータのID
+enum定数
+文字列
+32bit浮動小数
+16bit符号無し整数
+TYPE
+RecId
+CHARA_ID
+String
+Float32
+UInt16
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiiss
+

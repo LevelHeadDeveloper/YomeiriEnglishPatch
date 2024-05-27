@@ -1,0 +1,54 @@
+SelfId
+oldmaid_id
+oldmaid_name
+player_id_1
+player_id_2
+player_id_3
+result_id
+R_OldMaidEnv0
+Old Maid Game 1
+R_OldMaidEnv1
+Old Maid Game 2
+M
+TABLE
+GOP_TYPE
+GOP_OldMaidEnv
+FILENAME
+GOP_ババ抜き設定.xls
+EXPORT_FILE
+gop_oldmaidenv.gsv
+CREATE_TIME
+13/07/22
+EXPORT_TIME
+2014/06/19 15:39
+CREATOR
+栗原　弘樹
+EXPORTER
+KMIYAKAWA
+ABOUT
+ババ抜き設定GOP
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+文字列
+enum定数
+数値
+TYPE
+RecId
+Int32
+String
+CHARA_ID
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiii
+

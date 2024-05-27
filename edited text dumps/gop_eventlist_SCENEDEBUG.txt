@@ -1,0 +1,1488 @@
+SelfId
+id
+chara_id
+event_no
+time_zone
+drop_num
+script_name
+file_name
+func_name
+R_EventListctg000
+Chitoge Main 1
+ssr_215_001.asb
+@ssr_215
+R_EventListctg001
+Chitoge Main 2
+ssr_215_001.asb
+@ssr_215
+R_EventListctg002
+Chitoge Main 3
+ssr_215_001.asb
+@ssr_215
+R_EventListctg003
+Chitoge Main 4
+ssr_215_001.asb
+@ssr_215
+R_EventListctg004
+Chitoge Main 5
+ssr_215_001.asb
+@ssr_215
+R_EventListctg005
+Chitoge Main 6
+ssr_215_001.asb
+@ssr_215
+R_EventListctg006
+Chitoge Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListctg007
+Chitoge Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListctg008
+Chitoge Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListctg009
+Chitoge Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListctg010
+Chitoge Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListctg011
+Chitoge Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListctg012
+Chitoge Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListctg013
+Chitoge Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListctg014
+Chitoge Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListctg015
+Chitoge Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListctg016
+Chitoge Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListctg017
+Chitoge Map Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListctg018
+Chitoge Map Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListctg019
+Chitoge Map Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListctg020
+Chitoge Map Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListctg021
+Chitoge Map Event 16
+ssr_215_001.asb
+@ssr_215
+R_EventListctg022
+Chitoge Map Event 17
+ssr_215_001.asb
+@ssr_215
+R_EventListctg023
+Chitoge Map Event 18
+ssr_215_001.asb
+@ssr_215
+R_EventListctg024
+Chitoge Map Event 19
+ssr_215_001.asb
+@ssr_215
+R_EventListctg025
+Chitoge Map Event 20
+ssr_215_001.asb
+@ssr_215
+R_EventListctg026
+Chitoge Map Event 21
+ssr_215_001.asb
+@ssr_215
+R_EventListctg027
+Chitoge Map Event 22
+ssr_215_001.asb
+@ssr_215
+R_EventListctg028
+Chitoge Map Event 23
+ssr_215_001.asb
+@ssr_215
+R_EventListctg029
+Chitoge Map Event 24
+ssr_215_001.asb
+@ssr_215
+R_EventListctg030
+Chitoge Map Event 25
+ssr_215_001.asb
+@ssr_215
+R_EventListctg031
+Chitoge Map Event 26
+ssr_215_001.asb
+@ssr_215
+R_EventListctg032
+Chitoge Map Event 27
+ssr_215_001.asb
+@ssr_215
+R_EventListctg033
+Chitoge Map Event 28
+ssr_215_001.asb
+@ssr_215
+R_EventListctg034
+Chitoge Map Event 29
+ssr_215_001.asb
+@ssr_215
+R_EventListctg035
+Chitoge Map Event 30
+ssr_215_001.asb
+@ssr_215
+R_EventListctg036
+Chitoge Map Event 31
+ssr_215_001.asb
+@ssr_215
+R_EventListctg037
+Chitoge Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListctg038
+Chitoge Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListctg039
+Chitoge Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListctg040
+Chitoge Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListctg041
+Chitoge Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListctg042
+Chitoge Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListctg043
+Chitoge Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListctg044
+Chitoge Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListctg045
+Chitoge Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListctg046
+Chitoge Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListctg047
+Chitoge Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListctg048
+Chitoge Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListctg049
+Chitoge Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListctg050
+Chitoge Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListctg051
+Chitoge Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListctg052
+Chitoge Saturday 1
+ssr_215_001.asb
+@ssr_215
+R_EventListctg053
+Chitoge Saturday 2
+ssr_215_001.asb
+@ssr_215
+R_EventListctg054
+Chitoge Saturday 3
+ssr_215_001.asb
+@ssr_215
+R_EventListctg055
+Chitoge Saturday 4
+ssr_215_001.asb
+@ssr_215
+R_EventListctg056
+Chitoge Majikoi Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListctg057
+Chitoge Majikoi Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListctg058
+Chitoge Majikoi Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListctg059
+Chitoge Majikoi Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListctg077
+Chitoge Main 6 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListksk100
+Kosaki Main 1
+ssr_215_001.asb
+@ssr_215
+R_EventListksk101
+Kosaki Main 2
+ssr_215_001.asb
+@ssr_215
+R_EventListksk102
+Kosaki Main 3
+ssr_215_001.asb
+@ssr_215
+R_EventListksk103
+Kosaki Main 4
+ssr_215_001.asb
+@ssr_215
+R_EventListksk104
+Kosaki Main 5
+ssr_215_001.asb
+@ssr_215
+R_EventListksk105
+Kosaki Main 6
+ssr_215_001.asb
+@ssr_215
+R_EventListksk106
+Kosaki Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListksk107
+Kosaki Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListksk108
+Kosaki Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListksk109
+Kosaki Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListksk110
+Kosaki Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListksk111
+Kosaki Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListksk112
+Kosaki Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListksk113
+Kosaki Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListksk114
+Kosaki Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListksk115
+Kosaki Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListksk116
+Kosaki Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListksk117
+Kosaki Map Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListksk118
+Kosaki Map Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListksk119
+Kosaki Map Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListksk120
+Kosaki Map Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListksk121
+Kosaki Map Event 16
+ssr_215_001.asb
+@ssr_215
+R_EventListksk122
+Kosaki Map Event 17
+ssr_215_001.asb
+@ssr_215
+R_EventListksk123
+Kosaki Map Event 18
+ssr_215_001.asb
+@ssr_215
+R_EventListksk124
+Kosaki Map Event 19
+ssr_215_001.asb
+@ssr_215
+R_EventListksk125
+Kosaki Map Event 20
+ssr_215_001.asb
+@ssr_215
+R_EventListksk126
+Kosaki Map Event 21
+ssr_215_001.asb
+@ssr_215
+R_EventListksk127
+Kosaki Map Event 22
+ssr_215_001.asb
+@ssr_215
+R_EventListksk128
+Kosaki Map Event 23
+ssr_215_001.asb
+@ssr_215
+R_EventListksk129
+Kosaki Map Event 24
+ssr_215_001.asb
+@ssr_215
+R_EventListksk130
+Kosaki Map Event 25
+ssr_215_001.asb
+@ssr_215
+R_EventListksk131
+Kosaki Map Event 26
+ssr_215_001.asb
+@ssr_215
+R_EventListksk132
+Kosaki Map Event 27
+ssr_215_001.asb
+@ssr_215
+R_EventListksk133
+Kosaki Map Event 28
+ssr_215_001.asb
+@ssr_215
+R_EventListksk134
+Kosaki Map Event 29
+ssr_215_001.asb
+@ssr_215
+R_EventListksk135
+Kosaki Map Event 30
+ssr_215_001.asb
+@ssr_215
+R_EventListksk136
+Kosaki Map Event 31
+ssr_215_001.asb
+@ssr_215
+R_EventListksk137
+Kosaki Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListksk138
+Kosaki Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListksk139
+Kosaki Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListksk140
+Kosaki Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListksk141
+Kosaki Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListksk142
+Kosaki Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListksk143
+Kosaki Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListksk144
+Kosaki Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListksk145
+Kosaki Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListksk146
+Kosaki Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListksk147
+Kosaki Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListksk148
+Kosaki Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListksk149
+Kosaki Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListksk150
+Kosaki Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListksk151
+Kosaki Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListksk152
+Kosaki Saturday 1
+ssr_215_001.asb
+@ssr_215
+R_EventListksk153
+Kosaki Saturday 2
+ssr_215_001.asb
+@ssr_215
+R_EventListksk154
+Kosaki Saturday 3
+ssr_215_001.asb
+@ssr_215
+R_EventListksk155
+Kosaki Saturday 4
+ssr_215_001.asb
+@ssr_215
+R_EventListksk156
+Kosaki Majikoi Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListksk157
+Kosaki Majikoi Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListksk158
+Kosaki Majikoi Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListksk159
+Kosaki Majikoi Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListksk177
+Kosaki Main 5 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListksk178
+Kosaki Map Event 23 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListssr200
+Seishiro Main 1
+ssr_215_001.asb
+@ssr_215
+R_EventListssr201
+Seishiro Main 2
+ssr_215_001.asb
+@ssr_215
+R_EventListssr202
+Seishiro Main 3
+ssr_215_001.asb
+@ssr_215
+R_EventListssr203
+Seishiro Main 4
+ssr_215_001.asb
+@ssr_215
+R_EventListssr204
+Seishiro Main 5
+ssr_215_001.asb
+@ssr_215
+R_EventListssr205
+Seishiro Main 6
+ssr_215_001.asb
+@ssr_215
+R_EventListssr206
+Seishiro Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListssr207
+Seishiro Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListssr208
+Seishiro Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListssr209
+Seishiro Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListssr210
+Seishiro Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListssr211
+Seishiro Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListssr212
+Seishiro Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListssr213
+Seishiro Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListssr214
+Seishiro Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListssr215
+Seishiro Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListssr216
+Seishiro Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListssr217
+Seishiro Map Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListssr218
+Seishiro Map Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListssr219
+Seishiro Map Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListssr220
+Seishiro Map Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListssr221
+Seishiro Map Event 16
+ssr_215_001.asb
+@ssr_215
+R_EventListssr222
+Seishiro Map Event 17
+ssr_215_001.asb
+@ssr_215
+R_EventListssr223
+Seishiro Map Event 18
+ssr_215_001.asb
+@ssr_215
+R_EventListssr224
+Seishiro Map Event 19
+ssr_215_001.asb
+@ssr_215
+R_EventListssr225
+Seishiro Map Event 20
+ssr_215_001.asb
+@ssr_215
+R_EventListssr226
+Seishiro Map Event 21
+ssr_215_001.asb
+@ssr_215
+R_EventListssr227
+Seishiro Map Event 22
+ssr_215_001.asb
+@ssr_215
+R_EventListssr228
+Seishiro Map Event 23
+ssr_215_001.asb
+@ssr_215
+R_EventListssr229
+Seishiro Map Event 24
+ssr_215_001.asb
+@ssr_215
+R_EventListssr230
+Seishiro Map Event 25
+ssr_215_001.asb
+@ssr_215
+R_EventListssr231
+Seishiro Map Event 26
+ssr_215_001.asb
+@ssr_215
+R_EventListssr232
+Seishiro Map Event 27
+ssr_215_001.asb
+@ssr_215
+R_EventListssr233
+Seishiro Map Event 28
+ssr_215_001.asb
+@ssr_215
+R_EventListssr234
+Seishiro Map Event 29
+ssr_215_001.asb
+@ssr_215
+R_EventListssr235
+Seishiro Map Event 30
+ssr_215_001.asb
+@ssr_215
+R_EventListssr236
+Seishiro Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListssr237
+Seishiro Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListssr238
+Seishiro Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListssr239
+Seishiro Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListssr240
+Seishiro Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListssr241
+Seishiro Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListssr242
+Seishiro Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListssr243
+Seishiro Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListssr244
+Seishiro Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListssr245
+Seishiro Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListssr246
+Seishiro Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListssr247
+Seishiro Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListssr248
+Seishiro Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListssr249
+Seishiro Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListssr250
+Seishiro Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListssr251
+Seishiro Saturday 1
+ssr_215_001.asb
+@ssr_215
+R_EventListssr252
+Seishiro Saturday 2
+ssr_215_001.asb
+@ssr_215
+R_EventListssr253
+Seishiro Saturday 3
+ssr_215_001.asb
+@ssr_215
+R_EventListssr254
+Seishiro Saturday 4
+ssr_215_001.asb
+@ssr_215
+R_EventListssr255
+Seishiro Majikoi Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListssr256
+Seishiro Majikoi Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListssr257
+Seishiro Majikoi Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListssr258
+Seishiro Majikoi Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListssr276
+Seishiro Main 4 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListssr277
+Seishiro Map Event 6 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk300
+Marika Main 1
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk301
+Marika Main 2
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk302
+Marika Main 3
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk303
+Marika Main 4
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk304
+Marika Main 5
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk305
+Marika Main 6
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk306
+Marika Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk307
+Marika Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk308
+Marika Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk309
+Marika Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk310
+Marika Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk311
+Marika Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk312
+Marika Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk313
+Marika Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk314
+Marika Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk315
+Marika Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk316
+Marika Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk317
+Marika Map Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk318
+Marika Map Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk319
+Marika Map Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk320
+Marika Map Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk321
+Marika Map Event 16
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk322
+Marika Map Event 17
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk323
+Marika Map Event 18
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk324
+Marika Map Event 19
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk325
+Marika Map Event 20
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk326
+Marika Map Event 21
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk327
+Marika Map Event 22
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk328
+Marika Map Event 23
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk329
+Marika Map Event 24
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk330
+Marika Map Event 25
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk331
+Marika Map Event 26
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk332
+Marika Map Event 27
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk333
+Marika Map Event 28
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk334
+Marika Map Event 29
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk335
+Marika Map Event 30
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk336
+Marika Occurence 1
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk337
+Marika Occurence 2
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk338
+Marika Occurence 3
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk339
+Marika Occurence 4
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk340
+Marika Occurence 5
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk341
+Marika Occurence 6
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk342
+Marika Occurence 7
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk343
+Marika Occurence 8
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk344
+Marika Occurence 9
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk345
+Marika Occurence 10
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk346
+Marika Occurence 11
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk347
+Marika Occurence 12
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk348
+Marika Occurence 13
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk349
+Marika Occurence 14
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk350
+Marika Occurence 15
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk351
+Marika Saturday 1
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk352
+Marika Saturday 2
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk353
+Marika Saturday 3
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk354
+Marika Majikoi Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk355
+Marika Majikoi Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk356
+Marika Majikoi Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListmrk357
+Marika Majikoi Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrur400
+Ruri Main 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrur401
+Ruri Main 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrur402
+Ruri Main 3
+ssr_215_001.asb
+@ssr_215
+R_EventListrur403
+Ruri Main 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrur404
+Ruri Main 5
+ssr_215_001.asb
+@ssr_215
+R_EventListrur405
+Ruri Main 6
+ssr_215_001.asb
+@ssr_215
+R_EventListrur406
+Ruri Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrur407
+Ruri Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrur408
+Ruri Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListrur409
+Ruri Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrur410
+Ruri Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListrur411
+Ruri Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListrur412
+Ruri Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListrur413
+Ruri Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListrur414
+Ruri Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListrur415
+Ruri Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListrur416
+Ruri Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListrur417
+Ruri Map Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListrur418
+Ruri Map Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListrur419
+Ruri Map Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListrur420
+Ruri Map Event 15
+ssr_215_001.asb
+@ssr_215
+R_EventListrur421
+Ruri Map Event 16
+ssr_215_001.asb
+@ssr_215
+R_EventListrur422
+Ruri Map Event 17
+ssr_215_001.asb
+@ssr_215
+R_EventListrur423
+Ruri Map Event 18
+ssr_215_001.asb
+@ssr_215
+R_EventListrur424
+Ruri Map Event 19
+ssr_215_001.asb
+@ssr_215
+R_EventListrur425
+Ruri Map Event 20
+ssr_215_001.asb
+@ssr_215
+R_EventListrur426
+Ruri Map Event 21
+ssr_215_001.asb
+@ssr_215
+R_EventListrur427
+Ruri Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrur428
+Ruri Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrur429
+Ruri Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListrur430
+Ruri Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrur431
+Ruri Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListrur432
+Ruri Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListrur433
+Ruri Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListrur434
+Ruri Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListrur435
+Ruri Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListrur436
+Ruri Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListrur437
+Ruri Saturday 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrur438
+Ruri Saturday 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrur439
+Ruri Majikoi Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrur440
+Ruri Majikoi Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrur441
+Ruri Majikoi Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListrur442
+Ruri Majikoi Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrur460
+Ruri Main 2 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListrur461
+Ruri Main 5 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListrur462
+Ruri Main 6 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListano500
+Shuu Map Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListano501
+Shuu Map Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListano502
+Shuu Map Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListano503
+Shuu Map Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListano504
+Shuu Map Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListano505
+Shuu Map Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListano506
+Shuu Map Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListano507
+Shuu Map Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListano508
+Shuu Map Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListano509
+Shuu Map Event 10
+ssr_215_001.asb
+@ssr_215
+R_EventListano510
+Shuu Map Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListano511
+Misc Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListano512
+Misc Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListano513
+Misc Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListano514
+Misc Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListano515
+Misc Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListano516
+Misc Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListano517
+Misc Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListano518
+Misc Event 8
+ssr_215_001.asb
+@ssr_215
+R_EventListano519
+Misc Event 9
+ssr_215_001.asb
+@ssr_215
+R_EventListano521
+Misc Event 11
+ssr_215_001.asb
+@ssr_215
+R_EventListano522
+Misc Event 12
+ssr_215_001.asb
+@ssr_215
+R_EventListano523
+Misc Event 13
+ssr_215_001.asb
+@ssr_215
+R_EventListano524
+Misc Event 14
+ssr_215_001.asb
+@ssr_215
+R_EventListano525
+Shuu Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListano526
+Shuu Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListano527
+Shuu Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListano528
+Shuu Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListano529
+Shuu Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListano530
+Shuu Event 6
+ssr_215_001.asb
+@ssr_215
+R_EventListano531
+Shuu Event 7
+ssr_215_001.asb
+@ssr_215
+R_EventListano532
+Misc Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListano533
+Misc Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListano534
+Misc Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListano535
+Misc Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListano536
+Misc Event 5
+ssr_215_001.asb
+@ssr_215
+R_EventListano537
+Misc Event 7 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListano538
+Misc Event 8 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListano539
+Misc Event 1 (Old Maid Loss)
+ssr_215_001.asb
+@ssr_215
+R_EventListano540
+Misc Event 2 (Old Maid Loss)
+ssr_215_001.asb
+@ssr_215
+R_EventListrak600
+Raku Scenario 1
+ssr_215_001.asb
+@ssr_215
+R_EventListrak601
+Raku Scenario 2
+ssr_215_001.asb
+@ssr_215
+R_EventListrak602
+Raku Scenario 3
+ssr_215_001.asb
+@ssr_215
+R_EventListrak603
+Raku Scenario 4
+ssr_215_001.asb
+@ssr_215
+R_EventListrak604
+Raku Scenario 5
+ssr_215_001.asb
+@ssr_215
+R_EventListrak605
+Raku Scenario 6
+ssr_215_001.asb
+@ssr_215
+R_EventListrak607
+Raku Scenario 4 (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListrak608
+Raku Scenario 2 Saturday
+ssr_215_001.asb
+@ssr_215
+R_EventListday700
+Morning Talk 1
+ssr_215_001.asb
+@ssr_215
+R_EventListday701
+Morning Talk 2
+ssr_215_001.asb
+@ssr_215
+R_EventListday702
+Morning Talk 3
+ssr_215_001.asb
+@ssr_215
+R_EventListday703
+Morning Talk 4
+ssr_215_001.asb
+@ssr_215
+R_EventListday704
+Morning Talk 5
+ssr_215_001.asb
+@ssr_215
+R_EventListday705
+Evening Talk 1
+ssr_215_001.asb
+@ssr_215
+R_EventListday706
+Evening Talk 2
+ssr_215_001.asb
+@ssr_215
+R_EventListday707
+Evening Talk 3
+ssr_215_001.asb
+@ssr_215
+R_EventListday708
+Evening Talk 4
+ssr_215_001.asb
+@ssr_215
+R_EventListday709
+Evening Talk 5
+ssr_215_001.asb
+@ssr_215
+R_EventListhol710
+Sunday Event 1
+ssr_215_001.asb
+@ssr_215
+R_EventListhol711
+Sunday Event 2
+ssr_215_001.asb
+@ssr_215
+R_EventListhol712
+Sunday Event 3
+ssr_215_001.asb
+@ssr_215
+R_EventListhol713
+Sunday Event 4
+ssr_215_001.asb
+@ssr_215
+R_EventListpro715
+Prolugue
+ssr_215_001.asb
+@ssr_215
+R_EventListpro716
+Prologue (Sneak Fail)
+ssr_215_001.asb
+@ssr_215
+R_EventListdwn720
+Out of HP (Day)
+ssr_215_001.asb
+@ssr_215
+R_EventListdwn721
+Out of HP(After School)
+ssr_215_001.asb
+@ssr_215
+R_EventListbad725
+Bad Ending
+ssr_215_001.asb
+@ssr_215
+R_EventListotm750
+Main Prologue
+ssr_215_001.asb
+@ssr_215
+R_EventListrtn800
+Special Wake-Up
+ssr_215_001.asb
+@ssr_215
+R_EventListall900
+All Clear 1
+ssr_215_001.asb
+@ssr_215
+R_EventListall901
+All Clear 2
+ssr_215_001.asb
+@ssr_215
+M
+TABLE
+GOP_TYPE
+GOP_EventList
+FILENAME
+GOP_イベントリスト.xls
+EXPORT_FILE
+gop_eventlist.gsv
+CREATE_TIME
+2013/11/22
+EXPORT_TIME
+2014/08/11 15:00
+CREATOR
+
+EXPORTER
+TSAKURAI
+ABOUT
+
+FIELD
+INFO
+このGOPデータのID
+32bit符号付き整数
+enum定数
+文字列
+TYPE
+RecId
+Int32
+CHARA_ID
+TIME_ZONE
+String
+NAME
+SAVE
+LANGUAGE
+USER
+EXTRA0
+EXTRA1
+EXTRA2
+EXTRA3
+RECORD
+ENUMNAME
+ENDSWPSTR
+iiiiiiiii
+

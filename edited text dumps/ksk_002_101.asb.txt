@@ -1,0 +1,35 @@
+__main
+@Lclearscreenall
+@ksk_002_101
+@2ショット開始
+Comfort Onodera!
+@ＢＧＭ再生
+KSK/KSK0001970
+I-I'm sorry.....
+I know that hurt.
+@ksk_002_01_ans01
+@ザクシャ小咲・１
+@expose
+KSK/KSK0001980
+B-But, you're so sweaty....
+@ksk_002_102
+@ksk_002_01_ans02
+KSK/KSK0001990
+Really, I'm sorry....
+KSK/KSK0002000
+Why did it have to be a dirty rag...
+@ksk_002_01_ans03
+KSK/KSK0002010
+Eh? Are you really okay with Chitoge and Tsugumi
+beating you up that much?
+KSK/KSK0002020
+I-I'm not sure that's okay....
+@ksk_002_01_ans04
+KSK/KSK0002030
+Maybe that's true....
+But what if it got infected?
+@ksk_002_01_ans05
+KSK/KSK0002040
+Um....Does it hurt so much that you can't speak?
+common.asb
+ksk_002_102.asb

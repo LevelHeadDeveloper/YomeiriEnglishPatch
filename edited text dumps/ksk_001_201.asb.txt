@@ -1,0 +1,101 @@
+__main
+@Lclearscreenall
+@ksk_001_201
+@2ショット成功
+@2ショット失敗
+@ksk_001_201_01
+@ＢＧＭ再生
+RAK/RAK0007880
+Really, I'm sorry.[nl]I knew I was nosing in, but I didn't want anything[nl]bad to happen to you.
+@expose
+KSK/KSK0001420
+Well, I don't think I'd....say you were nosing in.[nl]You did stop that senior, so....thanks.
+RAK/RAK0007890
+It was a misunderstanding.[nl]I'll have to go find him later and[nl]apologize for my rudeness.
+@ザクシャ小咲・小
+KSK/KSK0001430
+No....[nl]You made me happy.
+RAK/RAK0007900
+.....Huh?
+KSK/KSK0001440
+Oh.....no![nl]Um....
+KSK/KSK0001450
+That.....
+KSK/KSK0001460
+Really, thank you.[nl]You've made me very happy....
+RAK/RAK0007910
+Gwagh!
+@叫び揺れ
+@expose
+KSK/KSK0001470
+I-Ichijo!?!?
+RAK/RAK0007920
+(Uegh, sorry! I got a nosebleed from being so happy....!)
+KSK/KSK0001480
+T-This isn't good.[nl]Here....use this tissue!
+RAK/RAK0007930
+Oh, okay! Thanks!
+RAK/RAK0007940
+(Aah, what the hell am I doing!?[nl] We were having a moment!)
+RAK/RAK0007950
+Sorry, Onodera.[nl]I think I'm gonna go lie down for a bit.
+KSK/KSK0001490
+Oh, okay! Wait, hang on a second!
+RAK/RAK0007960
+Huh?
+@フェードアウト
+@背景変更
+KSK/KSK0001500
+Here, I have a wet towel. Should I put it on your face?
+RAK/RAK0007970
+Y-Yes. Thankssss!
+RAK/RAK0007980
+(This is....great! I'm so excited!)
+KSK/KSK0001510
+Huh? Your nosebleed just got worse....?[nl]Are you okay!?
+RAK/RAK0007990
+Haha, I-I'm okay, I'm okay.[nl]Maybe if you stay here a bit longer.
+KSK/KSK0001520
+Really?
+KSK/KSK0001530
+...Okay. I'll stay here until the bleeding stops.
+RAK/RAK0008000
+Huh!?
+RAK/RAK0008010
+(Thank you, God![nl] I was terrified by the prospect of that confession....[nl] But today turned out great!)
+..........
+RAK/RAK0008020
+(If only I wasn't bleeding to death...)
+@イベント終了処理
+@ksk_001_201_02
+KSK/KSK0001540
+Ummm....[nl]Ichijo, you're a very caring guy....
+RAK/RAK0008030
+(Uh-oh.....This is definitely not good!)
+KSK/KSK0001550
+But.....you did help.[nl]It was an atmosphere where it was difficult to say no.
+@ksk_001_201_03
+KSK/KSK0001560
+Sorry, Ichijo.[nl]I've probably caused a lot of trouble...
+KSK/KSK0001570
+But.....you did help.[nl]It was an atmosphere where it was difficult to say no.
+@ksk_001_201_04
+RAK/RAK0008040
+R-Really?[nl]Well, I'm glad I was able to help, but...[nl]
+RAK/RAK0008050
+(Uugh, I feel awful for following her...)
+KSK/KSK0001580
+Ah, right.[nl]Did you give Ruri your homework?
+RAK/RAK0008060
+Homework?
+RAK/RAK0008070
+Oh no! I forgot.
+KSK/KSK0001590
+Can I see it? I'll go give it to her.
+RAK/RAK0008080
+Oh, sure. Thanks.
+RAK/RAK0008090
+Hahhh....[nl]I kinda failed.
+RAK/RAK0008100
+(But....I'm still kind of happy that the confession[nl] wasn't true...)
+common.asb

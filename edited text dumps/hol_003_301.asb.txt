@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@hol_003_301
+OTM/OTM0007690
+I think one of these'll be good.
+RAK/RAK0066750
+Let's see... 
+@プレゼント選択
+RAK/RAK0066930
+I really hope it's okay...
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+SSR/SSR0020740
+Mm! Back once more, Ichijo Raku...[nl]The mistress is out today as well.
+RAK/RAK0067000
+That's fine. It's you I wanted to talk to, anyway. 
+SSR/SSR0020750
+Me again? W-what did you need?[nl]I swear, if it's some-- 
+RAK/RAK0067300
+Will you stop assuming that!?[nl]You're doing it on purpose at this point!
+RAK/RAK0067020
+Since you've been good to me every day, I thought I'd[nl]give you this.
+@プレゼント表示
+SSR/SSR0020620
+Th-This is...! 
+@expose
+@ザクシャ誠士郎・大
+SSR/SSR0020760
+Giving me gifts like this over and over... Is it really okay?
+RAK/RAK0067030
+Ah, of course.[nl]That's why I brought it.
+RAK/RAK0067040
+Well then, I'm leaving.
+@expose2
+SSR/SSR0020720
+Ah! W-Wait just a second! Raku Ichijo![nl]A-are you free... today, as well?
+RAK/RAK0067050
+Yeah, as usual. 
+SSR/SSR0020770
+I-I tried making a cake yesterday,[nl]and I think it came out okay...[nl]...Would you like to try it? 
+RAK/RAK0067310
+Huh, you made it!?[nl]That's amazing. 
+RAK/RAK0067320
+Well, I guess I'll try a piece.
+@フェードアウト
+RAK/RAK0067070
+I had a great time with Tsugumi on Sunday.)
+@イベント終了処理
+common.asb
