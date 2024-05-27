@@ -1,0 +1,53 @@
+__main
+@Lclearscreenall
+@ksk_126
+@イベント開始処理
+RAK/RAK0049900
+Mmmmm, P.E. today was a great workout!
+@背景変更
+@ＢＧＭ再生
+KSK/KSK0014770
+Welcome back, Ichijo.
+RAK/RAK0049910
+Oh, I guess the girls finished before we did.
+KSK/KSK0014780
+You boys played soccer, right?[nl]Oh, Ichijo, you've got some mud on your cheek.
+RAK/RAK0049920
+Oh, seriously? Which one?
+KSK/KSK0014790
+Don't worry, I'll wipe it off.[nl]....Hang on a second.
+RAK/RAK0049930
+(Woaaaaaahhh! S-She's so close![nl] Onodera's face is so close to me, I don't know what to do!)
+KSK/KSK0014800
+....There, I got it.
+RAK/RAK0049940
+O-Okay....[nl]Thanks, Onodera.
+KSK/KSK0014810
+No problem.
+@expose
+KSK/KSK0014820
+....Hehehe. I was imagining you as a child, Ichijo.
+@ザクシャ小咲・中
+RAK/RAK0049950
+....Hm?
+KSK/KSK0014830
+Running around in the dirt,[nl]you must have been a boy with a cute smile....[nl]Sorry. I imagined it without permission.
+RAK/RAK0049960
+D-Don't worry....[nl]But I'm sure you'd have had me beat in terms of cuteness.
+KSK/KSK0014840
+Huh!? W-What!? I wasn't cute at all!
+RAK/RAK0049970
+....Nope. I have no doubt that you were.[nl]And I'll stand by that statement.
+KSK/KSK0014850
+-------!
+RAK/RAK0049980
+(I don't really remember any of it.[nl] Neither Chitoge nor Onodera....[nl] Even though I'm quite sure we met a long time ago.)
+KSK/KSK0014860
+No problem. I'm just glad you're not hurt.
+@ザクシャ小咲・小
+RAK/RAK0049990
+Y-Yeah.
+RAK/RAK0050000
+(After a moderate workout, Onodera soothed me....[nl] I'm definitely gonna fall asleep in my next class.....)
+@イベント終了処理
+common.asb

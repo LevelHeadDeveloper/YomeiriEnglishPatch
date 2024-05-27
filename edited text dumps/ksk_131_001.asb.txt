@@ -1,0 +1,94 @@
+__main
+@Lclearscreenall
+@ksk_131
+@イベント開始処理
+KSK/KSK0015430
+......Hahhh.....
+RAK/RAK0050690
+Onodera, what's wrong?[nl]Are you feeling sick?
+KSK/KSK0015440
+Uh, no. I'm just a little tired.[nl]No big deal.
+@ＢＧＭ再生
+......
+RUR/RUR0011600
+Oh my goodness. Kosaki,[nl]I think you might have a fever.
+@expose
+KSK/KSK0015450
+Huh? Ummm....[nl]I don't really....think I do.
+RUR/RUR0011610
+Ichijo, I'm sorry, but could you take Kosaki to the infirmary[nl]for me? If Kosaki were to collapse on the way over,[nl]I wouldn't be able to carry her.
+RAK/RAK0050700
+Got it. Onodera, do you feel up to walking to the infirmary?
+KSK/KSK0015460
+Oh, come on. You're overblowing it~.
+RUR/RUR0011620
+Ichijo, I'm sorry, but could you let Kosaki lean on your[nl]shoulder? She's insisting she's fine, even though she's not.
+KSK/KSK0015470
+T-That's not true.[nl]Really, I'm fine....
+RUR/RUR0011630
+See, I told you.[nl]Ichijo, take her quickly.
+RAK/RAK0050710
+Yes, of course! Onodera, hang onto....[nl]Wait, it's kinda hard to hold on, isn't it.[nl]Alright! We'll do it like this!
+KSK/KSK0015480
+Huh? Waaagh!
+RAK/RAK0050720
+Just bear with me for a while!
+KSK/KSK0015490
+Hyaaaaaaaaahhhh!!!!
+@ザクシャ小咲・中
+RAK/RAK0050730
+O-Onodera!? You've got steam coming off of your face![nl]This isn't good, I can't let this happen! We gotta[nl]hurry to the infirmary!
+RUR/RUR0011640
+....I really wasn't expecting you to carry her[nl]in your arms princess-style. I wonder if she'll[nl]still have a heartbeat after this....
+@フェードアウト
+@背景変更
+KSK/KSK0015500
+Zzz....zzz.....
+RAK/RAK0050740
+(She seems to be doing better after a bit of sleep.[nl] Her fever's gone down, and I think she'll be okay[nl] at this rate.)
+KSK/KSK0015510
+Mmm.....mmmgh.....
+RAK/RAK0050750
+(Oh....her blanket slipped off.)
+RAK/RAK0050760
+That's not good. I'll need to put it back on.
+CTG/CTG0013700
+Darling![nl]Is it true that you carried Kosaki to--
+CTG/CTG0013710
+....Wait, huh?
+CTG/CTG0013720
+W-Whaddya think you're doing, you....
+RAK/RAK0050770
+Huh? What are you....[nl]I don't really think I'm doing anything....
+CTG/CTG0013730
+Your hands....
+RAK/RAK0050780
+My hands?
+RAK/RAK0050790
+....Aaah! I-I was just trying to put[nl]her blanket back over her....!
+CTG/CTG0013740
+You weren't pulling anything off....right?[nl]You wouldn't do something like that? I can trust you, right?
+RAK/RAK0050800
+Of course I wasn't![nl]I'd never do something like that!
+KSK/KSK0015520
+Umm....you two.[nl]Do you think you could keep it down?
+@expose2
+CTG/CTG0013750G
+S-Sorry.
+RAK/RAK0050820
+No! I was honestly just trying to put her blanket[nl]back over her! You gotta believe me, honey!
+CTG/CTG0013760
+YOOOUUUU PERVERRRTED[nl]BEEEEAN SPROOOOUT!!!
+@ＨＰ－５０
+RAK/RAK0050830
+Gaaaaahhhh!
+RAK/RAK0050840
+I-I'm innocent...I...swear....
+CTG/CTG0013770
+Hmph! Right!
+CTG/CTG0013780
+Oh, sorry, Kosaki!
+RAK/RAK0050850
+(Now I'm in an even worse state than Kosaki....)
+@イベント終了処理
+common.asb

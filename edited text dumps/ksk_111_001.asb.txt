@@ -1,0 +1,73 @@
+__main
+@Lclearscreenall
+@ksk_111
+@イベント開始処理
+KSK/KSK0012660
+Oh, Ichijo. Headed home?
+RAK/RAK0047070
+Yeah. Are you headed somewhere, Onodera?
+KSK/KSK0012670
+No, I'm going home, too.[nl]I'm supposed to help out at the store today,[nl]so I have to go right home.
+RAK/RAK0047080
+Oh, I see. Well, umm....[nl]Let's walk together halfway.
+KSK/KSK0012680
+Yeah, okay!
+@フェードアウト
+@ＢＧＭ再生
+@背景変更
+KSK/KSK0012690
+Umm.....Ichijo, what do you do when you get home?[nl]Do you study or something?
+RAK/RAK0047090
+Ummm....[nl]Well, I study, but I spend most of my time cooking.
+KSK/KSK0012700
+I see.... Ichijo, you really like cooking.[nl]What else do you do?
+RAK/RAK0047100
+What else.... [nl]Ummmm, I don't really have any other hobbies~.[nl]Uhhhh....
+MTA/MTA0000010G
+Hut, two, hut, two, hut, two.....
+RAK/RAK0047110
+Hm? Who's that?
+KSK/KSK0012710
+....Sounds like the track and field club's practicing.[nl]They're running this way.
+MTA/MTA0000020G
+One, two, three, four![nl]One, two, three, four!
+RAK/RAK0047120
+Aaaaah! If we don't move, we're gonna collide!
+RAK/RAK0047130
+O-Onodera, this way!
+KSK/KSK0012720
+Huh....!?
+@画面揺らし2
+KSK/KSK0012730
+----!!
+MTA/MTA0000030G
+RAK/RAK0047140
+(H-Huh....?[nl] Isn't this position kinda not so bad!?)
+KSK/KSK0012740
+Wawawawawawa~~~~~!!
+MTA/MTA0000040G
+MTA/MTA0000050G
+Couples, explode![nl]Couples, explode!
+MTA/MTA0000060G
+Screw you, bastards![nl]Go die right now!
+RAK/RAK0047150
+(H-How many of these guys are there!?[nl] And I can hear some kind of curse....)
+RAK/RAK0047160
+(Hurry up and pass....no, maybe don't pass just yet....[nl] Wait, what am I thinking!?[nl] Onodera's probably really embarrassed!)
+MTA/MTA0000070G
+RAK/RAK0047170
+-----
+KSK/KSK0012750
+RAK/RAK0047180
+Phew....they're gone.[nl]Onodera, s-sorry for putting you in that position!
+KSK/KSK0012760
+N-No....it's not like that!
+@ザクシャ小咲・中
+KSK/KSK0012770
+....Thanks for protecting me.[nl]It was very reassuring.
+RAK/RAK0047190
+I-I see....[nl]Thank goodness.
+RAK/RAK0047200
+(....Thank you, track and field club.)
+@イベント終了処理
+common.asb

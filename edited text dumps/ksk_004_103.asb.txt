@@ -1,0 +1,19 @@
+__main
+@Lclearscreenall
+@ksk_004_103
+@expose
+KSK/KSK0004570
+.....I really wonder if I can find it.....
+@ksk_004_ana01_success
+@ザクシャ小咲・１
+KSK/KSK0004580
+Ichijo....
+@ksk_004_ana01_failure
+KSK/KSK0004590
+I guess we probably won't....[nl]Sorry, that was a weird question.
+KSK/KSK0004600
+Then, why don't we hang out for a while?
+@ksk_004_103_end
+@ksk_004_201
+common.asb
+ksk_004_201.asb

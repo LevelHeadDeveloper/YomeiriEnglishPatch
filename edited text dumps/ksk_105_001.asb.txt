@@ -1,0 +1,46 @@
+__main
+@Lclearscreenall
+@ksk_105
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0013570
+.....So, the relative pronoun actually goes over here.[nl]That's why it translates like this.
+KSK/KSK0011850
+Oh, I see. Thanks, Chitoge.[nl]I think I understand it a little better now!
+RAK/RAK0046150
+You're awesome.
+@expose
+CTG/CTG0013580
+Well, sure~. I was making all A's back in the U.S.!
+RAK/RAK0046160
+That's because they don't have home ec in America, right?
+@expose2
+CTG/CTG0013590
+What did you say?
+KSK/KSK0011860
+Chitoge, you really are amazing.
+RAK/RAK0046170
+But in your case, Onodera I'm sure you[nl]get excellent marks on your report card.
+KSK/KSK0011870
+T-That's not true at all![nl]I'm not that....
+KSK/KSK0011880
+.....Ah. B-But, if we're talking about home ec,[nl]the teacher....may have praised me for my[nl]good finishing touches.
+CTG/CTG0013600
+Everything you make is so beautiful, Kosaki.[nl]I could never make anything that pretty!
+RAK/RAK0046180
+No, it's more of a fundamental....
+CTG/CTG0013610
+What did you say....?
+RAK/RAK0046190
+....Nothing.
+RAK/RAK0046200
+But I really do think your finishing touches are great,[nl]Onodera. It must be awesome to have that strength.
+KSK/KSK0011890
+I-Is that so....
+CTG/CTG0013620
+Yep!
+@ザクシャ小咲・小
+KSK/KSK0011900
+....Hehehe. I'm glad to hear you say that.
+@イベント終了処理
+common.asb

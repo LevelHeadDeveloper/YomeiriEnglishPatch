@@ -1,0 +1,178 @@
+__main
+@Lclearscreenall
+@ksk_116
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0047960
+Oh, Onodera. What are you doing here this late?
+KSK/KSK0013530
+Ah, Ichijo.[nl]The science teacher asked me to[nl]return this lab equipment.
+RAK/RAK0047970
+To the science room?
+KSK/KSK0013540
+Yes.
+SYU/SYU0008220
+Oh, well that's quite the misfortune....[nl]Onodera, I pray for your safety....!
+RAK/RAK0047990
+What the hell, Shuu.[nl]That was so exaggerated and out of nowhere.
+KSK/KSK0013550
+Ahaha, yeah.[nl]It's not really that much of a hassle.
+@expose2
+SYU/SYU0008230
+Oh, so you don't know, then?[nl]It's a terrifying tale, one that has spread amongst[nl]the students here at Bonyari High School...!
+KSK/KSK0013560
+Huh? T e r r i f y i n g   t a l e?
+KSK/KSK0013570
+...Um, well....[nl]W-what kind of tale...?
+RAK/RAK0048000
+Wa- Hey, Shuu![nl]Stop trying to needlessly scare Onodera!
+RAK/RAK0048010
+Onodera, you're not great with horror stories, are you?
+KSK/KSK0013580
+Yeah....normally I am,[nl]but I've already heard half of this one....
+KSK/KSK0013590
+Maybe you could tell me the rest.[nl]It'll help me mentally prepare....yeah....
+@expose
+SYU/SYU0008240
+Then here's the story!
+SYU/SYU0008250
+Rumor has it, if you go into the science room after school,[nl]the human body model will start moving around!
+RAK/RAK0048020
+What the hell is that story?[nl]It's just a bunch of cheap nonsense....
+KSK/KSK0013600
+R-R-R-Right![nl]Yeah, I'm glad it wasn't too s-s-s-scary!!
+RAK/RAK0048030
+(It totally got her!)
+SYU/SYU0008270
+....Well, I dunno.[nl]Lately, I've heard that a lot more students are seeing it.
+KSK/KSK0013610
+R-R-R-R-Really!?[nl]N-N-Now that you've told me that,[nl]I might be a little too scared to go....maybe....
+SYU/SYU0008280
+I know, right~!　So, here's what you do.[nl]What if, instead of you, Raku goes[nl]and returns the equipment?
+RAK/RAK0048040
+Huh!?　Jeez, you're....
+RAK/RAK0048050
+But sure, I'll go.[nl]Onodera, I'll do it for you.[nl]Let me see that equipment.
+KSK/KSK0013620
+B-But they asked me to do it![nl]Besides, I can't force you to do it for me[nl]just because I'm scared....
+SYU/SYU0008290
+....Well then, how about you go together?
+KSK/KSK0013630
+Huh...?
+SYU/SYU0008300
+If something happens, Raku can save you.[nl]Eh, Raku? Isn't that right?
+RAK/RAK0048060
+The way you said it kind of pisses me off....[nl]But, okay. I will. Let's go, Onodera.
+KSK/KSK0013640
+I-Is that alright?
+RAK/RAK0048070
+Yeah, leave it to me![nl]It's this idiot who scared you,[nl]it's not like I can just do nothing about it.
+KSK/KSK0013650
+Ahhh, thanks....
+SYU/SYU0008310
+Hehehehe....[nl]Good luck, Raku~!
+RAK/RAK0048080
+(I'm thankful that you've set up this situation for me....[nl] but I'm not sure whether to punch you or thank you first.)
+@ＢＧＭ停止
+@背景変更
+RAK/RAK0048090
+Sorry, Onodera.[nl]Shuu was just being stupid.
+KSK/KSK0013660
+No, it's all right.[nl]You're with me, so I'm not scared, Ichijo.
+KSK/KSK0013670
+Excuse mee...![nl]....I guess there's no one here.
+RAK/RAK0048100
+Let's leave the equipment here and head home.
+KSK/KSK0013680
+....*gasp*
+KSK/KSK0013690
+Ichijo, did you touch something just now?
+RAK/RAK0048110
+No, not really. What was that sound?
+@画面揺らし2
+RAK/RAK0048120G
+Waaaaaaaaagh!
+RAK/RAK0048130
+T-T-The human body model![nl]It's actually moving!?
+KSK/KSK0013710
+Guhhh....
+RAK/RAK0048140
+O-O-Onodera! Hang in there, Onodera!
+RAK/RAK0048150
+Crap!
+RAK/RAK0048160
+(I'd better pick up Onodera and make a run for it!)
+@フェードアウト
+RAK/RAK0048170
+Hahh.... Hahhh....
+RAK/RAK0048180
+(I don't think it's following us anymore.)
+KSK/KSK0013720
+Mm....
+RAK/RAK0048190
+Onodera! Thank god you're awake!
+KSK/KSK0013730
+Ichijo....?
+KSK/KSK0013740
+Ahh! J-J-J-J--!!
+RAK/RAK0048200
+The human body model, it's.....
+Not chasing us anymore
+A mistake
+RAK/RAK0048210
+It doesn't look like it's following us anymore.
+KSK/KSK0013750
+I-Is that so?[nl]Hahh~~~.....thank goodness....
+@ザクシャ小咲・中
+KSK/KSK0013760
+....You saved me, Ichijo.
+RAK/RAK0048220
+I didn't really, I just ran off as fast as I could.
+KSK/KSK0013770
+No. That's how you saved me.[nl]Thanks, Ichijo.
+RAK/RAK0048230
+Ahh, well....y'know,[nl]I think we might've mis-seen it, yeah.
+RAK/RAK0048240
+(I don't want her to get scared....[nl] I'll conceal the truth within myself....)
+KSK/KSK0013780
+You don't have to do that.
+RAK/RAK0048250
+Eh?
+@ザクシャ小咲・小
+KSK/KSK0013790
+You're just saying that so I won't be scared, right?[nl]After all, you're so kind like that.
+KSK/KSK0013800
+But, no matter how hard I think about it,[nl]I really don't think we saw it wrong.[nl]....It's alright, I'm not scared anymore.
+RAK/RAK0048260
+I see....
+KSK/KSK0013810
+---!
+RAK/RAK0048270
+W-What's wrong, Onodera!?
+KSK/KSK0013820
+Y-Y-You're h-h-holding me---!?
+RAK/RAK0048280
+Huh!?
+RAK/RAK0048290
+Aah, r-r-right! S-Sorry!
+RAK/RAK0048300
+Sorry, Onodera.[nl]I got caught up in the heat of the moment....
+KSK/KSK0013830
+N-No! No need to apologize![nl]I mean, you did save me that way....
+@expose
+KSK/KSK0013840
+....I'm very happy....
+RAK/RAK0048310
+Huh....?
+RAK/RAK0048320
+(....N-N-No, no! Calm down![nl] She's just happy because I saved her![nl] It's not like she's happy that we're carrying her!)
+RAK/RAK0048330
+Aahh~, but I didn't think[nl]the story would actually be true.
+KSK/KSK0013850
+I was pretty surprised, too![nl]We'll have to tell Maiko about this, too!
+RAK/RAK0048340
+I think he's probably laughing to himself right now,[nl]but this was the real deal....
+RAK/RAK0048350
+Never underestimate Bonyari High School....
+@イベント終了処理
+common.asb

@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@ksk_201
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0015930
+Good morning, Ichijo.
+RAK/RAK0051560
+Oh, good morning, Onodera.[nl]It's rare to see you here this early.
+@expose
+KSK/KSK0015940
+Yeah. I was helping out around the house for a bit,[nl]and it got late.
+RAK/RAK0051570
+I see....[nl]You're so nice, helping your family out in the morning.
+KSK/KSK0015950
+No. That's not true at all.
+......
+RAK/RAK0051580
+....I-If you'd like, could we walk to class together....maybe?
+KSK/KSK0015960
+Ah.....O-Of course![nl]I'm happy....no, wait....ummm....yeah.
+KSK/KSK0015970
+....A-Alright.[nl]Let's walk to class together.
+@イベント終了処理
+common.asb

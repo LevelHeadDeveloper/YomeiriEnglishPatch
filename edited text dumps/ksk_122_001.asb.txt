@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@ksk_122
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0014450
+My sister called me yesterday. She said she and her[nl]dorm-mates planned to tell each other stories one-by-one[nl]and she wanted to know if I had any she could use.
+RAK/RAK0049290
+Wow. So they do that kind of thing in dorms?[nl]Isn't that kind of a high hurdle?
+KSK/KSK0014460
+It seems to be a private kind of event.[nl]We talked about it for an hour, but neither of us[nl]could come up with any stories.
+RUR/RUR0011290
+She sounds like she's having fun with dorm life.[nl]I'm glad to hear it.
+RAK/RAK0049300
+Miyamoto, have you ever met Onodera's sister?
+RUR/RUR0011300
+Yeah, several times.[nl]She looks a lot like Kosaki.
+SYU/SYU0008420
+Then she must be cute, too![nl]I'd love to meet her just once!
+RUR/RUR0011310
+I don't think we should let Maiko[nl]anywhere near such an innocent young girl.
+@expose
+SYU/SYU0008430
+Awww, what do you mean by that?[nl]That's terrible, Ruri!
+RAK/RAK0049310
+Onodera's sister looks just like her, huh.[nl]That's kinda hard to imagine, just from hearing it.
+KSK/KSK0014470
+Even though people keep saying we look alike, honestly,[nl]I think her personality's more robust than mine.
+KSK/KSK0014480
+She tries to make up for that with[nl]her Japanese confectionery work....
+RAK/RAK0049320
+Ohh, I see.
+KSK/KSK0014490
+Yeah. She also tends to make a lot of strong assumptions,[nl]but that's pretty cute, too.
+You seem like the big-sister type.
+You gotta introduce me to her!
+RAK/RAK0049330
+....Onodera, you really seem like the big sister type.
+KSK/KSK0014500
+Huh?
+RAK/RAK0049340
+I mean, you look incredibly happy whenever you're talking[nl]about your sister. You even seem to think she's cute.[nl]That kind of thing is nice.
+@ザクシャ小咲・小
+KSK/KSK0014510
+Hehehe. I hope she meets you someday, Ichijo.[nl]If that happens, be a good friend to her, okay?
+RAK/RAK0049350
+Yeah! Of course!
+RAK/RAK0049360
+I mean, you gotta--
+SYU/SYU0008440
+Introduce me!!
+@キャラ揺らし
+SYU/SYU0008450
+Glbctkh!!
+RUR/RUR0011320
+I knew you were gonna say that.
+SYU/SYU0008460
+Mmmmmgh, a phenomenal right-straight punch,[nl]as usual.... Mghbth.
+@画面揺らし
+@expose2
+RUR/RUR0011330
+Ichijo, *you're* not getting any ideas, right?
+RAK/RAK0049370
+N-Nooo! Absolutely not!
+RUR/RUR0011340
+I see. Very well, then.
+KSK/KSK0014520
+I'll introduce you when she gets back, Ichijo.
+RAK/RAK0049380
+O-Okay. Thank you, very respectfully.....hahaha.
+@イベント終了処理
+common.asb

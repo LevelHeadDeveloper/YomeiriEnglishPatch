@@ -1,0 +1,99 @@
+__main
+@Lclearscreenall
+@ksk_119
+@イベント開始処理
+KYK/KYK0000230
+Ichijo, do you have any spare time after school today?[nl]If so, I've got a favor to ask of you.
+RAK/RAK0048620
+I think I do, what do you need?
+KYK/KYK0000240
+Both of our class's representatives for the[nl]beautification committee have a practice game today.[nl]I need some people to take their place.
+KYK/KYK0000250
+I already got Onodera as the first person, but I couldn't[nl]find a second. Could you help us out, Ichijo?
+RAK/RAK0048630
+Of course, I'll do it!
+KYK/KYK0000260
+All right, well said![nl]Thanks, and tell Onodera I said thanks, too.
+@時間経過演出
+@ＢＧＭ再生
+BIK/BIK0000010
+Alright, I need your class to move these buckets to the dump.
+RAK/RAK0048640
+Whoa?[nl]That's a lot of stuff.
+BIK/BIK0000020
+There's more where that came from![nl]Here, take these.
+KSK/KSK0014030
+Mmph...!
+RAK/RAK0048650
+Whaa!?[nl]Onodera, you've got as many buckets as I do, as a man!
+RAK/RAK0048660
+I don't think you can handle all of that, Onodera.[nl]Can you put some of those down for a while?
+KSK/KSK0014040
+S-Sure....just gimme a sec.[nl]These buckets are stacked kinda weird,[nl]and it feels unbalanced....
+@キャラ揺らし
+KSK/KSK0014050
+Waaagh....!?
+RAK/RAK0048670
+Onodera!!
+@画面揺らし
+@フェードアウト
+@背景変更
+RAK/RAK0048680
+Owww....[nl]Onodera, are you hurt!?
+KSK/KSK0014070
+N-No.....[nl]Just startled....
+KSK/KSK0014080
+Oh....! Ichijo, you protected me....![nl]Are you okay!? Are you hurt or anything!?
+RAK/RAK0048690
+I'm fine. I'm just glad you weren't hurt, Onodera.
+KSK/KSK0014090
+Ichijo....
+@ザクシャ小咲・小
+BIK/BIK0000030
+Are you two alright?
+KSK/KSK0014100
+Uh, yes. We're fine.
+BIK/BIK0000040
+That's great. I'd be so happy if *my* boyfriend[nl]protected me like that.
+@expose
+KSK/KSK0014110
+B....B-B-B-B-Boyfriend!?[nl]T-That's not the case....!
+RAK/RAK0048700
+T-That's right! Onodera and I aren't....y'know!
+BIK/BIK0000050
+Oh, is that right?[nl]I thought for sure you were.
+......
+KSK/KSK0014120
+W-Well then, should we get going, Ichijo?
+RAK/RAK0048710
+Y-Yeah.
+RAK/RAK0048720
+(....Onodera, are you embarrased, by any chance?)
+KSK/KSK0014130
+Okay....here goes....
+RAK/RAK0048730
+Alright, lemme take half of yours.
+KSK/KSK0014140
+Huh? Can you handle that many?
+RAK/RAK0048740
+Shouldn't be a problem.
+RAK/RAK0048750
+(Actually, I'm only barely able to lift these![nl] I should at least try to show her something good!)
+RAK/RAK0048760
+Mmmph....!
+KSK/KSK0014150
+Whoa~. I guess you are a boy, after all.
+BIK/BIK0000060
+Oh, my. I'm so glad you boyfriend's so dependable~.[nl]I'm jealous~.
+RAK/RAK0048770
+Wait, no, no, no.....[nl]Aaaaagh!!
+KSK/KSK0014160
+A-Are you okay, Ichijo!?
+RAK/RAK0048780
+Owwwww.....[nl]Aagh, what the....
+BIK/BIK0000070
+Oh, did I say something uncalled-for?
+RAK/RAK0048790
+(Absolutely....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,164 @@
+__main
+@Lclearscreenall
+@ksk_103
+@イベント開始処理
+RAK/RAK0045650
+We're doing a relay race for P.E. today, huh....[nl]That's so boring, really.
+@ＢＧＭ再生
+SYU/SYU0008080
+Heheheh, what are you talking about, Raku?
+SYU/SYU0008090
+This isn't just any relay. This is a co-ed relay![nl]It's today's main event!
+RAK/RAK0045660
+You just have to pass the baton, right?[nl]Doesn't make a difference if it's a guy or a girl.
+SYU/SYU0008100
+Hahaha, is that so?
+RAK/RAK0045670
+What?
+KSK/KSK0011530
+Oh, Ichijo! You're on Team B too?
+RAK/RAK0045680
+Huh? O-Onodera![nl]By any chance, are you on my team!?
+RUR/RUR0010800
+I guess we are. Glad to be here.
+RAK/RAK0045690
+(Wowwwwwwww![nl] I'm feeling so motivated!)
+SYU/SYU0008110
+....Well?
+RAK/RAK0045700
+Y-Yeah....
+SYU/SYU0008120
+I think Ruri should run first, then me,[nl]then Onodera, then Raku. I'm not sure, though.
+RAK/RAK0045710
+Huh, I'm the anchor!?
+@expose
+KSK/KSK0011540
+I'm not too good at passing the baton....[nl]I hope I can do it well.
+RUR/RUR0010810
+Well then, why don't you practice?[nl]You can pair up with Ichijo.
+KSK/KSK0011550
+Huh!?
+@時間経過演出
+RAK/RAK0045720
+Onodera. I'm ready when you are.
+KSK/KSK0011560
+O-Okay! Well then, here I go!
+KSK/KSK0011570
+.....Here, the baton, Ichijo!
+RAK/RAK0045730
+Right!
+@叫び揺れ
+RAK/RAK0045740
+Alright! Perfect![nl]That was good, Onodera.
+KSK/KSK0011580
+....Yes, I think this could work.
+......
+RUR/RUR0010820
+Kosaki....[nl]How is it that you are only this good at this[nl]in these types of situations....?
+SYU/SYU0008130
+Oh, looks like it's showtime.[nl]Ruri, you didn't have time to practice.[nl]Will you be okay?
+RUR/RUR0010830
+I'll be fine.[nl]All I need you to do is take the baton.[nl]I don't need anything else from you.
+SYU/SYU0008140
+Huh?[nl]You could have asked me for a little more!
+KSK/KSK0011590
+Ruri, good luck being the first runner.
+RUR/RUR0010840
+Thanks. Well, I'm off.
+KSK/KSK0011600
+Go, Ruri!
+KSK/KSK0011610
+....Woah, amazing![nl]We're second place out of five teams!
+RAK/RAK0045750
+Looks like Shuu's up next. Oh, he's pretty fast....[nl]Woah, he's in first place!
+KSK/KSK0011620
+....H-He really is![nl]I'm getting kind of nervous....
+RAK/RAK0045760
+You don't need to be nervous.[nl]I may not be a reliable runner,[nl]but I'm right behind you all the way.
+KSK/KSK0011630
+Hehe, thanks.
+KSK/KSK0011640
+....You're not unreliable.
+KSK/KSK0011650
+Alright....I've got to go![nl]I'll do my very best!
+RAK/RAK0045770
+Okay! I'm next up.
+RUR/RUR0010850
+....Phew. It's been a while since I've run like that.
+RUR/RUR0010860
+Looks like Kosaki's got the baton.[nl]She's running as fast as she can, but....
+RAK/RAK0045780
+(She's got the baton, then....[nl] Good luck, Onodera!)
+RUR/RUR0010870
+Looks like you're up next, Ichijo.
+RAK/RAK0045790
+Yeah. Well, I'm ready!
+KSK/KSK0011660
+Hahh, hahh.....
+RAK/RAK0045800
+....Onodera, you're almost there![nl]Keep going, keep going!
+KSK/KSK0011670
+S-Sorry! Ichijo....!
+RAK/RAK0045810
+Got it![nl]RAAAAAAAAAAAAAAH!
+SYU/SYU0008150
+Raku~! Go for it![nl]It's time to show us what you're made of as a man!
+RUR/RUR0010880
+Ichijo, try and do your best.
+RUR/RUR0010890
+...Come on, you say it too.
+KSK/KSK0011680
+....O-Okay!
+KSK/KSK0011690
+I-Ichijo.....!
+RAK/RAK0045820
+(Huh.....? Is that.....Onodera cheering!?)
+KSK/KSK0011700
+D-Do your best, Ichijo!
+RAK/RAK0045830
+......HAAAAAAAAAAAAHHH!
+@フェードアウト
+@背景変更
+RAK/RAK0045840
+GOOOOAAAAAAL!
+SYU/SYU0008160
+Oho! A heated chase to first place!
+KSK/KSK0011710
+That was amazing, Ichijo~![nl]Absolutely amazing job!
+RAK/RAK0045850
+Hahh....hahh....[nl]N-No, it was because of you.....[nl]*cough*
+RUR/RUR0010900
+Looks to me like you're dying.
+RAK/RAK0045860
+Gahh....[nl]You're just imagining it.... *cough*!!
+SYU/SYU0008170
+Well, well, that's Raku for ya.
+@ザクシャ小咲・中
+KSK/KSK0011720
+Ichijo, thank you so much for[nl]working so hard for me!
+RAK/RAK0045870
+Sure. Not at all![nl]Good job, Onodera!
+RAK/RAK0045880
+Hahh.....hahh.....[nl]C-Crap! We lost....
+SYU/SYU0008180
+That was a great catch-up~.[nl]Well, at least we didn't place badly.
+KSK/KSK0011730
+I-I'm sorry. If I hadn't fallen behind....
+RAK/RAK0045890
+No, it wasn't your fault....
+RUR/RUR0010910
+There's no blaming one person for a team's loss.
+SYU/SYU0008190
+Oh, Ruri, you have such a way with words!
+@キャラ揺らし
+SYU/SYU0008200
+Glpckth....why....
+RAK/RAK0045900
+I should have been in better shape too....
+RAK/RAK0045910
+Well, we'll try not to lose next time.[nl]Right, Onodera?
+@ザクシャ小咲・小
+KSK/KSK0011740
+Right!
+@イベント終了処理
+common.asb

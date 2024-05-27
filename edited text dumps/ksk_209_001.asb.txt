@@ -1,0 +1,96 @@
+__main
+@Lclearscreenall
+@ksk_209
+@イベント開始処理
+@定型ＢＧＭ再生
+RYU/RYU0001310
+Young master![nl]Your sweet lover's here!
+RAK/RAK0051940
+.....Hm. Sweet lover?
+KSK/KSK0016260
+I'm coming in!
+RAK/RAK0051950
+(T-That sounds like....!!)
+KSK/KSK0016270
+Sorry for the sudden intrusion.[nl]I was just in the neighborhood and[nl]figured I might as well see what you're doing.
+RAK/RAK0051960
+O-Onodera!? Uh....wai...sorry for the mess![nl]I'll clean it up right now!
+@expose
+KSK/KSK0016280
+No, not at all.[nl]It's not that messy.
+KSK/KSK0016290
+Also....what's the matter, Raku?[nl]You usually call me Kosaki.
+RAK/RAK0051970
+Huh....?
+KSK/KSK0016300
+You're acting strange today, Raku.[nl]It's like you're back to how you were in high school.
+RAK/RAK0051980
+....Huh? I'm in high school right now.
+KSK/KSK0016310
+Hehehehe! Maybe you were asleep just now[nl]and dreamed it? We graduated from high school[nl]a long time ago.
+RAK/RAK0051990
+Huh!? I-I didn't know that!
+KSK/KSK0016320
+I guess you didn't.
+RAK/RAK0052000
+(Seriously!?!?[nl] What is this? a dream? A parallel world?)
+RAK/RAK0052010
+(I don't know, but I'll[nl] try to do as she requested....)
+RAK/RAK0052020
+K-K-K-K-K-K-...Kosaki....
+@expose2
+KSK/KSK0016330
+....What is it, Raku?
+RAK/RAK0052030
+(Waaaaaaaagh![nl] Onodera's so CUUUUUUTE!)
+KSK/KSK0016340
+Hahhh.....by the way, it's so hot in this room.[nl]Did you turn on the air conditioner?
+RAK/RAK0052040
+No, I didn't....[nl]Is it that hot in here?
+KSK/KSK0016350
+Yeah....[nl]I'm starting to sweat.
+RAK/RAK0052050
+Well, I'll go grab you a cold drink, then.[nl]Wait here a sec.
+KSK/KSK0016360
+Wait, Raku....
+RAK/RAK0052060
+....Hm?
+KSK/KSK0016370
+Y-You know, that isn't what I meant....
+KSK/KSK0016380
+....Is it alright if I take off my clothes....?
+RAK/RAK0052070
+....Huh?
+@ザクシャ小咲・小
+@背景変更
+KSK/KSK0016390
+...You know, so....[nl]....I want you to hold me tight....
+RAK/RAK0052080
+(Huh, whaa!? Hold her tight....[nl] But she's gonna take off her clothes, too!?)
+KSK/KSK0016400
+Is that a bother....?
+RAK/RAK0052090
+No, a-absolutely not![nl]But I feel like there's at least a few more[nl]steps we need to take before we do that....
+@ザクシャ小咲・中
+KSK/KSK0016410
+---
+RAK/RAK0052100
+Wai-- no, stooop![nl]T-This is bad! AAAAAAAAAAGHH!
+RAK/RAK0052110
+Huh!?
+KYK/KYK0000320
+Hey, Ichijo! You awake~?
+RAK/RAK0052120
+....A-A dream....?
+KYK/KYK0000330
+Ya have such a good dream[nl]that it made you scream?
+RAK/RAK0052130
+Hahahaha....right.[nl]Sorry about that.
+KYK/KYK0000340
+Just for you, a special homework course.
+RAK/RAK0052140
+O-Oops....
+RAK/RAK0052150
+(Dammit, I wanna go back to the dream world~~~)
+@イベント終了処理
+common.asb

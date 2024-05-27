@@ -1,0 +1,91 @@
+__main
+@Lclearscreenall
+@ksk_127
+@イベント開始処理
+@ＢＧＭ再生
+RUR/RUR0011440
+"Ideal Man" edition?[nl]It's unusual for you to read that sort of magazine, Kosaki.
+KSK/KSK0014870
+Yeah. Adashi lent it to me earlier and told me[nl]to read it because it was interesting.
+SYU/SYU0008570
+Raku, do you hear what they're talking about?[nl]This topic piques my interest very much....
+SYU/SYU0008580
+Let's stick around and pay extra close attention[nl]to whatever bits of conversation we happen to hear.
+RAK/RAK0050010
+S-Sure....
+KSK/KSK0014880
+But everyone here picked such an amazing ideal guy.[nl]I wonder if guys like that really do exist.
+RUR/RUR0011450
+They call them "ideal" because they don't exist.[nl]Such a convenient guy cannot exist.
+RUR/RUR0011460
+Isn't that right, Ichijo?
+RAK/RAK0050020
+!!
+RAK/RAK0050030
+....Uh, s-since I only just entered the conversation,[nl]I-I don't have a clue what you're talking about!
+RUR/RUR0011470
+....I'm saying that the "ideal man" for girls doesn't exist.[nl]Wouldn't you agree?
+SYU/SYU0008590
+Hey, what exactly are the qualifications for "ideal man"?[nl]The way you're talking about it, it sounds like a pretty[nl]high bar.
+@expose
+KSK/KSK0014890
+Y-Yeah. According to this magazine,[nl]he's competent enough to survive the recession,[nl]smart enough to make his own way in the world....
+KSK/KSK0014900
+He's physically fit, tall and handsome,[nl]makes over 8 million yen every year, is kind,[nl]listens to anything a girl says... and also, ummm....
+RAK/RAK0050040
+Onodera, stop. Yes, I understand that[nl]such a high-spec man is very sought-after.
+RUR/RUR0011480
+Well, according to the magazine, anyway.[nl]Not every woman in the world thinks so.
+SYU/SYU0008600
+I appreciate that very much.[nl]By the way, Onodera, what would your ideal man be like?
+KSK/KSK0014910
+Huh? M-Mine!?
+RAK/RAK0050050
+(Shuu, good job!)
+KSK/KSK0014920
+I guess....yeah.[nl]I'd like....someone kind. Who uses his strength[nl]to help others, instead of himself.
+RAK/RAK0050060
+Wow, that's good.
+KSK/KSK0014930
+Y-Yeah....
+RAK/RAK0050070
+(....Huh? Onodera looked away from me so fast![nl] Did I do something wrong!?)
+RUR/RUR0011490
+Alright, Ichijo, you're up next.[nl]Tell us about your ideal girl, please.
+RAK/RAK0050080
+Huh!? M-My ideal girl!?
+@expose
+KSK/KSK0014940
+W-Wait! Ruri!
+RUR/RUR0011500
+Don't you wanna hear this, Kosaki?
+KSK/KSK0014950
+Ummmm, well....
+KSK/KSK0014960
+Y-You know, if you don't want to tell us,[nl]you don't have to....
+RAK/RAK0050090
+N-No! I'm totally fine telling you![nl]Let's see....my ideal girl would be a girl who....
+....is liked by animals.
+....gives me a bandage when I'm injured
+RAK/RAK0050100
+The kind of girl that the animals love.
+@ザクシャ小咲・小
+KSK/KSK0014970
+Huh.... I-I see....
+RAK/RAK0050110
+(Oh, oh no![nl] She just looked away again!)
+RAK/RAK0050120
+The sort of girl who would give me a bandage if I got hurt.
+KSK/KSK0014980
+I guess that....huh? That's....
+RAK/RAK0050130
+N-No....![nl]I just meant I'd like a girl who's kind!
+KSK/KSK0014990
+Ah..... T-That's what you meant![nl]Hahahaha!
+@ザクシャ小咲・中
+SYU/SYU0008610
+.....Pfft. Mwhehehehe.....
+RUR/RUR0011510
+Completely and utterly spineless....
+@イベント終了処理
+common.asb

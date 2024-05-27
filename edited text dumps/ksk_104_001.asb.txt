@@ -1,0 +1,108 @@
+__main
+@Lclearscreenall
+@ksk_104
+@イベント開始処理
+RUR/RUR0010920
+Hey, Ichijo.[nl]Can you help with a math problem? It's a real stumper.
+RAK/RAK0045920
+Huh, me? I don't really mind,[nl]but aren't you better at schoolwork than I am?
+@expose
+RUR/RUR0010930
+Not mine. Kosaki's math.
+RAK/RAK0045930
+Huh?
+@ＢＧＭ再生
+KSK/KSK0011750
+Ichijo, I-I'm sorry.[nl]Ruri seems to be busy after this....
+RAK/RAK0045940
+I-I see.[nl]Of course I'll help you, if I can figure it out.
+RUR/RUR0010940
+Well, I'm sorry, but I'm counting on you.
+KSK/KSK0011760
+Um, sorry about this.
+RAK/RAK0045950
+Don't worry about it.[nl]So, which problem is it?
+@expose
+KSK/KSK0011770
+Ummm, this one right here....
+KSK/KSK0011780
+I'm pretty sure I'm supposed to use this formula,[nl]but every time I do, the answer comes out weird.
+RAK/RAK0045960
+I see. Uhhh, if we substitute X once here....
+@ＢＧＭ停止
+RAK/RAK0045970
+(Huh? What's this feeling....?)
+KSK/KSK0011790
+What's wrong, Ichijo?
+RAK/RAK0045980
+....Hang on a sec.
+@フェードアウト
+@背景変更
+@タッチパート開始処理
+@ＢＧＭ再生
+CLD/CLD0001900
+....!
+CLD/CLD0001910
+WAAAAAAAGH!!!
+RAK/RAK0045990
+(He sure fell off there quickly.[nl] Jeez, you can never be too careful with that guy....)
+RAK/RAK0046000
+Hm? What's this?
+RAK/RAK0046010
+(Let's pick this up, just in case....)
+RAK/RAK0056030
+(Maybe I should look somewhere else.)
+@ksk_104_02
+RAK/RAK0046020
+....Sorry, Onodera. It was just my imagination.
+KSK/KSK0011800
+R-Really?
+RAK/RAK0046030
+Uhh, anyway. This one?[nl]You can use this formula for that one.
+KSK/KSK0011810
+Umm....so Y moves to the left side....
+KSK/KSK0011820
+Oh, I get it! I got it, Ichijo!
+RAK/RAK0046040
+Oh, for real!? That's awesome!
+RAK/RAK0046050
+Man, here I was wondering what I'd do[nl]if we couldn't figure it out.~.
+@ザクシャ小咲・小
+KSK/KSK0011830
+....I'd still be fine with that.
+RAK/RAK0046060
+....Huh?
+KSK/KSK0011840
+....No, it's nothing.[nl]Thanks, Ichijo.
+RAK/RAK0046070
+(I'm glad I could help her....)
+CTG/CTG0013520
+Look out, darling!
+RAK/RAK0046080
+Huh!?
+@ＨＰ－３０
+RAK/RAK0046090
+Gwaaagh!
+RAK/RAK0046100
+....Huh?
+RAK/RAK0046110
+O-Over there....![nl]Outside the window....that's Claude!
+CLD/CLD0001920
+Tch....
+@背景変更
+CTG/CTG0013530
+That was a close one....[nl]He was trying to get you!
+RAK/RAK0046120
+Huh, seriously!?
+CTG/CTG0013540
+What the hell were you doing?
+RAK/RAK0046130
+I was just helping Onodera with her homework....
+CTG/CTG0013550
+Ah, I'll bet that's it.
+CTG/CTG0013560
+Okay? We're supposed to be lovers. If you start hanging out[nl]with other girls, they might try to come after you.[nl]Don't let your guard down just because we're in school.
+RAK/RAK0046140
+T-That's unreasonable!!
+@イベント終了処理
+common.asb

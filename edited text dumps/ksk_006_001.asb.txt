@@ -1,0 +1,1136 @@
+__main
+@Lclearscreenall
+@ksk_006
+@イベント開始処理
+KSK/KSK0005440
+....God.
+KSK/KSK0005450
+I'm trying my very hardest.[nl]Please....!
+@フェードアウト
+@背景変更
+RAK/RAK0011800
+Hahhhh.....
+RAK/RAK0011810
+(Right when I'm about to confess my feelings,[nl] we're interrupted by the chimes, and the phone....
+RAK/RAK0011820
+(Even at the symbolic "Tree of Tradition",[nl] we got interrupted by that goddamn lightning.[nl] It all feels like some massive punchline....)
+RAK/RAK0011830
+Aaaah~~~~![nl]Why am I being put through this....!?
+@clearscreenall
+KSK/KSK0005460
+This time, please let it be this time![nl]I want to tell Ichijo how I really feel....!
+@フェードアウト
+RAK/RAK0011840
+I just want to go out with Onodera[nl]without anything getting in our way!
+OTM/OTM0000630
+Silence!
+RAK/RAK0011850
+Waaghh! O-Otama!?
+@expose
+OTM/OTM0000640
+Thy ruckus is far too loud and disruptive![nl]I cannot focus on my inari sushi!
+RAK/RAK0011860
+Hahhh~....[nl]The atmosphere was just right, dammit....
+RAK/RAK0011870
+-----------
+RAK/RAK0011880
+(...Well, there's no sense in just moping.)
+RAK/RAK0011890
+(If I get another chance,[nl] then I'll tell Onodera how I feel, for real this time!)
+RAK/RAK0011900
+...Mph. Morning already....
+RAK/RAK0011910
+Yawwwnnn.....
+RAK/RAK0011920
+Right, time to make breakfast.
+RAK/RAK0011930
+Alright, today's is just as good as ever!
+RAK/RAK0011940
+Hey, guys![nl]Get over here, breakfast is ready!
+..........
+RAK/RAK0011950
+Huh? It's unusually quiet....
+RAK/RAK0011960
+....? There's no one....?
+RAK/RAK0011970
+(No way....[nl]Are they really all...still asleep!?)
+RAK/RAK0011980
+There's no one anywhere in the house....
+RAK/RAK0011990
+(....What's going on here?[nl] Did something happen without me knowing....?)
+RAK/RAK0012000
+(Or maybe I'm dreaming?[nl] If it's a dream, then it won't hurt when I pinch my cheek....)
+RAK/RAK0012010
+Ow! T-That hurt!
+RAK/RAK0012020
+(Which means I'm not dreaming, after all....)
+RAK/RAK0012030
+Right, cellphone![nl]I can try calling Dad's cellphone!
+RAK/RAK0012040
+....No answer.
+RAK/RAK0012050
+Why, dammit!
+RAK/RAK0012060
+(Hah...![nl] Maybe they're setting up for some huge prank....)
+RAK/RAK0012070
+(No, that's impossible.[nl] There's no way an adult do something that immature.)
+RAK/RAK0012080
+(Well, I guess these ones might....)
+RAK/RAK0012090
+Hmmm......
+RAK/RAK0012100
+Anyway, there's no sense in staying here.[nl]I should probably go look for them outside....
+@時間経過演出
+RAK/RAK0012110
+(They aren't out here, either....[nl] Where the hell have they gone?)
+RAK/RAK0012120
+Hm...?
+@ＢＧＭ再生
+RAK/RAK0012130
+(Huh? Something seems off....)
+RAK/RAK0012140
+There's no one on the sidewalks....
+RAK/RAK0012150
+(No....I'm being silly.[nl] Calm down, Raku. What time is it now?)
+RAK/RAK0012160
+(Oh....It's 8 o'clock.[nl]　By now, there should be kids on their way to school[nl] and adults headed to work, right?)
+RAK/RAK0012170
+(Besides, I'd have expected to see at least one car by now.)
+RAK/RAK0012180
+(It's almost as if I'm the only one[nl]in this world....)
+RAK/RAK0012190
+(...! School...Is there anyone at school!?)
+RAK/RAK0012220
+Hahh...!?
+RAK/RAK0012230
+(Are you kidding me!? There's no one here, either!)
+RAK/RAK0012240
+----!
+RAK/RAK0012250
+Hahh~, hahh~....!
+RAK/RAK0012260
+(Really!?[nl]What kind of cruel joke is this!?)
+RAK/RAK0012270
+Is there anyone here!?!?!?
+@ＢＧＭ停止
+KSK/KSK0005470
+Kyahhhh!?
+RAK/RAK0012280
+Gwahh!?
+RAK/RAK0012290
+Onodera?
+KSK/KSK0005480
+...Ichijo...?
+RAK/RAK0012300
+...Hahhh.....[nl]Thank goodness it's you, Onodera.....
+RAK/RAK0012310
+I didn't know what I'd do[nl]if it turned out I was the only one....
+KSK/KSK0005490
+RAK/RAK0012320
+Onodera....?
+KSK/KSK0005500
+....I-I was so scared....
+KSK/KSK0005510
+There wasn't anyone between here and home....[nl]I thought maybe I was alone here....
+RAK/RAK0012330
+So we're in the same boat, then....
+KSK/KSK0005520
+Thank goodness....[nl]....Ichijo's here....
+RAK/RAK0012340
+(Onodera....are you trembling...?)
+RAK/RAK0012350
+(I'm pretty scared myself, to be honest....[nl] But Onodera's a girl, after all,[nl] so she's probably feeling more helpless.)
+RAK/RAK0012360
+(I'm not sure how much I can do[nl] to comfort her, but....)
+KSK/KSK0005530
+....!?
+RAK/RAK0012370
+(As I thought, she's trembling....[nl] Onodera's hands are so small....)
+RAK/RAK0012380
+....Um....
+KSK/KSK0005540
+Y-Yes...?
+RAK/RAK0012390
+I'm not quite sure what's going on here myself....
+RAK/RAK0012400
+But, no matter what, I'll always protect you, Onodera.
+KSK/KSK0005550
+.....I-Ichijo.....
+RAK/RAK0012410
+So....don't worry.[nl]....Okay?
+KSK/KSK0005560
+O-Okay....[nl]Got it....
+KSK/KSK0005570
+Thanks, Ichijo.[nl]I think I feel a little better now.
+RAK/RAK0012420
+(Ah~, Onodera's smiling now.)
+RAK/RAK0012430
+....Okay. That's good.
+KSK/KSK0005580
+...Yeah.[nl]I have to try to calm down some more so I can think....
+RAK/RAK0012440
+Right.
+RAK/RAK0012450
+Onodera. You didn't see anyone else before[nl]I found you, right?
+KSK/KSK0005590
+Yes. That's right.[nl]You neither?
+RAK/RAK0012460
+Yeah. No one anywhere.
+KSK/KSK0005600
+I see....[nl]I wonder where everyone went....
+KSK/KSK0005610
+Ah. Maybe I'm dreaming this?
+KSK/KSK0005620
+Hang on, I'm going to try pinching my cheek!
+RAK/RAK0012470
+Ah- Onodera![nl]Wait a s-
+KSK/KSK0005630
+Ngh....[nl]T-That hurt....
+RAK/RAK0012480
+Uhh....yeah.....[nl]I actually tried doing that earlier....
+OTM/OTM0000650
+What art thou doing, you two?
+RAK/RAK0012490
+(That voice...!)
+RAK/RAK0012500
+Otama!
+OTM/OTM0000660
+Is cheek-pinching such a common practice amongst humans?
+RAK/RAK0012510
+N-No, it's not![nl]It's an old way to check if you're dreaming!
+RAK/RAK0012520
+That aside, why are you even here?
+KSK/KSK0005640
+Um....Ichijo, do you know who this is?
+OTM/OTM0000670
+I am the Inari-sama whom lives in the shrine.[nl]My name is Tama. Prithee call me Otama.
+KSK/KSK0005650
+Inari....sama?
+OTM/OTM0000680
+A fox god, to put it simply.
+OTM/OTM0000690
+I am still an apprentice, however.
+KSK/KSK0005660
+....U-Ummm....
+RAK/RAK0012530
+(Aghh, it's not easy to understand when she just[nl] tells her everything out of the blue....[nl] Even I had trouble when she first told me.)
+RAK/RAK0012540
+Hey, Otama. We haven't seen anyone else[nl]since this morning.
+RAK/RAK0012550
+I'm not sure what's going on,[nl]but maybe you can clue us in to what's going on?
+OTM/OTM0000700
+Certainly. I knoweth precisely what is happening.
+RAK/RAK0012560
+Ohh, really!?[nl]Tell us, quick!
+OTM/OTM0000710
+Ahem, listen, and be amazed![nl]'Twas I who made you the only ones[nl]in this world!
+RAK/RAK0012570G
+....Huh?
+OTM/OTM0000720
+Thou art both in this world on account of a wish.
+OTM/OTM0000730
+Rather than taking everyone else away,[nl]I moved the two of thee to a separate world.
+RAK/RAK0012580
+Ehh...?
+OTM/OTM0000740
+Fret not, for everyone in the original world[nl]still lives as they did.
+RAK/RAK0012590
+Uh.... So, what you're saying is that we're missing[nl]in the real world!?
+OTM/OTM0000750
+Nay, for this world is on a different plane than the original,[nl]and thus has its own flow of time. Any amount of time that[nl]passes here counts as none at all in the original world.
+RAK/RAK0012600
+Hang on.[nl]I'm not sure I really understand....
+RAK/RAK0012610
+So you're the one who did this....[nl]Is that what you're saying?
+OTM/OTM0000760
+I have been saying that for quite some time![nl]Thou art a quite foolish young man.
+RAK/RAK0012620
+No, you just said it in a way[nl]that made it difficult to believe....
+RAK/RAK0012630
+Ah- But....does that mean that you can[nl]take us back to our world!?
+OTM/OTM0000770
+Nah...?
+RAK/RAK0012640
+Huh?
+OTM/OTM0000780
+Until thy wish is fulfilled, the magic will not work.
+OTM/OTM0000790
+Despite my appearance, I am but an apprentice.
+RAK/RAK0012650
+W-What the hell!? I mean, what wish!?
+OTM/OTM0000800
+Did I not tell you?
+OTM/OTM0000810
+My job is to grant the wishes of the many,[nl]and my goal is to ascend to the status of "Sacred Fox"[nl]through the accumulation of virtues.
+RAK/RAK0012660
+Ummm....I'm not sure I understand, but....
+RAK/RAK0012670
+You granted someone's wish as part of your training.[nl]And somehow, that wish wound us up here.[nl]Is that correct?
+OTM/OTM0000820
+Verily, yes.
+RAK/RAK0012680
+Then I'll make a wish![nl]I wish we were back in the original world!
+OTM/OTM0000830
+I cannot grant thy wish. Priority is given to older wishes.[nl]Since thy wish negates the other wish, I cannot grant it.
+RAK/RAK0012690
+What the hell!
+KSK/KSK0005680
+Um.... So, someone wished that Ichijo and I[nl]would be moved to this world....[nl]Is that correct?
+OTM/OTM0000840
+Apologies, but I cannot reveal wishes to others.
+OTM/OTM0000850
+But, the person whomst made the wish[nl]probably knoweth exactly what sort of wish it was, yeah?
+KSK/KSK0005690
+Wish....Inari.....
+KSK/KSK0005700
+OTM/OTM0000860
+As I hath said, once the old wish is granted, you may leave.[nl]You needn't fret.
+OTM/OTM0000870
+Well then.
+RAK/RAK0012700
+Wa- Hey! Where the hell are you going?[nl]You haven't told us the rest!
+OTM/OTM0000880
+My mere presence among thee[nl]is a hindrance to the wish.
+OTM/OTM0000890
+In this world, thou shalt desire neither food,[nl]nor sleep. Hunger and tiredness exist not.[nl]So do not worry, but do thy best!
+RAK/RAK0012710
+W-Wait just a second![nl]What do you mean, "do thy best"!?
+RAK/RAK0012720
+-----
+RAK/RAK0012730
+Dammit....She's gone....
+KSK/KSK0005710
+RAK/RAK0012740
+Onodera, did you catch all that?[nl]Hearing all that from a fox girl might have[nl]been a little confusing....
+KSK/KSK0005720
+Uh...no....[nl]I'm just a little surprised....
+RAK/RAK0012750
+Yeah....
+KSK/KSK0005730
+But, I'm also a bit relieved.
+RAK/RAK0012760
+Huh? How come?
+KSK/KSK0005740
+Umm....Well, we know why we're here now.
+KSK/KSK0005750
+We also know that everyone's safe....[nl]I'm very happy about that.
+RAK/RAK0012770
+!!
+RAK/RAK0012780
+(Onodera! Even at a time like this,[nl] you're worried more about others than yourself....)
+RAK/RAK0012790
+KSK/KSK0005760
+? Ichijo, what is it?
+RAK/RAK0012800
+Well, you seem to adapt to situations like this very well.[nl]You were just a little surprised....
+KSK/KSK0005770
+Eh? ....Aaaahh! N-No!
+KSK/KSK0005780
+I mean, I'd usually find something like this[nl]kind of hard to believe....
+KSK/KSK0005790
+But the rest of the morning was pretty surprising as well,[nl]so these last few minutes weren't so strange....
+RAK/RAK0012810
+R-Really.....[nl]You're amazing, Onodera.
+RAK/RAK0012820
+I don't really understand, though.[nl]If you and I were the only ones sent to this world,[nl]who the hell gains anything from that!?
+KSK/KSK0005800
+R-R-Right!?[nl]I-I wonder who would wish for that!
+RAK/RAK0012830
+If I ever find out who did this,[nl]I'll make sure to give him a beating he won't forget....
+RAK/RAK0012840
+Huh?
+RAK/RAK0012850
+RAK/RAK0012860
+(Was that it!? Was that the wish!?)
+RAK/RAK0012870
+(I guess it kind of makes sense[nl]if you consider it to be an extreme way of[nl]making sure "no one gets in our way"....)
+RAK/RAK0012880
+(Is that why we're here?[nl] Now, if I can get Onodera to go out with me....)
+RAK/RAK0012890
+(If I confess my feelings, and she accepts,[nl] then we can go back!?)
+KSK/KSK0005810
+RAK/RAK0012900
+(But what if....Onodera doesn't[nl] see me that way....?)
+RAK/RAK0012910
+(I'd be heartbroken![nl] And on top of that, we might not be able to go back!)
+RAK/RAK0012920
+(No, no, hang on![nl] I don't think I'm ready for something so big!)
+RAK/RAK0012930
+O....
+KSK/KSK0005820
+RAK/RAK0012940
+O-O-Oh, man, I have no clue what[nl]that wish Otama mentioned could have been~,[nl]H-How about you~!?
+KSK/KSK0005830
+N-N-No....M-M-Me neither.....[nl]Let's talk about something else for a bit, okay?
+RAK/RAK0012950
+Ah! T-This is a great opportunity to walk around the[nl]school a bit! It's not every day we're here when it's[nl]completely empty, is it?
+KSK/KSK0005840
+S-S-Sure!
+RAK/RAK0012960
+(Ugh, what the hell. This is all my fault....)
+RAK/RAK0012970
+(Really.... I thought I'd do well if I just[nl] had a chance to confess....)
+RAK/RAK0012980
+(Let's stay positive here....[nl] We'll wait for a better opportunity!)
+@時間経過演出
+@ＢＧＭ再生
+RAK/RAK0012990
+There really isn't anyone, is there.[nl]It's so quiet, our footsteps are really echoing.
+KSK/KSK0005850
+Yeah....[nl]Normally, we'd hear the baseball club practicing.....[nl]It's a little unnerving how quiet it is....
+KSK/KSK0005860
+Earlier, when I was alone,[nl]walking down this corridor terrified me....
+KSK/KSK0005870
+But I'm not afraid when I'm with you, Ichijo.
+RAK/RAK0013000
+I-Is that so....
+RAK/RAK0013010
+(No, I know it's kind of a given that she'd[nl] feel that way in this situation, but....)
+RAK/RAK0013020
+(To hear that from the person I like,[nl] it makes me so happy.)
+RAK/RAK0013030
+I was pretty scared myself until a while ago....[nl]But since you're here, Onodera, I feel like[nl]I can calm down a bit more.
+KSK/KSK0005880
+R-Really....?
+KSK/KSK0005890
+RAK/RAK0013040
+Huh? Why are you grinning like that?
+KSK/KSK0005900
+Ahhh!?　N-n-no, I'm not![nl]Th-That's strange....
+KSK/KSK0005910
+O-Oh! Maybe I've lost my mind,[nl]and that caused my face to contort!
+RAK/RAK0013050
+I-Is that so....
+RAK/RAK0013060
+(You must have been pretty lonely....[nl] Sorry for dragging you into this, Onodera.)
+KSK/KSK0005920
+------
+KSK/KSK0005930
+U-Ummm.... Ichijo, you already knew Otama[nl]from before today, didn't you?
+RAK/RAK0013070
+Yeah. I made her some inari sushi once,[nl]and she got hooked on it.
+KSK/KSK0005940
+I see. You're really cool to have a goddess like you, Ichijo.
+KSK/KSK0005950
+Your inari sushi, huh.[nl]I'm sure it's absolutely delicious.
+RAK/RAK0013080
+Would you like me to make you some next time?
+KSK/KSK0005960
+Huh? Is that alright?
+RAK/RAK0013090
+Of course![nl]Lately, Otama and the guys have been bugging me for more,[nl]so I fine-tuned my recipe with careful ingredient research.
+RAK/RAK0013100
+So I'm pretty sure you'll love it as much as[nl]you say you will. I'm pretty proud of it, ya know?
+KSK/KSK0005970
+....Thanks! I'm looking forward to it very much!
+KSK/KSK0005980
+Hey, remember that time Ruri asked me to help the swim team?[nl]She wanted me in the practice match, and[nl]she had you teaching me to swim.
+RAK/RAK0013110
+Ah, of course I remember.
+RAK/RAK0013120
+(Naturally....Onodera looked so cute[nl] in a swimsuit.....)
+KSK/KSK0005990
+Even though you tried so hard,[nl]I couldn't learn to swim perfectly in the end....
+KSK/KSK0006000
+To tell you the truth, I was pretty frustrated then.
+RAK/RAK0013130
+Oh, I see.
+RAK/RAK0013140
+I actually didn't think you did badly.[nl]In fact, wasn't it pretty amazing?
+KSK/KSK0006010
+Eh?
+RAK/RAK0013150
+Ya know, you're always working so hard.
+RAK/RAK0013160
+You didn't think you were very good,[nl]but you still put in everything you had.
+RAK/RAK0013170
+Y'know, that's probably one of the things[nl]I like most about you.
+KSK/KSK0006020
+......Eh-.
+RAK/RAK0013180
+(-Oh no![nl] That's basically a confession, isn't it!?)
+RAK/RAK0013190
+(N-n-n-n-n-no, I'm probably just being too self-conscious![nl] It really wasn't!)
+RAK/RAK0013200
+(Wait, I need to confess my feelings today anyway![nl]This isn't the time to freak out about this!)
+KSK/KSK0006030
+.....Ichijo.
+RAK/RAK0013210
+Y-Yeah?
+KSK/KSK0006040
+When you say things like that....[nl]It makes me very happy.
+KSK/KSK0006050
+Thank you....
+RAK/RAK0013220
+Y-Yeah....
+RAK/RAK0013230
+(Onodera's....blushing?)
+RAK/RAK0013240
+Ahhh~, that was a nice walk.
+KSK/KSK0006060
+Hehe, it was.[nl]Remember the human body model? That was creepy....
+RAK/RAK0013250
+I was afraid of the men's restroom for a while.[nl]It looked like a ghost could come out of it at any minute....
+@expose2
+KSK/KSK0006070
+D-Don't say things like that![nl]You'll scare me, too!
+RAK/RAK0013260
+Haha! Sorry, sorry.
+RAK/RAK0013270
+....Okay. Now that we've been all over the school,[nl]what should we do next?
+KSK/KSK0006080
+Mmmm....That's right.
+KSK/KSK0006090
+Ah. We could go to the roof and watch the sunset!
+RAK/RAK0013280
+The roof?
+RAK/RAK0013290
+Oooh....the sunset looks great!
+KSK/KSK0006100
+Seriously!
+RAK/RAK0013300
+I'm glad the sun is working properly[nl]in this world.
+KSK/KSK0006110
+Yeah, it's great.....
+.....
+RAK/RAK0013310
+(Huh?[nl]Onodera's awfully quiet....)
+RAK/RAK0013320
+Something wrong?
+KSK/KSK0006120
+Ah-....N-no....[nl]I was just thinking about.....
+RAK/RAK0013330
+Thinking about....what?
+KSK/KSK0006130
+Um.....Romeo and Juliet.[nl]That time we performed a scene together up here....
+RAK/RAK0013340
+Ah....
+RAK/RAK0013350
+(Her as Juliet and me as Romeo,[nl] after the Culture Festival....[nl] That's right.)
+RAK/RAK0013360
+(...Ah-. Huh?[nl] I just remembered how embarrased and[nl] tickly I felt back then!)
+RAK/RAK0013370
+Th-That's right. I rememeber.[nl]It was around the same time of day as it is now....
+KSK/KSK0006140
+Y-Yeah! It was!
+KSK/KSK0006150
+Like I said back then....[nl]It made me really happy....
+KSK/KSK0006160
+Now, when I remember how I felt,[nl]I get a little....nervous....
+KSK/KSK0006170
+W-Was that a weird thing to say!?[nl]Sorry!
+RAK/RAK0013380
+N-No![nl]I didn't think it was weird!
+RAK/RAK0013390
+Actually....I was pretty happy, too....
+KSK/KSK0006180
+KSK/KSK0006190
+I-I see....
+RAK/RAK0013420
+RAK/RAK0013430
+....O, beloved Juliet.
+KSK/KSK0006200
+え……？
+RAK/RAK0013440
+How I despise everything that comes between us![nl]Why have the gods been so cruel?
+RAK/RAK0013460
+N-No.[nl]Never mind....
+KSK/KSK0006210
+....Yes, why do our families quarrel so?
+RAK/RAK0013470
+(Hahh....)
+KSK/KSK0006220
+If only they could reach out to each other[nl]as we have....
+KSK/KSK0006230
+If only they could fathom one-half of my[nl]love for you, sweet Romeo....
+KSK/KSK0006240
+...Surely.
+RAK/RAK0013480
+Onodera....
+KSK/KSK0006250
+After all, it still makes me tickly inside....[nl]This is a little embarrassing.
+RAK/RAK0013490
+....Hehe, I guess so.
+RAK/RAK0013500
+I wonder. Even though the culture festival wasn't[nl]that long ago, it feels kind of nostalgic to think about.
+KSK/KSK0006260
+....Yeah. Every day seems to go by so fast.[nl]I'm sure it's because we're all having such a good time together.
+RAK/RAK0013510
+...I guess so.
+RAK/RAK0013520
+Then....would you like to continue the play?
+KSK/KSK0006270
+Huh?
+RAK/RAK0013530
+Ah, never mind![nl]Did you want to stop?
+KSK/KSK0006280
+Ah-, no.
+KSK/KSK0006290
+If it's okay, can we keep going?
+RAK/RAK0013540
+(....Whoa. She's smiling so happily....)
+RAK/RAK0013560
+Alright! Well, since it's just us two....[nl]I must bid thee farewell, Juliet.
+KSK/KSK0006300
+Yes![nl]Goodbye, dearest Romeo.
+RAK/RAK0013570
+Huh? It's this late already.
+KSK/KSK0006310
+Ehh, it's midnight already!?[nl]Time really flies, doesn't it?
+RAK/RAK0013580
+Just like Otama said, I'm not hungry at all.[nl]How about you, Onodera?
+KSK/KSK0006320
+Yeah, I'm fine as well.[nl]This world might be surprisingly convenient....[nl]I know I shouldn't say that, sorry.
+RAK/RAK0013590
+No, I think so, too.[nl]But....
+RAK/RAK0013600
+(I'd better hurry up and confess my feelings....)
+RAK/RAK0013610
+(But, if possible, I'd like to wait[nl] until the atmosphere is more natural....)
+RAK/RAK0013620
+(If I just said it in an unnatural way,[nl] it would feel like I was doing it just to[nl] return to our original world....)
+RAK/RAK0013630
+(Really, it would feel like a means[nl] to my own end....)
+KSK/KSK0006330
+Ichijo?[nl]Why are you so quiet all of a sudden?
+RAK/RAK0013640
+No reason.[nl]Should we go to bed soon, Onodera?
+KSK/KSK0006340
+KSK/KSK0006350
+Go....to....bed...?
+RAK/RAK0013650
+Ehh? ...Aah!!
+RAK/RAK0013660
+Th-th-that's....I didn't mean it like that![nl]O-Onodera! You can sleep on the infirmary bed![nl]I can sleep in here!
+KSK/KSK0006360
+Ehh!?[nl]B-But....
+RAK/RAK0013670
+No, I'll be fine sleeping here![nl]If you want, I can sleep out in the hallway, or on the ground!
+KSK/KSK0006370
+Huhhh!? Hang on a second![nl]If you do that, you'll catch a cold!
+RAK/RAK0013680
+Well, I guess I might....[nl]B-But still, I won't lay a finger on you, Onodera![nl]Y-Yeah!!
+KSK/KSK0006380
+Wahhhh, hang on, Ichijo!![nl]Please listen to meeeeee!!
+RAK/RAK0013690
+Eh? O-Okay....
+RAK/RAK0013700
+Um....w-what is it?
+KSK/KSK0006390
+....U-Uh....[nl]If we could....
+RAK/RAK0013710
+Yes?
+KSK/KSK0006400
+....Could we talk together for a while?
+RAK/RAK0013720
+RAK/RAK0013730
+(....I see. So that's it.)
+RAK/RAK0013740
+(Come to think of it, I'd hate to be alone[nl] in a crazy world like this one as well....)
+RAK/RAK0013750
+Yeah, okay.[nl]Well then, we'll spend the night talking.
+KSK/KSK0006410
+....Okay.[nl]Thanks, Ichijo.
+KSK/KSK0006420
+Ichijo, remember that one time when you....
+RAK/RAK0013760
+Yeah.[nl]I can laugh about it now, but when it happened,[nl]I was so embarrassed, it felt like my face was on fire.
+KSK/KSK0006430
+Ahaha, yeah, that's right.
+RAK/RAK0013770
+(All night, Onodera and I[nl] leaning against the school wall[nl] and chatting idly....)
+RAK/RAK0013780
+(Awesome! Even if time stops,[nl] I don't think I'll have any regrets about[nl] this moment!)
+RAK/RAK0013790
+...Hey, remember that one...
+RAK/RAK0013800
+....Onodera?
+KSK/KSK0006440
+Zzz....
+RAK/RAK0013810
+(She's asleep....)
+RAK/RAK0013820
+(That makes sense....[nl] I'm sure she's probably drained after a day like today.)
+KSK/KSK0006450
+Mm.....
+RAK/RAK0013830
+(Wait....Onodera's sleeping face....!)
+RAK/RAK0013840
+(N-No! Stop thinking like that, me!)
+KSK/KSK0006460
+.....Mnya.
+RAK/RAK0013850
+RAK/RAK0013860
+(Gyahhhhhhhhh![nl] Onodera's h-head![nl] It's on my shoulderrrrrr!)
+KSK/KSK0006470
+Zzzzz....zzzzz.....
+RAK/RAK0013870
+(Control yourself![nl] I can't let Onodera hate me![nl] Besides, I'm a gentleman....)
+RAK/RAK0013880
+(Endure this, meeeeee!)
+@ＢＧＭ停止
+KSK/KSK0006480
+....Mmm?
+RAK/RAK0013890
+Oh, you're awake?
+KSK/KSK0006490
+Huh? W-When did I fall asleep leaning on you, Ichijo-
+KSK/KSK0006500
+Sorry![nl]I was heavy, wasn't I, Ichijo!?
+RAK/RAK0013900
+It's totally fine! No problem!
+RAK/RAK0013910
+(It was a problem![nl] I couldn't sleep a wink because[nl] of her breathing and stuff!)
+KSK/KSK0006510
+R-Really?[nl]But I....
+KSK/KSK0006520
+Did I....talk in my sleep at all,[nl]or make any weird noises, or....[nl]
+RAK/RAK0013920
+N-no! You're totally fine![nl]I saw nothing and I heard nothing!
+KSK/KSK0006530
+I see. Thank goodness....
+KSK/KSK0006540
+....Ichijo.[nl]I had a dream just now.
+KSK/KSK0006550
+I dreamed I was at school.[nl]You were there, and Ruri, and Chitoge....[nl]We were all laughing about something, as usual.
+KSK/KSK0006560
+I know I'm awake now,[nl]but this world feels more like a dream.
+KSK/KSK0006570
+No, I guess it's only kinda like a dream....[nl]Hehe....I don't really understand.
+RAK/RAK0013930
+...Ah, I see.
+RAK/RAK0013940
+KSK/KSK0006580
+Um, Ichijo.....
+KSK/KSK0006590
+I.....
+KSK/KSK0006600
+I....like you, Ichijo.
+RAK/RAK0013950
+-----!
+RAK/RAK0013960
+(Was that....)
+RAK/RAK0013970
+(I guess I heard wrong....right!?)
+RAK/RAK0013980
+(Seriously!?[nl]Onodera really likes me!?）
+RAK/RAK0013990
+RAK/RAK0014000
+(All right...![nl] This makes me so happy....[nl] From now on, we can go out together....!)
+RAK/RAK0014010
+(We can go....)
+RAK/RAK0014020
+(....out?)
+RAK/RAK0014030
+(This world....it was created by Otama,[nl] when she heard my wish....)
+RAK/RAK0014040
+(My wish was to not be interrupted by anyone[nl] and....)
+RAK/RAK0014050
+(....that I could go out with Onodera....)
+RAK/RAK0014060
+Ah....a-....
+KSK/KSK0006610
+Ichijo....?
+RAK/RAK0014070
+(Onodera....)
+RAK/RAK0014080
+(Did you say those words from your heart?)
+RAK/RAK0014090
+(Well, if I'm right....)
+RAK/RAK0014100
+(If my wish has somehow manipulated Onodera's heart[nl] to make her confess to me....)
+RAK/RAK0014110
+(What should I do? Should I even accept this confession!?)
+Don't accept the confession
+As long as I get to go out with her
+@ksk_006_001_true
+RAK/RAK0014120
+(No....I cannot accept this confession!)
+RAK/RAK0014130
+I'm sorry!
+KSK/KSK0006620
+Eh...?
+RAK/RAK0014140
+(My selfish wish manipulated Onodera's heart...)
+RAK/RAK0014150
+Onodera!!　I'm really, really sorry![nl]I didn't mean to....
+KSK/KSK0006630
+Ah....
+RAK/RAK0014160
+I....I see you as a--
+KSK/KSK0006640
+....N-No! It's fine!
+RAK/RAK0014170
+KSK/KSK0006650
+You don't need to say any more.[nl]I know exactly what you're trying to say....
+KSK/KSK0006660
+So I'll....just for a bit....
+KSK/KSK0006670
+----!
+RAK/RAK0014180
+Hahh...? Onodera!
+RAK/RAK0014190
+Wait, hold on a sec!　I just....!
+KSK/KSK0006680
+I'm sorry![nl]Please let me be alone for a while!
+RAK/RAK0014200
+.....Onodera.
+RAK/RAK0014210
+Onodera....
+RAK/RAK0014220
+I....
+RAK/RAK0014230
+I hurt her feelings....
+@背景変更
+RAK/RAK0014240
+Otama....you're here.
+OTM/OTM0000900
+Rakuu....[nl]Pray tell, why hast thou done this?
+OTM/OTM0000910
+Forsooth, I thought thou liked the girl.[nl]Was I wrong?
+RAK/RAK0014255
+Not exactly.....
+RAK/RAK0014260
+I do like her.....
+RAK/RAK0014270
+I....really, really like Onodera....
+OTM/OTM0000920
+Huh? Then, why hast thou refused her?
+OTM/OTM0000930
+The girl said unto thee, "I like you."[nl]And yet, despite thy refusal, thou still claimeth to like her back.
+OTM/OTM0000940
+Thy words are broken.[nl]I fail to understand.
+RAK/RAK0014280
+Hmph...Well, you're a goddess.[nl]You wouldn't get it.
+RAK/RAK0014290
+You heard my wish that night, didn't you?
+OTM/OTM0000950
+Thy wish?
+RAK/RAK0014300
+Don't be an idiot.
+RAK/RAK0014310
+I said "I want to go out with Onodera",[nl]and you granted that wish....
+RAK/RAK0014320
+Even so far as to manipulate her heart....[nl]But that doesn't make sense....
+OTM/OTM0000960
+Hmmm?
+OTM/OTM0000970
+Oh....Hast thou, perhaps, misunderstood something?
+RAK/RAK0014330
+Misunderstood...?
+OTM/OTM0000980
+I neither heard nor granted any of thy wishes.[nl]At least, not this time.
+RAK/RAK0014340
+What?
+OTM/OTM0000990
+I granted the girl's wish this time.
+OTM/OTM0001000
+Furthermore, I just moved the two of thee[nl]into this secluded world.[nl]I did nothing more.
+RAK/RAK0014350
+H-Hang on a sec.[nl]You did hear my wish back then, right?
+OTM/OTM0001010
+I know not. Back when, exactly?
+RAK/RAK0014360
+That time I was being noisy while you were eating inari sushi.
+OTM/OTM0001020
+Ahh, that time.[nl]Thou madest some rather strange sounds,[nl]but I could not make out what they meant.
+RAK/RAK0014370
+Ehhhh-!?
+OTM/OTM0001030
+At that time, I was listening to a wish[nl]from a particular young lady. Since I'm still in training,[nl]I'm not skilled enough to make out two separate wishes yet.
+RAK/RAK0014380
+So....so basically.....
+RAK/RAK0014390
+What Onodera said just now,[nl]it wasn't because she was manipulated?
+RAK/RAK0014400
+Does that mean she actually feels that way....?
+OTM/OTM0001040
+Verily. She was merely telling thee how she felt.
+RAK/RAK0014410
+So that's it! And I....[nl]Why did I say such a thing to her...!
+RAK/RAK0014420
+RAK/RAK0014430
+Ahh, crap! Onodera!
+OTM/OTM0001050
+Good grief. I'm not sure....[nl]Hopefully this turns out well.
+RAK/RAK0014440
+Onodera----![nl]Answer me, Onoderaaa!
+@ksk_006_001_true_select
+Check the infirmary
+Check the park
+Check the secret spot
+Check near the Tree of Tradition
+@ksk_006_001_sel01
+RAK/RAK0014450
+Onodera--!
+RAK/RAK0014460
+She's not here....
+@ksk_006_001_sel01_end
+RAK/RAK0014470
+Crap!
+@ksk_006_001_sel02
+RAK/RAK0014480
+RAK/RAK0014490
+She's not here, either....
+@ksk_006_001_sel02_end
+RAK/RAK0014500
+Guhhh....
+@ksk_006_001_sel03
+RAK/RAK0014510
+Onodera! Please answer me, if you're here!
+@ksk_006_001_sel03_end
+RAK/RAK0014520
+Onodera, where are you....
+@ksk_006_001_sel04
+RAK/RAK0014530
+She's not here, either....
+@ksk_006_001_sel04_end
+RAK/RAK0014540
+I'm....so stupid.
+RAK/RAK0014550
+What the hell....Onodera told me[nl]her true feelings....
+RAK/RAK0014560
+All this time....You've been trying to tell me all[nl]along, haven't you?
+RAK/RAK0014570
+I can't believe it took me this long....[nl]It's too late now....
+RAK/RAK0014580
+No....not yet.[nl]Don't say it's too late.
+RAK/RAK0014590
+Right now, it's not me who's hurting....[nl]It's Onodera.
+RAK/RAK0014600
+I'll find you....as soon as I can!
+@ksk_006_001_hoken
+KSK/KSK0001770
+I, well.....[nl]Even if you're sweating, or bruised and scratched up.....[nl]I think you always look fine, regardless....?
+@ksk_006_001_kouen
+KSK/KSK0003990
+It's honestly amazing that you can mediate between such[nl]scary-looking people.
+KSK/KSK0004000
+No! That was very cool!
+@ksk_006_001_himitu
+RAK/RAK0010970
+Ah.....[nl]Should I say it, then....?
+KSK/KSK0004950
+That's....
+KSK/KSK0004960
+KSK/KSK0004970
+....If I said that I didn't care,[nl]I'd be lying....a little.
+@ksk_006_001_dentou
+KSK/KSK0005220
+.....Yes. I’m very, very happy.[nl]I kept thinking you might not come.
+RAK/RAK0011590
+T-That’s not true at all![nl]To not come, even when you ask me to, Onodera....[nl]There’s no way I’d do that.
+KSK/KSK0005230
+.....That’s true.[nl]That’s the kind of person you are, Ichijo.
+KSK/KSK0005240
+I always knew you were that kind of boy....
+SYU/SYU0000960
+There’s an old tree near the edge of the schoolyard....[nl]Its name....”Tree of Tradition”!
+SYU/SYU0000970
+And under this tree, lovers united by the confession[nl]of a young lady are said to live happily ever after!
+@ksk_006_001_true02
+@フェードアウト
+RAK/RAK0014610
+Onodera.
+KSK/KSK0006690
+Ichijo....
+RAK/RAK0014620
+....Thank god.[nl]You came back.
+KSK/KSK0006700
+Could it be, you were looking for me....?
+RAK/RAK0014630
+Yeah. But you shouldn't worry about that, Onodera.[nl]What happened earlier was my fault.
+KSK/KSK0006710
+Don't say that.[nl]You didn't do anything wrong....
+KSK/KSK0006720
+We're in this world....because of my wish.
+KSK/KSK0006730
+I made a wish at the shrine the other day.[nl]I'm sure Otama got it, and....[nl]I think that's how this all happened....
+KSK/KSK0006740
+I'm sure you're probably really annoyed about all this.[nl]I'm really sorry....
+RAK/RAK0014640
+I'm not annoyed at all....
+KSK/KSK0006750
+....Thanks for helping me feel better.[nl]Also....sorry for running away just now.
+KSK/KSK0006760
+Well, now I know how you feel, Ichijo....
+KSK/KSK0006770
+But....[nl]...I hope we can keep being friends from now on.
+RAK/RAK0014650
+(Onodera....)
+RAK/RAK0014660
+(Why are you smiling at a time like this?[nl] Your hands....they're shaking.)
+RAK/RAK0014670
+(Don't smile. You don't need to smile[nl] when your face is covered with tears....)
+RAK/RAK0014680
+(I....!)
+@画面揺らし
+KSK/KSK0006780
+....!?
+KSK/KSK0006790
+I-Ichijo...?
+RAK/RAK0014690
+What I said earlier....I'm really sorry.
+RAK/RAK0014700
+When you told me how you felt,[nl]I was really happy.
+RAK/RAK0014710
+But I couldn't stop thinking....
+RAK/RAK0014720
+Maybe, my wish had manipulated your heart[nl]to say those words....
+RAK/RAK0014730
+I wondered if your confession[nl]really reflected your true feelings.
+RAK/RAK0014740
+....I'm sorry![nl]I was being so stupid!
+KSK/KSK0006800
+Ichijo?[nl]T-That's....
+RAK/RAK0014750
+I know I'm not really in a position to say[nl]things like this after hurting you, Onodera....
+RAK/RAK0014760
+But, I'll tell you anyway![nl]I....!
+RAK/RAK0014770
+Onodera, I.....
+RAK/RAK0014780
+...I love you!!
+KSK/KSK0006810
+@画面揺らし2
+RAK/RAK0014790G
+@最終一枚絵演出
+@イベント終了処理
+@ksk_006_001_another
+RAK/RAK0014800
+(What's there to worry about?[nl] As long as we can start dating, it's fine!)
+RAK/RAK0014810
+(This is....the chance I've been dreaming of!）
+RAK/RAK0014820
+Onodera! I....love you back!
+KSK/KSK0006830
+Eh....?
+KSK/KSK0006840
+What did you just say?
+RAK/RAK0014830
+I'll say it again, and again! I love you back! I love you!
+KSK/KSK0006850
+Really...?[nl]Ichijo....really!?
+RAK/RAK0014840
+Of course.[nl]I love you so much, that I don't need anything else[nl]as long as I have you!
+KSK/KSK0006860
+KSK/KSK0006870
+What should I do....[nl]I'm so happy....I'm at a bit of a loss....
+KSK/KSK0006880
+But....thank you.
+RAK/RAK0014850
+Y-Yeah!
+OTM/OTM0001060
+Hehe. Good for you, you two.
+RAK/RAK0014860
+Otama....
+OTM/OTM0001070
+Now that thy wish has been fulfilled, you should[nl]be returned to the original world soon.[nl]In the meantime, you can flirt as much as you want, mmkay?
+KSK/KSK0006890
+R-r-r-really!?
+RAK/RAK0014870
+Jeez, stop making fun of us![nl]This is pretty important.
+OTM/OTM0001080
+Hoho, my apologies.
+OTM/OTM0001090
+I shall see you soon. When you return,[nl]thou art going to bring me more inari sushi,[nl]correct?
+RAK/RAK0014880
+Yeah, I'll make as much as you want![nl]Thanks, Otama!
+KSK/KSK0006900
+Soon....we can go back to the real world.
+RAK/RAK0014890
+Yeah.[nl]When it comes to it, don't feel like you'll regret it.
+KSK/KSK0006910
+Yeah....but....[nl]Ruri and Chitoge....[nl]I want to see everyone again....
+RAK/RAK0014900
+Yeah. When we get back....[nl]let's make sure to go on lots of dates!
+RAK/RAK0014910
+From now on, we can be together, as well.
+KSK/KSK0006920
+....Yes!
+KSK/KSK0006930
+From now on, we'll stay together.....
+RAK/RAK0014920
+(Well....our original world....)
+RAK/RAK0014930
+(We were....supposed to return.)
+KSK/KSK0006940
+Raku....
+KSK/KSK0006950
+RAK/RAK0014940
+Mm....mph.....
+KSK/KSK0006960
+Good morning, Raku.
+RAK/RAK0014950
+Ahh.... Good morning, Kosaki.
+KSK/KSK0006970
+Hey, Raku. I was out walking earlier, and[nl]I noticed there were some cute flowers blooming.
+RAK/RAK0014960
+Really? Well, let's go see them later.
+KSK/KSK0006980
+Yeah!
+RAK/RAK0014970
+Still....It's still kind of feels weird[nl]to not be hungry when you wake up.
+KSK/KSK0006990
+That's true....[nl]I can't remember what it feels like[nl]to be hungry anymore.
+KSK/KSK0007000
+Hey, where are we going today?
+RAK/RAK0014980
+Well....maybe that amusement park in the next town over.
+KSK/KSK0007010
+RAK/RAK0014990
+(Life here is pretty easy.[nl] We don't need to eat, and the electricity and water[nl] still work, despite there being no people to run them....)
+RAK/RAK0015000
+(But what is it about this place?[nl] Everything looks so faded....)
+RAK/RAK0015010
+(....No, I'm happy to be alone with Kosaki....)
+RAK/RAK0015020
+Kosaki, you know....
+KSK/KSK0007020
+....What is it?
+RAK/RAK0015030
+....Isn't it boring, being alone with me?
+KSK/KSK0007030
+No. Not at all.
+KSK/KSK0007040
+As long as I can be with you, Raku,[nl]that's enough for me.
+RAK/RAK0015040
+....Is that so.
+KSK/KSK0007050
+I mean, I was pretty sad when I found out we couldn't[nl]go back to the real world....
+KSK/KSK0007060
+I wonder why....I thought my wish had come true....
+KSK/KSK0007070
+But it's fine.[nl]Even if there's no one else, I still have you, Raku.
+KSK/KSK0007080
+So I'm happy.
+RAK/RAK0015050
+Yeah....that's good.
+RAK/RAK0015060
+(I'd be happy if this was what she really wanted....[nl] But what if I manipulated her mind?)
+RAK/RAK0015070
+(The words she says like this....[nl] What if she's being forced to say them?)
+KSK/KSK0007090
+Raku, is something wrong?
+RAK/RAK0015080
+No, it's nothing.
+RAK/RAK0015090
+(Was it really the right choice to[nl] accept her confession?)
+RAK/RAK0015100
+(....No....)
+RAK/RAK0015110
+(Since Otama hasn't come back,[nl] it doesn't make much sense to think about it....)
+KSK/KSK0007100
+Hey, Raku.
+RAK/RAK0015120
+KSK/KSK0007110
+....I love you.[nl]So....will you stay by my side forever?
+KSK/KSK0007120
+Will you promise me that?
+RAK/RAK0015130
+Yeah....[nl]Of course.
+KSK/KSK0005440
+KSK/KSK0005450
+KSK/KSK0005460
+@ＴＨＥＥＮＤ
+common.asb

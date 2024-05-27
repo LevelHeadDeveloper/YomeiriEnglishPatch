@@ -1,0 +1,71 @@
+__main
+@Lclearscreenall
+@ksk_107
+@イベント開始処理
+KSK/KSK0012050
+Ichijo, umm....[nl]Uhhh....
+RAK/RAK0046410
+....Hm? What is it, Onodera?
+KSK/KSK0012060
+-----
+KSK/KSK0012070
+U-Ummmmmm.....[nl]Sorry, I forgot what I wanted to talk about.....
+RAK/RAK0046420
+....Huh? Is that so?
+KSK/KSK0012080
+U-Ummm....
+@ＢＧＭ再生
+RUR/RUR0010960
+Alright, here's a problem for you, Ichijo.
+RAK/RAK0046430
+Waaagh! You startled me![nl]Why'd you pop up outta nowhere!?
+RUR/RUR0010970
+There's something different about Kosaki today.[nl]What is it?
+KSK/KSK0012090
+W-Wait, it's fine! Ruri!
+RAK/RAK0046440
+(Ummmm, so there's something different about Onodera,[nl] like Miyamoto said....)
+@タッチパート開始処理
+RAK/RAK0046450
+Ummmm.....[nl]Are you wearing lipstick, by any chance?
+@ザクシャ小咲・中
+KSK/KSK0012100
+!! Amazing.....[nl]You're right....
+RAK/RAK0046470
+(Hahhh....)
+RAK/RAK0046480
+RUR/RUR0010980
+What's wrong, Ichijo?
+RAK/RAK0046490
+Well....I dunno....
+RAK/RAK0046500
+(Staring at Onodera's lips is making me[nl] really self-conscious....)
+RAK/RAK0046520
+....I-It's nothing.[nl]I like your lipstick, Onodera!
+KSK/KSK0012110
+Yes! Thanks for noticing, Ichijo.
+RAK/RAK0046530
+Uhh.....[nl]Could it be that you trimmed your bangs?
+KSK/KSK0012120
+Uhh....no. I haven't trimmed them recently....
+RAK/RAK0046540
+S-Seriously....
+RAK/RAK0046560
+Could it be....[nl]Your ch-ch-.....
+RAK/RAK0046570
+(Her chest has grown?[nl] I can't ask her that!)
+RUR/RUR0010990
+That's not what I meant at all. Scumbag.
+@expose
+RAK/RAK0046580
+I-Is it this?
+KSK/KSK0012140
+Huh? No....there's nothing really[nl]different about that....
+RUR/RUR0011000
+....Well, I guess it's kind of hard[nl]for a boy to understand.
+KSK/KSK0012150
+I-I guess so. Well, it can't be helped.
+RAK/RAK0046590
+(....C-Crap....[nl] I can't believe I let Onodera down....)
+@イベント終了処理
+common.asb

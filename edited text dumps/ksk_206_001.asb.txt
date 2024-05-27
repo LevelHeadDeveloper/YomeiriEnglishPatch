@@ -1,0 +1,17 @@
+__main
+@Lclearscreenall
+@ksk_206
+@イベント開始処理
+RAK/RAK0051770
+...Hm?
+RAK/RAK0051780
+T-This is....! An email from Onodera!?
+KSK/KSK0016150
+@ザクシャ小咲・小
+RAK/RAK0051790
+I guess I should have talked to her more, after all....
+RAK/RAK0051800
+But I'm glad she emailed me, at least.[nl]I should reply.
+RAK/RAK0051810
+And.....sent.
+common.asb

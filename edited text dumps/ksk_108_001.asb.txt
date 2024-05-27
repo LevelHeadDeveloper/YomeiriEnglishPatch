@@ -1,0 +1,65 @@
+__main
+@Lclearscreenall
+@ksk_108
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0012160
+....Huh? Ichijo, your cheek's hurt.
+RAK/RAK0046600
+Huh? Is it? Which one?
+@expose
+KSK/KSK0012170
+The right one....[nl]Oh, don't touch it.
+KSK/KSK0012180
+The boys were playing soccer during lunch, right?[nl]I'll bet that's when it happened.
+RAK/RAK0046610
+Hmmmmm, could be.....[nl]I think the ball might have grazed my cheek....
+KSK/KSK0012190
+Hehehe. You were so absorbed in the game,[nl]you didn't even notice the injury.
+KSK/KSK0012200
+Ummm.....there we go.[nl]Ichijo, hold still for a moment.
+RAK/RAK0046620
+Huh....!? S-Sure!
+KSK/KSK0012210
+....Alright, it's okay now.[nl]I put a bandage on it.
+RAK/RAK0046630
+Y-Yeah.....[nl]Thanks as always, Onodera.
+KSK/KSK0012220
+It's the least I can do, really!
+RAK/RAK0046640
+Well, I'm always spoiled because[nl]you've always got a bandage when I'm hurt.
+RAK/RAK0046650
+I'm definitely getting more than I'm giving, right?[nl]Next time, you don't need to bring me a new bandage.
+KSK/KSK0012230
+Don't worry about that![nl]I've got plenty of bandages....here!
+RAK/RAK0046660
+....Wow, you've got a whole pouch of them![nl]I mean, how many of those do you have!?
+KSK/KSK0012240
+Hahaha, yeah. I just kinda stocked up on bandages....
+May I have some?
+That's very kind of you
+RAK/RAK0046670
+Do you think I could have some?
+KSK/KSK0012250
+Huh? If you get hurt, let me know and[nl]I can put one on for you....
+RAK/RAK0046680
+No...it's just in case you get hurt, Onodera.[nl]I was wondering if I could have a few....
+KSK/KSK0012260
+R-Really....?[nl]Okay, I'll give you some.
+RAK/RAK0046690
+Thanks.
+KSK/KSK0012270
+But let's both be careful to not get hurt.
+RAK/RAK0046700
+That's very kind of you, Onodera....
+@ザクシャ小咲・小
+KSK/KSK0012280
+I-I don't think it's that kind....
+KSK/KSK0012290
+B-But, if you do get hurt again, just let me know![nl]Oh....but of course, it's better to not[nl]get yourself hurt in the first place.
+RAK/RAK0046710
+Haha, that's true. Thanks, Onodera.
+KSK/KSK0012300
+Of course!
+@イベント終了処理
+common.asb

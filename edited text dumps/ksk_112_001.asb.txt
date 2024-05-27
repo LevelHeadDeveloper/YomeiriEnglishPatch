@@ -1,0 +1,80 @@
+__main
+@Lclearscreenall
+@ksk_112
+@イベント開始処理
+RAK/RAK0047210
+Looks like Chitoge's late....[nl]Let's just start feeding the animals now.
+DOG/DOG0000030
+Grrr....woof, woof!
+SNK/SNK0000180
+Hissss! Hisss!
+RAK/RAK0047220
+....Hmm?[nl]The animals are getting all hopped up, could it be....!
+@ＢＧＭ再生
+KSK/KSK0012780
+Hello, everyone![nl]You all look great today!
+RAK/RAK0047230
+(It's Onodera---!)
+KSK/KSK0012790
+Ichijo, is it alright if I help you with the animals?[nl]Chitoge asked me to help you....
+RAK/RAK0047240
+Sure, thanks a bunch![nl]Chitoge can't come, then?
+KSK/KSK0012800
+Yeah, she had to go home all of a sudden.
+RAK/RAK0047250
+I see. Sorry, Onodera.
+@expose
+KSK/KSK0012810
+No, don't worry about it.[nl]So, what should I help you with first?
+RAK/RAK0047260
+Ummmmm.....[nl]Well, how about we start by getting everyone fed?
+KSK/KSK0012820
+Yeah, alright![nl]Dinnertime, everyone~!
+IBR/IBR0000020
+Grunt, grunt!
+RAK/RAK0047270
+Ooh, they ran right for you....![nl]....They're a lot more excited than when [nl]I'm the one feeding them.
+KSK/KSK0012830
+Hahaha, that's not true.[nl]They've spent a lot more time with you than I have,[nl]so I'm sure they think of you as family.
+KSK/KSK0012840
+See, when you're their family, it's normal for them to[nl]be around you, and it's normal for you to feed them....[nl]It's kinda like that.
+RAK/RAK0047280
+Well, I guess that's fine....[nl]But I don't see how it could be true.
+KSK/KSK0012850
+If I were an animal, I would love someone like you who[nl]works hard to take care of me.
+RAK/RAK0047290
+(O-Onodera loves me!?[nl] No, that's just hypothetical, right? Yeah.)
+RAK/RAK0047300
+(....If Onodera was an animal,[nl] I'd probably do my best taking care of her....)
+@時間経過演出
+RAK/RAK0047310
+Well, we'll do some cleaning next.[nl]Onodera, you take that half. [nl]Let me know if you need anything.
+KSK/KSK0012860
+Sure!
+RAK/RAK0047320
+(Onodera's really family-oriented....[nl] She's clever, hardworking, and kind....)
+RAK/RAK0047330
+Hahh....I wish we could live together....
+KSK/KSK0012870
+Yeah.
+RAK/RAK0047340
+Eeeeeeeeeeeh!?!?!?!?
+KSK/KSK0012880
+I do live in a Japanese sweet shop....[nl]But it would be kind of fun to have a pet.
+RAK/RAK0047350
+Y-Yeah~, I see.[nl]That's what you meant, hahaha, ha.
+KSK/KSK0012890
+?
+RAK/RAK0047360
+(Did I accidentally say that out loud?[nl] Dang it....I almost confessed my feelings.)
+RAK/RAK0047370
+Onodera, thanks for your help today.[nl]You've been a big help.
+@ザクシャ小咲・小
+KSK/KSK0012900
+No problem, I like animals too.
+KSK/KSK0012910
+Give me a call if you need my help again.
+RAK/RAK0047380
+Okay.
+@イベント終了処理
+common.asb

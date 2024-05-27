@@ -1,0 +1,12 @@
+__main
+@Lclearscreenall
+@ksk_207
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0051820
+...Ohh! A-An email from Onodera!?
+KSK/KSK0016160
+RAK/RAK0051830
+Well, I haven't been able to talk to her much lately....
+@イベント終了処理
+common.asb

@@ -1,0 +1,43 @@
+__main
+@Lclearscreenall
+@ksk_208
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0051840
+Hm? A phone call?
+RAK/RAK0051850
+....Wait, huh!?[nl]It's from Onodera!?
+RAK/RAK0051860
+H-Hello!?
+KSK/KSK0016170
+I-Ichijo! This is Onodera!
+RAK/RAK0051870
+O-Oh! How are you!
+KSK/KSK0016190
+Ummm....obviously, if it would be inconvenient, you can[nl]say no.... Actually, I was wondering if you'd be interested[nl]in helping us out again this Saturday.
+RAK/RAK0051880
+And I'd be helping out at your family's shop?
+KSK/KSK0016210
+Y-Yes. You'd be helping us make the Japanese sweets....
+RAK/RAK0051890
+S-Sure! I'm always happy to help!
+KSK/KSK0016220
+R-Really!? Thank goodness....that'd be a big help.[nl]Being able to ask you for help makes me feel much more[nl]at ease....
+RAK/RAK0051900
+I-I see....[nl]I'm very glad to hear you say so.
+KSK/KSK0016230
+O-Of course!
+.........
+KSK/KSK0016240
+Uh, s-something....about this makes me nervous[nl]because I can't tell what your face is doing when I can[nl]only hear your voice.
+@ザクシャ小咲・小
+RAK/RAK0051910
+I-I guess that's true![nl]Hahaha, haha....
+KSK/KSK0016250
+W-Well, I'll.....[nl]I'll see you later, Ichijo!
+RAK/RAK0051920
+Y-Yeah! See ya, Onodera!
+RAK/RAK0051930
+....I think I might've just used up[nl]all my luck for the year....
+@イベント終了処理
+common.asb

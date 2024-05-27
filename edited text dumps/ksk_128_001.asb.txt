@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@ksk_128
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0050140
+....Oh, Onodera.[nl]Did you go somewhere?
+KSK/KSK0015000
+Yeah. I was just helping the committee just now.
+RAK/RAK0050150
+Wow, you always work so hard.[nl]What did you help them with?
+KSK/KSK0015010
+Organizing their paperwork.[nl]It hadn't been done for years, so there was a lot[nl]of stuff they didn't need.
+RAK/RAK0050160
+Very good job, then.[nl]....Oh, there's some dust in your hair.
+KSK/KSK0015020
+Huh, really!? Where!?
+RAK/RAK0050170
+Ummm......
+@タッチパート開始処理
+@expose
+RAK/RAK0050180
+Alright, got it!
+RAK/RAK0050190
+....Huh? Onodera?
+KSK/KSK0015030
+----
+@ザクシャ小咲・小
+KSK/KSK0015040
+Ummm.....uh, thank you.[nl]I find that kind of thing a little embarrassing....
+RAK/RAK0050200
+O-Okay....I see.
+RAK/RAK0050210
+(.....Wait, I was just kinda doing it naturally,[nl] but I touched Onodera's hair just now....)
+RAK/RAK0050220
+(Gaah....I'm only just now conscious of it!)
+RAK/RAK0050230
+(It would be a waste to finish up now....[nl] Lemme stroke her hair thoroughly first.)
+KSK/KSK0015050
+Well, did you get it?
+RAK/RAK0050240
+No, I didn't quite get it....
+WSA/WSA0000050
+Oh, 'Dera. You've got some dust in your hair.
+KSK/KSK0015060
+Huh?
+WSA/WSA0000060
+Alright, got it. See ya 'round!
+.....
+KSK/KSK0015070
+Umm, I-I guess she got it.
+RAK/RAK0050250
+Y-Yeah....
+RAK/RAK0050260
+(She figured out that I was touching places[nl] unrelated to the issue.... That's super awkward!)
+KSK/KSK0015080
+Ummm, is it on my face, not in my hair?
+RAK/RAK0050270
+Ah! S-Sorry!
+KSK/KSK0015090
+I-If possible, my face should....
+RAK/RAK0050280
+(Well, that was awkward....)
+KSK/KSK0015100
+Hm? There's some on my shoulder, too?
+RAK/RAK0050290
+Ah! S-Sorry....[nl]It's just in your hair.
+KSK/KSK0015110
+Hm? Is there some on my back?
+RAK/RAK0050300
+Uh, no....[nl]It's just in your hair.
+KSK/KSK0015120
+Aaagh!
+KSK/KSK0015130
+I-I-I-Ichijo!?
+RAK/RAK0050310
+S-Sorry, Onodera![nl]My hand slipped, I swear!
+KSK/KSK0015140
+W-Well then, I'll just....
+RAK/RAK0050320
+(Aaagh, I'm so stupid!)
+KSK/KSK0015150
+Huh? Not my hair?
+@イベント終了処理
+common.asb

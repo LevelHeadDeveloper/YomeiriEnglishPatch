@@ -1,0 +1,150 @@
+__main
+@Lclearscreenall
+@ksk_102
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0011240
+....Oh, Ichijo.[nl]Are you coming back from the school canteen,[nl]by any chance?
+RAK/RAK0045370
+Yeah, just grabbing a drink.[nl]Where are you two going?
+RUR/RUR0010700
+To the rooftop. We figured we'd eat lunch[nl]outside the classroom for a change.
+RAK/RAK0045380
+Yeah, it's nice and open up there~.
+@expose
+.........
+RUR/RUR0010710
+Well, how about you come with us?[nl]Go grab your lunch.
+RAK/RAK0045390
+Huh? Huh!? Seriously!?
+KSK/KSK0011250
+R-Ruri!? We don't need to bother Ichijo!
+RAK/RAK0045400
+I-It's not a bother at all![nl]If anything, it would be more of a bother[nl]to you if I joined you....
+KSK/KSK0011260
+T-T-T-T-That's not true! It's just, ummm.....[nl]While the two of us by ourselves are fine,[nl]it would be more fun with the three of us.....
+RAK/RAK0045410
+I-I see....I guess that's true. Yeah.
+RUR/RUR0010720
+Right, right. Then it's settled.
+@フェードアウト
+@背景変更
+KSK/KSK0011270
+Wow~. It's a beautiful day, isn't it?
+RUR/RUR0010730
+Alright, let's eat.[nl]Nomnomnomnomnomnomnomnomnomnom.....[nl]nomnomnomnomnom.....
+KSK/KSK0011280
+H-Huh? Ruri, you don't need to eat so quickly....
+RUR/RUR0010740
+Num num num num.....
+RAK/RAK0045420
+Onodera, shall we eat, too?
+KSK/KSK0011290
+Y-Yeah.
+RAK/RAK0045430
+Wow, your lunch looks great, Onodera![nl]The colors look awesome, and it looks[nl]like a girl's lunch.
+KSK/KSK0011300
+Yours looks delicious too, Ichijo.[nl]The meat and potatoes look great with[nl]all those other ingredients!
+RUR/RUR0010750
+....If that's what you guys think,[nl]then why don't you trade?
+RAK/RAK0045440
+Huh....huh!?
+KSK/KSK0011310
+Ruri!? You say that again...!!
+RUR/RUR0010760
+You care about each other, right?[nl]Then there's no problem.
+RUR/RUR0010770
+....Nom. Mmm.
+RUR/RUR0010780
+Well, I'm finished eating,[nl]so I'll head back to the classroom ahead of you.
+KSK/KSK0011320
+What, already!?
+RUR/RUR0010790
+Sorry, but I've got day duty today.[nl]See ya, Kosaki. Adieu.
+KSK/KSK0011330
+R-Ruri!? Wait, no! Waaaaaait!
+RAK/RAK0045450
+....What?[nl]Was it Miyamoto who had day duty today?
+@expose2
+KSK/KSK0011340
+Uhhh. I-I don't know....
+KSK/KSK0011350
+-----
+RAK/RAK0045460
+Uhhh.....umm....
+RAK/RAK0045470
+(W-What should I do?)
+Give her part of your lunch
+Try to give her a bite
+RAK/RAK0045480
+W-Well then, Onodera![nl]If you'd like....do you wanna try some of my lunch?
+KSK/KSK0011360
+Huh? I-Is that alright?
+RAK/RAK0045490
+Yeah. Here, take whatever you want.
+KSK/KSK0011370
+Okay, um, since it's a good opportunity,[nl]I'll....trade you some of my lunch for it....
+RAK/RAK0045500
+O-Okay! Thank you!
+KSK/KSK0011380
+Umm....well then....[nl]I'll have your lunch.
+RAK/RAK0045510
+I-I'll have your lunch, too!
+KSK/KSK0011390
+Nom....mmm....
+KSK/KSK0011400
+Wowwww~, it's delicious![nl]Ichijo, you're amazing!
+RAK/RAK0045520
+Really....!?[nl]I'm a little embarrassed when you say it like that....
+RAK/RAK0045530
+(Alright, I'll do it!)
+RAK/RAK0045540
+O-Onodera. Here, say "aah".
+KSK/KSK0011410
+~~~~~~!!!![nl]I-Ichijo!?!?!?!?!?
+RAK/RAK0045550
+E-Eat it quick![nl]This is really embarrassing!
+KSK/KSK0011420
+E-Even if you say that....
+RAK/RAK0045560
+Please, Onodera!
+KSK/KSK0011430
+Ooogh....I-I-I'll do it, Ichijo!
+KSK/KSK0011440
+Aaaaaah....
+RAK/RAK0045570
+H-How is it?
+KSK/KSK0011450
+D-Delicious....?
+RAK/RAK0045580
+I-I-I see.[nl]Thank goodness, you ate it.
+KSK/KSK0011460
+Ooooogh...I don't know what it tastes like~~~~.
+RAK/RAK0045590
+Hm? What did you say?
+KSK/KSK0011470
+N-Nothing....
+@ザクシャ小咲・中
+KSK/KSK0011480
+Would you like some of mine?[nl]My mom made everything by hand.
+RAK/RAK0045600
+Yeah. Sorry.
+RAK/RAK0045610
+Nom.
+RAK/RAK0045620
+....Mmm, it's great![nl]It's a different flavor from mine, and I'm learning a lot.
+@ザクシャ小咲・小
+KSK/KSK0011490
+I'm sure my mom will be glad[nl]to hear that you think it's good, Ichijo.
+RAK/RAK0045630
+Hahh~, I'm so happy.
+KSK/KSK0011500
+Huh? Happy?
+RAK/RAK0045640
+Uh, n-no! I was just thinking "I'm so happy to be[nl]eating lunch on the rooftop in peace like this"!
+KSK/KSK0011510
+Yes. It is, isn't it.
+KSK/KSK0011520
+I'm.....also happy.
+@イベント終了処理
+common.asb

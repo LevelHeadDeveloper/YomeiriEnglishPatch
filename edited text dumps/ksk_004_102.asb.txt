@@ -1,0 +1,36 @@
+__main
+@Lclearscreenall
+@ksk_004_102
+Was it?
+It wasn't an inconvenience!
+Yes, it certainly was....
+@expose
+KSK/KSK0004470
+R-Really?
+Really?
+It's always like this.
+What do you want to do?
+KSK/KSK0004510
+Huh!? Is that the image I have?
+KSK/KSK0004520
+Hmmm.... But, if that's true....[nl]Can you help me look for a bit longer?
+KSK/KSK0004530
+I don't want to inconvenience you, but.....[nl]I have some important photos on there....
+@ザクシャ小咲・１
+KSK/KSK0004480
+I....
+KSK/KSK0004490
+....I really want to find it.[nl]As long as it doesn't bother you.
+KSK/KSK0004500
+Then can you help me for just a bit longer?[nl]There's some really important photos on there....
+KSK/KSK0004540
+I mean, if it does inconvenience you....[nl]You don't have to help me....
+KSK/KSK0004550
+Thanks for sticking with me this far, Ichijo.
+@ksk_004_201
+KSK/KSK0004560
+Ahaha.....Is that right?[nl].....Well, that's good.
+@ksk_004_103
+common.asb
+ksk_004_201.asb
+ksk_004_103.asb

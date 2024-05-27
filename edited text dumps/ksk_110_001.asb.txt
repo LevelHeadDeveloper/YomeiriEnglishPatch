@@ -1,0 +1,129 @@
+__main
+@Lclearscreenall
+@ksk_110
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0012460
+The air is so dry today....
+RUR/RUR0011010
+There's a dry weather advisory in effect today,[nl]I saw it on the news.
+RAK/RAK0046840
+Yeah. I thought my lips were feeling dry.
+KSK/KSK0012470
+Honestly. I can't do without my drink.
+@expose
+RUR/RUR0011020
+....Oh. You two have the same tea.[nl]How intimate.
+KSK/KSK0012480
+R-Ruri! Jeez~.
+RUR/RUR0011030
+Right, right. Speaking of dryness,[nl]I made some really nice moisturizer recently.
+RAK/RAK0046850
+Moisturizer!? And you made it!?
+RUR/RUR0011040
+....That's what I just said.
+KSK/KSK0012490
+Amazing! Ruri, you can do that!?
+RUR/RUR0011050
+Would you like to try making some yourself, Kosaki?[nl]It's pretty easy as long as you have the right ingredients.
+RAK/RAK0046860
+Wow, so it's possible to make something like[nl]moisturizer at home. I had no idea.
+RUR/RUR0011060
+Well, boys usually wouldn't.
+@ＢＧＭ停止
+KSK/KSK0012500
+Aaaaaaaaa!
+RAK/RAK0046870
+Huh?
+KSK/KSK0012510
+T-The tea....I'm not sure which one's mine.
+RAK/RAK0046880
+Huh? Oh, that's right![nl]Which one's mine!?
+RUR/RUR0011070
+Hmmmm. The odds are fifty-fifty.
+RAK/RAK0046890
+(Ummmmm......)
+Left
+Right
+RAK/RAK0046900
+The one on the left....I guess.
+RUR/RUR0011080
+Tch.
+KSK/KSK0012520
+?  Ruri?
+RUR/RUR0011090
+....That's correct.[nl]I'm pretty sure I saw it.
+RUR/RUR0011100
+Sorry for your loss, Kosaki.
+KSK/KSK0012530
+Jeez~, will you stop doing that kind of thing?[nl]If you knew which was which, you should have just said so.
+@ザクシャ小咲・小
+RAK/RAK0046910
+(....That's correct, huh. I see....)
+RAK/RAK0046920
+The one on the right....I guess.
+RUR/RUR0011110
+....Alright.
+RAK/RAK0046930
+Hm? Miyamoto, did you say something?
+RUR/RUR0011120
+No.
+KSK/KSK0012540
+M-Maybe I'll just go buy a new one![nl]If we're wrong, it'll be troublesome for Ichijo....
+RAK/RAK0046940
+No, I don't really mind!
+RAK/RAK0046950
+Hey, no, if you don't want that one, Onodera,[nl]of course I can go buy you a new one!
+KSK/KSK0012550
+N-No! Even if we're wrong, I....[nl]I don't really mind!
+RAK/RAK0046960
+Huh....?
+KSK/KSK0012560
+Aaaaaaaa! N-No, no! I didn't mean that in a weird way--
+RUR/RUR0011130
+----Alright, stop! Just gulp down that tea!
+RAK/RAK0046970G
+Waaaaagh!
+RUR/RUR0011140
+Ahem.
+RUR/RUR0011150
+All that shouting has made me thirsty.[nl]I'm going to go buy a drink, too.
+RUR/RUR0011160
+You're right, Kosaki.
+KSK/KSK0012580
+!?!?
+RAK/RAK0046980
+What the hell's up with Miyamoto....?
+KSK/KSK0012590
+----
+RAK/RAK0046990
+Ummmm, well then, Onodera,[nl]I'll drink this one, okay?
+KSK/KSK0012600
+RAK/RAK0047000
+Onodera?
+KSK/KSK0012610
+Aah! S-Sure! That's fine!
+RAK/RAK0047010
+Well then....
+RAK/RAK0047020
+(Ooogh! I don't know if I'm indirectly kissing her,[nl] or just kissing myself! It's fifty-fifty!)
+RAK/RAK0047030
+....Gulp!
+@expose2
+KSK/KSK0012620
+-----!!
+.......
+RAK/RAK0047040
+(Wait, since I won't know either way,[nl] I'm not wussing out.)
+KSK/KSK0012630
+RAK/RAK0047050
+Huh, Onodera? Your face is beet red, are you okay?[nl]Do you have a fever?
+@ザクシャ小咲・中
+KSK/KSK0012640
+I-I-I'm fine! Haha....haha...ha...ha...
+KSK/KSK0012650
+Haaa.......
+RAK/RAK0047060
+?
+@イベント終了処理
+common.asb

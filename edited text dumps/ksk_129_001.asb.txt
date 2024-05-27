@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@ksk_129
+@イベント開始処理
+RAK/RAK0050340
+(Alright, I think I've got enough time[nl] to finish filling in my answer bubbles.[nl] Next up is the last question....)
+RAK/RAK0050350
+(....Huh? Even though there's 1 question left,[nl] I've run out of spaces?)
+RAK/RAK0050360
+(Huh? I-I've been filling in spaces 1 row ahead!?[nl] When did that happen!? Wa--[nl] I-I'm out of time!)
+KYK/KYK0000310
+Okay, time![nl]Alright, everyone pass your answer sheets forward!
+RAK/RAK0050370
+(Gaaaaaaaahhh![nl] It's over!!)
+@時間経過演出
+@ＢＧＭ再生
+SYU/SYU0008620
+Well, my deepest sympathies, dude~.
+RAK/RAK0050380
+Aaaagh.....[nl]I really thought I was gonna do well this time....
+KSK/KSK0015160
+B-But if you made that mistake this time,[nl]you'll be careful to not make the same mistake when it[nl]really matters, I think....
+KSK/KSK0015170
+So if you really think about it,[nl]maybe it's good that you made that mistake this time, right?
+KSK/KSK0015180
+....I mean, I'm not sure that's the sort of[nl]thing that would cheer you up....[nl]But cheer up, Ichijo!
+RAK/RAK0050390
+O-Onodera....
+SYU/SYU0008630
+Maybe we should do something to[nl]try to cheer Raku up.
+@expose
+KSK/KSK0015190
+What sort of something?
+SYU/SYU0008640
+Like, maybe, you could hug him, Onodera?
+SYU/SYU0008650
+Hey, when you hug a crying child,[nl]that seems to calm them down somewhat, right?
+RAK/RAK0050400
+Whaa!? Really, Shuu, asking Onodera to do that[nl]so brazenly!? N-No. Onodera, you don't[nl]need to take that seriously!
+KSK/KSK0015200
+-----
+KSK/KSK0015210
+.....I-Ichijo![nl]It might be kinda....hard for me to hug you, but....ummm....
+KSK/KSK0015220
+....There, there.
+RAK/RAK0050410
+....Huh?
+RAK/RAK0050420
+(Wha....no way!?[nl] Onodera's patting me on the head!?)
+KSK/KSK0015230
+There, there.
+@ザクシャ小咲・中
+RAK/RAK0050430
+(T-This is a dream situation! Am I dreaming!?[nl] No, I don't care if it *is* a dream....
+KSK/KSK0015240
+.....Ummmm.[nl]H-How about something like this.....
+RAK/RAK0050440
+No, it's fine....[nl]I'm well past the point of cheering up.....[nl]I might as well just die right now....
+KSK/KSK0015250
+Huh!? D-Don't die!
+SYU/SYU0008660
+Hohohoho, that's great, Raku.
+KSK/KSK0015260
+Oh, that's right!
+KSK/KSK0015270
+Here, you can have this, Ichijo.
+RAK/RAK0050450
+A pencil....?[nl]It looks like it's been used a lot.
+KSK/KSK0015280
+Yes. This pencil received a special blessing[nl]at a famous shrine.
+RAK/RAK0050460
+Are you sure I can have this?
+KSK/KSK0015290
+Sure. I've had plenty of good luck either way,[nl]so I don't need it.
+@ザクシャ小咲・小
+RAK/RAK0050470
+I see. Well, I guess I'll take it, with my thanks.[nl]Thank you, Onodera.
+SYU/SYU0008670
+Hmmmhmm. Now you have no choice but to[nl]get a good score on your next test, Raku.
+RAK/RAK0050480
+Okay, I will.
+KSK/KSK0015300
+Good luck.
+@イベント終了処理
+common.asb

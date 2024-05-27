@@ -1,0 +1,52 @@
+__main
+@Lclearscreenall
+@ksk_117
+@イベント開始処理
+RAK/RAK0048360
+(Oh, Onodera's cleaning the blackboard.[nl] She's always working so hard, I notice. [nl] It really is super nice of her.)
+@ＢＧＭ再生
+KSK/KSK0013860
+Haa!
+KSK/KSK0013870
+@expose
+KSK/KSK0013880
+Hmmm, it's too high up.[nl]I guess I can't get the top, after all....
+KSK/KSK0013890
+....One more try. Haa!
+RAK/RAK0048370
+(S-So cute.....[nl] How is this much cuteness even possible....)
+Help her
+Watch her
+RAK/RAK0048380
+(No, this is no time to be admiring her!)
+RAK/RAK0048390
+....Ahem. Uh, Onodera![nl]Shall I help you erase the part you can't reach?
+KSK/KSK0013900
+Ah...[nl]Huh!? Did you see any of that!?
+RAK/RAK0048400
+Uhh, yeah. Just a little.
+KSK/KSK0013910
+I-I see....
+KSK/KSK0013920
+Ummmm....well, if it isn't too much trouble,[nl]could you just get the top part there?
+RAK/RAK0048410
+Yeah, of course!
+@時間経過演出
+RAK/RAK0048420
+....Alright, it's all clean![nl]Is that good?
+@ザクシャ小咲・中
+KSK/KSK0013930
+Yeah, thanks![nl]I should have just asked right from the start.
+RAK/RAK0048430
+Feel free to ask for help anytime.[nl]It's no big deal.
+KSK/KSK0013940
+Okay.
+RAK/RAK0048440
+(Sorry, Onodera! I want to keep watching this scene!)
+KSK/KSK0013950
+KSK/KSK0013960
+Haaaa!
+RAK/RAK0048450
+(Ahhhh, this is soothing....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,77 @@
+__main
+@Lclearscreenall
+@ksk_125
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0008470
+So, I tried calling that girl to me, and....
+RAK/RAK0049740
+....Hm? Did something roll over here just now?
+RAK/RAK0049750
+....An eraser? Is this yours?
+SYU/SYU0008480
+Nope. From the patterning,[nl]wouldn't it be a girl's?
+KSK/KSK0014700
+Aaaaaaaaah![nl]Don't look at that eraser!
+RAK/RAK0049760
+Huh, Onodera!?
+KSK/KSK0014710
+Please give me back that eraser![nl]It's something very dangerous!
+RAK/RAK0049770
+Huh? Dangerous?
+Return it.
+Not if it's dangerous, I won't!
+RAK/RAK0049780
+I-I dunno about this, but....here.
+@ザクシャ小咲・小
+KSK/KSK0014720
+Aah, thank you. Sorry.[nl]Sorry for bothering you!
+RAK/RAK0049790
+I dunno....[nl]If it's really that dangerous, I can't give it back, Onodera!
+@expose
+KSK/KSK0014730
+Aaagh! That's not what I meant...!!
+KSK/KSK0014740
+Ooogh~, what should I do....[nl]How should I explain this!?
+SYU/SYU0008490
+Hiyah!
+RAK/RAK0049800
+Oh!
+RAK/RAK0049810
+Wait, what are you doing, Shuu!?
+SYU/SYU0008500
+There was a bug on your hand,[nl]and I was just getting rid of it.
+SYU/SYU0008510
+....Alright, here, Onodera.[nl]Your eraser.
+KSK/KSK0014750
+Aah! Thank you, Maiko.
+SYU/SYU0008520
+No, no.
+RAK/RAK0049820
+Onodera, I thought you said that eraser was dangerous?
+KSK/KSK0014760
+No, it's fine now![nl]Sorry for bothering you.
+RAK/RAK0049830
+Dangerous eraser....[nl]The hell was up with that?
+SYU/SYU0008530
+Hey, Raku. Did you hear about this charm[nl]that's been popular with the girls recently?
+RAK/RAK0049840
+Huh? Charm?
+SYU/SYU0008540
+Yes. You write the name of your crush on a[nl]brand-new eraser, and if you can use all it up without[nl]anyone seeing, your love will be recquited.
+RAK/RAK0049850
+Hmmmm, didn't know that's what was popular....
+RAK/RAK0049860
+....Wait, what!?[nl]You couldn't possibly mean *that*!
+SYU/SYU0008550
+It's a possibility, that's all I'm saying.[nl]If you wanna know that bad, why not ask Onodera yourself?
+RAK/RAK0049870
+I can't ask her that!!
+RAK/RAK0049880
+Oh, is that so!? That's what you mean![nl]Maybe Onodera's written the name of her crush on there![nl]Oh, no, that would mean....
+RAK/RAK0049890
+Gaaaaah! I don't even know what to think about this,[nl]but it bothers me so muuuuch!!
+SYU/SYU0008560
+.....I see. I think you can figure it [nl]if you really think about it.
+@イベント終了処理
+common.asb

@@ -1,0 +1,211 @@
+__main
+@Lclearscreenall
+@ksk_101
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0007830
+Yahoo! It's finally lunch break~.[nl]What kind of sandwich should I buy today?
+RAK/RAK0044950
+....Hey, Shuu. Have you seen Onodera?
+SYU/SYU0007840
+Onodera? She was just in here a while ago.[nl]She went to the bathroom or someth--
+SYU/SYU0007850
+Hmm? ....*sniff sniff*[nl]What's that smell....? *sniff*
+SYU/SYU0007860
+Raku, do you smell something sweet?
+RAK/RAK0044960
+Oh, it's this bag, right?[nl]These are strawberries.
+RAK/RAK0044970
+I had some yesterday and they were really good,[nl]so I figured I'd bring some to eat today during lunch break....
+CTG/CTG0013480
+Huh!? Strawberries?[nl]They smell soooooo gooood!!
+RAK/RAK0044980
+Huh!?
+MRK/MRK0010680
+Oh, you're so kind~, Raku dearest![nl]You brought dessert for me!
+RAK/RAK0044990
+Uh, no....
+@expose
+CTG/CTG0013490
+Just a minute, Marika! What do you mean "for me"!?[nl]We're gonna divide these evenly among everyone!
+RAK/RAK0045000
+H-Hang on a sec. That's not the....
+SSR/SSR0011970
+Oh, you have strawberries, I see.[nl]They smell delicious.
+RAK/RAK0045010
+(T-This isn't good. I've only got enough of these[nl] for one person.... I brought them for Onodera to eat,[nl] but at this rate, there won't be any left....)
+@ＢＧＭ停止
+SYU/SYU0007870
+Ta-daaaa! I'll be taking those strawberries!
+RAK/RAK0045020
+Huh!?
+CTG/CTG0013500
+Hey!
+SSR/SSR0011980
+What do you think you're doing!?
+MRK/MRK0010690
+That's terrible, Maiko!
+SYU/SYU0007880
+Hahaha, you guys![nl]Raku here's trying to win over the prettiest girls[nl]by handing out strawberries!
+MSA/MSA0000120
+W-What did you say!?
+SYU/SYU0007890
+Are we just gonna let him expand in popularity like this!?[nl]Hell no! That's no good! Everyone, help me[nl]keep this paper bag!
+MSA/MSA0000130G
+Yeah-!!
+MRK/MRK0010700
+Oh my....
+CTG/CTG0013510
+Oh no! They've blocked the way out!
+SSR/SSR0011990
+Ghh, we can't just leave the civilians....
+@画面揺らし
+RAK/RAK0045030
+Gaahh! L-Let go of me, you guys![nl]It's not fair that you outnumber me!
+SYU/SYU0007900
+Ha ha ha ha! You are helpless, Raku![nl]Now we boys shall have our fill of your strawberries!
+RAK/RAK0045040
+(I don't have that many strawberries![nl] No, that doesn't matter...)
+RAK/RAK0045050
+You guys....seriously get off of me!
+@画面揺らし2
+MSA/MSA0000140
+Aaagh! Such power, he shook us right off!
+MSB/MSB0000090
+We've got no choice, we have to assume formation....
+RAK/RAK0045060
+I won't keep falling for the same trick over and over![nl]I'm gonna get those baaaaaack!
+SYU/SYU0007910
+Aaaaaagh![nl]H-He broke through!?
+RAK/RAK0045070
+SHUUUUUUU!!
+SYU/SYU0007920
+Haha, that's my pal.[nl]If it wasn't like this, it wouldn't be any fun!
+@背景変更2
+RAK/RAK0045080
+Get back here! Get back heeeeeeeeere!
+SYU/SYU0007930
+Try and catch me~! Hahahahahahaha!
+KSK/KSK0011130
+Huh....? Was that Ichijo just now?
+@フェードアウト
+@背景変更
+RAK/RAK0045090
+Crap! Where's he gone!?
+RAK/RAK0045100
+I know this guy. He's probably back in the classroom,[nl]pretending to still be running. I'll go check back there....
+RUR/RUR0010660
+Wait.
+RAK/RAK0045110
+Huh, Miyamoto?
+RUR/RUR0010670
+Maiko's on the rooftop. Please hurry.
+RAK/RAK0045120
+Really!? Thanks for the info!
+RUR/RUR0010680
+Don't worry about it.
+RUR/RUR0010690
+You were planning on giving those strawberries to Kosaki,[nl]right? Hurry up and catch him before he eats them.
+RAK/RAK0045130
+Right! See ya!
+RAK/RAK0045140
+(Hmm? How did she know about the strawberries!?)
+@スクリーン変更
+SYU/SYU0007940
+Hehhehhehheh.....
+SYU/SYU0007950
+After shaking off my compatriots, and overcoming[nl]numerous hardships, you have reached this point, Raku....
+RAK/RAK0045150
+Why are you pretending to be a Russian boss, you....[nl]Now give me back that bag!
+SYU/SYU0007960
+Hehehehehe..... You're too late![nl]It's already empty!
+......
+Punch Shuu
+Listen to Shuu
+RAK/RAK0045160
+....Grit your teeth, Shuu.....
+SYU/SYU0007970
+Ahahahaha, you're serious.[nl]Did I go too far with my prank?
+SYU/SYU0007980
+Sorry, sorry. Here, your strawb--
+@キャラ揺らし
+SYU/SYU0007990
+Gbcthk!
+RAK/RAK0045170
+RAK/RAK0045180
+Oh, my strawberries![nl]I mean, I'm such an idiot!
+RAK/RAK0045190
+I thought you ate the strawberries![nl]Why did you go to so much trouble[nl]for a complicated prank!?
+SYU/SYU0008000
+N-Next time....try talking to me....first....
+RAK/RAK0045200
+Tell me what's going on.
+SYU/SYU0008010
+Hmm?
+RAK/RAK0045210
+You might be a jerk, but you're not the kind of guy[nl]who'd give me this much trouble for no reason.[nl]You must have a reason.
+SYU/SYU0008020
+....I see. Well, if you know that much,[nl]there's no point in dragging this on any longer.
+SYU/SYU0008030
+Here you go.
+RAK/RAK0045220
+Huh?
+SYU/SYU0008040
+There's still strawberries left.[nl]You were thinking of giving them to Onodera, weren't you?
+SYU/SYU0008050
+But before you could do that,[nl]the other girls were gonna eat them all.
+SYU/SYU0008060
+Because of your personality,[nl]there's no way you could just tell them "I want to[nl]give these to Onodera, so you guys can't have them."
+RAK/RAK0045230
+S-Seriously....[nl]So you intercepted?
+RAK/RAK0045240
+Shuu! Y-You're such a jerk!
+SYU/SYU0008070
+Yes, yes, you can thank me later. But you'd better go[nl]give those to Onodera before lunch break ends.[nl]She should be in the music room now.
+RAK/RAK0045250
+The music room?
+KSK/KSK0011140
+....Oh, Ichijo!
+RAK/RAK0045260
+Onodera! Why are you here?
+KSK/KSK0011150
+I'm not quite sure myself,[nl]but Ruri told me to come here....
+RAK/RAK0045270
+Miyamoto?
+RAK/RAK0045280
+I see....[nl]Shuu asked Miyamoto to ask you, didn't he.
+KSK/KSK0011160
+Ichijo, it looked like you were in a[nl]pretty big hurry just now.
+RAK/RAK0045290
+No, it's all good now.
+RAK/RAK0045300
+....Anyway, Onodera. This might seem[nl]like it's out of nowhere, but would you like[nl]to try some of these?
+KSK/KSK0011170
+Huh? Strawberries?
+RAK/RAK0045310
+Yeah. They were really good when I tried them,[nl]so I thought I'd bring some for you....
+KSK/KSK0011180
+....I see.[nl]I'm glad....I'll try some right away.
+RAK/RAK0045320
+O-Okay. Here's a toothpick.
+KSK/KSK0011190
+Ah, thanks. Nom.....mmm....
+KSK/KSK0011200
+Mmmmmmmm~~!
+KSK/KSK0011210
+Delicious! This is so sweet and tasty!
+RAK/RAK0045330
+Yeah. I figured you might like strawberries, Onodera.[nl]I'm glad you enjoyed them.
+KSK/KSK0011220
+I see. Y-You did this for me?
+RAK/RAK0045340
+Y-Yeah!
+@ザクシャ小咲・中
+KSK/KSK0011230
+Thank you, Ichijo.[nl]I-I'm so happy!
+RAK/RAK0045350
+(Yesss! That smile![nl] I'm so glad she liked them!)
+RAK/RAK0045360
+(Shuu, Miyamoto....[nl] Thank you so much!)
+@イベント終了処理
+common.asb

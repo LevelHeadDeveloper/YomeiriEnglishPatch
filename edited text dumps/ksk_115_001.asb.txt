@@ -1,0 +1,105 @@
+__main
+@Lclearscreenall
+@ksk_115
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0013340
+Hahh....I don't know what I'm gonna do.
+RUR/RUR0011170
+What point is there in being depressed about this?[nl]It's not like there's anything we can do.
+RAK/RAK0047750
+.....What's the matter?
+KSK/KSK0013350
+Uh....well, nothing's the matter with us,[nl]but I have this friend who's having some trouble....
+RAK/RAK0047760
+Trouble?
+RAK/RAK0047770
+....Oh, I might be butting in.[nl]Are you sure it's okay to tell me?
+RUR/RUR0011180
+It's fine, this isn't anyone you know.[nl]I don't think you'd be so naive as to pry about who it is.
+@expose
+KSK/KSK0013360
+Yeah, and I'd like to hear what a boy has to say.[nl]So could you tell me what you think?
+RAK/RAK0047780
+Yeah, of course![nl]And don't worry, my lips are sealed!
+KSK/KSK0013370
+Hehe, thanks!
+KSK/KSK0013380
+So, um....[nl]My friend has, recently, found someone she likes.
+RAK/RAK0047790
+Mhm....and then?
+KSK/KSK0013390
+She's scared to tell him she likes him because she's fat.[nl]But she isn't actually fat.
+RAK/RAK0047800
+Hm? Then it sounds like there isn't a problem....
+RUR/RUR0011190
+Yes there is.[nl]She's completely convinced she *is* fat,[nl]so she won't believe me when I tell her she'd not.
+RAK/RAK0047810
+Hahh....
+@expose
+KSK/KSK0013400
+But also.....even if she really *is* fat,[nl]she's a very nice girl, and I really want her[nl]to be honest about how she feels....
+KSK/KSK0013410
+But I don't know how to go about telling her....
+RAK/RAK0047820
+Hmmmmm, that's a tough one.
+RUR/RUR0011200
+So I say we just leave her alone,[nl]even if it does seem cold.
+KSK/KSK0013420
+I don't think that's such a good idea....[nl]Maybe the only thing we can do for her is to listen to her,[nl]but it's better than nothing.
+KSK/KSK0013430
+What do you think, Ichijo?
+RAK/RAK0047830
+Let's see....
+I agree with Onodera.
+I agree with Miyamoto.
+RAK/RAK0047840
+I agree with Onodera. It's a lot easier to get people[nl]to listen to you when you show you're willing to listen.
+@ザクシャ小咲・小
+KSK/KSK0013440
+Yeah. That sounds right.
+RUR/RUR0011210
+I hardly think that's very constructive....[nl]But, well, I guess that's one way to look at it.
+RAK/RAK0047850
+But honestly, that's very kind of you, Onodera.[nl]I can tell you were really worried for your friend.
+KSK/KSK0013450
+Huh?
+RAK/RAK0047860
+Well, you just looked so serious earlier,[nl]I thought you were worried for yourself.[nl]That's why I called out to you.
+KSK/KSK0013460
+I see....[nl]But, since you say that,[nl]I can tell you're kind too, Ichijo.
+RAK/RAK0047870
+Huh, how come?
+KSK/KSK0013470
+Well, you thought I was having a hard time,[nl]so you came to talk to me, right? That seems[nl]very kind to me.
+RAK/RAK0047880
+T-That's not true....
+KSK/KSK0013480
+No. It totally is![nl]I guarantee it!
+RAK/RAK0047890
+O-Okay....[nl]Thanks a lot.
+RAK/RAK0047900
+(When Onodera says things like that so powerfully,[nl] that makes me so happy!)
+RAK/RAK0047910
+I'm with Miyamoto on this one.
+RAK/RAK0047920
+I understand how you feel, Onodera,[nl]but it might be best to keep some distance.
+KSK/KSK0013490
+I...see.....
+@ザクシャるり・小
+RUR/RUR0011220
+Rare as it may be, I agree with you, Ichijo.[nl]That girl is under some kind of mania right now.
+RAK/RAK0047930
+(Mania, huh.[nl] Miyamoto sure has a harsh way of looking at things....)
+KSK/KSK0013500
+Ummmmm.....
+RAK/RAK0047940
+I-It'll be okay. She's a nice girl, right?[nl]I'm sure everything will work out.
+KSK/KSK0013510
+....Yeah, I guess so.[nl]I'll keep tabs on her for a bit longer.
+KSK/KSK0013520
+Thanks for the advice, Ichijo.
+RAK/RAK0047950
+(I think Onodera's such a nice girl,[nl] being that compassionate for others.)
+@イベント終了処理
+common.asb

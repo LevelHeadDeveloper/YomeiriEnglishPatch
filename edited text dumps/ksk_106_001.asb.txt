@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@ksk_106
+@イベント開始処理
+RAK/RAK0046210
+(We're doing watercolors for art class today....[nl] It's nice and pleasant, painting outside.)
+@ＢＧＭ再生
+KSK/KSK0011910
+U-Um, Ichijo....you're alone?
+RAK/RAK0046220
+Onodera! Um, well, I guess I am alone....
+KSK/KSK0011920
+Well....if it's alright with you,[nl]can I draw here with you?
+RAK/RAK0046230
+Huh.... S-Sure, of course![nl]By all means! Go ahead and sit next to me.
+@expose
+KSK/KSK0011930
+Sure, thank you.
+RAK/RAK0046240
+(Alright! Lucky!!)
+@時間経過演出
+RAK/RAK0046250
+....Oh. Dang it.[nl]I left my paint set in the classroom.
+KSK/KSK0011940
+You can use mine if you want.[nl]I bought it just the other day.
+RAK/RAK0046260
+Oh, sorry Onodera. Thanks.
+RAK/RAK0046270
+(Now, where should I start painting....)
+@フェードアウト
+@背景変更
+@タッチパート開始処理
+MSB/MSB0000100
+If Ichijo gets himself any more attached to Onodera,[nl]I'll kill him! Damn it. Why is he the only one!?!?
+SYU/SYU0008210
+Hey, hey, calm down everyone.[nl]Rest assured, Ichijo isn't the kind of guy who can[nl]make any more progress.
+RAK/RAK0046280
+(That silhouette....is that Shuu?[nl] I'll have to thank him for pacifying everyone later.)
+RUR/RUR0010950
+Kosaki....do your best....
+RAK/RAK0046290
+(Is that....Miyamoto?[nl] What the hell is she doing!?)
+RAK/RAK0046300
+What's that?
+KSK/KSK0011950
+Is that....a stuffed animal?[nl]Maybe it's one of the ones they used at the Culture Festival?
+RAK/RAK0046310
+Maybe. It's dirty, so I'll wash it later.
+RAK/RAK0046320
+Okay, I'll paint here....
+KSK/KSK0011970
+Aah!!
+RAK/RAK0046330
+S-Sorry! I touched your hand![nl]Did I get any paint on you!?
+KSK/KSK0011980
+No, it's my fault.[nl]It was just a coincidence that we reached[nl]for the paint at the same time!
+@ザクシャ小咲・小
+KSK/KSK0011990
+Aaaah!
+RAK/RAK0046340
+S-Sorry! I touched it again!
+KSK/KSK0012000
+No, it's fine. I'm not sure why that keeps happening.[nl]Hahaha....
+KSK/KSK0012010
+Aah....
+RAK/RAK0046350
+!
+RAK/RAK0046360
+(I-I touched her hand again!)
+RAK/RAK0046370
+I-I'm really sorry, Onodera![nl]It's like we're doing it on purpose, really!
+KSK/KSK0012020
+Maybe, it's because we're painting the same scenery.
+RAK/RAK0046380
+Oh, I see.... If we're painting the same scenery, [nl]we'll be using the same colors.
+KSK/KSK0012030
+Yes. I....really like the view from here.[nl]That's why I decided to paint it.
+RAK/RAK0046390
+I-I see~. Me too.[nl]What a coincidence!
+KSK/KSK0012040
+Haha. I guess so.
+RAK/RAK0046400
+(Scoping out the same place as Onodera,[nl] what a great coincidence!)
+@イベント終了処理
+common.asb

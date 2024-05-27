@@ -1,0 +1,335 @@
+__main
+@Lclearscreenall
+@ksk_003_201
+@2ショット成功
+@2ショット失敗
+@ksk_003_201_01
+@ザクシャ小咲・大
+@expose
+KSK/KSK0003540
+I really like talking to you, Ichijo.....It's fun.
+RAK/RAK0009310
+I-Is that so! That's good.
+@ＢＧＭ停止
+@ksk_003_201_02
+............
+RAK/RAK0009320
+(Aaah, it's all silent again.....!)
+RAK/RAK0009330
+(I have to try to lift the mood![nl] Ummm, umm.....)
+RAK/RAK0009340
+Hey, Onodera. Wanna stop by that park?[nl]There's a bench so we can sit down and talk.
+KSK/KSK0003550
+Ah-....Y-Yes!
+@ksk_003_201_03
+@フェードアウト
+@ＢＧＭ再生
+@背景変更2
+KSK/KSK0003560
+Looks like they're all having fun.
+RAK/RAK0009350
+Yeah. I used to play like that a lot.
+KSK/KSK0003570
+Oh, their ball....
+RAK/RAK0009360
+I think it belongs to that kid. Lemme give him a wave.
+@expose
+KSK/KSK0003580
+I'll bring it over in a bit.
+RAK/RAK0009370
+No, it's good.[nl]I think I can throw it far enough.
+KSK/KSK0003590
+Ah, I see.[nl]Well, go ahead.
+RAK/RAK0009380
+Okay.
+RAK/RAK0009390
+Hey, go long!!
+RAK/RAK0009400
+Alright, nice catch!
+KSK/KSK0003600
+---------.
+RAK/RAK0009410
+Hm? What's wrong, Onodera?
+KSK/KSK0003610
+You threw that ball farther than I expected.[nl]I don't think I could've done that.
+RAK/RAK0009420
+Well, I am a man.[nl]I should be able to throw pretty far.
+KSK/KSK0003620
+.....Yeah, that's right.[nl]You are a boy, after all.
+RAK/RAK0009430
+(....It's kind of embarassing to hear Onodera say that again.)
+@expose
+KSK/KSK0003630
+Those kids are cute, aren't they.
+RAK/RAK0009440
+Well, you seem to be good with kids.
+KSK/KSK0003640
+Yes. Both my parents work,[nl]so I used to take care of my sister.
+RAK/RAK0009450
+I see....
+RAK/RAK0009460
+(So, if I were to have a child with Onodera....)
+RAK/RAK0009470
+(Uwahhh, that would make me so happy~.....)
+KSK/KSK0003650
+Ah-, the girl fell down!
+RAK/RAK0009480
+Huh, really!?
+KSK/KSK0003660
+I have a bandage, I'll go fix her up!
+RAK/RAK0009490
+(Onodera is great at taking care of people like this....)
+RAK/RAK0009500
+(The girl who fell down is smiling.)
+KSK/KSK0003670
+Sorry to keep you waiting, Ichijo!
+RAK/RAK0009510
+No, it's fine.[nl]She seems like she's doing better.
+KSK/KSK0003680
+Yeah, it was just a couple scratches.
+RAK/RAK0009520
+Thank goodness.
+RAK/RAK0009530
+I....think you're amazing at that kind of thing, Onodera.
+KSK/KSK0003690
+Eh?
+RAK/RAK0009540
+Well, it's not easy to do that, is it?[nl]To comfort a crying child, or even to get them to laugh.
+KSK/KSK0003700
+Not at all![nl]It's just a normal thing....
+RAK/RAK0009550
+No, it's amazing. I guarantee it!
+RAK/RAK0009560
+....I mean, if that's the sort of thing I can guarantee.
+KSK/KSK0003710
+N-No! It's not true!
+KSK/KSK0003720
+I'm really very happy....
+RAK/RAK0009570
+--------!
+RAK/RAK0009580
+(This atmosphere....Is it just my imagination, or is it really[nl]this good?)
+RAK/RAK0009590
+(It really feels like a casual after-school date this way....)
+KSK/KSK0003730
+....That's right.[nl]Ichijo, you were talking about getting some groceries earlier.[nl]Can you make it in time after talking with me for so long?
+RAK/RAK0009600
+Oh, sure![nl]There's still plenty of time before the supermarket closes,[nl]and I'm making a pretty quick meal today.
+KSK/KSK0003740
+Okay, that's good.
+KSK/KSK0003750
+...I do envy your family, Ichijo.
+RAK/RAK0009610
+Huh? How come?
+KSK/KSK0003760
+Well, your cooking is delicious, and I kind of envy them[nl]for being able to eat it every day.
+RAK/RAK0009620
+Huh?[nl]Do you want to eat my cooking everyday?
+KSK/KSK0003770
+Hm? Yes, I think so....?
+RAK/RAK0009630
+(Awesome.....!)
+RAK/RAK0009640
+(Doesn't that sound like an old Japanese marriage proposal?[nl]"Make me miso soup every day" or something.)
+RAK/RAK0009650
+(No, no.....[nl] I'm totally overthinking this.[nl] Onodera looks kind of confused....)
+KSK/KSK0003780
+----------?
+KSK/KSK0003790
+Ahh!?
+KSK/KSK0003800
+N-No![nl]That's not what I meant at all!
+RAK/RAK0009660
+Ah, ahaha.....[nl]No, I got it, I got it.
+KSK/KSK0003810
+KSK/KSK0003820
+....But, um.....
+RAK/RAK0009670
+....Hm?
+KSK/KSK0003830
+I do actually wish I could eat your cooking every day.
+RAK/RAK0009680
+Ah- Ohh.....
+RAK/RAK0009690
+(I'm not so vain as to believe Onodera[nl] wants to marry me, but...)
+RAK/RAK0009700
+(But still....)
+@ＢＧＭ停止
+RAK/RAK0009710
+.......Onodera.
+KSK/KSK0003840
+......Y-Yes?
+RAK/RAK0009720
+....I'd be fine with cooking for you every day.
+KSK/KSK0003850
+Huh?
+RAK/RAK0009730
+I can make you at least one meal a day.
+KSK/KSK0003860
+.....Ehe.....
+RAK/RAK0009740
+I......
+RAK/RAK0009750
+Onodera, I----!
+@叫び揺れ
+RYU/RYU0000130
+What the hell---!!!
+RAK/RAK0009760
+(Gwagh!!)
+@ＢＧＭ再生
+RYU/RYU0000140
+What are you bastards doing in our part of town?[nl]Go back to the Beehive!
+CLD/CLD0000450
+Oh, it's the thugs from the Shuei-Gumi.[nl]My deepest apologies. I couldn't see your weak aura.
+RYU/RYU0000150
+Oho, a weakling like you is talking?
+CLD/CLD0000460
+Oh, did I say something offensive? I'm sorry.[nl]I just had to throw up after breathing the same[nl]air as you nauseating pigs.
+CLD/CLD0000470G
+Huh?
+RAK/RAK0009770
+(....Aaaaaah!! What are they doing here!?[nl] Why did it have to be now.....!!)
+KSK/KSK0003870
+I-Ichijo!?[nl]You're sweating buckets....I-Is everything okay!?
+RAK/RAK0009780
+Ah, y-yes.[nl]I'm fine....
+RAK/RAK0009790
+(Have the kids all run away....?[nl] Well, duh....)
+RAK/RAK0009800
+(Hah-...! If they see me with Onodera like this,[nl] they'll get the wrong idea and I might be in[nl] even bigger trouble...!?)
+RAK/RAK0009810
+Onodera, come here for a sec!
+KSK/KSK0003880
+Huh!? O-Okay....!?
+@背景変更
+RAK/RAK0009820
+(We'll hole up here and watch....)
+KSK/KSK0003890
+U-Um, Ichijo....
+RAK/RAK0009830
+.....Hm? What is it, Onodera?
+KSK/KSK0003900
+........My hand....
+RAK/RAK0009840
+(Wahh!)
+@背景変更2
+RAK/RAK0009850
+(I never let go after I grabbed her hand so quickly!!)
+RAK/RAK0009860
+S-Sorry..!!
+KSK/KSK0003910
+N-No...
+KSK/KSK0003920
+It's fine...[nl]It's you after all.....
+RAK/RAK0009870
+KSK/KSK0003930
+Ah, no.
+KSK/KSK0003940
+Uh, well....
+KSK/KSK0003950
+--------
+RAK/RAK0009880
+Onodera.....
+KSK/KSK0003960
+Ichijo....
+RYU/RYU0000170
+I'll murder you!
+CLD/CLD0000480
+You fool. I'll send you to hell!
+RAK/RAK0009890
+RAK/RAK0009900
+Sorry, Onodera. Hang tight for a sec.
+KSK/KSK0003970
+Ah, okay....got it.[nl]Be careful, okay?
+RYU/RYU0000180
+So this is war, then!
+CLD/CLD0000490
+Fine by me....[nl]You're gonna be the ones to regret it, though!
+RAK/RAK0009910
+Hey![nl]What the hell are you guys doing!!
+RYU/RYU0000190
+Y-Young master!![nl]When did you get here!?
+RAK/RAK0009920
+Claude, why are you here in the first place![nl]Look! All the kids were so scared that they[nl]scurried away like ants!
+CLD/CLD0000500
+.....They provoked me first, though.
+RYU/RYU0000200
+Ohh, what the hell, man!
+CLD/CLD0000510
+I'm saying it's all your fault, monkey.
+RAK/RAK0009930
+(Crap. I'll never have a pleasant conversation with Onodera[nl]at this rate!
+RAK/RAK0009940
+Aghhh, fine![nl]We were in the wrong today![nl]Could you please stay off this street, just for today?
+RYU/RYU0000210
+Young master, no![nl]Please don't bow to them on our behalf!
+CLD/CLD0000520
+...Heh.
+CLD/CLD0000530
+We'll pull out for today.[nl]Move out, boys.
+RYU/RYU0000240
+Ugh-, Young master....[nl]I'm....sorry about that.....
+RAK/RAK0009960
+Okay, but try to avoid fighting, alright?[nl]You should be sorry!
+RYU/RYU0000260
+Y-Young master....!
+RYU/RYU0000270
+What confidence![nl]I always knew you were the best young man in the world....[nl]No, the universe~!!
+RAK/RAK0009970
+Oh....[nl]Thank you for the excessive praise.
+RAK/RAK0009980
+Oh, that's right.[nl]Ryuu, do you have some time to go shopping for dinner?[nl]Let's see....I've got a list for you here.
+RYU/RYU0000280
+Right! As you wish-!!
+RAK/RAK0009990
+(Alright, they're gone....)
+RAK/RAK0010000
+Sorry, Onodera.[nl]Thanks for waiting....
+KSK/KSK0003980
+No, it's alright.[nl]Thanks for your hard work, Ichijo!
+KSK/KSK0003990
+It's honestly amazing that you can mediate between such[nl]scary-looking people.
+RAK/RAK0010010
+N-No....[nl]It isn't really that cool or anything....
+KSK/KSK0004000
+No! That was very cool!
+RAK/RAK0010020
+Hm!?
+RAK/RAK0010030
+(Onodera thought I was cool....)
+KSK/KSK0004010
+Ah-....umm....[nl]Uh......
+KSK/KSK0004020
+Th-That's right![nl]Ichijo, what was it you were trying to say earlier?
+RAK/RAK0010040
+...When?
+RAK/RAK0010050
+(....Ah! I was about to confess to her!)
+RAK/RAK0010060
+Uhh....Hmmm.....
+RAK/RAK0010070
+(What should I tell her.....)
+RAK/RAK0010080
+.....Sorry. Not today.
+KSK/KSK0004030
+.....I see.
+KSK/KSK0004040
+But please tell me sometime.
+RAK/RAK0010090
+@フェードアウト
+CLD/CLD0000540
+Hm...There you are.
+CLD/CLD0000550
+I accidentally dropped my handkerchief when[nl]I was dealing with that monkey....
+CLD/CLD0000560
+Mm?
+RAK/RAK0010100
+Well then, let's head home.
+KSK/KSK0004050
+Sure! I had a lot of fun today.
+CLD/CLD0000570
+Is that Raku Ichijo....?
+CLD/CLD0000580
+Why are you with a girl other than the young mistress...?
+@イベント終了処理
+common.asb

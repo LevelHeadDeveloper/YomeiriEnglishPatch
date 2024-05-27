@@ -1,0 +1,80 @@
+__main
+@Lclearscreenall
+@ksk_109
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0013630
+Alriiiiight! It's lunchtime!
+KSK/KSK0012310
+Hehehe. You really love to eat,[nl]don't you, Chitoge?
+CTG/CTG0013640
+Well, sure! Food is the source of life.[nl]Who doesn't love it?
+RAK/RAK0046720
+In your case, you're just always hungry....
+@expose
+CTG/CTG0013650
+What did you just say?
+RAK/RAK0046730
+.....Let's eat.
+KSK/KSK0012320
+Hehe. You two get along so well.
+KSK/KSK0012330
+Alright, let's eat. Nom.
+KSK/KSK0012340
+Nom nom....
+KSK/KSK0012350
+----!!
+RAK/RAK0046740
+.....Hm? Onodera, what's wrong?
+KSK/KSK0012360
+-----------
+@expose2
+CTG/CTG0013660
+Kosaki!?!?
+KSK/KSK0012370
+Aaaagh.....
+KSK/KSK0012380
+Hahhhh....
+RAK/RAK0046750
+What's wrong? Is there something in there you don't like?
+KSK/KSK0012390
+Yeah. There's some konjac in my hijiki....
+RAK/RAK0046760
+Oh yeah, you mentioned you didn't like it.
+CTG/CTG0013670
+Oh. There's quite a lot of it.[nl]If you don't want it, shall I eat it for you?
+KSK/KSK0012400
+But, Chitoge, your lunch is pretty big.[nl]Are you sure you'd be able to eat my hijiki as well?
+RAK/RAK0046770
+(Ummm....)
+Trade part of your lunch
+Have Chitoge eat the hijiki
+RAK/RAK0046780
+Well, how about you trade for my boiled spinach?
+KSK/KSK0012410
+Huh? ....Are you sure?
+RAK/RAK0046790
+Yeah. Hijiki, or konjac, or whatever,[nl]I'd be happy to trade.
+KSK/KSK0012420
+Well then, would you please?
+RAK/RAK0046800
+Of course! There you go.
+@ザクシャ小咲・小
+KSK/KSK0012430
+Ooh, thank you, Ichijo![nl]You're really, really helpful!
+RAK/RAK0046810
+(I never thought she'd be thanking me so tearfully....[nl] Onodera, you really don't like konjac, do you?)
+CTG/CTG0013680
+I want some hijiki, too![nl]Will you give me some for these cherry tomatoes?
+KSK/KSK0012440
+S-Sure! Thanks, Chitoge!
+RAK/RAK0046820
+Chitoge can eat it with room to spare.[nl]Her stomach is bottomless.
+CTG/CTG0013690
+.....W-While that's true,[nl]I resent you for saying it out loud.
+RAK/RAK0046830
+Owowowowow![nl]Stop pinching my sides!
+KSK/KSK0012450
+Hahahaha.....[nl]You two really do get along so well~.....
+@イベント終了処理
+common.asb

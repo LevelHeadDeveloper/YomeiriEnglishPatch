@@ -1,0 +1,204 @@
+__main
+@Lclearscreenall
+@ksk_004
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0000880
+......Hey.
+RAK/RAK0010110
+Yeah?
+SYU/SYU0000890
+How are things lately?[nl]Any luck with Onodera?
+RAK/RAK0010120
+W-What the hell? That came out of nowhere.
+SYU/SYU0000900
+Don't underestimate my observational skills![nl]Lately, it seems to me that the two of you are getting[nl]even closer! Am I right?
+RAK/RAK0010130
+(Wow, how can he even tell?)
+RAK/RAK0010140
+(Truthfully, I've wanted to confess a few times lately.....[nl] But every time I tried, I got interrupted....)
+SYU/SYU0000910
+Oh-....
+@expose
+SYU/SYU0000920
+Listen, Raku.[nl]There's something good coming your way, ya know?
+RAK/RAK0010150
+.......Hm? What do you mean?
+@ＢＧＭ停止
+SYU/SYU0000930
+It'll be a critical moment for you as a man, so be careful![nl]Farewell, buddy!
+RAK/RAK0010160
+Huh? Hey, Shuu!
+RAK/RAK0010170
+(He's gone....I don't know what he meant.)
+RAK/RAK0010180
+(Well, I guess I'll go home by myself.)
+RAK/RAK0010190
+(Hm? Who's that up ahead....)
+RAK/RAK0010210
+(Shuu....This must be what you meant!)
+RAK/RAK0010200
+.....Onodera?
+KSK/KSK0004060
+Huh? Ichijo!
+RAK/RAK0010220
+W-What a coincidence.[nl]Are you here by yourself today?
+KSK/KSK0004070
+.....Y-Yes.[nl]I am, but.....
+RAK/RAK0010230
+....What's wrong?
+KSK/KSK0004080
+Actually, I think I lost my cell phone.
+RAK/RAK0010240
+Huh, really!?
+KSK/KSK0004090
+Yes. I passed through here earlier, before I realized it was[nl]missing, so I'm trying to see if I dropped it here....
+RAK/RAK0010250
+Would you like me to help?
+KSK/KSK0004100
+No....I don't want to give you any trouble.[nl]You were on your way somewhere, right?
+RAK/RAK0010260
+No, I don't have anywhere else to be today,[nl]so we can look for it together.
+KSK/KSK0004110
+Hmmmmm....[nl]Well then, would you help me, please?
+RAK/RAK0010270
+Sure! Let's go!
+KSK/KSK0004120
+.....Thanks! It'd be a big help.
+RAK/RAK0010280
+(Onodera's so cute......[nl] Alright! We're definitely going to find her phone![nl] Even if I need to search through fire and water!)
+@時間経過演出
+@ＢＧＭ再生
+KSK/KSK0004130
+Ummmmm....[nl]We can't seem to find it anywhere.
+RAK/RAK0010290
+That's true.[nl]I guess you checked with the police station already, huh?
+KSK/KSK0004140
+Yes. They didn't have it.
+RAK/RAK0010300
+I see.....
+KSK/KSK0004150
+Ah-!?
+RAK/RAK0010310
+What's wrong, Onodera!?[nl]Did you find it!?
+@背景変更
+KSK/KSK0004160
+A-Awesome.....!
+KSK/KSK0004170
+Ichijo, look![nl]This cat is so cute!
+RAK/RAK0010320
+Ah-ah-....[nl]I-I see.....
+RAK/RAK0010330
+(Hm? What's that....)
+@タッチパート開始処理
+KSK/KSK0004180
+Kyah!
+KSK/KSK0004190
+What it it!?
+RAK/RAK0010340
+Hey, Onodera. You see that box the cat is sitting on?[nl]Doesn't it look like a cell phone?
+KSK/KSK0004250
+Eh!?
+KSK/KSK0004200
+It's amazing that a cat can balance on a fence this narrow.
+KSK/KSK0004210
+Isn't she so cute?[nl]Right, Ichijo!?
+KSK/KSK0004220
+It's a beautiful day, isn't it.
+KSK/KSK0004230
+Sorry for dragging you along like this[nl]when you could be enjoying it.....
+KSK/KSK0004240
+Huh? Does it really?
+KSK/KSK0004260
+Ah, it does![nl]But how'd it get there?
+RAK/RAK0010350
+I don't know, but let's try to get it back.
+I'll distract the cat
+Can you distract the cat, Onodera?
+RAK/RAK0010360
+Alright, I'll try to get her attention and lure her off the fence,[nl]and you can grab the phone.
+KSK/KSK0004270
+O-Okay...!
+RAK/RAK0010370
+Pspspspsps....There's a good girl.....[nl]We just need Onodera's phone back, okay....?
+CAT/CAT0000010
+Mrrrrrrrreeeeooow!
+@ＨＰ－１０
+RAK/RAK0010380
+Gyah!?
+KSK/KSK0004280
+I-Ichijo! Are you alright!?
+RAK/RAK0010390
+I think so....[nl]It's no big deal....
+CAT/CAT0000020
+Meow.
+KSK/KSK0004290
+Oh, it's coming to me?
+RAK/RAK0010400
+Onodera, be careful it doesn't scratch you----
+RAK/RAK0010410
+Onodera, could you see if you could attract her off[nl]the fence? I'll see about the phone.
+KSK/KSK0004300
+Ah, ok. Got it.
+KSK/KSK0004310
+Here, kitty, kitty~....
+CAT/CAT0000030
+Purrurrr....[nl]Meow.
+KSK/KSK0004320
+Pspspspsps.....[nl]Hahaha, good girl.
+RAK/RAK0010420
+(Wow, that cat really likes Onodera!!!)
+RAK/RAK0010430
+....Wait, huh?
+RAK/RAK0010440
+Sorry, Onodera. This isn't your phone after all, it's just[nl]a box of sweets.
+KSK/KSK0004330
+Ah, I guess it is. That's too bad....
+CAT/CAT0000040
+Meow.
+KSK/KSK0004340
+Ah, that's right! Does your scratch still hurt?[nl]I'll put a bandage on it!
+RAK/RAK0010450
+Oh, okay....[nl]Thanks, Onodera.
+RAK/RAK0010460
+(Guuuh....![nl] I don't feel a shred of regret for my injuries....!)
+KSK/KSK0004350
+Hmm.....I wonder if it's around here somewhere.
+RAK/RAK0010470
+Me too.....huh?
+RAK/RAK0010480
+(I-Isn't that Claude over there!?)
+RAK/RAK0010490
+(If he sees us here like this.....that wouldn't be good!)
+RAK/RAK0010500
+I-I-I-I don't think it's here.[nl]L-Let's look somewhere else!!
+KSK/KSK0004360
+Hm? Okay....[nl]Ichijo, you look pale....do you feel alright?
+RAK/RAK0010510
+Ah, yeah....!
+RAK/RAK0010520
+(Gehhh.....Claude's getting closer![nl] He'll see us if we don't move faster!)
+RAK/RAK0010530
+O-O-O-Onodera! L-Let's get moving![nl]Preferably at least Mach 2!
+KSK/KSK0004370
+O-Okay...!?
+@フェードアウト
+KSK/KSK0004380
+Mmmhhh, we still can't find it....
+RAK/RAK0010540
+Is there anywhere else you might have dropped it?
+KSK/KSK0004390
+No.....[nl]We've already checked everywhere I can think of between[nl]when I last had it and when I realized it was missing.....
+RAK/RAK0010550
+I see.....Mmmm.
+KSK/KSK0004400
+Thanks for your help, Ichijo.[nl]If we can't find it after such a long search,[nl]I'm sure it's gone.
+KSK/KSK0004410
+It's okay, though.
+RAK/RAK0010560
+But.....
+RAK/RAK0010570
+(We've come this far.[nl] I am going to find that phone, and I'm not giving up!)
+@ksk_004_101
+common.asb
+ksk_004_101.asb

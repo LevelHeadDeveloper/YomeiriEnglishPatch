@@ -1,0 +1,201 @@
+__main
+@Lclearscreenall
+@ksk_004_201
+@2ショット成功
+@2ショット失敗
+@ksk_004_201_01
+KSK/KSK0004610
+Thank you, Ichijo.[nl]Sorry in advance if we don't find it.
+RAK/RAK0010580
+It's alright.[nl]....But what about those important photos?
+@ザクシャ小咲・中
+@expose
+KSK/KSK0004620
+........That's a secret.
+RAK/RAK0010590
+(A secret.....Uwahh, now I'm curious!)
+@ksk_004_201_02
+KSK/KSK0004630
+I knew it. I'm sorry I put you through all this.[nl]Thank you, Ichijo.
+RAK/RAK0010600
+(Crap....I couldn't convince her to keep looking!)
+@ksk_004_201_03
+RAK/RAK0010610
+Ah!
+KSK/KSK0004640
+Hm?
+RAK/RAK0010620
+Well, I forgot all about this while we were searching,[nl]but you gave me your number, right?[nl]I could call your phone and we could follow the ringtone.
+KSK/KSK0004650
+Ah, that could work.[nl]Can you try that?
+RAK/RAK0010630
+Sure.
+KSK/KSK0004660
+Eh!?
+RAK/RAK0010640
+Whoa, bingo!
+@expose
+KSK/KSK0004670
+Where's it coming from!?
+RAK/RAK0010650
+There it is![nl]Look, on that brick wall over there!
+RAK/RAK0010660
+All right....
+RAK/RAK0010670
+Here.
+@ＢＧＭ再生
+KSK/KSK0004680
+Thank goodness, my phone....!
+RAK/RAK0010680
+Maybe someone found it[nl]and left it on the wall for you to find.
+KSK/KSK0004690
+Yes! That was nice of them![nl]Thanks, Ichijo!
+RAK/RAK0010690
+Y-yeah.....
+RAK/RAK0010700
+(....It's nice to see that smile.)
+KSK/KSK0004700
+Um, is there something I can do to thank you...?
+No need.
+I could use a massage....
+RAK/RAK0010710
+No, not really.[nl]It wasn't even such a big deal.
+@ザクシャ小咲・小
+KSK/KSK0004710
+Don't talk like that![nl]You went out of your way to search so hard....[nl]....It made me very happy.
+RAK/RAK0010720
+Onodera....
+RAK/RAK0010730
+(Nononono, hell no![nl] That would be a stupid thing to say!)
+RAK/RAK0010740
+(Have some self-respect! I can't afford[nl] to have Onodera hate me!
+RAK/RAK0010750
+.....Well, there's.....
+RAK/RAK0010760
+Would you....walk with me a little longer?
+KSK/KSK0004720
+Ehh..?
+RAK/RAK0010770
+I mean....It's fine if you don't want to.[nl]But, if you're okay with it....
+KSK/KSK0004730
+Sure! Of course it's okay!
+KSK/KSK0004740
+Well, how about we head to my secret spot?[nl]It's cooler over there....
+RAK/RAK0010780
+"Secret spot"?
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+KSK/KSK0004750
+Here it is![nl]I showed you this spot once....[nl]....Remember?
+RAK/RAK0010790
+Oh, yes. That was the day we went shopping[nl]for Chitoge's birthday present, wasn't ti!
+KSK/KSK0004760
+Yes, yes! You remember!
+RAK/RAK0010800
+(Onodera told me about this place.[nl] How could I forget about it?)
+KSK/KSK0004770
+There's a nice breeze up here....
+RAK/RAK0010810
+Yeah. I was thinking about this place just the other day.[nl]It's rather nice up here.
+KSK/KSK0004780
+Yeah, that's true.
+KSK/KSK0004790
+I'm happy you feel that way, Ichijo.
+RAK/RAK0010820
+....Eh?
+KSK/KSK0004800
+---------
+RAK/RAK0010830
+.............
+RAK/RAK0010840
+I'm happy, too.
+KSK/KSK0004810
+Eh?
+RAK/RAK0010850
+You said it before.[nl]I'm the only one you told about this place.
+RAK/RAK0010860
+I'm really happy to be here again...[nl]No, I'm happy you brought me here.
+KSK/KSK0004820
+That's....
+RAK/RAK0010870
+RAK/RAK0010880
+...Hey, Onodera.
+KSK/KSK0004830
+What is it, Ichijo.....?
+RAK/RAK0010890
+Onodera, I.....
+KSK/KSK0004840
+Uh, um....?
+RAK/RAK0010900
+Aaaaahhhh-------........
+KSK/KSK0004850
+That's my phone ringing.....isn't it?
+RAK/RAK0010910
+I-I guess so....[nl]You should probably answer it, huh......?
+KSK/KSK0004860
+Oh, okay.....[nl]Alright, I'll answer it...
+KSK/KSK0004870
+H-Hello?
+RAK/RAK0010920
+(Nghhhh..... I won't cry.....![nl] Even though I got interrupted again,[nl] I won't cry.....!!)
+KSK/KSK0004880
+Y-Yes....[nl]Well, I like them both.....huh?[nl]Okay, I guess I'll go with the black one.
+KSK/KSK0004890
+.....Okay, got it.
+KSK/KSK0004900
+......Eh? I don't have a preference one way or another.[nl]I'm hanging up, Sis!
+KSK/KSK0004910
+.....Fwahh.
+KSK/KSK0004920
+Sorry, I got a little sidetracked.
+RAK/RAK0010930
+How'd the call go?
+KSK/KSK0004930
+Pretty well. It wasn't anything major.
+RAK/RAK0010940
+I see....
+RAK/RAK0010950
+(I'd feel like a moron if I continued with what I was saying...)
+RAK/RAK0010960
+Forget about what I was just saying.[nl]It's kind of half-baked.
+KSK/KSK0004940
+N-No! I-I-I-It's alright!!
+RAK/RAK0010970
+Ah.....[nl]Should I say it, then....?
+KSK/KSK0004950
+That's....
+KSK/KSK0004960
+KSK/KSK0004970
+....If I said that I didn't care,[nl]I'd be lying....a little.
+KSK/KSK0004980
+But....
+KSK/KSK0004990
+I wonder if....maybe it would be better to pick this up later.
+RAK/RAK0010980
+Maybe....
+KSK/KSK0005000
+Well, we should head home.
+RAK/RAK0010990
+RAK/RAK0011000
+B-But, you are surprisingly clumsy sometimes, Onodera!
+KSK/KSK0005010
+T-That's true![nl]My sister has to keep telling me to get a grip....
+RAK/RAK0011010
+Haha! Is that right!? Hahahaha.
+KSK/KSK0005020
+Ahahaha....ha....
+KSK/KSK0005030
+Well, I'm leaving now.[nl]Thanks for today.
+RAK/RAK0011020
+Ah. Well, see ya.
+RAK/RAK0011030
+(I wonder if she knows how I feel about her...?)
+RAK/RAK0011040
+(What did she mean, it would be better if we pick it up later?[nl] Did she not want to hear it.....or....)
+RAK/RAK0011050
+(Ah, crap, I'm a moron![nl] I can't even ask her now.....Aaagh~~!
+RAK/RAK0011060
+I'm going home.....
+@イベント終了処理
+

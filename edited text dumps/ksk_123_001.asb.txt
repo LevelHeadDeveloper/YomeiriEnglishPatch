@@ -1,0 +1,43 @@
+__main
+@Lclearscreenall
+@ksk_123
+@イベント開始処理
+RAK/RAK0049390
+(Oh, there at the end of the hallway,[nl] that must be....Onodera.)
+RAK/RAK0049400
+Heeey, Onode--
+RAK/RAK0049410
+(.....Hm? Did I step on something just now?)
+RAK/RAK0049420
+It's....an amulet?
+@ＢＧＭ再生
+JKA/JKA0000010
+HEY YOU!![nl]WHADDYA THINK YOU'RE DOING, FIRST-YEAR SCUM!?
+RAK/RAK0049440
+Huh....!?[nl]U-Um, who are you, sir!?
+JKA/JKA0000020
+YOU JUST STEPPED ON THE TREASSSSSSSSSURED[nl]AMULET MY GIRLFRIEND GAVE ME LAST WEEK![nl]THE HELL WAS THAT FOR!?
+RAK/RAK0049450
+Oh, was this yours, sir?[nl]Sorry, I think I accidentally stepped on it.....
+JKA/JKA0000030
+It's my fault for dropping the amulet. I know that![nl]But I also know that....
+JKA/JKA0000040
+I did terrible on that quiz we had earlier....[nl]AND IT'S ALL YOUR FAULT!! NRRRRRGHHHHH!!!
+RAK/RAK0049460
+....Huh?[nl]I don't think that timeline quite lines up....
+JKA/JKA0000050
+I DON'T CAAAARE!! And, by the way, MY GIRLFRIEND[nl]DUMPED ME HERE YESTERDAY![nl]JUST LEMME TAKE IT OUT ON YOUUUUUU!!!!
+RAK/RAK0049470
+Huhhhhhh!?
+JKB/JKB0000010
+Let us vent our resentment onto him!!![nl]Who the hell cares about the exams!?
+JKC/JKC0000010
+Our grades weren't as high as we wanted them,[nl]AND IT'S ALL YOUR FAULT!!!!
+RAK/RAK0049480
+Uh, wai--[nl]You guys in the back, you've got nothing to do with this!!
+JKA/JKA0000060G
+GET HIIIIIMMMMM!!
+RAK/RAK0049490
+Eeeeeeeek!?
+@ヌキアシ開始処理
+common.asb

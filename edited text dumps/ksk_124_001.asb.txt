@@ -1,0 +1,57 @@
+__main
+@Lclearscreenall
+@ksk_124
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0014590
+It's almost winter already, huh....[nl]I can't believe it's already been more than half a year[nl]since we started at this school. Time sure flies.
+RAK/RAK0049660
+I guess so.[nl]Maybe it's because we have so much fun every day.
+RUR/RUR0011400
+....Hey, what are your dreams for the future, Kosaki?[nl]Have you chosen a career path yet?
+KSK/KSK0014600
+Huh? Future dreams?[nl]I don't really have any specific ideas yet....
+RAK/RAK0049670
+Are you gonna take over the sweetshop?
+KSK/KSK0014610
+Y-Yeah.[nl]I'm hoping I can do that, at least.
+@expose
+KSK/KSK0014620
+I dream that my husband and I can run the sweetshop....[nl]That way, we can make a happy family.
+RAK/RAK0049680
+I see.
+What a lovely dream!
+What an average dream!
+RAK/RAK0049690
+@ザクシャ小咲・中
+KSK/KSK0014630
+Yes, thank you.
+RUR/RUR0011410
+I see. So, when looking for a prospective husband,[nl]you'll be looking for a good cook.
+KSK/KSK0014640
+Yeah....wait, huh!?
+RUR/RUR0011420
+Well, sure. Did I say something wrong?
+KSK/KSK0014650
+Uhh.....n-no, not really....[nl]Yeah, if he was a good cook, that would be....nice.
+RAK/RAK0049700
+A guy who can cook well....huh.
+RAK/RAK0049710
+(I'm pretty confident in my cooking abilities....[nl] But it's Onodera's choice, after all....)
+KSK/KSK0014660
+------
+RAK/RAK0049720
+That's a fairly standard dream.
+KSK/KSK0014670
+Hahaha, I....guess that's true?
+RAK/RAK0049730
+But it does sound like your style, Onodera.
+@ザクシャ小咲・小
+KSK/KSK0014680
+Thanks. But before any of that,[nl]I need to graduate high school properly.
+RUR/RUR0011430
+You're not very good at studying, are you, Kosaki?
+KSK/KSK0014690
+I'm always grateful to you for your help, Ruri!
+@イベント終了処理
+common.asb

@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@ksk_118
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0008320
+I had relatives visiting yesterday.[nl]A 3-year old girl called me "Shuu-kun", and that was[nl]adorable to the max!!
+RAK/RAK0048460
+Glad to hear it.[nl]But try not to be a lolicon.
+SYU/SYU0008330
+There's no way I'd do that~.[nl]Besides, at the moment, I prefer older women.
+RAK/RAK0048470
+Do you, now.
+@expose
+SYU/SYU0008340
+Well, don't worry about me.[nl]Let me get to the point.
+SYU/SYU0008350
+Kirisaki and Marika both call you "Raku",[nl]but Onodera doesn't.
+RAK/RAK0048480
+....Nghh.
+RAK/RAK0048490
+Uh.....n-no....[nl]I guess she doesn't....call me....
+SYU/SYU0008360
+....Hm?[nl]You're kinda mumbling there.
+RAK/RAK0048500
+Actually, there was....one time.
+SYU/SYU0008370
+.....Ohh!?[nl]I hadn't heard about that! When and where[nl]did such a nice event happen!?
+RAK/RAK0048510
+Well, I won't go into the details. This isn't exactly the[nl]sort of thing you should just tell people....[nl]That might be bad for Onodera.
+SYU/SYU0008380
+.....Hmmm, I'm not too sure about that.
+SYU/SYU0008390
+Then, setting that aside for the moment....[nl]Why does she still call you by your last name?
+RAK/RAK0048520
+Well, that's....[nl]If I remember correctly, she said something about[nl]being embarrassed and went back to my last name.
+SYU/SYU0008400
+Jeez, you....[nl]That's when you're supposed to tell her[nl]she can use your first name....
+RAK/RAK0048530
+Ngh...!!
+RAK/RAK0048540
+I-I know.....[nl]I just didn't handle it right....[nl]....because I know better....
+KSK/KSK0013970
+....Raku....kun....
+RAK/RAK0048550
+....Huh?
+KSK/KSK0013980
+How is....Raku....kun......
+RAK/RAK0048560
+Huh...!? O-Onodera!?
+KSK/KSK0013990
+Huh? Do you need something, Ichijo?
+RAK/RAK0048570
+Onodera, what did you just say!?
+KSK/KSK0014000
+Just now?
+KSK/KSK0014010
+....Oh, sorry. Did you hear me talking to myself?[nl]I was just thinking about whether I should buy the new[nl]"Raku-Raku Kunsei Easy Smoker" I saw on TV.
+RAK/RAK0048580
+"Raku-Raku Kunsei Easy Smoker...."
+RAK/RAK0048590
+Raku....kun....
+SYU/SYU0008410
+.....Pfffft.[nl]Tchhhehehehehehe....
+KSK/KSK0014020
+Huh? D-Did I say something weird!?
+RAK/RAK0048600
+N-No! I-It's nothing!
+RAK/RAK0048610
+Gahhhhh....!
+@イベント終了処理
+common.asb

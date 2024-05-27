@@ -1,0 +1,221 @@
+__main
+@Lclearscreenall
+@ksk_005
+@イベント開始処理
+@ＢＧＭ再生
+OTM/OTM0000570
+Raku, are you making my inari sushi yet? I must eat soon, or I shall lose my strength....
+RAK/RAK0011070
+Ah, in a sec. I gotta make breakfast for the guys first...
+@expose
+OTM/OTM0000580
+What.....!
+OTM/OTM0000590
+Have you no humanity? No blood or tears?[nl]To treat me like this when I am so feeble....[nl]For this, I may curse your family for generations!
+RAK/RAK0011080
+No one's cursing anyone's family for generations![nl]I never said I wouldn't feed you, so shut up and wait!
+RAP/RAP0000240
+Hey, Raku, who are you talking to....?
+RAP/RAP0000250
+...Huh, there's no one here.[nl]Raku, what are you doing talking to yourself?
+RAK/RAK0011090
+D-Dad!? N-No....I didn't say anything....[nl]Maybe you're hearing things.
+RAP/RAP0000260
+....Well, I guess it doesn't matter.[nl]Everyone wants to act things out alone at some point.
+RAK/RAK0011100
+（What the hell does that even mean![nl] Ahhh, I want to deny it so badly![nl] But that would just make things harder to explain....）
+RAK/RAK0011110
+....Hey, how come you're up so early?[nl]I've started making breakfast already, so it's too late[nl]to ask for something different.
+RAP/RAP0000270
+I wouldn't be here for something that small.[nl]I need a favor.
+RAK/RAK0011120
+What is it? Usually, when you ask me for a favor,[nl]it turns out to be some kind of huge hassle.[nl]I'd like to avoid trouble, okay?
+RAP/RAP0000280
+What, this one's easy.
+RAP/RAP0000290
+Can you just bring some more inari sushi over to that[nl]shrine in the outskirts? The priest asked me again.
+RAK/RAK0011130
+I don't mind doing that, but....
+RAK/RAK0011140
+ (But Otama's here already....[nl] Well, I guess I shouldn't tell him that.)
+RAK/RAK0011150
+....Got it. I'll drop it off before I go to school.
+RAP/RAP0000300
+Okay, I'm counting on you.
+OTM/OTM0000600
+Awesome~! Good work, priest!
+OTM/OTM0000610
+Come on, hurry up and make it for me![nl]Then bring it to the shrine like last time, m'kay?[nl]I'll make it my 3 o'clock snack.
+RAK/RAK0011160
+.....Really, you're too excitable.[nl]Alright, just wait a second.
+OTM/OTM0000620
+Aah! How many times must I tell you[nl]to turn the skin inside out!?
+RAK/RAK0011170
+....Yeah, yeah, yeah.
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0011180
+  (Seriously, she's really got a thing for inari sushi.[nl]I mean, I like it when people like the food I make,[nl]but she's just oppressive about it....
+RAK/RAK0011190
+....Okay! I've delivered the inari sushi!
+RAK/RAK0011200
+Well, it doesn't look like she'll complain much about this.[nl]Time to go to school....
+RUR/RUR0000660
+I see....[nl]So that's how it happened....
+KSK/KSK0005040
+What should I do.....
+RAK/RAK0011210
+(Huh? Those voices....)
+@フェードアウト
+@背景変更2
+RAK/RAK0011220
+(Huh? Onodera and Miyamoto!?[nl] What are they doing here so early in the morning?)
+KSK/KSK0005050
+Ruri, help me~~~!!
+RAK/RAK0011230
+(Help her....![nl]Onodera, what is it!?)
+RUR/RUR0000670
+It's frustrating, isn't it.[nl]I'm at least happy it's been progressing faster lately.
+KSK/KSK0005060
+I guess you're right....[nl]After all, I want to tell him properly.
+RUR/RUR0000680
+Chin up. Just one step left now, right?
+KSK/KSK0005070
+Uuuuuu~....
+RUR/RUR0000690
+But....[nl]Maybe, instead of just doing it out of the blue,[nl]try setting up a situation where it's easier.
+RUR/RUR0000700
+In terms of conveying the message properly,[nl]under the tree is considered the standard.
+RUR/RUR0000710
+Personally, I prefer under the bell.
+KSK/KSK0005080
+Under the bell? What does that mean, Ruri?
+RUR/RUR0000720
+Don't worry about it, it isn't a big deal.
+RAK/RAK0011240
+(What the hell are you two talking about?)
+RAK/RAK0011250
+(I thought Onodera was in some kind of trouble....[nl] I guess, if I really think about it,[nl] I was eavesdropping just now....)
+RAK/RAK0011260
+(What should I do...I'm curious about what they'll say next!)
+Leave like a gentleman
+Listen a bit longer
+@pan
+RAK/RAK0011270
+(After all, eavesdropping is rude.[nl]I guess it's time to head to school....)
+RAK/RAK0011280
+(If I leave now, I'm not a man![nl]I'll stay here and listen to them[nl]until they're done talking!)
+RAK/RAK0011290
+(O-Oh no....!?)
+KSK/KSK0005090
+?
+RUR/RUR0000730
+What is it, Kosaki?
+KSK/KSK0005100
+Nothing, I thought I heard something just now....
+RAK/RAK0011300
+M-Meow.....
+KSK/KSK0005110
+Oh, it's just a cat.
+RUR/RUR0000740
+Are you sure?[nl]To me, it sounds like someone making cat sounds.
+RAK/RAK0011310
+(Geh-!)
+RUR/RUR0000750
+I'll go check it out.
+RAK/RAK0011320
+(Uwahhh, no, don't come back here![nl] I'll get caught~!)
+CAT/CAT0000050
+Mreow!
+KSK/KSK0005120
+Kyah!?
+RAK/RAK0011330
+(Ahh! I-It's a real cat!?)
+KSK/KSK0005130
+T-That caught me off guard....
+RUR/RUR0000760
+....I guess it actually was a cat.[nl]I wonder if it's chasing some prey.
+RAK/RAK0011340
+(Phew....[nl] Did I manage to keep my cover?)
+RAK/RAK0011350
+(I shouldn't be doing this, after all.[nl] Time to head to school....)
+@背景変更
+RUR/RUR0000770
+Oh, and also....this shrine.[nl]It's a little-known power spot for love, I've heard.
+KSK/KSK0005140
+That's right.[nl]I'd heard that a while ago.
+KSK/KSK0005150
+....I wonder if my wish will come true....
+RUR/RUR0000780
+Even if it's just a wish or whatever,[nl]isn't it better then just doing nothing?
+KSK/KSK0005160
+I guess so....[nl]....Yes.
+KSK/KSK0005170
+Ruri, I think i get it now.[nl]I'll try my best to tell him properly!
+RUR/RUR0000790
+Good luck. I'm rooting for you.[nl]Make sure you pin him down. Okay?
+KSK/KSK0005180
+Oh....! N-N-N-N-No, I won't do that! Ruri, you idiot!
+RUR/RUR0000800
+You should be fine with that kind of momentum.
+RUR/RUR0000810
+Well then, lemme just send the email for you.
+KSK/KSK0005190
+Huh!? R-Right here?
+RUR/RUR0000820
+Right here.
+RAK/RAK0011360
+...Hm?[nl]Who sent me an email?
+RAK/RAK0011370
+Huh!?　T-This is....[nl]An email from Onodera!?
+RAK/RAK0011380
+(Let's see....[nl] "Meet me under the Tree of Tradition[nl] behind the school"?)
+RAK/RAK0011390
+...Traditional tree?[nl]Does our school even have one of those?
+SYU/SYU0000940
+Oho......![nl]Hast thou been summoned to the Tree of Tradition?
+RAK/RAK0011400
+What the hell, man. Do you know about it?
+@ホワイトアウト
+SYU/SYU0000950
+The school which we attend,[nl]Bonyari High School,[nl]has a certain....legend of love.
+RAK/RAK0011410
+Hey, what's with the sudden theatrics?
+SYU/SYU0000960
+There's an old tree near the edge of the schoolyard....[nl]Its name...."Tree of Tradition"!
+SYU/SYU0000970
+And under this tree, lovers united by the confession[nl]of a young lady are said to live happily ever after!
+SYU/SYU0000990
+Many a young man has wished to partake in this legend....
+RAK/RAK0011420
+I-I wonder if there is such a tree....[nl]I had no idea.
+SYU/SYU0001000
+Hoh, hoh, hoh! Tell  me, Raku,[nl]what thou meant by that....
+RAK/RAK0011430
+Huh!? N-No, that's....[nl]Lemme say that again.
+SYU/SYU0001010
+....I see.[nl]Well, best of luck, buddy!
+RAK/RAK0011440
+Thanks!
+RAK/RAK0011450
+(Aahh, I'm so nervous.....)
+RAK/RAK0011460
+(After all, an email from Onodera, asking me to meet her[nl] in a high-profile confession spot....[nl] This might be....this might not be....
+RAK/RAK0011470
+(No, calm down, Raku Ichijo.[nl] If I get too excited and make a mistake, I'll be blindsided.[nl] Calm, stay calm....!）
+RAK/RAK0011480
+(For example, if I were to turn around[nl] and see a Beehive agent....)
+CLD/CLD0000590
+!
+RAK/RAK0011490
+(The heck~!!!)
+RAK/RAK0011500
+(That was Claude just now, wasn't it!?[nl] He doesn't usually come into the school![nl] What the hell is he up to!?
+RAK/RAK0011510
+----------
+RAK/RAK0011520
+(There's no mistake....[nl] He's following me for sure!)
+RAK/RAK0011530
+(I have to find a way past him[nl] so I can get to Onodera!)
+@ヌキアシ開始処理
+common.asb

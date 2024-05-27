@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@ksk_120
+@イベント開始処理
+RAK/RAK0048800
+(Alright, I think I'll stop by the supermarket[nl] and pick up some stuff for dinner....)
+RAK/RAK0048810
+(.....Wait, what? Where's my wallet!?[nl] Oh no! Did I leave it behind in the classroom!?)
+@時間経過演出
+RAK/RAK0048820
+(I don't think there would be anyone in[nl] the classroom this late....)
+@背景変更
+KSK/KSK0014170
+I....I like you!
+RAK/RAK0048830
+Huh?
+KSK/KSK0014180
+Huh?
+........
+@ＢＧＭ再生
+RAK/RAK0048840G
+Huuuuuuuuuhhh!?
+RAK/RAK0048850
+O-O-O-O-O-Onodera![nl]What was that just now!?
+KSK/KSK0014200
+I-I-I-I-It's not what it sounds like![nl]It was.....it was, umm...
+Say that one more time!
+I didn't hear anything!
+RAK/RAK0048860
+S-Say that one more time![nl]Maybe my ears were playing tricks on me!
+@expose
+KSK/KSK0014210
+W-Wait, Ichijo![nl]T-That was just practice.....!
+@ザクシャ小咲・大
+RAK/RAK0048870
+I-I didn't hear or see anything![nl]So don't worry!
+RAK/RAK0048880
+(Wait, what am I saying!? That might have been,[nl] by some chance.... No, even if it wasn't by chance,[nl] was Onodera trying to confe--)
+RUR/RUR0011230
+Wait just a second, Ichijo.
+RAK/RAK0048890
+Huh? Miyamoto?
+@expose
+KSK/KSK0014220
+Hold on, Ichijo, that was....[nl]Yeah, that was just practice!
+RAK/RAK0048900
+Huh, practice!?
+RUR/RUR0011240
+What are you talking about?[nl]Since this might take a while, I'll just try to read my--
+@キャラ揺らし
+KSK/KSK0014230
+Ruri! Please![nl]I can't do it nowwwww!
+RAK/RAK0048910
+Practice for....a l-love confession!?
+RAK/RAK0048920
+(Huuhhhhhh!?[nl] Onodera's practicing for a confession!?[nl] W-Who is she gonna confess to!?)
+RAK/RAK0048930
+(That's right! There's no way she'd just confess[nl] to me out of the blue! Gaaaah![nl] Straight from heaven to helllllllll!)
+KSK/KSK0014240
+I-I have a friend who likes someone![nl]She wants me to help her confess her feelings,[nl]so I was discussing with Ruri how she should say it!
+RAK/RAK0048940
+RUR/RUR0011250
+....You know, Kosaki,[nl]he's not gonna buy such a strained excuse....
+@ＢＧＭ停止
+RAK/RAK0048950
+Really!?!?
+RUR/RUR0011260
+@ＢＧＭ再生
+RAK/RAK0048960
+(Alright! Thank goodness![nl] This wasn't the worst-case scenario!)
+RAK/RAK0048970
+Sorry to have bothered you. I just came to grab my wallet,[nl]so don't worry and keep practicing.
+RAK/RAK0048980
+Oh, found it.
+RAK/RAK0048990
+Alright, Onodera, Miyamoto,[nl]I'll see ya later!
+.........
+RUR/RUR0011270
+......You chicken.
+KSK/KSK0014250
+Yeah. I know.[nl]I'm sorry....
+RUR/RUR0011280
+What do you think I'm even practicing with you for?[nl]You know what will happen if we don't practice now.
+KSK/KSK0014260
+Yeah....
+@ザクシャ小咲・小
+@イベント終了処理
+common.asb

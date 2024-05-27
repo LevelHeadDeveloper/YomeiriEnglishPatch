@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ksk_202
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0015980
+Ah....Ichijo![nl]Good morning!
+RAK/RAK0051590
+Oh, Onodera. Good morning.[nl]It's pretty cold this morning, huh.
+@expose
+KSK/KSK0015990
+Yeah. I have to be careful not to catch a cold.
+KSK/KSK0016000
+Pretty soon, I'll need to switch out my futon[nl]for a thicker one.
+RAK/RAK0051600
+(Onodera's futon....[nl] Her in pajamas....)
+RAK/RAK0051610
+-----
+KSK/KSK0016010
+?[nl]What's the matter, Ichijo?
+RAK/RAK0051620
+N-No, it's nothing![nl]Let's get to class.
+@イベント終了処理
+common.asb

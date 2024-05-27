@@ -1,0 +1,101 @@
+__main
+@Lclearscreenall
+@ksk_113
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0012920
+...Mmph....ghh....oof....
+RAK/RAK0047390
+Onodera! Why are you carrying so many books!?
+KSK/KSK0012930
+Oh, Ichijo.
+@expose
+KSK/KSK0012940
+Hehehe. One of the girls on the library board asked me to.[nl]She couldn't make it to the library today because she had[nl]make-up classes, so I'm organizing the books for her.
+RAK/RAK0047400
+That sounds like a lot of work.[nl]Here, is it okay if I help?
+KSK/KSK0012950
+Uhh....b-but it really isn't that hard![nl]I've done this a few times, and it isn't[nl]too hard at all....
+RAK/RAK0047410
+Don't worry about it. You've helped me with the animals[nl]a few times, so we'll call it even.
+KSK/KSK0012960
+....Really?[nl]Well then, will you help me?
+RAK/RAK0047420
+Yeah! Of course!
+@時間経過演出
+RAK/RAK0047430
+Ummmm, this new book goes here, right?
+KSK/KSK0012970
+Yeah, that's right.
+RAK/RAK0047470
+(Right now, the library's completely empty.[nl] It's a little too quiet and it's making me self-conscious....)
+RAK/RAK0047480
+T-The library seems awfully empty today.[nl]Aren't there usually at least a few people floating around?
+KSK/KSK0013030
+Yeah. Usually there's at least *some* people.[nl]Sometimes it's even full before a test.
+RAK/RAK0047490
+Woww, is that right....
+KSK/KSK0013040
+Yes.
+......
+RAK/RAK0047500
+(The conversation ended---![nl] Okay, I need another topic....)
+KSK/KSK0013050
+Hey, Ichijo.
+RAK/RAK0047510
+Y-Yes!?
+KSK/KSK0013060
+Do you like books?
+RAK/RAK0047520
+Well....
+I like them.
+Usually.
+I hate them!
+RAK/RAK0047530
+Well, I like them. I wouldn't say I *love* them,[nl]but a good, interesting book usually keeps me[nl]on the edge of my seat.
+@ザクシャ小咲・小
+KSK/KSK0013070
+Oh, yeah! I can understand that!
+KSK/KSK0013080
+When I was little, I had this one picture book[nl]that I used to love. I think it's still in my room....
+RAK/RAK0047540
+Hmmm, what kind of book is...
+@ＢＧＭ停止
+@背景変更
+KSK/KSK0013090
+....Oh.
+RAK/RAK0047550
+Oh.
+@ＢＧＭ再生
+KSK/KSK0013100
+W-Waaaaah! S-Sorry....
+RAK/RAK0047560
+N-No! There's no need to apologize....[nl]Haha, hahaha.
+KSK/KSK0013110
+Ha, hahahaha.
+KSK/KSK0013120
+----
+KSK/KSK0013130
+It's a little embarrassing when our[nl]eyes meet like this....
+RAK/RAK0047570
+Y-Yeah.....it is.[nl]Oh, what were we talking about?
+KSK/KSK0013140
+I-I forget....
+RAK/RAK0047580
+I don't *dislike* them per se,[nl]but I don't read very much.
+KSK/KSK0013150
+I see.
+RAK/RAK0047590
+(Aagh! The conversation ended again!)
+RAK/RAK0047600
+I don't really do much reading....[nl]Looking at all those words makes me sleepy.
+KSK/KSK0013160
+I-I see....
+KSK/KSK0013170
+Thanks for helping me out, Ichijo.[nl]Thanks to you, we were done in no time.
+RAK/RAK0047610
+Sure. If you ever do this again, gimme a call.[nl]It must be hard doing this by yourself.
+KSK/KSK0013180
+Okay!
+@イベント終了処理
+common.asb

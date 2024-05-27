@@ -1,0 +1,35 @@
+__main
+@Lclearscreenall
+@ksk_210
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0016420
+Ichijo.
+RAK/RAK0052160
+Hm? Onodera, what's wrong?
+KSK/KSK0016430
+Actually, Sasahara from the next class over[nl]was sent to the hospital for an appendectomy yesterday.
+KSK/KSK0016440
+So we've all decided to fold him a thousand paper cranes,[nl]and I was just wondering if you'd like to fold him one, too.
+RAK/RAK0052170
+Sure. I'd be happy to help.[nl]But are you sure you only need me to fold one?
+@expose
+KSK/KSK0016450
+Yeah. I folded most of them myself, so I only need[nl]one each from everyone else.
+RAK/RAK0052180
+....Onodera, how many did you fold?
+KSK/KSK0016460
+Ummmmm.....about 800?
+RAK/RAK0052190
+Huh!? In one night!?
+KSK/KSK0016470
+Yeah, I wanted to make a few more,[nl]but I had homework....
+RAK/RAK0052200
+No, that's way too many to fold![nl]And they're all meticulously crafted!
+@ザクシャ小咲・小
+KSK/KSK0016480
+Well then, make sure to bring me yours when you're finished.[nl]I'll decorate it and hang it up.
+RAK/RAK0052210
+(You're sure great with your hands, Onodera....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,96 @@
+__main
+@Lclearscreenall
+@ksk_130
+@イベント開始処理
+@ＢＧＭ再生
+RUR/RUR0011520
+Hey, Ichijo. [nl]I know I already asked you for this once before, but could[nl]you do me a favor and teach Kosaki how to swim again?
+RAK/RAK0050490
+Huh? Me? I mean, I don't really mind....[nl](Heck, I actually welcome it.)[nl]But why are we doing it again?
+@expose
+RUR/RUR0011530
+Same reason as before. The swim team has a practice meet,[nl]but we're short on members, so I've enlisted Kosaki to help.
+RAK/RAK0050500
+Onodera's not too good at swimming, right?[nl]Why not ask Chitoge or one of the others?
+RUR/RUR0011540
+You don't want to teach Kosaki how to swim?
+RAK/RAK0050510
+Uh, no, it's not like that....
+RUR/RUR0011550
+This is a numbers game, so we don't need a great swimmer. We would like to avoid having anyone drown, so if you could teach Kosaki the bare minimum, that would be great.
+RUR/RUR0011560
+Well, that's the plan, then, so thanks.[nl]I'll be waiting for you by the pool.
+@expose
+RAK/RAK0050520
+Huh? Already?[nl]But I don't even have my swimsuit!
+RUR/RUR0011570
+I've rented one for you, so it's fine.[nl]Kosaki's already gone in ahead of me, so hurry up.
+RAK/RAK0050530
+....Man, you're pushy.
+@時間経過演出
+RUR/RUR0011580
+Alright, I'll just be practicing by myself.[nl]I'll leave the rest to you.
+KSK/KSK0015310
+I-Ichijo![nl]Thanks for teaching me!
+RAK/RAK0050540
+S-Sure. You're welcome!
+RAK/RAK0050550
+(Ooooh, Onodera looks so cute in her swimsuit!)
+RAK/RAK0050560
+(....Wait, no, no.[nl] We have to teach Onodera how to swim![nl] Drop those stupid distractions and focus!)
+RAK/RAK0050570
+Ummmm, you've already done the warm-up exercises, right?[nl]Okay, so to start....
+Practice the flutter kick
+You gotta learn from experience!
+RAK/RAK0050580
+Let's start you off with some flutter kick practice[nl]using a kickboard. Once you've got the hang of that,[nl]you can try moving your arms.
+KSK/KSK0015320
+O-Okay....![nl]I'll do my best!
+RAK/RAK0050590
+Make sure relax your shoulders.[nl]If you're too stiff, you won't float.
+KSK/KSK0015330
+R-Relaxing![nl]I'll give it a shot!
+RAK/RAK0050600
+You look really stiff....
+RAK/RAK0050610
+O-kay, just like that, just like that.[nl]You're improving, little by little.
+KSK/KSK0015340
+Thank you, Ichijo.[nl]You're very dependable.
+@ザクシャ小咲・小
+RAK/RAK0050620
+Huh!? D-Dependable? Me?[nl]I don't really think so....
+KSK/KSK0015350
+But you are.[nl]Look, remember the last time you were teaching[nl]me how to swim?
+@expose
+KSK/KSK0015360
+When Chitoge's leg cramped up and she almost drowned,[nl]you were the first one to jump in and rescue her, Ichijo.[nl]Even back then, you were so dependable....
+KSK/KSK0015370
+....I'll even say that I was just a little[nl]envious of Chitoge. That's how cool you were.
+RAK/RAK0050630
+Onodera....
+RAK/RAK0050640
+(S-So that's what you thought of me!)
+RAK/RAK0050650
+Well....if you ever start drowning, Onodera,[nl]I'll come to your rescue immediately. That's a promise.
+@ザクシャ小咲・中
+KSK/KSK0015380
+.....Okay. I'm counting on you, then!
+RAK/RAK0050660
+Well, of course, it's best if you don't drown to begin with.
+KSK/KSK0015390
+Hahahaha, that's true.[nl]I'll do my very best to learn how to swim!
+RAK/RAK0050670
+This is the sort of thing you have to learn by doing it.[nl]Practice is the only way!
+KSK/KSK0015400
+Huuuuuhhh!?
+@時間経過演出
+KSK/KSK0015410
+Cough! Cough!
+RAK/RAK0050680
+O-Onodera!? Are you okay!?
+KSK/KSK0015420
+I-Ichijo....I'm sorry....[nl]I can't....do any more....
+RUR/RUR0011590
+Hahhh.....that didn't work at all....
+@イベント終了処理
+common.asb

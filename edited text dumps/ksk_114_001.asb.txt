@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@ksk_114
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0047620
+Oh, the wind's chilly today![nl]I guess winter's coming up.
+KSK/KSK0013190
+I guess so....[nl]Atchoo!
+@expose2
+RAK/RAK0047630
+Are you feeling okay, Onodera?
+KSK/KSK0013200
+Yeah, I'm fine.[nl]But I'm just a little cold.
+RAK/RAK0047640
+(Let's see....)
+Lend her your uniform jacket
+Give her some hand warmers.
+RAK/RAK0047650
+If you'd like, you can have my jacket.
+@expose
+KSK/KSK0013210
+Thank you....[nl]But then you'll be cold, Ichijo.
+RAK/RAK0047660
+No, not at all![nl]If I just keep moving like this, I'll be perfectly fine!
+KSK/KSK0013220
+But....
+KSK/KSK0013230
+....Atchoo!
+RAK/RAK0047670
+Look, now you're catching a cold![nl]Stop holding back for my sake!
+@ザクシャ小咲・小
+KSK/KSK0013240
+Sure, okay.[nl]Thanks.
+@フェードアウト
+@背景変更2
+KSK/KSK0013250
+-----
+RAK/RAK0047680
+What's wrong, Onodera?[nl]Oh, does my jacket smell sweaty!?
+KSK/KSK0013260
+Huh!? I-It's fine![nl]T-There's no problem....
+RAK/RAK0047690
+O-Okay! I sure hope not![nl]Alright, all we have to do is gather up the leaves[nl]and throw them away!
+........
+KSK/KSK0013270
+....Mmm.
+RAK/RAK0047700
+....Hm?[nl]Oh, does it smell bad after all?
+KSK/KSK0013280
+No. It doesn't. That's not it....
+KSK/KSK0013290
+....It's really warm.
+RAK/RAK0047710
+Here, use these.
+KSK/KSK0013300
+Are these....hand warmers?
+RAK/RAK0047720
+Yeah. I happened to have them on me.[nl]I'm fine without them, so go ahead.
+@ザクシャ小咲・大
+KSK/KSK0013310
+-----
+KSK/KSK0013320
+Thank you, Ichijo.[nl]I'll use these.
+KSK/KSK0013330
+Ahhhh~, they're so warm~.
+RAK/RAK0047730
+I see. That's great.
+RAK/RAK0047740
+(I wish I could be a hand warmer[nl] and have Onodera rub *me* against her cheek.)
+@イベント終了処理
+common.asb

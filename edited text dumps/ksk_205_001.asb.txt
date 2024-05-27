@@ -1,0 +1,20 @@
+__main
+@Lclearscreenall
+@ksk_205
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0016130
+Ichijo, good morning![nl]....What, are you feeling okay?
+RAK/RAK0051730
+Good morning....[nl]Physically, I'm feeling okay,[nl]but this morning's been a bit hectic for me.
+RAK/RAK0051740
+(That stupid fox made me make her 50[nl] pieces of inari sushi the second I got up.)
+KSK/KSK0016140
+I see, you had a hard morning.....[nl]Whatever happened, great work, Ichijo!
+RAK/RAK0051750
+Oh.....[nl]Thank you, Onodera.
+@ＨＰ＋２０
+RAK/RAK0051760
+(Ahhh, I'm healed.[nl] Now I can live through today....)
+@イベント終了処理
+common.asb

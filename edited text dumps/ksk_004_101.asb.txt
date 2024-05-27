@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ksk_004_101
+@2ショット開始
+Encourage Onodera!
+@ＢＧＭ再生
+KSK/KSK0004420
+It'll be alright.[nl].....Shall we head home?
+Head home?
+Let's search a little longer
+I'm committed at this point!
+@ザクシャ小咲・１
+@expose
+KSK/KSK0004430
+B-But....[nl]It would inconvenience you if we searched any longer.
+KSK/KSK0004440
+Y-You don't need to try that hard!
+KSK/KSK0004450
+I'm sorry I dragged you this far.[nl]It was probably a huge inconvenience....
+KSK/KSK0004460
+Sorry for dragging you along....[nl]It must have been a real inconvenience....
+@ksk_004_102
+common.asb
+ksk_004_102.asb

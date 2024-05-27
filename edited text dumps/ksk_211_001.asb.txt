@@ -1,0 +1,56 @@
+__main
+@Lclearscreenall
+@ksk_211
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0052220
+Ughhh...hahhh....[nl]T-Thirty-nine degrees....that's pretty high....
+RYU/RYU0001320
+Young master, one of your friends came to visit you!
+RAK/RAK0052230
+Okay....let them in, please.....
+KSK/KSK0016490
+....Ichijo, are you okay?[nl]I heard you got sick....
+RAK/RAK0052240
+Huh....O-Onodera!?[nl]You came all the way here!?
+@expose
+KSK/KSK0016500
+Oh, you don't need to move![nl]I've brought some drinks and ice cream and stuff.[nl]Would you like something to eat?
+RAK/RAK0052250
+I see....thanks.[nl]But I'm not sure if I can.....
+KSK/KSK0016510
+I see. Well, I'll give these to your family, then.[nl]I'll be here taking care of you for a while,[nl]so you can go to sleep.
+RAK/RAK0052260
+....Okay. Thanks....
+RAK/RAK0052270
+(No....I want to talk to Onodera some more....[nl] but my....consciousness is....fading....)
+@フェードアウト1000
+KSK/KSK0016520
+Your forehead towel's gotten a lot warmer....[nl]I'll just go grab some more cold water!
+RAK/RAK0052280
+(Oh, I must be dreaming that[nl] Onodera's taking care of me.....)
+KSK/KSK0016530
+Ichijo, I'm going to change your towel now.[nl]It'll be a little cold.
+RAK/RAK0052290
+(Ohh...it feels nice and cold....)
+KSK/KSK0016540
+Thank goodness. It looks like that feels good.
+RAK/RAK0052300
+(Onodera's voice is so soothing....)
+RAK/RAK0052310
+....Thank you....
+@背景変更
+@ザクシャ小咲・大
+KSK/KSK0016550
+Huh....?[nl]Ichijo, you're holding my hand....?
+RAK/RAK0052320
+Zzzz......
+KSK/KSK0016560
+....You're asleep? Ichijo....
+......
+KSK/KSK0016570
+Maybe....we could stay like this for a little longer.
+@フェードアウト
+@ＨＰ＋８０
+@イベント終了処理
+common.asb

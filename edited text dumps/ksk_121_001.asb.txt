@@ -1,0 +1,136 @@
+__main
+@Lclearscreenall
+@ksk_121
+@イベント開始処理
+@ＢＧＭ再生
+KSM/KSM0000010
+Sorry for asking you to help out on such short notice.[nl]You've been very helpful!
+RAK/RAK0049000
+Uh, n-no! No problem at all![nl]Gimme a call anytime, I'll be right over!
+KSM/KSM0000020
+Hehe, you sure are reliable.[nl]Honestly, how'd you like to be Kosaki's husband?
+RAK/RAK0049010
+Huh!? W-Well, ummm...!
+KSK/KSK0014270
+Mom, stop![nl]What are you even saying!?
+KSM/KSM0000030
+If you don't *aggressively* attack[nl]such a fine jewel, how are you gonna land him?
+KSK/KSK0014280
+That's no way to talk to someone who came all[nl]this way to help! Jeez, go away already, Mom!
+KSM/KSM0000040
+Fine, fine.
+RAK/RAK0049020
+Hahaha....
+KSK/KSK0014290
+Sorry, I lost my cool there for a second...![nl]....Umm, let's get to work, shall we?
+RAK/RAK0049030
+Y-Yeah! Let's get to it!
+KSK/KSK0014300
+Today we'll be making nerikiri, so if you could make the[nl]bean paste, I'll do the finishing touches.
+@時間経過演出
+RAK/RAK0049040
+Onodera, this box is full, should I put it over there?
+KSK/KSK0014310
+Sure, thanks! It's heavy, so be careful.
+RAK/RAK0049050
+Okay![nl].....Mppphh! How many more of these are we making?
+KSK/KSK0014320
+We're about halfway right now.[nl]Thanks to you, we're making great time.[nl]Shall we take a break?
+RAK/RAK0049060
+Alright.
+KSK/KSK0014330
+Oh, right! If you'd like, maybe you want to try one of[nl]the nerikiri we made?
+Absolutely!
+Sorry, I'm full
+RAK/RAK0049070
+Yeah, I'd love to try one!
+RAK/RAK0049080
+....Oh. But my hands are all covered in flour....
+KSK/KSK0014340
+I just washed my hands, so they're clean.[nl]Okay, here you go.
+@expose
+RAK/RAK0049090
+(Huh? Onodera's feeding me the nerikiri by hand!?[nl] So I'm actually allowed to eat it!?
+KSK/KSK0014350
+.....Aaah!?
+KSK/KSK0014360
+I-It's not....![nl]Sorry, I used to do this with my sister, so it's a habit....! 
+RAK/RAK0049100
+....No, I got it.[nl]Here goes!
+KSK/KSK0014370
+Huh!?
+RAK/RAK0049110
+Chomp!
+KSK/KSK0014380
+----
+RAK/RAK0049120
+Nom nom....gmlp.
+RAK/RAK0049130
+D_Delicious....[nl]Gets me right in the heart.
+KSK/KSK0014390
+I-I see....[nl]Umm, uhh, that's good....
+@ザクシャ小咲・中
+KSM/KSM0000050
+Oooohhhhh~~~~....
+KSK/KSK0014400
+Ktchblkhh!
+KSM/KSM0000060
+Hehehe~, I saw the whole thing....[nl]I guess you should marry into the family after all, Ichijo!
+RAK/RAK0049140
+Huh!? Uhh....umm....
+KSK/KSK0014410
+Jeez, Mom! Go away for real this time!
+RAK/RAK0049150
+Sorry....I actually ate a pretty big meal before I got here,[nl]so I'm not really that hungry.
+KSK/KSK0014420
+Oh, I see. If that's the case, that's totally fine.
+RAK/RAK0049160
+Ummm, but I really do wanna try them....
+KSK/KSK0014430
+If that's the case, would you like to take one home?[nl]I've got a few extras.
+RAK/RAK0049170
+Really!? That would be awesome!
+KSK/KSK0014440
+Don't tell my mom, though, okay?
+@ザクシャ小咲・小
+RAK/RAK0049180
+I'm home~.
+OTM/OTM0005590
+Oh, Raku. Thou art late.
+RAK/RAK0049190
+Wait, why are you greeting me at the door like it's normal?[nl]I told you to stay hidden.
+OTM/OTM0005600
+It's fine. All thy housemates art watching TV.
+RAK/RAK0049200
+Those guys...
+OTM/OTM0005610
+Sniff, sniff. Something smelleth good.[nl]Tell me, what art thou holding in thy hand?
+RAK/RAK0049210
+This is a Japanese sweet I got from Onodera's house.
+OTM/OTM0005620
+Gimme.
+RAK/RAK0049220
+Why? I want to keep it.[nl]She gave it to *me*.
+OTM/OTM0005630
+Stingy. Stingy, stingy!
+RAK/RAK0049230
+Whine all you want. I'm still keeping it.
+OTM/OTM0005640
+Stingy, stingy, stingy, stingy, stingy,[nl]stingy, stingy, stingy, stingy, stingy!
+RAK/RAK0049240
+Gaaah! Shut up!
+RYU/RYU0001280
+Young master, what's the matter?
+RAK/RAK0049250
+N-No, it's nothing!
+OTM/OTM0005650
+RAK/RAK0049260
+Fine, fine! I'll give you half if you just be quiet!
+OTM/OTM0005660
+Yaaaaaaaay!
+RAK/RAK0049270
+So be quiet, please....
+RAK/RAK0049280
+(Good grief. I guess I should have just[nl] forced myself to eat it....)
+@イベント終了処理
+common.asb

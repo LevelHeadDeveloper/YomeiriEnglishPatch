@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@ksk_204
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0016070
+....Ah. Good morning, Ichijo.
+RAK/RAK0051680
+O-Oh, good morning.[nl]Man, that's an awful lot of printouts you got there.
+KSK/KSK0016080
+Yeah. I was asked to carry these to the staff room.
+RAK/RAK0051690
+Seriously?[nl]I wouldn't have made a girl do that.
+KSK/KSK0016090
+It's not as heavy as it looks,[nl]so don't worry.
+RAK/RAK0051700
+No, Onodera. I'll carry it for you,[nl]so give it to me.
+@expose
+KSK/KSK0016100
+Huh? That's not right.[nl]I was the one they asked to do this, after all....
+RAK/RAK0051710
+I don't feel right, as a man,[nl]just leaving you to carry something that looks so heavy.
+RAK/RAK0051720
+I don't care if you think it's selfish of me,[nl]just let me take them. Okay?
+KSK/KSK0016110
+Ichijo.....
+KSK/KSK0016120
+.....Thanks.[nl]Well, here you go, then.
+@イベント終了処理
+common.asb
