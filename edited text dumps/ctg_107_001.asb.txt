@@ -1,0 +1,86 @@
+__main
+@Lclearscreenall
+@ctg_107
+@イベント開始処理
+CTG/CTG0016750
+Hey, Raku. Erm....you know....
+RAK/RAK0068580
+.....Hm?[nl]What are you being so formal for?
+CTG/CTG0016760
+Well, ummm..... My hair kinda feels like it doesn't[nl]look the same this morning! Hahaha......
+RAK/RAK0068590
+What? It looks the same to me.
+CTG/CTG0016770
+W-Well....look! It looks different from usual!
+RAK/RAK0068600
+Huh....?
+CTG/CTG0016780
+....*glare*
+RAK/RAK0068610
+U-Ummmmm.....[nl]Gimme a sec, okay?
+@タッチパート開始処理
+@ＢＧＭ再生
+RAK/RAK0068620
+Oh, of course![nl]Your ribbon's a different color than usual, right?
+CTG/CTG0016790
+T-That's right.....
+RAK/RAK0068630
+....Huh?[nl]Why are you so bummed out that I got it right?
+CTG/CTG0016800
+I-I'm not bummed out! It's just....
+CTG/CTG0016810
+You didn't notice it at all at first....[nl]I'd thought it had been a pretty big change....
+RAK/RAK0068640
+Ngh.... S-Sorry about that.[nl]But why change it in the first place?[nl]Where's your usual red ribbon?
+CTG/CTG0016820
+Because, well....I wanted a change of pace.[nl]I do have other ribbons, just so you know.
+RAK/RAK0068650
+Hmmm.....
+RAK/RAK0068660
+The usual red one is nice, but this one's good, too.
+@ザクシャ千棘・中
+CTG/CTG0016830
+Huh? I-Is that right....
+RAK/RAK0068670
+Yeah.
+CTG/CTG0016840
+Uhh, I....guess so. Hmmm....
+CTG/CTG0016850
+Well, whatever.[nl]At the very least, you noticed, so that's good.
+RAK/RAK0068680
+O-Okay. Thanks....
+CTG/CTG0016860
+Hey, perv sprout.[nl]You ever hear the word "death flag"?
+@ＨＰ－５０
+RAK/RAK0068690
+Glbtchk!
+CTG/CTG0016870
+Jeez, I can't believe you![nl]I was an idiot for even asking!
+RAK/RAK0068700
+Uughhh.....
+RAK/RAK0068730
+Ummm....your skirt is shorter?
+CTG/CTG0016900
+Incorrect....
+RAK/RAK0068720
+(One more time, gotta think....
+CTG/CTG0016880
+Kyaah!
+CTG/CTG0016890
+H-H-Hey....!![nl]W-W-What did you just do!?
+RAK/RAK0068710
+Well, I'd thought it might be something back there....[nl]Guess I was wrong.
+RAK/RAK0068750
+Ummm, ummm....[nl]Aaghh....!
+CTG/CTG0016910
+You.....you really don't know what it is, do you.
+RAK/RAK0068760
+I-I'm sorry! I seriously have no idea!
+CTG/CTG0016920
+Hahh, good grief....[nl]Whatever. I was stupid to expect even the slightest bit.
+RAK/RAK0068770
+Huh? What do you mean "expect"....
+CTG/CTG0016930
+Forget it! You....stupid bean sprout!
+@イベント終了処理
+common.asb

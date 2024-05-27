@@ -1,0 +1,133 @@
+__main
+@Lclearscreenall
+@ctg_101
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0015630
+Maaan, I'm starved![nl]Lunchtime, lunchtime~! ★
+RAK/RAK0067590
+Chitoge, your lunchboxes always look so lavish.[nl]There's lobster, caviar, and all kinds of expensive things[nl]in there.
+KSK/KSK0017730
+Really, they do. They look beautiful, and I'm[nl]honestly jealous that I can't have such a delicious[nl]lunch every day.
+CTG/CTG0015640
+Is that right....?[nl]But for me, lunch has always looked like this,[nl]so I don't know what a normal lunchbox looks like.
+KSK/KSK0017740
+I see....
+@expose
+CTG/CTG0015650
+Hehehee....[nl]I wonder what's for lunch today?[nl]Time to ea--
+@ＢＧＭ停止
+CTG/CTG0015660
+------!!
+RAK/RAK0067600
+.....Huh?[nl]I don't see anything in there.
+KSK/KSK0017750
+Me neither....
+CTG/CTG0015670
+------
+CTG/CTG0015680
+.....G-....Ghh.....
+RAK/RAK0067610
+Huh!? Wai--!?[nl]Don't cry over this!
+CTG/CTG0015690
+Ooogh, this....can't be happening....[nl]The only thing that got me through the morning classes[nl]was knowing I'd get to eat lunch at the end....
+KSK/KSK0017760
+C-Calm down, Chitoge....
+CTG/CTG0015700
+Waaaaaah! Come back, lunch!
+Offer her some of your lunch
+Leave her alone
+RAK/RAK0067620
+....It can't be helped.[nl]Here, you can have some of my lunch, so cheer up.
+CTG/CTG0015710
+Ooogh, I won't accept mercy from a bean sprout.....
+CTG/CTG0015720
+.....Is it really okay if I have some?
+RAK/RAK0067630
+*Now* you want it!?
+CTG/CTG0015730
+But then you wouldn't have any lunch....
+RAK/RAK0067640
+So you plan to eat all of it. ....Well, that's fine.[nl]I'll grab something from the canteen later,[nl]so eat as much as you want!
+@ザクシャ千棘・小
+CTG/CTG0015740
+Darling....
+KSK/KSK0017770
+Oh, you can have some of mine, too![nl]Chitoge, is there anything here you'd like?
+CTG/CTG0015750
+Y-You too, Kosaki....[nl]Thank you so muuuuuch!
+RAK/RAK0067650
+(Well, she won't starve if I don't do anything. Worst case[nl] scenario, she can just buy something from the canteen.)
+KSK/KSK0017780
+Oh, you can have some of my lunch, Chitoge![nl]Here, what do you want?
+CTG/CTG0015760
+K-Kosaki.....thank you so muuuuch!
+CLD/CLD0002270
+Mistress, pardon me, but it's lunch time.
+CTG/CTG0015770
+Aaagh! You startled me....[nl]Claude, what are you doing inside the school?
+CLD/CLD0002280
+Actually, due to a mistake on our part, you were given the[nl]wrong multi-tiered lunchbox when you left this morning.[nl]Here is the lunchbox you were supposed to have.
+CTG/CTG0015780
+Ah....so that's what happened.
+CLD/CLD0002290
+I've caused you such an inconvenience during your[nl]precious lunch period, mistress.... I'm so sorry!
+CLD/CLD0002300
+I am willing to pay for this with my death....
+CTG/CTG0015790
+Uhh, there's no need for that.[nl]I've got my lunch now, no problem,[nl]so please make sure you don't die.
+CLD/CLD0002310
+Ghh....Mistress! Such mercy....[nl]I will take my leave now. Ghhh.....
+CTG/CTG0015800
+Yes, yes, thanks.
+RAK/RAK0067660
+Lucky break, Chitoge.
+KSK/KSK0017790
+Yeah. Oh....but, Chitoge, your lunch is so big,[nl]I'm not sure you have room for the food we gave you.
+KSK/KSK0017800
+Yeah. Oh....but, Chitoge, your lunch is so big,[nl]I'm not sure you have room for the food I gave you.
+CTG/CTG0015810
+Well, go ahead and take anything you want from my lunch.[nl]Go ahead, take some!
+CTG/CTG0015820
+You guys made me so happy....[nl]So I want to eat the food you gave me.
+CTG/CTG0015830
+You made me so happy....[nl]So I want to eat the food you gave me, Kosaki.
+KSK/KSK0017810
+....Okay. Then I'll have some of the broiled eel!
+CTG/CTG0015840
+Good choice. It's plump and delicious![nl]Go on, try it!
+RAK/RAK0067670
+Alright, I'll have....
+CTG/CTG0015850
+Huh, what's this?[nl]You wanted some, too?
+RAK/RAK0067680
+Huh!? I can't have some!?
+CTG/CTG0015860
+Hehe. Just kidding.
+CTG/CTG0015870
+I'll give you one bite.[nl]Here you go.
+CTG/CTG0015880
+I mean, *you* didn't give me anything....
+RAK/RAK0067690
+Ghh! That's true....
+CTG/CTG0015890
+Well, if you reeeeeally cry and beg,[nl]I might let you have a bite. Here you go.
+RAK/RAK0067700
+Oh, thank you! Alright, gimme some of the king crab.[nl]Nom nom....
+RAK/RAK0067710
+D-Delicious!
+CTG/CTG0015900
+That's good.
+CTG/CTG0015910
+Alright, lemme try the stuff you two gave me.[nl]Nom nom nom....
+RAK/RAK0067720
+Well, compared to the kind of full-blown stuff[nl]you've got in there, my lunch doesn't stack up.
+@ザクシャ千棘・小
+CTG/CTG0015920
+....That's not true.
+RAK/RAK0067730
+Hm?
+CTG/CTG0015930
+I-I'm saying it's super delicious![nl]Jeez....
+@イベント終了処理
+common.asb

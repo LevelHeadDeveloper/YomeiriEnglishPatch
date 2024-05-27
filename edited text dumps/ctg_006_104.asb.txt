@@ -1,0 +1,37 @@
+__main
+@Lclearscreenall
+@ctg_006_104
+MTG/MTG0001330
+The original Chitoge wished me into existence because[nl]she was so tired of herself, right?
+MTG/MTG0001340
+As for me, I can't think of a single thing[nl]the original has over me.
+MTG/MTG0001350
+So, these strong points the original has and I don't.[nl]Hehehe....what are they, exactly?
+What are they?
+Genuine kindness
+I spent longer with her
+MTG/MTG0001360
+You mean....the time between when she[nl]entered high school and now?
+MTG/MTG0001370
+Hehe....hehehehe!
+MTG/MTG0001380
+I'm sorry, but that just isn't the case.
+MTG/MTG0001390
+Haven't you forgotten?[nl]I'm her "other self", if you will, created from the original....
+MTG/MTG0001400
+And I have the same memories of those six months with you[nl]that the original does, Mr. Raku.
+MTG/MTG0001410
+So there's nothing left that the original[nl]could possibly have over me, right?
+MTG/MTG0001420
+So there's no reason to hesitate![nl]Choose me, please!
+@ctg_006_401
+MTG/MTG0001430
+Kinda hard to think of one, right?[nl]Come on, there's no need to rack your brain.
+MTG/MTG0001440
+Come on! choose me, please!
+@ctg_006_104_end
+@2ショット成功
+@ctg_006_201
+ctg_006_401.asb
+common.asb
+ctg_006_201.asb

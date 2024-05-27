@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@ctg_004_104
+@expose
+Did her work backfire?
+I ALMOST DIED.
+Maybe switch directions.
+CTG/CTG0004340
+Aah, umm....[nl]Sorry about that.
+CTG/CTG0004350
+I guess if I'm not good at this,[nl]I shouldn't be doing anything extra, after all.
+CTG/CTG0004360
+I don't know why I'm such a bad cook.[nl]I hate myself a little....
+@ctg_004_201
+@ザクシャ千棘・１
+CTG/CTG0004370
+Switch directions?[nl]You mean change my secret ingredients?
+CTG/CTG0004380
+Huh, different utensils and oven temperature?
+CTG/CTG0004390
+I see....so that's it....[nl]There's so many ways to do it....
+@ctg_004_105
+CTG/CTG0004400
+Backfire, backfire....[nl]Every time, it backfires....
+@ctg_004_201
+common.asb
+ctg_004_201.asb
+ctg_004_105.asb

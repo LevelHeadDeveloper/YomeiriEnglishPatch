@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@ctg_001_103
+@expose
+CTG/CTG0000730
+And besides, you have a fatal flaw[nl]when it comes to caretaking.
+CTG/CTG0000740
+Frankly - you aren't liked by any of the animals!
+CTG/CTG0000750
+The animals are far more attached to me than you.
+CTG/CTG0000760
+This is all what you'd call... the undeniable truth!
+Are they really, though....?
+Yeah, sure.
+That's just the law of the wild.....
+@ザクシャ千棘・１
+CTG/CTG0000770
+Right, right. The rule of popularity makes me[nl]more fit to be the leader, after all.
+CTG/CTG0000780
+What do you mean!?[nl]WHO are you calling a wild animal !?
+@ＨＰ－１０
+CTG/CTG0000790
+Hmph! [nl]As much as you might hate it, the truth hurts.
+CTG/CTG0000800
+Oooh? Can't respond, huuuuh?[nl]Well, it can't be helped.
+CTG/CTG0000810
+The rule of popularity makes me more fit to[nl]be the leader, after all.
+@ctg_001_104
+common.asb
+ctg_001_104.asb

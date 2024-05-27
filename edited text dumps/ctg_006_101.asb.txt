@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@ctg_006_101
+@2ショット開始
+Defend against Mitoge!
+@ＢＧＭ再生
+MTG/MTG0001050
+Mr. Raku.[nl]Why won't you accept me?
+MTG/MTG0001060
+Is it because I'm not the real Chitoge?
+Is that why? 
+Exactly.
+That's not the problem
+Accept....what?
+MTG/MTG0001070
+Why are you so concerned with who is the real Chitoge?
+MTG/MTG0001080
+Then what is the problem?[nl]Please stop trying to dodge the question, Mr. Raku.
+MTG/MTG0001090
+I, Chitoge Kirisaki, want to marry you.
+MTG/MTG0001100
+That is what I said earlier.[nl]Please stop trying to dodge the question.
+MTG/MTG0001110
+Is that really such a difficult question to answer?
+@ctg_006_101_end
+@ctg_006_102
+common.asb
+ctg_006_102.asb

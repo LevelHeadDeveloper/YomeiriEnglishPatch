@@ -1,0 +1,368 @@
+__main
+@Lclearscreenall
+@ctg_005
+@イベント開始処理
+CTG/CTG0004660
+Hey, Raku.....Raku, come on!
+CTG/CTG0004670
+Open your eyes, you stupid bean sprout....![nl]Hey, come on....!
+CTG/CTG0004680
+No use. You're out cold.
+CTG/CTG0004690
+I-I guess the only way to revive him[nl]is to use mouth-to-mouth....
+CTG/CTG0004700
+B-But wouldn't that mean I have to[nl]use my first kiss for this....?
+CTG/CTG0004710
+N-No, this is no time for wavering....
+CTG/CTG0004720
+This is to save Raku's life, so it can't be helped.[nl]It doesn't count....yeah, it doesn't even count!
+CTG/CTG0004730
+Ffffff.....hahhhhhh....!
+CTG/CTG0004740
+W-Well...here goes...!
+@背景変更
+RAK/RAK0002970
+Huh?
+CTG/CTG0004750
+Huh?
+CTG/CTG0004760
+----!
+RAK/RAK0002980
+Chitoge? Why are you so close to me....?
+@ＢＧＭ再生
+@叫び揺れ
+CTG/CTG0004770
+GAAAAAAAAAAAHHHHH!?!?
+RAK/RAK0002990
+WAAAAAAAAAAGH!?[nl]W-What's wrong!?
+@expose2
+CTG/CTG0004780
+I-I-I-It's not what you think![nl]I was just trying to give you artificial respiration,[nl]to save you from drowning, okay....!?
+RAK/RAK0003000
+Drowning....?[nl]I drowned?
+RAK/RAK0003010
+(Where am I?[nl] I don't think I've ever seen this beach before....)
+RAK/RAK0003020
+(Wait, wait. I remember now.[nl] This afternoon, we were on one of our scheduled dates....)
+@ＢＧＭ停止
+@背景変更2
+CTG/CTG0004790
+Hahh....
+CTG/CTG0004800
+You even said so the other day....[nl]I think we're running out of things to do on dates.
+RAK/RAK0003030
+....Yeah.
+CTG/CTG0004810
+It's such a nice day out, too,[nl]but I can't think of anywhere to go....
+RAK/RAK0003040
+Far from an ideal couple's vacation, I guess.
+CTG/CTG0004820
+Ideal couple's vacation, huh.[nl]Like what?
+RAK/RAK0003050
+Let's see.....
+RAK/RAK0003060
+Like whiling away an everlasting summer on a private beach,[nl]talking about love and losing track of time....or something.[nl]I dunno.
+CTG/CTG0004830
+Hahahaha, that's so cliche!
+RAK/RAK0003070
+I saw a scene like that in a movie.[nl]But I guess it's a bit too much for a high school couple.
+CTG/CTG0004840
+Yeah~, but it would be nice to relax like that.[nl]At the very least, it's a lot better than lazing in a coffee shop.
+RAK/RAK0003080
+Yeah....
+CLD/CLD0000250
+Mistress, there you are....!
+CTG/CTG0004850
+Oh, Claude. What's the matter?[nl]Your face is flushed.
+CLD/CLD0000260
+What are you talking about?[nl]We barely have any time until our plane boards.
+@expose
+CTG/CTG0004860
+Huh? Our plane? What are you talking about?
+CLD/CLD0000270
+Hm-?[nl]....Don't tell me you didn't know?
+CLD/CLD0000280
+Today, we, the Beehive, are holding a[nl]recognition-of-services party on a private beach[nl]that we own....
+CTG/CTG0004870
+A-A recognition-of-services party on a private beach!?[nl]I hadn't heard anything about that!
+CLD/CLD0000290
+...It would seem there was a communication error.[nl]My sincerest apologies.
+CLD/CLD0000300
+But if you hurry up and get ready now,[nl]we can still make it in time for the plane.[nl]Well, let's go, mistress!
+RAK/RAK0003090
+Oooh, you're headed to a tropical beach.[nl]That's great timing.
+CTG/CTG0004880
+I guess so.[nl]Although I'm not exactly sure what's going on....
+RAK/RAK0003100
+Well, it's a lot better than being bored in a coffee shop,[nl]right? Save me a souvenir, Chitoge.
+CLD/CLD0000310
+What are you talking about, Raku Ichijo?[nl]You're coming, too.
+RAK/RAK0003110
+Huh?
+CLD/CLD0000320
+Despite my own wishes, the boss has ordered me[nl]to bring along the mistress's lover.
+RAK/RAK0003120
+I-I'm coming too!?[nl]To your private tropical beach!?
+CLD/CLD0000330
+Don't worry, I've already cleared it with the Shuei-Gumi.
+CLD/CLD0000340
+All you need to do is get on the plane to the tropics.
+RAK/RAK0003130
+W-What the hell!?
+RAK/RAK0003140
+(That's right. And before we knew it,[nl] we got sent off on a plane to a tropical island.)
+RAK/RAK0003150
+(And about half an hour after we arrived on the beach,[nl] the rubber raft Chitoge and I were riding capsized....)
+RAK/RAK0003160
+....And now we're here.
+RAK/RAK0003170
+(What the hell, man.[nl] These story developments are getting absurd....)
+CTG/CTG0004890
+There's no one else here....
+RAK/RAK0003180
+That's true....[nl]There's no signs of humans anywhere. It's a deserted island.
+CTG/CTG0004900
+D-Do you think we might be marooned on this island?[nl]Do we have to live here forever?
+RAK/RAK0003190
+Well, worst case, it's possible....
+CTG/CTG0004910
+Y-You've gotta be kidding me![nl]Aren't there any beds!? Or a bathroom!?[nl]Or at least a tasty dinner!?
+RAK/RAK0003200
+There aren't. Not on a deserted island like this.
+CTG/CTG0004920
+T-This is the worst....[nl]I was just getting used to high school life in Japan, too![nl]I don't wanna be marooned on a deserted island!
+CTG/CTG0004930
+Ooogh....I barely even made any friennnds.....
+RAK/RAK0003210
+I want to cry too.
+RAK/RAK0003220
+The only thing that's stopping me is the fact that you're here.[nl]If you weren't, I might have completely lost it.
+CTG/CTG0004940
+Yeah....[nl]I guess there is a silver lining.
+.....
+RAK/RAK0003230G
+Hahh.....
+CTG/CTG0004960
+Well, what should we do?[nl]Shall we talk about love and lose track of time?
+RAK/RAK0003240
+Don't even joke about it.
+CTG/CTG0004970
+Yeah, it wasn't even that funny.[nl]I just never thought that what I'd said half a day ago[nl]would end up coming true.
+RAK/RAK0003250
+I said I wanted to spend some time on a private beach,[nl]but I never said I wanted to get stuck on a desert island.
+CTG/CTG0004980
+Yeah....
+RAK/RAK0003260
+.....Anyway!
+RAK/RAK0003270
+There's no point in wasting any more time.[nl]Now that we know this island's deserted, we need to[nl]find some way to survive on our own here.
+CTG/CTG0004990
+I guess so.
+CTG/CTG0005000
+But what do we do?
+RAK/RAK0003280
+Ummm, broadly speaking, we have two priorities.
+RAK/RAK0003290
+One, we need to survive,[nl]and two, we need to get off the island.
+CTG/CTG0005010
+Survival and escape. Got it.
+RAK/RAK0003300
+The first step in survival is to find food.[nl]We need to forage for food in that jungle over there.
+CTG/CTG0005020
+Hmmmm, I doubt food will be too easy to find....
+CTG/CTG0005030
+Well, how about escaping?
+RAK/RAK0003310
+We'll build a fire and send smoke signals from the beach.[nl]Maybe some of the Beehive guys will see them.
+RAK/RAK0003320
+And if that doesn't work, I guess we'll just have to[nl]build a raft and get off of here ourselves....
+CTG/CTG0005040
+I don't want to think too hard about having to do that.
+CTG/CTG0005050
+Well, you're right, we need to think positively.[nl]Let's split up.
+CTG/CTG0005060
+Well, who's gonna go look for food in the jungle?
+RAK/RAK0003330
+Right. In the jungle, there's a higher risk of getting[nl]attacked by wild animals, so as the man, I should go.
+RAK/RAK0003340
+No, I guess that's not....?
+CTG/CTG0005070
+Hm? What is it?[nl]You're staring right through me.
+RAK/RAK0003350
+I was just thinking, you might stand a better chance,[nl]since you're stronger than me and all....
+CTG/CTG0005080
+W-What the hell!? I'll bet you're thinking[nl]"she could kill a wild boar in just one punch!"
+RAK/RAK0003360
+N-No, that's not what I was thinking at all!
+RAK/RAK0003370
+(Maybe a little.)
+CTG/CTG0005090
+Jeez, you're such a rude little brat!
+CTG/CTG0005100
+But, well, I can go find food no problem.[nl]I don't know how to make smoke signals anyway.
+RAK/RAK0003380
+That's true, too....
+CTG/CTG0005110
+Well, let's roll. I'll be back in an hour or so,[nl]so you stay here and build a fire for smoke signals.
+RAK/RAK0003390
+Got it. Be careful in there.
+@フェードアウト
+@時間経過演出
+RAK/RAK0003400
+(....But no matter how hard I try to make a fire,[nl] I can't even get a spark!)
+RAK/RAK0003410
+(Oh no.....[nl] At this rate, we won't even be able to cook....)
+RAK/RAK0003420
+(Maybe it would have been a better idea to write "SOS"[nl] on the beach instead of using smoke signals....?)
+CTG/CTG0005120
+Heeey, Raku![nl]I found a crap ton of food!
+RAK/RAK0003430
+O-Okay, thanks for your help.
+RAK/RAK0003440
+....Hey, that's a lot of mushrooms!
+CTG/CTG0005130
+I found a huge patch of mushrooms back there.[nl]With these, we won't need to worry about food for a while.
+RAK/RAK0003450
+No, hang on a second. These mushrooms....[nl]They've got spots on their caps, and a reddish color.[nl]Don'tcha think they look kinda dangerous to eat?
+CTG/CTG0005140
+Do they? They look delicious to me.
+CTG/CTG0005150
+Hmmmm, but I couldn't find anything else that looked edible.
+RAK/RAK0003460
+In other words, this is all we have to eat.
+RAK/RAK0003470
+Ummmm......
+I'll check them for poison!
+I'll make Chitoge eat them first.
+RAK/RAK0003480
+Alright....very well.[nl]Gimme a mushroom.
+CTG/CTG0005160
+Will you be okay?
+RAK/RAK0003490
+I'm not sure, but if we don't eat something, we might starve.[nl]So sooner or later, we'll have to eat these.
+RAK/RAK0003500
+I'm a man. I've prepared myself....!
+@ザクシャ千棘・小
+CTG/CTG0005170
+O-Oh....!
+RAK/RAK0003510
+Y-You eat them, Chitoge.[nl]After all, the one who found them has the right to first dibs....
+CTG/CTG0005180
+W-What the hell!? You just said they don't look safe!
+CTG/CTG0005190
+You want me to poison myself!?[nl]That's terrible!
+RAK/RAK0003520
+S-Sorry....[nl]I guess that's not right.
+RAK/RAK0003530
+I'll eat them myself, then....[nl]Gimme a mushroom.
+CTG/CTG0005200
+A-Are you sure you'll be okay?
+RAK/RAK0003540
+If we don't eat something sooner or later, we'll starve.[nl]It can't be helped.
+RAK/RAK0003550
+Alright, here goes....[nl]Down the hatch---
+RAK/RAK0003560
+Gulp....
+RAK/RAK0003570
+Mgh....
+RAK/RAK0003580
+This is....
+RAK/RAK0003590
+WAAAAAAAAAAAAAGHHH!?
+CTG/CTG0005210
+Huh, what!? What's the matter!?[nl]They're poisonous after all!?
+RAK/RAK0003600
+These are amazing! Gimme another one!
+CTG/CTG0005220
+Huh? Oh, sure.
+RAK/RAK0003610
+Nom nom....
+RAK/RAK0003620
+RAK/RAK0003630
+Mmm, I could eat these all day!
+CTG/CTG0005230
+They're really that good?
+RAK/RAK0003640
+Yeah, it's got a sweet taste and a sticky texture[nl]that's kinda like a marshmallow....
+@ＢＧＭ停止
+RAK/RAK0003650
+Kinda.....
+RAK/RAK0003660
+da....
+CTG/CTG0005240
+Huh?
+RAK/RAK0003670
+Ki....n....da da da da da da da da da
+CTG/CTG0005250
+R-Raku!? What's the matter!?
+RAK/RAK0003680
+da da da da da da da da da da da da da da da da da da da[nl]da da da da da da da da da da da da da da da da da da da[nl]da da da da da da da da da da da da da da da da da da da
+CTG/CTG0005260
+KYAAAAAAAHHH![nl]Raku, Rakuuuuu!
+RAK/RAK0003690
+(Gkhh.....)
+RAK/RAK0003700
+Aghh.....
+CTG/CTG0005270
+Oh, Raku! You're awake!?
+RAK/RAK0003710
+Chitoge....?
+CTG/CTG0005280
+Are you alright!?
+RAK/RAK0003720
+Y-Yeah.....
+CTG/CTG0005290
+I'm sorry! I guess those mushrooms[nl]were poisonous after all....
+RAK/RAK0003730
+Yeah....
+RAK/RAK0003740
+But, at least it wasn't too terribly poisonous.[nl]There's still a bitter aftertaste left over,[nl]but I don't think there's any real after effects.
+CTG/CTG0005300
+Thank goodness....
+CTG/CTG0005310
+Apologies are kinda hard, so....[nl]Here, for you.
+RAK/RAK0003750
+Huh? A banana? Where'd you get this?
+CTG/CTG0005320
+I found a bunch of them just now.[nl]There's plenty to eat for now.
+CTG/CTG0005330
+I really wish I'd found these before the mushrooms.
+RAK/RAK0003760
+Seriously!? Nice work, Chitoge! Thanks a bunch!
+CTG/CTG0005340
+Ahahahahaha.....
+CTG/CTG0005350
+Well, I am just a gorilla girl who[nl]can't do anything but find bananas.
+RAK/RAK0003770
+What's wrong?[nl]You've gotten all self-abasing all of a sudden.
+CTG/CTG0005360
+Uh, well, you see, lately I've just been such a[nl]useless person who's been nothing but trouble for you.
+RAK/RAK0003780
+Useless? I don't think I said that.
+CTG/CTG0005370
+Really?
+CTG/CTG0005380
+I mean, I can't do my job taking care of the animals,[nl]I can't bake cookies, and the mushroom thing earlier[nl]was a massive inconvenience....
+RAK/RAK0003790
+You're overthinking. Everyone lives their lives[nl]with *some* inconvenience to others.
+CTG/CTG0005390
+Well, I'm glad you're following me on this, Raku.
+CTG/CTG0005400
+I'm not trying to generalize here, what I'm saying is[nl]that I wonder if I'm disqualified to play the role of a lover.
+CTG/CTG0005410
+I'm clumsy and unrefined, my only skill is my[nl]brute strength, and I don't have a drop of girliness[nl]in me, unlike Kosaki or Marika--
+CTG/CTG0005420
+I kinda feel bad that you have to have me by your side....
+RAK/RAK0003800
+I really--
+CTG/CTG0005430
+Don't think that's true? I doubt it.
+CTG/CTG0005440
+Hey, Raku. Look me in the eye and answer honestly.[nl]Do you really need me?
+RAK/RAK0003810
+(What's going on with her?[nl] She seems really serious....)
+RAK/RAK0003820
+(Maybe she's feeling on edge from being stuck on this[nl] unfamiliar island. I'd better cheer her up....)
+@ctg_005_101
+common.asb
+ctg_005_101.asb

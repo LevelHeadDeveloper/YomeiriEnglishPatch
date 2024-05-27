@@ -1,0 +1,26 @@
+__main
+@Lclearscreenall
+@ctg_001_105
+@expose
+CTG/CTG0000960
+Just to confirm one last thing......
+CTG/CTG0000970
+What role do I, Chitoge Kirisaki,[nl]play in caretaking here?
+@ctg_001_ana_success
+CTG/CTG0000980
+Excellent![nl]Very well said.
+@ザクシャ千棘・小
+@ctg_001_ana_failure02
+CTG/CTG0000990
+Hah? Darling??
+CTG/CTG0001000
+I mean, that's you.....[nl]What's a caretaking "darling", anyways?
+@ctg_001_ana_failure01
+CTG/CTG0001010
+After all of this lecturing....[nl]You're a lost cause.
+CTG/CTG0001020
+Ugh...... I was stupid for even asking.
+@ctg_001_105_end
+@ctg_001_201
+common.asb
+ctg_001_201.asb

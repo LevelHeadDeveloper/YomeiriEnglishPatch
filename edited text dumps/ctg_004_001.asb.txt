@@ -1,0 +1,427 @@
+__main
+@Lclearscreenall
+@ctg_004
+@イベント開始処理2
+@ＢＧＭ再生
+CTG/CTG0003550
+Let's see, add the butter, sugar, and eggs to a bowl....[nl]Then stir well, and....
+CTG/CTG0003560
+Then you add the flour mixture and mix it by hand, right?
+SSR/SSR0000010
+Correct, mistress. That will be the cookie dough.[nl]Roll it out thinly, cut it into whatever shape you want,[nl]and you're done.
+CTG/CTG0003570
+Okay. Thanks, Tsugumi.
+CTG/CTG0003580
+Cookies are surprisingly easy to make.[nl]I think I can handle this.
+SSR/SSR0000020
+Well, after all, it is just a high school cooking class.[nl]It's not intended to require a lot of skill.
+CTG/CTG0003590
+Yeah. Let's take it easy.
+CTG/CTG0003600
+Alright, how should I shape this?
+@expose
+CTG/CTG0003610
+-----
+CTG/CTG0003620
+Hmmm.....
+CTG/CTG0003630
+Hmmmmm.....
+MRK/MRK0000010
+Oh?
+MRK/MRK0000020
+Kirisaki, what kind of shape is that?
+CTG/CTG0003640
+Huh? Just a normal dog shape, why?
+MRK/MRK0000030
+T-That Picasso-painting-esque shape is a dog....
+MRK/MRK0000050
+Hehe....as usual, Kirisaki, your modelling skills[nl]are on par with a professional's.
+CTG/CTG0003650
+What, are you saying I'm bad at this?[nl]It doesn't matter if it looks a little weird.[nl]Once you eat it, it's all the same.
+SSR/SSR0000030
+That's another problem all on its own, mistress.
+RUR/RUR0000260
+On that note, I'm absolutely smitten with[nl]how good Kosaki's modelling is.
+RUR/RUR0000270
+How any artist could sculpt a three-dimensional rose[nl]out of cookie dough is beyond me.
+KSK/KSK0000360
+Ehehehe......
+RUR/RUR0000280
+Now if only it tasted good....
+........
+RAK/RAK0002060
+(Alright, now I just need to bake mine.)
+RAK/RAK0002070
+(When they're done, we're supposed to share them out[nl] to the rest of the group and grade each other's work....)
+RAK/RAK0002080
+Hahh.....
+SYU/SYU0000010
+Hey, hey, Raku.
+RAK/RAK0002090
+What?
+SYU/SYU0000020
+Whose cookies are you looking forward to?[nl]I'll bet you want Onodera's to win?
+RAK/RAK0002100
+No, I'd rather not have Onodera's, if possible....
+RAK/RAK0002120
+Or Chitoge's, either, for the same reason.
+SYU/SYU0000030
+What, so you're scared?
+SYU/SYU0000040
+I was certain you'd say something like[nl]"I don't care how bad it tastes, as long as I have love!"
+RAK/RAK0002140
+Heh, you fool....
+RAK/RAK0002110
+You've never eaten anything Onodera's made.[nl]That's how you can say something so dumb.
+SYU/SYU0000050
+Well, you did say earlier that you ate some porridge[nl]she made you and you went through hell. Is it that bad?
+RAK/RAK0002130
+Yeah. You'd better avoid both of their cookies, too.[nl]Unless you *want* a near-death experience.
+SYU/SYU0000060
+Haha. I'm kind of tempted to eat them now.
+@時間経過演出
+CTG/CTG0003660
+Time to eat~!
+SYU/SYU0000070
+Oho! I've been waiting for this!
+SSR/SSR0000040
+Now, all that's left is to decide who tastes whose cookie.
+MRK/MRK0000060
+Well, if that's the case, then of course[nl]Raku dearest gets my cookies--
+CTG/CTG0003670
+Ah, hang on, Marika![nl]What the hell are you talking about!?
+MRK/MRK0000070
+There's nothing wrong with the early bird getting the worm.[nl]Besides, I'm sure Raku dearest would much rather[nl]eat my cookies than your weirdly shaped ones!
+CTG/CTG0003680
+What did you say!?
+CTG/CTG0003690
+That's not true at all! Darling!
+RAK/RAK0002150
+Huh? Umm...well...
+RAK/RAK0002160
+(It's too hard to answer!)
+SYU/SYU0000080
+Hey, hey. Everyone hold your horses.
+SYU/SYU0000090
+Why don't we draw straws using these disposable[nl]chopsticks? If we draw someone else's number,[nl]we taste their cookies.
+RAK/RAK0002170
+...Yeah. That sound like it'll be fair!
+MRK/MRK0000080
+Hmmmm....it's a shame, but if my darling Raku wishes it,[nl]then it can't be helped.
+SSR/SSR0000050
+Then let's draw lots one at a time.[nl]Raku Ichijo, you first.
+RAK/RAK0002180
+S-Sure! Me first, huh....
+RAK/RAK0002190
+Out of the seven batches of cookies, one is outstandingly[nl]beautifully shaped, and another that's outstandingly....[nl]avant-garde-ly shaped. 
+KSK/KSK0000370
+Oh, those are mine and Chitoge's.
+RAK/RAK0002200
+Yeah, I figured....
+RAK/RAK0002210
+God, Buddha, whoever's listening....[nl]Please, anyone other than those two....
+OTM/OTM0000010
+It is my turn....!
+RAK/RAK0002220
+Huh?
+@背景変更
+RAK/RAK0002230
+Otama!? What are you doing here!?
+OTM/OTM0000020
+I hath seen that thou art in trouble,[nl]so I came here to aid thee.
+RAK/RAK0002240
+No, you're just here because you smelled cookies,[nl]not because I'm in trouble!
+OTM/OTM0000030
+Mhm. Thou art not too far off!
+RAK/RAK0002250
+Jeez, I told you to stay at home and keep quiet!
+CTG/CTG0003700
+Hey, Raku? Is there someone under the sink?[nl]Do you think it's some kind of weird bug?
+RAK/RAK0002260
+Uhh....no, it's fine! I got rid of it already.
+OTM/OTM0000040
+Mgh....it is very rude to treat me like a weird bug.
+RAK/RAK0002270
+It's fine! Stay here and hide.[nl]It would be a huge nuisance if you were found!
+OTM/OTM0000050
+You got it. Well, there is no shortage of powers that[nl]I can use from underneath the sink.
+RAK/RAK0002280
+Powers? You're not gonna do something weird, are you?
+OTM/OTM0000060
+Hehehe. Worry not. I shall not do anything bad.
+SYU/SYU0000100
+Hey, hey, Raku. Don't be shy, just draw your straw.[nl]You're holding up the line.
+RAK/RAK0002290
+R-Right!
+RAK/RAK0002300
+(I'm a bit concerned about what Otama just said,[nl] but I'll draw my lot anyway....)
+RAK/RAK0002310
+Okay....
+RAK/RAK0002320
+Number 1.
+CTG/CTG0003710
+I got 3.
+KSK/KSK0000380
+Number 4.... Who's that?
+MRK/MRK0000090
+Mine's lucky 7!
+SSR/SSR0000060
+Number 6.
+RUR/RUR0000300
+2.
+SYU/SYU0000110
+So that means I get the last one left, 5.
+MRK/MRK0000100
+Well then, Maiko, who got who?
+SYU/SYU0000120
+Alright, I shall read out everyone's names[nl]and corresponding numbers! Let's see....
+SYU/SYU0000130
+Hmm, what....!?
+RAK/RAK0002330
+What is it?
+SYU/SYU0000140
+Hey, that's surprising![nl]I didn't even know this kind of coincidence was possible!
+SYU/SYU0000150
+It would seem everybody drew the same number[nl]as their name.
+CTG/CTG0003720
+Huh!? No way! You mean everyone got their own cookies!?
+KSK/KSK0000390
+What a coincidence....!
+RUR/RUR0000310
+Indeed. With seven people and seven straws,[nl]the number of combinations is 7 to the power of 7--
+CTG/CTG0003730
+That's....a 1 in 5040 chance!?
+SYU/SYU0000160
+Amazing. It's not impossible, but it is rare.
+MRK/MRK0000110
+So what if it's rare?[nl]We can't judge our own cookies.
+RAK/RAK0002340
+....Hey, did you do this?
+OTM/OTM0000070
+Of course.[nl]Thou wert trying to avoid those two's cookies, right?
+OTM/OTM0000080
+Hehehe....be grateful, alright?
+RAK/RAK0002350
+Well, I guess I don't need to worry about food poisoning[nl]from my own cookies....
+CTG/CTG0003740
+Hey, Raku. Who the hell are you talking to?
+RAK/RAK0002360
+Uh, no, no one....!
+MRK/MRK0000120
+Can't we just not have the lottery, please?[nl]Let everyone eat whoever's cookies they want.
+SSR/SSR0000070
+Mhm. Well, I don't have any objections....
+MRK/MRK0000130
+Well then, Raku dearest,[nl]please have some of the fruits of my love!
+@画面揺らし2
+RAK/RAK0002370
+----Gmmpthck!
+CTG/CTG0003750
+Hey! Hold on, there, Marika![nl]Just what do you think you're doing!?
+MRK/MRK0000140
+Hehehe, you should have been faster!
+CTG/CTG0003760
+Jeez, you're a pain....
+MRK/MRK0000150
+Well, Raku dearest? How does it taste?
+RAK/RAK0002380
+Nom.....mmmh.....
+RAK/RAK0002390
+Oh, yes. This isn't half bad....[nl]It's got just the right amount of sweetness,[nl]feels nice on the tongue, and it's perfectly crispy as well....
+RAK/RAK0002400
+That's how you can tell the butter and sugar[nl]were mixed properly. I think it's pretty good.
+MRK/MRK0000160
+Well! Since you say that, these were worth making![nl]Thank you so much!
+SYU/SYU0000170
+Hey, are Marika's cookies really that good?[nl]May I have one?
+MRK/MRK0000170
+Well....as long as it's just one.[nl]Here you go.
+SYU/SYU0000180
+Chomp!
+SYU/SYU0000190
+Oho! It's true! This is delicious....![nl]It looks good, too, and it could even pass[nl]as a commercial-grade product!
+RAK/RAK0002410
+Tachibana's a pretty good cook.
+MRK/MRK0000180
+That's right, I have been training myself every day[nl]without fail to be the perfect bride for my darling Raku![nl]Cooking well is hardly an issue for me!
+MRK/MRK0000190
+....Which is more than a certain gorilla can say.
+CTG/CTG0003770
+H-Hey, what are you talking about!?[nl]You're talking like I can't cook at all....!
+CTG/CTG0003780
+That's not true, right, everyone!?[nl]I can cook a little, too!?
+@ＢＧＭ停止
+CTG/CTG0003790
+Huh? W-Why's everyone so quiet?
+SYU/SYU0000200
+Well, the thing is, um....
+KSK/KSK0000400
+Ummm....[nl]I can't exactly speak for the others, but....
+SSR/SSR0000080
+Mistress....ummm....[nl]I say this with all due respect, but I think in this case....[nl]Marika Tachibana may have a point....
+CTG/CTG0003800
+E-Et tu, Tsugumi!?
+CTG/CTG0003810
+You all seriously think of me as the girl who can't cook!?
+RAK/RAK0002420
+Are we wrong?
+CTG/CTG0003820
+Of course you're wrong! I've been secretly training![nl]And I've definitely improved since the first semester!
+CTG/CTG0003830
+If you think I'm lying, eat this![nl]I'm pretty proud of how it came out!
+RAK/RAK0002430
+Huh? ....You're proud of this?[nl]I kinda have a hard time believing it's actually a cookie....
+CTG/CTG0003840
+W-Well, sure. I was just daring to be different, y'know?[nl]I thought a normal cookie would look too amateurish.
+RAK/RAK0002440
+(Absolutely false....)
+CTG/CTG0003850
+Hey, Raku. Why aren't you moving?[nl]Are you saying you can't eat it, maybe?[nl]Even though it's your girlfriend's own cooking?
+RAK/RAK0002450
+Ghhh.....
+RAK/RAK0002460
+(What should I do....?)
+Eat it
+Don't eat it
+RAK/RAK0002470
+(Wait a sec! This could be really bad!)
+RAK/RAK0002480
+(Am I really going to put myself in mortal danger[nl] just for a moment of heroism? Am I really, really[nl] going to eat this!?)
+Eat it
+Give up
+RAK/RAK0002490
+(Wait, hold your horses. If I eat this,[nl] I might lose about 90% of my HP!)
+RAK/RAK0002500
+(Do I still think it's a good idea to eat this?)
+Eat it like a man
+RAK/RAK0002510
+Ffffffff..........
+RAK/RAK0002520
+(Alright, I'm a man![nl] I'm ready.)
+RAK/RAK0002530
+L-Let's eat....!
+@ザクシャ千棘・小
+CTG/CTG0003860
+Yes! Please enjoy it!
+RAK/RAK0002540
+Nom....!
+RAK/RAK0002550
+Oh?
+RAK/RAK0002560
+The texture is more normal than I exp---
+RAK/RAK0002570
+GWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA[nl]AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA[nl]AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHH!?!?
+KSK/KSK0000410
+I-Ichijo!?
+SYU/SYU0000210
+Hey, Raku!? What's wrong!?
+RAK/RAK0002580
+(Sorry, I honestly have no clue what he says here.[nl] It's super muffled, but I think he's dying.[nl]                                                            -TN.)
+KSK/KSK0000420
+Ichijo! Have some water!
+RAK/RAK0002590
+Gaasp!
+CTG/CTG0003870
+Umm....perhaps....they weren't quite to your liking?
+RAK/RAK0002600
+"Not to my liking" doesn't even begin to describe them![nl]What the hell did you even put in these cookies!?
+CTG/CTG0003880
+Well, some rock salt, black pepper, some horseradish,[nl]a soda, and a little mustard....
+RAK/RAK0002610
+HUUUUH!?
+CTG/CTG0003890
+Hehe, I even threw in a secret ingredient.
+RAK/RAK0002620
+The heck you mean, secret ingredient!?[nl]That's the last thing a beginner cook[nl]should be putting in there!
+RAK/RAK0002630
+Heck, at this point, it isn't even food!
+RAK/RAK0002640
+(A human has their limits, after all....)
+RAK/RAK0002650
+Sorry, Chitoge. I really don't think I can eat this....
+CTG/CTG0003900
+Huuuuh!?
+CTG/CTG0003910
+W-What? You're saying the cookies I made are so bad[nl]that they're completely inedible!?
+RAK/RAK0002660
+Well, that about sums it up....
+CTG/CTG0003920
+That's terrible...! What the hell!?
+CTG/CTG0003930
+Hmph! I've had enough!
+RAK/RAK0002670
+H-Hey, Chitoge, where are you going!?[nl]Cooking class isn't even over yet!
+CTG/CTG0003940
+Shut up! Leave me alone, you stupid bean sprout![nl]Why don't you just stay here and eat Marika's cookies[nl]and mind your own business!?
+@ＨＰ－１０
+RAK/RAK0002680
+Owww....!
+RAK/RAK0002690
+Jeez, what's with her....?[nl]I don't understand her.
+SYU/SYU0000220
+Hey, Raku. Don't you think you went a bit far?
+RAK/RAK0002700
+RUR/RUR0000320
+Yes. Even if you were just being honest,[nl]even Chitoge would get mad at you for cutting her down[nl]like you just did.
+RAK/RAK0002710
+R-Really....?
+KSK/KSK0000430
+I....kind of understand how she feels.
+KSK/KSK0000440
+I think, since she worked so hard on her cookies,[nl]that she wanted you to recognize her efforts,[nl]even just a little bit.
+RAK/RAK0002720
+....!
+RAK/RAK0002730
+Do you think I hurt her feelings....?
+SSR/SSR0000090
+If you think so, why don't you go see the mistress now?
+SSR/SSR0000100
+Just like her lover should.
+MRK/MRK0000200
+Well, if you ask me, you should stay here[nl]and drool over my cookies some more....
+SSR/SSR0000110
+Hey, don't butt in.
+RAK/RAK0002740
+Alright. Anyway, I'm going to go find Chitoge[nl]and talk this out.
+KSK/KSK0000450
+Okay. I'll tell the teacher you both had to[nl]go do something urgent.
+RAK/RAK0002750
+Thanks, Onodera. I appreciate it.
+RAK/RAK0002760
+See ya....!
+@フェードアウト
+CTG/CTG0003950
+Hahhhh. That didn't work after all.
+CTG/CTG0003960
+He likes animals, so I went to the trouble of[nl]making them in the shape of an animal....
+CTG/CTG0003970
+But they were too squishy to be able to tell....
+CTG/CTG0003980
+Jeez, what a stupid bean sprout.[nl]He just doesn't get how I feel about what I make.
+CTG/CTG0003990
+....Hey, Ta-kun. You get how I'm feeling, right?
+SNK/SNK0000060
+Hisss.
+CTG/CTG0004000
+....Good boy. It's too bad about the leftover cookies,[nl]but here. You can have some.
+SNK/SNK0000070
+Kssh.
+CTG/CTG0004010
+Gahh, even the reptiles don't want them.[nl]How bad do you think my cookies are?
+RAK/RAK0002770
+Heeey, Chitoge!
+CTG/CTG0004020
+??
+CTG/CTG0004030
+What, so you followed me all the way out here?
+RAK/RAK0002780
+I want to talk to you about something.
+CTG/CTG0004040
+Hmph. I have nothing to say to you.[nl]Why don't you get back to cooking class?
+RAK/RAK0002790
+(Oh no....she's totally sulking.)
+RAK/RAK0002800
+(Anyway, I'd better get to apologizing[nl] for my outburst.)
+@ctg_004_101
+common.asb
+ctg_004_101.asb

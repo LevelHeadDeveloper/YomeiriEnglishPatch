@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@ctg_004_105
+@expose
+CTG/CTG0004410
+But I don't know the basics of cooking[nl]or anything like that.
+CTG/CTG0004420
+No one really ever showed me....
+@ctg_ana003_success
+CTG/CTG0004430
+Huh? You'll teach me?
+......
+CTG/CTG0004440
+-----
+CTG/CTG0004450
+I-It can't be helped, then....
+CTG/CTG0004460
+If you say so....well....[nl]I suppose I'll go with you.
+@ザクシャ千棘・小
+@ctg_004_201
+@ctg_ana003_failure
+CTG/CTG0004470
+I can't say I'm surprised.[nl]I'm not worth teaching.
+common.asb
+ctg_004_201.asb
