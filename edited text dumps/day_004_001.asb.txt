@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@day_004
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0065380
+Mmm....[nl]Just five more minutes...
+RAK/RAK0065390
+Nghh......Ffffff........
+@フェードアウト
+@背景変更
+RYU/RYU0001570
+Young master, you're still asleep!?[nl]You need to get up!!
+RAK/RAK0065400
+Nfffff.... Huh?
+RYU/RYU0001580
+It's already 8 o'clock, isn't it?
+RAK/RAK0065410
+W-What!?
+RYU/RYU0001590
+Come on then, hurry up and get ready!
+RAK/RAK0065420
+O-Okay! Sorry, Ryuu!
+@イベント終了処理
+common.asb

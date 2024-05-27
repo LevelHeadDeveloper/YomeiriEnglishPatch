@@ -1,0 +1,78 @@
+__main
+@Lclearscreenall
+@ctg_117
+@イベント開始処理
+MSA/MSA0000340
+Maaan, I'm staaaarved.[nl]I'm about to go to club, but I can barely staaand.
+MSB/MSB0000280
+Alright, you can have this omusubi. I bought some at the[nl]cafeteria earlier, but I had some left over.
+MSA/MSA0000350
+Oh, bonito onigiri. Thanks a bunch!
+........
+@ＢＧＭ再生
+RAK/RAK0070490
+Chitoge, how come you're looking at me like that?[nl]Are you hungry again?
+CTG/CTG0018660
+Incorrect.
+@expose
+CTG/CTG0018670
+....I mean, why do you always assume[nl]it's just because I'm hungry?
+RAK/RAK0070500
+Because I'm usually right, right?
+CTG/CTG0018680
+You're wrong more often than you're right![nl]There's something skewed about your perception!
+RAK/RAK0070510
+Alright, what were you thinking?
+CTG/CTG0018690
+Wasn't there something weird about their[nl]conversation just now?
+RAK/RAK0070520
+What?
+CTG/CTG0018700
+Onigiri and omusubi. They were talking[nl]about the same thing, but they used different words.
+RAK/RAK0070530
+Did they? You certainly listened carefully.
+CTG/CTG0018710
+Well, sure.[nl]....So, what's the difference between onigiri and omusubi?
+RAK/RAK0070540
+The difference, huh....[nl]I think they mean the same thing.[nl]I mean, I've never really thought too hard about it before.
+CTG/CTG0018720
+Hmmm, I see.[nl]Japanese does have some other words like that.
+CTG/CTG0018730
+Like "ohagi" and "botamochi"....[nl]They're the same thing, right?
+RAK/RAK0070590
+If you don't know something, it's best to look it up.
+CTG/CTG0018770
+Aaah, is that a dictionary!?[nl]Have you been carrying that around with you!?
+RAK/RAK0070600
+As it happens. Let's see.....ohagi and botamochi.... Ah.
+RAK/RAK0070610
+"Botamochi is made during the spring,[nl] while ohagi is made during the fall."
+CTG/CTG0018780
+Really?
+RAK/RAK0070620
+They're made to look like peonies in the spring,[nl]and bush clover in the fall. But that's just one theory,[nl]and there's a lot of different theories on this.
+@ザクシャ千棘・中
+CTG/CTG0018790
+Hmmmm. Japanese is sure profound.
+CTG/CTG0018800
+It would be interesting to check this kind of thing out.[nl]We should go do that sometime, Raku.
+RAK/RAK0070630
+Yeah, sure.
+RAK/RAK0070550
+I think the name of it changes depending on where it's[nl]made and what time of year it is. I'm not quite sure of[nl]the details, though.
+RAK/RAK0070560
+You sure seem to have a lot on your mind.
+@ザクシャ千棘・小
+CTG/CTG0018740
+Hehe, well, I am a returnee, after all.[nl]I'm very aware of language!
+RAK/RAK0070570
+Crude, though.
+CTG/CTG0018750
+....Did you say something?
+RAK/RAK0070580
+No.
+@expose2
+CTG/CTG0018760
+But honestly, Japanese is so weird....
+@イベント終了処理
+common.asb

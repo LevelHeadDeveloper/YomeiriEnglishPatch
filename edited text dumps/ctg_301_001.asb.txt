@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@ctg_301
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0021340
+Oooh, so *this* is a rotating sushi restaurant![nl]The sushi plates really are rotating.[nl]It's like an amusement park!
+RAK/RAK0073130
+Don't get so excited. It's not an amusement park....[nl]But it is an interesting place.
+@背景変更
+RAK/RAK0073140
+Out of curiosity, have you ever eaten sushi?
+CTG/CTG0021350
+Hehe, don't be an idiot.[nl]I've had both the black kind and the white kind of sushi.
+RAK/RAK0073150
+Huh? Black kind? White kind?
+CTG/CTG0021360
+Look. There's different kinds of sushi.[nl]The black ones have the seaweed on the outside[nl]and the white ones have it on the inside.
+RAK/RAK0073160
+Oh, so that's what you meant.[nl]Like california rolls or something.....right?[nl]I know a lot of American sushi doesn't show the seaweed.
+CTG/CTG0021370
+I like both kinds, though. My dad used to take me out for it[nl]back over there too. Sushi is seriously delicious!
+RAK/RAK0073170
+(A gang boss would probably opt for a non-rotating[nl] sushi restaurant. I guess I can understand that....)
+CTG/CTG0021380
+Hey, hey. Well? How would I eat this?
+RAK/RAK0073180
+Take a plate of whatever you like. Like this.
+CTG/CTG0021390
+Oooh, interesting!
+CTG/CTG0021400
+Uhhhh, okay....[nl]Let's go with this!
+CTG/CTG0021410
+....Nom.....nom....
+CTG/CTG0021420
+Hm? Is this really sea urchin?
+RAK/RAK0073200
+Yeah. It's definitely sea urchin.[nl]Why do you look so disgruntled?
+CTG/CTG0021430
+This is the worst sushi I have ever had![nl]It's all mushy.... Are the ingredients old!?
+RAK/RAK0073210
+Hey, don't yell that so loud![nl]So far you've only ever had super-high-grade sushi[nl]at sushi restaurants!
+CTG/CTG0021440
+Huh, so that was super-high-grade sushi!?[nl]Even though they didn't write the price on it!?
+RAK/RAK0073220
+That's why I'm saying it was high-grade![nl]Restaurants like this one that write the prices are the ones[nl]where most people go!
+CTG/CTG0021450
+....Huh. I see.
+RAK/RAK0073230
+Yeah! It's not at all fair to put that stuff on the same[nl]playing field as 100-yen-per-plate rotating sushi.
+CTG/CTG0021460
+Guhhh.....[nl]So, are there any rotating sushi restaurants[nl]with exclusively high-grade stuff?
+RAK/RAK0073240
+There are, but not here.[nl]So stop complaining and eat.
+CTG/CTG0021470
+Mghh...
+CTG/CTG0021480
+Hmph! W-Well, alright. If I just eat it,[nl]I won't have anything to complain about, right?
+@時間経過演出
+CTG/CTG0021490
+Nom nom nom nom....
+CTG/CTG0021500
+You know, I think this stuff is growing on me.[nl]This might be surprisingly tasty!
+@ザクシャ千棘・小
+RAK/RAK0073250
+Okay....that's fine, but....
+CHD/CHD0000150
+Mommmmm![nl]The sushi's stopped comiiiiing!
+RAK/RAK0073260
+You could stand to slow down a bit.
+@イベント終了処理
+common.asb

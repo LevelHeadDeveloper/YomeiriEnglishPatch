@@ -1,0 +1,19 @@
+__main
+@Lclearscreenall
+@day_008
+@イベント開始処理
+@定型ＢＧＭ再生
+RYU/RYU0001850
+Young master,[nl]my apologies if I interrupted. I'll let you work.
+RAK/RAK0067430
+Oh, good night then, Ryuu.
+RYU/RYU0001860
+You're not going to bed, young master?[nl]If you spend all night studying, it might[nl]impact your health, ya know?
+RAK/RAK0067440
+It's fine. I'll go to sleep in a bit.
+RYU/RYU0001870
+Okay.[nl]....Well, good night!
+RAK/RAK0067450
+(Alright. Time to work even harder!)
+@イベント終了処理
+common.asb

@@ -1,0 +1,66 @@
+__main
+@Lclearscreenall
+@ctg_116
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0013460
+Hey, Raku, have you heard this one yet?
+SYU/SYU0013470
+It's one of Bonyari High's Seven Wonders. They say if you[nl]open the door to the rooftop the moment the sun sets, you[nl]see a vision of the one you're gonna marry behind the door!
+RAK/RAK0070410
+That sounds unbelievably fishy.
+CTG/CTG0018620
+Yeah, yeaaaah, I heard about that, too!
+KSK/KSK0017820
+Me too. It's a very popular story.
+SSR/SSR0020880
+But the details are a little different from what I heard.
+SSR/SSR0020890
+I believe it was that if you're waiting on the rooftop[nl]at the moment the sun sets, the man you're destined for will[nl]open the door and come out, or something like that.
+SYU/SYU0013480
+Oh, is that right?
+MRK/MRK0011760
+That's the version of the story the girls tell.[nl]Are you saying that the boy version and the girl version have[nl]slightly different content?
+RAK/RAK0070420
+Well, the Seven Wonders are just rumors,[nl]and half-baked ones at that.[nl]Sounds pretty dubious, doesn't it?
+@expose
+CTG/CTG0018630
+Jeez, you've got no soul.
+MRK/MRK0011770
+Well, Raku dearest, shall you and I go verify this rumor?
+RAK/RAK0070430
+Huh? No, I don't really....
+CTG/CTG0018640
+You don't have to go with her, darling.[nl]You wouldn't see a vision of Marika anyway,[nl]even if the rumors are true.
+MRK/MRK0011780
+Oh, do tell, Kirisaki. You're saying that he will see a vision of[nl]*you* when he opens the door, rather than me?
+CTG/CTG0018650
+W-Well....[nl]I didn't say anything about me!
+KSK/KSK0017830
+Hey, hey, both of you.
+RAK/RAK0070440
+Onodera, are....you interested?[nl]In, like, seeing who you're going to marry....
+KSK/KSK0017840
+Huh, me!? U-Ummmm....
+KSK/KSK0017850
+Well....[nl]I'm about as interested as anyone else....I guess.
+RAK/RAK0070450
+I-I see.
+RAK/RAK0070460
+(The one Onodera's going to marry....[nl] Mmnnghhh....)
+SSR/SSR0020900
+The one Raku Ichijo's going to marry....
+RAK/RAK0070470
+Hm? What is it, Tsugumi?
+SSR/SSR0020910
+N-None of your business! Forget it....
+SYU/SYU0013490
+Ahh, but....
+SYU/SYU0013500
+It's entirely possible that when you open the door....[nl]There won't be anyone out there.[nl]Some people never get married.
+RAK/RAK0070480
+That's scary to think about.[nl]Better not carelessly try it.
+MRK/MRK0011790
+....I guess so.
+@イベント終了処理
+common.asb

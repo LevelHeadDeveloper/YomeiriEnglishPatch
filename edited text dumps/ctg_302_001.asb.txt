@@ -1,0 +1,120 @@
+__main
+@Lclearscreenall
+@ctg_302
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0073270
+Alright, I think that's enough for today's date.[nl]Let's head home.
+CTG/CTG0021510
+Huh....? We're going home already?[nl]It's been less than an hour since we met up.
+RAK/RAK0073280
+Unlike I thought, Claude and the others aren't[nl]watching today. Wouldn't it be nice if we could spend[nl]a day like this on our own, however we wanted?
+RAK/RAK0073300
+Or is there something else you wanted to do?
+@expose
+CTG/CTG0021520
+No, not really....[nl]I don't have anything in particular I wanted to do.
+CTG/CTG0021530
+....W-Well then, let's talk about our next date![nl]We could go someplace we've never been before,[nl]why don't we!?
+RAK/RAK0073310
+Let's see. I've got an informational magazine,[nl]so I'll think about it.
+@ザクシャ千棘・中
+CTG/CTG0021540
+Isn't that the one I gave you?[nl]Hmmmm, at least you read it.
+RAK/RAK0073320
+More or less, at least.
+CTG/CTG0021550
+Even so, today's date felt kinda sloppy.
+RAK/RAK0073330
+A plan is just a plan.[nl]It doesn't mean it'll be carried out to the letter.
+CTG/CTG0021560
+....You just didn't make one in the first place, did you.
+@時間経過演出
+RAK/RAK0073340
+We talked a lot about it, but....[nl]we didn't end up deciding anything.
+CTG/CTG0021570
+Yeah. It's pretty late in the evening now,[nl]and I'm kinda hungry.
+RAK/RAK0073350
+Do you wanna buy some food?[nl]How about some of the ningyoyaki over there?
+CTG/CTG0021580
+Ningyoyaki?[nl]They actually bake dolls?[nl]#fs{12}TN: Ningyoyaki literally translates to "baked dolls".#fs{}
+RAK/RAK0073360
+Ah....so you don't know.
+RAK/RAK0073380
+Hang on a sec.
+RAK/RAK0073390
+Excuse me. One, please. Custard flavor.
+RAK/RAK0073400
+Here. This is a ningyoyaki.
+@ザクシャ千棘・小
+CTG/CTG0021600
+Oooh, it really does look like a doll.[nl]It's soft and crumbly.... Is this a pancake!?
+RAK/RAK0073410
+Well, sort of.
+RAK/RAK0073420
+These are typically filled with red bean paste,[nl]but you like custard, so I got you a custard one.
+CTG/CTG0021630
+Nom.
+CTG/CTG0021640
+Mmm! It's so warm and delicious!
+RAK/RAK0073440
+That's good.
+CTG/CTG0021650
+Oh, right! Wait just a second!
+CTG/CTG0021660
+Here ya go. This one's yours!
+RAK/RAK0073450
+Huh!? You're treating me?[nl]That's unusual.
+CTG/CTG0021670
+It's not a treat, it's splitting the bill.[nl]You bought me mine, after all.
+RAK/RAK0073460
+And it's the red bean paste kind.[nl]Thanks, Chitoge.
+CTG/CTG0021680
+....Nom.
+CTG/CTG0021690
+Mhm, it's pretty fun to grab a bite out occasionally.
+RAK/RAK0073470
+....Hey, Chitoge, I was thinking,[nl]maybe for one of our next scheduled dates,[nl]we could go on, like, a food tour?
+CTG/CTG0021700
+A food tour, huh....[nl]I was hoping for something a tad more romantic....
+CTG/CTG0021710
+Well, whatever.[nl]Sounds fun, let's do it!
+RAK/RAK0073480
+Sounds good to me. [nl]Alright, so what kinds of places haven't you been,[nl]for example?
+CTG/CTG0021720
+For example....!?[nl]Let's see....ummmm....for exaaaample....
+CTG/CTG0021730
+Like overseas!?
+RAK/RAK0073490
+Huh!? Overseasss!?
+CTG/CTG0021740
+O-Oh. Bad idea?
+RAK/RAK0073500
+No, it's not that it was a bad idea....[nl]It's just that we can't make that a day trip,[nl]and we don't need to go that far.
+CTG/CTG0021750
+Okay, what about you?[nl]Where do you want to go?
+RAK/RAK0073510
+I'm fine with anywhere.[nl]All that matters is that we go on our scheduled dates.
+CTG/CTG0021760
+-----
+RAK/RAK0073520
+...Hm? Why do you look so discontented?
+CTG/CTG0021770
+....You really don't get it, do you....
+RAK/RAK0073530
+Don't get what?
+CTG/CTG0021780
+I mean, our date today didn't feel like a real date at all![nl]You could stand to do more boyfriendy things!
+RAK/RAK0073540
+Boyfriendy things? Well, but....[nl]You really want me to do that?
+@expose2
+CTG/CTG0021790
+I-I-I don't....![nl]But, well....since it's a date and all, it'd certainly be nice!
+CTG/CTG0021800
+....Well, I guess I shouldn't have expected that from you.[nl]Sorry, never mind! Don't even worry about it now.
+RAK/RAK0073550
+(Her expectations for me are that low....?)
+@イベント終了処理
+@ctg_206
+common.asb
+ctg_206_001.asb

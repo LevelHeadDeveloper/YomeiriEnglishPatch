@@ -1,0 +1,110 @@
+__main
+@Lclearscreenall
+@ctg_120
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0019360
+Hey, everyone! C'mere, quick!
+KSK/KSK0017890
+What is it, Chitoge?
+CTG/CTG0019370
+Hehehehe.[nl]Actually, I just got this.
+RAK/RAK0071070
+...Oh, a camera.[nl]Looks pretty good quality.
+@expose
+CTG/CTG0019380
+It's the best selling one on the market right now![nl]Since we're all here, I wanna have the first picture[nl]be of all of us.
+SSR/SSR0020970
+Well then, I shall take the picture for you.[nl]Mistress, may I have the camera?
+CTG/CTG0019390
+What are you talking about?[nl]You're gonna be in there, too, Tsugumi!
+SSR/SSR0020980
+Huh? I am?
+CTG/CTG0019400
+Of course! You too, Kosaki!
+KSK/KSK0017900
+Okay!
+CTG/CTG0019410
+Marika, you get in here, too.
+MRK/MRK0011850
+Oh. Can I really?
+MRK/MRK0011860
+It cannot be helped, then.[nl]If you really insist, I suppose I'll join you all.
+KSK/KSK0017910
+Ummm, how should we pose for this?
+SSR/SSR0020990
+I'm sorry, Mistress. I'm not exactly used to[nl]this kind of thing.... Is it alright if I just stand here!?
+CTG/CTG0019420
+....Go with whatever you want.
+RAK/RAK0071080
+Alright, then I'll take the picture.[nl]Taking it yourself with this many people would be difficult.
+CTG/CTG0019430
+No, it's fine. I've always wanted to take a picture myself.[nl]So you get in here too.
+MRK/MRK0011870
+In that case, please stand next to me, Raku dearest!
+CTG/CTG0019440
+Hey, Marika! Don't just casually push me out of the way!
+@expose2
+MRK/MRK0011880
+Huh? I thought we were going with whatever we wanted?
+CTG/CTG0019450
+That's not what I meant by that at all![nl]Get outta the way, you!
+MRK/MRK0011890
+I cannot do that anymore.[nl]Would you be so kind as to refrain from shoving me?
+CTG/CTG0019460
+Mgggh.... Ugh, jeez, fine! This is too much of a[nl]pain in the butt, so we'll do Darling later![nl]I'm taking the shot now!
+RAK/RAK0071090
+(Huhh!?)
+CTG/CTG0019470
+Alright, say "cheese"!
+CTG/CTG0019480
+....Alright, I got it![nl]Let's see, let's see!
+@背景変更
+KSK/KSK0017920
+Whoa, it's perfect! You're so good at this, Chitoge.
+CTG/CTG0019490
+Well, duh! I spent a lot of time doing research for this, like[nl]practicing different angles and good ways to hold a camera[nl]so that I could get a good shot myself, all for this moment!!
+RAK/RAK0071100
+You were practicing that....
+CTG/CTG0019500
+Is there a problem?
+MRK/MRK0011900
+Okay, Raku dearest.[nl]Let's get a picture toge--
+CTG/CTG0019510
+N-No way![nl]Darling is, ummm....my boyfriend. So if there's gonna be[nl]a couple shot, it's gonna be with me first!
+RAK/RAK0071110
+Huh!?
+MRK/MRK0011910
+....Come on, you are so narrow-minded.
+CTG/CTG0019520
+Say what you want.
+CTG/CTG0019530
+....Anyway, come on, Darling![nl]Come on over here so we can get this over with!
+Get a couple shot with Chitoge
+It's too embarrassing.
+CTG/CTG0019540
+A-Alright then....let's do it!
+CTG/CTG0019550
+'K, that'll do!
+RAK/RAK0071120
+Huh!? You're not gonna show me!?
+CTG/CTG0019560
+I don't really need to show you, right?[nl]I look cute in it.
+RAK/RAK0071130
+But what about....[nl]Well, whatever.
+........
+@ザクシャ千棘・中
+CTG/CTG0019570
+....Hehe.
+RAK/RAK0071140
+No, I think I'll pass.
+CTG/CTG0019580
+Huh....?
+RAK/RAK0071150
+Couple shots are pretty embarrassing,[nl]and no one should be forced to take them, right?
+CTG/CTG0019590
+R-Right....[nl]Fine, then.
+CTG/CTG0019600
+....Idiot.
+@イベント終了処理
+common.asb

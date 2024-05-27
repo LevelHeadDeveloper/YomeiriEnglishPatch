@@ -1,0 +1,107 @@
+__main
+@Lclearscreenall
+@ctg_114
+@イベント開始処理
+RAK/RAK0069930
+Alright, sweeping's all finished.[nl]Now to wipe down the floor and....
+RAK/RAK0069940
+Aaaaagh, the floor's all soaked!?[nl]C-Chitoge!? What are you doing!?
+@ＢＧＭ再生
+CTG/CTG0018180
+Um, I'm wiping down the floor?
+RAK/RAK0069950
+You've got the whole Pacific Ocean on that rag![nl]Wring it out better!
+@expose
+CTG/CTG0018190
+Ugh, jeez, you're so nitpicky about these details.[nl]You need to lighten up or you'll be too stressed all the time.
+RAK/RAK0069960
+It's hard *not* to be stressed when[nl]the floor's turning into a lake.
+CTG/CTG0018200
+....What.....ever.....
+RAK/RAK0069970
+Huh?
+CTG/CTG0018210
+I'm saying I don't know how to wring out a rag....
+RAK/RAK0069980
+Huh, really!? Are you joking!?
+CTG/CTG0018220
+I-I can't help it![nl]Back in school in America, we didn't have to clean,[nl]and at home the guys do everything....
+RAK/RAK0069990
+(Hasn't she even cleaned anything in her room....[nl] Wait, let's not jab at her....)
+Provoke her into doing it
+Teach her how
+RAK/RAK0070000
+Hey, hey, Chitoge. Over here, wringing out a rag[nl]is something even an elementary schooler can do.[nl]Do you think this might be a biiiit of a you problem?
+CTG/CTG0018230
+Shut up! All I gotta do is squeeze it!
+CTG/CTG0018240
+Nggggghhh....[nl]Here, how's that?
+RAK/RAK0070010
+Now you're just squishing it.[nl]You should do more of a combined twist and squeeze.
+CTG/CTG0018250
+....L-Like this?
+RAK/RAK0070020
+Right. Perfect.
+CTG/CTG0018260
+I see. So I should have done it like *this*.
+@ＨＰ－２０
+RAK/RAK0070030
+Owwwww![nl]S-Stop wringing my arm!
+CTG/CTG0018270
+Hmph. That's what you get for comparing me[nl]to an elementary schooler.
+RAK/RAK0070040
+(You went for the "rag squeeze"....[nl] You really do have the mind of an elementary schooler.)
+RAK/RAK0070050
+Keep your arms at your sides, and use them to squeeze,[nl]not just your hands....
+CTG/CTG0018280
+L-Like this....?
+RAK/RAK0070060
+Not at all! Why are you squeezing it, wring it!
+CTG/CTG0018290
+T-That's what I'm doing! How is that any different!?
+RAK/RAK0070070
+Man, you're hopeless![nl]Stay put for a sec.
+@expose2
+CTG/CTG0018300
+Huh? W-Wait a second!
+@背景変更
+CTG/CTG0018310
+W-What are you doing!? You idiot!
+RAK/RAK0070080
+Don't move![nl]I won't be able to show you how to wring this out!
+CTG/CTG0018320
+Y-You can just use your words and tell me how![nl]Why do you need to go behind me!?
+RAK/RAK0070090
+Because I tried telling you and it didn't work![nl]Here, shut up and hold the rag.
+CTG/CTG0018330
+Ghh...![nl]F-Fine....
+RAK/RAK0070100
+Alright. You hold it like this, then wring it like this.....
+CTG/CTG0018340
+Oh, amazing....[nl]It's working....
+RAK/RAK0070110
+You don't need to put in quite so much effort.[nl]Just remember how this feels, and try doing it yourself, okay?
+CTG/CTG0018350
+O-Okay.
+CTG/CTG0018360
+....Ngggggh....
+RAK/RAK0070120
+Oh, looks like you've got it.
+@ザクシャ千棘・小
+CTG/CTG0018370
+I really didn't need a ton of power.
+RAK/RAK0070130
+Pretty easy once you know how, right?
+RAK/RAK0070140
+Alright, you start wiping from that end,[nl]and I'll start from the other end.
+CTG/CTG0018380
+O.K.!
+@時間経過演出
+CTG/CTG0018390
+...Alright! We're done![nl]Amazing! It's so clean!
+RAK/RAK0070150
+Nice, isn't it?[nl]You should also clean your own room occasionally, okay?
+CTG/CTG0018400
+....I-I do that. Rude.
+@イベント終了処理
+common.asb

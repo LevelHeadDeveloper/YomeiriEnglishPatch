@@ -1,0 +1,49 @@
+__main
+@Lclearscreenall
+@ctg_214
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0052380
+Next period is P.E.[nl]I'd better hurry up and change.....
+@背景変更
+CTG/CTG0022630
+Guess whooo!?
+RAK/RAK0052390
+Aaagh!
+CTG/CTG0022640
+RAK/RAK0052400
+....W-Who, of course, besides....
+Chitoge?
+Onodera?
+Tachibana?
+Tsugumi?
+RAK/RAK0074610
+C-Chitoge, right?
+@ザクシャ千棘・大
+CTG/CTG0022650
+Corrrrrect! ♪[nl]I guess I can stop wondering what I'd do[nl]if you guessed wrong.
+RAK/RAK0074620
+(Phew....[nl] Looks like that guess saved my life....
+RAK/RAK0060180
+I know. Onodera, right?
+CTG/CTG0022660
+----
+RAK/RAK0074630
+Gh, Chitoge!?
+CTG/CTG0022670
+I'm *so* sorry I'm not Kosaki.
+RAK/RAK0052480
+Tachibana, if this is some kind of prank--!
+CTG/CTG0022680
+I'm *so* sorry I'm not Marika.
+RAK/RAK0052490
+T-Tsugumi? I'll bet you're trying to attack from behind!
+CTG/CTG0022690
+I'm *so* sorry I'm not Tsugumi.
+RAK/RAK0074640
+S-Sorry.... I just didn't expect you of all people[nl]to do something like that.
+@expose
+CTG/CTG0022700
+What, so I'd never do something as girly as that?[nl]Hmph. Stupid bean sprout.
+@イベント終了処理
+common.asb

@@ -1,0 +1,127 @@
+__main
+@Lclearscreenall
+@ctg_119
+@イベント開始処理
+RAK/RAK0070800
+Alllright, what should I make for dinner tonight....
+RAK/RAK0070810
+Hm? Is that Chitoge? Hey, Chito--
+CTG/CTG0019070
+Kyaaah!?
+@画面揺らし
+RAK/RAK0070820
+Whaaa!?
+@ＢＧＭ再生
+CTG/CTG0019080
+N-Ngghh....[nl]Owwww....
+RAK/RAK0070830
+Hey, Chitoge! You alright!?
+CTG/CTG0019090
+R-Raku!?
+RAK/RAK0070840
+You took quite the fall just now!
+CTG/CTG0019100
+O-Oh no. Did you see that....?
+RAK/RAK0070850
+Yeah! That doesn't matter, just answer me![nl]Did you hit your head or anything?
+@expose
+CTG/CTG0019110
+I-I didn't hit my head....[nl]I just fell on my butt....
+RAK/RAK0070860
+I see.... That's a relief.
+CTG/CTG0019120
+By any chance....were you worried about me?
+Of course I am!
+O-Of course not!
+RAK/RAK0070870
+Of course I am!
+@ザクシャ千棘・小
+CTG/CTG0019130
+Ah....
+RAK/RAK0070880
+Jeez, dude....[nl]Try not to fall down outta nowhere anymore.
+CTG/CTG0019140
+S-Sorry....
+CTG/CTG0019150
+But I didn't just fall down out of nowhere.[nl]I stepped on something and I fe--
+RAK/RAK0070890
+I-I wasn't particularly worried about you....
+CTG/CTG0019160
+Hmmm, I see.
+RAK/RAK0070900
+....But even so, you should try not to fall down[nl]outta nowhere like that. It could startle you.
+CTG/CTG0019170
+Rude. I didn't just fall down out of nowhere.[nl]I stepped on something and I fell--
+@ＢＧＭ停止
+CTG/CTG0019180
+do....wn....
+RAK/RAK0070910
+Don't tell me....[nl]Did you slip on a banana peel....?
+CTG/CTG0019190
+----!
+RAK/RAK0070920
+T-That's so cliche....[nl]Pfft. Hehe....
+CTG/CTG0019200
+H-Hey, you! Forget everything you've seen here![nl]Or I'll hit you so hard I'll erase them myself!
+RAK/RAK0070930
+H-Hey, calm down![nl]There's no way I can just up and forget!
+@expose2
+CTG/CTG0019210
+Uugh, this sucks![nl]I haven't been even a little bit lucky since this morning?
+RAK/RAK0070940
+....I see. How exactly have you been unlucky?
+CTG/CTG0019220
+You won't laugh?
+RAK/RAK0070950
+Yeah, I won't.
+RAK/RAK0070960
+(....Maybe.)
+CTG/CTG0019230
+A-Alright....
+CTG/CTG0019240
+First of all, I woke up this morning and....[nl]T-There was a brown thing in my room!
+RAK/RAK0070970
+A brown thing? What was it?
+CTG/CTG0019250
+A-A bug....[nl]Nghh, I don't even wanna say its name,[nl]but it's that nine-letter one that starts with C!
+RAK/RAK0070980
+Oh, a cockroach.[nl]I didn't take you for the type to have trouble with bugs.
+CTG/CTG0019260
+Don't say its name, I'll remember it!
+CTG/CTG0019270
+A-Anyway....I screamed, and Claude and the others[nl]immediately rushed in and killed it....but in the process,[nl]the lunch I had made ended up spilled all over the floor.
+RAK/RAK0070990
+Oh....sounds like a disaster....
+CTG/CTG0019280
+After that, all kinds of little mishaps happened.
+CTG/CTG0019290
+I brought the wrong textbooks by mistake,[nl]and when I looked in my wallet, it was empty....
+RAK/RAK0071000
+(Those two can be chalked up to your mistakes[nl] more than simple misfortune....)
+CTG/CTG0019300
+And to top it all off, that banana peel just now.[nl]Aah, today's seriously not my lucky day!
+RAK/RAK0071010
+Hahh.... Good grief.
+RAK/RAK0071020
+....Here, you can have this.
+CTG/CTG0019310
+....Huh?[nl]That came outta nowhere.
+RAK/RAK0071030
+Well, I mean....[nl]It's nice to have at least *something* good happen, right?
+CTG/CTG0019320
+I-It's not so simple that I can feel good about[nl]something like this.
+RAK/RAK0071040
+Oh, I see....[nl]Sorry about that.
+CTG/CTG0019330
+....Kidding.
+RAK/RAK0071050
+Huh?
+@ザクシャ千棘・小
+CTG/CTG0019340
+This is a good thing.[nl].....Just a little bit.
+RAK/RAK0071060
+Well, I wouldn't worry too much about it.[nl]Some days are just like that.
+CTG/CTG0019350
+Ngh, you don't sound like you care.....[nl]Well, that can't really be helped, can it....
+@イベント終了処理
+common.asb

@@ -1,0 +1,19 @@
+__main
+@Lclearscreenall
+@ctg_212
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0074530
+(Mghhh.... I've taken all kinds of damage,[nl] and my joints are a little sore....)
+CTG/CTG0022570
+Oh, Raku. You don't look so good, are you feeling alright?
+RAK/RAK0074540
+Hm? Yeah....maybe.
+@ザクシャ千棘・小
+@expose
+CTG/CTG0022580
+If you're not feeling well,[nl]take it easy and try to get some rest, alright?
+RAK/RAK0074550
+Okay, thanks
+@イベント終了処理
+common.asb

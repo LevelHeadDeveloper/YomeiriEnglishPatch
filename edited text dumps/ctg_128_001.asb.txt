@@ -1,0 +1,76 @@
+__main
+@Lclearscreenall
+@ctg_128
+@イベント開始処理
+CTG/CTG0020740
+Not here, not here![nl]Where the hell did it go already!?
+RAK/RAK0072320
+Looking for something?
+@expose
+CTG/CTG0020750
+Yeah, maybe a little....
+CTG/CTG0020760
+Hmmm, I can't find it.[nl]Though I'm absolutely certain I put it in my bag....!
+RAK/RAK0072330
+What is it? I can help you find it.
+CTG/CTG0020770
+N-No thanks. It's none of your business.[nl]Are you just looking for an excuse to rifle through[nl]a girl's bag!? Pervert!
+RAK/RAK0072340
+Wha.... Don't talk like that![nl]I'm helping you out of the kindness of my heart!
+CTG/CTG0020780
+That may be so, but I kinda....don't want your help.
+RAK/RAK0072350
+Really? But don't you also want to find that thing?
+CTG/CTG0020790
+W-Well, that's true, but....
+CTG/CTG0020800
+Aaah!
+CTG/CTG0020810
+Aaagh!? My bag spilled!?
+RAK/RAK0072360
+Ohhhh, everything's all over the place.
+CTG/CTG0020820
+Kyaaah!? W-W-W-W-W-W-Waaaait![nl]You don't have to touch anything!!
+RAK/RAK0072370
+But you know what they say,[nl]two is better than one--
+RAK/RAK0072380
+(Textbooks, reference books, notebooks,[nl]an accessory case, lots of sweets, and....huh?)
+RAK/RAK0072395
+(It's a "Love Charm"....right?)
+@ＢＧＭ再生
+CTG/CTG0020830
+Fwaaaaaaaahhhh!
+CTG/CTG0020840
+....D-Did you....see?
+Saw
+Didn't see
+RAK/RAK0072400
+Ummm....I did see.....
+CTG/CTG0020850
+Kyaaaaaaaaaahhh![nl]Y-You....pervert! Disgusting!
+@ＨＰ－５０
+RAK/RAK0072410
+Owwww! What'd I do!?
+CTG/CTG0020860
+You didn't see anything....got that!?
+RAK/RAK0072420
+Y-Yeah....
+RAK/RAK0072430
+So? Didja find what you were looking for?
+CTG/CTG0020870
+Yeah, thanks to you!
+RAK/RAK0072440
+Hmmm. Good to hear.
+RAK/RAK0072450
+No, I-I don't think I saw anything.
+CTG/CTG0020880
+Really?
+RAK/RAK0072460
+Yeah, really and truly!
+CTG/CTG0020890
+....Hmmmm, I-I see....[nl]That's good....
+@ザクシャ千棘・小
+CTG/CTG0020900
+W-Well, thanks for your help....
+@イベント終了処理
+common.asb
