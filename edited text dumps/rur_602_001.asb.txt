@@ -1,0 +1,103 @@
+__main
+@Lclearscreenall
+@rur_602
+@ヌキアシ終了処理
+@rur_602_failure
+@イベント開始処理
+RAK/RAK0083160
+....No good![nl]Those guys are guarding too well,[nl]we can't get to Shuu!
+RUR/RUR0015980
+What are you whining about?[nl]If you're Maiko's friend, you should take responsibility[nl]to the very end.
+RUR/RUR0015990
+Otherwise, everything you've done so far....[nl]will be announced in a school-wide broadcast,[nl]including the fact that you were complicit.
+RAK/RAK0083170
+u-U-Understood!
+RAK/RAK0083180
+(Sorry, Shuu. I can't protect you any longer.[nl] For the sake of my future life,[nl] I have to help Ruri punish you once and for all!)
+RUR/RUR0016000
+We'll keep looking until we find him!
+@ヌキアシリトライ処理
+@rur_602_success
+@イベント開始処理
+RAK/RAK0031570
+Found you, Shuu!
+SYU/SYU0004280
+Oh, Raku----
+SYU/SYU0004290
+GAAH, RURI!?
+SYU/SYU0004300
+I see, so everything's been discovered....
+RUR/RUR0005300
+I've finally cornered you, Maiko.[nl]Give up and hand over the photo album.
+SYU/SYU0004310
+I can't do that, Ruri.
+SYU/SYU0004320
+This photo book is the culmination of my passion.[nl]I can't give up on it....
+@expose
+SYU/SYU0004330
+Isn't that right, guys?
+MSA/MSA0000090
+T-That's right!
+MSC/MSC0000040
+No matter how much Miyamoto asks us,[nl]we aren't giving up our soul's--
+RUR/RUR0005310
+Huh....?[nl]Did I say you could talk, small fry!?
+@expose2
+MSA/MSA0000100G
+E-Eeeeek!!
+RAK/RAK0031580
+(Amazing....[nl] All she had to do was glare at them[nl] and they left....!)
+@背景変更
+RUR/RUR0005320
+Well, Maiko, this is checkmate.[nl]Hand over those booklets and turn yourself in.
+RAK/RAK0031590
+That's right, Shuu. All your customers ran away[nl]because they're scared of Ruri. For your own safety,[nl]you'd better turn yourself in.
+......
+SYU/SYU0004340
+Heh....Heheh......
+SYU/SYU0004350
+Hehahahaha.....
+@ＢＧＭ再生
+SYU/SYU0004360
+Gyahahahaha!
+RUR/RUR0005330
+What's so funny?[nl]You're in a rather desparate situation right now.
+SYU/SYU0004370
+No, I just realized how blind I've been.
+RAK/RAK0031600
+Blind? What do you mean?
+SYU/SYU0004380
+I mean that the ultimate moe I was looking for[nl]was right under my nose the whole time!
+SYU/SYU0004390
+The power to find and enter the black market,[nl]evading the pursuit of numerous men....[nl]And the boldness to intimidate anyone with a single glare....!
+SYU/SYU0004400
+Even I shuddered at the sight....![nl]Maaan, girls with glasses are so cool!
+SYU/SYU0004410
+Thank you, Ruri, for reminding me.[nl]Sure enough, girls with glasses are great!
+SYU/SYU0004420
+Yes! Through Ruri's efforts,[nl]I have been awakened to the fact[nl]that I like girls with glasses!
+SYU/SYU0004430
+I may have lost this time, but one day,[nl]Shuu Maiko and his black market will return!
+SYU/SYU0004440
+And when I return, I will sell a photo book[nl]of only girls with glasses! Of course, Ruri will have to be on the cover!
+RAK/RAK0031610
+What a terribly positive outcome you've dreamed up....
+RUR/RUR0005340
+Well, in a word, it's stupid.
+SYU/SYU0004450
+Banzai for girls with glasses![nl]Viva la glasses girls!
+RUR/RUR0005350
+Let's get this over with.
+@フェードアウト
+RAK/RAK0031620
+You threw not just the photo books, but the camera[nl]and memory cards into the incinerator....[nl]You're relentless.
+RUR/RUR0005360
+No point being lenient if you're not good at it.[nl]Besides, Maiko could stand to reflect on his actions.
+RAK/RAK0031630
+Yeah, I dunno. He isn't exactly the kind of person[nl]who reflects on his actions....
+RUR/RUR0005370
+What he was saying about girls with glasses[nl]kinda bothers me....
+RUR/RUR0005380
+I have a weird, bad feeling about this.
+@イベント終了処理
+common.asb

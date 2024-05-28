@@ -1,0 +1,36 @@
+__main
+@Lclearscreenall
+@rur_006_102
+@expose
+RUR/RUR0006380
+Glasses are also excellent as vision correctors,[nl]which is their intended purpose.
+RUR/RUR0006390
+There are other ways to correct faulty vision,[nl]such as using contacts or getting eye surgery....
+RUR/RUR0006400
+But none of them are as easy or as safe as glasses.[nl]There are no downsides to speak of.
+Downsides of glasses?
+They make ramen harder to eat
+Your shoulders get stiff
+They're expensive
+@ザクシャるり・１
+RUR/RUR0006410
+....Your eyes are good, but you know.
+RUR/RUR0006420
+You're right, I have to admit[nl]that I'm not a big fan of steamy food for that reason.
+@rur_006_201
+RUR/RUR0006430
+But that's such a minor issue.[nl]It's more than made up for by the fact that....
+@rur_006_103
+RUR/RUR0006440
+That doesn't mean it's the glasses.
+RUR/RUR0006450
+Actually, not everyone who wears glasses[nl]has stiff shoulders, right?
+RUR/RUR0006460
+Alright, next....
+RUR/RUR0006470
+So are contacts. It's not just glasses.
+RUR/RUR0006370
+If you can't answer the question,[nl]then there's no inconvenience, right?
+common.asb
+rur_006_201.asb
+rur_006_103.asb

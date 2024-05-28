@@ -1,0 +1,205 @@
+__main
+@Lclearscreenall
+@rur_004
+@イベント開始処理
+@ＢＧＭ再生
+RUR/RUR0003070
+Nom....nom...mmmm...
+@expose
+RUR/RUR0003080
+Oh? This tiramisu is good....
+RUR/RUR0003090
+Yes....this strawberry tart is pretty good, too.
+RUR/RUR0003100
+Waiter. Please add on another Seaonal Set.
+KSK/KSK0008130
+Ruri, you're eating well.[nl]This must be your 10th order so far.
+RUR/RUR0003110
+This is just the beginning.[nl]Sweets are a separate stomach, after all.
+RUR/RUR0003120
+I mean, you aren't gonna eat any more, Kosaki?
+KSK/KSK0008140
+Nope. I'm already full after one shortcake.
+RUR/RUR0003130
+What a waste.[nl]No matter how much you eat today, it's free.
+RUR/RUR0003140
+After all, I've got a wallet to pay for it.
+SYU/SYU0003830
+Haha, you're treating me like a wallet....[nl]What a cruel joke, Ruri.
+KSK/KSK0008150
+But I still feel bad....[nl]I can't believe we're making them buy us cake.
+RUR/RUR0003150
+Don't worry about it.[nl]They're doing it out of the kindness[nl]of their hearts, so don't be shy.
+RUR/RUR0003160
+Right, Ichijo?[nl]No one's forcing you two to buy us cake, right?
+RAK/RAK0030630
+Yes. That is correct....[nl]We're doing this of our own volition....
+KSK/KSK0008160
+Is that right?[nl]It looks a lot like you're being forced to....
+RAK/RAK0030640
+(Dammit, Miyamoto![nl] If I don't buy her cake, she'll tell everyone about[nl] the DVD and the photo book.... It's basically extortion!)
+RAK/RAK0030650
+(Sure, I promised to make it up to her....[nl] Aaagh, goodbye, this month's allowance!)
+SYU/SYU0003840
+Hey, hey, Raku. Wallet problems aside, isn't eating cake[nl]together with everyone a fun thing in and of itself?[nl]Let's enjoy it as long as we're here, okay?
+RAK/RAK0030660
+....Whose fault do you think this is!?
+RUR/RUR0003170
+Hm? Kosaki, your cellphone's ringing.
+KSK/KSK0008170
+Oh, so it is.[nl]Sorry, I need to step out.
+RAK/RAK0030670
+Onodera seems pretty busy these days, doesn't she.
+RUR/RUR0003180
+Kosaki's family is having a hard time this year[nl]because her sister is taking an entrance exam, I heard.
+RAK/RAK0030680
+Oh, is that so....?
+SYU/SYU0003850
+Onodera's younger sister....[nl]I'll bet she's as beautiful as Onodera![nl]I hope she comes to our school.
+RUR/RUR0003190
+Jeez. Maiko, your head's always[nl]chock-full of lewd thoughts.
+KSK/KSK0008180
+....I'm back.
+RUR/RUR0003200
+Welcome back. Was that your family?
+KSK/KSK0008190
+Yeah. That was my mom.[nl]She has to go with my sister for a meeting at her school,[nl]and she asked me to take care of the shop.
+KSK/KSK0008200
+So I have to go home for the day.[nl]I'm sorry.
+SYU/SYU0003860
+That's too bad.[nl]But, well, there's nothing you can do[nl]if it's a family situation.
+RUR/RUR0003220
+Good luck with the shop, Kosaki.[nl]I'll eat lots of cake for you.
+KSK/KSK0008210
+Yes, I'll do my best.[nl]Enjoy, Ruri.
+KSK/KSK0008220
+....Well then, Ichijo, Maiko, thanks for treating us![nl]See you at school!
+SYU/SYU0003870
+She's such a polite and well-mannered girl....
+@expose2
+SYU/SYU0003880
+On the other hand....
+RUR/RUR0003230
+....Excuse me, waiter.[nl]Please add one "Chef's Special Chiffon Cake" to my order.[nl]Make it a whole one, of course.
+SYU/SYU0003890
+Ghlbtckh! You'd ask for that without any hesitation....[nl]You're a merciless demon, Ruri!
+RUR/RUR0003240
+What are you talking about? You should be weeping[nl]over my generosity in allowing you to treat me[nl]to some cake.
+RUR/RUR0003250
+Also, I'd like this[nl]"Baked Custard with Colored Creme Brulee".[nl]Include the organic tea in the set.
+RAK/RAK0030710
+Y-You still have room.....?
+SYU/SYU0003900
+Boohoo....my sweat, tears, and youth[nl]have been turned into sweets and swallowed up[nl]into Ruri's stomach....
+RAK/RAK0030720
+(Well, it can't be helped.[nl] I'm not entirely innocent myself,[nl] and if this makes Ruri feel better....)
+SYU/SYU0003910
+Hey, Raku.
+RAK/RAK0030730
+Hmm?
+SYU/SYU0003920
+Are you really okay with this>
+RAK/RAK0030740
+Whaddya mean?
+SYU/SYU0003930
+Actually, I have a plan to get even with Ruri.
+RAK/RAK0030750
+A plan?
+RUR/RUR0003260
+What's this, two guys whispering to each other?[nl]That's a little creepy.
+SYU/SYU0003940
+Oh, sorry, Ruri. We're going to the bathroom.[nl]We need to take a pee.
+RUR/RUR0003270
+Jeez, being so vulgar when I'm eating....[nl]Just so you know, if you bail on me now[nl]then I'll make you pay tomorrow.
+SYU/SYU0003950
+Right, right, it's okay.
+@フェードアウト
+@背景変更
+SYU/SYU0003960
+Alright, we don't need to worry about[nl]Ruri hearing us in here.
+RAK/RAK0030760
+....You need to stop coming up with such dumb plans.
+SYU/SYU0003970
+No, no, not so fast.[nl]If Ruri keeps treating us like this,[nl]we'll end up flat broke.
+SYU/SYU0003980
+I'm gonna take this opportunity to try and capture[nl]her lovely side. If I don't do that,[nl]none of this will be worth it.
+RAK/RAK0030770
+And by "capture"....you mean you're[nl]gonna take secret photos again?
+SYU/SYU0003990
+Yep. Ruri's not usually very expressive,[nl]but she looks happy when she's eating cake, right?
+SYU/SYU0004000
+I don't know how to describe it,[nl]but it's kinda like she's a chipmunk happily[nl]chewing on a mouthful of sunflower seeds.
+RAK/RAK0030780
+If you said that to her face,[nl]she'd totally clobber you.
+SYU/SYU0004010
+Well, anyway, I think it's essential for my photo book[nl]to have some "Ruri-chan Eating Things" pictures.
+SYU/SYU0004020
+Something like "The Vulnerable Side of the[nl]Typically Cool Girl with Glasses".[nl]Gap moe?
+SYU/SYU0004030
+Well then, Raku. I'll be starting[nl]"Operation Ruri Hidden Camera".
+SYU/SYU0004040
+I'll sneak into her blind spot[nl]and get the best shot I can!
+RAK/RAK0030790
+-----
+RAK/RAK0030800
+Alright....[nl]There's no point in trying to stop you, so if you're[nl]that set on doing this, then go right ahead.
+RAK/RAK0030810
+But if she finds out, she might not let you off with just cake.[nl]She might make you order a three-star patissier to make[nl]her all the sweets she wants. I don't care if that happens.
+SYU/SYU0004050
+Hey, hey, don't be so cold, Raku![nl]Your cooperation is essential to this operation!
+RAK/RAK0030820
+You want me to help you again?[nl]Gimme a break, seriously.
+SYU/SYU0004060
+No, no, it's not like I'm gonna trick her through[nl]negotiations this time or anything like that.
+SYU/SYU0004070
+All you gotta do is talk to Ruri face-to-face[nl]as if you were on a date with her. [nl]Once you have her attention, I'll take the picture.
+RAK/RAK0030830
+So you want me to be a diversion.[nl]That seems simple.
+SYU/SYU0004080
+That's not too much of a burden, is it?[nl]We've made it this far together. Help me out, Raku!
+SYU/SYU0004090
+Please! I'm begging you!
+I refuse!
+I just gotta talk to her, right?
+RAK/RAK0030840
+I'm sorry, but I refuse.[nl]I've learned my lesson.
+RAK/RAK0030850
+I suggest you get out of the photo-book business[nl]and try to live a better life.
+SYU/SYU0004100
+Please! Help me, Raku!
+SYU/SYU0004110
+Even if she finds out,[nl]I'll just say I was the only one involved! Okay!?
+Still no way!
+Fine, I guess....
+RAK/RAK0030860
+No way, no how. I'm not helping you with this any more,[nl]no matter how good friends we are.
+SYU/SYU0004120
+I understand how you feel....[nl]But I can't give in either![nl]Please, Raku! For the love of god!
+RAK/RAK0030870
+(Why is this guy so desperate....)
+RAK/RAK0030880
+Jeez, it can't be helped....[nl]As long as I'm just talking to her.
+SYU/SYU0004130
+Thanks, that's fine.[nl]Just pretend like you don't know me.
+SYU/SYU0004140
+Alright, let's get to work.[nl]You head back and keep Ruri busy.
+RUR/RUR0003280
+You're late. Where's Maiko.
+RAK/RAK0030890
+Uh....he's groaning in pain in the bathroom,[nl]and he says he's got a stomachache.
+RUR/RUR0003290
+Hmmmmm....I don't remember him eating that much.
+RUR/RUR0003300
+Nom nom....
+........
+RUR/RUR0003310
+Hm? What? Is there something on my face?
+RAK/RAK0030900
+No, it's not that....[nl]I just thought it would be nice to[nl]talk to you once in a while.
+RUR/RUR0003320
+What, why so formal....?[nl]Well, I don't mind.
+RAK/RAK0030910
+(Alright, for Shuu's sake, I'd better pick a topic[nl] that will hold as much of her attention as I can....)
+@rur_004_101
+common.asb
+rur_004_101.asb

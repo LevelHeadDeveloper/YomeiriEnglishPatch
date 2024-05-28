@@ -1,0 +1,79 @@
+__main
+@Lclearscreenall
+@rur_002_201
+@2ショット成功
+@2ショット失敗
+@rur_002_201_01
+@expose
+RUR/RUR0002170
+So you accidentally lent one of Maiko's[nl]peeping videos to Chitoge.
+RUR/RUR0002180
+When you realized your mistake, you hurriedly sneaked[nl]into her house to swap it out with a real copy[nl]of "Meowsville 2".
+RUR/RUR0002190
+You managed to reach her room,[nl]but I found you at the last second.
+RAK/RAK0029010
+Yes, that's more or less what happened....
+RUR/RUR0002200
+Jeez. I'm completely dumbfounded.
+@ザクシャるり・小
+RUR/RUR0002210
+Well, I'll give you credit for being honest[nl]and not trying to mislead me.
+RAK/RAK0029020
+Anyway, that's all.
+@rur_002_201_02
+RUR/RUR0002220
+I guess there's no point in any more questioning.[nl]Let me just call Chitoge's family.
+RAK/RAK0029030
+W-Wait a sec![nl]T-That's....
+RUR/RUR0002230
+Well then, should I call Kosaki and the others first?
+RAK/RAK0029040
+Eeeeeek!
+RAK/RAK0029050
+(I'm at my limit![nl] Sorry, Shuu!)
+RAK/RAK0029060
+I understand....[nl]I will....confess everything....
+@時間経過演出
+@ＢＧＭ再生
+RUR/RUR0002240
+Maiko's super-special video?
+RAK/RAK0029070
+Yeah, exactly....
+@rur_002_201_03
+RAK/RAK0029080
+There wasn't anything else I could do,[nl]other than sneak in here....
+RUR/RUR0002250
+I thought it was strange that you'd do something[nl]so stupid when you're normally so earnest,[nl]but I guess Maiko was behind this the whole time.
+RAK/RAK0029090
+For some reason, I haven't been able to reach him[nl]over the phone for a while now....[nl]He's ditched me, hasn't he?
+RUR/RUR0002260
+Well, I'll make sure he pays for this DVD---
+RUR/RUR0002270
+For now, Ichijo, leave the real Meowsville 2[nl]and get the hell outta here.
+RAK/RAK0029100
+Huh? You're letting me go?
+RUR/RUR0002280
+What's the point of beating you up[nl]if you're only half involved?
+RUR/RUR0002290
+Instead, I'll have you make it up to me[nl]somehow next time. You'd better be prepared.
+RAK/RAK0029110
+S-Sure! No problem!
+RUR/RUR0002300
+I'll smash this DVD to smithereens in secret....[nl]Come on, you'd better get going.
+RAK/RAK0029120
+Oh, thanks. You're actually pretty nice....
+RUR/RUR0002320
+I don't accept compliments from trespassers.
+RAK/RAK0029130
+Hahaha, you got me there....[nl]Well then, I owe you one, Miyamoto!
+RUR/RUR0002330
+Oh, that's right. Ichijo, can you[nl]tell Maiko something when you see him?
+RAK/RAK0029140
+Huh?
+@expose2
+RUR/RUR0002340
+Tell him:[nl]"Starting tomorrow, think of your human rights [nl]as nonexistent". Hehehehe.....
+RAK/RAK0029150
+(Scary....!)
+@イベント終了処理
+common.asb

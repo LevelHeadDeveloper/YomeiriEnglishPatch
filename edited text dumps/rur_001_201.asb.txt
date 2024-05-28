@@ -1,0 +1,107 @@
+__main
+@Lclearscreenall
+@rur_001_201
+@2ショット成功
+@2ショット失敗
+@rur_001_201_01
+@ＢＧＭ再生
+@ザクシャるり・小
+RUR/RUR0001490
+I see. To be honest, I don't understand it at all,[nl]but I can see you feel very strongly about cat ears, Ichijo.
+RUR/RUR0001500
+I thought you were just being dragged[nl]into one of Maiko's vile schemes....
+RAK/RAK0028180
+(Uh-oh...!)
+KSK/KSK0007850
+Hey, hey.[nl]Let's take a picture of Ruri wearing cat ears.
+RUR/RUR0001510
+Huh? What are you saying?[nl]For starters, I don't have cat ears....
+SYU/SYU0002400
+Oh, that's good, that's good![nl]Ruri, you and Onodera should both wear cat ears!
+@expose
+RUR/RUR0001520
+Why would I wear those!?[nl]I don't know about Kosaki, but I wouldn't look good in those!
+KSK/KSK0007860
+Huh? I don't think that's true. I think they'd look[nl]great on you, Ruri. Come on, while we're here,[nl]let's take a picture together, okay?
+RUR/RUR0001530
+H-Hey, Kosaki![nl]What are you putting on my head!?[nl]Come on!
+SYU/SYU0002410
+Oho, that's nice.[nl]I'm taking a picture, so smile.
+SYU/SYU0002420
+....Alright, say "cheese"!
+SYU/SYU0002430
+Yes, okay! You both looked great!
+KSK/KSK0007870
+When you get the pictures, please show them to me, Ichijo.
+RAK/RAK0028190
+Y-Yeah, of course.
+RUR/RUR0001540
+Jeez, why me....
+RUR/RUR0001550
+I can't believe I have to go the rest of my life[nl]having been photographed with cat ears.
+RAK/RAK0028200
+Hang on, Miyamoto. I don't know why you're complaining.[nl]After all, those cat ears looked great on you, didn't they?
+RUR/RUR0001560
+Flattery will get you nowhere, Ichijo.
+RAK/RAK0028210
+That wasn't flattery.
+KSK/KSK0007880
+That's true. Ruri, you really were cute.
+RUR/RUR0001570
+W-Wait a sec.[nl]Why is even Kosaki saying that?
+RUR/RUR0001580
+Stop being weird and let's get ready for class.[nl]Next is P.E., so we'll be with the girls in the gym.
+KSK/KSK0007890
+Yes, that's right.
+KSK/KSK0007900
+Well then, Ichijo, Maiko. See you later.
+RAK/RAK0028220
+Yeah. Thanks, you two.
+SYU/SYU0002440
+I'd be happy to have you model for photos again~!
+RAK/RAK0028230
+....Phew, we finished the photo shoot without any problems.[nl]Onodera didn't give me any weird looks or anything....
+SYU/SYU0002450
+I think we're off to a fantastic start.[nl]Alright, let's go get some more pictures!
+RAK/RAK0028240
+I don't think it'll keep going this smoothly.
+SYU/SYU0002460
+But that's where you come in.[nl]Please be my negotiator!
+RAK/RAK0028250
+Leaving everything to others....jeez.
+@イベント終了処理
+@rur_001_201_02
+RUR/RUR0001590
+Ichijo, I'm disappointed in you.[nl]You fell for Maiko's wheedling and abetted him[nl]in taking a photo of Kosaki in cat ears.
+RAK/RAK0028260
+Uh....I have nothing to say in response.
+RUR/RUR0001600
+Jeez....I don't understand. [nl]If you want to make money off of cat ears,[nl]then why don't you just wear them yourselves?
+RAK/RAK0028270G
+Huh?
+RUR/RUR0001610
+Aren't cat boys fresh and novel? Here, lend me the[nl]cat ears and the camera. I'll take the picture for you.
+@キャラ揺らし
+RAK/RAK0028280
+Aaaagh! Hang on, Miyamoto!
+SYU/SYU0002480
+S-Stoppp!?
+@全画面ＡＲＫ付加
+RUR/RUR0001620
+Haha....they're rather cute, aren't they?[nl]Right, Kosaki?
+KSK/KSK0007910
+Ahahaha.....I guess they're a little cute.
+RAK/RAK0028290
+F-For the love of god, don't look at me![nl]Onodera!
+RUR/RUR0001630
+Come on, you two, smile![nl]Okay, say "cheese"!
+RUR/RUR0001640
+Beautifully taken.
+RUR/RUR0001650
+Once it's developed, I'll put it on the bulletin board.[nl]I'll title it "Two idiots wearing cat ears".
+RAK/RAK0028300
+Aaaagh! Please don't do that!
+SYU/SYU0002490
+Ahaha.....as expected, I can't put[nl]this picture into the photo book....
+@rur_001_202
+common.asb

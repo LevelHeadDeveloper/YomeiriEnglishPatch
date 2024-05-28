@@ -1,0 +1,44 @@
+__main
+@Lclearscreenall
+@rur_006_103
+@expose
+RUR/RUR0006480
+Glasses are an excellent accessory[nl]in that they aren't in violation of the school dress code.
+RUR/RUR0006490
+Anyone can easily enjoy fashion[nl]by simply wearing glasses.
+RUR/RUR0006500
+Ichijo, are you trying to ruin the[nl]opportunity for everyone to be fashionable?
+Are glasses fashionable?
+It doesn't matter for the boys
+If everyone wore them,[nl]they'd lose their individuality
+Their faces would lose[nl]their cuteness
+RUR/RUR0006510
+No. There is no rule that says that[nl]boys can't be fashionable as well.
+RUR/RUR0006520
+Rather, they would do well[nl]to care at least a little.
+RUR/RUR0006530
+Ichijo, I think you could study up[nl]on popular male celebrities who wear glasses.
+@rur_006_201
+@rur_006_104
+RUR/RUR0006540
+In the winter, when everyone's wearing coats,[nl]couldn't you be fashionable with any coat?
+RUR/RUR0006550
+When it's raining, and everyone has an umbrella,[nl]does any one umbrella lose individuality?
+RUR/RUR0006560
+Tell me, wouldn't that be true?
+RUR/RUR0006570
+If everyone's wearing glasses,[nl]they can still make a statement with the color and frames.
+RUR/RUR0006580
+Your criticism of mass adoption is nonsense.
+@ザクシャるり・１
+RUR/RUR0006590
+If everyone wore glasses,[nl]we'd definitely lose the fashionable bare-faced style.
+RUR/RUR0006600
+I'm sure we'd soon lose the desire to regret that....
+RUR/RUR0006610
+But I suppose I can't deny it.
+RUR/RUR0006620
+Since you won't answer,[nl]I find myself wondering if you understand.
+common.asb
+rur_006_201.asb
+rur_006_104.asb

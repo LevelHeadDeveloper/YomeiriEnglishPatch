@@ -1,0 +1,17 @@
+__main
+@Lclearscreenall
+@snk_011
+CTG/CTG0023650
+Hello, Raku?[nl]I saw Claude running after you just now.[nl]What happened?
+RAK/RAK0082520
+Oh, Chitoge! I'm not quite sure what he wants, but he's[nl]been chasing after me with this grin on his face...[nl]It's really creepy.
+CTG/CTG0023660
+Th-That can't be good....
+CTG/CTG0023670
+Well then, you should probably try to escape.[nl]Maybe hide behind something tall.
+CTG/CTG0023680
+Remember that big lectern in the classroom? It should be[nl]safe to hide behind that.[nl]Whatever you do, don't step in front of Claude!
+RAK/RAK0082530
+Got it.... okay, let's see if it works.
+RAK/RAK0082540
+Thanks, Chitoge!

@@ -1,0 +1,54 @@
+__main
+@Lclearscreenall
+@rur_601
+@ヌキアシ終了処理
+@rur_601_02
+@イベント開始処理
+RAK/RAK0028880
+Hahh....hahh....[nl]Alright, I got into Chitoge's room....
+RAK/RAK0028890
+Luckily....it looks like no one's here.[nl]I'd better swap out the DVDs quickly.
+RAK/RAK0028900
+Umm, lightswitch, lightswitch....
+RAK/RAK0028910
+(Crap....I stumbled into this pitch-black room[nl] while I was running in circles....)
+RAK/RAK0028920
+(Anyway, lightswitch, lightswitch....)
+@背景変更
+RUR/RUR0001660
+Huh?
+@ＢＧＭ再生
+RAK/RAK0028930
+Gh! Miyamoto!
+RAK/RAK0028940
+(Oh no! This is Chitoge's room!)
+RUR/RUR0001670
+I-Ichijo!? W-What are you doing here!?
+RAK/RAK0028950
+U-Ummmm....
+RUR/RUR0001680
+I mean, why are you here!?[nl]You weren't invited!
+RAK/RAK0028960
+I-It's, uh.....
+.....
+@expose
+RUR/RUR0001690
+Don't tell me you sneaked in on your own....
+RAK/RAK0028970
+Uh-oh!
+RUR/RUR0001700
+I'm surprised at you....[nl]To think you'd be a criminal....
+RUR/RUR0001710
+And to go after Chitoge and the others while they're bathing....[nl]That's just disgusting.
+RAK/RAK0028980
+H-Hang on a sec! I have a good reason!
+RUR/RUR0001720
+If you have an excuse, I'll hear you out on it.[nl]But if it's unsatisfactory, I'm turning you in immediately!
+RAK/RAK0028990
+(T-This isn't good! If I don't explain myself to Miyamoto,[nl] Four Eyes will kill me!)
+RAK/RAK0029000
+(Should I cover up the part about the DVD?[nl] Should I just be honest about it?[nl] What the hell do I do!?)
+@ＢＧＭ停止
+@rur_002_101
+common.asb
+rur_002_101.asb

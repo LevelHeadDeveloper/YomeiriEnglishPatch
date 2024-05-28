@@ -1,0 +1,39 @@
+__main
+@Lclearscreenall
+@snk_012
+SSR/SSR0021350
+Raku Ichijo, can you hear me?
+RAK/RAK0082550
+Oh, Tsugumi. It's unusual for you to call me.
+SSR/SSR0021360
+I'm monitoring your location from a distance...
+SSR/SSR0021370
+Earlier, Claude and I were supposed to have[nl]a meeting regarding monitoring you, but...
+SSR/SSR0021380
+...Why is Claude chasing you right now?[nl]He should have been back ages ago![nl]Explain, right now!
+RAK/RAK0082560
+I don't know! He didn't tell me![nl]Hold on, how much effort are you putting into[nl]watching me?
+SSR/SSR0021390
+Hmm... From what I can see,[nl]it doesn't look like it was your fault.
+SSR/SSR0021400
+Perhaps Claude misunderstood something.[nl]For now, I will help with your escape.
+SSR/SSR0021422
+Press ○ to crouch,[nl]While you're crouching, you cannot be [nl]seen through obstacles.
+SSR/SSR0021445
+However, you can't move while crouching.[nl]When you're out of danger, use ○ to stand up[nl]and × to dash.
+SSR/SSR0021431
+When it gets dangerous, duck behind something[nl]and press ○. When it's safe, keep moving.[nl]That is the basis of infiltration. Remember that.
+RAK/RAK0082575
+Infiltration...?[nl]I'm just trying to get the hell out of school.
+SSR/SSR0021435
+Don't spend so much time talking.[nl]Do you want to be found?
+SSR/SSR0021410
+See those pillars in the back of the classroom?[nl]I managed to stay of of Claude's sight by[nl]ducking behind one of those.
+RAK/RAK0082570
+I see... Then, it's possible that I could also[nl]hide behind one of these pillars.
+SSR/SSR0021430
+Also, keep an eye on the floor. There's all kinds[nl]of junk on there that will make a noise if you[nl]step in it.
+RAK/RAK0082580
+Roger. I'll be careful.[nl]Thank you very much, I appreciate the help!
+SSR/SSR0021440
+Mmm. Good luck.     

@@ -1,0 +1,40 @@
+__main
+@Lclearscreenall
+@rur_006_105
+@expose
+RUR/RUR0006760
+Let's see, what else is good about glasses....
+RUR/RUR0006770
+Of course. In light of the recent craze for men with glasses,[nl]it would be easier for guys to be accepted by girls.
+RUR/RUR0006780
+Ichijo, I'm sure you would be more popular[nl]with the girls if you wore glasses.
+Would glasses make me popular?
+I'm not interested in guys with glasses
+If they all look the same,[nl]it's not special anymore
+You have to be attractive[nl]to begin with
+RUR/RUR0006790
+Even if you're not interested, Ichijo,[nl]girls might be.
+RUR/RUR0006800
+That's right. Kosaki might fall for a[nl]serious-looking guy with glasses, for example.
+RUR/RUR0006810
+Oh, did that upset you? Hehehe.
+@rur_006_201
+RUR/RUR0006820
+Ummmm, what else.....?
+@rur_006_106
+@ザクシャるり・１
+RUR/RUR0006830
+The fact that there are men without glasses is the reason[nl]that men with glasses can be so popular, you say?
+RUR/RUR0006840
+It's true that if all guys wore glasses,[nl]the genre wouldn't even exist....
+RUR/RUR0006850
+Oh, well.[nl]Ummmm, what else.....?
+RUR/RUR0006860
+That's a completely different thing[nl]from what I meant when I said glasses are good.
+RUR/RUR0006870
+But I won't say that the subject matter himself[nl]is completely irrelevant, Ichijo.
+RUR/RUR0006880
+What's wrong? You got quiet all of a sudden.
+common.asb
+rur_006_201.asb
+rur_006_106.asb

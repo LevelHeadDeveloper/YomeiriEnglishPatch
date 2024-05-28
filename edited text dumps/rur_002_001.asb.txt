@@ -1,0 +1,129 @@
+__main
+@Lclearscreenall
+@rur_002
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0028310
+Phew! Today's finally over....
+RAK/RAK0028320
+....Hm? What's this?
+RAK/RAK0028330
+A DVD of "Meowsville 2"....[nl]What's this doing on my desk?
+CTG/CTG0009510
+Oh, that.[nl]Isn't that the DVD you mentioned earlier?
+RAK/RAK0028340
+Hm?
+CTG/CTG0009520
+You know, "Meowsville 2".[nl]The one you were saying would make you cry to death.
+RAK/RAK0028350
+Yeah, I guess it is.[nl]I don't know why it's on my desk, though.
+RAK/RAK0028360
+Maybe Shuu put it there? I'd asked him earlier[nl]to lend it to me if he had it.
+CTG/CTG0009530
+Hey, that's surprising.[nl]I didn't think he'd be into that kind of movie.
+RAK/RAK0028370
+I don't think it's that surprising[nl]Meowsville 2 is a huge blockbuster movie.[nl]All kinds of people watch it.
+@expose
+CTG/CTG0009540
+Hmmm....is that right?[nl]I'm not really into that kind of thing myself.
+RAK/RAK0028380
+Yeah, I know.[nl]Man, I'm sorry I can't share[nl]my excitement about this with you
+CTG/CTG0009550
+Mgh!
+CTG/CTG0009560
+Hmmph. I prefer flashier, easy-to-understand movies anyway.
+........
+CTG/CTG0009570
+Hey, Raku.
+RAK/RAK0028390
+CTG/CTG0009580
+Can I borrow that DVD, just for today?
+RAK/RAK0028400
+Huh? I thought you didn't like it.
+CTG/CTG0009590
+No, that's true. But tonight, Tsugumi, Kosaki, Ruri[nl]and I are having a pajama party at my place.
+CTG/CTG0009600
+So I'm looking for a movie we can all enjoy.
+CTG/CTG0009610
+Meowsville 2 is a touching animal fantasy movie, right?[nl]I think Kosaki might enjoy that kind of thing.
+RAK/RAK0028410
+Well, this film is a tear-jerker for any animal lover.[nl]I guarantee it.
+CTG/CTG0009620
+Really?[nl]Sounds like just the thing for everyone to watch.
+RAK/RAK0028420
+Well then, I'll let you have this first.[nl]It would be subletting, but as long as I tell Shuu,[nl]it shouldn't be a problem.
+CTG/CTG0009630
+Alright, I'll borrow it. Thanks!
+RAK/RAK0028430
+Yeah, see you around.
+RAK/RAK0028440
+(A slumber party with Onodera, huh.[nl] To be honest, I'm jealous....)
+RAK/RAK0028450
+Aaagh, I also wanna watch Meowsville 2[nl]with Onodera and talk about it....
+SYU/SYU0002500
+Yo. What's wrong, Raku?[nl]You're sighing and you've got a faraway look in your eyes.
+RAK/RAK0028460
+Oh, Shuu.
+RAK/RAK0028470
+You're the one who put that DVD on my desk, right?[nl]Thanks. I've been looking forward to it.
+SYU/SYU0002510
+No, no, don't worry about it.[nl]We're friends after all.
+SYU/SYU0002520
+So, I hope you enjoy that [nl]super-special DVD very much tonight.
+@ＢＧＭ停止
+RAK/RAK0028480
+Yeah, I wi---
+RAK/RAK0028490
+What did you just say?
+SYU/SYU0002530
+Huh? I hope you enjoy that[nl]super-special DVD very much tonight.....
+RAK/RAK0028500
+Haha, what are you talking about?[nl]It's just Meowsville 2....
+SYU/SYU0002540
+Tsk, tsk. The case was just a disguise.[nl]What's inside is a funny movie you can't show anyone.
+RAK/RAK0028510
+F-Funny movie!?
+SYU/SYU0002550
+Onodera nodding off in her chair in class,[nl]Kirisaki secretly eating her lunch before lunchtime,[nl]Ruri drawing very dramatically in her textbook....
+SYU/SYU0002560
+And besides all that, there's things I don't think[nl]I can even say out loud....
+SYU/SYU0002570
+I filmed and edited the[nl]"Somewhat Embarrassing Scenes in Everyday Life"[nl]for this class's beautiful girls.
+RAK/RAK0028520
+So you took videos without their knowledge....
+SYU/SYU0002580
+I took videos without their knowledge?[nl]What are you talking about, are you listening at all?
+SYU/SYU0002590
+I simply filmed them without telling them.[nl]That way, they're in their natural state....isn't that lovely?
+RAK/RAK0028530
+What's lovely about it, you idiot!?[nl]What were you thinking, putting that[nl]dangerous DVD on my desk!?
+SYU/SYU0002600
+Because, Raku, you're a comrade on the[nl]beautiful-girl-photo-book project. I figured I'd[nl]share some of my results.
+SYU/SYU0002610
+Well, I can assure you of the quality.[nl]I hope you enjoy Onodera's and Kirisaki's[nl]"Embarrassing Scenes" to the fullest.
+RAK/RAK0028540
+Sorry, Shuu, I can't do that.[nl]I don't have the DVD anymore.
+SYU/SYU0002620
+Huh? What do you mean?
+RAK/RAK0028550
+Chitoge borrowed it just now.[nl]She thought it was "Meowsville 2".[nl]She's going to watch it with Onodera and Miyamoto tonight.
+SYU/SYU0002630
+For real....?
+RAK/RAK0028560
+For real.
+SYU/SYU0002640
+But if the girls see those movies,[nl]then you and I will be ostracized by our class!
+RAK/RAK0028570
+Aagh, that's true![nl]What the hell have you done, you sone of a bitch!?
+RAK/RAK0028580
+First of all, you shouldn't have given it to me[nl]in such an exciting DVD case!
+SYU/SYU0002650
+Hey, hey, hey. Calm down, Raku.[nl]It's because it's so dangerous that I had to disguise it.
+SYU/SYU0002660
+Besides, they haven't seen what's inside, right?[nl]So you should be able to handle it.
+RAK/RAK0028590
+Handle it how?
+SYU/SYU0002670
+Simple, really.[nl]Just retrieve the DVD before they see it.
+@ヌキアシ開始処理
+common.asb

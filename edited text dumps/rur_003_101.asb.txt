@@ -1,0 +1,32 @@
+__main
+@Lclearscreenall
+@rur_003_101
+@2ショット開始
+Get Ruri on board!
+@ＢＧＭ再生
+RUR/RUR0002480
+Ichijo. Why do you want to take[nl]pictures of me in my swimsuit?
+RUR/RUR0002490
+That four-eyed pervert better not[nl]be behind this....
+Why do you want pictures?
+The four-eyed pervert asked for them.
+They're for the swim team.
+RUR/RUR0002500
+Maiko....[nl]You're still such an idiot....
+RUR/RUR0002510
+I guess he hasn't learned his lesson[nl]after all those punishments.
+@expose
+RUR/RUR0002520
+Out of the question.[nl]I absolutely won't let you take any pictures.
+@rur_003_201
+@ザクシャるり・１
+RUR/RUR0002530
+Huh? For the swim team?[nl]I wonder what you mean by that.
+@rur_003_102
+RUR/RUR0002540
+I know what this is.[nl]Maiko asked you to do this, didn't he.
+RUR/RUR0002550
+Even after all those punishments....[nl]he still hasn't learned his lesson.
+common.asb
+rur_003_201.asb
+rur_003_102.asb

@@ -1,0 +1,31 @@
+__main
+@Lclearscreenall
+@rur_001_103
+@expose
+RUR/RUR0001400
+At any rate, I get that you like cat ears, Ichijo.
+RUR/RUR0001410
+But why Kosaki?
+RUR/RUR0001420
+I wonder where that passion comes from.
+RUR/RUR0001430
+Tell me. Ichijo, what are[nl]cat ears to you?
+@ザクシャるり・１
+RUR/RUR0001440
+W-What is this....[nl]They must be really good for you to say that.
+RUR/RUR0001450
+Cash, you say....[nl]So this is for something bad after all!
+RUR/RUR0001460
+I'll bet Maiko's in on this, too!
+RUR/RUR0001470
+Using Kosaki with cat ears as a pretext....[nl]I cannot allow such foolishness.
+RUR/RUR0001480
+You can't seem to answer.[nl]I guess you were lying after all.
+RUR/RUR0001380
+You don't have to hide it.[nl]It's all a conspiracy by Maiko, isn't it?
+RUR/RUR0001390
+You were planning to make a fortune off of[nl]pictures of Kosaki wearing cat ears, weren't you?
+@rur_001_103_end
+@rur_001_201
+common.asb
+rur_001_201.asb

@@ -1,0 +1,123 @@
+__main
+@Lclearscreenall
+@rur_003_201
+@2ショット成功
+@2ショット失敗
+@rur_003_201_01
+@ＢＧＭ再生
+RUR/RUR0002880
+If that's the case....[nl]I'll take your word for it and have you[nl]take at least one photo.
+RAK/RAK0030440
+Oh, you don't mind?
+RUR/RUR0002890
+I don't see any reason to refuse.
+@expose
+RUR/RUR0002900
+Is this pose okay?
+RAK/RAK0030450
+Uhh, yes. That's fine with you, right?
+RUR/RUR0002910
+Well then, I wish you'd hurry up and take the photo.[nl]This is kind of embarrassing.
+@ザクシャるり・小
+RAK/RAK0030460
+S-Sorry. Alright, let's go...
+RAK/RAK0030470
+Okay, say "cheese"!
+RUR/RUR0002920
+Thank you. Okay, send me the file later.
+RAK/RAK0030480
+Alright. Well, see you later.
+@ＢＧＭ停止
+RAK/RAK0030490
+(Phew....I managed to get her picture[nl] without her figuring it out....)
+RAK/RAK0030500
+(I hope this'll make Shuu happy[nl] and keep him quiet....)
+SYU/SYU0003690
+Heeey, Raku! Have you finished getting Ruri's picture?
+RAK/RAK0030510
+Yeah. Here.
+SYU/SYU0003700
+Oho....! Very well done, Raku![nl]This is an excellent photo!
+SYU/SYU0003710
+Ooooh, the imbalance between the glasses and[nl]the school swimsuit is surprisingly very nice....
+RUR/RUR0002930
+....Oh, Ichijo.[nl]Have you got a sec to talk about that[nl]picture you took of me?
+RAK/RAK0030520
+(Gah....Miyamoto![nl] What rotten timing!)
+RAK/RAK0030530
+Hey, Shuu, hide the camera!
+SYU/SYU0003720
+Come on, don't interrupt me, Raku.[nl]I'm busy examining Ruri's swimsuit photo.
+SYU/SYU0003730
+Wowww, Seishiro's swimsuit was nice, but this flatness[nl]also tickles the hearts of enthusaist's hearts![nl]I wonder how much this will fetch me!
+RUR/RUR0002940
+.....Yeah, I wonder.
+SYU/SYU0003740
+....Oh.
+SYU/SYU0003750
+R-Ruri? Have you been listening, perhaps?
+RUR/RUR0002950
+I'm sorry I'm so flat.[nl]I doubt that picture would sell, don't you?
+SYU/SYU0003760
+E-Eeeeeek!
+RUR/RUR0002960
+And I wouldn't have thought Ichijo was in on it.[nl]What was that about recruiting club members?[nl]You had ulterior motives, didn't you?
+RAK/RAK0030540
+S-Sorry, Miyamoto.[nl]I was gonna stop him from selling---
+RUR/RUR0002970
+Save it. You can't defend yourself this time.
+RUR/RUR0002980
+Go drown, you two! Hmph!
+RAK/RAK0030550G
+GWAAAAAAAAAAAGH!!!
+@rur_003_201_02
+RAK/RAK0030560
+I knew I couldn't do this.
+RUR/RUR0002990
+Wasn't it obvious?[nl]Who would like Shuu's underground business[nl]enough to support it like that?
+RUR/RUR0003000
+Plus, you're also at fault here.[nl]Don't just go along with your friend's misdeeds, stop him!
+RAK/RAK0030570
+Yeah....sorry about that.[nl]I'll go try to talk him out of it.
+RUR/RUR0003010
+If you're understand, then we're done here, right?[nl]I have to practice, so go.
+SYU/SYU0003780
+....Wait, Ruri!
+RUR/RUR0003020
+What is it, Maiko?[nl]If you're looking for a photo shoot,[nl]you've been turned down.
+SYU/SYU0003790
+I have a favor to ask of you personally,[nl]since Raku's negotiations fell through.[nl]Can you at least hear me out?
+RUR/RUR0003030
+Huh?
+@ＢＧＭ再生
+SYU/SYU0003800
+Listen, Ruri.[nl]There's nothing disgraceful about swimsuit photos.
+SYU/SYU0003810
+RUR/RUR0003040
+Shut up.
+@expose
+RUR/RUR0003045
+Hiyah!
+@キャラ揺らし
+SYU/SYU0003820
+GAAAAAAAAAAAH!
+RAK/RAK0030580
+(Seriously, that guy never learns.)
+RUR/RUR0003050
+I'm so pissed....[nl]Ichijo, you're as guilty as he is.
+RAK/RAK0030590
+Huh?
+RUR/RUR0003060
+Tchiyah!
+@画面揺らし
+RAK/RAK0030600
+GAAAAAAAAHH!
+@rur_003_201_03
+@ＨＰ－５０
+@フェードアウト
+RAK/RAK0030610
+(Dammit....why also me...?)
+RAK/RAK0030620
+(I'm never helping this idiot with[nl] any of his shameful acts ever again!)
+@イベント終了処理
+common.asb

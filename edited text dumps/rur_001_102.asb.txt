@@ -1,0 +1,52 @@
+__main
+@Lclearscreenall
+@rur_001_102
+RUR/RUR0001200
+If you really like cat ears,[nl]you can tell me the reason.
+RUR/RUR0001210
+Ichijo. Tell me what you like about cat ears.
+RUR/RUR0001220
+....The orthodox reason.
+RUR/RUR0001230
+Does that mean you think Kosaki is a cute cat[nl]and you want to take care of her?
+@ザクシャるり・１
+@expose
+RUR/RUR0001240
+Well, you know how it feels now.[nl]Kosaki is cute when you tease her.
+@rur_001_103
+RUR/RUR0001250
+All that hot air isn't fooling me one bit.
+RUR/RUR0001260
+Please give me a proper answer.[nl]Tell me why you like cat ears.
+RUR/RUR0001270
+Sorry, but I don't feel anything.
+RUR/RUR0001280
+Please answer without cheating.[nl]Tell me why you like cat ears.
+RUR/RUR0001290
+Ah, I see. It's soft to the touch.[nl]Cat fur.
+RUR/RUR0001300
+So you'd be patting Kosaki's head[nl]while she's wearing the cat ears.
+@ザクシャるり・１
+@expose
+RUR/RUR0001310
+....That might be alright.
+RUR/RUR0001320
+For me, it's essential that you describe it.
+RUR/RUR0001330
+Money....you say?
+RUR/RUR0001340
+Don't tell me you intend to make Kosaki a product[nl]by making her wear those cat ears?
+RUR/RUR0001350
+That is completely unacceptable.
+RUR/RUR0001360
+....I'll bet Maiko's really behind this.[nl]Fess up.
+@rur_001_201
+RUR/RUR0001370
+You're not meeting my eyes.
+RUR/RUR0001380
+You don't have to hide it.[nl]It's all a conspiracy by Maiko, isn't it?
+RUR/RUR0001390
+Were you planning to make a fortune off of[nl]pictures of Kosaki wearing cat ears?
+common.asb
+rur_001_103.asb
+rur_001_201.asb

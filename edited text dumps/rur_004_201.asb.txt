@@ -1,0 +1,61 @@
+__main
+@Lclearscreenall
+@rur_004_201
+@2ショット成功
+@ザクシャるり・中
+@2ショット失敗
+RUR/RUR0004230
+By the way, there is one thing I'm wondering about.
+RAK/RAK0030920
+Huh?
+@expose
+RUR/RUR0004240
+Why has that cardboard box on the floor[nl]been moving slowly closer to us this whole time?
+@ＢＧＭ再生
+.....
+RAK/RAK0030930
+(You couldn't possibly have been more[nl] obvious if you tried, Shuu....)
+RUR/RUR0004250
+I can kind of guess what's in there....[nl]Anyway, I'll just lift it.
+SYU/SYU0004150
+Haha...hahaha....you found me?
+RUR/RUR0004260
+Maiko....why were you approaching me under a box?[nl]And you even had your camera all ready....
+SYU/SYU0004160
+I was planning to hide under the table[nl]and pop up and scare you, Ruri....[nl]Would you believe that?
+RAK/RAK0030940
+Shuu....[nl]That's the most strained excuse I've ever heard.
+RUR/RUR0004270
+After I warned you repeatedly,[nl]you'd still try to do something as shameless[nl]as sneaking a picture, huh.
+RUR/RUR0004280
+Your sheer audacity is beginning[nl]to make me feel more impressed than dismayed.
+SYU/SYU0004170
+W-Wow, your high praise is embarrassing me!
+RUR/RUR0004290
+Yes. So let me give you a little token of my esteem.[nl]Prepare yourself----
+RUR/RUR0004300
+HIYAAAAAAAAAH!
+@画面揺らし
+@キャラ揺らし
+SYU/SYU0004180
+AAAAAAAAAAAGH![nl]THE CAMERA'S BUSTED!
+SYU/SYU0004190
+O-Oh no, the data....[nl]NYAAAAAAAGH! THE MEMORY CARD'S IN PIECES!
+SYU/SYU0004200
+You've gotta be kidding.... All the data I've been collecting[nl]until now is gone....! Those were valuable photos[nl]for my beautiful-girl-photo-book....!
+SYU/SYU0004210
+I-It's too muuuuuuuch!
+RAK/RAK0030950
+I feel a little sorry for him....[nl]But it's hard to have too much sympathy....
+RUR/RUR0004310
+If you've learned your lesson,[nl]don't ever think of pulling anything like this again.
+RUR/RUR0004320
+Oh, waiter. Can I also have a[nl]"Special Jumbo Strawberry Parfait" please?
+RUR/RUR0004330
+....Also, please pick up this bawling four-eyes.
+RAK/RAK0030960
+Y-You're merciless, Miyamoto....
+RAK/RAK0030970
+(Maybe it would be best if I[nl] didn't make her my enemy....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,21 @@
+__main
+@Lclearscreenall
+@snk_191
+CTG/CTG0009770
+Oh, Raku and Ruri.[nl]What's going on? You guys look like you're in a hurry.
+RAK/RAK0031420
+We're looking for Shuu.[nl]Have you seen him anywhere.
+CTG/CTG0009780
+Oh, Maiko? I saw him just now,[nl]heading for the rooftop with a crap ton of books.
+RUR/RUR0005140
+I see. Thanks, Chitoge.[nl]Now I can destroy that vile Four-Eyes!
+CTG/CTG0009790
+Wow, you're very angry, Ruri.[nl]Really, what's the matter?
+RUR/RUR0005150
+You don't want to know.[nl]It's really stupid, and it's probably[nl]bad for your mental health.
+CTG/CTG0009800
+I-I see. I'll take your word for it, then....
+CTG/CTG0009810
+I don't know what's going on,[nl]but good luck.
+RUR/RUR0005160
+Yeah, see you.

@@ -1,0 +1,219 @@
+__main
+@Lclearscreenall
+@rur_004_101
+@2ショット開始
+Keep Ruri's interest!
+RUR/RUR0003330
+So, what do you want to talk about?
+What do you want to talk about?
+Hobbies
+RUR/RUR0003470
+You should at least answer me.
+Love
+Studying
+@rur_004_101_study
+@expose
+RUR/RUR0003340
+Studying?
+RUR/RUR0003350
+Well, I am making slightly better grades than you,[nl]but I don't think I could tell you anything really useful....
+RUR/RUR0003360
+But you still want to ask me something?
+What do you  ask?
+What's your typical study method?
+Does wearing glasses make you smarter?
+RUR/RUR0003370
+I pay attention in class and[nl]review the lessons....something like that.
+RUR/RUR0003380
+Well, I guess that was pretty obvious.[nl]Sorry for the boring answer.
+Ask more?
+How do I get better grades?
+Tell me your secret trick
+@ザクシャるり・１
+RUR/RUR0003390
+You've got lots of friends with good grades,[nl]so why not ask one of them to teach you?
+RUR/RUR0003400
+Like Chitoge, or Tsugumi....
+RUR/RUR0003410
+Huh....me? Well, I could help you with[nl]ancient literature and Chinese literature.
+RUR/RUR0003420
+I'm surprised you're so ambitious, Ichijo.[nl]A little impressed, even.
+RUR/RUR0003430
+Secret tricks, huh....[nl]You sound like an elementary school student, saying that.
+RUR/RUR0003440
+There are no shortcuts in learning.[nl]You can't get good grades by taking the easy way out.
+RUR/RUR0003450
+In the end, you'll need to study hard.
+RUR/RUR0003480
+They do not....is what I'd like to say,[nl]but they do make you look intelligent.
+RUR/RUR0003490
+Frankly, I think you'd look good with glasses.[nl]And there's quite some demand for men with glasses, right?
+RUR/RUR0003500
+Why not try wearing some fake glasses?
+Try wearing glasses?
+Sounds interesting!
+I'm not interested.
+@ザクシャるり・１
+RUR/RUR0003510
+Ichijo's debut as a glasses boy, huh....
+RUR/RUR0003520
+I wonder how Kosaki would react[nl]if I told her.
+RUR/RUR0003530
+Oh, here, this is what I was talking about.[nl]Hehehe....
+RUR/RUR0003540
+Ah, yes....[nl]I thought they'd look good on you.
+RUR/RUR0003550
+Well, you can't say wearing glasses *actually*[nl]makes you intelligent.
+RUR/RUR0003560
+I mean, the man holed up in the restroom[nl]right now is a pretty good example.
+@rur_004_101_love
+@expose
+RUR/RUR0003660
+It's rare that you'd bring up[nl]such a topic, Ichijo.
+RUR/RUR0003670
+What on earth would you want to know?
+Ask what about love?
+I have a crush on someone....
+What's your love life like?
+RUR/RUR0003680
+Hmmmmm.....I see.
+RUR/RUR0003690
+....Oh, sorry.[nl]That kind of surprised me.
+RUR/RUR0003700
+There's only one thing I can tell you.
+RUR/RUR0003710
+Ichijo, if you like someone,[nl]go tell her right now.
+Confess your feelings?
+I will, eventually.
+That's impossible.
+RUR/RUR0003720
+I suppose it's a matter of courage and timing.
+RUR/RUR0003730
+But I'm sure they're looking forward[nl]to your confession.
+RUR/RUR0003740
+Well, that's my hunch, anyway.
+RUR/RUR0003750
+You're chicken, Ichijo,[nl]giving up before the fight even starts.
+RUR/RUR0003760
+Jeez, you're just like her.[nl]It's so frustrating to watch.
+RUR/RUR0003770
+Are you going to keep quiet like that,[nl]even in front of her? You can't convey your feelings to her.
+RUR/RUR0003780
+I'm sorry,[nl]but I don't have anything to tell you.
+RUR/RUR0003790
+I'm not really interested in love to begin with.
+Not interested in love?
+What a waste of time
+That's your choice
+RUR/RUR0003800
+Does that mean I should be in love too?
+RUR/RUR0003810
+Frankly, when you say that, it sounds like[nl]you're making it out to be a big deal.
+RUR/RUR0003820
+Right now, there's no one I know that[nl]I can fall in love with. Unfortunately.
+RUR/RUR0003830
+Exactly. I appreciate you putting it that way.
+RUR/RUR0003840
+I've got my hands full enough just looking[nl]at other people's love lives.
+RUR/RUR0003850
+I'll just wait patiently for the day[nl]that I'm ready for a relationship.
+RUR/RUR0003860
+Why so quiet all of a sudden?
+@rur_004_101_hobby
+RUR/RUR0003870
+Come to think of it, you and I haven't talked much[nl]about our hobbies, Ichijo.
+RUR/RUR0003880
+For starters, do you even know[nl]what my hobbies are?
+Do you know?
+Eating
+Swimming
+Reading
+RUR/RUR0003890
+Well, that's one of my hobbies.[nl]That's why I came to eat cake here.
+RUR/RUR0003900
+By the way, I can eat all the sweets I want, no problem.[nl]Stuff like giant pudding.
+Giant pudding!?
+That can't be good for you
+Chitoge said something similar....
+RUR/RUR0003910
+Don't worry.[nl]I'm getting lots of exercise in my club, and that helps.
+RUR/RUR0003920
+Well, the main problem is that sweets cost money.
+RUR/RUR0003930
+Unless, of course,[nl]I have a wallet, like today.
+RUR/RUR0003940
+Chitoge does eat a lot, doesn't she.
+RUR/RUR0003950
+I'd like to bring her next time,[nl]as well as Kosaki.
+RUR/RUR0003960
+Don't worry. I won't make you pay[nl]for next time.
+RUR/RUR0003970
+Hang on just a second.[nl]There's no reason to be struck speechless.
+RUR/RUR0003980
+Yes. After all, I'm on the team,[nl]and swimming is one of my favorite things to do.
+RUR/RUR0003990
+Thanks for your help the other day, by the way.[nl]Even if you did have ulterior motives....
+With regards to that....
+I'm sorry about that
+If you'd let me take a photo....
+RUR/RUR0004000
+Don't worry about it.[nl]I've had my cake and eaten it, too.
+RUR/RUR0004010
+Besides, thanks to everyone who showed up,[nl]I got a lot of practice in.
+RUR/RUR0004020
+I'd appreciate it if you'd help me out again in the future.[nl]Sans cameras, of course.
+RUR/RUR0004030
+Of course I won't.[nl]Have you no remorse?
+RUR/RUR0004040
+You'd better be sorry for that[nl]or I'll buy all the cakes in the shop.
+RUR/RUR0004050
+I'm glad to see you're feeling sorry for yourself.
+RUR/RUR0004060
+Well, now that you ask....[nl]I have been reading a lot of books.
+RUR/RUR0004070
+I wasn't aware of it myself....[nl]but I guess it's a hobby.
+RUR/RUR0004080
+Ichijo, do you read books?
+Do you read books?
+If they're related to[nl]my hobbies
+I don't read much
+RUR/RUR0004090
+Your hobbies are taking care of animals[nl]and cooking, right?
+RUR/RUR0004100
+Kosaki told me you have a degree[nl]of expertise with those.
+RUR/RUR0004110
+I guess you could say I'm a bit obsessive[nl]when it comes to my hobbies.[nl]It's good to have something to devote myself to.
+RUR/RUR0004120
+Ah, okay.[nl]Why not read this romance novel sometime?
+RUR/RUR0004130
+Maybe, you can use one of the wittier lines.
+RUR/RUR0004140
+You don't seem interested.
+RUR/RUR0004150
+You start a conversation and say nothing?[nl]That's not very nice.
+@rur_004_101_timeout
+RUR/RUR0003460
+You haven't said anything,[nl]does that mean we're done with this topic?
+RUR/RUR0003470
+You should at least reply.
+@rur_004_101_check
+RUR/RUR0004170
+Phew....
+RUR/RUR0004180
+You know, talking with you like this sometimes[nl]isn't so bad, Ichijo.
+RUR/RUR0004190
+It was surprisingly fun.
+@ザクシャるり・中
+@expose2
+RUR/RUR0004200
+Hahh....
+RUR/RUR0004210
+Hey, Ichijo.[nl]How much longer is this unproductive discussion?
+RUR/RUR0004220
+Can we just focus on eating right now?
+RUR/RUR0004160
+So, is there anything else you wanted to talk about?
+@rur_004_101_end
+@rur_004_201
+common.asb
+rur_004_201.asb

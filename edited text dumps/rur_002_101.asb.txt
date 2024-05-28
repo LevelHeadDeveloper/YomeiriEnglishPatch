@@ -1,0 +1,56 @@
+__main
+@Lclearscreenall
+@rur_002_101
+@2ショット開始
+Explain to Ruri!
+@ＢＧＭ再生
+RUR/RUR0001730
+Ichijo. Why did you come here without being invited?
+RUR/RUR0001740
+This isn't where you should be, is it?
+RUR/RUR0001750
+Did you sneak in because you knew[nl]Kosaki and I were here today?
+RUR/RUR0001760
+I'm sure you already know this, but breaking into[nl]someone's house without permission is a crime.
+RUR/RUR0001770
+Depending on the situation,[nl]you can't just get away with it.
+RUR/RUR0001780
+Well, what do you have to say?
+RUR/RUR0001790
+I won't know if you don't tell me.
+@rur_002_01_ans01
+@ザクシャるり・１
+RUR/RUR000
+Searching? What for?
+@rur_002_102
+@rur_002_01_ans02
+RUR/RUR0001810
+Then why were you sneaking around?[nl]Why not just come to the front door?
+RUR/RUR0001820
+Answer honestly. Why are you really here?
+@rur_002_01_ans02_b
+Why are you really here?
+To creep into the bedroom....
+Searching for something.
+@rur_002_01_ans03
+@expose
+....
+RUR/RUR0001830
+Sleazebag.
+@rur_002_201
+@rur_002_01_ans04
+RUR/RUR0001860
+Why don't you come up with a more convincing excuse?
+@rur_002_01_ans05
+RUR/RUR0001870
+I'm not interested in an apology.[nl]I just want to know what's going on.
+RUR/RUR0001880
+So, please answer honestly.[nl]Why the hell did you come here?
+@rur_002_01_ans06
+RUR/RUR0001840
+You can't answer my question?
+RUR/RUR0001850
+....I knew it, you're here for something sleazy.
+common.asb
+rur_002_102.asb
+rur_002_201.asb

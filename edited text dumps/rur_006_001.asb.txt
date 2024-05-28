@@ -1,0 +1,615 @@
+__main
+@Lclearscreenall
+@rur_006
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0004460
+Well, Raku. Lemme tell you about that[nl]"Girls-with-glasses Photo Collection" I was telling[nl]you about the other day.
+RAK/RAK0031640
+Still talking about that....[nl]You never learn, huh.
+@expose
+SYU/SYU0004470
+Obviously. The incident the other day convinced me.[nl]The "glasses girl" wave is coming, for sure!
+RAK/RAK0031650
+Really? I had no idea.
+SYU/SYU0004480
+Jeez louise, you don't have the slightest inkling of[nl]the merits of girls with glasses.... And as the editor-in-chief[nl]of the "Girls-with-glasses Photo Collection", I am appalled.
+RAK/RAK0031660
+Stop trying to pull rank on me.
+SYU/SYU0004490
+Alright! For you, O he of low aspirations,[nl]allow me to tell you how great girls with glasses are!
+RAK/RAK0031670
+No, I'm fine....
+SYU/SYU0004500
+Ummm....somewhere we can talk peacefully....
+SYU/SYU0004510
+Of course. Let's go to the nearby shrine.[nl]We can talk there without worrying about anyone else.
+RAK/RAK0031680
+You don't need to take the time to talk about this.[nl]Actually, I'd rather mind my own business.
+SYU/SYU0004520
+Hey, hey, don't be shy. I'm doing this so that[nl]I can make a great photo book and get back at Ruri.
+SYU/SYU0004530
+Well, let's go.
+RAK/RAK0031690
+....Seriously, he's appallingly pushy sometimes.
+@時間経過演出
+SYU/SYU0004540
+---Ahem.
+SYU/SYU0004550
+Well, I haven't quite mastered the art of[nl]admiring girls with glasses to the point that I can[nl]talk about it in depth.
+SYU/SYU0004560
+Until recently, I found them to be plain.[nl]They tended to be overshadowed by[nl]the more glamorous girls.
+SYU/SYU0004570
+There are some people who like girls with glasses,[nl]but I didn't really understand them.
+SYU/SYU0004580
+I was reluctant to make a photo book in that genre[nl]because I thought it would be too risky.
+RAK/RAK0031700
+First of all, when you're making a photo book[nl]of all the beautiful girls at school,[nl]that would usually be the second step....
+SYU/SYU0004590
+But, when Ruri was beating me up for trying[nl]to take photos of beautiful girls on campus, I thought....
+SYU/SYU0004600
+"Hey, girls with glasses are actually good, aren't they?"
+SYU/SYU0004610
+Isn't it awesome when a girl with glasses usually [nl]looks cool, but has a hot side hidden inside!?[nl]There's not a guy on earth who wouldn't like that contrast.
+RAK/RAK0031710
+Ummm....I can't say I can relate to that.
+SYU/SYU0004620
+Is that so? If Onodera wore glasses,[nl]I'm sure you'd notice.
+SYU/SYU0004630
+Onodera, who's usually quiet, takes off her glasses and says:[nl]"You're the only one who knows my true face, Ichijo-kun".
+........
+SYU/SYU0004640
+See? You liked that, didn't you?
+RAK/RAK0031720
+No, I mean, while it's a fascinating scene....
+RAK/RAK0031730
+I think it's more because Onodera's cute by herself,[nl]not because I like glasses....
+RUR/RUR0005390
+....What's this about Kosaki?
+RAK/RAK0031740
+Waaagh! Onodera![nl]You surprised me!
+SYU/SYU0004650
+Hiya, Ruri! What are you doing here,[nl]all by yourself in such an unpopular place?
+RUR/RUR0005400
+I was just curious about the rumors surrounding this shrine.[nl]I stopped by to check it out and heard you guys[nl]talking nonsense.
+SYU/SYU0004660
+Ah. The rumor that[nl]"any wish you make at this shrine will come true"[nl]or something like that?
+RUR/RUR0005410
+Right. This shrine's gotten famous[nl]as a power spot these days.
+RAK/RAK0031750
+(Huh, I didn't know that....)
+SYU/SYU0004670
+You must be a lonely young lady, Ruri,[nl]to come by yourself to make a wish.
+RUR/RUR0005420
+I am not.[nl]Kosaki's the one who's wondering about the rumors.[nl]I just came to scope this place out.
+RAK/RAK0031760
+(Scoping it out so Kosaki can make a wish?[nl] What is it, I wonder....)
+SYU/SYU0004680
+Hmmm.....a wish, huh.
+SYU/SYU0004690
+If it were to come true,[nl]I think I'd wish to see everyone[nl]wearing glasses at least once.
+SYU/SYU0004700
+Obviously Onodera, but imagine Kirisaki and[nl]Marika in glasses.....pretty cool, huh?
+RAK/RAK0031770
+So, you'd be taking pictures of them[nl]for your girls-with-glasses-photo-book?
+SYU/SYU0004710
+Yes, yes, you get it.
+RUR/RUR0005430
+Hahh.....[nl]I didn't know you were still talking about that, Maiko.
+RUR/RUR0005440
+Just so you know, you won't be making another[nl]indecent booklet like the last one on my watch.
+RUR/RUR0005450
+While I'm at it, I'll tell Chitoge and the others[nl]to refuse a photo shoot if you ask them.
+SYU/SYU0004720
+Gehh.....you're trying to stop me from[nl]following the path of girls with glasses, Ruri!
+RUR/RUR0005460
+I don't care. What an annoying desire....
+RUR/RUR0005470
+If you like glasses so much, why not pray to a god?[nl]Like you said earlier.
+SYU/SYU0004730
+Like "God, please make everyone wear glasses"?[nl]That's good.
+RAK/RAK0031780
+What kind of god would grant such a stupid wish?
+OTM/OTM0001960
+Thy wish has been granted~!
+RAK/RAK0031790
+Huh?
+RUR/RUR0005480
+What is it, Ichijo?
+RAK/RAK0031800
+Er, didn't you hear that just now?[nl]That ominous whisper....
+SYU/SYU0004740
+No, I didn't hear anything.[nl]Maybe you misheard?
+RAK/RAK0031810
+Then again, it sounded like a voice I've heard somewhere.....[nl]Hmmm....I have a bad feeling about this.
+RUR/RUR0005490
+A bad feeling, huh.
+RUR/RUR0005500
+Well, if my friend was a pervert who couldn't stop[nl]yelling "glasses, glasses" all the time,[nl]I suppose I'd have a pretty bad feeling, too.
+SYU/SYU0004750
+T-That's horrible, Ruri.
+RUR/RUR0005510
+I don't care to get involved with this many idiots.[nl]I'm going home.
+SYU/SYU0004760
+Well, we should probably be headed back too, Raku.
+RAK/RAK0031820
+S-Sure.
+RAK/RAK0031830
+(Hmmmm......[nl] I know I've heard that voice from somewhere.....)
+OTM/OTM0001970
+Hehehe.....
+OTM/OTM0001980
+After doing such a good turn, I feeleth excellent.[nl]Why, I can already seeth the joy on their faces. ♪
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+RAK/RAK0031840
+(Yaaaawn.....[nl] Lately, the mornings have been getting colder....)
+RAK/RAK0031850
+Heey, you guys, are you up?
+RYU/RYU0000730
+Oh, young master.[nl]Good morni---
+RYU/RYU0000740
+Y-Y-Y-Y-Young master![nl]What the hell is that!?
+RAK/RAK0031860
+What the hell is....what?[nl]Is there something on my face?
+RYU/RYU0000750
+No, the problem is that somethin' ISN'T on your face![nl]Young master, where's yer glasses!?
+RAK/RAK0031870
+Glasses....?
+RAK/RAK0031880
+Actually, you guys all seem to be[nl]wearing glasses this morning.
+RAK/RAK0031890
+Haha, cut it out, cut it out.[nl]Pretending to be intellectuals[nl]doesn't suit you guys at all.
+RYU/RYU0000760
+Huh? What're ya talkin' about, young master!?[nl]People wear glasses when they go out in public, don't they?
+RAK/RAK0031900
+Huh? How come? Even if their eyesight isn't bad?
+RYU/RYU0000770
+Why, well....[nl]Because that's normal, of course!
+RYU/RYU0000780
+Even though we're in a rather underground line of work,[nl]we can't just go walking around without our glasses!
+RAK/RAK0031910
+Huh....?
+RYU/RYU0000790
+Here, don't slouch, young master,[nl]and put these glasses on quick!
+RAK/RAK0031920
+Oh, hey! What the hell are you doing!?
+RYU/RYU0000800
+Alright! Yer all good to go!
+RAK/RAK0031930
+Huh? Are these lensless glasses?
+RYU/RYU0000810
+Indeed they are.[nl]Young master, please don't go to school without[nl]yer glasses, alright?
+RAK/RAK0031940
+(Jeez, I don't get it.[nl] What the hell is Ryuu on about?)
+RAK/RAK0031950
+(....This is so weird.[nl] It's definitely very weird.)
+RAK/RAK0031960
+(And it's not just our guys, either.[nl] Office workers going to work, housewives talking,[nl] little kids, old people, everyone's wearing glasses.)
+RAK/RAK0031970
+(The humans are bad enough....[nl] But why the hell are roadside statues[nl] and stray animals all wearing glasses, too!?)
+CTG/CTG0009820
+G'morning, Raku.
+RAK/RAK0031980
+....Y-Yo.
+CTG/CTG0009830
+Huh? Why do you look so grumpy this early?
+RAK/RAK0031990
+Of course you're wearing glasses too, Chitoge.
+@expose
+CTG/CTG0009840
+Huh? Well, of course I'm wearing glasses.[nl]Isn't that basic social ettiquete for a human?
+RAK/RAK0032000
+Social ettiquete....?
+RAK/RAK0032010
+I mean, Ryuu was doing the same thing.[nl]Why are they all acting like it's normal to wear glasses?
+RAK/RAK0032020
+I mean, you weren't even wearing glasses until today.
+CTG/CTG0009850
+Huh? What are you talking about?[nl]I never take off my glasses in public.[nl]There's no way I could do something so vulgar.
+RAK/RAK0032030
+Eh....?[nl]No, I've never seen you with glasses before today.
+RAK/RAK0032040
+What are you talking about?[nl]I have no idea....
+CTG/CTG0009860
+I'm the one who has no idea.[nl]What the hell is with you today?
+RAK/RAK0032050
+It's possible that you, my guys, and everyone in town[nl]are setting me up for some kind of prank.
+CTG/CTG0009870
+H-Hang on, what's the matter, Raku?[nl]You're mumbling to yourself.
+RAK/RAK0032060
+Anyway, there's no way I'm taking part in this farce.
+Take off your own glasses
+Take off Chitoge's glasses
+RAK/RAK0032070
+What's even the point of wearing these?[nl]I'm taking them off.
+CTG/CTG0009880
+Wha....!?
+RAK/RAK0032080
+Here, I don't even need these glasses.[nl]They just hurt my nos--
+@叫び揺れ
+CTG/CTG0009890
+GYAAAAAAAAAAAHHHHHHHH![nl]W-What the hell are you doing!?
+RAK/RAK0032090
+What, I just took off my glasses.
+CTG/CTG0009900
+A-A-A-A-Are you some kind of idiot!?[nl]You're a pervert, for taking off your glasses and showing[nl]yourself right in the middle of the street! Flasher!
+RAK/RAK0032100
+H-Hey, hey, what's the matter?[nl]You're taking the joke too far to be treating me like[nl]a pervert for taking off my gl----
+CTG/CTG0009910
+Don't come near me![nl]Perverted bean sprooooout!
+RAK/RAK0032110
+Stop cracking jokes and take off your glasses.
+CTG/CTG0009920
+Huh?
+RAK/RAK0032120
+Here, see? You're way better off without them.[nl]It's not like you're some kind of stoic chairman chara--
+CTG/CTG0009930
+GYAAAAAAAAAAAHHHHHHHHH![nl]W-What the hell did you do!?
+RAK/RAK0032130
+Huh....?
+CTG/CTG0009940
+Come on! Come on, give them back!
+@画面揺らし2
+RAK/RAK0032140
+H-Hey!?
+CTG/CTG0009950
+You moron! Perverted bean sprout![nl]You've got some nerve ripping off a girl's[nl]glasses without permission!
+RAK/RAK0032150
+Huh? What's wrong?
+CTG/CTG0009960
+Isn't it obvious!?[nl]You pervert!
+@ＨＰ－５０
+RAK/RAK0032160
+Gwaaaaaaagh!?
+RAK/RAK0032170
+(W-Why did she hit me!?)
+CTG/CTG0009970
+Hmph! That's absolutely disgusting![nl]I didn't think you were that shameless!
+CTG/CTG0009980
+No matter how much we're fake lovers,[nl]you don't know where to draw the line!?
+CTG/CTG0009990
+I don't care anymore![nl]I'm going to school alone, so don't follow me!
+RAK/RAK0032180
+....H-Hey, what the hell is going on!?[nl]At least tell me why you hit me!
+CTG/CTG0010000
+Shut up, you lecherous bean sprout![nl]I'm not going to talk to you again until you're sorry!
+RAK/RAK0032190
+T-That's unreasonable!
+RAK/RAK0032200
+(Owww.....my cheek's still burning....[nl] She used every ounce of her brute strength....!)
+RAK/RAK0032210
+(But....even here at school,[nl] everyone's wearing glasses, as far as the eye can see....)
+RAK/RAK0032220
+(I don't have a clue what's going on,[nl] but anyway, am I allowed to take off my glasses today?)
+CTG/CTG0010010
+Mrgh....
+RAK/RAK0032230
+Oh, Chitoge.
+RAK/RAK0032240
+Uh, umm, about what happened earlier....
+CTG/CTG0010020
+Nope! I don't care![nl]I'm not talking to any perverted bean sprouts!
+RAK/RAK0032250
+(Dammit. She's completely shut me down....[nl] She doesn't have a clue what I'm talking about.)
+SYU/SYU0004770
+....Hey, Raku. Got a sec?
+RUR/RUR0005520
+Good morning, Ichijo.
+RAK/RAK0032260
+Oh, Shuu and Miyamoto.[nl]Your glasses don't look out of place, at least.
+SYU/SYU0004780
+Well, that's just because we always wear them.
+RUR/RUR0005530
+Judging by your reaction, and the bruise on your cheek,[nl]you don't seem terribly comfortable with this situation, either.
+RAK/RAK0032270
+!![nl]You mean....you guys are sane, too?
+SYU/SYU0004790
+Let's talk about it on the rooftop.[nl]It'd be better if these guys didn't hear.
+RAK/RAK0032280
+....I see. So you guys woke up[nl]and found yourselves in the same situation.
+RAK/RAK0032290
+Thank goodness. I'm glad I'm not[nl]the only one who feels this way.
+RUR/RUR0005540
+This morning's been full of surprises.[nl]Everywhere I turn, it's glasses, glasses, glasses....
+SYU/SYU0004800
+Even all the reporters on TV were wearing glasses~.
+RUR/RUR0005550
+I flipped through my history textbook earlier[nl]and all the pictures of historical figures have glasses as well.
+SYU/SYU0004810
+It's so weird to see Prince Shotoku[nl]and Genghis Khan with glasses.
+RUR/RUR0005560
+It's almost like glasses rule the whole world....[nl]It makes me think the moral system has changed to the[nl]point that taking off your glasses is a sin.
+RAK/RAK0032300
+Taking off your glasses is bad, huh....
+SYU/SYU0004820
+It seems to me like taking off your glasses in public[nl]is as embarrassing as being completely naked in public now.
+RAK/RAK0032310
+I see. So that's why Chitoge beat me up this morning.
+RAK/RAK0032320
+I think I understand the situation a little more....[nl]But how did everyone come to believe that?[nl]Only the three of us are normal....
+SYU/SYU0004830
+Hmmm....now that I think about it,[nl]maybe it's because of that thing at the shrine.
+RAK/RAK0032330
+That thing?
+SYU/SYU0004840
+Ya know, yesterday, when we were out in front[nl]of the old shrine talking about girls with glasses[nl]and how I admire them?
+SYU/SYU0004850
+I said something like "wouldn't it be great if[nl]everyone wore glasses."
+SYU/SYU0004860
+Maybe a god heard what I said,[nl]and that's why things turned out like this.
+RAK/RAK0032340
+Hahaha. I don't see how that's possible, Shuu.
+RUR/RUR0005570
+Exactly. It's ludicrous to think that the world[nl]could change this much from such silly mutterings.
+SYU/SYU0004870
+Hmmmm, but it makes sense when[nl]you think about it that way.
+SYU/SYU0004880
+We're the only three people who feel uncomfortable[nl]in this world full of glasses, right?
+SYU/SYU0004890
+Maybe because we were all at the shrine when the[nl]wish was made, we got spared from everyone's[nl]adjustment of values.
+RUR/RUR0005580
+So what? Are you saying the world went wrong[nl]because of your delusion?
+RUR/RUR0005590
+Top-tier stupid.[nl]The very definition of delusional.
+SYU/SYU0004900
+Is that so?[nl]I don't think my theory's impossible....
+RUR/RUR0005600
+No way, it's completely impossible.[nl]If such a god exists, I'd love to see proof.
+OTM/OTM0001990
+I hath the proof right here.
+RUR/RUR0005610
+RUR/RUR0005620
+W-Who is this girl!?[nl]When did she get here!?
+SYU/SYU0004910
+Oh, you're not wearing glasses, either?
+RUR/RUR0005630
+Forget that, you've got ears and a tail and stuff![nl]What is this, cosplay!?
+RAK/RAK0032350
+Otama! What are you doing here!?
+OTM/OTM0002000
+Well, I am an Inari-sama who cometh and goeth as I please.[nl]I only showed myself here because there art ignorant people[nl]whomst would deign to deny my existence!
+SYU/SYU0004920
+Huh? What's this?[nl]Raku, do you know her?
+RAK/RAK0032360
+Uhh....I was trying to keep this a secret....[nl]But it can't be helped now. Truth is.....
+SYU/SYU0004930G
+Inari-sama!?
+RUR/RUR0005650
+What, so you really are a god?
+OTM/OTM0002010
+I'm a youkai, to be precise.[nl]I am still in training to become a full-fledged "Sacred Fox".
+OTM/OTM0002020
+Watch!
+RUR/RUR0005660
+!!
+RUR/RUR0005670
+Well?
+RUR/RUR0005680
+I don't believe it....[nl]But, surely, this isn't human work....
+SYU/SYU0004940
+Oho, Ruri, you god-denier,[nl]you finally believe me?
+RUR/RUR0005690
+Whether or not I do believe it,[nl]if it happens right before my very eyes....
+RUR/RUR0005700
+So this glasses-world is your work, as well?
+RUR/RUR0005710
+Verily. Granting wishes is my mission and my training.[nl]That is why I granted thy wish.
+RUR/RUR0005720
+Hehehe....I have filled the whole world with glasses.[nl]By my hand, everyone in the world will endure[nl]"un-bear-a-ble shame" without their glasses.
+RAK/RAK0032370
+S-Seriously....?
+RAK/RAK0032390
+You really are a powerful youkai!
+RUR/RUR0005730
+Haha, is it not great?[nl]Wonderful, perhaps? Thou shouldst be grateful!
+RUR/RUR0005740
+Bwahahahaha!
+SYU/SYU0004950
+Ummmm, Earth to Miss Fox?
+SYU/SYU0004960
+I appreciate the thought, but isn't this a bit much?[nl]If everyone's wearing glasses, it doesn't mean[nl]anything anymore.[nl]There's no scarcity value.
+RUR/RUR0005750
+Indeed.... Not that I give a crap what Maiko says,[nl]but this world where everyone's wearing glasses is too[nl]abnormal to live in. Please change everyone back.
+OTM/OTM0002080
+What's wrong with thee?[nl]I hath granted thy wish, and now thou wisheth[nl]immediately for me to undo it?
+RAK/RAK0032400
+Well, naturally.[nl]We didn't want the world to be like this in the first place.
+OTM/OTM0002090
+Good grief. Humans are selfish.
+RAK/RAK0032410
+Whatever, just fix it.
+OTM/OTM0002100
+Hmmm....'tis not that simple.[nl]Things cannot be rushed back.
+SYU/SYU0004970
+OTM/OTM0002110
+Well, as I hath said, I have divine power to spare....[nl]But for this wish, I would need to use all of it.
+OTM/OTM0002120
+'Tis not so easy to unlock, either.[nl]There is a certain procedure....
+RAK/RAK0032420
+Procedure? What is it?
+OTM/OTM0002130
+Simply put, thou must give up with thine own hands[nl]the desire that was the source of the wish.
+OTM/OTM0002140
+"Cutting off worldly desires", one might say.
+RUR/RUR0005760
+Cutting off worldly desires, huh....
+RUR/RUR0005770
+If this situation was born from a worldly desire[nl]for girls with glasses, then it will go back to normal[nl]if we do something about that desire?
+OTM/OTM0002150
+Mhm. Thou art quick on the uptake.
+OTM/OTM0002160
+More specifically, thou must rip off the glasses[nl]of the people around thee.
+RAK/RAK0032430
+Huh? What do you mean "rip off their glasses"!?
+OTM/OTM0002170
+I hath turned thy desire to "see the people[nl]around thee wearing glasses" into a reality.
+OTM/OTM0002180
+Then, to remove the glasses from those[nl]closest to thee is proof enough that thou[nl]hast broken free of thy worldly desire.
+RAK/RAK0032440
+I see. I kind of understand the logic....
+SYU/SYU0004980
+But wouldn't that be pretty hard?
+SYU/SYU0004990
+Everyone's super shy about taking off their glasses.[nl]They probably wouldn't, even if we asked them.
+RAK/RAK0032450
+Yeah. And if you force them off,[nl]they treat you like a criminal....
+RUR/RUR0005780
+By the way, how many people do we need[nl]to take glasses off of?
+OTM/OTM0002190
+Let me see....[nl]I thinketh that if thou removeth seven people's glasses,[nl]thy desires will be removed.
+RAK/RAK0032460
+Seven, huh....that's quite a few.
+SYU/SYU0005000
+Oh, Miss Fox.[nl]If we take off our own glasses, would that count,[nl]since we're close to ourselves?
+OTM/OTM0002200
+Well, I suppose that's alright.[nl]It can be anyone close to thee,[nl]as long as they're wearing glasses.
+SYU/SYU0005010
+Alright. I think we can manage this.[nl]If we're three people already, we just need four more.
+RAK/RAK0032470
+Okay, let's just take ours off for now....
+RUR/RUR0005790
+Okay.
+SYU/SYU0005020
+Sure.
+RAK/RAK0032480
+(Hm....?)
+SYU/SYU0005030
+Umm.....?
+RUR/RUR0005800
+What....?
+RAK/RAK0032490
+(What's going on?[nl] Somehow, this feels immoral....)
+SYU/SYU0005040
+....H-hey. What's the matter, Raku?[nl]Why don't you take off your glasses?
+RUR/RUR0005810
+You're the one who stopped taking off[nl]your glasses, Maiko.
+RAK/RAK0032500
+You're one to talk, Miyamoto....
+OTM/OTM0002210
+Mhm. It would seem the wish is gradually taking[nl]effect on all of thee, as well.
+RUR/RUR0005820
+Then this strange embarrassment[nl]at the prospect of taking of my glasses....
+RAK/RAK0032510
+Does this mean the wish is starting to affect us?
+SYU/SYU0005050
+Huh? Well, that's not good. If we can't even[nl]take off our own glasses, much less other people's,[nl]that's the end of the line right there.
+RUR/RUR0005830
+T-That's right. I know that in my head, but....
+OTM/OTM0002220
+Better move fast if you want to outrun the wish.
+OTM/OTM0002230
+By sundown, like everyone else, all three of thee[nl]will find it impossible to bear the thought of[nl]taking off your glasses.
+RAK/RAK0032520
+So the time-limit is until evening....
+SYU/SYU0005060
+There's no time to lose.[nl]Alright, Raku. I'm gonna take the plunge[nl]and take these off....
+SYU/SYU0005070
+Tchaaaaaa!
+RAK/RAK0032530
+Whoa! That was surprisingly manly, Shuu!
+RUR/RUR0005840
+W-Wait, Maiko![nl]What did you just take off!?
+SYU/SYU0005080
+Well, it's.....[nl]It couldn't be helped. This is a special case.
+RUR/RUR0005850
+I-I know! I know that, but....!
+SYU/SYU0005090
+Well then, let's get Ruri's off as well.[nl]Together.
+RUR/RUR0005860
+D-D-D-Don't come near me![nl]Don't get any closer to me with your glasses off!
+SYU/SYU0005100
+Ohh.....Ruri![nl]Where are you going!
+RUR/RUR0005870
+I-I'm going to separate from you guys for a while![nl]See you!
+SYU/SYU0005110
+R-Ruri!?
+RAK/RAK0032540
+For Miyamoto, it's like you[nl]suddenly got naked in front of her.
+SYU/SYU0005120
+Yeah, I guess so....[nl]She's treating me like a pervert,[nl]and that's kinda hard for me to deal with.
+SYU/SYU0005130
+Raku! You gotta--
+RAK/RAK0032550
+I know. I'm not running away!
+RAK/RAK0032560
+....But if I'm this embarrassed,[nl]it's kinda hard to set my mind to it.
+OTM/OTM0002240
+It's fine. Thou art both men, so just take them off![nl]What need is there to be bashful around another man!?
+RAK/RAK0032570
+No, it's more that you're here.[nl]I don't feel like exposing myself in front of a little girl.
+SYU/SYU0005140
+....Raku, don't worry about it so much.[nl]That's a false sense of shame.
+RAK/RAK0032590
+Yeah, I know, but....
+SYU/SYU0005150
+If you can't do it, how about I take them off for you?
+RAK/RAK0032600
+Huh?
+SYU/SYU0005160
+Whaaat, you'll get used to it once you take them off.[nl]Here, turn you head this way.
+RAK/RAK0032610
+H-Hey! Stop it, Shuu![nl]Don't try to force them off!
+SYU/SYU0005170
+This is all so that we can restore this world to its[nl]original state! You're just wasting time by resisting!
+RAK/RAK0032620
+It's fine! I can do it, I can do it![nl]I can do it myself!
+SYU/SYU0005180
+No need to be so shy.[nl]Just relax your shoulders, Raku!
+KSK/KSK0008310
+Ichijo~, Maiko~![nl]It's time for--
+KSK/KSK0008320
+....home....room....?
+RAK/RAK0032630
+SYU/SYU0005190
+Oh.
+KSK/KSK0008330
+I-Ichijo and Maiko are hugging each other[nl]and taking off each other's glasses....
+KSK/KSK0008340
+Ah....hahahahaha......
+RAK/RAK0032640
+H-Hey, wait, Onodera![nl]You're probably grossly misunderstanding the situation!
+KSK/KSK0008350
+I-I'm sorry, Ichijo![nl]I didn't know you two had that kind of relationship!
+KSK/KSK0008360
+D-Don't worry, I'll tell the teacher....![nl]Umm, what should I say....
+@expose2
+KSK/KSK0008370
+I-I'm happy for you!
+RAK/RAK0032650
+O-Onoderaaaaa! No! You're wrong!
+KSK/KSK0008380
+.....Waaaaaaaaaaaaaaaaaah![nl]I don't know! I didn't see anythiiiing!
+......
+SYU/SYU0005200
+Ahahahaha....[nl]She completely misunderstood us....
+RAK/RAK0032660
+It's all over....[nl]My high school days are all over....
+SYU/SYU0005210
+Hey, it'll be okay![nl]If we can fix this glasses-world problem,[nl]wouldn't that clear up Onodera's misunderstanding?
+RAK/RAK0032670
+Yeah, you're right....[nl]I've got to bank everything on that possibility....
+RAK/RAK0032680
+I'll do whatever it takes to fix this world![nl]Even if it costs me....my dignity!
+SYU/SYU0005220
+Oho....! Raku, you took off your own glasses!
+RAK/RAK0032690
+I won't hesitate anymore![nl]I'm gonna rip off everyone's glasses!
+OTM/OTM0002250
+Well, I liketh the enthusiasm, gentlemen. But would it not[nl]be prudent to keep thy glasses on for the time being?
+RAK/RAK0032700
+OTM/OTM0002260
+Because, without thy glasses, thou wouldst[nl]appear as lecherous ruffians in this world.
+RAK/RAK0032710
+T-That's right. Even if we negotiate with people to remove[nl]their glasses, someone might call the police on us[nl]if we don't wear ours....
+SYU/SYU0005230
+We have to go to class.[nl]Let's wait until lunch break and then start operating.
+@ＢＧＭ停止
+@フェードアウト
+RAK/RAK0032720
+(Thus began the spectacular spectacle hunt[nl] for world order at the expense of my dignity.)
+RAK/RAK0032730
+(We only need to get five more pairs.[nl] Let's see whose we can take off first....)
+@ヌキアシ開始処理
+common.asb

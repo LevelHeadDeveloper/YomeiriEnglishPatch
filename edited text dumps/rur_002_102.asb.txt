@@ -1,0 +1,40 @@
+__main
+@Lclearscreenall
+@rur_002_102
+@expose
+RUR/RUR0001890
+I wonder if it's like sneaking into a[nl]girl's room to look for her.
+RUR/RUR0001900
+What the hell were you looking for?
+@rur_002_02_ans01
+@ザクシャるり・１
+RUR/RUR0001910
+A DVD?
+RUR/RUR0001920
+That's right, Chitoge did say she borrowed[nl]a DVD from you, Ichijo.
+RUR/RUR0001930
+She said we should watch it together later....
+@rur_002_103
+@rur_002_02_ans02
+RUR/RUR0001940
+Then all you need to do is[nl]tell Chitoge to "give it back". Three simple words.
+RUR/RUR0001950
+It's not something to be sneaking into her room over.
+RUR/RUR0001960
+I think you're still lying, Ichijo.
+What do you say?
+Tell her about the DVD
+Laugh and cover it up
+@rur_002_02_ans03
+@rur_002_01_ans03
+@rur_002_02_ans04
+@expose
+RUR/RUR0001970
+I guess you're running out of excuses.
+RUR/RUR0001980
+I knew you had something to hide.
+@rur_002_201
+common.asb
+rur_002_103.asb
+rur_002_101.asb
+rur_002_201.asb

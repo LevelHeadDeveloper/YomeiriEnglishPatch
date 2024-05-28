@@ -1,0 +1,41 @@
+__main
+@Lclearscreenall
+@snk_151
+SYU/SYU0002680
+....Come in, Raku. How's it going in there?
+RAK/RAK0028600
+This is Raku, I've successfully infiltrated[nl]the Kirisaki residence.
+RAK/RAK0028610
+There's a few middle-aged dudes on guard,[nl]but so far, no one's seen me yet.
+SYU/SYU0002690
+Alright. That's a great start.[nl]Keep searching.
+SYU/SYU0002700
+But keep in mind you're breaking into a girl's house.[nl]Don't make any loud noises.
+RAK/RAK0028620
+Well, this is Chitoge's house,[nl]or I should say a gang's hideout....[nl]If they find me, I won't get off scot-free.
+RAK/RAK0028630
+You're a real bastard, Shuu, making your[nl]friend sneak into a place like this.
+SYU/SYU0002710
+I'm not Shuu. Call me Colonel.[nl]There's a chance the enemy will intercept this frequency.
+RAK/RAK0028640
+Jeez, why are you so flippant....[nl]Anyway, there's no frequency to intercept.[nl]We're using cellphones.
+SYU/SYU0002720
+....Well, joking aside.
+SYU/SYU0002730
+I didn't want you in harm's way, either.
+SYU/SYU0002740
+But unless we get that thing back,[nl]we won't live to see tomorrow....
+RAK/RAK0028650
+Yeah, I know.[nl]I never thought I'd have to enter a gang's hideout[nl]to swap out a single DVD....
+SYU/SYU0002750
+Well, you're supposed to be Kirisaki's boyfriend,[nl]after all. If you're caught, she'd probably[nl]forgive you by only half-killing you, right?
+RAK/RAK0028660
+You bastard, pretending this is someone else's problem....[nl]If that scary Four-Eyes finds me, he'll probably kill me completely.
+SYU/SYU0002760
+Well, whatever you do, make sure to sneak into[nl]Kirisaki's room without being seen.
+SYU/SYU0002770
+If they're having a pajama party, they'll probably[nl]watch the movie around midnight, when they've run out[nl]of things to talk about.
+RAK/RAK0028670
+There's still time to sneak in, then....[nl]I'll just have to keep an eye on these old gangsters,[nl]and move slowly and unhurriedly.
+SYU/SYU0002780
+Well then, let's start the mission to get back[nl]that super-special video! Good luck....!

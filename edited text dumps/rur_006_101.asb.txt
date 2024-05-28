@@ -1,0 +1,43 @@
+__main
+@Lclearscreenall
+@rur_006_101
+@2ショット開始
+Defeat Ruri!
+@ＢＧＭ再生
+@expose
+RUR/RUR0006250
+I'd like to share my findings[nl]as someone who's always worn glasses.
+RUR/RUR0006260
+Glasses are an excellent item that give you[nl]an air of intelligence just by wearing them.
+RUR/RUR0006270
+Everyone looks intelligent. What's wrong with that?
+What's wrong with that?
+Outward appearance means nothing
+Does Shuu look intelligent?
+They make you look gloomy
+RUR/RUR0006280
+Oh. Well, the appearance can be a start.
+RUR/RUR0006290
+It's not even a big problem, really,[nl]it's just a change in appearance.
+RUR/RUR0006300
+And that isn't even the only advantage of glasses.
+@rur_006_201
+@rur_006_102
+@ザクシャるり・１
+RUR/RUR0006310
+Mgh.....That's true,[nl]it would be a stretch to say Maiko looks intelligent....
+RUR/RUR0006320
+W-Well, there are people who don't look intelligent[nl]even with glasses. I'll admit that.
+RUR/RUR0006330
+But that's not the only advantage of glasses.
+RUR/RUR0006340
+You're just prejudiced.[nl]Your perception of glasses is incorrect.
+RUR/RUR0006350
+And even if that was true....
+RUR/RUR0006360
+In a world where everyone wears glasses,[nl]that isn't even an issue.
+RUR/RUR0006370
+If you can't answer the question,[nl]then there's no issue, right?
+common.asb
+rur_006_201.asb
+rur_006_102.asb

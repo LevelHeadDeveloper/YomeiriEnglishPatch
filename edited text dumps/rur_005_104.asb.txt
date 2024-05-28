@@ -1,0 +1,34 @@
+__main
+@Lclearscreenall
+@rur_005_104
+RUR/RUR0004810
+I'm starting to get a sense of your innocence,[nl]but it's too bad there's no conclusive evidence....
+RUR/RUR0004820
+Now it's a matter of whether or not I trust you....
+RUR/RUR0004830
+Hey, Ichijo.
+RUR/RUR0004840
+Can you look me in the eye[nl]and tell me you weren't involved?
+@タッチパート開始処理
+@ザクシャるり・１
+RUR/RUR0004850
+....You don't sound like you're lying.
+@ザクシャるり・小
+RUR/RUR0004860
+I understand.[nl]I believe you, Ichijo.
+RUR/RUR0004870
+Did you just stutter?
+RUR/RUR0004880
+That's a telltale sign of your guilty conscience.
+RUR/RUR0004890
+The fact that you faltered there[nl]is a telltale sign of your guilty conscience.
+RUR/RUR0004900
+....Where were you just looking?
+RUR/RUR0004910
+That's very telling of your desires....[nl]I knew it, you're guilty.
+RUR/RUR0004920
+....Oh. You averted your eyes.[nl]That's a telltale sign of your guilty conscience.
+@rur_005_104_end
+@rur_005_201
+common.asb
+rur_005_201.asb

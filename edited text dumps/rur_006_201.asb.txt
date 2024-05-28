@@ -1,0 +1,201 @@
+__main
+@Lclearscreenall
+@rur_006_201
+@2ショット成功
+@2ショット失敗
+@rur_006_201_01
+RUR/RUR0007000
+That was a pretty good fight....[nl]But not good enough to make me submit.
+RUR/RUR0007020
+Come on, why don't you just give up?[nl]There's nothing wrong with being in a world of glasses.
+RUR/RUR0007030
+Apparently, you don't have much to say against it.
+RUR/RUR0007050
+You're convinced now, aren't you?[nl]There's nothing wrong with being in a world of glasses.
+I'm convinced.
+I'm not convinced.
+@rur_006_202
+@expose
+RUR/RUR0007060
+Ah, I see....
+RUR/RUR0007070
+Well then, I'll explain it from the beginning.[nl]Unplug your ears and let me tell you[nl]all about the beauty of glasses.
+@rur_006_101
+@rur_006_201_02
+RUR/RUR0007080
+You argue quite vehemently, Ichijo.[nl]Why do you hate the glasses-world so much?
+RAK/RAK0033630
+Well, I wouldn't say I don't like glasses. But....
+RAK/RAK0033640
+....Miyamoto. I have a question for you.[nl]How can a woman like you sympathize with[nl]a world like this one?
+RUR/RUR0007090
+Because I've always worn glasses.[nl]I don't see anything wrong with a world full of--
+RAK/RAK0033650
+That's not what I meant![nl]You know how this world came into being!
+RAK/RAK0033660
+And I'm asking how you can be okay with that!
+RUR/RUR0007100
+How this world came into being....?
+RAK/RAK0033670
+It's because a certain idiot kept[nl]saying this word!
+@ＢＧＭ再生
+RUR/RUR0007110
+What are you talking about?
+RUR/RUR0007120
+If you can't remember,[nl]then it isn't a big deal.
+RAK/RAK0033680
+No, wait! I'm trying to remember!
+RAK/RAK0033690
+Ummm, uhhhhhh....!
+@フェードアウト
+SYU/SYU0005720
+Raku, time's up.
+RAK/RAK0033700
+Huh?
+SYU/SYU0005730
+Look outside.[nl]The sun finished setting just now.
+SYU/SYU0005740
+And I'm suddenly intensely embarrassed....[nl]Sorry, I'll put my glasses back on, too.
+RAK/RAK0033710
+Oh....n-no way....
+RAK/RAK0033720
+(I mean, I'm getting really embarrassed too....)
+RAK/RAK0033730
+I'm still not sure how to feel about this![nl]G-Glasses, glasses!!
+@時間経過演出
+RAK/RAK0033750
+Crap. Frustratingly, it looks like[nl]Miyamoto was too persistent....
+RUR/RUR0007140
+There's nothing to be frustrated about.
+RUR/RUR0007150
+There's nothing wrong with letting this glasses-world[nl]continue as it is. 
+@rur_006_202_01
+@rur_006_201_true
+@叫び揺れ
+RUR/RUR0007160
+----!
+RUR/RUR0007170
+That's right....
+RUR/RUR0007180
+This glasses-infested world started as[nl]a manifestation of Maiko's wish.
+RUR/RUR0007190
+Then it's like I was just doing everything I could[nl]to defend his nonsensical desires....
+RUR/RUR0007200
+Aaaaagh.....I feel sick![nl]How could I have been so stupid....[nl]To succumb to a false sense of shame!?
+SYU/SYU0005750
+Hahaha.....[nl]There's no need to look so obviously disgusted~, Ruri.
+RAK/RAK0033760
+Miyamoto, have you snapped out of it?
+RUR/RUR0007210
+Yeah....that was awful....
+RUR/RUR0007220
+I'm sorry, Ichijo. I'd lost control for a while there.[nl]I'll take off my glasses now.
+SYU/SYU0005760
+Huh!? You were so stubborn about it just now,[nl]but you'll take them off just because of that!?[nl]That's not so bad!
+RUR/RUR0007230
+Shut up! I'm tired of being influenced[nl]by your vile desires.
+RUR/RUR0007240
+....Hmph!
+RAK/RAK0033770
+(Oh, she took them off with zero hesitation....)
+RUR/RUR0007250
+Alright, can we go back to normal, already?[nl]I, for one, would like to leave this[nl]crazy-glasses-fetish-world as soon as possible.
+SYU/SYU0005770
+W-What a terrible thing to say....
+RAK/RAK0033790
+Hey, Otama!
+OTM/OTM0002270
+Mhm. It would seem that, with moments to spare,[nl]thou hast removed the glasses from seven people.
+OTM/OTM0002280
+Well then, I shall undo the wish....[nl]Doth any of thee have any objections?
+SYU/SYU0005780
+Oh, wait a sec!
+RAK/RAK0033800
+What's wrong, Shuu?
+SYU/SYU0005790
+Well, I just realized I hadn't taken any pictures at all,[nl]even though the world was full of girls with glasses.[nl]Let me just take a picture of the swim team right--
+@expose2
+@キャラ揺らし
+SYU/SYU0005800
+....Glckbth!
+RUR/RUR0007260
+Hurry up and change it back.
+OTM/OTM0002290
+Mhm. Everyone, close thine eyes.[nl]Go on, return to nooormaaaal!
+@ＢＧＭ停止
+@ホワイトアウト
+@背景変更
+RAK/RAK0033810
+Hm....?
+RUR/RUR0007270
+We're back....I think.[nl]Nothing seems to have changed.
+SYU/SYU0005810
+Oh, but look, the swimmers coming out of the locker room[nl]don't seem to be wearing glasses.
+RAK/RAK0033820
+Oh, that's true.[nl]Looks like we're back to normal, then.
+SYU/SYU0005820
+Mmmmm, the naked eye seems so fresh,[nl]coming back from the glasses world.
+SYU/SYU0005830
+Alright, to commemorate our safe return, Ruri,[nl]smile for the camera!
+RUR/RUR0007280
+Whaaa....![nl]Why are you pointing a camera at me all of a sudden!?
+SYU/SYU0005840
+Well, ya know. We're back to normal now,[nl]so I'd like at least one picture of a beautiful girl[nl]without glasses as a souvenir.
+RAK/RAK0033830
+You....never learn, do you.
+RUR/RUR0007290
+Hey, Maiko.[nl]Do you really think I'd let you take a picture of me?
+RUR/RUR0007300
+I can't see even five centimeters without my glasses.[nl]So I'm done not wearing them.
+SYU/SYU0005850
+Awww, you're gonna wear your glasses again?[nl]Your naked eyes were so precious to me.
+RAK/RAK0033840
+You went on and on and on about girls with glasses,[nl]and now you're all over girls *without* glasses.[nl]You're really capricious.
+SYU/SYU0005860
+Well, after being completely surrounded[nl]by people with glasses, even I've had my fill. Hahahaha.
+RUR/RUR0007310
+What do you mean "Hahahaha"? Jeez.
+RAK/RAK0033850
+(Anyway, it's good to be back in this world....)
+@エンディング
+SYU/SYU0005870
+Maaaan, I really love girls with glasses~.
+RAK/RAK0033860
+(That's not what you were saying yesterday at all!)
+KSK/KSK0008510
+Hey, Maiko.[nl]How long do I have to stand here wearing these glasses?
+SYU/SYU0005880
+Oh, sorry, I just need 2, maybe 3 more shots.[nl]Hehe, these are gonna fetch a good price for sure.
+RUR/RUR0007320
+Maiko, tell me again what you're making Kosaki do.
+SYU/SYU0005890
+Huh? What do you mean,[nl]obviously she's modeling for a glasses-girl-photo-b---
+@画面揺らし
+SYU/SYU0005900
+WAAAAAAGH! RURI![nl]YOU BROKE ANOTHER CAMERAAAAAAAAA!!
+RUR/RUR0007330
+Ichijo, you should have stopped him.
+RAK/RAK0033870
+Well, I tried to stop him,[nl]but he kept absolutely insisting on taking a picture[nl]of Onodera wearing glasses.
+RAK/RAK0033890
+I figured it would be a problem if he tried sneaking a photo,[nl]so I'm having him take one where we can all see him.
+RUR/RUR0007340
+You haven't improved at all. Jeez....
+RUR/RUR0007350
+I might as well stop wearing glasses. I think I'd rather[nl]wear contacts than have Maiko looking at me like a perv....
+RAK/RAK0033900
+Really? I think you look better with glasses, Miyamoto.
+RAK/RAK0033910
+I saw a lot of people wearing glasses yesterday,[nl]but I think yours suited you the most.
+RUR/RUR0007360
+......Hmmmm.....I see.
+RUR/RUR0007370
+Well, if you say so, I guess it's alright....
+RUR/RUR0007380
+....Ichijo.
+@clearscreenall
+@汎用フラグ・変数をすべてクリア
+@イベント終了処理
+common.asb
+rur_006_202.asb
+rur_006_101.asb

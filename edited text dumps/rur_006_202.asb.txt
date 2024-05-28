@@ -1,0 +1,117 @@
+__main
+@Lclearscreenall
+@rur_006_202
+@ＢＧＭ再生
+RUR/RUR0007390
+I'm glad you understand.
+RUR/RUR0007400
+I don't have a problem with this glasses-world continuing[nl]to exist as it does. So there's no need to be embarrassed[nl]to put your glasses back on.
+@rur_006_202_01
+RAK/RAK0033920
+I see, is that so....?
+@expose
+RUR/RUR0007410
+We'll be fine. We're all wearing glasses,[nl]so our days will be the same as yesterday.
+SYU/SYU0005910
+Really, listening to you, Ruri,[nl]I feel like it doesn't matter either way!
+SYU/SYU0005920
+I know girls with glasses are the norm now,[nl]but if you really think about it, there's more room for the[nl]"girls with no glasses" genre, right?
+RAK/RAK0033930
+G-Girls with no glasses....I guess there is now.[nl]But wouldn't that just make you a regular pervert in this world?
+RUR/RUR0007420
+Right, right. As long as you understand those values,[nl]you'll get used to this world, Ichijo.[nl]Don't worry too much, you'll be fine.
+RAK/RAK0033940
+Yeah, you're right....[nl]It feels strange right now....[nl]But maybe it is just a matter of getting used to it.
+RAK/RAK0033950
+So maybe you're right, Miyamoto.[nl]We don't need to force things back to how they were.
+RUR/RUR0007430
+I'm glad you made the safe choice.[nl]Thank you, Ichijo and Maiko.
+SYU/SYU0005930
+Hey, hey, don't worry about it.[nl]We're glasses buddies, after all.
+RUR/RUR0007440
+It's kind of emotional to think about how[nl]that phrase won't apply after this time.
+RAK/RAK0033960
+I guess so.[nl]After all, everyone else is wearing glasses too, right?
+RUR/RUR0007460
+Ichijo, don't forget to wear your glasses tomorrow.
+RAK/RAK0033970
+Yeah, I know.[nl]Glasses or get caught!
+RAK/RAK0033520G
+Hahahahahahahaha!
+@rur_006_202_another
+@フェードアウト
+RAK/RAK0033980
+(In the end, we decided not to take off[nl] our glasses that day and let the glasses-world[nl] continue to exist....)
+RAK/RAK0033990
+(Everyone wears glasses, wherever we look.[nl] Politicians and celebrities on TV, dogs[nl] and cats on the streets, everyone.)
+RAK/RAK0034000
+(At first, it was confusing to see[nl] everyone wearing glasses all the time....)
+RAK/RAK0034010
+(But like Miyamoto said,[nl] once I got used to it, it didn't[nl] seem like a big deal....)
+RAK/RAK0034020
+(Humans have a terrifying capacity for adaptation,[nl] so once they get used to something,[nl] it doesn't seem like a big deal....)
+@ＢＧＭ停止
+@背景変更
+@ＢＧＭ再生
+RAK/RAK0034030
+It's starting to feel less and less out of place[nl]that everyone in our class is wearing glasses....
+KSK/KSK0008520
+Huh? Ichijo, what did you say?
+RAK/RAK0034040
+Uh, nothing. It wasn't important....
+........
+KSK/KSK0008530
+Um, w-what's the matter?[nl]You're staring at my face....
+RAK/RAK0034050
+I was wondering....[nl]Onodera, do you ever take off your glasses?
+@expose
+KSK/KSK0008540
+Aaaaaaah!?[nl]I-I can't do that in public!
+KSK/KSK0008550
+Oh, but Ichijo, what happened[nl]to that thing you told me about fixing the broken world?
+RAK/RAK0034060
+S-Sorry, Onodera. You can just.....forget I said anything.[nl]That was just a little misunderstanding.
+KSK/KSK0008560
+O-Oh, yeah. I thought so.[nl]Haha....hahaha.....
+RAK/RAK0034070
+O-Oh, yeah.[nl]I'm sorry if I asked you something weird.....
+KSK/KSK0008570
+N-No. It's okay, but....
+KSK/KSK0008580
+I-I have to go to my next class for my elective.[nl]Next is History of Glasses!
+RUR/RUR0007470
+Do you still have any regrets?[nl]About not returning to the original world?
+RAK/RAK0034080
+No, not really. I just miss Onodera's old face.
+RUR/RUR0007480
+Hmmm....
+RAK/RAK0034090
+Well, I've gotten so used to this world's new ettiquete[nl]that I feel uneasy if I ever take off my glasses.[nl]It feels like I'm finally getting the hang of things.
+RUR/RUR0007490
+Hey, Ichijo.
+RAK/RAK0034100
+What is it?
+RUR/RUR0007500
+If you miss people's real faces so much,[nl]how about I take off my glasses for you?[nl]Consider it a one-time favor.
+RAK/RAK0034110
+Huh....?
+RAK/RAK0034120
+Y-You're joking, aren't you, Miyamoto.
+RUR/RUR0007510
+Yes. Of course I'm joking.[nl]I'd never do something so outrageous.
+RAK/RAK0034130
+T-That's true....[nl]You really had me there.
+RUR/RUR0007520
+Well, one day you won't miss people's real faces.[nl]Until then, have a little patience.
+RAK/RAK0034140
+Yeah....
+RAK/RAK0034150
+Well, whatever the case, thanks, Miyamoto.[nl]I'm glad there's people like you and Shuu[nl]who understand the situation.
+RUR/RUR0007530
+Likewise. Let's do our best until we get used to this.
+RUR/RUR0007540
+Okay, Ichijo?
+@フェードアウト
+@ＴＨＥＥＮＤ
+@イベント終了処理
+common.asb

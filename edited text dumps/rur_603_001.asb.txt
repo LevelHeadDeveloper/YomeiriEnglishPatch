@@ -1,0 +1,269 @@
+__main
+@Lclearscreenall
+@rur_603
+@ヌキアシ終了処理
+@rur_603_failure
+@イベント開始処理
+RAK/RAK0033120
+Hahh....hahh....
+RAK/RAK0033130
+No good....[nl]I don't think we can get seven people's glasses....
+SYU/SYU0005390
+Hmmm.....that's true.[nl]This isn't so easy.
+RAK/RAK0033140
+(If we give up now, we'll end up stuck in glasses-world.[nl] But then there's the matter of surviving....)
+RAK/RAK0033150
+(What should I do? Give up?)
+I'm not giving up yet!
+Give up and accept this world.
+RAK/RAK0033160
+No....this world is just not right!
+RAK/RAK0033170
+We're not giving up. Let's do it all over again!
+@ヌキアシリトライ処理
+RAK/RAK0033180
+No....I just don't have the mental strength[nl]to go any further.
+@ＢＧＭ再生
+RAK/RAK0033190
+Sorry, Shuu. I'm going to accept this world.
+SYU/SYU0005400
+I see....[nl]Well, this was my fault to begin with, and if[nl]that's your decision, then I won't object to it.
+@expose
+SYU/SYU0005410
+Now that we're here, let's try to live[nl]positively in this world, shall we?
+RAK/RAK0033200
+Haha....you sure changed gears quickly.
+SYU/SYU0005420
+Well, sure. I'm sure we'll be fine here.[nl]Well then, let's go tell Ruri about our decision.
+@rur_006_202_another
+@rur_603_success
+SYU/SYU0005430
+We managed to get four pairs of glasses.[nl]Counting ours, that's six in total....[nl]Wowww, we sure did a great job!
+RAK/RAK0033210
+I think I get at least 80% of the credit for that....
+SYU/SYU0005440
+But it's too early to let our guard down just yet.[nl]We need seven pairs of glasses. The final mega-boss[nl]is waiting for us, just before the sun sets.
+RAK/RAK0033220
+Final mega-boss?
+SYU/SYU0005450
+Yes. The person closest to us,[nl]and apparently the most unconquerable....
+SYU/SYU0005460
+....It's Ruri.
+@フェードアウト
+@背景変更
+SYU/SYU0005470
+Oh, over there. Ruri!
+RAK/RAK0033230
+(Miyamoto....[nl] She's wearing a swimsuit,[nl] but she's also wearing glasses....)
+RUR/RUR0005880
+You guys....[nl]Have you finished getting glasses?
+SYU/SYU0005480
+Mostly. There's just one small thing left.
+RUR/RUR0005890
+Hmmmm, good work....
+RUR/RUR0005900
+Well? Since you're both here,[nl]how about you go swimming, too?
+RAK/RAK0033240
+Sorry, we don't have time for that.[nl]It's almost sunset.
+RAK/RAK0033250
+So we're here for the last pair of glasses.
+RUR/RUR0005910
+Hmmm.....I see.
+........
+RAK/RAK0033260
+Hey, Miyamoto, you know what I'm talking about, right?
+RUR/RUR0005920
+What is it?
+RAK/RAK0033270
+That last pair of glasses is yours.
+RUR/RUR0005930
+It doesn't have to be mine.
+RUR/RUR0005940
+There are other people close to you, right?[nl]....For example, your family.
+@expose
+SYU/SYU0005490
+We don't have time to go home.[nl]Besides....
+SYU/SYU0005500
+The only person that's close to *all three of us*[nl]is you, Ruri. You're the only one that fits the bill.
+RAK/RAK0033280
+So please, Miyamoto. Take off your glasses.[nl]That way we can be out of here as---
+RUR/RUR0005950
+I don't want to.
+RAK/RAK0033290
+Huh?
+RUR/RUR0005960
+Didn't you hear me?[nl]I said I don't want to.
+RAK/RAK0033300
+W-Why not, Miyamoto!?[nl]If you don't take off your glasses,[nl]the world's not gonna go back to normal!
+RAK/RAK0033310
+You said yourself that it was too crazy here!
+RUR/RUR0005970
+Indeed. It's not normal at all.[nl]I think it's absurd to live in a world where everyone[nl]has to wear glasses.
+RUR/RUR0005980
+But, more importantly, I don't[nl]want to take off my glasses in front of you guys.
+SYU/SYU0005510
+Does that mean you're embarrassed?
+RUR/RUR0005990
+Yes, that is correct.
+RUR/RUR0006000
+I know in my head that it's silly to feel that way.[nl]But what use is there in trying not[nl]to be embarrassed?
+RAK/RAK0033320
+No way....[nl]Even Onodera trusted me and gave me her glasses....
+RUR/RUR0006010
+Kosaki is Kosaki. I'm me.[nl]I have no obligation to show you guys my true face.
+RUR/RUR0006020
+I'd rather live and die in this glasses-world[nl]than do something so embarrassing. There aren't any[nl]downsides to living a normal life here for me.
+RAK/RAK0033330
+----
+RAK/RAK0033340
+So you don't intend to return to the original world!?
+RUR/RUR0006030
+You'd prefer this world too, wouldn't you, Maiko?[nl]You've been making so much noise about girls with glasses.
+RUR/RUR0006040
+Isn't this place basically your ideal world, in a sense?
+SYU/SYU0005520
+Hmmmm. You raise a good point....
+RAK/RAK0033350
+No, wait, Shuu.[nl]Don't listen to her.
+RAK/RAK0033360
+Because of us, everyone's views on glasses have[nl]gone awry. So it's up to us to bring them back to normal!
+RUR/RUR0006050
+I wouldn't necessarily say....that it's gone awry.
+RAK/RAK0033370
+What do you mean?
+RUR/RUR0006060
+Clothing values change so easily. There was a time when it[nl]was fine to live in a hole with only a loincloth, and there was a time when everyone had to wear suits on crowded trains.
+RUR/RUR0006070
+Neither one is particularly correct, right?
+RUR/RUR0006080
+It's the same either way, glasses or no glasses.[nl]In the end, you'll get used to it, and it won't[nl]matter whether it's right or wrong.
+SYU/SYU0005530
+Haha....this is philosophy....
+RAK/RAK0033380
+Shuu!
+SYU/SYU0005540
+But you're just using sophistry[nl]to hide your embarrassment.
+RUR/RUR0006090
+!!
+RUR/RUR0006100
+....I am. Is there a problem?
+RUR/RUR0006110
+Anyway, I'll never take off my glasses.
+RAK/RAK0033390
+........
+RUR/RUR0006120
+Get out of my way.[nl]I'm going to go change.
+RAK/RAK0033400
+....Dammit! She really is unconquerable![nl]We're running out of time, what do we do!?
+SYU/SYU0005550
+....Hey, Raku.
+RAK/RAK0033410
+What?
+SYU/SYU0005560
+I was just thinking....
+@expose2
+SYU/SYU0005570
+It might actually not be a bad idea[nl]to live in this glasses-world, like Ruri said?
+SYU/SYU0005580
+It is a paradise in a way, though it's not as interesting[nl]since all the girls are wearing glasses.
+RAK/RAK0033420
+Hey, hey, what kind of joke....
+@expose
+SYU/SYU0005590
+I didn't mean it as a joke.[nl]I'm just saying, we could.
+Sure, I guess we could.
+No, we can't!
+RAK/RAK0033430
+(Really!? Am I really sure about that!?)
+Yes!
+No, I'm not at all!
+......
+@ＢＧＭ再生
+RAK/RAK0033440
+Actually....even if we are feeling uncomfortable now,[nl]it might just be a matter of getting used to it....
+RAK/RAK0033450
+I don't think it's right to force Miyamoto to[nl]take off her glasses when she doesn't want to.
+SYU/SYU0005600
+Right? There's no inconvenience except for the glasses,[nl]so let's enjoy the rest of our lives with glasses.
+RAK/RAK0033460
+Alright, let's do it.[nl]Starting tomorrow, we'll be living in[nl]harmony with everyone else.
+SYU/SYU0005610
+Well, Raku, don't forget to wear your glasses tomorrow.[nl]In this world, not wearing glasses could be[nl]considered indecent exposure.
+RAK/RAK0033470
+I know.
+RAK/RAK0033480
+You've always worn glasses, so you don't need to worry.[nl]I envy you.
+RUR/RUR0006130
+....Sounds like you've gotten your story straight.
+RAK/RAK0033490
+Miyamoto!?
+RUR/RUR0006140
+Thank goodness.[nl]It would seem you were convinced after all.
+RAK/RAK0033500
+Yeah. Starting tomorrow, I'll be[nl]one of 1-C's four-eyeses.
+RAK/RAK0033510
+Happy to be here, four-eyeses!
+SYU/SYU0005620
+Well, we're not really the "four-eyeses" anymore[nl]now that all our classmates wear glasses.
+RUR/RUR0006150
+Well, duh, the whole world's wearing glasses.
+RAK/RAK0033520G
+Hahahahaha!
+@rur_006_202_another
+RAK/RAK0033530
+No, that's not how this works. This is an unusual situation[nl]that was caused by our irresponsibility. We can't just[nl]turn a blind eye and run away from it.
+RAK/RAK0033540
+It's in my family's "Hundred Articles of Manhood".[nl]"You gotta wipe your own ass," it says.
+SYU/SYU0005640
+Ooooh....what a cool line, Raku.[nl]If I was a woman, I might have just fallen in love with you.
+RAK/RAK0033550
+Hey, don't be creepy.[nl]Onodera almost misunderstood earlier.
+SYU/SYU0005650
+Hahaha....[nl]Well, what you said is true.
+SYU/SYU0005660
+As anticipated, I have seen enough[nl]girls with glasses for one day.
+RAK/RAK0033560
+Yeah. I'm gonna beg Miyamoto and try to[nl]get her to take off her glasses.
+RUR/RUR0006170
+....That's not going to happen.
+RAK/RAK0033570
+!![nl]Miyamoto!
+SYU/SYU0005670
+You're done changing, Ruri.[nl]While you're at it, take off the glasses as well as the swimsuit.
+RUR/RUR0006180
+I already told you I don't want to.[nl]How many times do I have to repeat myself?
+RUR/RUR0006190
+Besides, if you ask me,[nl]there's no need to undo any of this.
+RUR/RUR0006200
+Glasses are wonderful.[nl]All humankind gets glasses. This is not bad.
+RAK/RAK0033580
+Dammit, you really aren't taking them off, are you....
+RUR/RUR0006210
+I'm saying that the idea that you should be taking them off[nl]and putting them back on is wrong. If you want, I can tell[nl]you what I mean. I'll tell you how good glasses are.
+RUR/RUR0006220
+And I'll take my time, so that we can[nl]stay in this world for the rest of our lives.
+SYU/SYU0005680
+I see. So you want to settle this through discussion.[nl]In that case, I accept your challenge!
+SYU/SYU0005690
+....on Raku's behalf!
+RAK/RAK0033590
+Why me!?
+SYU/SYU0005700
+I keep telling you, you're the negotiator, right?
+SYU/SYU0005710
+Besides, talking to Ruri makes me feel like[nl]living in a world where everyone wears glasses[nl]might not be so bad.
+RAK/RAK0033600
+You're useless....!
+RUR/RUR0006230
+I don't care either way.[nl]I doubt I will be out-reasoned.
+RAK/RAK0033610
+It can't be helped. I'll do it.
+RAK/RAK0033620
+Miyamoto! I'll prove that your defense of glasses[nl]is just a cop-out!
+RUR/RUR0006240
+Hmph....show me what you got.
+@ＢＧＭ停止
+@rur_006_101
+common.asb
+rur_006_202.asb
+rur_006_101.asb

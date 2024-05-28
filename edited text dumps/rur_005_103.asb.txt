@@ -1,0 +1,35 @@
+__main
+@Lclearscreenall
+@rur_005_103
+RUR/RUR0004700
+But that doesn't mean your innocence[nl]has been proven yet.
+RUR/RUR0004710
+Do you have any proof that you were not involved[nl]in the sale of this photo book?
+Any proof?
+My financial status
+Maiko isn't here
+@ザクシャるり・１
+@expose
+RUR/RUR0004720
+If you'd been cooperating with Maiko,[nl]your wallet would be a lot better off, huh.
+RUR/RUR0004730
+Well, I certainly haven't noticed[nl]any improvements in your finances lately.
+RUR/RUR0004740
+But that's just circumstantial evidence.
+@rur_005_104
+RUR/RUR0004750
+You're saying that because you're not with Maiko right now,[nl]that you're not working with him?
+RUR/RUR0004760
+What if you're keeping me at bay[nl]by posing as a third party who knows nothing?
+RUR/RUR0004770
+In light of what you two have done before,[nl]I can't help but be suspicious.
+@rur_005_201
+RUR/RUR0004780
+No proof, huh.
+RUR/RUR0004790
+Then I'm sorry, but I don't believe you.
+RUR/RUR0004800
+In light of what you've done before,[nl]I can't help but be suspicious.
+common.asb
+rur_005_104.asb
+rur_005_201.asb

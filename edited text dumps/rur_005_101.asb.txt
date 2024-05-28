@@ -1,0 +1,39 @@
+__main
+@Lclearscreenall
+@rur_005_101
+@2ショット開始
+Clear things up!
+@ＢＧＭ再生
+RUR/RUR0004470
+You can't fool me anymore, Ichijo.[nl]Aren't you and Maiko on speaking terms anyway?
+RUR/RUR0004480
+Why are the pictures from the cafe here[nl]if I supposedly smashed the camera?
+RUR/RUR0004490
+If you're innocent, then you[nl]can tell me how that's possible.
+Explain this....
+Shuu fixed the camera
+There were actually two cameras
+The data was backed up
+RUR/RUR0004500
+I smashed it to smithereens,[nl]including the memory card, remember?
+RUR/RUR0004510
+I find it very hard to believe he[nl]could have repaired it.
+@rur_005_201
+@ザクシャるり・１
+@expose
+RUR/RUR0004520
+You're saying the camera I broke was a decoy[nl]and he secretly had another one?
+RUR/RUR0004530
+Really, that's as shrewd as Maiko is.
+@rur_005_102
+RUR/RUR0004540
+That would explain the other photos.
+RUR/RUR0004550
+But he couldn't possibly have backed up the photos[nl]taken the day I smashed the memory card.
+RUR/RUR0004560
+How do you explain this picture of me[nl]with my mouth full of cake!?
+RUR/RUR0004570
+Your silence....[nl]means you're complicit after all!?
+common.asb
+rur_005_201.asb
+rur_005_102.asb

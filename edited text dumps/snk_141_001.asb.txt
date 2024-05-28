@@ -1,0 +1,32 @@
+__main
+@Lclearscreenall
+@snk_141
+RAK/RAK0028770
+What is it now?
+SYU/SYU0002890
+Raku. You're near the bathroom right now, aren't you?
+RAK/RAK0028780
+Well, yes, but....how did you know?
+SYU/SYU0002900
+Hehehe....young man's intuition.
+SYU/SYU0002910
+Hey, hey, dontcha wonder who's in there?[nl]Could it be Kirisaki, or Onodera, or Ruri....[nl]Or is it possible they're all in there together....?
+SYU/SYU0002920
+Alright, Raku. Walk a little closer to the bathroom.[nl]That's an order!
+RAK/RAK0028790
+Are you stupid!?[nl]I've been sneaking this whole way to avoid being seen, so[nl]why are you making me do something so stupid?
+SYU/SYU0002930
+You're the stupid one![nl]The girls are having a fun-fun time in there,[nl]and you're just going to ignore them and walk away!?
+RAK/RAK0028800
+I have no words for this....
+SYU/SYU0002940
+Hey, if you have a second,[nl]point your cellphone's microphone towards[nl]the bathroom door.
+CLD/CLD0001690
+Hum, hum, hum hum.....
+CLD/CLD0001700
+Ahhhh, nice hot water.[nl]Just how it should be after a hard day's work.
+.....
+SYU/SYU0002950
+Alright, better hurry up, Raku.
+RAK/RAK0028810
+Yeah....

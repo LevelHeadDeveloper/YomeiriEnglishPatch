@@ -1,0 +1,23 @@
+__main
+@Lclearscreenall
+@snk_061
+RUR/RUR0015890
+Hello, Ichijo?
+RAK/RAK0082790
+Miyamoto? What's the matter?
+RUR/RUR0015900
+I went out of my way to contact you[nl]because I thought you might be in trouble.
+RAK/RAK0082800
+Eh? What do you mean?
+RUR/RUR0015920
+Go through the home ec classroom.[nl]Then you can cut through the gym straight to the schoolyard.
+RUR/RUR0015940
+This way, you can avoid as many people as possible.
+RAK/RAK0082810
+Miyamoto, you....
+RUR/RUR0015950
+Ehh, just go.[nl]You don't want to keep anyone waiting, do you?
+RAK/RAK0082820
+Ah, right. Got it.[nl]Thanks, Miyamoto!
+RUR/RUR0015960
+I'sm sure you'll succeed.

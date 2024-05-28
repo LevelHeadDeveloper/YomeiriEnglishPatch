@@ -1,0 +1,35 @@
+__main
+@Lclearscreenall
+@snk_013
+SYU/SYU0014170
+Hello hello, Raku~![nl]Where are you right now? Care to stop for[nl]some karaoke on the way home?
+RAK/RAK0082590
+Sorry, Shuu. I'm in a bit of trouble at the moment.[nl]It'll take a while.
+RAK/RAK0082600
+For some reason, an agent from Chitoge's[nl]family is chasing me. I have to leave school[nl]without being seen somehow...
+SYU/SYU0014180
+Hoho...![nl]So it's a stealth mission!
+SYU/SYU0014190
+....I'm sure you have a box, right?
+RAK/RAK0082610
+What? A box?[nl]No, not with me, why?
+SYU/SYU0014200
+What are you talking about?[nl]Everyone knows that the key to any stealth mission[nl]is to hide in a cardboard box.
+RAK/RAK0082620
+Oh, for real?[nl]I'd never heard about that!
+SYU/SYU0014210
+Really!?[nl]Are there any boxes near you?[nl]Even some cube-type health foods, or a cigarette box?
+RAK/RAK0082630
+Why would there be![nl]Putting aside the absurdity of cube-type health foods,[nl]I'm a minor! I can't have tobacco!
+SYU/SYU0014220
+Oh boy. You're lacking equipment, then.
+SYU/SYU0014230
+...But fret not, Raku![nl]Even if you don't have a box of your own, there's[nl]a bunch of them in the school already!
+SYU/SYU0014250
+Just stand next to one and press ○ to hide[nl]inside it! Go ahead!
+RAK/RAK0082640
+H-how did you have this all ready!?
+RAK/RAK0082650
+Whatever...[nl]At the very least, it's helpful.[nl]Thanks, Shuu.
+SYU/SYU0014280
+Aah. Good luck!

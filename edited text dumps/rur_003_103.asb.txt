@@ -1,0 +1,54 @@
+__main
+@Lclearscreenall
+@rur_003_103
+@expose
+RUR/RUR0002720
+But....if that's the case,[nl]then shouldn't you use someone[nl]other than me as the subject?
+RUR/RUR0002730
+There are plenty of girls who are cuter, more stylish,[nl]or who would be flashier than me, right?
+RUR/RUR0002740
+I see no reason for you to go out of[nl]your way to choose me.
+@rur_003_01_ans01
+@ザクシャるり・１
+RUR/RUR0002750
+My form is good?
+RUR/RUR0002760
+It's a little embarrassing to[nl]hear that to my face....
+RUR/RUR0002770
+....Well, it doesn't feel bad to be told that.
+@rur_003_01_ans02
+RUR/RUR0002780
+Glasses? I take those off when I'm swimming.
+RUR/RUR0002790
+....I knew it, you're lying to me.[nl]I thought it was suspicious that you'd suddenly be interested[nl]in helping the swim team.
+RUR/RUR0002800
+I'll bet Maiko sent you.
+@expose
+RUR/RUR0002810
+Jeez. All that punishment[nl]and he still hasn't learned his lesson.
+@rur_003_01_ans03
+@ＨＰ－１００
+RUR/RUR0002820
+What demographic are we talking about here?[nl]Obviously, this has nothing to do with recruiting[nl]club members, does it?
+@rur_003_01_ans04
+RUR/RUR0002830
+Well, we're talking about[nl]the other girls here, right?
+RUR/RUR0002840
+I don't see why it would have to be me.
+@rur_003_01_ans05
+@rur_003_01_ans06
+RUR/RUR0002850
+I-I'm cute!?[nl]You have to be kidding!
+RUR/RUR0002860
+I think that adjective[nl]would suit Kosaki better.
+@rur_003_01_ans07
+RUR/RUR0002690
+It's fine. You don't need to think so hard.
+RUR/RUR0002700
+I know Maiko put you up to this, anyway.
+RUR/RUR0002710
+Jeez. He hasn't learned his lesson[nl]after all that punishment....
+@rur_003_103_end
+@rur_003_201
+common.asb
+rur_003_201.asb

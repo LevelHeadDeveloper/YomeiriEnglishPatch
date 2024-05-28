@@ -1,0 +1,52 @@
+__main
+@Lclearscreenall
+@rur_002_103
+RUR/RUR0001990
+You went to all that trouble, just to get it back?[nl]Why the heck would you do that?
+@expose
+RUR/RUR0002000
+----
+RUR/RUR0002010
+....I wonder if maybe it's not "Meowsville 2"[nl]that's in that case.
+What's on that DVD?
+....It's "Meowsville 2"
+A boring comedy
+A splatter film
+Something shameful
+@rur_002_02_ans04
+@rur_002_103_01
+RUR/RUR0002020
+Then why are you sneaking in to get it back?
+RUR/RUR0002030
+A simple phone call to Chitoge would suffice.
+RUR/RUR0002040
+I think you're lying to me after all, Ichijo.
+@rur_002_201
+@rur_002_103_02
+RUR/RUR0002050
+Did you realize the contents were wrong[nl]and come all this way just to replace it?
+RUR/RUR0002060
+If that's the case, a simple phone call[nl]to Chitoge would suffice.
+RUR/RUR0002070
+This seems dubious to me.
+RUR/RUR0002080
+....I'll ask you once more.[nl]What's really on that DVD?
+What's really on the DVD?
+....It is "Meowsville 2"
+@rur_002_01_ans06
+@rur_002_103_03
+@expose
+.....
+RUR/RUR0002090
+.....Ahhhhh.....
+@ザクシャるり・１
+RUR/RUR0002100
+Yes, so that's what's going on.[nl]Basically, you lent it to Chitoge by mistake.
+RUR/RUR0002110
+It's endlessly stupid, but a reasonable[nl]motive for sneaking in.
+@rur_002_104
+common.asb
+rur_002_102.asb
+rur_002_201.asb
+rur_002_101.asb
+rur_002_104.asb

@@ -1,0 +1,45 @@
+__main
+@Lclearscreenall
+@rur_003_102
+@expose
+RUR/RUR0002560
+How on earth would photos of me[nl]help the swim team?
+How would this help the team?
+School newspaper
+Club recruitment
+School festival pamphlet
+Cover of a photo book
+RUR/RUR0002570
+An article in the school newspaper, you say?
+RUR/RUR0002580
+That would certainly raise[nl]the club's profile, but....
+RUR/RUR0002600
+How can you be involved in the school newspaper[nl]if you're not a member of the newspaper club?
+RUR/RUR0002610
+Don't lie to me.[nl]Most likely, you're getting orders from Maiko.
+@rur_003_201
+RUR/RUR0002620
+We can use them to recruit members for the swim team, huh?
+RUR/RUR0002630
+I mean, while we are a small club and[nl]I wouldn't mind more members....
+@ザクシャるり・１
+RUR/RUR0002640
+I'm surprised you'd go out of your way to[nl]make a suggestion like that, Ichijo.
+@rur_003_103
+RUR/RUR0002650
+The school festival....[nl]That was wrapped up just the other day.
+RUR/RUR0002660
+Huh? Selling swimsuit photos[nl]in the school underground for profit?
+RUR/RUR0002670
+Ichijo, you're talking the same nonsense as Maiko!
+RUR/RUR0002680
+.....Or maybe that's the truth.[nl]Was this all Maiko's suggestion!?
+RUR/RUR0002690
+It's fine. You don't need to think so hard.
+RUR/RUR0002700
+I know Maiko put you up to this, anyway.
+RUR/RUR0002710
+Jeez. He hasn't learned his lesson[nl]after all that punishment....
+common.asb
+rur_003_201.asb
+rur_003_103.asb

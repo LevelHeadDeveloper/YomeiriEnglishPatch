@@ -1,0 +1,89 @@
+__main
+@Lclearscreenall
+@rur_005
+@イベント開始処理
+RAK/RAK0030980
+Hey, Shuu. Let's go home together.
+SYU/SYU0004230
+Oh, sorry, Raku.[nl]I have other business today.
+RAK/RAK0030990
+Business?
+RAK/RAK0031000
+Actually, you have been disappearing during free period,[nl]and also between classes.... What's going on?
+SYU/SYU0004240
+Wellll, that's kinda classified.[nl]Sorry, I can't tell you.
+RAK/RAK0031010
+What the hell, that's totally suspicious.
+SYU/SYU0004250
+Hehehe....[nl]Well, let's just say I'm fulfilling my goal.
+RAK/RAK0031020
+Your goal....the beautiful-girl-photo-book?[nl]That's impossible since Ruri destroyed your camera, right?
+SYU/SYU0004260
+Well, that's how it should be.[nl]Officially.
+RAK/RAK0031030
+Huh? What do you mean?
+SYU/SYU0004270
+Ooops, I'm running late![nl]See you later, Raku! Have a nice day!
+RAK/RAK0031040
+H-Hey!
+RAK/RAK0031050
+....What the hell's up with him?
+RAK/RAK0031060
+I kinda thought he'd take a while to recover from the [nl]other day, but he's very lively today.
+RAK/RAK0031070
+I have a bad feeling about this.
+RUR/RUR0004340
+....Hey, you got a second, Ichijo?
+RAK/RAK0031080
+Hm? Miyamoto?
+RAK/RAK0031090
+W-What's the matter?[nl]You've got a protruding vein on your forehead....
+@expose
+RUR/RUR0004350
+That isn't the problem.[nl]What is this booklet?
+RAK/RAK0031100
+Booklet? What booklet?
+RUR/RUR0004360
+Here, look at this photo.
+RAK/RAK0031120
+Huh? Isn't this you with your mouth full of cake?[nl]This is from the other day at that cafe, isn't it.
+RUR/RUR0004370
+I was so careless....[nl]I can't believe he got a picture of my stupid face[nl]with my huge mouth that wide open....
+RAK/RAK0031130
+Well, I think it looks cute and innocent.[nl]Depending on how you look at it.
+RUR/RUR0004380
+Excuse me. That's not the point!
+RUR/RUR0004390
+The point is that Maiko took these photos secretly!
+RAK/RAK0031140
+Yeah, that's right.[nl]But I thought you broke the camera then....
+RUR/RUR0004400
+Yes, I did.[nl]But still this booklet got made.
+RUR/RUR0004410
+And I'm not the only one in it.[nl]There's everyone in their swimsuits from the other day....[nl]It's chock-full of shameless photography!
+RAK/RAK0031150
+Wow....it is.[nl]Miyamoto, where'd you get this booklet?
+RUR/RUR0004420
+Some boys were looking at in the classroom just now.[nl]When I confiscated it and questioned them,[nl]do you know where they said they got it?
+RUR/RUR0004430
+They got it from a black market run by Maiko.
+RAK/RAK0031160
+(Oh, great....he's finished the photo book!)
+RUR/RUR0004440
+....and you know what that means, Ichijo.[nl]I suspect you are also involved.
+RAK/RAK0031170
+Huh!?
+@expose2
+RUR/RUR0004450
+You pretend you're sorry, but you[nl]sneak around making photo books anyway....[nl]How absolutely horrendous.
+RAK/RAK0031180
+H-Hang on, you misunderstand![nl]I thought there wasn't any more talk of a photo book!
+RUR/RUR0004460
+I dunno. You can say whatever you feel like, right?
+RAK/RAK0031190
+(Crap, she thinks I'm totally complicit....)
+RAK/RAK0031200
+(I've gotta clear up this misunderstanding somehow!)
+@rur_005_101
+common.asb
+rur_005_101.asb

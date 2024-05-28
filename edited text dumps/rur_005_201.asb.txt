@@ -1,0 +1,125 @@
+__main
+@Lclearscreenall
+@rur_005_201
+@2ショット成功
+@2ショット失敗
+@rur_005_201_01
+@expose2
+RUR/RUR0004930
+Hey, Ichijo. Where's Maiko's hideout?[nl]Where's the black market?
+RAK/RAK0031210
+I'm telling you, I don't know![nl]I'm not an accomplice!
+RUR/RUR0004940
+I see you're still trying to keep me in the dark.
+RUR/RUR0004950
+No matter. I'll just ask your body directly.
+RAK/RAK0031220
+Eh....!?
+RUR/RUR0004955
+Mmmph!
+@画面揺らし
+@背景変更
+RUR/RUR0004960
+Since you're mounted like this,[nl]you can't escape, can you?
+@ＨＰ－２０
+RAK/RAK0031230
+GAAAAAAAAAHH!?
+RUR/RUR0004970
+Come on. If you don't spit it out,[nl]I'll tighten it even more.
+RAK/RAK0031240
+H-Hang on, Miyamoto![nl]I really don't know anything!
+RUR/RUR0004985
+You're surprisingly stubborn....here.
+RAK/RAK0031250
+GWAAAAAAAAAAAHHHH!?[nl]I'm gonna die! I'm gonna die!
+RUR/RUR0004990
+You're still not gonna tell me?
+RAK/RAK0031260
+I can't tell you![nl]I can't tell you because I don't know anything!
+......
+RUR/RUR0005000
+You really don't know anything?
+RAK/RAK0031270
+R_Really and truly![nl]I'm innocent! So hurry up and let me goooooo!
+@expose
+RUR/RUR0005010
+Hmmmm.....
+RUR/RUR0005020
+No signs of lying....[nl]Alright, I'll let you go.
+RAK/RAK0031280
+Owwww.....[nl]I really thought I was gonna die there....
+@rur_005_201_02
+RUR/RUR0005030
+Sorry. I really thought you were Maiko's pawn.
+RAK/RAK0031290
+You finally trust me....
+RUR/RUR0005040
+....Well, for now.
+@ザクシャるり・小
+@ＢＧＭ再生
+RUR/RUR0005050
+Anyway, we can't let the distribution[nl]of these shameless booklets slide.
+RUR/RUR0005060
+Today'll be the day I smash that Four-Eyes' four eyes to pieces,[nl]so we should find him as soon as possible.
+RAK/RAK0031300
+H-Hey, go easy on him....[nl]He probably didn't mean any harm.
+RUR/RUR0005070
+Why are you talking like this is[nl]someone else's problem, Ichijo?[nl]We'll be searching for Maiko together.
+RAK/RAK0031310
+Me too, huh....[nl]Well, I guess I kind of saw that coming.
+RUR/RUR0005080
+You're somewhat responsible for this.[nl]You won't refuse.
+RAK/RAK0031320
+Right, right, got it.
+RAK/RAK0031330
+But even if I say I'll help you....[nl]He's been disappearing off to who-knows-where after school,[nl]so I have no idea where he is.
+RUR/RUR0005090
+Most likely, he's holding his black market[nl]somewhere inside the school.[nl]Maybe even at this very moment.
+RAK/RAK0031340
+If he's in the school, we can probably find him[nl]pretty easily. Alright, let's get goi--
+@ＢＧＭ停止
+MSA/MSA0000050
+....Wait! I can't let you do that, Raku!
+RAK/RAK0031350
+Whaa!?
+MSB/MSB0000020
+If I'm hearing this correctly,[nl]you guys are planning to bring down Maiko's black market!
+MSC/MSC0000010
+Ichijo. We cannot allow you to do that.
+RAK/RAK0031360
+Y-You guys![nl]What's the matter with all of you!?
+MSB/MSB0000030
+We won't let a harem guy like you[nl]mess with us ordinary guys and[nl]our black market paradise!
+MSA/MSA0000060
+Shuu's black market and the photos he provides[nl]are an oasis for our hearts....[nl]We can't let you take that away from us!
+RUR/RUR0005100
+I see....[nl]Maiko and his clients are very close.
+RAK/RAK0031370
+Hey, hey, you guys! Calm down!
+RAK/RAK0031380
+It doesn't matter if a black market or two goes under.[nl]It's pretty sketchy anyways....
+MSA/MSA0000070
+You don't get it![nl]Raku, you don't get it at all!
+MSB/MSB0000040
+It's a secret photo,[nl]that's what's so hot about it!
+MSC/MSC0000020
+E-Exactly! We want to see[nl]"Exquisitely Embarrassing Shots" of Kirisaki[nl]and Onodera, too!
+RUR/RUR0005110
+....Unbelievable. Are all boys like this?
+MSA/MSA0000080
+Alright, all of you![nl]Restrain Raku! Protect our utopia!
+MSB/MSB0000050
+A class struggle![nl]Popular vs. Unpopular!
+MSC/MSC0000030
+That's right![nl]Divine punishment for having girlfriends!
+RAK/RAK0031390
+Woaaaah! What's wrong with you guys!?
+@expose
+RUR/RUR0005120
+We don't have time to deal with them.[nl]Let's run away, Ichijo.
+RAK/RAK0031400
+(Oh man, what a pain in the ass!)
+RAK/RAK0031410
+(We've got to find Shuu[nl] before these guys catch me!)
+@ヌキアシ開始処理
+common.asb

@@ -1,0 +1,13 @@
+__main
+@Lclearscreenall
+@snk_122
+CTG/CTG0023690
+Hello.[nl]I'm on my way up the stairs now.
+RAK/RAK0082860
+Roger.[nl]....Hey, how come you're not out of breath[nl]from climbing the stairs?
+CTG/CTG0023700
+What are you talking about?[nl]It's not just a series of bumps in a corridor.[nl]It's a lot easier to run when there's no one around.
+RAK/RAK0082870
+I really don't understand your logic....
+RAK/RAK0082880
+Anyway, I'll see you there.

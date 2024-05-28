@@ -1,0 +1,540 @@
+__main
+@Lclearscreenall
+@rur_003
+@イベント開始処理
+SYU/SYU0003020
+Well, the other day was definitely a mess.
+RAK/RAK0029160
+Yeah, the time we infiltrated Chitoge's house....[nl]Or rather, I did the dangerous part, and you sat outside giving orders.
+SYU/SYU0003030
+Yeah, well, Ruri made me go to school with a sign[nl]around my neck that said "I'm a pervert" afterwards.
+SYU/SYU0003040
+I really had a rough time.
+RAK/RAK0029170
+Well, that's karma for you.[nl]Don't you think you should take this as an opportunity[nl]to get out of this business of taking photos of pretty girls?
+SYU/SYU0003050
+You might be right....[nl]I'll give it some thought.
+RAK/RAK0029180
+Yeah, that would be great.
+......
+@expose
+SYU/SYU0003060
+Not to change the subject,[nl]but when it comes to beautiful girl gravure,[nl]school swimsuits are the way to go, right?
+@ＢＧＭ再生
+RAK/RAK0029190
+Huh?
+SYU/SYU0003070
+Hey, if we're gonna be making a photo book,[nl]we've gotta have some school swimsuit gravure.[nl]That alone would at least double sales, I think.
+RAK/RAK0029200
+No, you just said you were going to[nl]stop taking pictures of girls!
+SYU/SYU0003080
+I gave it some thought. Around one second's worth.[nl]And I decided I should continue.
+SYU/SYU0003090
+A business like this one, full of romance and dreams,[nl]should not be given up so easily!
+RAK/RAK0029210
+You're a man who never learns....
+SYU/SYU0003100
+Hehehe.....I'm a man who never gives up on his dreams.
+SYU/SYU0003115
+Anyway, I've decided to take a picture[nl]of Seishiro in her school swimsuit.
+RAK/RAK0029220
+Tsugumi? Why'd you pick Tsugumi?
+SYU/SYU0003120
+Well, because you want to see Seishiro[nl]in a school swimsuit.
+SYU/SYU0003130
+Her tight navy blue swimsuit enveloping that[nl]absurd figure? Water dripping from her arms and legs![nl]Isn't that the best!?
+SYU/SYU0003140
+And the cool, strong Seishiro shyly[nl]looks away from the viewfinder....
+SYU/SYU0003150
+When it comes to school swimsuit pictures,[nl]there are few better subjects than Seishiro.[nl]Understand?
+RAK/RAK0029230
+Well, I understand your passion, but I don't think[nl]you could ask Seishiro to do a swimsuit photo shoot.[nl]I doubt she'd agree to it.
+RAK/RAK0029240
+I'm not sure I'll be able to do much for you here.[nl]I'm not on board with this, even if you were[nl]to ask me to persuade her.
+SYU/SYU0003160
+No, no, please help me with that, Raku.[nl]Without you, this plan is a no-go.
+SYU/SYU0003170
+Please do this for me. Okay?
+Help him
+Don't help him
+RAK/RAK0029250
+It can't be helped....[nl]I'm pretty much on board already. I'll have to at least[nl]keep an eye on you and make sure you don't go off the rails.
+SYU/SYU0003180
+Alright, well said![nl]That's my pal, Raku!
+RAK/RAK0029260
+I'm not falling for your smooth-talking again, dude.
+SYU/SYU0003190
+Eehh, don't say that, Raku! We're best friends, right?[nl]Buddies, right? Come on, please! Help me out!
+It can't be helped....
+I refuse.
+RAK/RAK0029280
+I don't care what you say, I'm not risking it anymore.[nl]Especially against Tsugumi. No amount of lives is enough[nl]to go against her. If you wanna do it, do it yourself.
+SYU/SYU0003200
+N-No way....![nl]You want me to die alone!?
+SYU/SYU0003210
+Please die with me, buddy![nl]For god's sake, help me out~![nl]I'm begging you!
+RAK/RAK0029290
+Waagh![nl]Y-You're kneeling!?
+I guess I have to help.
+I won't, even if you kneel!
+RAK/RAK0029300
+Fine, fine! I'll help,[nl]just stop groveling.
+RAK/RAK0029310
+Hahh....if you're going that far, I'll go with you.[nl]I'll at least pick up your bones.
+SYU/SYU0003220
+R-Really, Raku!?[nl]There's my pal!
+RAK/RAK0029320
+No, I can't.[nl]What you're asking is....life-threatening.
+SYU/SYU0003230
+Ghh....so even the sight of your best friend[nl]on his knees doesn't move your heart?[nl]You demon....!
+SYU/SYU0003240
+Hahh....alright.[nl]Without your cooperation, Raku,[nl]this operation is a failure.
+RAK/RAK0029330
+Finally you get it....[nl]Well, for your own good, you should give up on the[nl]beautiful-girl-photo-book once and for all.
+SYU/SYU0003250
+Yeah. I guess I'll need to wait for next summer to get[nl]Seishiro's swimsuit photos.[nl]We'll have to take photos legally in swimming class.
+RAK/RAK0029340
+Is that actually legal....?
+@rur_001_202
+RAK/RAK0029350
+Even so....[nl]I don't think I can get Tsugumi on board.
+SYU/SYU0003260
+Heh heh heh.[nl]Fret not, Raku. I already have a plan.
+RAK/RAK0029360
+A plan?
+SYU/SYU0003270
+Yes. I have a plan that will ensure[nl]that Seishiro wears a school swimsuit.
+RAK/RAK0029370
+What is it?
+SYU/SYU0003280
+You'll just have to wait and see.
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0029450
+(Seriously, how are we supposed to get a picture[nl] of Tsugumi in her school swimsuit....?
+KSK/KSK0007920
+Huh? Ichijo?
+RAK/RAK0029460
+Aaaagh!? O-Onodera!?
+KSK/KSK0007930
+You're here too, I see, Ichijo.[nl]Did Maiko invite you?
+RAK/RAK0029470
+Y-Yeah. I guess so....[nl]You too, Onodera?
+MRK/MRK0008490
+Not just Onodera, Raku dearest.
+CTG/CTG0009640
+Maiko asked us to come as well.
+SSR/SSR0009710
+We all got an email asking us to come and help[nl]the swim team with their strengthening exercises.
+RAK/RAK0029480
+I see. Swimming practice....
+RUR/RUR0002350
+I'm grateful for the offer, since our club is so small.[nl]The swim meet is coming up.
+RUR/RUR0002360
+The only thing that has me wondering[nl]is that Maiko's the one who sent the email....
+RUR/RUR0002370
+I wonder if he's been reflecting[nl]on the incident the other day.
+RAK/RAK0029490
+I-I guess he probably has....[nl]Hahahaha.....
+RAK/RAK0029500
+(Actually, he's not even a little bit sorry.)
+RUR/RUR0002380
+Well, whatever his intentions,[nl]it's nice to have you all here.
+RAK/RAK0029510
+(Well, naturally, in order to get Tsugumi,[nl] you need to invite Chitoge and the others as well.)
+SSR/SSR0009720
+Hm? What are you looking at, Raku Ichijo?[nl]Do I look weird in this swimsuit?
+RAK/RAK0029520
+No, not really....
+RAK/RAK0029530
+(Shuu was right,[nl] this is pretty cool in some ways....)
+SYU/SYU0003350
+Heheheh....[nl]Operation was a big success.
+RAK/RAK0029540
+Getting everyone together under the pretense[nl]of helping the swim team was[nl]yet another clever plan, hey....
+SYU/SYU0003360
+What are you talking about? This was my best plan yet.[nl]Because we get to see not just Seishiro, but everyone[nl]else in their school swimsuits.
+RAK/RAK0029550
+You know....isn't it kinda risky, this strategy?[nl]If Miyamoto and the others find out the real reason for this,[nl]won't we get punished severely?
+SYU/SYU0003370
+Hey, hey, as long as they don't[nl]find out, then there's no problem.
+SYU/SYU0003380
+Anyway, I've got a camera for you, too.[nl]We have a lot of subjects today,[nl]so we'll have to split up.
+RUR/RUR0002390
+Oh, is that a digital camera?
+SYU/SYU0003390
+AAAAAGH!
+RUR/RUR0002400
+Don't tell me you're up to something weird[nl]under the pretense of swimming practice?
+RAK/RAK0029560
+N-No. This is, um....
+SYU/SYU0003400
+Hahaha! That's mean, Ruri![nl]This camera is for judging competitions![nl]You do that in swimming, right? Photojudging.
+SYU/SYU0003410
+I don't have any kind of sinister purpose![nl]Really, truly, and seriously!
+RUR/RUR0002410
+Really?[nl]Though you're being overtly suspicious....
+RAK/RAK0029570
+W-Well, after what happened the other day,[nl]we aren't gonna do anything stupid.
+RUR/RUR0002420
+I see....[nl]Well then, I'll believe you this time[nl]in spite of everything, Ichijo.
+RUR/RUR0002430
+If it turns out you're up to something weird....[nl]I think you both know what will happen.
+RAK/RAK0029580
+Y-Yeah....
+RUR/RUR0002440
+Hmph....
+RUR/RUR0002450
+Well everyone, thanks for coming to help today.
+CTG/CTG0009650G
+Yeah--!
+SYU/SYU0003420
+....Well then, Raku, let us begin.
+RAK/RAK0029590
+You don't plan on pulling your weight, do you.
+SYU/SYU0003430
+Now, whose picture should we start with~?
+RAK/RAK0029600
+I thought you wanted a picture of Tsugumi?
+SYU/SYU0003440
+What are you talking about!? We have all these[nl]lovely ladies in school swimsuits here. It would be[nl]a shame if we only got a picture of Seishiro.
+SYU/SYU0003450
+It's like you don't want to take advantage[nl]of this lovely situation. Let's capture everyone in their[nl]swimsuited glory on film.
+RAK/RAK0029610
+So much for being careful after Miyamoto's warnings....[nl]I'm beyond amazed and can even kinda respect[nl]your sheer courage and energy.
+SYU/SYU0003460
+Hahaha, such high praise isn't necessary.
+SYU/SYU0003470
+Anyway, let's split up and ask everyone for their pictures.[nl]Raku, who do you wanna start with?
+RAK/RAK0029620
+I don't want to actively help you,[nl]but I'd say....
+rur_003_001_sel
+Chitoge
+Onodera
+Tsugumi
+Tachibana
+RAK/RAK0029630
+I think it would be easiest to ask Chitoge.
+SYU/SYU0003480
+Yeah, she'd probably be more likely to let you[nl]take a picture than me.
+CTG/CTG0009660
+....Hey, Raku, you got a sec?
+SYU/SYU0003490
+Oh, speak of the devil....[nl]Okay, Raku, I'll leave Kirisaki to you.
+CTG/CTG0009670
+Are you free right now?[nl]Could you help me stretch a bit?
+RAK/RAK0029640
+Hey, Chitoge.
+CTG/CTG0009680
+Ah, just in time![nl]Hey, Raku, can you help me stretch?
+RAK/RAK0029650
+Yeah, I don't mind.[nl]After all, it would be bad if your[nl]leg cramped up like last time.
+@ザクシャ千棘・小
+CTG/CTG0009690
+Ugh....yeah, you're right.[nl]What an embarassing memory....
+CTG/CTG0009700
+Anyway, here, hold onto me from behind!
+RAK/RAK0029660
+Right, right.
+RAK/RAK0029670
+Alright, here we go.[nl]One, two, one, two....
+CTG/CTG0009710
+Aaaaaghhhh......[nl]Ohohohoh.....it's working....!
+RAK/RAK0029680
+Pfft! You should see your face....!
+CTG/CTG0009720
+Ghhhhh....! I can't help it![nl]I haven't been exercising much lately and my[nl]body's been getting stiffer!
+@expose
+CTG/CTG0009730
+Hwaaaaaaagggggggh!
+RAK/RAK0029690
+Hahahahahaha! That face you're making[nl]is seriously awful! I can't breathe....
+CTG/CTG0009740
+Gwaaaagghhh....[nl]Stop being such an idiot! Jeez!
+RAK/RAK0029700
+Hold your face like that for a sec![nl]I need a picture of this....
+RAK/RAK0029710
+Alright, say "cheese"!
+CTG/CTG0009750
+Whaa!? You're taking pictures of me without my permission!?[nl]Was my face that funny!?
+RAK/RAK0029720
+No, it's just that your face was so artistic,[nl]I felt like I had to document it.
+CTG/CTG0009760
+Jeez, you stupid been sprout![nl]You'd better not let anyone else see that!
+RAK/RAK0029730
+Yeah, I know.
+RAK/RAK0029740
+(Shuu probably won't use such a[nl] weird-looking picture as gravure....)
+RAK/RAK0029750
+(This should be fine for Chitoge's photo.)
+SYU/SYU0003500
+Haha, I knew you'd say that, Raku.
+RAK/RAK0029760
+S-Shut up.[nl]You got a problem with that?
+SYU/SYU0003510
+No, no. This is a great opportunity for you,[nl]so why don't you go enjoy your beloved Onodera[nl]in her school swimsuit?
+RAK/RAK0029770
+You know, I'm only doing this because you asked me to,[nl]so I don't have any qualms about it.
+SYU/SYU0003520
+Right, right. I'll leave it at that.
+SYU/SYU0003530
+....Well then, I'll leave Onodera to you.
+RAK/RAK0029780
+Jeez, that Shuu....[nl]I didn't really....mean it that way.
+RAK/RAK0029790
+Yes, yes, that's it.[nl]I'm only protecting Onodera from[nl]Shuu's fetish photography.
+RAK/RAK0029800
+Onodera....
+RAK/RAK0029810
+Well, there's the others as well,[nl]but I don't feel comfortable getting involved[nl]in Shuu's stupid plan....
+RAK/RAK0029820
+(But I'd really like a picture of Onodera in her[nl] school swimsuit, if I'm being honest....)
+....
+RAK/RAK0029830
+Right. This isn't for Shuu.[nl]Rather, it's for Onodera!
+RAK/RAK0029840
+Yes, yes, that's it![nl]To protect Onodera from Shuu's fetish photography,[nl]I have no choice but--
+KSK/KSK0007950
+Huh? What did you say about me?
+RAK/RAK0029850
+Waaaaagh!
+KSK/KSK0007960
+Aaah! W-What's wrong, Ichijo!?
+RAK/RAK0029860
+Aaaah, no, sorry! I must've startled you![nl]Uhh~, what should I say, um....
+RAK/RAK0029870
+(I can't just tell her[nl] I want to take a picture of her in her swimsuit....)
+KSK/KSK0007970
+Oh, is that a camera?
+RAK/RAK0029880
+Aaah! No, no, t-this is....
+KSK/KSK0007980
+Hey, Ichijo. Do you mind[nl]taking a picture of me with your camera?
+RAK/RAK0029890
+Huh?
+KSK/KSK0007990
+I was wondering if you could take a picture of[nl]me with your camera so I can see how my form is[nl]when I'm swimming.
+RAK/RAK0029900
+Oh....Oh, I see.[nl]That's what you meant!
+KSK/KSK0008000
+Even though I want to help Ruri,[nl]there's not a lot I can do because I can't swim....
+KSK/KSK0008010
+But since I'm here, I thought[nl]I might as well do some practice for myself.
+RAK/RAK0029910
+In that case, it's a perfect opp--[nl]I mean, I'll help you!
+@ザクシャ小咲・小
+KSK/KSK0008020
+Really!? Thanks, Ichijo!
+KSK/KSK0008030
+Alright, I'm going to jump in from the diving platform,[nl]can you take a picture of that?
+RAK/RAK0029920
+Huh? You're jumping in already?
+KSK/KSK0008040
+Yes. After all, swimming starts with a dive, right?
+RAK/RAK0029930
+(Huh, you really....?)
+KSK/KSK0008050
+....Gotta be a good shot.
+KSK/KSK0008060
+Hehehe. Well, shall we?
+RAK/RAK0029940
+Yeah, but be careful.
+KSK/KSK0008070
+Alright. Make sure to get a good shot!
+KSK/KSK0008080
+One, two....here goes!
+KSK/KSK0008090
+Waaaaaagh!?
+RAK/RAK0029950
+H-Hey, Onodera! Are you okay!?
+KSK/KSK0008100
+Owww.....that hurts....
+KSK/KSK0008110
+Diving is so difficult....[nl]Ichijo, how was my form?
+RAK/RAK0029960
+Um.....[nl]To be honest, it was more of a fall than a dive....
+RAK/RAK0029970
+Hey, maybe you should practice normal swimming[nl]first, before diving?
+KSK/KSK0008120
+Aagh, yeah....[nl]I guess I'll start with the kickboard again.
+RAK/RAK0029980
+Yeah, I think that's a good idea.
+RAK/RAK0029990
+(Well....[nl] I got a picture of Onodera.)
+RAK/RAK0030000
+Alright, I'll start with Tsugumi.
+SYU/SYU0003540
+Oho!? You're going right for Seishiro!?[nl]You're so carefree, going right for the biggest fish![nl]You must be totally fearless, or maybe you're a breast man?
+RAK/RAK0030010
+I can't have you doing it[nl]because you're always saying dumb things like that.
+RAK/RAK0030020
+I'll go take a wholesome picture of Tsugumi,[nl]and you can wait here.
+SYU/SYU0003550
+Aww, you're boring.
+RAK/RAK0030030
+Hey, Tsugumi. Ya got a minute?
+SSR/SSR0009740
+What is it?[nl]I'm cleaning up the lane dividing ropes.
+RAK/RAK0030040
+Well, we can do this while you're cleaning up.[nl]Do you mind if I take some pictures?
+SSR/SSR0009750
+You must be some kind of idiot to want pictures of me just cleaning.[nl]Is it okay if I just clean these normally?
+RAK/RAK0030050
+Yeah, no problem.[nl]I mean, please do it in the most wholesome way possible.
+@ザクシャ誠士郎・小
+SSR/SSR0009760
+I don't know what that means, but....[nl]Well, I see no reason to refuse.[nl]Take whatever pictures you want.
+RAK/RAK0030060
+(Alright. This is gonna be a safer picture[nl] than the one Shuu would've tried to get....)
+SSR/SSR0009770
+Mmph.....[nl]This rope is surprisingly heavy.[nl]I've gotta be careful....
+RAK/RAK0030070
+Alright, Tsugumi, I'm taking a shot![nl]Say "cheese"!
+SSR/SSR0009780
+W-Wait a sec![nl]Right now I'm--
+SSR/SSR0009790
+Waaagh!?
+@画面揺らし2
+RAK/RAK0030080
+Aaaah-
+SSR/SSR0009800
+Owww....[nl]I'm all tangled up in the dividing rope....
+SSR/SSR0009810
+I'm sorry, that was a very shameful thing[nl]I've done. Was this what you meant by "wholesome"?
+RAK/RAK0030090
+(T-The rope was digging into all kinds of places,[nl] and it turned about as unwholesome as it could...)
+SSR/SSR0009820
+Hey, what is it?
+RAK/RAK0030100
+N-No, it's nothing![nl]Anyway, thanks for the picture!
+SSR/SSR0009830
+What a weirdo....
+RAK/RAK0030110
+(T-That should do for Tsugumi's picture....)
+SYU/SYU0003560
+I see. Marika, huh....[nl]She's petite, but she's mighty fine.
+RAK/RAK0030120
+What the hell do you mean "mighty fine"?[nl]You sound like an old man.
+SYU/SYU0003570
+Well, really, Marika looks her best when she's[nl]looking at you, Raku.
+SYU/SYU0003580
+Maybe you're the only one who can bring out her charm.[nl]Certainly, you can get us the best photo, right?
+RAK/RAK0030130
+Well, I'll try my best.[nl]It'll be wholesome, though.
+SYU/SYU0003590
+Aww, you're boring~!
+RAK/RAK0030140
+Just go do your own thing for a bit.
+RAK/RAK0030150
+Alright, the best shot of Tachibana, huh.[nl]How do I ask her....
+MRK/MRK0008510
+What's this about my best shot, Raku dearest?
+RAK/RAK0030160
+Aaaagh! Tachibana![nl]Where'd you come from!?
+MRK/MRK0008520
+Something seemed to be bothering you, so I came over.
+MRK/MRK0008530
+It looks to me like you're trying to take a[nl]picture of me with that camera....?
+RAK/RAK0030170
+Y-You're sharp.[nl]Well, that's correct.
+@ザクシャ万里花・小
+MRK/MRK0008540
+I knew it! So you're trying to keep a picture[nl]of your beloved in her swimsuit, is that it?
+RAK/RAK0030180
+No, Shuu asked me to take a picture--
+MRK/MRK0008550
+There's no need to be so shy, Raku dearest. Ten years of hard work....[nl]And you're finally ready to accept my feelings!
+MRK/MRK0008560
+Yes. I, Marika Tachibana, am willing to become[nl]anything for my darling Raku....[nl]be it subject, lover, or even bride!
+RAK/RAK0030190
+Well, while I'm sorry I can't share your excitement,[nl]you can only be the subject of a photo.
+MRK/MRK0008570
+Oh, I see. That's too bad.
+MRK/MRK0008580
+Well then, what sort of photo shall we take?[nl]I can do whatever sexy pose you like, Raku dearest.
+MRK/MRK0008590
+Oh, in that case, shall I go change into a more[nl]revealing swimsuit, instead of this drab[nl]school swimsuit?
+MRK/MRK0008600
+Or, if you'd like, Raku dearest, we can have a[nl]private photo session without a swimsuit?[nl]I wouldn't mind at all....
+RAK/RAK0030200
+N-No! That's okay![nl]Just let me take a normal photo! Normal!
+MRK/MRK0008610
+Mgh....the perfect chance[nl]for me to enchant Raku dearest....
+MRK/MRK0008620
+There's nothing I can do,[nl]so I guess I'll pose like this.[nl]Here.
+RAK/RAK0030210
+(Pushing her chest out like that[nl] is extreme enough.)
+RAK/RAK0030220
+Oh, well. Let's take a picture.[nl]Alright, say "cheese"!
+MRK/MRK0008630
+Ehehe....Raku dearest, what would you like to shoot next?[nl]Shall we make it a scene where I get intimate with the cameraman?[nl]
+RAK/RAK0030230
+W-We've got enough already![nl]Thanks, Tachibana! See you later!
+MRK/MRK0008640
+Oh, Raku dearest! Where are you going!?
+RAK/RAK0030240
+(I think I should cut Tachibana's shoot short[nl] or it will escalate too high....)
+RAK/RAK0030250
+(I think I've got enough time for one more person....[nl] Who should I shoot?)
+RAK/RAK0030260
+(I think that's all I've got time for.[nl] I'd better go meet up with Shuu.)
+@フェードアウト
+@背景変更
+SYU/SYU0003600
+Well, we've gathered quite a few photos.[nl]If we can get the other members of the swim team,[nl]we could probably make a photo book out of just swimsuit pictures.
+RAK/RAK0030280
+When did you get all those photos?[nl]You're really shrewd....
+SYU/SYU0003610
+Well, this is just another example of[nl]my youth and passion for the camera.[nl]This is an expression of that.
+RAK/RAK0030290
+It's an expression of ulterior motives.
+RAK/RAK0030300
+....Well, anyway, now that you have your pictures,[nl]why don't we stop here and go help out?[nl]You don't wanna get caught and have them confiscated, right?
+SYU/SYU0003620
+No, it's not done yet.[nl]We have yet to shoot the most important subject.
+RAK/RAK0030310
+The most important subject?
+SYU/SYU0003630
+Yes, Ruri.[nl]We cannot forget about her.
+SYU/SYU0003640
+Her flat figure is quite a rare sight in a school swimsuit,[nl]even when you consider the size of this school.[nl]There must be a niche demand for her.
+RAK/RAK0030320
+Well, I don't know about this one.[nl]You can do the rest yourself.
+SYU/SYU0003650
+H-Hang on a minute, Raku![nl]Without you, I can't convince Ruri to do this!
+RAK/RAK0030330
+Huh? Don't tell me you want me to convince Miyamoto?
+SYU/SYU0003660
+Of course. Ruri's totally suspicious of me[nl]because of the DVD the other day.
+SYU/SYU0003670
+Do you think I'd be able to get her OK if[nl]I asked to take a picture of her?[nl]You don't think so, do you?
+RAK/RAK0030340
+That's not something you should be saying so proudly.
+RAK/RAK0030350
+(Well, it would be better than saying no[nl] and having him take photos without her knowing....)
+RAK/RAK0030360
+It can't be helped. I'll ask her.
+SYU/SYU0003680
+Thank you! That's gonna make this so much easier![nl]Well then, go negotiate with Ruri.
+RAK/RAK0030370
+Right, right....[nl]But I'm telling you right now, if she says no,[nl]then we're giving up. Alright?
+RAK/RAK0030380
+Hey, Miyamoto, you got a sec?
+RUR/RUR0002460
+What is it, Ichijo?[nl]I'm busy practicing, so make this quick.
+RAK/RAK0030390
+Uhh, well, actually....
+RAK/RAK0030400
+I'd like to....take a swimsuit picture of you....
+RUR/RUR0002470
+Huh? Swimsuit picture?
+RAK/RAK0030410
+(Oh no, she's suspicious....[nl] I knew she'd be wary....)
+RAK/RAK0030420
+No, it's not for anything weird.[nl]What should I say....?
+RAK/RAK0030430
+(For now, I should try to negotiate.)
+@rur_003_101
+common.asb
+rur_001_201.asb
+rur_003_101.asb

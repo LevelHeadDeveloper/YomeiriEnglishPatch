@@ -1,0 +1,13 @@
+__main
+@Lclearscreenall
+@snk_121
+CTG/CTG0008710
+I'm heading for the school roof,[nl]so you'd better go there, too.
+RAK/RAK0017730
+Huh? Why are you going there?
+CTG/CTG0008720
+Because if Tsugumi gets out of control[nl]in a narrow hallway, it'll be troublesome.
+RAK/RAK0017740
+Yeah, that's true....
+CTG/CTG0008730
+Okay? Then let's begin this operation!

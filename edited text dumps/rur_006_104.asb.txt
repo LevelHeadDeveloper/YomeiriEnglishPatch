@@ -1,0 +1,40 @@
+__main
+@Lclearscreenall
+@rur_006_104
+@expose
+RUR/RUR0006630
+Another thing....yes.[nl]Glasses can also physically protect your eyes.
+RUR/RUR0006640
+Are you familiar with blue-light cutoff[nl]and UV protection?
+RUR/RUR0006650
+If we have a society where it's natural[nl]for everyone to wear glasses--
+RUR/RUR0006660
+Then we have a society that's[nl]easier on everyone's eyes.
+Do glasses protect the eyes?
+You don't need them 24/7
+How about a full-face helmet?
+Why not use eyedrops?
+@ザクシャるり・１
+RUR/RUR0006670
+We only need them when we're using the computer[nl]or going out, hm?
+RUR/RUR0006680
+....That is true, there's not much[nl]point in forcing them on all the time.
+@rur_006_201
+RUR/RUR0006690
+But there's no harm in wearing them all the time.
+@rur_006_105
+RUR/RUR0006700
+What a lousy counterargument. Do you want every[nl]convenience store in the world to get robbed?
+RUR/RUR0006710
+I'd rather wear glasses a hundred times over[nl]than wear one of those all the time.
+RUR/RUR0006720
+Sure, but while eyedrops can help protect your eyes....
+RUR/RUR0006730
+An ounce of prevention is worth[nl]a pound of cure, right?
+RUR/RUR0006740
+Glasses would be several times easier.
+RUR/RUR0006750
+If you can't answer the question,[nl]does that mean you recognize their importance?
+common.asb
+rur_006_201.asb
+rur_006_105.asb
