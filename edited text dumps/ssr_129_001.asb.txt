@@ -1,0 +1,191 @@
+__main
+@Lclearscreenall
+@ssr_129
+@イベント開始処理
+SSR/SSR0017450
+Raku Ichijo. What are you doing trying to[nl]leave school by yourself? What happened to the mistress?
+RAK/RAK0057750
+She said she was gonna go with Onodera to help[nl]the committee with something. She sent me home because[nl]she said I'd get in the way.
+SSR/SSR0017460
+Heh.... So she finally gave up on you.[nl]That's pathetic.
+RAK/RAK0057760
+Right, right. Pathetic guy is heading home,[nl]so please move.
+@時間経過演出
+@ＢＧＭ再生
+RAK/RAK0057770
+Alright, what should I make for dinner tonight?[nl]Today's kinda chilly, so I'm thinking something that'll[nl]warm us up.
+RAK/RAK0057780
+Tsugumi, you got any good ideas?[nl]Whatever's fine, even if it's your preference.
+SSR/SSR0017470
+Let's see, I'm in the mood for beef stew--
+@expose
+SSR/SSR0017480
+Wait, hang on![nl]Why on earth am I having a pleasant walk home with you!?
+RAK/RAK0057790
+Well, because we've been walking together[nl]ever since we left school. Is something the matter?
+SSR/SSR0017490
+What are you so calm for!?[nl]I've got no reason to go home with you!
+RAK/RAK0057800
+I don't really have one either, but that's fine.[nl]I'm having a lot of fun walking home with you.
+SSR/SSR0017500
+I-Is that so? Hmm....
+SSR/SSR0017510
+Wait, no, no![nl]Stop trying to be so over-friendly with me!
+RAK/RAK0057810
+Right, right, I got it.[nl]I'm going shopping, so you can go do whatever you want.[nl]See ya.
+SSR/SSR0017520
+Hm? Wait a second, Raku Ichijo.
+RAK/RAK0057820
+What is it now?
+SSR/SSR0017530
+That child over there....[nl]Doesn't he look like he's lost?
+RAK/RAK0057830
+Child?
+CHD/CHD0000030
+Waaaaaaaaah! Mamaaaaaaaa!
+RAK/RAK0057840
+Oh, he is. He's totally lost.
+SSR/SSR0017540
+Hey, how would we handle a situation like this?[nl]I don't have a clue how to deal with children.
+RAK/RAK0057850
+I'm not sure myself....[nl]But now that we've seen him, we can't just leave him.
+RAK/RAK0057860
+Hey, kid!
+@フェードアウト
+@背景変更
+SSR/SSR0017550
+There, there....I'm sure your mama will be back soon,[nl]so why don't you wait here with me?
+SSR/SSR0017560
+Ummmm.....[nl]Ma-kun, was it?
+CHD/CHD0000040
+Yep!
+RAK/RAK0057870
+Tsugumi!
+RAK/RAK0057880
+I took a little run around to try to find his mom,[nl]but it doesn't look like she's nearby.
+SSR/SSR0017570
+Hmm....[nl]But it wouldn't be a good idea to take him around.[nl]Let's stay here awhile and see what happens.
+RAK/RAK0057890
+In that case--
+I'll take care of him
+I'll leave him in Tsugumi's care
+RAK/RAK0057900
+Alright, kid![nl]You can play with me until your mother comes!
+CHD/CHD0000050
+Whaaaaaa!?
+RAK/RAK0057910
+Hey, why do you have to sound so obviously disgusted?[nl]It makes me sad....
+@ザクシャ誠士郎・小
+SSR/SSR0017580
+Kehehehe, not even children like you, huh.[nl]That IS pathetic.
+RAK/RAK0057920
+Gghhh....
+SSR/SSR0017590
+What do you think, little one?[nl]Would you like to play with me?
+CHD/CHD0000060
+Yep! I love you, Big Sis!
+RAK/RAK0057930
+Dammit....[nl]Animals and children both treat us way differently....
+RAK/RAK0057940
+Alright, kid! You can play with big sis for a while[nl]until your mother comes back.
+CHD/CHD0000070
+....Okay.
+SSR/SSR0017600
+H-Hey! Are you just gonna make me be[nl]the only one to play with him!?
+RAK/RAK0057950
+Come on, he clearly likes you a lot more than me....
+CHD/CHD0000080
+I love you, Big Sis!
+SSR/SSR0017610
+Whaa!? Well, if you say so....
+RAK/RAK0057960
+Good for you, Big Sis. ♪
+SSR/SSR0017620
+....I'll remember this, just so you know.
+CHD/CHD0000090
+I wanna play with Big Sis! I wanna play with Big Sis!
+SSR/SSR0017630
+Y-Yeah, okay, okay!
+SSR/SSR0017640
+Alright, whatcha wanna play?[nl]Anything you want!
+RAK/RAK0057970
+Ohh.... When you're fussing over him like that,[nl]it makes you seem like a kind mother.
+RAK/RAK0057980
+I think you could raise a great family in the future.
+SSR/SSR0017650
+F-Family!?
+SSR/SSR0017660
+----
+SSR/SSR0017670
+W-Who on earth would want to make a family with you!?
+RAK/RAK0057990
+I never said anything about me!?
+CHD/CHD0000100
+Come onnn, Mama says not to fight![nl]Smile, smile!
+SSR/SSR0017680
+Waagh!? Hehe.... H-Hey, stop![nl]Stop tickling me, hahahahaha!
+CHD/CHD0000110
+Big Sis, your boobs are huger than Mama's.
+RAK/RAK0058000
+(Gbtlckh! What the hell, you pervy brat!?)
+SSR/SSR0017690
+H-Hey, Raku Ichijio![nl]Don't just stand there, help me stop--
+SSR/SSR0017700
+....Hm? Why are you holding your nose?
+RAK/RAK0058010
+No, don't worry about it....
+MTR/MTR0000010
+Ma-kun!
+CHD/CHD0000120
+Oh, Mama!
+RAK/RAK0058020
+Oh, looks like she's finally here to get him....
+SSR/SSR0017710
+Hahh.... I-I've been liberated....
+MTR/MTR0000020
+.....Thank you so much for watching him!
+RAK/RAK0058030
+No problem. I'm glad you've found him.
+SSR/SSR0017720
+You didn't even do anything.
+RAK/RAK0058040
+Shut up. I already know that.
+MTR/MTR0000030
+Okay, Ma-kun, let's thank the nice people and leave,[nl]so we don't interrupt their date anymore, okay?
+RAK/RAK0058050
+Date!?
+SSR/SSR0017730
+No, we're not like that!
+CHD/CHD0000130
+Thanks, huge Big Sis!
+MTR/MTR0000040
+Huge?
+SSR/SSR0017740
+Waaagh! It's nothing, don't worry about that!
+MTR/MTR0000050
+Is that so? Anyway, thank you very much.[nl]Well then....
+CHD/CHD0000140
+Bye-bye!!
+SSR/SSR0017750
+So we looked like boyfriend and girlfriend to that mother?
+RAK/RAK0058060
+I guess we did....
+SSR/SSR0017760
+M-Me as your....g-girlfriend!?
+SSR/SSR0017770
+Oooghh......!
+@ＨＰ－２５
+RAK/RAK0058070
+Oww! Why did you hit me!?
+SSR/SSR0017780
+S-S-S-S-Shut up![nl]I'm not the least bit upset she thought we were lovers![nl]S-So don't you think about it, either!
+RAK/RAK0058080
+O-Okay....[nl]I didn't really care about that to begin with.
+SSR/SSR0017790
+I-I see....[nl]I guess it's okay, then....
+SSR/SSR0017800
+You didn't care, huh.....[nl]I see....
+RAK/RAK0058090
+(What the hell's with her....?)
+@イベント終了処理
+common.asb

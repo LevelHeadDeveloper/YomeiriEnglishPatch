@@ -1,0 +1,808 @@
+__main
+@Lclearscreenall
+@デバッグ
+key_0.0.0.1
+Game Flow: Undefined
+Game Flow: Normal Prologue Event
+Game Flow: Main Prologue Event
+Game Flow: Morning Sudden Event
+Game flow: Wake-up event
+Game Flow: Noon Event
+Game Flow: Noon Forced Leave Event
+Game Flow: Lunchtime Sudden Event
+Game Flow: After School Event
+Game Flow: After School Forced Leave Event
+Game Flow: Nighttime Sudden Event
+Game Flow: Saturday Event
+Game Flow: Sunday Event
+Game Flow: Bedtime Event
+Game Flow: Bad End Event
+Game Flow: Special Wake Up Event
+Game Flow: Reward Event
+Built-in Test (for Miyagawa)
+Magikoi Test
+Background Control
+Other
+@イベント開始処理
+Embedded instructions are tested here.
+Two choices.
+Choice 1
+Choice 2
+Three choices.
+Choice A
+Choice B
+Choice C
+Random four choices.
+Choice One
+Choice Two
+Choice Three
+Choice Four
+I have nothing to give
+I can give you one item.
+Pocket tissue
+Nutritional drink
+Voucher
+Bansoko
+Japanese sweets
+Marshmallows
+Canned Juice
+Tea
+Choice list created.
+Debugging & built-in functionality successful.
+@キャラ半透明戻り
+OTM/OTM0001770
+Ahem. I am the Inari goddess of divine power.
+OTM/OTM0001780
+Hey! What a delusional thing to say![nl]I shall not leave thee alone, no matter how much[nl]thou might wish I would!
+@マジコイテスト
+Chitoge
+Kosaki
+Seishiro
+School
+Morning
+Marriage
+Dream
+@ctg_401
+@ctg_402
+@ctg_403
+@ctg_404
+@ksk_401
+@ksk_402
+@ksk_403
+@ksk_404
+@ssr_401
+@ssr_402
+@ssr_403
+@ssr_404
+@マジコイテスト2
+Marika
+Ruri
+Return
+To debug menu
+@mrk_401
+@mrk_402
+@mrk_403
+@mrk_404
+@rur_401
+@rur_402
+@rur_403
+@rur_404
+@組み込みテスト（宮川用）
+Script midway jump
+Chalk berserk Seishiro
+Test 1
+Ending Shortcut
+@rak_006_true2
+@背景変更
+@clearscreenall
+Start of talk.
+Test subject.
+@2ショット開始
+Talk success.
+@2ショット成功
+Talk failure.
+@2ショット失敗
+Talk test finished.
+@エンディングショートカット
+Chitoge true ending
+Kosaki true ending
+Seishiro true ending
+Something else
+@ctg_006_501_true
+@ksk_006_001_true02
+@ssr_006_201_true
+@エンディングショートカット2
+Marika true ending (nonsense)
+Ruri true ending
+Raku's final talk
+Just before Raku's final selection
+@mrk_006
+@rur_006_201_true
+@rak_006_010
+@rak_006_020
+@システム
+The system will now wait for 10 seconds.[nl]Skipping will speed this up.
+Wait finished.
+The system will now wait for 5 seconds.[nl]Skipping will not speed this up.
+System success.
+@スクリーン制御
+Preparing to wipe screen.
+Performing wipe switching.
+Screen control success.
+@サウンド制御
+SE playback without a loop.
+SE playback without another loop.
+Volume controlled SE playback.
+Volume controlled (default) SE playback.
+Pan (left) SE playback.
+Pan (middle) SE playback.
+Pan (right) SE playback.
+Pan (default) SE playback.
+SE playback in slot 0.
+Volume controlled SE playback in slot 0.
+Volume controlled (default) SE playback in slot 0.
+Pan (left) SE playback in slot 0.
+Pan (middle) SE playback in slot 0.
+Pan (right) SE playback in slot 0.
+Pan (default) SE playback in slot 0.
+SE playback in slot 1.
+SE playback in slots 1 and 2.
+SE playback in slot 0,[nl]then wait 0.3 seconds,[nl]then fade to stop in slot 0.
+SE playback in slot 1,[nl]then wait 0.3 seconds,[nl]then fade to stop in slot 1.
+SE playback in slot 0,[nl]then wait 0.3 seconds,[nl]then stop in slot 0 without fading.
+SE playback in slot 0,[nl]then stop in slot 0 for 2 seconds.
+SE playback in slot 0.[nl]Wait 3 seconds, then decrease[nl]the volume of slot 0.
+SE playback in slot 1.[nl]Wait 3 seconds, then decrease[nl]the volume of slot 1.
+SE playback in slot 0.[nl]Immediately decrease the volume of slot 0.
+SE playback in slot 1.[nl]Immediately decrease the volume of slot 1.
+SE playback in slot 0.[nl]Stop after 1 second.
+SE playback in slot 1.[nl]Stop after 1 second.
+SE playback in slots 0 and 1.[nl]Stop after 1 second.
+Empty call for volume change and stop.
+Play BGM.[nl]Stop 5 seconds after playback request.
+Play BGM (standby for playback).[nl]Stop after 2 seconds of playback.
+Change volume. Play BGM.
+Now testing speech behavior.
+Testing lip-sync voice playback.
+CTG/CTG0015630
+Oh man, I'm starved![nl]Bento, bento~! ★
+Locking mouth to voice playback.
+Releasing lock on mouth.
+Playback with volume (default).
+Playback with volume (low).
+Playback with volume (high).
+Playback panned (default).
+Playback panned (left).
+Playback panned (center).
+Playback panned (right).
+Sound check success.
+@キャラ制御
+Normal test
+All pause confirmation test
+Fade display with alpha 50.
+Switch character pose with alpha 100.
+Switch character pose with alpha 50.
+Delete character.
+Display character with various parameters.
+Erase character with various parameters.
+Raku once more.
+Fade out.
+Change the character's pose.
+Enlarge for sneak.
+Shrink and erase for sneak.
+Character test complete.
+@背景制御
+Environment ARK test
+Display normal background.
+Display shifted background.
+Switch background.
+Scroll background.
+Loop scroll background.
+Display location name.
+BG: BL
+BG: Ichijo Residence, Entrance
+BG: Ichijo residence, Raku's room
+BG: Ichijo Residence, Raku's Room (Hot Spring)
+BG: Ichijo Residence, Haribote wall
+BG: Ichijo Residence, Ichijo Hot Spring
+BG: Ichijo Residence, Kitchen
+BG: Ichijo Residence, Living Room
+BG: Ichijo Residence, Corridor
+BG: Kirisaki Residence, Gate
+BG: Kirisaki residence, Chitoge's room
+BG: Kirisaki residence, Chitoge's room (dark)
+BG: Kirisaki residence, Hall
+BG: Kirisaki Residence, Entrance
+BG: Kirisaki Residence, Basement
+BG: Kirisaki Residence, Corridor
+BG: Sandy beach at Minami Island, daytime
+BG: Sandy beach at Minami Island, evening
+BG: Sandy beach at Minami Island, night
+BG: Kosaki's Room
+BG: Japanese Confections Onodera
+BG: Tachibana Residence, Living Room
+BG: Tachibana Residence, Marika's Room
+BG: Idol office
+BG: Waiting room
+BG: Washroom
+BG: Shrine, daytime
+BG: Shrine, daytime (with flea market)
+BG: Shrine, night
+BG: Shrine, night (with flea market)
+BG: Otama's Shrine, day
+BG: Otama's Shrine, night
+BG: Bonyari High School, Classroom, Day
+BG: Bonyari High School, Classroom, Evening
+BG: Bonyari High School, Classroom, Night
+BG: Bonyari High School, Corridor, Day
+BG: Bonyari High School, Corridor, Evening
+BG: Bonyari High School, Corridor, Night
+BG: Bonyari High School, Rooftop, Day
+BG: Bonyari High School, Rooftop, Evening
+BG: Bonyari High School, Rooftop, Night
+BG: Bonyari High School, Entrance
+BG: Bonyari High School, Gate, Day
+BG: Bonyari High School, Gate, Evening
+BG: Bonyari High School, Yard
+BG: Bonyari High School, Swimming Pool
+BG: Bonyari High School, P.E. Warehouse
+BG: Bonyari High School, Menagerie, Afternoon
+BG: Bonyari High School, Menagerie, Evening
+BG: Bonyari High School, Tree of Tradition
+BG: Bonyari High School - Infirmary
+BG: Bonyari High School, Kitchen
+BG: Bonyari High School, Art Room
+BG: Bonyari High School, Music Room
+BG: School Road, Daytime
+BG: School Road, Evening
+BG: School Road, Night
+BG: Downtown, daytime
+BG: Downtown, evening
+BG: Amusement park, plaza, daytime
+BG: Amusement park, plaza, evening
+BG: Game arcade
+BG: Coffee shop
+BG: Movie theater, lobby
+BG: Aquarium, daytime
+BG: Aquarium, evening
+BG: Aquarium, inside
+BG: Department store, women's section
+BG: Dressing Room
+BG: Inside Locker
+BG: Park, daytime
+BG: Park, night
+BG: Campsite, day
+BG: Campsite, night
+BG: Cottage
+BG: Cheap Apartment
+BG: Karaoke bar, hallway
+BG: Kosaki's secret spot
+Background test success.
+Showing School Road (daytime) with morning sun effect.
+@背景変更
+Showing Corridor (daytime) with morning sun effect (reversed).
+Showing School Corridor (evening) with evening effect.
+Showing Corridor (evening) with evening effect.
+Showing School Corridor (night) with night effect.
+Showing Corridor (night) with night effect.
+Displaying a character and background, with various ARK effects.
+Glitter
+Flowers
+Stars
+Lens Flare
+Depression
+Upper/Lower Bands
+Test complete.
+@clearscreenall
+@画面エフェクト1
+Flash.
+Flash loop.
+Flash stop.
+Shaking screen.
+Stop shaking.
+Resume shaking top scene.
+Stop.
+Resume shaking current scene.
+Screen effect test 1 succeeded.
+@画面エフェクト2
+Moving camera.
+Rolling camera.
+Continuously rotate camera.
+Shift camera position.
+Continuously rotate camera in this state.
+Change camera settings.[nl]Change angle of view from 70 to 100.
+Screen effect test 2 succeeded.
+@画面エフェクト3
+Screen scrolling.
+Screen rolling.
+Screen rolling continuously.
+Screen stops rolling continuously.
+Screen zoom.
+Screen position change.
+Screen effect test 3 succeeded.
+@ARK
+Kosaki ending started.
+Ruri ending.
+Raku ending.
+Background change test.
+Eyecatch.
+ARK: Dialogue force exit.
+Email test.
+ARK: Email: Shuu Event 07.
+ARK: Email: Chitoge Event 06 Pattern 1.
+ARK: Email: Chitoge Event 06 Pattern 2.
+ARK: Email: Chitoge Event 07.
+ARK: Email: Chitoge Event 08.
+ARK: Email: Kosaki Main 05.
+ARK: Email: Kosaki Event 06.
+ARK: Email: Kosaki Event 07.
+ARK: Email: Kosaki Event 13.
+ARK: Email: Marika Event 06 Pattern 1.
+ARK: Email: Marika Event 06 Pattern 2.
+ARK: Email: Marika Event 07.
+ARK: Email: Marika Event 10 Pattern 1.
+ARK: Email: Marika Event 10 Pattern 2.
+ARK: Email: Seishiro Event 06.
+ARK: Email: Seishiro Event 07.
+ARK: Email: Seishiro Event 08.
+ARK: Sunrise.
+ARK: Sunrise (reverse).
+ARK: Sunset.
+ARK: Night.
+ARK: Sparkles.
+ARK: Flowers.
+ARK: Stars.
+ARK: Lens Flare.
+ARK: Depression.
+ARK: Upper/lower bands.
+ARK: Scouter.
+ARK: Past.
+ARK: Clock.
+ARK: Flashing cell phone.
+ARK: Flashing ladle.
+ARK: Kosaki ending 01.
+ARK: Kosaki ending 02.
+ARK: Kosaki ending 03.
+ARK: Rain.
+ARK: Flame.
+Obtain non-flag item 01.
+Obtain non-flag item 02.
+Obtain non-flag item 03.
+Obtain non-flag item 04.
+Obtain non-flag item 05.
+Obtain non-flag item 06.
+Obtain non-flag item 07.
+Obtain non-flag item 08.
+Obtain non-flag item 09.
+Obtain non-flag item 10.
+Obtain non-flag item 11.
+Obtain non-flag item 12.
+Obtain non-flag item 13.
+Obtain non-flag item 14.
+Obtain non-flag item 15.
+Obtain non-flag item 16.
+Obtain non-flag item 17.
+Obtain non-flag item 18.
+Obtain non-flag item 19.
+Obtain non-flag item 20.
+Play dummy ARK.
+Regenerate ARK with offset.
+Regenerate ARK with standby.
+Regenerate ARK with standby.
+Regenerate ARK in slot 2.
+Clears the ARK in slot 2.
+Wait until ARK in slot 0 is finished.
+ARK sunlight test.
+ARK standby line test.
+Disappears when ○ pressed.
+Disappeared.
+Clear all ARK.
+ARK test complete.
+@UI
+Test begin.
+SSR/SSR0007550
+What the hell is going on, Tsugumi!?[nl]Why have we switched bodies!?
+@exposew
+SSR/SSR0007590
+Huh!? What the hell happened!?
+CLD/CLD0000710
+This punk took advantage of our absence[nl]to sneak into your room!
+UI test success.
+@アプリケーション
+Map selection screen tutorial.
+Backlog of conversation.
+Verify the text enlargement feature[nl]#fs{40}works on scripts#fs{}.
+Play ARK to confirm button wait.
+2-Shot ARK confirmation
+A
+Success
+Failure
+Touch Part Begin Staging
+Touch Part Begin
+HP Decrease.
+Dead.
+Dying.
+Healthy.
+HP Increase.
+Fully Recovered.
+Recovered.
+Suddenly dead.
+Suddenly fully recovered.
+Died after all.
+Will recover.
+Do you promise?
+I do
+I don't
+The result was that you promised.
+The result was that you did not promise.
+Chitoge has fewer than 50 Zawsze Drops.
+Chitoge's Zawsze Drops increase by 1.
+Kosaki's Zawsze Drops increase by 1.
+Seishiro's Zawsze Drops increase by 1.
+Marika's Zawsze Drops increase by 1.
+Ruri's Zawsze Drops increase by 1.
+Chitoge's Zawsze Drops increase by 10.
+Kosaki's Zawsze Drops increase by 10.
+Seishiro's Zawsze Drops increase by 10.
+Marika's Zawsze Drops increase by 10.
+Ruri's Zawsze Drops increase by 10.
+Chitoge's Zawsze Drops increase by 100.
+Kosaki's Zawsze Drops increase by 100.
+Seishiro's Zawsze Drops increase by 100.
+Marika's Zawsze Drops increase by 100.
+Ruri's Zawsze Drops increase by 100.
+Zawsze Drops in system are still 0.
+Pocket tissues have not been obtained.
+Pocket tissues obtained.
+Application dependency success.
+@テキスト制御
+Unvoiced text 1.[nl]Unvoiced text 1.
+Unvoiced text 2.[nl]Unvoiced text 2.
+Unvoiced text 3.[nl]Unvoiced text 3.
+Unvoiced text 4.[nl]Unvoiced text 4.
+RAK/RAK0061060
+Test lip-sync voiced playback.
+CTG/CTG0015630
+Test lip-sync voiced playback.[nl]Test lip-sync voiced playback.
+Text control test succeeded.
+@ロック制御
+Lap flag checking.
+Ruri route is open.
+Ruri route is not open.
+Items are carried over.
+Items are not carried over.
+Force background flag is ON.
+General ADV flag is manipulated.
+General ADV flag is unset.
+General ADV flag is being set.
+General ADV flag is set.
+General ADV flag is dropped.
+ADV direction locked.
+ADV direction unlocked.
+Test lock 0 released.
+Test lock 0 not released.
+ADV lock release staged again.[nl]Nothing happens.
+Item 01 lock staged.
+Item 01 lock unstaged.
+Item 01 lock unstaged again.[nl]Nothing happens.
+Item 02 lock staged.
+Item 02 lock unstaged.
+Item 03 lock staged.
+Item 03 lock unstaged.
+Item 04 lock staged.
+Item 04 lock unstaged.
+Item 05 lock staged.
+Item 05 lock unstaged.
+Item 06 lock staged.
+Item 06 lock unstaged.
+Item 07 lock staged.
+Item 07 lock unstaged.
+Item 08 lock staged.
+Item 08 lock unstaged.
+Item 09 lock staged.
+Item 09 lock unstaged.
+Item 10 lock staged.
+Item 10 lock unstaged.
+Item 11 lock staged.
+Item 11 lock unstaged.
+Item 12 lock staged.
+Item 12 lock unstaged.
+Item 13 lock staged.
+Item 13 lock unstaged.
+Item 14 lock staged.
+Item 14 lock unstaged.
+Item 15 lock staged.
+Item 15 lock unstaged.
+Item 16 lock staged.
+Item 16 lock unstaged.
+Item 17 lock staged.
+Item 17 lock unstaged.
+Item 18 lock staged.
+Item 18 lock unstaged.
+Item 19 lock staged.
+Item 19 lock unstaged.
+Item 20 lock staged.
+Item 20 lock unstaged.
+Item 21 lock staged.
+Item 21 lock unstaged.
+Item 22 lock staged.
+Item 22 lock unstaged.
+Item 23 lock staged.
+Item 23 lock unstaged.
+Item 24 lock staged.
+Item 24 lock unstaged.
+Item 25 lock staged.
+Item 25 lock unstaged.
+Item 26 lock staged.
+Item 26 lock unstaged.
+Item 27 lock staged.
+Item 27 lock unstaged.
+Item 28 lock staged.
+Item 28 lock unstaged.
+Item 29 lock staged.
+Item 29 lock unstaged.
+Item 30 lock staged.
+Item 30 lock unstaged.
+Lock control test complete.
+@登録人数オーバー
+CTG/CTG0012290
+Everyone! Come look![nl]There's a lot of inari sushi here!
+RUR/RUR0008060
+Chitoge.[nl]That's an offering to the Inari-sama....
+SYU/SYU0006560
+But, if we don't eat it, we're all going to starve[nl]to death, and we can't help a little bit of bad luck.
+SSR/SSR0011400
+That's true.[nl]Survival is our top priority.
+MRK/MRK0010230
+One, two, three....[nl]There's exactly six of them.
+KSK/KSK0009740
+These look delicious.[nl]Almost as if Ichijo....
+OTM/OTM0004310
+I shan't share my inari sushi with anyone!
+SYU/SYU0006660
+Ahh~, it permeates my whole being.[nl]Otama, give me a double helping!
+OTM/OTM0004450
+Too much!
+@時間経過演出
+CTG/CTG0012470
+Haha, I'm so full![nl]That was absolutely delicious![nl]Now I know your magic is real.
+@ポーズ確認
+@イベント開始処理
+Raku
+Other characters
+Shuu
+Claude
+Otama
+Uniform (W), Front
+Casual Clothes 1, Front
+Glasses, Front
+Uniform (W), F. Right
+Uniform (W), F. S. Right
+Uniform (W), F. Left
+Uniform (W), F. S. Left
+Uniform (W), S. Forward
+Uniform (W), Unique Pose
+Casual Clothes 1, F. Right
+Casual Clothes 1, F. S. Right
+Casual Clothes 1, F. Left
+Casual Clothes 1, F. S. Left
+Casual Clothes 1, S. Forward
+Casual Clothes 1, Unique Pose
+Casual Clothes 2, Front
+School Swimsuit, F. Right
+School Swimsuit, Front
+School Swimsuit, S. Forward
+School Swimsuit, Unique Pose
+Swimsuit, F. Right
+Swimsuit, Front
+Swimsuit, S. Forward
+Swimsuit, Unique Pose
+Gym Clothes, F. S. Right
+Gym Clothes 1, F. S. Left
+Gym Clothes 1, Front
+Gym Clothes 1, S. Forward
+Gym Clothes 1, Unique Pose
+Uniform+Apron, Front
+Uniform+Apron, S. Forward
+Casual Clothes+Apron, Front
+Casual Clothes+Apron, S. Forward
+Character-Specific, Front
+Character-Specific, S. Forward
+Glasses, F. Right
+Glasses, F. S. Right
+Glasses, F. Left
+Glasses, F. S. Left
+Glasses, S. Forward
+Glasses, Unique Pose
+Uniform (W), S. Forward 2
+School Swimsuit, F. Left
+Swimsuit, F. Left
+Glasses, S. Forward 2
+Character-Specific, Unique Pose
+Swimsuit, F. S. Right
+Swimsuit, F. S. Left
+Gym Clothes, F. S. Right
+Gym Clothes, F. S. Left
+Casual Clothes 1, S. Forward 2
+Casual Clothes 1, Unique Pose 2
+@全ポーズ確認テスト
+Check all facial expressions
+Check poses only
+Near: Uniform (W), Front
+Near: Casual Clothes 1, Front
+Near: Glasses, Front
+Sneaking
+Sneaking Appearance
+Sneaking Appearance: Angry
+Sneaking Appearance: Serious
+Sneaking Appearance: Smile
+Sneaking Appearance: Smile
+Sneaking appearance: Confused
+Sneaking appearance: Sad
+Sneaking appearance: Surprise
+Sneaking appearance: Funny face 1
+Sneaking appearance: Funny face 2
+Sneaking appearance: Funny face 3
+Character-Specific, F. Right
+Additional Pose, Front
+Additional Pose, F. Right
+Additional Pose, Unique Pose
+Near: Uniform (W), F. Right
+Near: Uniform (W), F. S. Right
+Near: Uniform (W), F. Left
+Near: Uniform (W), F. S. Left
+Near: Uniform (W), S. Forward
+Near: Uniform (W), Unique Pose
+Near: Casual Clothes 1, F. Right
+Near: Casual Clothes 1, F. S. Right
+Near: Casual Clothes 1, F. Left
+Near: Casual Clothes 1, F. S. Left
+Near: Casual Clothes 1, S. Forward
+Near: Casual Clothes 1, Unique Pose
+Near: Casual Clothes 2, Front
+Near: School Swimsuit, Facing Right
+Near: School Swimsuit, Front
+Near: School Swimsuit, S. Forward
+Near: School Swimsuit, Unique Pose
+Near: Swimsuit, Facing Right
+Near: Swimsuit, Front
+Near: Swimsuit, S. Forward
+Near: Swimsuit, Unique Pose
+Near: Gym Clothes, F. Right
+Near: Gym Clothes, F. S. Right
+Near: Gym Clothes, F. Left
+Near: Gym Clothes, F. S. Left
+Near: Gym Clothes, Front
+Near: Gym Clothes, S. Forward
+Near: Gym Clothes, Unique Pose
+Near: Uniform+Apron, Front
+Near: Uniform+Apron, S. Forward
+Near: Casual Clothes 1+Apron, Front
+Near: Casual Clothes 1+Apron, S. Forward
+Near: Character-Specific, Front
+Near: Character-Specific, S. Forward
+Near: Character-Specific, F. Right
+Near: Glasses, F. Right
+Near: Glasses, F. S. Right
+Near: Glasses, F. Left
+Near: Glasses, F. S. Left
+Near: Glasses, S. Forward
+Near: Glasses, Unique Pose
+Near: Additional Pose, Front
+Near: Additional Pose, F. Right
+Near: Additional Pose, Unique Pose
+Sneak Unique Pose
+Sneak Appearance: Unique Normal
+Sneak Appearance: Unique Anger
+Sneak Appearance: Unique Serious
+Sneak Appearance: Unique Smile
+Sneak Appearance: Unique Funny 1
+Sneak Appearance: Unique Funny 2
+Sneak Appearance: Unique Funny 3
+Old Maid
+School Swimsuit, S. Forward 2
+Swimsuit, S. Forward 2
+Gym Clothes, S. Forward 2
+Uniform+Apron, S. Forward 2
+Casual Clothes 1+Apron, S. Forward 2
+Character-Specific, S. Forward 2
+Additional Pose, S. Forward
+Additional Pose, S. Forward 2
+Near: Uniform (W), S. Forward 2
+Near: Casual Clothes 1, S. Forward 2
+Near: School Swimsuit, F. Left
+Near: School Swimsuit, S. Forward 2
+Near: Swimsuit, F. Left
+Near: Swimsuit, S. Forward 2
+Near: Gym Clothes, S. Forward 2
+Near: Uniform+Apron, S. Forward 2
+Near: Casual Clothes 1+Apron, S. Forward 2
+Near: Character-Specific, S. Forward 2
+Near: Glasses, S. Forward 2
+Near: Additional Pose, S. Forward 
+Near: Additional Pose, S. Forward 2
+Near: Character-Specific, Unique Pose
+Additional Pose, Unique Pose A
+Additional Pose, Unique Pose B
+Near: Casual Clothes 1, Unique Pose 2
+Near: Additional Pose, Unique Pose A
+Near: Additional Pose, Unique Pose B
+Ms. Kyoko
+Raku's Dad
+Adelt
+Ryuu
+Kosaki's Mom
+Honda
+Marika's Dad
+Mitoge
+@全表情確認テスト
+Normal
+Angry
+Serious
+Smile
+Cheerful
+Confused
+Sad
+Surprise
+Normal + Sm. Blush
+Angry + Sm. Blush
+Serious + Sm. Blush
+Smile + Sm. Blush
+Cheerful + Sm. Blush
+Confused + Sm. Blush
+Sad + Sm. Blush
+Surprise + Sm. Blush
+Normal + Blush
+Angry + Blush
+Serious + Blush
+Smile + Blush
+Cheerful + Blush
+Confused + Blush
+Sad + Blush
+Surprise + Blush
+Normal + Sm. Blush + Tears
+Angry + Sm. Blush + Tears
+Serious + Sm. Blush + Tears
+Smile + Sm. Blush + Tears
+Cheerful + Sm. Blush + Tears
+Confused + Sm. Blush + Tears
+Sad + Sm. Blush + Tears
+Surprise + Sm. Blush + Tears
+Normal + Blush + Tears
+Angry + Blush + Tears
+Serious + Blush + Tears
+Smile + Blush + Tears
+Cheerful + Blush + Tears
+Confused + Blush + Tears
+Sad + Blush + Tears
+Surprise + Blush + Tears
+Funny Face 1
+Funny Face 2
+Funny Face 3
+common.asb
+ctg_401_001.asb
+ctg_402_001.asb
+ctg_403_001.asb
+ctg_404_001.asb
+ksk_401_001.asb
+ksk_402_001.asb
+ksk_403_001.asb
+ksk_404_001.asb
+ssr_401_001.asb
+ssr_402_001.asb
+ssr_403_001.asb
+ssr_404_001.asb
+mrk_401_001.asb
+mrk_402_001.asb
+mrk_403_001.asb
+mrk_404_001.asb
+rur_401_001.asb
+rur_402_001.asb
+rur_403_001.asb
+rur_404_001.asb
+rak_006_001.asb
+ctg_006_501.asb
+ksk_006_001.asb
+ssr_006_201.asb
+mrk_006_001.asb
+rur_006_201.asb

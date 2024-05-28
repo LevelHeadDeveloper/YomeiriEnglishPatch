@@ -1,0 +1,132 @@
+__main
+@Lclearscreenall
+@ssr_111
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0014060
+Hey, hey, daaarling! ★[nl]Where should we go for our date after school today?
+RAK/RAK0054410
+As long as I have you, honey, I'd be happy with anything,[nl]be it a burnt field or a manure heap!
+CTG/CTG0014070
+What a coincidence! I was thinking the same thing!
+CTG/CTG0014080
+But I wish you'd pick a more decent spot anyway,[nl]my idiot darling! ★[nl]You're as stupid and cute as always! ♪
+RAK/RAK0054420
+Hahahaha, just kidding, honeyyy![nl]I just wanted to see your angry gorilla face!
+@expose
+CTG/CTG0014090
+Come on, daaarling![nl]One more word and I'll make you cryyyy!
+RAK/RAK0054430
+Haha, haha....[nl]I was joking again!
+CTG/CTG0014100
+Well, how can you be so good at making unfunny jokes!?[nl]You're just too good at that, darling!
+@expose2
+RAK/RAK0054440G
+Hahahahahahaha!
+RAK/RAK0054450G
+Hahhh....
+SSR/SSR0013970
+----
+SYU/SYU0009160
+You two are really acting extra lovey-dovey today,[nl]aren't you? It's so unnatural!
+RAK/RAK0054460
+Y-You idiot! We're *always* this lovey-dovey![nl]I'm just crazy about honey here.
+CTG/CTG0014130
+Yeah! And no one loves my darling as much as I do. ★
+MRK/MRK0010740
+Here! There's someone right here![nl]My love for him is way stronger!
+RAK/RAK0054470
+(For god's sake, just shut up, Tachibana!)
+RUR/RUR0011720
+....It's honestly *too* unnatural.[nl]Kosaki, do you know what's up?
+KSK/KSK0016740
+No.... But given them,[nl]they probably have a great reason.
+SSR/SSR0013980
+@フェードアウト
+@背景変更
+CLD/CLD0001930
+....Nothing out of the ordinary.
+RAK/RAK0054480
+Hey, Chitoge. Just how long is the[nl]"Raku Ichijo Surveillance Week" gonna last?
+RAK/RAK0054490
+Having Claude watching me morning, noon, and night[nl]honestly has me at my limit....
+CTG/CTG0014140
+Sorry....I don't know either.
+CTG/CTG0014150
+But Claude is absolutely determined to[nl]uncover our fake relationship this time.
+CTG/CTG0014160
+Of course, Tsugumi's part of it....
+.........
+SSR/SSR0013990
+....Hey, Raku Ichijo.
+RAK/RAK0054500
+W-What is it?
+SSR/SSR0014000
+I've been watching you up until today,[nl]and there's one thing that's been bugging me.
+SSR/SSR0014010
+But now I'm sure of it.[nl]I've realized something.
+@ＢＧＭ停止
+RAK/RAK0054510
+R-Realized....what, exactly?
+SSR/SSR0014020
+You're trying to play dumb, huh.[nl]Heh. Fine, then I'll tell you. It's--
+RAK/RAK0054520G
+I-It's...!?
+SSR/SSR0014030
+It's that I love the Mistress more than you after alllll!
+CTG/CTG0014180
+Huh....?
+RAK/RAK0054530
+Huh!?
+SSR/SSR0014040
+Everything you've said about her is superficial and vague![nl]Tell me, specifically, what you like about the Mistress!
+RAK/RAK0054540
+.....Not this again.
+SSR/SSR0014050
+You can't answer me straight away?[nl]How can you call yourself her lover, then!?
+SSR/SSR0014060
+I can tell you what *I* like about her![nl]Ten things, or a hundred, right off the top of my head!
+RAK/RAK0054550
+SSR/SSR0014070
+Even if she's sad, the Mistress can put a smile[nl]right back on her face by eating a lot of food![nl]That kind of positivity is wonderful!
+SSR/SSR0014080
+When she's sleeping happily with drool on her face,[nl]she looks like an angel! And the fact that she talks[nl]about food in her sleep is adorable, too!
+CTG/CTG0014190
+Hey, hang on...![nl]None of these feel like compliments at all!
+SSR/SSR0014090
+And there's so many more things!
+SSR/SSR0014100
+When we're bathing together, she always hugs me from[nl]behind, and the way she wanders around her room,[nl]searching for her underwear, warms my heart....
+CTG/CTG0014200
+Kyaaaaaaahh! How dare you say that in public!!
+SSR/SSR0014110
+Huh? Was that bad?
+CTG/CTG0014210
+Of course it was!
+SYU/SYU0009170
+Ohhh.....so you're doing *those* things together!?[nl]I knew you were great friends!
+SYU/SYU0009180
+It makes me so happy to hear all that![nl]Nice, Seishiro!
+RAK/RAK0054560
+By the way, why would you be searching[nl]for underwear? It doesn't seem like the[nl]sort of thing you'd need to look for....
+CTG/CTG0014220
+Shut up!
+@ＨＰ－３０
+RAK/RAK0054570
+Glptchk!
+CTG/CTG0014230
+Not another word about any of this![nl]Or I'll pummel you both!
+RAK/RAK0054580
+....You've already pummeled me.
+CTG/CTG0014240
+Tsugumi, stop saying such weird things at school. Idiot!
+SSR/SSR0014120
+Aaaah! The Mistress called me an idiot!?
+SSR/SSR0014130
+No, please wait uuuuuup![nl]Missssstressss!
+MRK/MRK0010750
+Tsugumi loses all awareness of everything else[nl]when it comes to Chitoge. Poor young lady.
+RAK/RAK0054590
+You're one to talk....
+@イベント終了処理
+common.asb

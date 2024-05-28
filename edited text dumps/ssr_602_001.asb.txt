@@ -1,0 +1,70 @@
+__main
+@Lclearscreenall
+@ssr_602
+@ヌキアシ終了処理
+@ssr_602_failure
+@イベント開始処理
+@ＢＧＭ再生
+GNA/GNA0000030
+There he is! It's Raku Ichijo!
+RAK/RAK0057620
+U-Uh-oh....!
+GNB/GNB0000030
+Master Claude has ordered us to[nl]rough him up casually! 'K!?
+RAK/RAK0057630
+H-Hey![nl]Do it casually like he said!
+RAK/RAK0057640
+Gaaaaahhh!
+@フェードアウト
+SSR/SSR0017280
+Raku Ichijo? What's the matter!?[nl]Answer me! Raku, Raaaaaaaaaku!
+@背景変更
+SSR/SSR0017290
+Seriously. With such a weak body,[nl]you can't be the Mistress's lover.
+SSR/SSR0017300
+You should be grateful you survived.[nl]You go home now.
+RAK/RAK0057650
+(Dammit....I'm so frustrated.)
+@イベント終了処理
+@ssr_602_success
+RAK/RAK0057660
+Hahh, hahh, hahh....[nl]I-I thought I was gonna die in there.
+SSR/SSR0017340
+I'm surprised you made it out, Raku Ichijo.
+SSR/SSR0017350
+This time, I'll commend you honestly.[nl]Excellent work.
+@ザクシャ誠士郎・中
+RAK/RAK0057680
+(This kind of praise from Tsugumi[nl] is pretty rare, isn't it....)
+RAK/RAK0057690
+(I'm even a little embarrassed....)
+SSR/SSR0017360
+And, as promised, your reward.
+RAK/RAK0057700
+Reward?
+@expose
+SSR/SSR0017370
+Here.
+RAK/RAK0057710
+These are....earrings?
+SSR/SSR0017380
+Yes. Once upon a time I had a superior named Jessica.[nl]She'd....tell me women always have to look their best....[nl]So she'd occasionally send me accessories like these.
+RAK/RAK0057720
+Wow. I gotta say, these look pretty expensive.
+SSR/SSR0017390
+But I don't think they'd suit me at all.[nl]To be honest, I cannot keep them.
+SSR/SSR0017400
+But I'm certain they'd suit the Mistress quite well.[nl]If you were to give them to her, I'm sure she'd be quite pleased.
+RAK/RAK0057730
+Really? Frankly, I think they'd look great on you.
+SSR/SSR0017410
+O-On me!?
+SSR/SSR0017420
+N-No no no no![nl]That kind of thing isn't for me, and I don't need them.[nl]So you can have them.
+SSR/SSR0017430
+Throw them away, or give them to the Mistress,[nl]or do whatever you want with them.
+RAK/RAK0057740
+I see. In that case, I guess I'll take them.[nl]Thanks, Tsugumi.
+SSR/SSR0017440
+Yeah. Good work today, Raku Ichijo.
+common.asb

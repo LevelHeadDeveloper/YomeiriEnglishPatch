@@ -1,0 +1,57 @@
+__main
+@Lclearscreenall
+@ssr_214
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0052380
+Next period is P.E.[nl]I'd better hurry up and change.....
+@背景変更
+SSR/SSR0019420
+G-Guess who!?
+RAK/RAK0052390
+Aaagh!
+SSR/SSR0019430
+RAK/RAK0052400
+....Who, of course, could that be besides---
+Chitoge?
+Onodera?
+Tsugumi?
+Tachibana?
+RAK/RAK0052460
+Chitoge, cut the nonsens--
+.....
+RAK/RAK0060170
+Waaagh!? Tsugumi!?
+@expose2
+SSR/SSR0019460
+You....[nl]How could you mistake me for the Mistress of all people?
+RAK/RAK0060180
+I got it. Onodera, right?
+SSR/SSR0019470
+Heh....
+RAK/RAK0060140
+Sounds like....Tsugumi, right?
+@ザクシャ誠士郎・大
+SSR/SSR0019440
+T-That's correct....
+@expose
+RAK/RAK0060150
+I didn't take you for the type to do that....
+SSR/SSR0019450
+I-I didn't really want to, myself! [nl]his was a punishment game, so per one of the Mistress's[nl]friends, I had to do this!
+RAK/RAK0052440
+Ahh, I see.
+RAK/RAK0060160
+(Is that right.... Gotta say I'm surprised.)
+RAK/RAK0052480
+Tachibana, if this is some kind of prank--!
+RAK/RAK0060190
+S-Sorry....[nl]I just didn't take you for the type to do that, Tsugumi.
+SSR/SSR0019480
+Hahh.... Well, I didn't want to, to begin with....[nl]It was just a punishment game....
+RAK/RAK0060200
+No, I'm really sorry....
+RAK/RAK0060210
+(Dammit, I'm an idiot![nl] What am I supposed to do here!?)
+@イベント終了処理
+common.asb

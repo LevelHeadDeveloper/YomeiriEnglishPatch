@@ -1,0 +1,189 @@
+__main
+@Lclearscreenall
+@ssr_130
+@イベント開始処理2
+@ＢＧＭ再生
+SSR/SSR0017810
+Hahh....[nl]Why am I stuck walking home with you again?
+RAK/RAK0058100
+Not this again.[nl]If you don't like it, I'll just go home a different way.
+@expose
+SSR/SSR0017820
+....Well, I don't really mind.
+RAK/RAK0058110
+I guess it's fine, then.[nl]I don't mind walking home with you, either. Among all[nl]the girls, you're the one I'm most comfortable with.
+SSR/SSR0017830
+Huh? M-Me!?
+RAK/RAK0058120
+(Onodera makes me nervous, Tachibana's always scheming,[nl] Miyamoto doesn't know what I'm thinking, and when I'm[nl] with Chitoge I always need to act like her lover.)
+RAK/RAK0058130
+(When you consider all that,[nl] Tsugumi's the easiest to deal with.)
+SSR/SSR0017840
+Hmph.....I never could have imagined you'd be telling me to[nl]calm down. I must be losing my touch as a Beehive agent.
+RAK/RAK0058140
+Hey, hey, don't say that.
+@ＢＧＭ停止
+WSD/WSD0000040
+Ummm.... You're really bothering me!
+RAK/RAK0058150
+Hmmm....?
+CPA/CPA0000010
+It's okay, it's okay. School's out and you're free, right?[nl]Come hang out with us.
+CPB/CPB0000010
+Frankly, I think you should just say yes.[nl]We all have quite short tempers.
+WSD/WSD0000050
+Eeek...!
+SSR/SSR0017850
+Judging by the uniform, she goes to our school.
+RAK/RAK0058160
+Tch. Those bastards.... They're full of crap.[nl]Tsugumi, wait here a moment.
+RAK/RAK0058170
+Hey, you guys! Stop, stop!
+WSD/WSD0000060
+Oh....!
+CPA/CPA0000020
+Hmmm? Why would we do that?
+RAK/RAK0058180
+She clearly doesn't like it.[nl]Let her go.
+CPB/CPB0000020
+Hunhh!?[nl]You tryna challenge us? You want us to mess you up?[nl]You want us to mess you up, huh!?
+RAK/RAK0058190
+Hey, hey, calm down![nl]Come on, you'd better get outta here.
+WSD/WSD0000070
+Y-Yes! Thank you very much!
+CPB/CPB0000030
+Aaagh! ....Hey, why'dja let her go like that?
+SSR/SSR0017860
+Good grief. These guys just keep yammering.
+SSR/SSR0017870
+Raku Ichijo. There's no use negotiating with these people.[nl]Why don't we just shut them up?
+RAK/RAK0058200
+Aagh, you idiot! You didn't have to come out!
+CPA/CPA0000030
+Hey, hey, you gotta be kiddin' me....![nl]You want me to break your nose?
+SSR/SSR0017880
+If only you could.
+RAK/RAK0058210
+Hey, stop! We've already gotten her away from them,[nl]so let's just leave peacefully, okay?
+CPA/CPA0000040
+There's no way we're just lettin' you go after that, bastard!
+CPB/CPB0000040
+Let's beat up the both of 'em together!
+SSR/SSR0017890
+Heh.
+CPA/CPA0000050
+Gackh, kghpblk!
+@画面揺らし
+CPB/CPB0000050
+Glkcbth!
+RAK/RAK0058230
+(Amazing.... She laid them out flat in seconds!)
+CPB/CPB0000060
+Tch.... Dammit![nl]Don't you mess with me!
+RAK/RAK0058240
+H-He's got a knife!?[nl]Look out, Tsugumi!
+SSR/SSR0017900
+Ah! You idiot!
+RAK/RAK0058250
+Tsugumi!
+SSR/SSR0017910
+Amateur fighters should stay back!
+CPB/CPB0000070
+You girly man....! Don't you screw with me!!
+SSR/SSR0017920
+Girly man....?
+RAK/RAK0058260
+Agh....!
+@expose2
+SSR/SSR0017930
+Who's....who's a girly man....
+RAK/RAK0058270
+Look out, punk! Run away!
+SSR/SSR0017940
+I'M A GIRL, YOU IDIOOOOT!
+CPB/CPB0000080
+GAAAAAAAHHHHHHH!?!?
+CPB/CPB0000090
+*dies*
+SSR/SSR0017950
+Hmph, getting so heated over a small fry like that.[nl]I guess I need more training.
+RAK/RAK0058280
+(Waaagh.... He's writhing on the ground like a baby.[nl] I can't believe this guy was after me just now....)
+RAK/RAK0058290
+(What a relief that he's a lot quieter than he was.[nl] I'm so relieved!)
+RAK/RAK0058300
+---Oh, huh?[nl]Your hand is injured!
+SSR/SSR0017960
+Hm? Oh, I guess it is.[nl]I guess that knife he was using grazed me.
+RAK/RAK0058310
+I'll bet that happened when you were defending me.[nl]Sorry, I shouldn't have gotten involved....
+SSR/SSR0017970
+Jeez. I told you the weak ones should stay--
+RAK/RAK0058320
+Let me see your hand for a sec!
+SSR/SSR0017980
+Huh....?
+RAK/RAK0058330
+Come on, gimme your hand, quick.
+SSR/SSR0017990
+Waagh! Don't just suddenly grab my hand!
+RAK/RAK0058340
+Ummm, in this kind of situation....
+RAK/RAK0058350
+Here, I've got a bandage.[nl]I'll put it on, so don't move.
+SSR/SSR0018000
+I-I don't need that! Get your hands off me, quick!
+RAK/RAK0058360
+Idiot! If that leaves a scar, that wouldn't be any good.[nl]You're a girl, so you should be more careful about[nl]these things.
+@ザクシャ誠士郎・中
+SSR/SSR0018010
+.....!
+RAK/RAK0058370
+Alright, that should be okay now.
+SSR/SSR0018020
+-----
+RAK/RAK0058380
+I know it might be in the way,[nl]but keep it on for the day at least. Okay?
+SSR/SSR0018030
+G-Got it.
+RAK/RAK0058390
+You're awfully understanding today, huh?
+SSR/SSR0018040
+S-Shut up....!
+SSR/SSR0018050
+Ghh.... You're always throwing me off-key.[nl]...This time, I'm going home first!
+RAK/RAK0058400
+Huh? O-Okay....[nl]Take care.
+SSR/SSR0018060
+This isn't a wound you need to worry about.[nl]Leave it alone.
+SSR/SSR0018070
+....But the bandage did help. So, thank you.
+RAK/RAK0058410
+(She left so abruptly....[nl] Did I say something to offend her!?)
+RAK/RAK0058420
+....Crap! I should've at least had a bandage on me!
+SSR/SSR0018080
+Calm down, Raku Ichijo![nl]This is barely a scratch!
+RAK/RAK0058430
+No, but....
+SSR/SSR0018090
+Come on, how long are you gonna keep holding my hand!?[nl]You pervert!
+RAK/RAK0058440
+Huh? Oh....s-sorry!
+SSR/SSR0018100
+Ghh.... You're always throwing me off-key.
+RAK/RAK0058450
+Sorry, Tsugumi. This was my fault.
+@ザクシャ誠士郎・小
+SSR/SSR0018110
+No, it's okay....don't worry about it.[nl]The fact that I got injured defending someone goes to show[nl]I could use some more training as a bodyguard.
+SSR/SSR0018120
+But today I'll be going on ahead home.[nl]See you later, Raku Ichijo.
+RAK/RAK0058460
+Yeah, later.
+RAK/RAK0058470
+(I'm always throwing her off-key....huh.)
+RAK/RAK0058480
+(I don't think I want to see her fight on-key,[nl] but nevertheless, I did something wrong....)
+@イベント終了処理
+common.asb

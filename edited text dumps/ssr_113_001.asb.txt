@@ -1,0 +1,61 @@
+__main
+@Lclearscreenall
+@ssr_113
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0054820
+Hey, Tsugumi. What is it you did in the U.S.?
+SSR/SSR0014300
+Hmmm....you mean before I came to Japan?
+KSK/KSK0016750
+Now that you mention it,[nl]I don't know a lot about you from back then.
+MRK/MRK0010760
+She's full of mysteries. Very interesting.
+SSR/SSR0014310
+It's not really such a big deal.[nl]Besides, it's not pleasant to talk about....
+SYU/SYU0009190
+You're sounding awfully reluctant to speak. You know every[nl]detail, don't you, Chitoge? Thisss thing about Seishiro,[nl]or thaaat thing about Seishiro.... ★
+SSR/SSR0014320
+Every time you open your mouth, you irritate me....
+CTG/CTG0014290
+Hmmm.....I actually don't know that much about it.[nl]Dad and Claude never really talk to me much about[nl]their work....
+MRK/MRK0010770
+Hmmmm.....now I'm even *more* suspicious.[nl]I'll bet you've got a *fellow* over there[nl]that you're *great* friends with.
+SSR/SSR0014330
+There's no such guy!
+@expose
+CTG/CTG0014300
+Ah....but Tsugumi *is* quite popular[nl]among our guys, right?
+SSR/SSR0014340
+E-Et tu, Mistress!?
+CTG/CTG0014310
+That's because she's capable of taking down entire[nl]organizations by herself, and as young as she is,[nl]she's already completed several jobs.
+CTG/CTG0014320
+From an enemy standpoint, she's the most powerful assassin[nl]and it's said there have been forces that surrendered[nl]at the mere mention of the name "Tsugumi".
+RAK/RAK0054830
+Wow....That's awesome.
+CTG/CTG0014330
+Heheh. Right?[nl]I'll bet that's why all the guys in the Beehive[nl]call her "Big Bro" and respect her!
+KSK/KSK0016760
+Huh? "Big Bro"?
+RAK/RAK0054840
+Hey..... Isn't that kinda the wrong nickname?
+CTG/CTG0014340
+Huh? Is it?
+SYU/SYU0009200
+Obviously, it's just a token of respect from her peers, right?[nl]It doesn't matter to them that she's the opposite sex.
+MRK/MRK0010780
+But why would they call you "Big Bro"?[nl]In the movies, it's always "ma'am" or "Big Sis".
+SSR/SSR0014350
+Because, ummm....
+SSR/SSR0014360
+Like Claude, they're all clueless and[nl]they all still think I'm a boy....
+KSK/KSK0016770G
+Huh....?
+SYU/SYU0009210
+I'm not quite sure how to say this....
+RAK/RAK0054850
+....I have no clue how the Beehive[nl]made it this far with how dense they are.
+@ザクシャ誠士郎・小
+@イベント終了処理
+common.asb

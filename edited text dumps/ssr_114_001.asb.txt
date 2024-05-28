@@ -1,0 +1,73 @@
+__main
+@Lclearscreenall
+@ssr_114
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0054860
+Tsugumi, do you have any dreams or plans for the future?
+SSR/SSR0014370
+I haven't really given it any thought.[nl]I hope to remain a member of the Beehive as I am now,[nl]and continue to be of service to the Mistress and the boss.
+RAK/RAK0054870
+I see. I gotta say that feels a little sad,[nl]but it's an answer typical of you, Tsugumi.
+SSR/SSR0014380
+Don't feel sorry for me.
+@expose
+SSR/SSR0014390
+Besides, there was a time when I had a dream.[nl]Looking back, it was quite the inappropriate dream[nl]for my status....
+RAK/RAK0054880
+Wow. What kind of dream was it?
+SSR/SSR0014400
+I'm not just telling you. Guess.
+RAK/RAK0054890
+Ummmm, the sort of dream you'd give up, huh....[nl]It must have been a pretty crazy dream for you to give it up.[nl]So I'm guessing you wanted to be....
+An idol singer
+A bride
+RAK/RAK0054900
+....an idol singer.
+SSR/SSR0014410
+Incorrect. I had never even thought of being one of those.
+RAK/RAK0054910
+Really? I mean, you're cute,[nl]and I thought your boyish appearance[nl]would make you a surefire hit.
+@ザクシャ誠士郎・中
+SSR/SSR0014420
+C-Cute!?
+SSR/SSR0014430
+W-What the hell are you talking about!?
+@ＨＰ－２５
+RAK/RAK0054920
+Gckblth!
+RAK/RAK0054930
+W-Why would you hit me when I'm complimenting you....?
+SSR/SSR0014440
+Because you spit out such crazy things!
+RAK/RAK0054940
+(Then don't ask me in the first place....)
+RAK/RAK0054950
+Did you want to be a bride or something?[nl]If you were raised as a boy, I can see why you might[nl]give up on that dream if you can't do it.
+@ザクシャ誠士郎・小
+SSR/SSR0014450
+Mhm. Close, but not quite.
+RAK/RAK0054960
+Huh!? I was close!? What was it, then?
+SSR/SSR0014460
+Heh....it shouldn't be hard to explain.
+SSR/SSR0014470
+When I was a child, I wished sincerely to marry the Mistress[nl]and protect her for the rest of my life. That is all.
+RAK/RAK0054970
+M-Marry her!?
+SSR/SSR0014480
+It was merely a child's longing.[nl]I'm sure you went through a phase like that once.
+RAK/RAK0054980
+(Well, I did, ten years ago.[nl] I still don't know who it was with....)
+SSR/SSR0014490
+I didn't spend a single penny I made on missions,[nl]I saved enough to pay for the wedding, to raise children,[nl]and to keep the Mistress happy. ....I was desparate.
+SSR/SSR0014500
+But about three years back, I realized something.[nl]As a girl, I could not marry the Mistress.
+SSR/SSR0014510
+I have never been so frustrated as I was that day.[nl]Three days and nights I spent in agony over it.
+SSR/SSR0014520
+But, looking back, it is because I was able to[nl]overcome that despair that I am the person I am today.[nl]Heh....I miss those days of hard work.
+RAK/RAK0054990
+No, sorry about the distant look,[nl]but I think you were a little late figuring it out.
+@イベント終了処理
+common.asb

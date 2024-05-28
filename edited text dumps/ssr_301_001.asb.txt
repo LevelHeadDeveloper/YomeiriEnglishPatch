@@ -1,0 +1,181 @@
+__main
+@Lclearscreenall
+@ssr_301
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0009630
+Yayyy! Let's have a great time!
+RAK/RAK0058490
+You're all excited all of a sudden.[nl]We only just got here.
+SYU/SYU0009640
+It's fine, it's fine![nl]It's been a while since we did this with just us guys![nl]Let's have some funnn!
+MSA/MSA0000180
+It's a lot more exciting with some girls,[nl]but it's nice to have this time with only the boys.
+MSB/MSB0000140
+Ever since that idiot Ichijo started dating Kirisaki,[nl]we've had fewer and fewer opportunities to do this.
+RAK/RAK0058500
+Yeah, yeah, it's all my fault.[nl]Jeez, he doesn't even know the whole story.
+SYU/SYU0009650
+It's fine, it's fine![nl]You can vent to me as much as you need to today.[nl]You've had a lot on your plate lately, haven't you?
+RAK/RAK0058515
+Ooh, you understand, Shuu![nl]This is why you're my best friend!
+SYU/SYU0009660
+And in return, everything's on Raku today.
+RAK/RAK0058520
+Ah, and what a long but short friendship it had been!
+@expose2
+SYU/SYU0009670
+Come onnn, it was only a joke![nl]Now, show us your good enka, Raku!
+RAK/RAK0058530
+Jeez....what a smooth-talker.
+RAK/RAK0058540
+I'm gonna go to the bathroom before I sing.[nl]While I'm out, I'll get us some drinks, too.
+MSA/MSA0000190G
+Thanks!!
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0058550
+Hahh, that's a relief.[nl]Now I just need to get some drinks and.....hm?
+@ＢＧＭ再生
+SSR/SSR0018130
+....!?
+RAK/RAK0058560
+Tsugumi! You're doing karaoke today too!?[nl]What a coincidence.
+SSR/SSR0018140
+H-Hey, get over here!
+RAK/RAK0058570
+H-Hey, what the hell!?[nl]Don't push me!
+SSR/SSR0018150
+What are you doing here!?
+RAK/RAK0058580
+Well, I'm also in high school.[nl]Once in a while, I'll go do some karaoke with the guys.
+SSR/SSR0018160
+Hrmmm.....so it would seem all high schoolers[nl]meet up for karaoke....
+@expose
+SSR/SSR0018170
+By the way, how many are in your group?
+RAK/RAK0058590
+There's 4 of us today. Shuu's here too.
+SSR/SSR0018180
+Ghh....so that guy's here.[nl]I can't let him know I'm here, too....
+RAK/RAK0058600
+Gotta say I'm surprised, though.[nl]Didn't know you did karaoke, Tsugumi.
+SSR/SSR0018190
+Y-Yeah....
+RAK/RAK0058610
+And what about Chitoge?[nl]She go to the bathroom too?
+SSR/SSR0018200
+The Mistress is....n-not here.
+RAK/RAK0058620
+Huh?
+SSR/SSR0018210
+....I'm here by myself.
+RAK/RAK0058630
+Ah, I see.... You do karaoke by yourself, then.
+RAK/RAK0058640
+When people go to karaoke alone, they do so because[nl]they're either stressed out or really like singing....[nl]Which is it in your case?
+SSR/SSR0018220
+....Well, I'm doing it more as preparation.
+RAK/RAK0058650
+Preparation?
+SSR/SSR0018230
+Everyone in class has invited me to karaoke also.[nl]I promised all the girls I'd go with them next week.
+SSR/SSR0018240
+But I unfortunately know abysmally little about karaoke....
+SSR/SSR0018250
+So I figured some enemy reconnaissance....or rather,[nl]a test run to make sure I'm used to karaoke....was in order.
+RAK/RAK0058660
+You're very serious in a weird way.[nl]Why didn't you just ask someone to show you[nl]how it's done on that day?
+RAK/RAK0058670
+Like, if you brought Chitoge or someone,[nl]I'm sure she'd be happy to teach you everything.
+SSR/SSR0018260
+The Mistress is accompanying the boss to a party today.[nl]Today's the only day I can prepare, so I came alone....
+RAK/RAK0058680
+Ah, I see....
+SSR/SSR0018270
+By the way, how do I operate this big remote control?[nl]I'm glad I had the courage to come in today, but I have[nl]no idea how to use the machinery....
+RAK/RAK0058690
+That's where you're coming from.....[nl]It can't be helped. Lemme see it for a sec.
+SSR/SSR0018280
+Ah....
+@ザクシャ誠士郎・小
+RAK/RAK0058700
+What's wrong? I'm just trying to show you how to use it....
+SSR/SSR0018290
+N-No, sorry.[nl]It's just that we're suddenly sitting next to each other....
+RAK/RAK0058710
+Yeah, yeah. I know it's not exactly pleasant[nl]for me to be teaching you, but bear with me.
+SSR/SSR0018300
+That's not what I meant....
+RAK/RAK0058720
+For now, let's put in the song.[nl]First you need to enter the song title or artist like this....
+SSR/SSR0018310
+Hm. You're pretty good at this.
+RAK/RAK0058730
+Then just pick the song you want to sing[nl]from the search results, and....enter!
+SSR/SSR0018320
+Oh....I know this one.[nl]The Mistress sings it a lot.
+RAK/RAK0058740
+Well, that's perfect. Go ahead and sing it for me.
+SSR/SSR0018330
+Huh....? N-No, but....
+RAK/RAK0058750
+Don't worry about it.[nl]Here, turn on the microphone.
+SSR/SSR0018340
+Ummmm, the "on" switch.....
+@叫び揺れ
+SSR/SSR0018350
+Waaagh!? W-What the hell!?[nl]My ears are ringing!
+RAK/RAK0058760
+H-Hey! Don't point the microphone at the speakers![nl]You'll get a headache!
+SSR/SSR0018360
+....Ah.
+RAK/RAK0058770
+Gaaaah! Stoppp!
+SSR/SSR0018370
+I never thought I could make you suffer this way.[nl]I must say, this is a more powerful attack than I thought.
+SSR/SSR0018380
+Ngh..... Though I'm dealing quite a bit[nl]of damage to myself, as well....
+RAK/RAK0058780
+Then stop doing it, you idiot!
+SSR/SSR0018390
+Who are you calling an idiot, you idiot!?[nl]I'll keep doing this!
+RAK/RAK0058790
+S-Stoppp iiitt!
+@キャラ揺らし
+SSR/SSR0018400
+Graaaahhh!
+RAK/RAK0058800
+Hahh, hahh, hahh..... You're playing with the mic feedback.[nl]The song's over already!
+SSR/SSR0018410
+But I've got most of the controls figured out now.[nl]I should be able to manage on my own now.
+RAK/RAK0058810
+Really?[nl]Then let's see you put on a song and sing it.[nl]I'd like to hear your singing, too.
+SSR/SSR0018420
+....Who do you think you are, my mom?[nl]I said enough is enough. I refuse to sing in front of you!
+RAK/RAK0058820
+Aww, why not?[nl]Are you embarrassed or something?
+SSR/SSR0018430
+Shut up![nl]It's the first time anyone's asked me to sing![nl]So naturally I'd be nervous.
+SSR/SSR0018440
+I don't want anyone to hear me singing[nl]until I can practice and get better!
+RAK/RAK0058830
+It doesn't matter if you suck at karaoke[nl]as long as you have fun.
+SSR/SSR0018450
+Just get outta here already![nl]And aren't you keeping your friends waiting!?
+RAK/RAK0058840
+Shoot, that's right![nl]I gotta get them some drinks.
+RAK/RAK0058850
+Well then, enjoy your karaoke.
+SSR/SSR0018460
+Yeah....you were a big help. But just so you know,[nl]I think I could have managed without you.
+SSR/SSR0018470
+But listen up![nl]Not a word about this to anyone.
+RAK/RAK0058860
+Okay, okay. I understand.
+SSR/SSR0018480
+Not a single word!
+RAK/RAK0058870
+Aagh, stop that! I got it already!
+@イベント終了処理
+common.asb

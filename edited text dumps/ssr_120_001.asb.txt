@@ -1,0 +1,44 @@
+__main
+@Lclearscreenall
+@ssr_120
+@イベント開始処理
+RAK/RAK0055960
+Hm? I feel like someone's staring at me.)
+@フェードアウト
+@背景変更2
+RAK/RAK0055970
+(Maybe it's from over here....)
+@タッチパート開始処理
+@ＢＧＭ再生
+SSR/SSR0015460
+Tch.... You found me.
+RAK/RAK0055980
+Tsugumi? What are you doing?
+SSR/SSR0015470
+Master Claude's orders, don't feel bad.
+@expose
+SSR/SSR0015480
+I was going to spend the day hiding[nl]and keeping an eye on you in earnest....[nl]Your skills have improved to find me so quickly, Raku Ichijo.
+@ザクシャ誠士郎・中
+SSR/SSR0015490
+I'm disappointed in myself,[nl]but you are the Mistress's lover, Raku Ichijo.[nl]I have to say I'm a little impressed.
+RAK/RAK0055990
+(She's in a rough spot....)
+RAK/RAK0075840
+(Hm? What's that down there?)
+RAK/RAK0056000
+Oh! My illustrated book about animals![nl]So this is where I dropped it!
+RAK/RAK0056010
+(Now to find out who's looking at me....)
+RAK/RAK0046000
+Hm? What's this?
+RAK/RAK0046010
+(I'd better pick it up, just in case....)
+RAK/RAK0056020
+Huh....? I thought I felt someone's eyes on me[nl]from around here....but I don't see anyone.
+RAK/RAK0056030
+(Let's look somewhere else.)
+RAK/RAK0056040
+(Hmmmm, maybe it was just my imagination....)
+@イベント終了処理
+common.asb

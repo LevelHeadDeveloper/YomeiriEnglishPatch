@@ -1,0 +1,121 @@
+__main
+@Lclearscreenall
+@ssr_125
+@イベント開始処理
+@ＢＧＭ再生
+WSA/WSA0000130
+....and she heard voices coming from the bathroom!
+WSB/WSB0000140
+Wowww, really!?
+SSR/SSR0016310
+Hm...?
+@expose
+SSR/SSR0016320
+....Hey, Raku Ichijo. Lately the girls have been acting weird,[nl]why is that?
+RAK/RAK0056780
+I'm not quite sure myself.[nl]It's weird, they've all been so restless lately....
+SYU/SYU0009460
+Ahhhhem! I believe I might know the reason.
+SSR/SSR0016330
+No, go home.
+@expose2
+SYU/SYU0009470
+Come on, aren't you cold.[nl]As long as I'm here, you might as well hear me out. Right?
+RAK/RAK0056790
+You're just trying to chat, aren't you....
+SSR/SSR0016340
+Aaagh, fine.[nl]Talk all you want.
+SYU/SYU0009480
+Actually, there's been strange happenings[nl]around this school lately.
+RAK/RAK0056800
+Strange happenings?
+SYU/SYU0009490
+Every school has them, they're called the Seven Wonders.[nl]Come on, you've heard them, right? Kinjiro Ninomiya walking[nl]the halls at night, or groans coming from the music room....
+SSR/SSR0016350
+Nghhh..... So it's this kind of thing.
+SYU/SYU0009500
+The one they're talking about right now[nl]is the greatest-of-the-greats infamous bathroom-stall ghost[nl]"Hanako-san of the Toilet".
+SSR/SSR0016360
+H-Hanako-san!?
+RAK/RAK0056810
+He's just being goofy again.
+@ＢＧＭ停止
+SYU/SYU0009510
+Right....[nl]Here at Bonyari High School, in the second-floor girls'[nl]bathroom, she is said to lurk in the third stall from the door.
+SYU/SYU0009520
+It is said that long ago, while she was playing[nl]hide-and-seek with her friends, there was a big fire[nl]in the school.
+SYU/SYU0009530
+But she did not notice the fire, and remained in the stall,[nl]waiting for her friends to find her....
+SSR/SSR0016370
+Nghhhhh....
+SYU/SYU0009540
+Since she failed to escape, she is thus still in the stall,[nl]waiting to be found. And somehow, rumors of this[nl]began to spread.
+SYU/SYU0009550
+If you were to stand in front of that stall while it is empty,[nl]during the evening, and call out[nl]"Hanako-san, I found youuuuu!".....
+SSR/SSR0016380
+T-Then what....?
+@画面揺らし2
+SYU/SYU0009560
+BOOOOOOM!
+SSR/SSR0016390
+Aaaaah!
+SYU/SYU0009570
+....She'd smash down the stall door and chase down[nl]whatever poor victims she can get her hands on,[nl]dragging them straight to the afterlife.
+SYU/SYU0009580
+Huh? What's wrong, Seishiro?[nl]Was what I said scary to you?
+SSR/SSR0016400
+N-Not a chance![nl]I was just startled by your sudden yelling, idiot!
+RAK/RAK0056820
+Don't tell me, Tsugumi....
+You aren't great with ghost stories?
+No, it's nothing
+RAK/RAK0056830
+You aren't great with ghost stories?
+SSR/SSR0016410
+Oogh....
+RAK/RAK0056840
+Ooh, so you have a surprisingly cute side, too.
+@ザクシャ誠士郎・中
+SSR/SSR0016420
+T-That's not true at all!
+RAK/RAK0056850
+No, never mind....
+RAK/RAK0056860
+(I guess even Tsugumi has a fear or two....)
+SSR/SSR0016430
+Ghh! Why are you making that face!?[nl]Are you making fun of me!?
+RAK/RAK0056870
+Not at all. Everyone has something they're afraid of.
+SSR/SSR0016440
+I'M NOT AFRAID OF ANYTHIIIIING!
+@ＨＰ－２５
+RAK/RAK0056880
+Gaah! Why did you hit me....?
+SSR/SSR0016450
+S-Shut up!
+SSR/SSR0016460
+Whether it's the ghost of Kinjiro or Hanako-san,[nl]I'll turn them into Swiss cheese in a matter of seconds!
+RAK/RAK0056890
+So you believe in ghosts, then.
+SYU/SYU0009590
+But unlike zombies,[nl]ghosts aren't affected by physical attacks, right?
+SSR/SSR0016470
+Huh!? They aren't!?
+SYU/SYU0009600
+Dunno. I've never seen them myself. ♪
+SSR/SSR0016480
+Ghh....[nl]This guy!
+SSR/SSR0016490
+A-Anyway, I'm not even afraid of ghosts![nl]I don't bother with such trifling rumors! Hmph!
+SSR/SSR0016500
+Waaaaagh!?
+SYU/SYU0009610
+Oh, sorryyyy. I dropped my bag. ♪
+SSR/SSR0016510
+Would you like me to make you a friend[nl]of Hanako-san and the others?
+SYU/SYU0009620
+Waaaagh! Time out, time out![nl]That's not funny!
+RAK/RAK0056900
+(I gotta say I'm surprised that[nl] Tsugumi's not great with ghosts.)
+@イベント終了処理
+common.asb

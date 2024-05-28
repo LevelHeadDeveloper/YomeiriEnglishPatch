@@ -1,0 +1,137 @@
+__main
+@Lclearscreenall
+@ssr_303
+@イベント開始処理
+RAK/RAK0059100
+(Today's my free day, and I'm bored.[nl] Just sitting around would be a waste of time,[nl] so I've got to find something to do.)
+@ＢＧＭ再生
+SSR/SSR0018620
+Raku Ichijo? What are you doing in this kind of place?
+RAK/RAK0059110
+Hey, Tsugumi. What's with the outfit?
+SSR/SSR0018630
+I'm on my daily run right now.
+RAK/RAK0059120
+A run, huhh.....[nl]Come to think of it, I don't move my body a lot outside[nl]of P.E.... Maybe I'm not getting enough exercise.....
+SSR/SSR0018640
+Heh, pathetic.
+SSR/SSR0018650
+In that case, why don't you join me? Go for a little run[nl]and give that frail body of yours a good workout.
+RAK/RAK0059130
+I guess. I'm not busy, so I'll give it a shot.
+@expose
+SSR/SSR0018660
+It's decided, then. Go get dressed quickly.
+@フェードアウト
+@背景変更
+RAK/RAK0059140
+H-Hey....we don't need to be this meticulous[nl]about stretching, do we?
+SSR/SSR0018670
+What are you talking about? If you skimp[nl]on the warm-up exercises, it'll hurt you in the end.[nl]Now hurry up and push my back!
+RAK/RAK0059150
+(Tsugumi doesn't seem to mind this,[nl] but touching a girl's back takes a lot of courage.)
+RAK/RAK0059160
+(It's like her back is strangely soft....[nl] As though if I push it too hard, I might break it.)
+SSR/SSR0018680
+Hey, you gotta press a bit harder to[nl]make the stretching work. Go harder.
+RAK/RAK0059170
+O-Okay....[nl]It's kinda hard to find the right amount of force.
+SSR/SSR0018690
+This isn't getting us anywhere.[nl]Let me show you how it's done, now sit with your legs open.
+RAK/RAK0059180
+Got it. Here goes....
+SSR/SSR0018700
+I'm starting. When I push, exhale as much as you can.
+SSR/SSR0018710
+....Mmph!
+@叫び揺れ
+RAK/RAK0059190
+Owowowowowowowow! That hurts![nl]Do it more gently!
+SSR/SSR0018720
+You....have a surprisingly broad back.[nl]Even if you are weak, I guess, in a way, you are a man....
+SSR/SSR0018730
+And unlike the Mistress or Mistress Onodera,[nl]you're quite firmly built....
+RAK/RAK0059200
+Uncle! Uncle![nl]Just let go of me already!
+@時間経過演出
+SSR/SSR0018740
+Alright, now we're done warming up.[nl]It's time to run.
+RAK/RAK0059210
+Phew.....I used up most of my energy just stretching.[nl]I mean, my whole body's completely sore....
+SSR/SSR0018750
+What are you such a softie for?
+SSR/SSR0018760
+Well, let's get running.[nl]Do your best and follow me.
+RAK/RAK0059220
+....O-Okay! Let's get going!
+RAK/RAK0059230
+Hahh....hahh....hahh.....hahh....
+SSR/SSR0018770
+....You're finally here. You're too slow, Raku Ichijo.
+RAK/RAK0059240
+S-Sorry.....I completely lost momentum about[nl]halfway through.... I-I didn't realize how fast you could run[nl]when you get serious....
+SSR/SSR0018780
+Serious? We're still doing a light jog.
+RAK/RAK0059250
+Gh!? Seriously!?
+SSR/SSR0018790
+We were going half speed.[nl]But you seem to be sweating quite a lot.
+SSR/SSR0018800
+I'll lend you a towel, so wipe down your face.
+RAK/RAK0059260
+T-Thank you....
+RAK/RAK0059270
+Sorry. I must really be slowing you down.
+SSR/SSR0018810
+Yeah, you are. I got cold waiting for you.
+RAK/RAK0059280
+Aagh.....
+SSR/SSR0018820
+....But I suppose it's preferable that you were even able to[nl]keep up with my warm-up in the first place. Even the[nl]Beehive has some guys who drop out in the middle.
+RAK/RAK0059290
+I mean, if you consider this a warm-up....
+SSR/SSR0018830
+Yeah. We'll be going even faster from here,[nl]50 more kilometers.
+RAK/RAK0059300
+Fif---!?
+SSR/SSR0018840
+Of course, once you said you were going to do this,[nl]you committed to sticking through to the end, right?
+RAK/RAK0059310
+W-Wait![nl]I was already going full speed before....
+SSR/SSR0018850
+Then go faster now.
+RAK/RAK0059320
+That's too Spartan!
+SSR/SSR0018860
+Heh, I was joking.[nl]I'm not that much of a demon to amateurs.
+SSR/SSR0018870
+I don't mind slowing down the pace,[nl]but we still have another 5 kilometers to go.[nl]That should be bearable, right?
+RAK/RAK0059330
+A-Alright....[nl]That's an offer too good to refuse.
+SSR/SSR0018880
+Just what I'd expect from the Mistress's lover.[nl]Training with me pays off.
+RAK/RAK0059340
+(Besides, it's rare to see Tsugumi in such a lively mood.[nl] ....Let's hold out a little bit longer.)
+SSR/SSR0018890
+Okay then, let us resume.
+RAK/RAK0059350
+Oh, hang on a sec.[nl]I gotta wipe my sweat one more time.
+RAK/RAK0059360
+....Also, this towel smells kinda nice.
+@expose2
+SSR/SSR0018900
+Waaagh!? Don't go smelling that, pervert![nl]I use those too, you know!
+RAK/RAK0059370
+Oh, that's right! My bad![nl]I wiped up all the sweat as best I could!
+RAK/RAK0059380
+....But could you tell me what kind of detergent you use?
+SSR/SSR0018910
+Cooommee ooonnn![nl]I told you not to smell it!
+SSR/SSR0018920
+Hey, now that you've done that, I'm really gonna[nl]make you run 50 kilometers! Run like you mean to die![nl]And if you stop, I'll shoot you!
+RAK/RAK0059390
+Eeek! I-I shouldn't have said anything!
+@イベント終了処理
+@ssr_206
+common.asb
+ssr_206_001.asb

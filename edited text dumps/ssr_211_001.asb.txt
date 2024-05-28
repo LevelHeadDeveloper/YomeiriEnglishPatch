@@ -1,0 +1,54 @@
+__main
+@Lclearscreenall
+@ssr_211
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059920
+Ughh....I can't move another inch today....[nl]My whole body feels like it's taken a hydraulic press....
+RAK/RAK0059930
+Sounds like someone's here.[nl]....Well, Ryuu or one of the others will probably let them in.
+RAK/RAK0059940
+.....Or maybe I'm the only one here.
+RAK/RAK0059950
+Hahh.... It can't be helped.[nl]Mphh.....
+@背景変更
+RAK/RAK0059960
+Owwww..... Okay! I'm coming out now!
+RAK/RAK0059970
+T-Tsugumi!?
+SSR/SSR0019250
+Are you feeling okay?
+RAK/RAK0059980
+Did you come here to check on me?
+@expose
+SSR/SSR0019260
+Just thought I'd drop by.[nl]I was in the neighborhood on a mission.
+SSR/SSR0019290
+Here, eat this and cheer up.
+RAK/RAK0059990
+Is this....yogurt?
+SSR/SSR0019300
+It's a mixture of mashed apple and banana.[nl]If you don't want it, feel free to throw it away.
+RAK/RAK0060000
+No....this is a big help.[nl]Thank you, Tsugumi.
+@ザクシャ誠士郎・中
+SSR/SSR0019310
+Y-Yeah.....[nl]Hopefully, this helps you get to school tomorrow.
+SSR/SSR0019320
+Ummm.... The Mistress would be very tense if you[nl]couldn't make it, and besides....
+RAK/RAK0060010
+Besides?
+@ザクシャ誠士郎・小
+SSR/SSR0019330
+N-Never mind!
+SSR/SSR0019340
+Anyway, you have it now![nl]Eat it and heal that squishy body of yours!
+RAK/RAK0060020
+....? Well, okay.[nl]Thanks a million.
+RAK/RAK0060030
+You have a safe trip home.
+SSR/SSR0019350
+Yeah. See you tomorrow.
+@ＨＰ＋８０
+@イベント終了処理
+common.asb

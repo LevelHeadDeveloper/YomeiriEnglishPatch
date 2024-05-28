@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@ssr_128
+@イベント開始処理
+RAK/RAK0057460
+....It's this late already, huh.[nl]I was so caught up in taking care of the animals,[nl]that I left later than I expected to.
+SSR/SSR0017050
+You're late, Raku Ichijo.
+RAK/RAK0057470
+Huh? Tsugumi? What are you doing here?[nl]And what do you mean "I'm late"....?
+SSR/SSR0017060
+Mhm....I was actually waiting for you.
+@expose
+SSR/SSR0017070
+Raku Ichijo. Would you like to play a game with me?
+@ＢＧＭ再生
+RAK/RAK0057480
+Huh....? What the hell, that's sudden.
+SSR/SSR0017080
+In one hour's time, a combat exercise will be[nl]conducted in the Beehive compound.[nl]You are to participate in this exercise.
+RAK/RAK0057490
+Huhh!? Why me!?
+SSR/SSR0017090
+If you really want to call yourself the Mistress's lover, you[nl]need to have some combat experience. Otherwise, you[nl]won't be able to protect her when the time comes, will you?
+RAK/RAK0057500
+But, like....I don't mean to brag,[nl]but I've never been in a fight.
+SSR/SSR0017100
+Don't go beating your chest over that, it's pathetic.
+SSR/SSR0017110
+Don't worry. Even though it's a combat exercise,[nl]I don't actually intend for you to fight.[nl]All you need to do is run away.
+RAK/RAK0057510
+I-Is that so?
+SSR/SSR0017120
+Yeah. Whether bullets are ricocheting or fire is raging,[nl]you just need to run away.
+SSR/SSR0017130
+If you cannot protect yourself, there's no way[nl]you can protect the Mistress. So that's step one.
+RAK/RAK0057520
+You mentioned bullets and fire just now....[nl]That kinda sounds like real combat....
+SSR/SSR0017140
+You've been a real chatterbox for a while now.[nl]All you need to say is "I will" or "I won't"!
+SSR/SSR0017150
+Or rather, do it! You must do it![nl]You know what happens if you refuse, right?
+RAK/RAK0057530
+N-No way! Now you're just threatening me!
+SSR/SSR0017160
+Just answer me. You're wasting time.
+RAK/RAK0057540
+Ghhh....understood.[nl]Well then--
+I won't
+I'll try it
+RAK/RAK0057550
+I don't think I'll do it.[nl]After today, I'm beat.
+SSR/SSR0017170
+....I see.
+SSR/SSR0017180
+You're gutless. I had thought you'd have[nl]at least some backbone, but....too bad.
+RAK/RAK0057560
+(Hmmm....I'd have thought she'd be madder....[nl] But she seems more like she's taken aback.)
+RAK/RAK0057570
+(But, well, I've got to spare my life.[nl] Forgive me, Tsugumi.)
+@イベント終了処理
+RAK/RAK0057580
+I'll do it! I'll escape for sure and surprise you!
+SSR/SSR0017190
+Ohh....I look forward to seeing it.[nl]If you do manage to escape, I'll give you a present.
+SSR/SSR0017200
+Then let us begin! Follow me!
+@時間経過演出
+SSR/SSR0017210
+This is Tsugumi.[nl]Raku Ichijo, do you read me?
+RAK/RAK0057590
+Yeah, loud and clear.
+SSR/SSR0017220
+I'm certain you're in position.[nl]So I shall begin explaining.
+SSR/SSR0017240
+The rules are quite simple.[nl]Avoid being noticed by the enemy and make your way[nl]to me, and you win. If you give up along the way, you lose.
+SSR/SSR0017250
+However, there are several members of the Beehive[nl]roaming around the mansion, looking for you.
+SSR/SSR0017260
+If they find you, I cannot guarantee you'll live.[nl]---That is all.
+RAK/RAK0057600
+Huh!? Wait![nl]That last part wasn't exactly clear![nl]What will they do when they catch me!?
+SSR/SSR0017270
+Try to escape so you don't find out.[nl]Let's get started.
+RAK/RAK0057610
+Dammit, I guess we've really gotta do this, then....[nl]I'm really going to escape!
+@ヌキアシ開始処理
+common.asb

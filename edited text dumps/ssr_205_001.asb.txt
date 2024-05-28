@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@ssr_205
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059510
+Hey, Tsugumi![nl]Me and you have day duty today, don't forget.
+SSR/SSR0019050
+Day duty. I still don't quite understand what that means.[nl]What do we have to do when we have day duty?
+SYU/SYU0009690
+Ahhhhem! I believe I might have the answer to that.
+SYU/SYU0009700
+Day duty is....well, to put it simply,[nl]you need to stay by Raku's side for the whoooole day!
+@expose2
+SSR/SSR0019060
+Whaat!? I-I have to stay with Raku Ichijo!?[nl]That's.....ummmm....uhhh.....
+SYU/SYU0009710
+I was just kid・ding. ♪
+SSR/SSR0019070
+....Are you sure you're okay with those[nl]being your last words?
+@キャラ揺らし
+SYU/SYU0009720
+GYAAAAAAHHHH!!!
+RAK/RAK0059520
+(What the hell are you doing....) 
+@イベント終了処理
+common.asb

@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@ssr_127
+@イベント開始処理
+SSR/SSR0016940
+Hm....Raku Ichijo.
+RAK/RAK0057370
+Yo, Tsugumi. What are you doing here?
+SSR/SSR0016950
+The Mistress left something at school,[nl]so I'm going to get it.
+You're overprotective
+You're nice to Chitoge
+RAK/RAK0057380
+If Chitoge forgot it, shouldn't she be the one to go get it?[nl]Don't you think you're being a little overprotective?
+@ザクシャ誠士郎・小
+SSR/SSR0016960
+Perhaps. The Mistress said the same thing.
+SSR/SSR0016970
+But this is what I like to do.[nl]You've got no business telling me what to do.
+RAK/RAK0057390
+Really? I can see the look of dissatisfaction[nl]on Chitoge's face, though.
+RAK/RAK0057400
+Really, you're endlessly kind to Chitoge.[nl]I'd appreciate it if you'd share at least[nl]1/100th of that kindness with me.
+SSR/SSR0016980
+I refuse to show you even 1/1000th.[nl]I have no obligation to be kind to you.
+RAK/RAK0057410
+Well, I knew you'd say that.
+CLD/CLD0001960
+Ohh?
+@expose
+SSR/SSR0016990
+!!
+RAK/RAK0057420
+Geh! That sounds like....!
+@ＢＧＭ再生
+CLD/CLD0001970
+Well, well, if it isn't the young master[nl]of the Ichijo family. And also....
+CLD/CLD0001980
+Seishiro. Why are you here?[nl]Also....alone with this guy.
+@expose2
+SSR/SSR0017000
+M-Master Claude! Please don't misunderstand!
+SSR/SSR0017010
+I just so happen to be in the same place as this man,[nl]and we aren't on good terms or anything, okay!?
+RAK/RAK0057430
+You're talking too fast....
+CLD/CLD0001990
+I see....[nl]So that's what's going on.
+CLD/CLD0002000
+Seishiro. I raised you.[nl]So I have a rough idea what you're thinking.
+SSR/SSR0017020
+Huh? What could that be....?
+CLD/CLD0002010
+You're keeping an eye on him while[nl]the Mistress is away from him, right?
+CLD/CLD0002020
+If! If this lustful monkey is seeing another woman,[nl]you can shoot him on the spot!
+CLD/CLD0002030
+Well done as expected, Seishiro.[nl]It's common for two men who are friends to go everywhere[nl]with each other. You won't be suspicious at all.
+RAK/RAK0057440
+Hey, you know I can hear you....
+CLD/CLD0002040
+Well then, I'll be seeing you again, young master.[nl]I would ask that you and Seishiro have a wonderful[nl]man-to-man relationship as well.
+CLD/CLD0002050
+Well then....
+SSR/SSR0017030
+That man.... When will he realize that I'm a woman?
+RAK/RAK0057450
+From the looks of it, he might take a lifetime.[nl]Jeez, what a dense bastard.
+SSR/SSR0017040
+....You're hardly one to talk.
+@イベント終了処理
+common.asb

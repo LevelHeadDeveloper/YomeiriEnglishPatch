@@ -1,0 +1,111 @@
+__main
+@Lclearscreenall
+@ssr_115
+@イベント開始処理
+SSR/SSR0014530
+Raku Ichijo!
+RAK/RAK0055000
+Waaagh! What's with the sudden yelling?
+SSR/SSR0014540
+I....I need some life advice from you![nl]Follow me for a minute!
+RAK/RAK0055010
+Life advice? You want mine?
+@ＢＧＭ再生
+@フェードアウト
+@背景変更
+RAK/RAK0055020
+So, what is this life advice?
+SSR/SSR0014550
+Listen....don't tell the Mistress this yet.[nl]I don't want to surprise her too much.
+RAK/RAK0055030
+Would it really be that much of a surprise to her?
+SSR/SSR0014560
+Honestly, I'm still a little shaken by it.[nl]No way....
+SSR/SSR0014570
+There's no way I was expecting my own parents to show up!
+RAK/RAK0055040
+Y-Your parents!? But I thought you were--
+@expose
+SSR/SSR0014580
+Yes. Master Claude took me in back in America.[nl]I don't even remember my parents faces.
+SSR/SSR0014590
+But then I received a message.
+@ＢＧＭ停止
+SSR/SSR0014600
+An email with the subject line[nl]"Mr. Yamamoto requested that I look for his daughter"!
+......
+RAK/RAK0055050
+Huh....?
+@ＢＧＭ再生
+SSR/SSR0014610
+Apparently my real last name is "Yamamoto".
+SSR/SSR0014620
+Moreover, he appears to be a big landowner where he lives. When he took me on a business trip abroad, we got[nl]separated, and he has been looking for me ever since.
+SSR/SSR0014630
+That's not all that was in the email.[nl]My father is also sick and doesn't have long to live.
+SSR/SSR0014640
+Since he doesn't have any other living relatives,[nl]he wants me to go meet him. He also wants me to[nl]inherit his estate and take over the family.
+SSR/SSR0014650
+Raku Ichijo! What should I do here!?[nl]I'd hate to leave the Mistress's side, but....[nl]Should I go meet my father?
+RAK/RAK0055060
+....The inheritance is about a billion yen, right?[nl]They're requesting 1.2 million yen to process it?
+SSR/SSR0014660
+Huh....? H-How did you know that?
+RAK/RAK0055070
+I got something yesterday, too. From Mr. Yamamoto.[nl]He's looking for a son-in-law for his daughter.
+SSR/SSR0014670
+Whaaat!? T-That can't be right!
+RAK/RAK0055080
+Yeah, of course--
+SSR/SSR0014680
+My father wants you to be his son-in-law!?[nl]T-T-T-T-T-That can't be right! This is too sudden,[nl]and what would I tell the Mistress!?
+RAK/RAK0055090
+No! Those emails are just junk mail!
+SSR/SSR0014690
+Huh? Junk mail?
+RAK/RAK0055100
+You gotta be kidding. I didn't think anyone would[nl]fall for a scam like that....and yet here you are.
+SSR/SSR0014700
+W-What did they do to me?[nl]And also, what is junk mail....?
+RAK/RAK0055110
+Ahh, so that's where you're coming from....[nl]Listen, junk mail is....
+@時間経過演出
+RAK/RAK0055120
+.....So basically, you almost sent your money to a scammer.
+SSR/SSR0014710
+I-I see....[nl]I almost got scammed....
+SSR/SSR0014720
+Hahahaha, it makes sense now.[nl]After all, how could I find my real parents so easily?[nl]Hahaha, haha....
+RAK/RAK0055130
+(Hmmmm, she looks depressed....)
+RAK/RAK0055170
+Here, have some of these to cheer you up.
+SSR/SSR0014750
+These are....?
+RAK/RAK0055180
+Something sweet should cheer you up. Go ahead.
+RAK/RAK0055190
+I really wish I could do something more fancy....
+SSR/SSR0014760
+....Heh. I've fallen far to be pitied by you.
+@ザクシャ誠士郎・大
+SSR/SSR0014770
+But, nonetheless, thank you very much.
+SSR/SSR0014780
+Yes....they're good.
+RAK/RAK0055200
+(Is she feeling a bit better?)
+RAK/RAK0055140
+Hey, don't feel so down about it.[nl]....Wait, that's not something I can[nl]just say so lightly.
+@ザクシャ誠士郎・小
+@expose2
+SSR/SSR0014730
+I'm sorry....but I don't require sympathy.[nl]Rather, I am ashamed at my own ignorance,[nl]nearly being deceived by such a scam.
+SSR/SSR0014740
+Rest assured the Beehive will do everything in our power[nl]to identify the sender of that email and make them regret[nl]doing such a thing with every fiber of their being!
+RAK/RAK0055150
+....Well, don't go killing them.
+RAK/RAK0055160
+(At least she's more positive now, right?)
+@イベント終了処理
+common.asb

@@ -1,0 +1,116 @@
+__main
+@Lclearscreenall
+@ssr_118
+@イベント開始処理
+RAK/RAK0055540
+Alright, I should check on the animals for a bit.
+RAK/RAK0055550
+These days, it's been so hectic,[nl]I've barely had any time to look in on them.
+RAK/RAK0055560
+Well, not like they like me that much[nl]to begin with. Hahaha!
+RAK/RAK0055570
+....Ooogh, it makes me sad to say it myself.
+SSR/SSR0015120
+Gootchie gootchie....hehe.[nl]Your fuzziness is quite something.
+RAK/RAK0055580
+Hm...?
+@背景変更
+@ＢＧＭ再生
+SSR/SSR0015130
+Gootchie gootchie.... Good boy, meow....[nl]You really are quite fuzzy, meow.
+RAK/RAK0055590
+(D-Did she just....meow?[nl] Um, Tsugumi?)
+SSR/SSR0015140
+And your footpads are so squishy, meow.[nl]Does that feel good, meow?
+RAK/RAK0055600
+(Uhhhh, what should I do....?)
+Say something
+Keep watching
+RAK/RAK0055610
+What are you doing, Tsugumi?
+SSR/SSR0015150
+Waaaagh!? R-Raku Ichijo!?[nl]What are you doing here!?
+RAK/RAK0055620
+Well, it's my job to take care of the animals.[nl]I figured I'd stop by here and do that for a bit....[nl]How about you?
+SSR/SSR0015160
+Um, well....
+@ザクシャ誠士郎・小
+RAK/RAK0055630
+Could it be you were playing with them?
+@expose
+RAK/RAK0055640
+(No, this is kind of interesting,[nl] so I think I'll stay and watch the rest....)
+KTN/KTN0000010
+Meow!
+SSR/SSR0015170
+That's right, that's right.[nl]Feels good, doesn't it.
+SSR/SSR0015180
+Ohh, you're so, so cute....[nl]You're so cute, I can't help but sigh.
+SSR/SSR0015190
+Hmm....but we can't do this anymore.[nl]I have to go before I get too attached to you.
+KTN/KTN0000020
+Mew?
+SSR/SSR0015200
+No, don't try to take me in like that.[nl]You'll make it even harder for me to leave you....
+KTN/KTN0000030
+SSR/SSR0015210
+Ooogh, no, don't look at me with those vacant eyes![nl]It won't work. I'm away on assignment a lot,[nl]and I'm not qualified to keep a living creature!
+KTN/KTN0000040
+Meowww!
+SSR/SSR0015220
+Waaaaaaghh!
+RAK/RAK0055650
+(Hmmmmm, now I feel kinda sorry for her....)
+RAK/RAK0055660
+Tsugumi.
+RAK/RAK0055670
+Well, it's my job to take care of the animals.[nl]I figured I'd stop by here and do that for a bit....
+RAK/RAK0055680
+Were you playing with these guys?
+SSR/SSR0015230
+----
+SSR/SSR0015240
+Yeah, I was! You got a problem with that!?[nl]Why not just come out and say it, hmm!?
+RAK/RAK0055690
+Why are you mad!?
+SSR/SSR0015250
+Shut up![nl]What's so wrong with me playing with the animals!?
+RAK/RAK0055700
+Nothing whatsoever. It's rather helpful.
+SSR/SSR0015260
+Huh? Helpful?
+RAK/RAK0055710
+Watch.
+RAK/RAK0055720
+Alright, it's playtime,[nl]Cyclops Gengar Suzaku!!
+CRN/CRN0000010
+Cawwww!!
+@ＨＰ－１０
+RAK/RAK0055730
+....See?
+SSR/SSR0015270
+Well....[nl]What? So what you're saying is....
+RAK/RAK0055740
+They don't listen to me at all when I'm the one[nl]interacting with them. None of them do.
+RAK/RAK0055750
+So, if you play with them once in a while,[nl]relieve their stress, that'd be great.
+SSR/SSR0015280
+I-I see....[nl]In that case, I'd be happy to stop by occasionally....
+RAK/RAK0055760
+Yeah, please do.[nl]I'm sure they'll all be happy to see you.
+SSR/SSR0015290
+But....don't tell a soul what you saw here.[nl]If word got out that one of the Beehive's top fighters[nl]was playing with a kitten, I'd be ruined.
+RAK/RAK0055770
+I don't think anyone would really care about that, right?
+SSR/SSR0015300
+Well, I care![nl]Just do as I say!
+RAK/RAK0055780
+Okay, okay, I won't tell anyone.
+SSR/SSR0015310
+Alright....[nl]Well then, I'm gonna play with these guys some more.
+SSR/SSR0015320
+Raku Ichijo, you come too.[nl]Give me some information about the rest of these animals.
+RAK/RAK0055790
+Sure. Thanks for helping.
+@イベント終了処理
+common.asb

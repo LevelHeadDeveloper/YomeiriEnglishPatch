@@ -1,0 +1,18 @@
+__main
+@Lclearscreenall
+@ssr_202
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059440
+Hey, Tsugumi. Good morning.[nl]You're not with Chitoge this morning?
+SSR/SSR0018960
+Mm-mm. As much as I'd love to be by her side 24/7....
+@expose
+SSR/SSR0018970
+....I mean, I'd love to give her a ride to school[nl]in one of the Beehive's bulletproof limousines,[nl]but then she'd get mad at me!
+SSR/SSR0018980
+Why the hell is that? Raku Ichijo!
+RAK/RAK0059450
+I'm sorry....[nl]But I think I understand how Chitoge feels[nl]a biiit more than you do....
+@イベント終了処理
+common.asb

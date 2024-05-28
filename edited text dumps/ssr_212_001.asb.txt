@@ -1,0 +1,33 @@
+__main
+@Lclearscreenall
+@ssr_212
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0060040
+Owwww.....[nl]Aggh, my aching back....
+SSR/SSR0019360
+What's wrong, Raku Ichijo?[nl]You look like an old man.
+RAK/RAK0060050
+Well, my body's screaming for help....
+SSR/SSR0019370
+Heh. I'll bet it's because you're lazy[nl]and don't get enough exercise.
+RAK/RAK0060060
+If anything, it's probably because you and Chitoge[nl]are always beating up on me....
+SSR/SSR0019380
+W-Well, that's because you---!
+RAK/RAK0060070
+Look, you were about to hit me again![nl]I'm not feeling well, so please cut me a break!
+@expose
+@ザクシャ誠士郎・小
+SSR/SSR0019390
+--! I-I see....
+SSR/SSR0019400
+It can't be helped....[nl]I'll give you this, and you'd better get yourself in shape.
+SSR/SSR0019410
+The best way to recover from fatigue[nl]is to get extra vitamins.
+RAK/RAK0060080
+Oh, thanks....
+RAK/RAK0060090
+(I'm thankful, alright,[nl] but if she'd stop beating me up, that would be a much[nl] bigger help than giving me this....)
+@イベント終了処理
+common.asb

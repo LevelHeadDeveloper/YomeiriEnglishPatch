@@ -1,0 +1,201 @@
+__main
+@Lclearscreenall
+@ssr_126
+@イベント開始処理
+SSR/SSR0016520
+Listen up, Raku Ichijo![nl]Stick close to me....!
+RAK/RAK0056910
+Right, right....[nl]Jeez, why do I have to be following you to the bathroom?
+RAK/RAK0056920
+Are you afraid of what Shuu said about[nl]"Hanako-san of the Toilet"? That was just a rumor.
+SSR/SSR0016530
+N-No, I'm not! This is, ummm....[nl]T-This is for the Mistress!
+SSR/SSR0016540
+The Mistress is also scared.[nl]If we just leave these rumors uninvestigated,[nl]she'll be too scared to go to the bathrooms in the evening!
+SSR/SSR0016550
+So wouldn't it make sense for me and you,[nl]as the Mistress's lover, to investigate these rumors[nl]and reassure her?
+RAK/RAK0056930
+Ohh..... Chitoge is *also* scared, huh....
+SSR/SSR0016560
+Ngh.... What was that?[nl]Do you have something you'd like to share!?
+RAK/RAK0056940
+Not really....
+RAK/RAK0056950
+But, I rarely stay at school until it closes, so....[nl]I never really realized how few people are here now.
+SSR/SSR0016570
+Y-Yeah, looks pretty empty.[nl]From how empty it is, it feels eerie.
+@expose
+SSR/SSR0016580
+Hey.... Don't just keep walking without saying anything.
+RAK/RAK0056960
+Huh? Do you want to talk about something?
+SSR/SSR0016590
+Y-Yeah....[nl]Also....
+RAK/RAK0056970
+How come you're fidgeting so much?
+SSR/SSR0016600
+Um.... Could I possibly hold your sleeve?
+RAK/RAK0056980
+Huh....?
+SSR/SSR0016610
+I-It's not because I'm scared or anything![nl]I'm just making sure you don't go running away on me!
+SSR/SSR0016620
+So, would it be okay?
+RAK/RAK0056990
+Yeah....I guess that's fine.
+RAK/RAK0057000
+(Dammit.... When she suddenly starts acting girly,[nl] it gets my heart racing....)
+RAK/RAK0057010
+....Hm? Something just passed us....
+SSR/SSR0016630
+H-Hey....what are you saying!?[nl]S-Stop trying to scare me!
+RAK/RAK0057020
+No, that's not what I meant to do....
+RAK/RAK0057030
+(Must've been my imagination.)
+@ＢＧＭ再生
+@画面揺らし
+SSR/SSR0016640
+Hyaaaagh!
+RAK/RAK0057040
+Waagh!? H-Hey! Don't suddenly hug me!
+SSR/SSR0016650
+W-W-What was that sound just now!?
+RAK/RAK0057050
+That was just a door slamming shut by some chance.[nl]So let go of me already!
+SSR/SSR0016660
+B-But, Raku Ichijo....[nl]That sound just now....sounded like it came[nl]from the bathrooms....
+RAK/RAK0057060
+....Seriously?
+@画面揺らし2
+SSR/SSR0016670
+Waaaaagh!?
+RAK/RAK0057070
+Owww! Stop squeezing as hard as you can!
+SSR/SSR0016680
+C-Come on! I didn't say I found her yet,[nl]but the door moved on its own!
+SSR/SSR0016690
+Eeeek!
+RAK/RAK0057080
+Ouch, ouch! You're tearing it![nl]You're tearing my uniform!
+SSR/SSR0016700
+Ooghh....Raku Ichijo![nl]Please don't leave me....
+RAK/RAK0057090
+You're too scared![nl]This has gotta be Shuu or someone playing a prank, right?
+SSR/SSR0016710
+How can you be so calm!?
+RAK/RAK0057100
+When you're freaking out like that,[nl]I can calm down a bit. Besides....
+RAK/RAK0057110
+(When she's got her chest pressed against mine like that,[nl] I'm bound to be more focused on that....)
+@ＢＧＭ停止
+SSR/SSR0016720
+Got it.....[nl]Okay, that's enough.
+RAK/RAK0057120
+Huh?
+SSR/SSR0016730
+In the first place, it's not a good idea to[nl]have a bathroom here. If I destroy this bathroom[nl]with every ounce of firepower I've got--!
+RAK/RAK0057130
+Waaaagh! Calm down![nl]If you do that, you'll be in big trouble!
+SSR/SSR0016740
+Hey, I don't give a shit! Watch![nl]If I get serious, even the whole school itself....!
+RAK/RAK0057140
+(T-This is scarier than any ghost story![nl] I've got to find a way to stop Tsugumi....!)
+I-It was actually a prank!
+I'll go in and scout it out!
+RAK/RAK0057150
+(Ngh.... It can't be helped!)
+RAK/RAK0057160
+Ha.....hahahahaha![nl]I tricked you, Tsugumi!
+SSR/SSR0016750
+What....!?
+RAK/RAK0057170
+This whole ghost story was just a prank I was[nl]playing on you! All for the sake of scaring you witless.
+RAK/RAK0057180
+My prank worked so well![nl]I'm sooo happy!
+SSR/SSR0016760
+W-What the hell!?
+RAK/RAK0057190
+(Gehh.....I never thought my acting skills from pretending to[nl] be Chitoge's boyfriend would come in so handy.)
+RAK/RAK0057200
+Well, the test of courage is over![nl]I'm so happy to see your unexpected weakness, Tsugumi!
+SSR/SSR0016770
+I see....so it was all a lie.
+SSR/SSR0016780
+You really do think up some pretty interesting pranks.[nl]I've been watching you for a while, Raku Ichijo.
+RAK/RAK0057210
+(Huh? She's not too angry?[nl] I was prepared to get punched, at least.)
+SSR/SSR0016790
+It's asinine when you really get to the heart of it.[nl]When I'm done with my business, I'll just go home.
+RAK/RAK0057220
+Y-Yeah! Let's go home!
+@expose2
+SSR/SSR0016800
+....Of course, that's *after* I eliminate you.
+RAK/RAK0057230
+HUUUH!?
+SSR/SSR0016810
+Give my regards to "Hanako-san of the Toilet".[nl]In the afterlife....!
+RAK/RAK0057240
+Eeeeek!!
+SSR/SSR0016820
+Hmph, it happened again.[nl]That was probably Shuu Maiko who made that sound, right?
+SSR/SSR0016830
+That's perfect. I'll take care of him first.
+RAK/RAK0057250
+Oh, wait a sec--
+SSR/SSR0016840
+WAAAAAAAAAGH!!!
+RAK/RAK0057260
+Huh?
+SSR/SSR0016850
+....W-What the heck did I....
+RAK/RAK0057270
+Tsugumi.... What are you doing in there....?
+SSR/SSR0016860
+Hm? Raku Ichijo, what are you doing here this late?
+RAK/RAK0057280
+Huh?
+SSR/SSR0016870
+The school's probably about to close up. If you don't[nl]hurry up and get home, your family will get worried.
+SSR/SSR0016880
+See ya.
+RAK/RAK0057290
+(W-What was that?[nl] Why is she suddenly acting like nothing happened!?)
+RAK/RAK0057300
+(T-This is creepy! I'm outta here!)
+OTM/OTM0005910
+....Hehe.[nl]Raku, thou oweth me one.
+RAK/RAK0057310
+Wait, Tsugumi![nl]I'll go in and scout it out!
+SSR/SSR0016890
+You'll go in....to the women's bathrooms?
+RAK/RAK0057320
+I-It can't be helped![nl]I'll go in and make sure it's okay for you!
+@ザクシャ誠士郎・中
+SSR/SSR0016900
+Ghh....[nl]Don't think you can humiliate me by helping me--
+OTM/OTM0005920
+Hey, hast thou found me?
+SSR/SSR0016910
+!!!
+RAK/RAK0057330
+!
+OTM/OTM0005930
+Hurry up and find me!
+OTM/OTM0005940
+Hurry up, madam.[nl]I am here, okay?
+SSR/SSR0016920
+A.....a....a....
+SSR/SSR0016930
+WAAAAAAAAAAAGHH!!
+RAK/RAK0057340
+T-Tsugumi!!!
+RAK/RAK0057350
+(This is no joke! I'm running away, too!)
+RAK/RAK0057360
+(But I feel like I've heard that voice somewhere before....)
+OTM/OTM0005950
+Hehehe....
+@イベント終了処理
+common.asb

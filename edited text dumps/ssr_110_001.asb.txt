@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@ssr_110
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0009030
+Seishiro! Raku! Come over here for a sec.
+RAK/RAK0054300
+What is it, Shuu?
+SSR/SSR0013830
+What the heck is that stack of photos....?
+@expose
+SYU/SYU0009040
+These are actually pictures from the Culture Festival.[nl]I wanted you guys to see them.
+RAK/RAK0054310
+Ohh, I'm nostalgic, even though it was just a while ago![nl]Hmm....but these pictures are from the audience.[nl]How did you get these?
+SSR/SSR0013840
+They look like they were taken by a[nl]professional photographer, too.
+SYU/SYU0009050
+I asked a professional photographer I know to take these.[nl]Naturally, the quality is top-notch.
+RAK/RAK0054320
+As usual, your connections have me stumped....
+SSR/SSR0013850
+Look, you're in this picture, too.[nl]Romeo's costume was an elaborate one, indeed.
+SYU/SYU0009060
+This one's a picture of Seishiro's failed confession scene.[nl]Pfft! ♪
+SSR/SSR0013860
+Come to think of it....[nl]I never did pay you back for that....
+SYU/SYU0009070
+Oh, no....![nl]Oh, hey, Seishiro! I'll give you this if you just forgive me!
+SSR/SSR0013870
+Aahhh! T-This is....![nl]A picture of the Mistress in her Juliet costume!?
+SSR/SSR0013880
+T-This is beautiful....
+SYU/SYU0009080
+Whaddya think? Isn't that a great picture?
+SSR/SSR0013890
+M-Mhm....I'll forgive you if you let me keep it.
+SYU/SYU0009090
+Hehe. Thanks!
+RAK/RAK0054330
+What are you even doing....?
+@ＢＧＭ停止
+SYU/SYU0009100
+Oops, on to the main topic.
+RAK/RAK0054340
+Main topic?
+SYU/SYU0009110
+Well, I've got a picture of this guy.[nl]I can't give it to him in person, and I can't just keep it.
+@ＢＧＭ再生
+RAK/RAK0054350
+Ugh....! T-This is....!
+SSR/SSR0013900
+Master Claude.....!
+SYU/SYU0009120
+I gotta say, I was surprised when he burst onstage[nl]unprompted. But it was interesting, so I don't mind!
+RAK/RAK0054360
+No, I was just plain shocked.[nl]He even had a costume on.... Was that his?
+SSR/SSR0013910
+I heard he borrowed it from the drama club....[nl]I'm sorry.
+SYU/SYU0009130
+Anyway, Seishiro, can I give you this picture of him?
+SSR/SSR0013920
+Of course. I'll hold onto that.[nl]....Maybe he'll die of happiness to have a picture[nl]of himself with the Mistress.
+SSR/SSR0013930
+....But then, this picture of me....[nl]Raku Ichijo is in it, too....
+RAK/RAK0054370
+Hm? Did you say something?
+SSR/SSR0013940
+None of your business!
+RAK/RAK0054380
+Really? Sounded like you said something about me....
+SSR/SSR0013950
+A-Anyway, I'll be taking that picture of the Mistress and[nl]Master Claude, and that picture of me, too![nl]See ya later!
+@ザクシャ誠士郎・中
+SYU/SYU0009140
+Hahaha. She was holding that picture so close.
+RAK/RAK0054390
+She must really like that picture of Chitoge.
+SYU/SYU0009150
+Good grief....I'm dumbfounded at how dense you are.[nl]I kinda feel sorry for Seishiro, as well.
+RAK/RAK0054400
+Hm?
+SSR/SSR0013960
+Alright, I'll take that picture of the Mistress,[nl]and that one of Master Claude, and also one of myself.[nl]See ya later.
+@ザクシャ誠士郎・小
+@イベント終了処理
+common.asb

@@ -1,0 +1,104 @@
+__main
+@Lclearscreenall
+@ssr_601
+@ヌキアシ終了処理
+@ssr_601_failure
+@イベント開始処理
+@ＢＧＭ再生
+SSR/SSR0004450
+Gotcha....Raku Ichijo....
+RAK/RAK0017750
+O-Oh, crap!
+SSR/SSR0004460
+And now, you shall suffer a fate far worse than death!!!
+RAK/RAK0017760
+GYAHHHHHH!
+@ＨＰ－１００
+@フェードアウト
+CTG/CTG0008740
+Raku!? Speak to me, Raku![nl]Raaaaakuuuuuu!!
+@ssr_601_success
+RAK/RAK0017770
+Alright![nl]Now I just need to get up the stairs to the rooft-
+@画面揺らし2
+SSR/SSR0004470
+Found you......
+RAK/RAK0017780
+Waaaaaagh!
+SSR/SSR0004480
+You know, I had faith in you once....
+RAK/RAK0017790
+W-Wait! Chitoge's just up there,[nl]so we can talk to....
+SSR/SSR0004490
+No. Don't say another word.
+SSR/SSR0004500
+I was a fool....[nl]To think I'd been swayed by someone who'd[nl]make the Mistress cry....
+SSR/SSR0004510
+You're.....you're.....
+SSR/SSR0004520
+I HATE YOU~!!!!!
+@ＨＰ－１００
+RAK/RAK0017800
+Gwacbkh!!
+@フェードアウト
+RAK/RAK0017810
+(D-Dammit....I made it so far----)
+@ssr_004_02
+@ＢＧＭ停止
+@背景変更
+RAK/RAK0017820
+Mm.....mgh.....
+RAK/RAK0017830
+(My head hurts like hell....)
+SSR/SSR0004530
+Looks like you're finally up.
+RAK/RAK0017840
+Huh?
+RAK/RAK0017850
+Gah!?
+SSR/SSR0004540
+Stop moving so much. You took quite a blow to the head.
+SSR/SSR0004550
+Well....I guess that was my fault....
+RAK/RAK0017860
+Y-Yeah! You found me, and then....
+RAK/RAK0017870
+(It feels like I've taken a big hit to the head,[nl] but I can't remember....)
+SSR/SSR0004560
+The Mistress just went to the infirmary to get some ice.[nl]You'll have to hold still like this and wait for her to get back.
+RAK/RAK0017880
+L-Like this, with my head in your lap?
+SSR/SSR0004570
+Well, you see....[nl]I'm not just going to let an injured person lie on the ground.
+RAK/RAK0017890
+But....
+SSR/SSR0004580
+Shut up and go back to sleep.
+SSR/SSR0004590
+I'm embarrased about this too....
+SSR/SSR0004600
+Raku Ichijo....
+RAK/RAK0017900
+W-What is it?
+SSR/SSR0004610
+Well....[nl]The Mistress told me everything.
+SSR/SSR0004620
+I hastily jumped to a completely erroneous conclusion.
+SSR/SSR0004630
+I'm really sorry....
+RAK/RAK0017910
+Huh? O-Oh....
+SSR/SSR0004640
+Even though I'm supposed to serve her,[nl]I've caused a lot of trouble for the Mistress....
+SSR/SSR0004650
+I may be unfit to be her bodyguard....
+RAK/RAK0017920
+(Hmm....I know Tsugumi's at fault here,[nl] but it feels bad to see her so depressed....)
+SSR/SSR0004660
+----
+RAK/RAK0017930
+(It can't be helped....[nl] I'll have to try to cheer her up a little.)
+@ＢＧＭ停止
+@ssr_004_101
+common.asb
+ssr_004_101.asb

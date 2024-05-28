@@ -1,0 +1,63 @@
+__main
+@Lclearscreenall
+@ssr_124
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0009390
+Hey, Raku! Didja catch that roadshow last night?
+RAK/RAK0056720
+Yeah, the gangster movie, right?[nl]I live that at home, so those kinds of movies[nl]aren't exactly my favorite....
+SSR/SSR0016170
+I saw that movie.
+SYU/SYU0009400
+Oooh. I wasn't expecting you to[nl]watch that sort of thing, Seishiro.
+SYU/SYU0009410
+Well? What did you think?[nl]From a guy's point of view, it was the coolest movie ever!
+@expose
+SYU/SYU0009420
+Maaaan. That gun action is what I strive for![nl]I especially loved the scene where that lovely lady[nl]jumped in with a single handgun!
+SSR/SSR0016180
+Mhm....[nl]I guess that would seem cool to most people.
+SYU/SYU0009430
+Huh? You didn't like it, Seishiro?
+SSR/SSR0016190
+In my eyes, jumping in like that[nl]was more reckless than brave.
+SSR/SSR0016200
+You need to be smart about infiltrating enemy territory.[nl]Your ammunition is limited, and if you keep shooting like[nl]they did, you will run out of bullets.
+SSR/SSR0016210
+I'd also go for the enemy's top brass first.[nl]Losing just one commander is enough to significantly[nl]cripple an army's strength.
+SSR/SSR0016220
+Besides, the enemy's putting up too much of a fuss after[nl]taking just one bullet. That little blood loss won't kill, and[nl]you need to be a lot more willing to die to control your target.
+SSR/SSR0016230
+The scene after that, when they crashed the helicopter, was also absurd. At that height, it would have been possible to[nl]just snipe the pilot without having to resort to missiles.
+SSR/SSR0016240
+I mean, I can understand why a film needs to be flashy, but--
+RAK/RAK0056730
+....That's too long! And you're still going!?
+SSR/SSR0016250
+Hm? Since you said you strive for gun action,[nl]I thought I'd tell you how it would be realistically.
+SYU/SYU0009440
+....W-Wow, that's just like you, Seishiro.
+RAK/RAK0056740
+Look! Even Shuu's pulling back a little.[nl]You're lucky there aren't any girls here.
+SSR/SSR0016260
+Ghh....[nl]But in a real battle, there would be more fierce exchanges!
+RAK/RAK0056750
+Most average people don't need that much stimulation.
+SSR/SSR0016270
+So that's how it is....[nl]I decided to break the mold and watch an action movie,[nl]but I guess it wasn't for me.
+SSR/SSR0016280
+When it comes to movies,[nl]the ones about animals are still the best.
+RAK/RAK0056760
+Oh, I agree with you on that!
+@ザクシャ誠士郎・小
+SYU/SYU0009450
+Then let's talk about one of those instead.[nl]Here, so there was this movie about a police dog[nl]and his partner, and they were taking on some terrorists....
+SSR/SSR0016290
+Yeah. That dog was so brave and admirable, it moved me.
+SSR/SSR0016300
+But the way the terrorists had holed up was just[nl]unacceptable. They were too sloppily placed for a gunfight,[nl]and--
+RAK/RAK0056770
+....Don't start with this again.
+@イベント終了処理
+common.asb

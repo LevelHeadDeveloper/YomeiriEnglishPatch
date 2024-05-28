@@ -1,0 +1,66 @@
+__main
+@Lclearscreenall
+@ssr_119
+@イベント開始処理
+SSR/SSR0015340
+Raku Ichijo. I have an extremely urgent matter[nl]that I must discuss with you.
+RAK/RAK0055810
+Hm? What is it?
+SSR/SSR0015350
+This matter is extremely important and concerns[nl]the life of the Mistress. No one else must know.[nl]And I need you to think about it seriously.
+RAK/RAK0055820
+H-Her life!? What the heck are you talking about?
+@ＢＧＭ再生
+@expose
+SSR/SSR0015360
+....Yes. For example, if you were to hide[nl]something here on campus, where would be a good place?
+SSR/SSR0015370
+I will need a place that's secluded, hard to find,[nl]and spacious. Also, if possible, one place on each floor[nl]would be perfect.
+RAK/RAK0055830
+Huh....? What does this have to do with Chitoge's life?
+SSR/SSR0015380
+Everything. This is extremely important.[nl]I won't allow just a random answer.
+RAK/RAK0055840
+Hmmm, let's see....[nl]A secluded, hard-to-find, spacious place....
+Science lab
+P.E. storehouse
+RAK/RAK0055850
+How about one of the science labs?
+RAK/RAK0055860
+Or a home-ec room, or anywhere that isn't[nl]a regular classroom.
+SSR/SSR0015390
+Hmmm....but both of those are rooms where fire is handled.[nl]It would be too risky to keep explosives there.
+RAK/RAK0055870
+It sounded like you just said something about explosives,[nl]Tsugumi.
+RAK/RAK0055880
+How about the P.E. storehouse?[nl]It's definitely further out of view, and there's plenty of space.
+@ザクシャ誠士郎・小
+SSR/SSR0015400
+I see....that could work.
+SSR/SSR0015410
+But that's outdoors. If I don't pack it right,[nl]the ammunition might get damp.
+RAK/RAK0055890
+It sounded like you just said something about ammunition,[nl]Tsugumi.
+RAK/RAK0055900
+What the hell are you doing, exactly!?
+@expose
+SSR/SSR0015420
+Well, I'm getting ready in case the Mistress is attacked here[nl]at school. I want to make sure that, no matter where I am,[nl]I have access to firearms at a moment's notice.
+RAK/RAK0055910
+Idiot! Don't bring such dangerous things to school!
+RAK/RAK0055920
+If something happens to Chitoge,[nl]how about you and I just deal with it?
+SSR/SSR0015430
+With our bare hands? I should be fine, but you....
+RAK/RAK0055930
+Ghh![nl]Well, I may not be the most reliable fighter,[nl]but I'm better than nothing!
+SSR/SSR0015440
+Mhm....that's true.
+RAK/RAK0055940
+Right?
+SSR/SSR0015450
+And if push comes to shove,[nl]you can be a shield for the Mistress.
+RAK/RAK0055950
+....Your thought process is scarier than any enemy.
+@イベント終了処理
+common.asb

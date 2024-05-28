@@ -1,0 +1,128 @@
+__main
+@Lclearscreenall
+@ssr_121
+@イベント開始処理
+RAK/RAK0056050
+Hey, Tsugumi. Going home by yourself today?
+SSR/SSR0015500
+You know from one look.[nl]Claude's taken over looking after the Mistress today.
+SSR/SSR0015510
+You're not going home with her,[nl]even though you're her boyfriend?
+RAK/RAK0056060
+She's going shoping with her classmates.[nl]Why don't you go with her?
+SSR/SSR0015520
+No....I'm good.[nl]Whenever I go shopping with her, she always makes me[nl]try on all kinds of clothes and stuff to be fashionable.
+RAK/RAK0056070
+(To be honest, she looks great in just about anything.)
+SSR/SSR0015530
+So, I'll be leaving, then. See ya.
+RAK/RAK0056080
+Okay.
+@フェードアウト
+@ＢＧＭ再生
+@背景変更
+.....
+@expose
+SSR/SSR0015540
+HEEEY, YOU! Why are you following me!?
+RAK/RAK0056090
+I-I'm not! I just wanted to go to this supermarket, too!
+SSR/SSR0015550
+What, so you're also shopping for dinner?
+RAK/RAK0056100
+Pretty much.[nl]So you're doing the same thing?
+SSR/SSR0015560
+Ghh.... To think I'd end up in the same store as you.
+RAK/RAK0056110
+Do you hate it that much?
+SSR/SSR0015570
+I wouldn't say I *hate* it....[nl]But if someone were to see us here--
+@ＢＧＭ停止
+CTP/CTP0000240
+Oh, my, this is quite the unexpected pairing.
+SSR/SSR0015580
+Waaagh!?
+RAK/RAK0056120
+Uh....Chitoge's dad!?
+CTP/CTP0000250
+Good evening, Raku. And you too, Tsugumi.
+SSR/SSR0015590
+B-B-B-B-B-Boss![nl]What are you doing here!?
+CTP/CTP0000260
+This is the city we live in.[nl]That being the case, I like to walk around[nl]from time to time and see what's going on.
+CTP/CTP0000270
+I certainly wasn't expecting to see the two of you[nl]shopping together. You two must be very close, Tsugumi.
+SSR/SSR0015600
+Y-You misunderstand, Boss![nl]I'm not friends with this guy at all!
+CTP/CTP0000280
+Hahaha.... If you keep denying it so vehemently,[nl]you'll make Raku feel bad.
+SSR/SSR0015610
+Uhh! S-Sorry!
+CTP/CTP0000290
+Raku. Tsugumi, like Chitoge,[nl]is a valuable member of my family.
+CTP/CTP0000300
+I'm sure it's thanks in part to you that she[nl]can enjoy her school life here.
+CTP/CTP0000310
+So please take good care of both[nl]Tsugumi and Chitoge for me.
+RAK/RAK0056130
+S-Sure.... I will.
+SSR/SSR0015620
+Boss....
+CTP/CTP0000320
+Oops....I think I'd better be going.[nl]Well then, please excuse me.
+SSR/SSR0015630
+H-Have a good night!
+SSR/SSR0015640
+Hahh.....
+RAK/RAK0056140
+Man, that was unexpected.[nl]I didn't think we'd run into Chitoge's dad.
+RAK/RAK0056150
+Seems like you get pretty nervous around him.
+SSR/SSR0015650
+Well, of course I do![nl]I think of him as the boss of the Beehive before[nl]I think of him as the Mistress's father.
+RAK/RAK0056160
+He doesn't look it to me.[nl]He seemed so kind just now.
+SSR/SSR0015660
+If you ever deign to betray the Mistress,[nl]rest assured you will be subjected to his scary side.[nl]Well, I'll probably have eliminated you before then.
+RAK/RAK0056170
+Don't say such scary things out of the blue....
+SSR/SSR0015670
+But usually he's as gentle as he seems.[nl]Perhaps it's because I'm around the same age as[nl]the Mistress, but he's always concerned for me as well.
+RAK/RAK0056180
+(Wow....I never thought I'd see her make a face like this.[nl] I guess that's just how much she respects him....)
+SSR/SSR0015680
+Alright....let's get back on track.
+RAK/RAK0056190
+Hm?
+SSR/SSR0015690
+....Grocery shopping. You're coming too, right?
+Is that okay?
+No, thanks.
+RAK/RAK0056200
+@ザクシャ誠士郎・小
+SSR/SSR0015700
+The boss already saw us together....[nl]So I'll give you a special pass this time.
+RAK/RAK0056210
+I don't like how you're looking down on me....[nl]Well, whatever.
+RAK/RAK0056220
+After all, Chitoge's dad did ask me[nl]to take care of you, too.
+SSR/SSR0015710
+Whaa!? I didn't ask you to or anything!
+RAK/RAK0056230
+Right, right. Hurry up,[nl]or we'll miss the time sale.
+SSR/SSR0015720
+Ghh....I'll remember this, Raku Ichijo.
+RAK/RAK0056240
+Hmmm, I think I'll be going.
+SSR/SSR0015730
+Huh?
+RAK/RAK0056250
+We got lucky with Chitoge's dad being the one who[nl]saw us.... But you never know who else might come along.
+SSR/SSR0015740
+I see...
+RAK/RAK0056260
+So I think I'll head to another supermarket today.[nl]See ya, Tsugumi.
+SSR/SSR0015750
+Yeah, see you later.
+@イベント終了処理
+common.asb

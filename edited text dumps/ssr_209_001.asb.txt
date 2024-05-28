@@ -1,0 +1,86 @@
+__main
+@Lclearscreenall
+@ssr_209
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059640
+Aaagh.....I'm so nervous.
+CTG/CTG0014410
+Pathetic. You should at least be able to[nl]attend a marriage greeting with confidence!
+@expose
+CTG/CTG0014420
+Come on, you know them.[nl]I'll be supporting you, so do your best! ♪
+RAK/RAK0059650
+T-That's right....[nl]This is a once-in-a-lifetime event,[nl]so I need to get right into it!
+RAK/RAK0059660
+Alright![nl]Watch how courageous I'm gonna be, Chitoge!
+@フェードアウト
+@背景変更
+RAK/RAK0059670
+F-Father in law![nl]Please grant me your daughter in marriage!
+CLD/CLD0002060
+I refuse!
+RAK/RAK0059680
+Wait, Claude!? What the hell are *you* doing here!?
+CLD/CLD0002070
+"You"? That's a rude tone to use when talking to the[nl]man who's about to become your father in law,[nl]young master.... No, Raku-kun.
+RAK/RAK0059690
+R-Raku-kun!?
+CLD/CLD0002080
+Ghh....I can't approve of this after all![nl]This kind of man....this kind of man I just can't take!
+RAK/RAK0059700
+H-Huh!?
+CTG/CTG0014430
+Hey, what are you so sleepy for, Raku!?[nl]You'll make her feel bad if you can't greet her properly!
+RAK/RAK0059710
+Her!? I thought I was greeting *you*!?
+CTG/CTG0014440
+Why on earth would I marry you!?[nl]We stopped being fake lovers already![nl]You need to get a grip!
+RAK/RAK0059720
+W-Wait! I don't know what's going on anymore.
+SSR/SSR0019100
+It's okay, Mistress.[nl]You don't need to worry about it so much.
+SSR/SSR0019110
+As long as I'm with Raku Ichijo,[nl]I'm sure I'll be happy no matter what.
+RAK/RAK0059730
+H-H-Huuuhhh!?
+CTG/CTG0014450
+Nice, Tsugumi![nl]Though I guess you're an Ichijo now, huh?
+SSR/SSR0019120
+Uh.... T-That's right.[nl]Hahaha.... But I'm still not quite used to being called that.
+RAK/RAK0059740
+T-T-T-Tsugumi's an Ichijo!?[nl]Happy with me....!?
+RAK/RAK0059750
+H-Hey....Tsugumi! What's this all about!?
+@背景変更
+SSR/SSR0019130
+Calling me Tsugumi....[nl]You don't need to be so reserved anymore.
+SSR/SSR0019140
+From now on, I want you to call me Seishiro.
+RAK/RAK0059760
+Huh....?
+SSR/SSR0019150
+We are to be husband and wife....
+SSR/SSR0019160
+....I love you, Raku Ichijo.
+@ザクシャ誠士郎・中
+RAK/RAK0059770
+HUUUUUUUHHHH!?
+RAK/RAK0052110
+Huh!?
+KYK/KYK0000320
+Hey, Ichijo! You awake?
+RAK/RAK0052120
+....A-A dream....?
+KYK/KYK0000330
+Ya have such a good dream[nl]that it made you scream?
+RAK/RAK0059780
+N-No.....[nl]I wouldn't say I enjoyed it....
+KYK/KYK0000340
+Just for you, a special homework course.
+RAK/RAK0052140
+O-Oops....
+CTG/CTG0014460
+What are you doing....
+@イベント終了処理
+common.asb

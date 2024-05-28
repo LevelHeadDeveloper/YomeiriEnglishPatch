@@ -1,0 +1,91 @@
+__main
+@Lclearscreenall
+@ssr_302
+@イベント開始処理
+@ＢＧＭ再生
+CTP/CTP0000330
+Sorry, Raku. I know you were meant to have a date today,[nl]but my daughter has overslept....
+RAK/RAK0058880
+Well, it's hardly a real date as real lovers.[nl]I can see why she wouldn't be into it.
+CTP/CTP0000340
+I'm sorry about all the trouble....[nl]But you've been very helpful to me.[nl]Thank you.
+CTP/CTP0000350
+Chitoge seems in a rush to get ready right now,[nl]so you'll have to wait a while.
+CTP/CTP0000360
+You can have a look around if you like.[nl]The rooms you're not supposed to enter will be locked.
+RAK/RAK0058890
+Okay. Thank you very much.
+RAK/RAK0058900
+(Well, I guess I'll take him up on that and[nl] take a walk around.)
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0058910
+Every time I come in it hits me how big this place really is.[nl]I gotta be careful to not get lost.
+@フェードアウト
+@スクリーン変更
+RAK/RAK0058920
+....I said before getting lost.
+RAK/RAK0058930
+What the hell is this room?[nl]It's so blatantly suspicious....
+RAK/RAK0058940
+Why are there handcuffs hanging from that chair?
+RAK/RAK0058950
+And why is there a picture of me on the wall?[nl]And there's knives all over it....
+RAK/RAK0058960
+There's all kinds of tools on the floor,[nl]and I don't know what they're used for....
+RAK/RAK0058970
+I get the feeling I'm not supposed to be here....
+SSR/SSR0018490
+That's correct, Raku Ichijo.
+RAK/RAK0058980
+Huh? Tsugu--
+@expose
+SSR/SSR0018500
+Hmph!
+@画面揺らし
+RAK/RAK0058990
+Gaah!?
+SSR/SSR0018510
+Raku Ichijo has been secured.[nl]....Yes, I've stunned him for the time being.
+SSR/SSR0018520
+....Yes. I'm going to carry him out.
+RAK/RAK0059000
+....!?
+RAK/RAK0059010
+H-Huh....?[nl]Is this....my room?
+RAK/RAK0059020
+I thought I was at Chitoge's house just now....
+SSR/SSR0018530
+You're awake, Raku Ichijo.
+RAK/RAK0059030
+Tsugumi!?
+SSR/SSR0018540
+I was surprised to find you passed out in the hallway.
+RAK/RAK0059040
+Passed out in the hallway? Me....?
+SSR/SSR0018550
+When I found you, I carried you all the way[nl]back to your house. You should be grateful.
+SSR/SSR0018560
+The Mistress was terribly worried. You don't have a fever,[nl]and you were probably just exhausted,[nl]but you should take better care of yourself.
+RAK/RAK0059050
+N-No....[nl]I remember you knocked me out....in the basement.
+SSR/SSR0018570
+Basement? What are you talking about?
+SSR/SSR0018580
+You're exhausted. You need to take better care of yourself.
+RAK/RAK0059060
+Huh....?[nl]No, no, but the basement....
+SSR/SSR0018590
+Raku Ichijo, you are exhausted.
+SSR/SSR0018600
+....Okay?
+RAK/RAK0059070
+O-Okay.....sorry.
+RAK/RAK0059080
+(T-That smile's creeping me out!)
+RAK/RAK0059090
+(What the hell was that room!?[nl] Well, I'm too scared to ask, but....)
+SSR/SSR0018610
+See ya, Raku Ichijo. Live long, okay?
+@イベント終了処理
+common.asb

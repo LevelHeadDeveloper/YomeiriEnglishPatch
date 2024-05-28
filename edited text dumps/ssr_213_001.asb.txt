@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@ssr_213
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0060100
+Yaaaawn....[nl]I'm so tiiired....
+CTG/CTG0014470
+What are you opening your mouth so wide for?
+RAK/RAK0060110
+Huh? Chitoge....[nl]Good morning.
+@expose
+CTG/CTG0014480
+Good morning, darling.
+CTG/CTG0014490
+Oh, that's right.[nl]We've got a scheduled date this weekend.
+RAK/RAK0060120
+Huh? That's sudden.
+CTG/CTG0014500
+Well, Claude's getting a bit suspicious.
+RAK/RAK0060130
+Need to blow off some steam?
+@expose
+CTG/CTG0014510
+Yep. So, I'll see you this weekend!
+@イベント終了処理
+common.asb

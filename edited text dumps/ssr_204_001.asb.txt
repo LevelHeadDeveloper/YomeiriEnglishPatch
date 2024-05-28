@@ -1,0 +1,18 @@
+__main
+@Lclearscreenall
+@ssr_204
+@イベント開始処理
+@定型ＢＧＭ再生
+SSR/SSR0019020
+Raku Ichijo! Have you seen the Mistress anywhere!?
+RAK/RAK0059490
+Hm? You mean Chitoge?[nl]Wasn't she with you?
+@expose
+SSR/SSR0019030
+Well....she's shaken me again.[nl]Even after I told her I'd accompany her to the bathroom[nl]because of all the blind spots there...!
+SSR/SSR0019040
+Mistresssss! Where are youuuu!?
+RAK/RAK0059500
+She seems well this morning....
+@イベント終了処理
+common.asb

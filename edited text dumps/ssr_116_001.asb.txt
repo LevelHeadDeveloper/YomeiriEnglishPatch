@@ -1,0 +1,79 @@
+__main
+@Lclearscreenall
+@ssr_116
+@イベント開始処理
+SSR/SSR0014790
+Hey, Raku Ichijo.[nl]You never turned in your English assignment sheet.
+RAK/RAK0055210
+Oh, shoot! I completely forgot to turn that in!
+SSR/SSR0014800
+Man, what a slacker.[nl]The teacher was just looking for you.
+RAK/RAK0055220
+Oh man, oh man....[nl]Thanks for going out of you way to let me know![nl]I'm headed to the teacher's--
+RAK/RAK0055230
+.....Hm?
+SSR/SSR0014810
+W-What is it?[nl]You shouldn't suddenly stare at people's faces....
+RAK/RAK0055240
+(Tsugumi.....[nl] Something about her vibe seems different....)
+RAK/RAK0055250
+(What is it....)
+@タッチパート開始処理
+@ＢＧＭ再生
+RAK/RAK0055260
+Your ribbon isn't the usual one today, is it?
+SSR/SSR0014820
+Huh!?
+SSR/SSR0014830
+....N-No. It isn't.[nl]I got this one from the Mistress just now.
+SSR/SSR0014840
+I figured I'd try it on....[nl]I wasn't expecting you to be the first to notice.
+RAK/RAK0055270
+It's not hard if you just look.[nl]I think it looks good on you.
+@ザクシャ誠士郎・中
+SSR/SSR0014850
+I-Is that right....?
+RAK/RAK0055280
+Yeah. Ya know, when you dress up, it changes[nl]your whole image. I think the other guys would[nl]probably be happy to see you try out some new looks.
+SSR/SSR0014860
+Wha...!
+SSR/SSR0014870
+W-Who on earth would try to look good[nl]for some guy they don't even know!?
+SSR/SSR0014880
+Dammit....never mind![nl]I'm going back to the usual ribbon!
+@expose
+RAK/RAK0055290
+Huh!? Why are you suddenly mad at me!?
+SSR/SSR0014890
+It's none of your business![nl]Just get to the teacher's office quickly!
+RAK/RAK0055300
+Shoot, that's right![nl]Anyway, thanks, Tsugumi!!
+SSR/SSR0014900
+The other guys would be happy....huh.
+SSR/SSR0014910
+Jeez. What am I so irritated about....
+RAK/RAK0055310
+Could it be, your chest has gotten....
+SSR/SSR0014920
+W-Why the hell are you looking there!?
+@ＨＰ－５０
+RAK/RAK0055320
+Gaccckh!
+SSR/SSR0014930
+Pervert! I don't care anymore!
+RAK/RAK0055330
+(N-Now she's angry.....)
+RAK/RAK0055340
+I think there's something different about you,[nl]and it's around here-ish.....
+SSR/SSR0014940
+There's nothing different.[nl]How about you get to the teacher's office as fast as you can.
+RAK/RAK0055350
+Shoot, that's right![nl]Anyway, thanks for the help, Tsugumi!! See ya!
+SSR/SSR0014950
+....Moron.
+RAK/RAK0055360
+(Hmmmmm....?[nl] Am I imagining things?)
+SSR/SSR0014960
+Hey, shouldn't you be getting to the teacher's office?
+@イベント終了処理
+common.asb

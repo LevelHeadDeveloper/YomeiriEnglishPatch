@@ -1,0 +1,56 @@
+__main
+@Lclearscreenall
+@ssr_210
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059790
+Not here! Not here! It's not here, either![nl]Any sign of it yet, Ryuu!?
+RYU/RYU0001330
+It's not here, either, young master!
+RAK/RAK0059800
+Gaaah! Where'd my wallet go!?
+RAK/RAK0059810
+If I can't find my wallet, we'll have to eat bean sprouts[nl]for the whole rest of the month!
+RYU/RYU0001340
+P-Please don't make us do that!!
+RAK/RAK0059820
+Who could it be when we're so busy, jeez!?
+@背景変更
+SSR/SSR0019170
+Sorry for coming when you're so busy.
+RAK/RAK0059830
+Tsugumi!?
+@expose
+SSR/SSR0019180
+I could hear your yelling from out here.[nl]You are a nuisance.
+RAK/RAK0059840
+S-Sorry. I was a little panicked....
+SSR/SSR0019190
+Heh. Was it because you dropped this, perchance?
+RAK/RAK0059850
+Aaaaah!!!! My wallet!?
+SSR/SSR0019200
+It fell out of your shoe locker at school. Dropping something[nl]this important just goes to show how slack you are.
+RAK/RAK0059860
+Thank you, Tsugumi! I'm in your debt!
+@ザクシャ誠士郎・小
+SSR/SSR0019210
+Heh....[nl]Well, anyway, I'm glad it was found.
+RAK/RAK0059870
+Yeah, I didn't think you'd be bringing it to me,[nl]but I'm so glad you did!
+SSR/SSR0019220
+I don't really care about you one way or another....[nl]But if you're sad, you'll make the Mistress sad, too.[nl]That's all there is to it.
+RAK/RAK0059880
+Well, I'm glad either way![nl]You could have waited until school to bring it to me,[nl]but you went out of your way to bring it to my house!
+SSR/SSR0019230
+I was in the neighborhood on another errand,[nl]so I figured I'd drop by.[nl]If it wasn't for that, who would come all the way here?
+SSR/SSR0019240
+Well, I'm off. Try not to drop that again.
+RAK/RAK0059890
+Okay, see you at school!
+RAK/RAK0059900
+You're such a great person, Tsugumi![nl]I've never been so thankful in my life!
+RAK/RAK0059910
+(....But, what was she doing in the neighborhood?)
+@イベント終了処理
+common.asb

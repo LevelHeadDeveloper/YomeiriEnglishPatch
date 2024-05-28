@@ -1,0 +1,6 @@
+__main
+@Lclearscreenall
+@ssr_304
+@イベント開始処理
+Seishiro Saturday Event 4
+common.asb

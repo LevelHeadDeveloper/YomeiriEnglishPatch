@@ -1,0 +1,112 @@
+__main
+@Lclearscreenall
+@ssr_122
+@イベント開始処理
+SSR/SSR0015760
+WAAAAAAAAAAGH!!
+@ＢＧＭ再生
+RAK/RAK0056270
+Hm.....?
+WVB/WVB0000010
+Wait, Tsugumiiii![nl]Please join our volleyball club!
+WKD/WKD0000010
+No, join the kendo club! Your gallant personality is much[nl]better suited to the martial arts, Tsugumi!
+WTK/WTK0000010
+It would be better to help the weak track and field team![nl]With your legs, we could be the best in Japan!
+SSR/SSR0015770
+Hey, knock it off![nl]I've told you 'no' so many times, yet you just keep asking!
+WVB/WVB0000020G
+Waiiit! Tsugumiiii!
+RAK/RAK0056280
+(Man, Tsugumi's incredibly popular.[nl] Well, given how athletic she is, it's no wonder....)
+RAK/RAK0056290
+---Wait, s-she's coming right at me!?
+SSR/SSR0015780
+Mgh.....Raku Ichijo![nl]GET OUT OF THE WAAAAY!
+RAK/RAK0056300
+Waaaagh!?
+@ＢＧＭ停止
+@フェードアウト
+@時間経過演出
+SSR/SSR0015790
+Hey.... Why exactly did you run away *with* me?
+RAK/RAK0056310
+I-It couldn't be helped. If that crowd had caught up to me,[nl]I'd have been flattened to a pancake.
+SSR/SSR0015800
+Ghhh.....[nl]So then why....
+@背景変更
+SSR/SSR0015810
+So then why am I inside a cramped locker[nl]with you again!?
+RAK/RAK0056320
+S-Sorry....
+RAK/RAK0056330
+But this reminds me a lot of the time we first met.[nl]You hated me so much back then....
+SSR/SSR0015820
+Don't get the wrong idea.[nl]I still hate you so much now!
+RAK/RAK0056340
+Right, right, you do.
+RAK/RAK0056350
+(Even back then, it's really apparent,[nl] in a situation like this, that Tsugumi's a girl....)
+RAK/RAK0056360
+(If I'm not mistaken,[nl] I was trying to get her out of her wet clothes....)
+......
+SSR/SSR0015830
+Hey....Raku Ichijo. What are you so quiet about?
+RAK/RAK0056370
+Nothing! Nothing at all!
+SSR/SSR0015840
+???
+RAK/RAK0056380
+(Oh no, oh no.[nl] Why the hell am I thinking about such a strange scene!?)
+SSR/SSR0015850
+Uhhh...
+RAK/RAK0056390
+Hm?
+SSR/SSR0015860
+Your hand is....touching my body.
+SSR/SSR0015870
+And your nose is tickling my cheek....[nl]Please move further away from me.
+RAK/RAK0056400
+Aaagh!?
+SSR/SSR0015880
+You idiot! Don't yell so loudly![nl]They'll find me!
+RAK/RAK0056410
+S-Sorry....
+SSR/SSR0015890
+N-No....
+RAK/RAK0056420
+(Dammit....I'm surprisingly nervous when we're this close.[nl] How long is this gonna go on....)
+SSR/SSR0015900
+Hahh.... If the Mistress saw us like this again,[nl]what would she say?
+RAK/RAK0056430
+Hey, stop.... If you put up that kind of front--
+RAK/RAK0056440
+Geh!? No way!?
+SYU/SYU0009350
+...Hm?
+@expose
+SYU/SYU0009360
+Heh!
+RAK/RAK0056450
+W-Wait a second! Why are you even here!?
+SYU/SYU0009370
+I left something behind during P.E.[nl]and I was just coming back to get it....[nl]My apologies for interrupting.
+RAK/RAK0056460
+Hey! You've got the wrong idea!
+SYU/SYU0009380
+By the way, if you're looking for the sports girls,[nl]they gave up and went to do their club activities early.
+SSR/SSR0015910
+If you know what's going on,[nl]why the hell would you lock the door!?
+SSR/SSR0015920
+Hey! Open this doooooor![nl]I can't stand another second in here with this guy!
+RAK/RAK0056470G
+OPEN THIS DOOOOOR!!
+@ＨＰ－２０
+WVB/WVB0000030G
+Tsugumiiii!
+SSR/SSR0015940
+Eeeeeek!
+RAK/RAK0056480
+(T-They ran me over.... Those noisy girls....)
+@イベント終了処理
+common.asb

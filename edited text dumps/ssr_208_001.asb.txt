@@ -1,0 +1,16 @@
+__main
+@Lclearscreenall
+@ssr_208
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059590
+Hm? An email at this hour?[nl]Who's it from....?
+SYU/SYU0009730
+RAK/RAK0059610
+(Oh, well. I *am* free on Saturday.)
+RAK/RAK0059620
+Yeah, yeah, OK.... There.
+RAK/RAK0059630
+Guys-only karaoke. I'm looking forward to it.
+@イベント終了処理
+common.asb

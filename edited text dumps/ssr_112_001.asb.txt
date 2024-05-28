@@ -1,0 +1,100 @@
+__main
+@Lclearscreenall
+@ssr_112
+@イベント開始処理
+RAK/RAK0054600
+Uugh....[nl]That silver-haired four-eyes....I can't stand him!!
+@ＢＧＭ再生
+SSR/SSR0014140
+What's wrong with Master Claude?
+RAK/RAK0054610
+I'm not exactly sure. But lately he's[nl]been watching me like a hawk.
+@フェードアウト
+@背景変更
+RAK/RAK0054620
+He's there when I look up at the ceiling....
+RAK/RAK0054630
+And when I'm going to school....
+RAK/RAK0054640
+And when I'm going to hang out....
+RAK/RAK0054650
+And even when I'm changing for P.E.!
+RAK/RAK0054660
+Having a stalker following my every move[nl]is incredibly stifling.
+RAK/RAK0054670
+You need to tell him to stop.[nl]He's going too far!
+SSR/SSR0014150
+....I am sorry. But Master Claude is simply worried about[nl]the Mistress. I won't ask you to forgive him, but please try[nl]to at least understand.
+SSR/SSR0014160
+Maybe he does act cold to you,[nl]but in spite of that, he is a very gentle man.
+RAK/RAK0054680
+That bastard? I can't really see it.
+@expose
+SSR/SSR0014170
+I can kind of see why. He's one of the Beehive's best, in[nl]terms of both combat and negotiation skills. He might come[nl]off as scary if you haven't had a lot of contact with him.
+RAK/RAK0054690
+(No, I can't really see that, either....)
+SSR/SSR0014180
+But, like the boss, he's kind to his subordinates[nl]and children. Ever since he took me in, Master Claude[nl]has raised me with strict but careful guidance.
+RAK/RAK0054700
+Ohh....
+Sounds like you respect him.
+Sounds like you don't resent him.
+RAK/RAK0054710
+Sounds to me like you've got a lot[nl]of respect for Claude, don't you.
+@ザクシャ誠士郎・小
+SSR/SSR0014190
+He's the one who trained me, and I even[nl]met the Mistress through him. My respect for him[nl]is not something I can describe with words.
+SSR/SSR0014200
+Maybe he is insensitive and overprotective....[nl]But he's like a father to me.
+SSR/SSR0014210
+So, I'd appreciate if you wouldn't[nl]say such bad things about him.
+RAK/RAK0054720
+Ahh.... When you put it like that,[nl]now I feel like I'm going to cry.
+RAK/RAK0054730
+Claude will probably start tearing up[nl]when he hears what you said about him.
+SSR/SSR0014220
+Heh....I doubt Master Claude would get emotional[nl]over something like this.
+SSR/SSR0014230
+Also....I'm too embarrassed to say anything[nl]like this in front of him.
+SSR/SSR0014240
+So don't you go breathing a word of this to anyone.[nl]Keep this a secret.
+RAK/RAK0054740
+Yeah, you got it.
+@ＢＧＭ停止
+CTG/CTG0014250
+Kyaah!?
+CTG/CTG0014260
+What? Water from the ceiling?[nl]Must be a leak--
+CTG/CTG0014270
+....Wait.
+CLD/CLD0001940
+Seishiro! To think you thought so highly of me....[nl]You've grown up to be such a fine young man, Seishiro!
+CTG/CTG0014280
+What are you doing....?
+RAK/RAK0054750
+Even though he raised you as a boy....[nl]You don't resent Claude at all, do you?
+SSR/SSR0014250
+Resent him? Why should I?
+RAK/RAK0054770
+Well, typically, you'd want to be raised as a girl, right?[nl]And, besides, you were made to live a harsh life[nl]as a warrior for the Beehive.
+RAK/RAK0054780
+And despite all that, you were talking about Claude[nl]with a smile on your face. It looks to me like[nl]you two have a good relationship.
+SSR/SSR0014260
+A good relationship, huh.
+SSR/SSR0014270
+Hehe, if only Master Claude were my real father....
+RAK/RAK0054790
+Tsugumi....
+RAK/RAK0054800
+I'll bet that Claude sees you as his valuable child.....[nl]I mean, if he didn't, he wouldn't have entrusted you with[nl]the job of being Chitoge's bodyguard.
+SSR/SSR0014280
+That would make me happy.
+RAK/RAK0054810
+Oh, there's the bell.[nl]We'd better hurry and get to class.
+SSR/SSR0014290
+Yeah.
+CLD/CLD0001950
+Hmph....
+@イベント終了処理
+common.asb

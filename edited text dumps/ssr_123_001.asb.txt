@@ -1,0 +1,105 @@
+__main
+@Lclearscreenall
+@ssr_123
+@イベント開始処理
+@ＢＧＭ再生
+SSR/SSR0015950
+Cough! Cough!!
+RAK/RAK0056490
+Hey, hey, your face is all white.[nl]What are you doing, Tsugumi?
+SSR/SSR0015960
+Cough.... I'm on cleaning detail today,[nl]and I have to clean the blackboard....
+SSR/SSR0015970
+But I'm not very good at clapping these erasers....[nl]Every time I try, I just end up covered in chalk dust.
+RAK/RAK0056500
+Why not just use the eraser cleaner over there?
+SSR/SSR0015980
+What....?
+RAK/RAK0056510
+If you use that to suck the dust off them,[nl]you won't need to clap them.
+SSR/SSR0015990
+S-So that's.....what that box was for!?[nl]I thought that was a self-destruct box for emergencies....
+RAK/RAK0056520
+Why would it be!?
+SSR/SSR0016000
+So if I use this, the erasers will be cleaned?
+RAK/RAK0056530
+Exactly. Go ahead and use it right now.
+SSR/SSR0016010
+O-Okay.
+SSR/SSR0016020
+Okay, I'm turning it on....
+SSR/SSR0016030
+....Woooooooaaaaaah!
+SSR/SSR0016040
+Amazing! That's amazing![nl]They're just like new in no time flat!
+SSR/SSR0016050
+Lemme try this on the board.....oohh![nl]Beautiful!
+RAK/RAK0056540
+....I wasn't expecting you to be so pleased.
+RAK/RAK0056550
+But you've really been clapping erasers this whole time, huh.[nl]Man....you're kinda clumsy in a weird way.
+SSR/SSR0016060
+I-It can't be helped. If it wasn't for this mission,[nl]I'd have never have been to school at all.[nl]I've never been to a normal school before.
+RAK/RAK0056560
+I see.... That sounds rough.
+RAK/RAK0056570
+If you have any other questions about school, just ask.[nl]You can ask me, Chitoge, or any of the others.
+SSR/SSR0016070
+Mhm....okay. I think I'll take you up on that, then.
+RAK/RAK0056580
+(She's a lot more straightforward than she was at first.)
+RAK/RAK0056590
+Oh, hang on. There's some chalk on your face.
+SSR/SSR0016080
+Hm?
+@タッチパート開始処理
+@expose
+SSR/SSR0016090
+Wha...!? W-W-What are you doing!?
+RAK/RAK0056600
+Well, there was some chalk dust on your face,[nl]so I wiped it off.
+@ザクシャ誠士郎・中
+SSR/SSR0016100
+---!!
+RAK/RAK0056610
+Hm? Your face is red now? Don't tell me you[nl]got red chalk on it, too?
+SSR/SSR0016110
+Y-You idiot! Why the hell would I feel bashful around you!?
+RAK/RAK0056620
+Huh? Bashful?
+SSR/SSR0016120
+Hey! No more![nl]Don't come near me, don't touch me, don't talk to meeee!
+RAK/RAK0056630
+H-Huh? Did I do something to make you mad?[nl]What the.... You were in a good mood just now.
+RAK/RAK0056640
+(Hahh.... I'll never understand women....)
+.........
+@ＢＧＭ停止
+@フェードアウト
+RAK/RAK0056650
+(In that moment....[nl] I still don't know what happened.[nl] But what I do know is this....)
+@画面揺らし2
+RAK/RAK0056660
+(There were tremendous sanctions, it would seem....)
+SSR/SSR0016130
+Kyaah!
+SSR/SSR0016140
+You! What are you doing!?
+RAK/RAK0056670
+N-No, sorry, I made a mistake!
+RAK/RAK0056680
+(This is no time to play around....)
+SSR/SSR0016150
+You've been all over me over and over for a while now![nl]I won't allow any more!
+RAK/RAK0056690
+W-Wait! Let's talk this over, you'll understand!
+SSR/SSR0016160
+SAVE YOUR BREATH!!
+@ＨＰ－５０
+RAK/RAK0056700
+Gaaaaaaaahhhh!
+RAK/RAK0056710
+(Nghh....I should've just gotten the chalk off her face.)
+@イベント終了処理
+common.asb

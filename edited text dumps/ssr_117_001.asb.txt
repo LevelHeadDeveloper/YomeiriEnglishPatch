@@ -1,0 +1,132 @@
+__main
+@Lclearscreenall
+@ssr_117
+@イベント開始処理
+@ＢＧＭ再生
+SSR/SSR0014970
+GET BACK HERE, YOUUU!
+SYU/SYU0009220
+Hyeeeek! It was only a jooooke!
+@フェードアウト
+@背景変更
+RAK/RAK0055370
+I can hear those two from here.....
+CTG/CTG0014350
+Honestly, Tsugumi never gets tired of this, either.
+RAK/RAK0055380
+She's always chasing Shuu because he says something[nl]uncalled for, but he just never learns.[nl]Is he doing it on purpose?
+WSB/WSB0000090
+Hey, Ichijo, Kirisaki![nl]Can I ask you something?
+@expose
+RAK/RAK0055390
+Hm? What is it?
+WSB/WSB0000100
+Is it possible that Maiko and Tsugumi are....[nl]y'know, dating?
+RAK/RAK0055400
+Huh!? Those two!?
+CTG/CTG0014360
+There's no way.
+WSB/WSB0000110
+But wait! Tsugumi doesn't talk to any other guys[nl]besides Ichijo and Maiko, right? So I figured they[nl]must be pretty chummy!
+SYU/SYU0009230
+Hohoho.... What an interesting conversation you're having.
+RAK/RAK0055410
+Shuu! Where'd Tsugumi go!?
+SYU/SYU0009240
+I shook her and came back here to hide![nl]I don't think she's going to check the classroom,[nl]so she's probably still running around the school.
+RAK/RAK0055420
+(This guy....[nl] He's gotten so much better at running away from Tsugumi.)
+SYU/SYU0009250
+Moreover, it seems there is talk amongst everyone[nl]of a relationship between Seishiro and myself.
+WSB/WSB0000120
+Huh? You heard that?[nl]Is it true, Maiko!?
+SYU/SYU0009260
+Heh..... Well, I wouldn't deny it.
+CTG/CTG0014370
+HUH!?!? Then it's true!?[nl]I hadn't heard anything about it from Tsugumi!
+RAK/RAK0055430
+Y-You're serious....?
+SYU/SYU0009270
+Hohoho! Completely serious!
+SYU/SYU0009280
+That's what I would say, but the truth is--
+SSR/SSR0014980
+WAAAAAAGHHHHHH!!
+@キャラ揺らし
+SYU/SYU0009290
+Glbcthk!
+@画面揺らし2
+SSR/SSR0014990
+WOULD! YOU! STOP! TELLING! LIEEEEES!?!?
+SYU/SYU0009300
+Gblth! I-I'b....sorry! B-But I just didn't deny it![nl]I didn't confirm it, either! So, I didn't lie!
+SSR/SSR0015000
+SHUT UP, YOU WON'T BE BREATHING ANYMORE!
+SYU/SYU0009310
+Gaack!
+SSR/SSR0015010
+I-It's not true! I'm not involved with this guy![nl]Okay!? Do you understand!?
+WSB/WSB0000130
+I see, that's too bad.
+@expose
+SSR/SSR0015020
+Raku Ichijo!! You understand too, right!?
+I understand.
+Seems suspicious....
+RAK/RAK0055440
+Yeah. I understand.
+SSR/SSR0015030
+For real!? You really and truly understand!?
+RAK/RAK0055450
+For real. His bad jokes have gotten me[nl]a few times in the past.
+@ザクシャ誠士郎・小
+SSR/SSR0015040
+I-I see.... That's good.
+SSR/SSR0015050
+Oh, and Mistress, please believe me![nl]This guy's basically a complete stranger to me!
+CTG/CTG0014380
+Yeah, yeah, I got it, I got it.
+SSR/SSR0015060
+A-Anyway....![nl]I'm not dating anyone, and I don't like anyone!
+SSR/SSR0015070
+No one, I tell youuuuu!
+@expose2
+CTG/CTG0014390
+....And she's gone.
+RAK/RAK0055460
+Shuu, you've gone too far with this one.
+SYU/SYU0009320
+I-It was supposed to be a lighthearted joke....[nl]I was gonna correct it at the end....
+CTG/CTG0014400
+You deserved what you got.[nl]If you mess with her too much, she'll hurt you.
+SYU/SYU0009330
+She already did.....now.
+RAK/RAK0055470
+Your uneasiness makes me have my doubts.
+SSR/SSR0015080
+I-I told you it isn't true![nl]Believe me when I say believe me!
+RAK/RAK0055480
+Ah, yeah, yeah. I got it, I got it.
+SSR/SSR0015090
+You....don't actually believe me, do you?
+RAK/RAK0055490
+Huh? I-I do? I believe you?
+SSR/SSR0015100
+Really?
+RAK/RAK0055500
+R-R-Really and truly! Look at my eyes!
+.......
+SSR/SSR0015110
+YOU DON'T BELIEVE ME AT ALLLL!
+@ＨＰ－１００
+RAK/RAK0055510
+Whyyyyy!?
+@画面揺らし
+RAK/RAK0055520
+Gackh....
+SYU/SYU0009340
+I-It was supposed to be a lighthearted joke....[nl]I was gonna correct it at the end....
+RAK/RAK0055530
+(You idiot. You got me dragged into it, too.)
+@イベント終了処理
+common.asb

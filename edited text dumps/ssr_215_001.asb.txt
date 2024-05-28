@@ -1,0 +1,55 @@
+__main
+@Lclearscreenall
+@ssr_215
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0005960
+Raku, are we there yet?
+RAK/RAK0060220
+Almost there. You know, you can stay home if you want.
+OTM/OTM0005970
+Not likely![nl]'Tis boring at home!
+@expose
+OTM/OTM0005980
+Anyway, thou hast said we are going to a[nl]"con-ven-ience store"? 'Tis indeed convenient for them[nl]to be doing business this late at night.
+RAK/RAK0060230
+Oh....someone's coming up ahead.[nl]Otama, disappear!
+OTM/OTM0005990
+Sure!
+SSR/SSR0019490
+Hm? Raku Ichijo....
+RAK/RAK0060240
+Oh, it's Tsugumi....[nl]What are you doing out so late?
+@expose
+SSR/SSR0019500
+I'm doing my daily training.[nl]But what are you doing....?
+SSR/SSR0019510
+Gasp! Maybe you're....!?
+RAK/RAK0060250
+Well, I don't know what you mean "maybe I'm",[nl]but I'm just heading to the convenience store.
+SSR/SSR0019520
+....Really?
+OTM/OTM0006000
+Indeed. We are buying fried tofu.
+SSR/SSR0019530
+Hm? Did someone say something just now?
+RAK/RAK0060260
+I-I think it came from someone's house, from their TV!
+SSR/SSR0019540
+Hm. Well, that's okay then....
+SSR/SSR0019550
+See you, Raku Ichijo.[nl]Be careful on the road at night.
+RAK/RAK0060270
+Hey, hey, shouldn't I be saying that?
+SSR/SSR0019560
+Heh. Who do you think I am?
+RAK/RAK0060280
+Well...I guess you're right.
+RAK/RAK0060290
+Aaagh, we gotta hurry....[nl]Come on, Otama!
+OTM/OTM0006010
+Hehe, sorry, sorry.
+OTM/OTM0006020
+Then let us go to the con-ven-ience store!
+@イベント終了処理
+common.asb

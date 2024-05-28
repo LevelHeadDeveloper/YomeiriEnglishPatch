@@ -1,0 +1,12 @@
+__main
+@Lclearscreenall
+@ssr_207
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0059570
+Oh....an email from Tsugumi.[nl]What's it about?
+SSR/SSR0019090
+RAK/RAK0059585
+I guess I haven't been able to talk to her much lately....
+@イベント終了処理
+common.asb
