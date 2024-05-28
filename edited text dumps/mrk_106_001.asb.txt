@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@mrk_106
+@イベント開始処理
+RAK/RAK0075700
+(Oh no! I was so caught up in taking care of the animals[nl] that I missed the bell!)
+RAK/RAK0075710
+(I'm gonna start going a bit faster here....)
+MRK/MRK0012680
+Raku dearessssst!
+RAK/RAK0075720
+Bah!? Tachibana!?[nl]Where'd you come fr--
+@画面揺らし
+MRK/MRK0012690
+Kyaaah ★
+@背景変更
+@ＢＧＭ再生
+MRK/MRK0012700
+I'm sorry, Raku dearest. ★[nl]I wasn't expecting you to come around the corner.... Are you okay?
+RAK/RAK0075730
+....You deliberately fell on top of me after we collided,[nl]didn't you?
+MRK/MRK0012710
+You're just imagining that. ★
+RAK/RAK0075740
+Is that so....?[nl]Okay, can you get off me, then?
+MRK/MRK0012720
+I cannot.[nl]I was so surprised that my legs buckled and I can't stand.★
+RAK/RAK0075750
+Huh....!?
+MRK/MRK0012730
+Anyway, your chest is so thick and muscular, Raku dearest.
+MRK/MRK0012740
+It's hardly as good as my father's,[nl]but it's just right for me.
+Get her off you
+Enjoy the situation
+RAK/RAK0075760
+Tachibana! Just get off me!
+MRK/MRK0012750
+Aaah!
+@背景変更
+MRK/MRK0012760
+Jeez, you're so pushy, Raku dearest....
+@ザクシャ万里花・小
+RAK/RAK0075770
+Don't talk in such a misleading way.
+RAK/RAK0075780
+Anyway, it doesn't look like you're hurt.[nl]Should we get going?
+@expose
+MRK/MRK0012770
+....Honestly, you're so boring.
+RAK/RAK0075790
+(I didn't think Tachibana would be this light....[nl] And her body is also pretty slender....)
+RAK/RAK0075800
+Hey! Stop rubbing your cheek into me![nl]If anyone sees us like this--
+@ザクシャ万里花・中
+CTG/CTG0022810
+And just what are you two doing?
+RAK/RAK0075810
+(Oh noooo!)
+SSR/SSR0021130
+You're getting awfully carried away there[nl]for the middle of the day, Raku Ichijo....
+RAK/RAK0075820
+Wait, wait![nl]I'm not sure where you've been watching from, but this was[nl]just a coincidence....
+CTG/CTG0022820
+There's no way a coincidence would be that dramatic!
+SSR/SSR0021140
+Rather, Marika Tachibana![nl]Get the hell away from Raku Ichijo and stay away!
+MRK/MRK0012780
+Kyaaah, I'm scared![nl]I'd better be going.
+MRK/MRK0012790
+You should all head back to the classroom,[nl]or you'll be in big trouble.
+SSR/SSR0021150
+You're one to talk!
+CTG/CTG0022830
+I guess we'd better go settle this somewhere after all!
+RAK/RAK0075830
+(Tachibana.... You can run just fine, huh.)
+RAK/RAK0075840
+(Hm? What did she just drop?)
+RAK/RAK0075850
+(This.... I have this picture, too.[nl] But isn't this one Tachibana's?)
+RAK/RAK0075860
+(Why on Earth would she carry something like this around with her?)
+@イベント終了処理
+common.asb

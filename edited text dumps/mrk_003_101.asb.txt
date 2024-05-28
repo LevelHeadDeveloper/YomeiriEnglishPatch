@@ -1,0 +1,55 @@
+__main
+@Lclearscreenall
+@mrk_003_101
+@2ショット開始
+万里花を説得せよ
+@ＢＧＭ再生
+@expose
+MRK/MRK0002580
+Really....you worry too much.[nl]I'm feeling quite fine and energetic!
+@mrk_003_01_ans01
+@ザクシャ万里花・１
+MRK/MRK0002590
+Raku dearest, I'm very happy that you're thinking[nl]of me so...dearly.
+MRK/MRK0002600
+That said, once I'm set on something I can't just give up.
+I'm still worried
+But....
+There's a time and place
+MRK/MRK0002610
+It's alright.[nl]A maiden in love is very strong!
+MRK/MRK0002620
+I feel like this is that time.
+MRK/MRK0002630
+It's okay. I feel like I can do it!
+MRK/MRK0002640
+A maiden in love is very strong!
+MRK/MRK0002650
+Are you still worried?
+@mrk_003_102
+@mrk_003_01_ans02
+MRK/MRK0002660
+Prove it...?
+MRK/MRK0002670
+W-What, is my smile not proof enough?
+@mrk_003_01_ans03
+MRK/MRK0002700
+I-It's cold out today, isn't it~...
+@mrk_003_01_ans04
+MRK/MRK0002710
+But I'm not lying.[nl]I think I know myself best.
+@mrk_003_01_ans05
+@ザクシャ万里花・中
+MRK/MRK0002720
+Yes!
+MRK/MRK0002730
+Please watch me, Raku dearest!
+@mrk_003_201
+@mrk_003_01_ans06
+MRK/MRK0002680
+No need to worry.
+MRK/MRK0002690
+A maiden in love is very strong.
+common.asb
+mrk_003_102.asb
+mrk_003_201.asb

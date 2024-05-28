@@ -1,0 +1,89 @@
+__main
+@Lclearscreenall
+@mrk_107
+@イベント開始処理
+RAK/RAK0075870
+(Tachibana had to go to the infirmary again today.[nl] I'm pretty worried, I'd better go check on her for a bit....)
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+MRK/MRK0012800
+Oh.... Why, if it isn't Raku dearest.[nl]Is something the matter?
+RAK/RAK0075880
+No, not really.
+MRK/MRK0012810
+Could it be you're feeling unwell?
+MRK/MRK0012820
+That won't do at all![nl]Please take your jacket off so that we can[nl]get you a bed right away!
+RAK/RAK0075890
+No, no![nl]I'm just here to check up on you!
+@expose
+MRK/MRK0012830
+On me?
+MRK/MRK0012840
+....I see. Hehehe, thank you very much.
+MRK/MRK0012850
+But it was only a little anemia.[nl]I'm fine, so you don't need to worry so much.
+RAK/RAK0075900
+But this anemia happens a lot, right?[nl]You sure you're okay?
+MRK/MRK0012860
+....It's a long, hard road for a woman on a diet.
+RAK/RAK0075910
+Huh....?
+MRK/MRK0012870
+It takes extraordinary efforts, such as skipping breakfast[nl]and running, to achieve the ideal proportions to please my darling Raku.
+RAK/RAK0075920
+I'm not so sure if that's healthy or not....
+RAK/RAK0075930
+But don't you need to eat breakfast?[nl]If you didn't, I wouldn't be terribly pleased.
+RAK/RAK0075940
+Besides, you're not that physically strong.[nl]You don't have to push yourself.
+MRK/MRK0012880
+....I'd hardly say I'm pushing myself.
+MRK/MRK0012890
+My greatest source of energy is being around you, Raku dearest.[nl]When we're apart, I get weaker.
+RAK/RAK0075950
+How does that even work....
+MRK/MRK0012900
+Besides, I'm doing everything I can[nl]to build up my strength.
+MRK/MRK0012910
+I want to be able to spend more time with you.[nl]I want to be the sort of energetic girl who would pair well with my darling Raku.
+MRK/MRK0012920
+And for that, I'm willing to overcome any obstacle.
+RAK/RAK0075960
+Tachibana....
+RAK/RAK0075970
+I got this from Onodera's parents' sweetshop.
+MRK/MRK0012930
+Oh, what a lovely Japanese sweet.
+RAK/RAK0075980
+Just eat this and feel better.[nl]It's very good.
+MRK/MRK0012940
+Hahaha. I see.[nl]I *do* want to get well enough to go on dates with you every day.
+@ザクシャ万里花・小
+RAK/RAK0075990
+No, not every day....
+RAK/RAK0076000
+Anyway, don't even think about skipping dinner, okay?
+RAK/RAK0076010
+Don't even think about skipping dinner, okay?
+RAK/RAK0076020
+Um.... Even if you put on a little weight,[nl]I'm not gonna hate you for it.
+MRK/MRK0012950
+Raku dearest....
+RAK/RAK0076030
+I know I just said something really embarrassing,[nl]just don't read too much into it.
+MRK/MRK0012960
+No, that's not it....[nl]It's generally considered tactless to bring up a woman's weight.
+RAK/RAK0076040
+Oh, for real!?[nl]But I'm sure....
+MRK/MRK0012970
+You've got no tact, Raku dearest....[nl]But I'll happily accept that.
+MRK/MRK0012980
+Well then, let's get married, shall we?
+RAK/RAK0076050
+Good to see you're doing better.[nl]See you later.
+MRK/MRK0012990
+Aaaah! Raku dearest, stop teasing me!
+@イベント終了処理
+common.asb

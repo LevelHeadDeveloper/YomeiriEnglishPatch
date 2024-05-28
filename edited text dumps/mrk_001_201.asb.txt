@@ -1,0 +1,86 @@
+__main
+@Lclearscreenall
+@mrk_001_201
+@ＢＧＭ停止
+@背景変更
+........
+RAK/RAK0021800
+Wha-.....
+CTG/CTG0009190
+I heard you talking in a loud voice just now.[nl]Having a lot of fun, are we, Darling?
+RAK/RAK0021810
+No, the thing is....how do I....
+MRK/MRK0001410
+I've never been in a more passionate embrace.
+RAK/RAK0021820
+What the hell are you saying...!
+@expose
+CTG/CTG0009200
+You perverted bean sprout....!
+RAK/RAK0021830
+W-Wait! Stop clenching your fists!
+CTG/CTG0009210
+You'd better clench your teeth, you bastard....
+RAK/RAK0021840
+I just said wait~~~!
+CTG/CTG0009220
+OBLITERATE!!
+@ＨＰ－５０
+RAK/RAK0021850
+Gyahhhhhh!!!
+CTG/CTG0009230
+You moron! I don't even care anymore!
+@フェードアウト
+@ＢＧＭ再生
+MRK/MRK0001420
+Are you alright?
+RAK/RAK0021860
+Do I look alright....?
+MRK/MRK0001430
+I think you should leave that barbaric woman and marry me[nl]as soon as possible, so you don't have to[nl]put up with that nonsense.
+RAK/RAK0021870
+That's not happening.
+RAK/RAK0021880
+Chitoge's my girlfriend right now.[nl]It would be selfish of me to leave her.
+MRK/MRK0001440
+Is that so....
+MRK/MRK0001450
+But, when you say things like that,[nl]that's one of my favorite things about you, Raku dearest.
+RAK/RAK0021890
+Sorry, Tachibana.
+MRK/MRK0001460
+Hehehe....[nl]You don't need to apologize for something so small.
+MRK/MRK0001470
+Even if she is your girlfriend now,[nl]you never know what the future holds.
+MRK/MRK0001480
+To that end, please look at me favorably, okay?
+MRK/MRK0001490
+I will certainly become a lovely maiden who[nl]my dearest Raku will easily fall in love with.
+RAK/RAK0021900
+You're really optimistic.
+MRK/MRK0001500
+You've been on my mind for ten years,[nl]so it's a given that I'd stay positive.
+MRK/MRK0001510
+Please wait for me, Raku dearest.[nl]I'll use everything I have to make you mine!
+RAK/RAK0021910
+S-Sure....
+@背景変更
+MRK/MRK0001520
+Okay....
+MRK/MRK0001530
+Then, how should I go after you next, Raku dearest?
+MRK/MRK0001540
+A cosplay? Or maybe I'll sneak into your room at night....
+MRK/MRK0001550
+What do you prefer, Raku dearest?
+RAK/RAK0021920
+Can you not talk to me about things like that, please?
+@expose2
+MRK/MRK0001560
+Oh, sorry.♪
+RAK/RAK0021930
+Jeez.....
+RAK/RAK0021940
+(I really just....don't know.)
+@イベント終了処理
+common.asb

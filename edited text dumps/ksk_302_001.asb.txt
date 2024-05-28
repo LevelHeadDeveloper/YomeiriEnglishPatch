@@ -1,0 +1,98 @@
+__main
+@Lclearscreenall
+@ksk_302
+@イベント開始処理2
+SYU/SYU0008680
+Ahhhh. it's been a while since I've gone bowling,[nl]that was fun.
+RAK/RAK0051060
+Yeah. Even if it was just the two of--
+KSK/KSK0015680
+....Right?
+RAK/RAK0051070
+!! That sounds like....
+SYU/SYU0008690
+Hmm? What is it?
+@ＢＧＭ再生
+KSK/KSK0015690
+I bought this dress the other day, and I think it might have[nl]been a bit of a mistake. The clerk recommended it to me,[nl]but when I had another look at it, the skirt was too short.
+RUR/RUR0011650
+Why not just return it, or force yourself to wear it?[nl]When you're young, you can usually wear anything[nl]you want anyway.
+@expose
+KSK/KSK0015700
+Jeez, don't say that so nonchalantly.
+RAK/RAK0051080
+.....It's Onodera.
+SYU/SYU0008700
+Hohoho. Your Onodera sensor is well-calibrated, huh, Raku.[nl]It seems neither of them has noticed us, so let's follow them.
+RAK/RAK0051090
+The hell you mean "Onodera sensor"....[nl]I mean, it wouldn't be right to tail them,[nl]so let's not do it.
+@expose2
+SYU/SYU0008710
+No, no, we're not "tailing" them. They just happened[nl]to go the same way we were gonna go. So let's go!
+RAK/RAK0051100
+Oh, hey, Shuu![nl]....Dammit, he's gone off on his own again! Wait up!
+@時間経過演出2
+SYU/SYU0008720
+Oho, looks like they're eating ice cream now.[nl]It looks yummy. You wanna have some, too?
+RAK/RAK0051110
+....Hey, if they found out we were hiding[nl]behind this telephone pole, we'd be out 100%, right?
+SYU/SYU0008730
+Hey, hey. C'mon, you can hear their[nl]conversation just fine from here, right?
+KSK/KSK0015710
+....just, I....I wish I could be a little more proactive,[nl]but it just isn't working out that way.
+RUR/RUR0011660
+Well, that's the kind of person you are, Kosaki.
+RAK/RAK0051120
+(Hmmm? Proactive?[nl] What the hell are they talking about?)
+KSK/KSK0015720
+But just because *you* like someone[nl]doesn't mean *they* like *you*.
+RUR/RUR0011670
+True. If it's as you say,[nl]then you have a textbook "one-sided crush".
+RAK/RAK0051130
+(Whaa.....w-wait![nl] Onodera has a crush on someone!?)
+KSK/KSK0015730
+But I still can't give up,[nl]and I'll keep trying my very best.....
+RAK/RAK0051140
+(S-She likes this guy *that much*!?[nl] Onoderaaaaa!!!)
+SYU/SYU0008740
+Ohh~? What a big problem this is!![nl]I didn't know Onodera had someone she liked,[nl]no, no, this could get interesting. ★
+RAK/RAK0051150
+Would you.....cut the nonsense[nl]when I'm clearly very upset?
+RUR/RUR0011680
+Well, I'm glad you're giving it your all.[nl]I hope one day the god of cooking will return your love.
+@ＢＧＭ停止
+......
+RAK/RAK0051160
+Huh? God of cooking?
+RUR/RUR0011690
+Well, if you're still heartbroken....if you're still[nl]a bad cook in the end, that's okay. It won't be a problem[nl]if you just marry a guy who's a great cook.
+KSK/KSK0015740
+No. That's not the problem.[nl]I just really want to be a good cook!
+KSK/KSK0015750
+There was a part of me that had given up on ever[nl]being a good cook until now....but I'm going to practice[nl]more proactively from now on! Just you watch, Ruri!
+RUR/RUR0011700
+Right, right. I'm not tasting anything you make, though.
+SYU/SYU0008750
+Sounds like it was just a metaphor.
+SYU/SYU0008760
+Onodera, who can't cook to save her life, practices[nl]proactively to become a better cook.... In other words,[nl]she wants to be in love with the god of cooking.
+RAK/RAK0051170
+W-What's this....[nl]So Onodera doesn't have someone she likes....[nl]Oh, that's seriously a surprise!
+SYU/SYU0008770
+Hohoho, that's too bad~![nl]I thought for sure I'd get to see your heart break, Raku!
+RAK/RAK0051180
+Cut the crap.....hahh.[nl]Let's just stop tailing them, already.
+SYU/SYU0008780
+Huh? But this seems like a great time to get started.
+RAK/RAK0051190
+No, no, I kinda feel bad for Onodera and Ruri,[nl]and I really can't do this anymore....[nl]Sorry, but I'm just gonna go on home.
+SYU/SYU0008790
+Hey, wait a sec, Raku.
+SYU/SYU0008800
+She wants to be in love with the god of cooking, huh.
+SYU/SYU0008810
+That sounds like it could mean something different!
+@イベント終了処理
+@ksk_206
+common.asb
+ksk_206_001.asb

@@ -1,0 +1,187 @@
+__main
+@Lclearscreenall
+@mrk_003_001
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0001530
+Oh, yeah~,[nl]girl's tennis is as good as ever.
+RAK/RAK0022670
+Hey, Shuu. How long do[nl]you plan on staring at the tennis court?[nl]We should be playing soccer with the boys.
+SYU/SYU0001540
+What are you talking about, Raku![nl]These fine young ladies are trying their very[nl]hardest right next to us!
+SYU/SYU0001550
+Glistening with sweat,[nl]they dash around the court[nl]and swing their rackets with all their strength....
+SYU/SYU0001560
+If that kind of sight doesn't get you going,[nl]you're hardly a man.
+RAK/RAK0022680
+Right, right, whatever....
+SYU/SYU0001570
+Well, the only thing that could make this better[nl]would be if they were wearing skorts.
+SYU/SYU0001580
+Wouldn't you love to see that, too, Raku?[nl]Onodera, Kirisaki, and the others[nl]fluttering around in skorts!
+SSR/SSR0009640
+But first, how about fluttering around in the sky?
+SYU/SYU0001590
+Heya, Seishiro![nl]You heard that, didn't you?
+SYU/SYU0001600
+If you want, Seishiro, you could wear a skort too![nl]White, pink, blue....[nl]I can hook you up with any color you want!
+@キャラ揺らし
+SYU/SYU0001610
+Ghaackkk!?
+SSR/SSR0009650
+Who the hell would wear that!?
+SYU/SYU0001620
+H-Hang on, Seishiro![nl]It was just a little joke!
+SSR/SSR0009660
+Your jokes are blatant sexual harrassment![nl]Drop dead, pervert!
+@画面揺らし2
+SYU/SYU0001630
+Gyaaahhhh~~!
+RAK/RAK0022690
+(He still hasn't learned his lesson....)
+MRK/MRK0002290
+Raku dearest~~~~!
+@expose
+RAK/RAK0022700
+Oh, you're here too, Tachibana.[nl]What is it?
+MRK/MRK0002300
+I want you to hear my Statement of Determination.
+RAK/RAK0022710
+Statement of Determination?
+MRK/MRK0002310
+Yes![nl]I figured, since you're currently dating Kirisaki,[nl]you must be in the market for a livelier woman....
+MRK/MRK0002320
+So I'll show you how lively I am today[nl]by playing the best tennis I can!
+MRK/MRK0002330
+To that end, I will win every match,[nl]whether it's against Tsugumi or Kirisaki!
+RAK/RAK0022720
+No, no, even with your best,[nl]I don't think anyone can beat them.
+@expose2
+MRK/MRK0002340
+Heheheheheh.....[nl]Besides the normal, direct approach,[nl]there are other ways of winning....
+RAK/RAK0022730
+Scary! You're scaring me!
+MRK/MRK0002350
+Hahaha.....I'm only joking.[nl]First of all, I don't even go up against either of them,[nl]so don't worry.
+MRK/MRK0002360
+But I still intend to not lose[nl]a single match today.
+RAK/RAK0022740
+Well....whatever.[nl]I'm rooting for you, but don't push yourself.
+MRK/MRK0002370
+Yeah, just leave it to me!
+MRK/MRK0002380
+With your support, Raku dearest,[nl]I have a great reason to push myself as hard as I can!
+RAK/RAK0022750
+(But I just told you not to do that....)
+MRK/MRK0002390
+So, I'll try my very hardest![nl]The theme is "Love・Effort・Victory・"!
+RAK/RAK0022760
+Um, don't you mean "Friendship"?
+MRK/MRK0002400
+....Sometimes there are things more important than friends.[nl]Especially if they're my dearest Raku!
+RAK/RAK0022770
+....Take care of your friends, too.
+MRK/MRK0002410
+....After I take care of you,[nl]I'll consider it.
+RAK/RAK0022780
+(I hope Tachibana doesn't push herself too hard....[nl] I'm worried.)
+@ＢＧＭ停止
+@時間経過演出2
+@ＢＧＭ再生
+KSK/KSK0007480
+Aaaaieeee!
+MRK/MRK0002420
+Tch....Well done, Onodera.[nl]But I cannot lose.
+MRK/MRK0002430
+Tahhhhhhhh!
+KSK/KSK0007490
+Waah~![nl]I c-can't keep up~!
+MRK/MRK0002440
+It's my serve!
+MRK/MRK0002450
+Tohhhhhhh!
+KSK/KSK0007500
+A-All this power....!
+KSK/KSK0007510
+Aaaaaieeeeee!
+SYU/SYU0001640
+....Hey, Raku.
+RAK/RAK0022790
+What, Shuu.
+SYU/SYU0001650
+This is soothing....
+RAK/RAK0022800
+....Yeah.[nl]Now I understand what you were saying before.
+SYU/SYU0001660
+So, which one are you rooting for?[nl]Onodera? Or maybe Marika?
+RAK/RAK0022810
+Well, obviously Onodera....[nl]Well, that's what I'd usually say.[nl]This time I'm rooting for Marika.
+RAK/RAK0022820
+She said she was gonna try her hardest for me,[nl]so I have to watch her.
+SYU/SYU0001670
+....I see.
+RAK/RAK0022830
+(Ahh, but Onodera's so cute, and she's trying so hard....[nl] I can't help but watch her, too!)
+RAK/RAK0022840
+(Huh!? Stop, stop![nl] We have to watch Marika now!)
+MRK/MRK0002460
+Fwehh, hahh, hahh....
+RAK/RAK0022850
+(Hmm? Could it be, she's....)
+SYU/SYU0001680
+Hmm? What is it?
+RAK/RAK0022860
+Sorry. I'll be back in a sec.
+SYU/SYU0001690
+Huh? Are you going to the tennis court?
+MRK/MRK0002470
+Well, then, Onodera, let's go![nl]With this new Super Deadly Magic Serve[nl]I've created, it's time to decide the match!
+KSK/KSK0007520
+S-Super Deadly!? That's a thing!?
+MRK/MRK0002480
+Try and block my passionate feelings for Raku dearest![nl]Marika in Loooooooove~!
+@画面揺らし
+RAK/RAK0022870
+Stop--!
+@expose
+MRK/MRK0002490
+Hyahhh!
+KSK/KSK0007530
+Ichijo!?
+RAK/RAK0022880
+Sorry Onodera. We gotta let Tachibana rest for a sec.
+KSK/KSK0007540
+Huh? O-Okay, I don't really mind...
+MRK/MRK0002500
+No! Raku dearest, I can still---
+RAK/RAK0022890
+Just get into the shade!
+RAK/RAK0022900
+You look pale, Tachibana.[nl]You've been pushing yourself pretty hard, haven't you?
+MRK/MRK0002510
+Ugh, I've been found out....
+KSK/KSK0007550
+Huhh, really!? Sorry. I didn't realize....
+MRK/MRK0002520
+Quite all right, Onodera![nl]If it was serious, I wouldn't be[nl]as lively and energetic as I am!
+MRK/MRK0002530
+Well then, let's continue the game!
+RAK/RAK0022910
+You promised not to push yourself.
+MRK/MRK0002540
+We can still play~~~!
+RAK/RAK0022920
+(Guh....she's surprisingly stubborn.[nl] I need to convince her to take a rest....)
+MRK/MRK0002550
+Please let go~!
+RAK/RAK0022930
+Alright, come on![nl]We'll talk over here, just the two of us.
+MRK/MRK0002560
+Eh, J-Just us?
+MRK/MRK0002570
+I-I guess....just for a bit.
+RAK/RAK0022940
+(Her attitude changed quickly....)
+@mrk_003_101
+common.asb
+mrk_003_101.asb

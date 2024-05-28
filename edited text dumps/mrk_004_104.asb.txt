@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@mrk_004_104
+@expose
+MRK/MRK0004790
+Ah, but there is one thing....
+MRK/MRK0004800
+I do have a request for you....[nl]Would you humor me?
+MRK/MRK0004810
+Heres a hint: It starts with a "P".
+MRK/MRK0004820
+That's right! A proposal!
+@ザクシャ万里花・大
+MRK/MRK0004830
+As expected of my darling Raku![nl]You understand my feelings so well!
+MRK/MRK0004840
+I can call the police anytime I want.
+@expose2
+MRK/MRK0004850
+That's not it....really, Raku dearest![nl]You know exactly what I mean, don't you!?
+MRK/MRK0004860
+It starts with a "P".
+MRK/MRK0004870
+Seriously, Raku dearest![nl]You know exactly what I mean, don't you!?
+@mrk_004_104_end
+@mrk_004_201
+common.asb
+mrk_004_201.asb

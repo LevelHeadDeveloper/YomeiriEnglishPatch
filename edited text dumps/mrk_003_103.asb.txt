@@ -1,0 +1,32 @@
+__main
+@Lclearscreenall
+@mrk_003_103
+It's come to this....
+Do as you please
+I'll make you rest
+@expose
+MRK/MRK0002830
+Yes, I think I will do as I please.♪
+MRK/MRK0002840
+Please don't look so anxious.[nl]I will most certainly come back successful.
+MRK/MRK0002850
+Well then, I'll be heading back.
+@mrk_003_201
+@ザクシャ万里花・１
+MRK/MRK0002860
+No matter what you say,[nl]I'm going back to th--
+@ＢＧＭ停止
+MRK/MRK0002870
+....Hey, R-Raku dearest?[nl]W-Why are you getting so close all of a sudden?
+MRK/MRK0002880
+Aaah...Wahhhhhh!
+MRK/MRK0002810
+Seems like you understand.
+MRK/MRK0002890
+Rest assured, I will most certainly come back successful.
+MRK/MRK0002820
+Well then, I'll be heading back. Please watch me...!
+@mrk_003_104
+common.asb
+mrk_003_201.asb
+mrk_003_104.asb

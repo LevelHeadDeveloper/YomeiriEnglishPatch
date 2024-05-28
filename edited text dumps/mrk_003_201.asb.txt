@@ -1,0 +1,185 @@
+__main
+@Lclearscreenall
+@mrk_003_201
+@2ショット成功
+@2ショット失敗
+@mrk_003_201_01
+RAK/RAK0022950
+H-Hey!? T-Tachibana!?
+MRK/MRK0003050
+F-Forgive me, Raku dearest.[nl]It seems I've collapsed a little.
+MRK/MRK0003060
+I might feel better after a short rest....
+RAK/RAK0022960
+(I guess she was pushing herself harder than I thought....[nl] Which means....)
+RAK/RAK0022970
+Hyut!
+MRK/MRK0003070
+Kyahh!
+@ＢＧＭ再生
+@背景変更
+MRK/MRK0003080
+Huh....Huhhhhhhhhh!?
+RAK/RAK0022980
+Hold still![nl]I'm going to carry you to the infirmary like this,[nl]so be quiet, please.
+MRK/MRK0003090
+Like this....[nl]You're carrying me like a princess!?
+MRK/MRK0003100
+N-No way![nl]I'm....well, I'm covered in sweat!
+RAK/RAK0022990
+I didn't ask. Now shut up before you bite your tongue.
+MRK/MRK0003110
+Ughh.....Got it.
+MRK/MRK0003120
+....But, when I think about it,[nl]this is the first time you touched me, Raku dearest.
+MRK/MRK0003130
+Knowing that really makes this situation[nl]a lot better.
+RAK/RAK0023000
+You switched gears fast, wow!
+@ザクシャ万里花・中
+MRK/MRK0003140
+Please hold me tighter~!
+RAK/RAK0023010
+I'm begging you, shut up and hold still....
+@フェードアウト
+RAK/RAK0023020
+Crap. Of all the times for the nurse to be out.[nl]I don't even know where the medicine is,[nl]what should I do?
+RAK/RAK0023030
+O-kay, I'll put you in the bed, Tachibana,[nl]and then I'll go get a wet towel....
+MRK/MRK0003150
+Oh, are you done carrying me like a princess?[nl]I wanted to feel your warm embrace just a little longer....
+@expose
+MRK/MRK0003160
+Actually, that might be the best medicine![nl]Come on, Raku dearest! Carry me some more!
+RAK/RAK0023040
+Why are you in such a good mood!?
+MRK/MRK0003170
+It's just my anemia. If I rest for a bit,[nl]I should be okay again.
+RAK/RAK0023050
+If you say so.....[nl]Just try to be more careful in the future.
+MRK/MRK0003180
+Hahaha, you were worried about me, weren't you?[nl]Your kindness hasn't changed.
+MRK/MRK0003190
+But I'll be okay now.[nl]I'll rest here for the day,[nl]so please go back to class.
+RAK/RAK0023060
+I don't trust your certainty.....
+MRK/MRK0003200
+It's fine. Here, let me....
+MRK/MRK0003210
+Hey, what....?
+RAK/RAK0023070
+See, you're still super wobbly![nl]Lie back down.
+RAK/RAK0023080
+I'll wait here until the nurse comes back.
+MRK/MRK0003220
+B-But I've already caused[nl]you enough trouble, Raku dearest....
+RAK/RAK0023090
+Don't worry about that.
+RAK/RAK0023100
+I got to see enough of your hard work....[nl]so I think I'll indulge you for a bit.
+MRK/MRK0003230
+Huh...?
+RAK/RAK0023110
+Ah, d-don't get the wrong idea![nl]It's just....if you're going to do all that for me,[nl]I should at least carry your ass here!
+@ザクシャ万里花・小
+MRK/MRK0003240
+Uugh, it's not fair to say something[nl]so cool like that.
+RAK/RAK0023120
+Eh? What did you say?
+MRK/MRK0003250
+I-It's nothing....
+RAK/RAK0023130
+Really? Hey, your face is still red,[nl]maybe you have a fever....!?
+MRK/MRK0003260
+I-I'm fine, so please stop[nl]looking at my face so much.
+RAK/RAK0023140
+No way I'm doing that![nl]Here, I'll take your temperature. Give me your forehead.
+MRK/MRK0003270
+Kyahh!?
+MRK/MRK0003280
+F-Fueeeeeeee![nl]I-If you keep staring at me from that close,[nl]I'll....I'll.....
+MRK/MRK0003290
+.....Bshuuuu......
+RAK/RAK0023150
+T-Tachibana!? Are you okay!?
+MRK/MRK0003300
+Uuugh....Really, Raku dearest, you're too bold....
+@イベント終了処理
+@mrk_003_201_02
+MRK/MRK0003310
+Well then, Onodera.[nl]Shall we continue the game?
+KSK/KSK0007560
+Huh?[nl]Tachibana, are you sure you're alright?
+MRK/MRK0003320
+Hahaha.....you mustn't show your enemy such mercy.[nl]We shall compete for Raku dearest's love!
+KSK/KSK0007580
+Ehhhhh!!?[nl]I-I don't really want to do that!
+SYU/SYU0001700
+Is everything all right, Raku?[nl]You didn't stop Marika.
+RAK/RAK0023170
+I tried to stop her,[nl]but she wouldn't listen to me....
+RAK/RAK0023180
+If it gets really bad, I'll intervene.[nl]But just this once--
+@ＢＧＭ停止
+@画面揺らし
+SYU/SYU0001710G
+Aah!
+KSK/KSK0007590
+Tachibana!?
+RAK/RAK0023200
+Crap! I knew this would happen!
+KSK/KSK0007610
+Ah-...Ichijo![nl]Tachibana's.....
+RAK/RAK0023210
+Oi, Tachibana! Speak to me!
+......
+RAK/RAK0023220
+Crap....let's get her to the infirma---.
+HND/HND0000010
+That won't be necessary.
+RAK/RAK0023230
+H-Honda!
+HND/HND0000020
+.....It looks like her anemia got the best of her.[nl]She's also very tired, but a couple hours[nl]of rest should fix that easily.
+HND/HND0000030
+I'll handle it from here,[nl]so please continue with your games.
+RAK/RAK0023240
+Sorry....thank you.
+HND/HND0000040
+Mistress, please excuse me.
+HND/HND0000050
+Well.
+KSK/KSK0007630
+I'm worried about Tachibana.
+RAK/RAK0023250
+Yeah....I think she overdid it.
+RAK/RAK0023260
+(If I'd been able to talk her out of it,[nl] this might not have happened....)
+@mrk_003_201_03
+KSK/KSK0007650
+Tachibana! Wake up, Tachibana!
+SSR/SSR0009670
+Anemia. Let's take her to the infirmary!
+SYU/SYU0001720
+Is Marika okay....?
+SYU/SYU0001730
+What did you do, exactly?
+RAK/RAK0023270
+U-Uh, nothing, really....
+RAK/RAK0023280
+(Ngh, I got overwhelmed by lust,[nl] and now Tachibana's fainted....)
+RAK/RAK0023290
+(Aaaaagh![nl] I'm just the worst!)
+@mrk_003_201_04
+@イベント開始処理
+RAK/RAK0023300
+Tachibana![nl]Are you sure you're alright standing up?
+MRK/MRK0003330
+Yes. Thanks to you, I'm back to normal now.[nl]My apologies for causing such worry.
+RAK/RAK0023310
+No, I'm just glad it wasn't serious.
+KSK/KSK0007670
+Yeah. I'm glad you're geeling better.
+MRK/MRK0003340
+Yes....[nl]I'm feeling a bit regretful, as well.
+common.asb

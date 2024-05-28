@@ -1,0 +1,23 @@
+__main
+@Lclearscreenall
+@mrk_002_101
+@2ショット開始
+Enjoy Marika's food!
+@expose
+MRK/MRK0001740
+I made Japanese food today, because I know you like it.
+Japanese food?
+You're just guessing
+How did you know?
+MRK/MRK0001760
+No, it wasn't a guess.
+MRK/MRK0001770
+I know everything[nl]about you, Raku dearest.
+@ザクシャ万里花・１
+MRK/MRK0001750
+Ehehe. I know everything[nl]about you, Raku dearest.
+MRK/MRK0001780
+Haha. Are you surprised?
+@mrk_002_102
+common.asb
+mrk_002_102.asb

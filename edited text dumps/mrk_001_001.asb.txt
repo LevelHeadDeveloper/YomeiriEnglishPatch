@@ -1,0 +1,247 @@
+__main
+@Lclearscreenall
+@mrk_001
+@イベント開始処理
+@ＢＧＭ再生
+KYK/KYK0000010
+Well, that's it for today's lesson.[nl]I'll be collecting your homework sheets.
+KYK/KYK0000020
+Ichijo, come help me out.
+RAK/RAK0021390
+Alright.
+RAK/RAK0021400
+Hey, guys.[nl]Lemme see your homework.
+CTG/CTG0009050
+Here, Darling.
+SSR/SSR0009500
+J-Just take it.
+KSK/KSK0007320
+Here, Ichijo.
+RUR/RUR0000960
+Here.
+SYU/SYU0001310
+Thank you~.
+MRK/MRK0000560
+Here you go!★
+@画面揺らし
+RAK/RAK0021410
+Oof, w-what the hell, Tachibana!?[nl]What's this crap ton of paper!?
+MRK/MRK0000570
+It's my love letter to you, Raku dearest.
+RAK/RAK0021420
+Love letter!?
+MRK/MRK0000580
+It's too hard to get your attention with a direct approach,[nl]so I decided to go for a curveball today.★
+RAK/RAK0021430
+No, this is most definitely a straight ball as well....
+MRK/MRK0000590
+1500 pages of the love I feel for you, Raku dearest!♪
+RAK/RAK0021440
+Heavy love!!
+@expose
+CTG/CTG0009060
+Hang on, Marika![nl]You've got some nerve pulling this in front of me!
+MRK/MRK0000600
+Huh? And you are....[nl]Who are you, again?
+CTG/CTG0009070
+I'm this guy's g-i-r-l-f-r-i-e-n-d![nl]And you already knew that!
+MRK/MRK0000610
+Ahh, I see.[nl]You're "tentatively" his "current" girlfriend "for now".
+MRK/MRK0000620
+As always, thanks for taking good care of my future husband.
+@expose2
+CTG/CTG0009080
+This is a fight, isn't it!?[nl]You're trying to start a fight with me, aren't you!?
+RAK/RAK0021450
+H-Hey, hey....
+SSR/SSR0009510
+Rrgh! I can't stand by and watch!
+SSR/SSR0009520
+Get it together, Raku Ichijo![nl]If you're the mistress's boyfriend,[nl]you should be very firmly on her side!
+RAK/RAK0021460
+Ehh!? Is this my fault!?
+KSK/KSK0007330
+G-Guys, please stop fighting.[nl]Look, even Ichijo's upset.
+RUR/RUR0000970
+Why so timid, Kosaki?[nl]You should be stepping forward here, too.
+KSK/KSK0007340
+R-Ruri, be quiet!!
+RAK/RAK0021470
+(Whoa![nl] Onodera's the only one on my side.[nl] As expected, she's so kind~!)
+SYU/SYU0001320
+Hey, good buddy.[nl]I hate to interrupt your pleasant conversation....
+SYU/SYU0001330
+But have you looked around?
+RAK/RAK0021480
+Hm....?
+WSA/WSA0000010
+Hey, hey....Chitoge and Marika are fighting again.
+WSB/WSB0000030
+It's carnage, absolute carnage![nl]It looks to me like Kirisaki has the advantage, being his[nl]girlfriend and all, but it's anyone's game!
+MSA/MSA0000030
+Dammit....why's it always Raku!?
+MSB/MSB0000010
+It's always Ichijo, It's always Ichijo,[nl]It's always Ichijo!
+SYU/SYU0001340
+Yeah! Isn't it enthralling?
+RAK/RAK0021490
+This isn't a laughing matter!
+RAK/RAK0021500
+(Ughh....[nl] Everyone's curious and angry stares are[nl] piercing through me....)
+CTG/CTG0009090
+A-n-y-w-a-y! I'll be taking that love letter now!
+CTG/CTG0009100
+I don't know about the past, but....[nl]Right now, Raku is....m-my boyfriend,[nl]so just give it up.
+@ＢＧＭ停止
+MRK/MRK0000630
+Hahh....[nl]This is troublesome.
+MRK/MRK0000640
+I didn't want to have to show this to everyone, but....[nl]it can't be helped.
+MRK/MRK0000650
+I have no choice but to show you all the proof of the[nl]unyielding love between Raku dearest and myself.
+CTG/CTG0009110
+Proof of the unyielding love...?
+CTG/CTG0009120
+Raku, what the hell did you do?
+RAK/RAK0021510
+No, I have no idea what she's even talking about....
+MRK/MRK0000660
+Well, feast your eyes! Here it is.
+@背景変更
+@ＢＧＭ再生
+SSR/SSR0009530
+I-Is that....!
+KSK/KSK0007350
+Could it be---!
+CTG/CTG0009130G
+A marriage registratioooon!?
+MRK/MRK0000670
+That's right! When we were kids, [nl]I made Raku dearest sign--- Raku dearest[nl]and I signed it together, because of our love!
+CTG/CTG0009140
+You almost just said you "made him sign it", didn't you!
+MRK/MRK0000680
+Really? When was this?
+SSR/SSR0009550
+Whaaat is the meaning of this!?[nl]Raku Ichijoooo!
+RAK/RAK0021530
+W-Wasn't that ten years ago?[nl]I'm sorry, Tachibana, but I don't remember any of this.
+CTG/CTG0009150
+Y-You forced him to sign it, anyway, didn't you![nl]So it doesn't count!
+RAK/RAK0021540
+Stop getting so upset over something so small.[nl]Aren't we talking about back in kindergarten, after all?[nl]You're overreacting just a---
+@expose
+CTG/CTG0009160
+You be quiet!
+RAK/RAK0021550
+...Okay.
+MRK/MRK0000690
+Heh....I can't let a barbarian like Kirisaki strip away[nl]the fruits of mine and Raku dearest's love!
+SSR/SSR0009560
+Just give that stack of paper to the mistress!
+RAK/RAK0021560
+Hey, hey, Tsugumi.....[nl]Stop making such a fuss.
+SSR/SSR0009570
+Shut up! If you interfere I'll show no mercy!
+RAK/RAK0021570
+Eeek....!
+MRK/MRK0000700
+Raku dearest, let us run away for now!
+RAK/RAK0021580
+Eh!? M-Me too!?
+SSR/SSR0009580
+Hold it, Raku Ichijo!
+CTG/CTG0009170
+You're not getting away, Darling!
+RAK/RAK0021590
+Hey, why are you after me!?
+@叫び揺れ
+MRK/MRK0000710
+Hurry up! Quickly!
+RAK/RAK0021600
+H-Hey, instead of dragging me away,[nl]we could just give them the letter---
+@pan
+RAK/RAK0021610
+Waghhhhhhhh!
+CTG/CTG0009180
+Hey, wait!
+SSR/SSR0009590
+You're not getting away!
+.......
+RUR/RUR0000980
+Pull yourself together, Kosaki.[nl]Now isn't the time to freeze up.
+SYU/SYU0001350
+Ahh, the treasure of youth~!
+KYK/KYK0000030
+...Youth is all well and good,[nl]but when will I get that homework?
+@フェードアウト
+RAK/RAK0021620
+(Looks like we've escaped for now.)
+RAK/RAK0021630
+(I don't think they've figured out we're[nl] hiding out in here, either....)
+MRK/MRK0000720
+Ahhh! Raku dearest, you're surprisingly bold.
+RAK/RAK0021640
+You moron! Stop talking so loudly!
+MRK/MRK0000730
+To push me in here like this....[nl]It's so manly of you.
+RAK/RAK0021650
+Hey, don't get so close to me!
+MRK/MRK0000740
+Even if you say that,[nl]there's barely any space in here as it is.[nl]I can't move any further away.
+RAK/RAK0021660
+There's so much space behind you!
+MRK/MRK0000750
+Please stop, Raku dearest.[nl]If you continue to speak at such volume,[nl]they will certainly find us.
+RAK/RAK0021670
+You're telling me!?
+MRK/MRK0000760
+Do....you dislike it when[nl]I do things like this, Raku dearest?
+RAK/RAK0021680
+N-No, I wouldn't say I dislike it....
+RAK/RAK0021690
+It's just that if Chitoge and the others found us like this,[nl]I think they'd kill me this time.
+MRK/MRK0000770
+Haha. Love will have its obstacles.[nl]As long as it's with you, Raku dearest,[nl]I'm willing to run as far away as I need to.
+MRK/MRK0000780
+But, it would be nice to live in a world[nl]without such obstacles, wouldn't it?
+RAK/RAK0021700
+Don't say such weird things while clinging to me!
+MRK/MRK0000790
+But this still isn't enough for me....
+MRK/MRK0000800
+Just for a little while, can we stay like this?
+RAK/RAK0021710
+Uh-.....
+RAK/RAK0021720
+(Crap....she's really cute up close,[nl] and when we're this close to each other,[nl] I can't help but get nervous!)
+MRK/MRK0000810
+Raku dearest.... (hug)★
+RAK/RAK0021730
+H-Hey! Stop!
+MRK/MRK0000820
+Hehehe....[nl]Raku dearest, I guess you're a boy after all.[nl]Y'know, your face is beet red?
+RAK/RAK0021740
+Stop teasing me![nl]Being hugged by you, anyone....
+MRK/MRK0000830
+Anyone....what?
+RAK/RAK0021750
+....You're surprisingly cruel.
+MRK/MRK0000840
+If I wasn't so overbearing,[nl]you would barely notice me.
+MRK/MRK0000850
+Or, maybe you're saying it really, truly does[nl]bother you when I treat you like this?
+RAK/RAK0021760
+That's....
+MRK/MRK0000860
+I'm always anxious and nervous because I never know[nl]what you're actually thinking, y'know?
+MRK/MRK0000870
+Raku dearest....[nl]Do you hate me?
+RAK/RAK0021770
+-----
+RAK/RAK0021780
+(When she asks me like that,[nl] I feel like I need to give her a proper answer.)
+RAK/RAK0021790
+(I'll answer carefully, so as[nl] not to hurt her feelings.)
+@mrk_001_101
+common.asb
+mrk_001_101.asb

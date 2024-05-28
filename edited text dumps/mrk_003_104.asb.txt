@@ -1,0 +1,43 @@
+__main
+@Lclearscreenall
+@mrk_003_104
+@タッチパート開始処理
+@ＢＧＭ再生
+MRK/MRK0002900
+○▽％◇＃！？～～～～
+MRK/MRK0002910
+R-R-R-Rakkun!?[nl]W-W-What're ya doin!?!?
+MRK/MRK0002920
+Aah! W-What the!? T-T-
+MRK/MRK0002930
+This ain't no...
+@expose2
+MRK/MRK0002940
+Fwahhhh.....
+@ザクシャ万里花・小
+MRK/MRK0002950
+Ah-.
+MRK/MRK0002960
+R-Raku dearest.....
+MRK/MRK0002970
+It ain't no fair,[nl]rubbin' my head like that....I can't resist.
+@ザクシャ万里花・中
+MRK/MRK0002980
+It ain't no fair,[nl]holdin' me back like that....I can't resist.
+MRK/MRK0002990
+It ain't no fair,[nl]holdin' me so nicely like that....
+@expose
+MRK/MRK0003000
+For a moment there, I expected something to happen.
+MRK/MRK0003010
+Well, that's fine.
+MRK/MRK0003020
+If you're not going to do anything,[nl]then I'm going to appeal....
+MRK/MRK0003030
+This match....[nl]I can't afford to lose it!
+MRK/MRK0003040
+No matter what you say, I will continue the game!
+@mrk_003_104_end
+@mrk_003_201
+common.asb
+mrk_003_201.asb

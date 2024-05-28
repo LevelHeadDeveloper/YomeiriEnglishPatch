@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@mrk_102
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0012110
+Oh, you're going to the cafeteria too, Raku dearest?
+RAK/RAK0074920
+Yeah, you too, huh.[nl]It's rare to see you in the cafeteria, Tachibana.
+RAK/RAK0074930
+....Wait, huh?
+MRK/MRK0012120
+What's the matter?
+RAK/RAK0074940
+Arghh.... Dammit.[nl]I think I left my wallet at home....
+RAK/RAK0074950
+Hahh.... I guess I'm not eating lunch today....
+@expose
+MRK/MRK0012130
+Well, that just won't do at all![nl]You're still growing, and skipping lunch isn't an option!
+MRK/MRK0012140
+Instead, I'll go buy some lunch for you, Raku dearest!
+RAK/RAK0074960
+Huh....? You will?[nl]I'm not sure I....
+MRK/MRK0012150
+If this is about money, don't worry about it![nl]I'm more than happy to be of assistance to you,[nl]Raku dearest!
+MRK/MRK0012160
+Well then, I'm going to buy you the most expensive thing they have!
+RAK/RAK0074970
+Oh, hey!
+RAK/RAK0074980
+(....I'm gonna pay her back for it later,[nl] so it doesn't have to be expensive....)
+MRK/MRK0012170
+Hahh, hahh, hahh....[nl]I-I'm back!
+RAK/RAK0074990
+That fast!? Are you sure you're okay with running so fast?
+MRK/MRK0012180
+A-As long as it's for you, Raku dearest....!
+MRK/MRK0012190
+Here, a sandwich for you, my darling Raku.
+RAK/RAK0075000
+O-Ohhh....! This glow....!
+SYU/SYU0013860
+This! This is the legendary ultra-high-grade BLT sandwich[nl]from the cafeteria that is too too expensive for[nl]anyone to buy!
+SYU/SYU0013870
+However, it is rumored to taste no less fine than the[nl]finest French cuisine, and sometimes celebrities come here[nl]in disguise for no reason other than to buy this!
+SYU/SYU0013880
+Explanation....has concluded.
+RAK/RAK0075010
+O-Oh....[nl]Have you always been that kind of character?
+RAK/RAK0075020
+But these sandwiches are supposed to cost[nl]thousands of yen each, right?[nl]Seems awfully drastic.
+MRK/MRK0012200
+I'm glad I was able to afford this,[nl]even if it was just barely.
+RAK/RAK0075030
+Huh....? You only bought one of these?
+MRK/MRK0012210
+Yes! I wanted my darling Raku to have only the tastiest food.
+RAK/RAK0075040
+....Hahh. Jeez, you're a handful.
+RAK/RAK0075050
+Here, have half.
+MRK/MRK0012220
+Huh....?
+RAK/RAK0075060
+I mangled it a bit when I broke it,[nl]so it doesn't look all that great anymore,[nl]so please excuse me.
+MRK/MRK0012230
+But isn't half a sandwich not enough for you, Raku dearest?
+RAK/RAK0075070
+You went to a lot of trouble to buy this for me,[nl]so I have no intention of eating the whole thing myself.
+MRK/MRK0012240
+....I see. You really are kind, Raku dearest.
+@ザクシャ万里花・中
+RAK/RAK0075080
+(Honestly, if she'd gotten me 2 or 3 regular sandwiches,[nl] that would've been fine....)
+RAK/RAK0075090
+(Well, whatever. Down the hatch....)
+RAK/RAK0075100
+....Y-Yum!? What's in this!? It's amazing!
+MRK/MRK0012250
+Hehe....I'm glad you like it.
+MRK/MRK0012260
+That expression, I ran as hard as I did just to see it.
+@イベント終了処理
+common.asb

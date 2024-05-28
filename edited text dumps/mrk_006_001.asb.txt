@@ -1,0 +1,1291 @@
+__main
+@Lclearscreenall
+@mrk_006
+@イベント開始処理
+MRK/MRK0006300
+Fwah....I couldn't get Raku dearest[nl]to notice me today, either.
+MRK/MRK0006310
+With just one really big push,[nl]I feel like I could get him to love me[nl]more than Kirisaki.....
+ANA/ANA0000010
+Yes, and for our next topic~,[nl]this hot-topic top idol and the news[nl]of her sudden marriage registration!
+MRK/MRK0006320
+Hm?
+@expose
+ANA/ANA0000020
+And folks, the man she's marrying is[nl]none other than her own manager!
+ANA/ANA0000030
+Why would this wildly successful top idol,[nl]who won first place in the last election,[nl]marry her manager?
+ANA/ANA0000040
+We'll be right back once[nl]we have more information!
+MRK/MRK0006330
+Honda.
+HND/HND0000090
+What is it?
+MRK/MRK0006340
+Is it really such a surprise[nl]that this idol is getting married?
+HND/HND0000100
+Since she's such a talented and popular idol,[nl]most of the uproar is from her unusually[nl]large fanbase.
+MRK/MRK0006350
+But, why would she get married so suddenly?
+HND/HND0000110
+I'm not sure about the specifics....[nl]But the main reason seems to be[nl]that she won the top position in the election.
+HND/HND0000120
+There's a rumor circulating that her manager[nl]fell in love with her for her earnest efforts[nl]and straightforwardness in her pursuit of Top Idol.
+MRK/MRK0006360
+Hmmm.....I'm jealous.
+MRK/MRK0006370
+I wish I could have an affair[nl]like that with Raku dearest....
+ANA/ANA0000050
+On our next segment....this week's Doki-Doki Power Spot![nl]And here it is, a shrine.....
+MRK/MRK0006380
+Huh? That's....
+HND/HND0000130
+That little shrine in Mr. Ichijo's town.
+ANA/ANA0000060
+These last few years, anyone who visits this shrine,[nl]one after another, had their love fulfilled, they say![nl]Now, it's a romance hot spot!
+ANA/ANA0000070
+We don't yet know if the idol from before had prayed[nl]at this shrine yet, but nevertheless, this spot[nl]is rapidly gaining popularity!
+MRK/MRK0006390
+Fulfilled love....I see.
+HND/HND0000140
+Mistress?
+MRK/MRK0006400
+Whatever it takes, be it god, or straw....
+MRK/MRK0006410
+Honda, bring the car around.
+HND/HND0000150
+....Very well.
+@フェードアウト
+@背景変更
+MRK/MRK0006420
+I will try everything I can[nl]to be with Raku dearest!
+MRK/MRK0006430
+For ten years, I've been molding[nl]myself into the perfect girl for him.[nl]I won't let that go to waste!
+MRK/MRK0006440
+Dear God, dear Buddha, dear Raku! Hear my prayer!
+MRK/MRK0006450
+Please let me....[nl]Give me a great love story like that idol....!
+MRK/MRK0006460
+Please, just this one thing![nl]Let me be in love like her!
+@キャラ揺らし
+MRK/MRK0006470
+Please, please! Hear my prayer!
+MRK/MRK0006480
+Please~~~!!!
+@叫び揺れ
+MRK/MRK0006490
+Haaaaaaaaaaaaaa~~~~!!
+......
+MRK/MRK0006500
+Pheww.....I feel like with this much effort,[nl]my prayer should work at least a little.
+MRK/MRK0006510
+Well, I'm going home.
+OTM/OTM0001720
+Mrgggh....what a raucous way of making a wish.[nl]Puny boneheaded mortal....
+OTM/OTM0001730
+But this is for the sake of this world,[nl]and humankind. M-hm.....
+OTM/OTM0001740
+Thy wish shall be granted.....
+@ＢＧＭ再生
+MRK/MRK0006520
+Yawwwn.....
+RAK/RAK0025180
+What's the matter, Tachibana?[nl]Didn't get enough sleep?
+MRK/MRK0006530
+Yeah.....I paid a visit too late at night.
+CTG/CTG0009430
+Paid a visit? Where to?
+MRK/MRK0006540
+It's unrelated to you, Kirisaki.
+SSR/SSR0009680
+Hey, Marika Tachibana.[nl]The mistress just asked you a question,[nl]so why don't you just answer plainly?
+MRK/MRK0006550
+I refuse.
+MRK/MRK0006560
+But, since Onodera and Miyamoto are my friends,[nl]I will tell them.
+MRK/MRK0006570
+Well then, please come over here.
+KSK/KSK0007680
+Huh!? H-How come we're the only ones?
+CTG/CTG0009440
+It's fine, you two.[nl]I'm not really interested in what she has to say.
+RAK/RAK0025190
+Try to get along.
+CTG/CTG0009450
+Well, whose fault do you think this is?
+RAK/RAK0025200
+Is it mine!?
+SYU/SYU0001740
+Marika, what about me?[nl]I'm your friend, right?
+MRK/MRK0006580
+No, you are not.
+SYU/SYU0001750
+Cold as ever, I see--.[nl]Well, it has something to do with Raku, right?
+MRK/MRK0006590
+Of course it does.[nl]But, it's a secret from him, okay?
+RAK/RAK0025210
+Then wouldn't it make more sense to talk about it[nl]sometime when I'm not around....?
+@ＢＧＭ停止
+RAK/RAK0025220
+PRO/PRO0000010
+....Oh! I've finally found you![nl]The brilliance of the new generation!
+PRO/PRO0000020
+A shiny ruby, a glistening sapphire....[nl]No! A flawless diamond in the rough!
+RAK/RAK0025230
+(W-Who's this old man?)
+PRO/PRO0000030
+You, you there![nl]Do you have a moment?
+MRK/MRK0006600
+Me?
+PRO/PRO0000040
+Yes! You!
+PRO/PRO0000050
+You have the potential to be the nations's....[nl]No, the world's hottest new idol!
+PRO/PRO0000060
+Are you willing to join our agency[nl]and participate in the nationwide idol election[nl]in three month's time?
+CTG/CTG0009460
+Marika....
+RAK/RAK0025240
+An idol!?
+MRK/MRK0006610
+Well....
+PRO/PRO0000070
+I know a top idol when I see one![nl]Please, join our office!
+RAK/RAK0025250
+(Idolship, huh.....[nl]I don't think she'd be interested in that.)
+CTG/CTG0009470
+Hang on, Marika! This is amazing!
+CTG/CTG0009480
+It's not every day you get a chance like this![nl]You should definitely do it!
+RAK/RAK0025260
+(Huh.....?[nl] Chitoge, what are you saying?)
+SSR/SSR0009690
+It's true....[nl]Your appearance is very cute and girly.
+KSK/KSK0007690
+Ehehe.....if I was friends with an idol,[nl]I could brag to everyone.
+RAK/RAK0025270
+(Tsugumi!? And Onodera, too....[nl] What the hell is going on!?)
+RUR/RUR0001020
+Celebrity location bento boxes....[nl]I'd like to try one sometime.
+SYU/SYU0001760
+I'd like you to introduce me to your idol friends![nl]And have them sign autographs!
+RAK/RAK0025280
+(Huh, you two as well!?)
+RAK/RAK0025290
+H-Hey, guys, something's weird![nl]Don't you usually think about these things a bit more?
+RAK/RAK0025300
+Besides, Tachibana hasn't even said she'd do it yet.
+MRK/MRK0006620
+I'll do it! I'll be an idol!
+RAK/RAK0025310
+Aaaaahh!
+CTG/CTG0009490
+What the hell, Raku![nl]You're gonna try to trample[nl]her once-in-a-lifetime chance?
+RAK/RAK0025320
+No, that's not....
+RAK/RAK0025330
+Y-You're serious, Tachibana!?
+MRK/MRK0006630
+Yes. This is the perfect chance!
+PRO/PRO0000080
+Yes, then we have a deal!
+RAK/RAK0025340
+Hahhh.....[nl]I really didn't expect you[nl]to accept something like this.
+MRK/MRK0006640
+Really? I don't think it's that unusual[nl]for a girl to want to be a cute idol.
+MRK/MRK0006650
+Is that so weird of me?
+RAK/RAK0025350
+(It's not just you, but there's something[nl]weird about Chitoge and the others as well...)
+MRK/MRK0006660
+However, I highly doubt it would be manageable[nl]to become a top idol by myself....
+MRK/MRK0006670
+Therefore, I will have[nl]Raku dearest as my manager.
+RAK/RAK0025360
+.....What?
+MRK/MRK0006680
+Having a manager is an absolute[nl]requirement for an idol.
+RAK/RAK0025370
+Hey....why are you trying[nl]to get me involved in this now?
+PRO/PRO0000090
+Alright~, that makes it easy.
+PRO/PRO0000100
+Congratulations, young man.[nl]You're her manager from now on.
+RAK/RAK0025380
+Huh!? Have you decided that already!?[nl]But I haven't even said anything....
+PRO/PRO0000110
+Now, let's get busy! Marika, was it?[nl]Hop in the car!
+PRO/PRO0000120
+You too, manager!
+RAK/RAK0025390
+Don't I get a say in this!?
+CTG/CTG0009500
+Good luck, darling.
+SSR/SSR0009700
+Don't drag your feet, Ichijo.
+RAK/RAK0025400
+R-Really....you guys aren't trying to stop us?
+KSK/KSK0007700
+Ichijo, I'm sure you'll make a great manager!
+RAK/RAK0025410
+Huh!? You too, Onodera!?
+SYU/SYU0001770
+Try and get some[nl]cute idols' email addresses for me, Raku!
+RAK/RAK0025420
+Why are you worried about that!?
+MRK/MRK0006690
+Let's go and finish this quickly, manager.
+PRO/PRO0000130
+We don't have much time before the election![nl]Let's go, manager!
+@フェードアウト
+RAK/RAK0025430
+Aah, hey! Stop dragging me into the car!
+RAK/RAK0025440
+Stop it~~~~~~~!
+@背景変更
+@時間経過演出
+RAK/RAK0025450
+(Crap....what the hell is this.[nl] This is basically kidnapping....)
+HND/HND0000160
+Mr. Ichijo.
+RAK/RAK0025460
+Waaahhhh! H-Honda!
+RAK/RAK0025470
+(As usual, she just appears out of nowhere.[nl] It's bad for my heart.)
+HND/HND0000170
+We have prepared a suit for you.[nl]Please wear it during business hours.
+RAK/RAK0025480
+Hahh, thanks.[nl]....I mean, is this okay?
+RAK/RAK0025490
+After all, Tachibana says she's gonna[nl]be an idol and she doesn't even consult her father.
+HND/HND0000180
+I spoke with the commissioner already,[nl]so there's no problem.
+HND/HND0000190
+As long as you're here,[nl]we'll leave the rest to you.
+RAK/RAK0025500
+I think you're still pretty important here.
+HND/HND0000200
+Please understand that your[nl]role is very important as well.
+RAK/RAK0025510
+....U-Understood.
+RAK/RAK0025520
+(Dammit....why did this happen?)
+RAK/RAK0025530
+(I think it's a bit weird that everyone's[nl] just rolling with the idea of Tachibana being an idol.)
+RAK/RAK0025540
+(Something seems off.)
+HND/HND0000210
+The mistress's costume fitting will be finished shortly,[nl]so please wait for a second.
+RAK/RAK0025550
+You have a costume already?[nl]How'd you find one in her size so fast?
+PRO/PRO0000140
+Well, you remember that one idol who[nl]quit the other day because she got married?
+RAK/RAK0025560
+Ah, yes, that was in the news.[nl]Um, if I remember correctly, it was right in the middle of-
+PRO/PRO0000150
+Yes, yes. Anyway, her old costume was[nl]just the right size for Tachibana![nl]We'll use that for the time being.
+RAK/RAK0025570
+Well, that's convenient, I guess.
+PRO/PRO0000160
+This must be a sign from the gods,[nl]they want Tachibana to stay on the path of idolship....
+RAK/RAK0025580
+(Gods, huh.....[nl] Somehow, I feel weird about that....)
+MRK/MRK0006700
+Raku dearest.
+@背景変更2
+RAK/RAK0025590
+....Whoa!
+MRK/MRK0006710
+Um, what's the matter?
+RAK/RAK0025600
+Eh---?
+MRK/MRK0006720
+Do you think it suits me?
+RAK/RAK0025610
+Ah, um, yes.[nl]Is it....bad that I think so?
+RAK/RAK0025620
+(It looks so good at her that I had to stop and[nl] look for a second....but I won't tell her that.)
+PRO/PRO0000170
+Hey, hey, manager.
+PRO/PRO0000180
+This is the part where you praise her.[nl]Y'know, compliments. Motivation. Boost her ego.
+RAK/RAK0025630
+Oh, is that how it's done?
+PRO/PRO0000190
+That's the job of all the top-class managers:[nl]First and foremost, keep the girls motivated!
+RAK/RAK0025640
+(I really don't want to be a manager at all.)
+PRO/PRO0000200
+Alright, Honda and I will be in a meeting[nl]discussing your future, and you and Marika[nl]can talk for a while. All good.
+RAK/RAK0025650
+Hahh.....
+MRK/MRK0006730
+Talking with Raku dearest is always welcome.
+RAK/RAK0025660
+(Am I.....really okay[nl] with being a manager here?)
+Let's play along for a bit.
+Sorry, no
+RAK/RAK0025670
+(Tachibana, Chitoge and everyone are acting weird....[nl] Maybe I should stick around and find out why.)
+OTM/OTM0001750
+Mwehehehe.....how art thou, Manager?
+RAK/RAK0025680
+Tachibana....
+MRK/MRK0006740
+Yes?
+RAK/RAK0025690
+I'm sorry!
+MRK/MRK0006750
+Huh?
+RAK/RAK0025700
+I know we've gotten this far already, but....[nl]I don't want to be your manager.
+RAK/RAK0025710
+Don't get me wrong, I want to support you,[nl]but I also want to be a normal high school student....
+RAK/RAK0025720
+I can't imagine I'm much help to[nl]you with my half-hearted....wait, that's just an excuse.[nl]Uhh~, well, I don't know how to say this....
+MRK/MRK0006760
+.....Understood.
+MRK/MRK0006770
+If you say so, Raku dearest,[nl]then I can't stop you.
+RAK/RAK0025730
+MRK/MRK0006780
+It's really too bad....[nl]But I don't want to do anything to make[nl]my darling Raku unhappy.
+MRK/MRK0006790
+I will tell my father and Honda.[nl]Don't worry about anything else,[nl]just go home.
+RAK/RAK0025740
+Okay....[nl]Sorry, Tachibana.
+MRK/MRK0006800
+Please don't look at me like that.[nl]It was me who roped you into this.
+MRK/MRK0006810
+Well, Raku dearest, I'll see you at school.[nl]I may not be able to be there as much these days....
+MRK/MRK0006820
+Please do support me, however,[nl]now that I'm an idol.
+RAK/RAK0025750
+Yes, of course.[nl]We'll all support you, so do your best.
+MRK/MRK0006830
+Okay....
+RAK/RAK0025760
+See ya.
+RAK/RAK0025770
+(Sorry, Tachibana....[nl] But I want to be a civil servant in the future.)
+RAK/RAK0025780
+(So it would be best if I[nl] didn't get caught up in a weird situation[nl] like this one.)
+RAK/RAK0025790
+....What?
+MRK/MRK0006840
+Hm? Did you forget something?
+RAK/RAK0025800
+No....that's not it.[nl]That was weird.
+RAK/RAK0025810
+Sorry. See ya round,[nl]for real this time, Tachibana!
+RAK/RAK0025820
+....Huh?
+RAK/RAK0025830
+W-What the hell....[nl]I opened the door to leave,[nl]didn't I!?
+MRK/MRK0006850
+Raku dearest? What's the matter?
+RAK/RAK0025840
+(W-What's going on?[nl] I can't leave this room!
+OTM/OTM0001760
+Shall I tell thee why not?
+MRK/MRK0006860
+Huh?
+RAK/RAK0025850
+O-Otama!
+MRK/MRK0006870
+Otama? Raku dearest, do you know her?
+RAK/RAK0025860
+Huh? Ah~, well....[nl]Maybe I kinda know her....
+OTM/OTM0001770
+A-hem. I am a goddess of divine grace, an "Inari-sama".[nl]This young lady's journey towards her dream hath[nl]gotten off to a good start.
+MRK/MRK0006880
+Huh? Inari....sama?
+RAK/RAK0025870
+Aahahaha....don't worry, Tachibana![nl]She's one of my cousins, but she gets a little[nl]delusional like this sometimes....
+@expose
+OTM/OTM0001780
+Huh!? What dost thou mean, I'm delusional!?[nl]I cannot let that remark slide!
+RAK/RAK0025880
+Forget it![nl]We're in a bit of a difficult situation right now![nl]Please try not to complicate it further!
+MRK/MRK0006890
+Oh, so it was you![nl]Thank you very much for doing this.
+RAK/RAK0025890
+Eh?
+OTM/OTM0001790
+Mhm. Thy demeanor is most pleasing.
+RAK/RAK0025900
+Wa-W-What? What did you say?[nl]I don't know what you're talking about.
+MRK/MRK0006900
+I went to the shrine last night to make a wish.[nl]And this Inari-sama heard it and granted it.
+OTM/OTM0001800
+Oh my, thou art a very quick-witted young lady.[nl]Usually, it takes a few tries to get[nl]people to believe I'm a goddess.
+MRK/MRK0006910
+I'm sure it does.
+MRK/MRK0006920
+But what really tipped me off is that[nl]I conveniently got scouted out the morning[nl]after I made my wish.
+MRK/MRK0006930
+The only reasonable explanation for that was[nl]that some kind of supernatural force was pulling strings.
+OTM/OTM0001810
+I see. Thou art quite a quite rational maiden.[nl]Thy understanding surprises me.
+RAK/RAK0025910
+Uh, um, I'm still not sure[nl]what you're talking about.
+OTM/OTM0001820
+Thou doth not understand still,[nl]even after all this discourse?[nl]Thy lack of understanding surprises me.
+OTM/OTM0001830
+Basically, thou art in this situation[nl]because I granted her wish.
+RAK/RAK0025920
+Huh!? So all this was your doing!?
+OTM/OTM0001840
+Yes, but such praise isn't necessary.[nl]I was simply doing my duty as a fox goddess.
+RAK/RAK0025930
+That wasn't praise!
+OTM/OTM0001850
+By granting wishes, I accumulate virtue.[nl]And with this virtue, I can rise to the level[nl]of the grandest fox goddess.
+OTM/OTM0001860
+In a way, this was training for me.[nl]Therefore, young lady, I would like to thank thee.
+RAK/RAK0025940
+Hey, listen to me!
+OTM/OTM0001870
+Blah, blah, blah, shut up.[nl]What the heck dost thou want?
+RAK/RAK0025950
+If this is something you did,[nl]can't you just undo it?
+OTM/OTM0001880
+So, thou wouldst have me cancel a wish?
+OTM/OTM0001890
+What an awful thing to wish for.[nl]Thou wouldst trample on this young lady's wish?
+RAK/RAK0025960
+W-Well....
+RAK/RAK0025970
+I mean, Tachibana,[nl]why do you want to be an idol in the first place?
+MRK/MRK0006940
+It's not that I particularly want to be an idol.
+RAK/RAK0025980
+OTM/OTM0001900
+That's right.[nl]Becoming an idol is merely a step on the way.[nl]Her true goal is beyond that.
+OTM/OTM0001910
+First things first, Raku.[nl]If thou doth not make her an idol,[nl]thou canst not leave this place, got that?
+OTM/OTM0001920
+Having thee as manager is part of the wish.
+MRK/MRK0006950
+Raku dearest, it will only be for a short while.[nl]Please indulge my selfishness for that time.
+RAK/RAK0026000
+W-Well, I guess...
+OTM/OTM0001940
+Give up and go along with her wish.
+OTM/OTM0001950
+Just do it! I'm happy,[nl]thou art happy, she is also happy![nl]It's a win-win-win situation!
+RAK/RAK0026010
+(Where did you hear that phrase....)
+RAK/RAK0026020
+Alright, fine.[nl]I still don't know exactly what's going on....[nl]But if Tachibana makes top idol, then we're free, right?
+RAK/RAK0026030
+Tachibana. I'm going to make you a top idol!
+RAK/RAK0026040
+Crap.[nl]I still don't know exactly what's going on....[nl]But if Tachibana makes top idol, then we're free, right?
+RAK/RAK0026050
+Alright, Tachibana! I'll do it![nl]I'm going to make you a top idol!
+MRK/MRK0006960
+Really!?
+RAK/RAK0026060
+Yeah. If it'll help you[nl]fulfill your ambitions, I'll do it!
+RAK/RAK0026070
+(And I'll also get out of[nl] this ridiculous situation!)
+MRK/MRK0006970
+Raku dearest....[nl]Thank you!
+MRK/MRK0006980
+You can count on me![nl]I'll surely become a lovely young lady[nl]that my darling Raku can be proud of!
+@ＢＧＭ再生
+RYU/RYU0000620
+Young master! Young master!
+RAK/RAK0026080
+Mgh......
+RYU/RYU0000630
+Rise an' shine! Young master!
+RAK/RAK0026090
+What is it....Ryuu.
+RYU/RYU0000640
+Look at this![nl]Tachibana's daughter is on the front page[nl]of the mornin' paper!
+RYU/RYU0000650
+Look, here's the headline![nl]"Idol world's latest sudden supernova,[nl]Marika Tachibana!" it says!
+RYU/RYU0000660
+You can even see your face[nl]in the corner of the picture!
+RAK/RAK0026100
+.....Oh. Is that so....
+RYU/RYU0000670
+I guess this is your celebrity debut,[nl]young master!
+RYU/RYU0000680
+I'ma store this newspaper away as a family heirloom!
+RAK/RAK0026110
+Ryuu....
+RYU/RYU0000690
+Whazza matter? Young master!
+RAK/RAK0026120
+Please. Let me sleep.
+RYU/RYU0000700
+Huh? Young master, are you that tired?
+RAK/RAK0026130
+I only just got back from a[nl]long stretch of meetings and errands....
+RAK/RAK0026140
+This past week,[nl]I've been feeling like I'm[nl]going to die of exhaustion....
+RYU/RYU0000710
+Thas' no good![nl]Here, lemme give you a back massage!
+RAK/RAK0026150
+No, let me sleep.
+RAK/RAK0026160
+Aaagh...they're calling again.
+RAK/RAK0026170
+Hello?
+HND/HND0000220
+Good morning, Mr. Ichijo.
+HND/HND0000230
+They've suddenly decided that the mistress will appear[nl]for an emergency TV segment as part of a deal with another idol.[nl]Please be at the office in 30 minutes.
+RAK/RAK0026180
+....Um, I just got home a few minutes ago.
+HND/HND0000240
+Please be there.
+RAK/RAK0026190
+....Ghh....fine.
+RAK/RAK0026200
+Ryuu. I don't think I'll be able[nl]to cook the meals for a while.[nl]Do you think you can handle that?
+RYU/RYU0000720
+Certainly, young master! Good luck~.
+MRK/MRK0006990
+I'm back!
+RAK/RAK0026210
+Phew....between filming the segment,[nl]and the three radio guest appearances,[nl]not to mention the event meetings....
+RAK/RAK0026220
+Even though you didn't debut too long ago,[nl]you've been very busy.
+HND/HND0000250
+Mistress Marika, Mr. Ichijo, thank you for your hard work.
+HND/HND0000260
+Now then, regarding our next move--
+RAK/RAK0026230
+Huh!? You mean there's more!?
+HND/HND0000270
+No, today's work is finished.
+HND/HND0000280
+However, Marika needs to take a few more lessons[nl]for her debut song, which will release next week.
+RAK/RAK0026240
+A debut song....isn't it a bit soon for that?
+PRO/PRO0000210
+We have composers lining up around[nl]the block to provide music for Marika.
+RAK/RAK0026250
+Is that so....[nl]Really, there's no time to rest....
+MRK/MRK0007000
+But at least I get to be with[nl]my beloved Raku all the time~!
+RAK/RAK0026260
+Hey! Don't hug me so casually!
+RAK/RAK0026270
+You never know who has their eyes where.[nl]I want to avoid a scandal.
+MRK/MRK0007010
+Oh, my....[nl]That's a very professional managerial statement.
+MRK/MRK0007020
+But as for me, I'm happy and sad....
+MRK/MRK0007030
+--I mean, I'm sad![nl]I want to be closer to my darling Raku!
+RAK/RAK0026280
+More importantly,[nl]are you holding up okay?
+MRK/MRK0007040
+Yes, why?
+RAK/RAK0026290
+You've got a long work schedule, and if[nl]you take lessons on top of that, you won't have[nl]any time left to sleep, will you?
+MRK/MRK0007050
+There's not much time until the general election.
+RAK/RAK0026300
+Don't be so impatient.[nl]There's no way you can really make[nl]the top in just three months, right?
+MRK/MRK0007060
+You never know until you try.
+MRK/MRK0007070
+Besides that, I've been[nl]this reckless for the past ten years....
+RAK/RAK0026310
+But doesn't that mean....[nl]If your body gives out now,[nl]it would be pretty bad, right?
+MRK/MRK0007080
+As long as you're by my side, Raku dearest,[nl]I won't give out.
+RAK/RAK0026320
+That's not an answer.
+MRK/MRK0007090
+....It just that I don't want to regret this.
+RAK/RAK0026330
+Regret?
+MRK/MRK0007100
+Even I don't expect everything to[nl]turn out the way I want it to.
+MRK/MRK0007110
+But....even if I don't make top idol,[nl]I still want to try my very hardest!
+RAK/RAK0026340
+RAK/RAK0026350
+(I can't believe she thought that far ahead....)
+MRK/MRK0007120
+Well, that's more or less the answer[nl]I would give!
+RAK/RAK0026360
+Huh?
+MRK/MRK0007130
+Truth is, becoming top idol is just a stepping stone.
+MRK/MRK0007140
+Yes....a very important step towards a[nl]wonderful love affair with my darling Raku!
+RAK/RAK0026370
+W-What the hell are you saying!?
+MRK/MRK0007150
+It's a grand plan that might[nl]take a long time to explain, but should I[nl]tell you anyway?
+MRK/MRK0007160
+It shall be a love story for the ages,[nl]made with sweat and tears, and it shall be[nl]a feature film--
+RAK/RAK0026380
+Stop, stop! That's enough!
+RAK/RAK0026390
+If you have the time to talk about[nl]such frivolous things, you should spend it[nl]resting until lesson time!
+MRK/MRK0007170
+Oh my, you don't need to hesitate like that.
+RAK/RAK0026400
+Jeez, I can't even tell if you're serious.
+MRK/MRK0007180
+Hehehe.....women are more mysterious when[nl]they have a lot of mysteries.
+RAK/RAK0026410
+That's what that means.
+MRK/MRK0007190
+Anyway, I'm resting in a place you[nl]don't know about, so don't worry about that.
+MRK/MRK0007200
+Well then, I'm headed off to my lessons.
+RAK/RAK0026420
+Okay....don't let me stop you.
+RAK/RAK0026430
+But if you feel out of breath or anything,[nl]stop and give me a call, okay?
+MRK/MRK0007210
+Okay~!
+@ＢＧＭ停止
+RAK/RAK0026440
+Phew....somehow, I feel like I've been cheated.
+RAK/RAK0026450
+(....Of course, it wasn't me[nl] who made that wish on Otama.)
+RAK/RAK0026460
+(And there isn't even any guarantee[nl] that Tachibana will reach the top.[nl] She'll have to rely on herself for that....)
+RAK/RAK0026470
+I'll have to make sure she doesn't overexert herself.
+MRK/MRK0007220
+Everyone![nl]Thank you for attending my special concert today!
+FNA/FNA0000010G
+Marika-chaaaaaan!
+MRK/MRK0007230
+Make sure you vote for me in the election!
+MRK/MRK0007240
+Thank you all for your support!
+FNA/FNA0000020G
+Yaaaaaaaay![nl]Marika-chaaaan!!
+MAS/MAS0000010
+Marika![nl]Congratulations on reaching a million[nl]sales of your debut album![nl]Please, tell us your inspiration for the election!
+MRK/MRK0007250
+For the sake of the one I love most,[nl]I want to shine at number one.
+MAS/MAS0000020
+Ooh! The one you love most!?
+MRK/MRK0007260
+Well, of course, it's Raku dea---
+RAK/RAK0026480
+H-Hey! Tachibana's pretty tired already,[nl]so let's just end the interview here!
+MSA/MSA0000040
+Hey, isn't that Marika-chan?
+WSB/WSB0000040
+It is! She's at school today! Please sign for me!
+SYU/SYU0001780
+Of course, of course![nl]Marika-chan is tired today,[nl]so please give her some space~!
+SYU/SYU0001790
+If you want an autograph,[nl]you will need to ask Manager Raku,[nl]right over there!
+RAK/RAK0026490
+....Who the hell put you in charge?
+SYU/SYU0001800
+I just want to be of help to my tired friend!
+RAK/RAK0026500
+Well....that's good to hear.
+SYU/SYU0001810
+Well then, my good man....[nl]Do you have any other idol's email addresses?
+RAK/RAK0026510
+I didn't ask anyone.[nl]I don't want to be involved[nl]with anyone other than Tachibana.
+SYU/SYU0001820
+Hey....buddy.[nl]Let's try to keep our promises from now on, okay?
+RAK/RAK0026520
+No, I never promised anything!
+SYU/SYU0001830
+Well, that doesn't matter![nl]I'm still going to make a[nl]fortune off this Marika-chan craze~. ♪
+RAK/RAK0026530
+A fortune, huh....[nl]How, exactly?
+SYU/SYU0001840
+Hohoho....[nl]I have a number of exquisite shots of Marika,[nl]taken here at school and at the beach.....
+SYU/SYU0001850
+From what I'm hearing, I can get a high price for them![nl]Just today, I finished a lot of printing, and.....
+RAK/RAK0026540
+---Honda.
+HND/HND0000290
+Yes.
+SYU/SYU0001860
+Huh? Why am I handcuffed?
+SYU/SYU0001880
+Wait, where are you taking me?
+SYU/SYU0001890
+Heeeeeeeey, Rakuuuuuuuu!
+RAK/RAK0026550
+Sorry about this, Shuu....[nl]She'll confiscate all your photos,[nl]but it's for the best....
+MRK/MRK0007270
+Thank you again for sending that for me.
+RAK/RAK0026560
+After all, you're a very popular idol.[nl]If you aren't responsible about your work,[nl]the producer and your dad won't be too happy.
+RAK/RAK0026570
+But....it has been a long three months.
+MRK/MRK0007280
+Yeah. The national idol election is tomorrow.
+RAK/RAK0026580
+Somehow, even with all that work[nl]and all those lessons, you didn't even collapse once.
+RAK/RAK0026590
+You've got all these fans, and a lot of work....[nl]You're honestly great.
+RAK/RAK0026600
+I'm starting to see you a bit differently.
+MRK/MRK0007290
+Come on, I'd like you to just[nl]say you're absolutely smitten.
+RAK/RAK0026610
+I-I'm not going to say that!
+MRK/MRK0007300
+Even after all this time we've spent together,[nl]you're still so cold....
+MRK/MRK0007310
+It feels like, with how busy I am,[nl]I haven't been able to talk with you very much....
+RAK/RAK0026620
+If you get number one in the election,[nl]won't you be even busier?
+RAK/RAK0026630
+I think, if that happens, you'll get even further away....[nl]I'll probably miss you, too.
+MRK/MRK0007320
+You needn't worry about that.
+RAK/RAK0026640
+Huh...? What do you mean?
+MRK/MRK0007330
+No matter how far apart we get,[nl]I will always be running towards you at full speed.
+MRK/MRK0007340
+That was true for the last 10 years,[nl]and it's still true, and will always be true.
+RAK/RAK0026650
+I-I see....
+@expose2
+MRK/MRK0007350
+Oh, manager, your face is turning red.
+RAK/RAK0026660
+....You don't need to point it out.[nl]It's only natural that I'm embarassed.
+RAK/RAK0026670
+I mean, when a pretty girl talks to me like that....
+MRK/MRK0007360
+Huh? W-What did you say?
+@ザクシャ万里花・小
+MRK/MRK0007370
+Could it be....[nl]Raku dearest is finally hitting on me?
+RAK/RAK0026680
+That's not what I meant![nl]Those were genuine thoughts from an average guy!
+@ザクシャ万里花・中
+MRK/MRK0007380
+But, what you're saying is that you're[nl]getting flustered by me!
+RAK/RAK0026690
+S-Stop smirking!
+RAK/RAK0026700
+Crap....I shouldn't have said anything weird.
+MRK/MRK0007390
+Awww, please answer honestly.
+RAK/RAK0026710
+Shut up! I'm going home,[nl]and you should get some sleep, too!
+RAK/RAK0026720
+You don't want to collapse at the last minute, right?
+MRK/MRK0007400
+It's fine. I'll take number one with flying colors[nl]tomorrow, so look forward to it, okay?
+RAK/RAK0026730
+Okay....well then, I'll see you tomorrow.
+MRK/MRK0007410
+Okay. Have a good night, Raku dearest.
+HND/HND0000300
+Mistress....may I have a word?
+MRK/MRK0007420
+I'm not in the mood for a lecture.
+HND/HND0000310
+So you are truly going to[nl]participate in the election tomorrow?
+MRK/MRK0007430
+Absolutely.
+MRK/MRK0007440
+And, once I am voted the cutest girl in all Japan,[nl]Raku dearest will surely....
+....
+PRO/PRO0000220
+Marika's late....[nl]Raku, have you heard anything from her?
+RAK/RAK0026740
+No, not really....[nl]I've been trying to call, but she won't pick up....
+RAK/RAK0026750
+(What the hell are you doing, Tachibana?[nl] We need to get to the studio, or we'll be late!
+RAK/RAK0026760
+Ah-! Maybe....she collapsed!
+MRK/MRK0007450
+Sorry for the delay, Raku dearest!
+RAK/RAK0026770
+Tachibana!
+RAK/RAK0026780
+Are you okay? Are you feeling sick?
+MRK/MRK0007460
+Forgive me, Raku dearest.[nl]I was too busy sleeping.
+RAK/RAK0026790
+Too busy sleeping....you overslept!
+MRK/MRK0007470
+More or less.
+RAK/RAK0026800
+On the day of the show, no less.[nl]That kind of nerve is very much you.
+MRK/MRK0007480
+You understand me so well, Raku dearest.
+MRK/MRK0007490
+Are you actually already smitten with me?
+RAK/RAK0026810
+D-Don't be ridiculous![nl]I'm just your manager---
+MRK/MRK0007500
+Oh, come now, don't be so shy. ♪
+RAK/RAK0026820
+....You're as energetic as ever.[nl]That's a releif.
+PRO/PRO0000230
+Well, you should be going now.[nl]I'll be cheering you on.
+PRO/PRO0000240
+Make sure you're ready for the election. Okay?
+MRK/MRK0007510
+You worry too much, Producer.[nl]Leave it to us.
+MRK/MRK0007520
+I've worked hard for this.
+RAK/RAK0026830
+(Hm....?)
+RAK/RAK0026840
+Hey, Tachibana....[nl]Honda's been pretty quiet for a while now.
+MRK/MRK0007530
+Honda feels weak in the mornings.[nl]Please leave her alone.
+HND/HND0000320
+....I'm going to the car.
+RAK/RAK0026850
+Seems like she's in a bad mood....
+MRK/MRK0007540
+....Sorry, Honda.
+CHM/CHM0000010
+Sixth! Nationwide! Idol! Election! Staaaaaarts now!!
+CHM/CHM0000020
+Who will be Japan's top idol this year?
+CHM/CHM0000030
+Stick around and witness this[nl]historical moment with your own eyes!
+RAK/RAK0026860
+Ooogh....that announcer's really into it.
+RAK/RAK0026870
+(The final appeal starts pretty soon....[nl] Tachibana will sing her song,[nl] and then we'll wait for them to count the votes....)
+RAK/RAK0026880
+(Ooogh.....Tachibana's the one who has[nl] to perform, but I'm pretty nervous, too!)
+MRK/MRK0007550
+Raku dearest, your pacing is bothering everyone else.
+MRK/MRK0007560
+Please come sit next to me.
+RAK/RAK0026890
+Are you sure you're set to go on stage?[nl]Shouldn't you warm up or something and make sure?
+MRK/MRK0007570
+I've done all I can do.[nl]The only thing left is to just trust in myself.
+HND/HND0000330
+Mistress....it's time to stand by offstage.
+MRK/MRK0007580
+MRK/MRK0007590
+Well then, Raku dearest, let's g---
+@画面揺らし
+RAK/RAK0026900
+@叫び揺れ
+RAK/RAK0026910
+T-Tachibana!!
+RAK/RAK0026920
+Tachibana, get a hold of yourself!
+MRK/MRK0007600
+Ohh?
+MRK/MRK0007610
+Well....Raku dearest, this is now[nl]the second time you've held me like this.
+MRK/MRK0007620
+I was able to hide it better than[nl]at the tennis match, but to be found out[nl]at the last minute like this....
+MRK/MRK0007630
+I guess I've got a ways to go....
+RAK/RAK0026930
+How long have you been hiding it?
+MRK/MRK0007640
+....That's a secret.
+RAK/RAK0026940
+(Crap....I'm such an idiot![nl] How could I have missed something so obvious!?)
+RAK/RAK0026950
+(After all, I knew all along that Tachibana's[nl] the sort of person who will push herself[nl] until she collapses!)
+RAK/RAK0026960
+How are you feeling now?[nl]A bit better, since you're lying down?
+MRK/MRK0007650
+Yes. Thank you very much.
+MRK/MRK0007660
+If I rest like this for a while,[nl]I should be able to sing one song on stage.
+RAK/RAK0026970
+You're really going to pull that in your condition....
+HND/HND0000340
+....Mistress, please don't be selfish.
+RAK/RAK0026980
+!![nl]Honda....
+HND/HND0000350
+I have been observing your behavior until now,[nl]but this time you have been far too reckless.
+MRK/MRK0007670
+....Yes. I understand.
+HND/HND0000360
+Do you understand the effects this will have on your body?
+MRK/MRK0007680
+Well....
+HND/HND0000370
+Since you don't seem to know, let me tell you.
+HND/HND0000380
+If your condition gets much worse,[nl]you may be put in a sanatorium,[nl]like you were when you were a child.
+HND/HND0000390
+You will also have to part ways with Mr. Ichijo.
+HND/HND0000400
+Is it worth the risk?
+RAK/RAK0026990
+Did you really push that far without telling me?
+MRK/MRK0007690
+Honda, that's just awful....
+MRK/MRK0007700
+To expose me like that in front of Raku dearest....[nl]That's just unfair.
+HND/HND0000410
+I will not make excuses.[nl]I am not here to give you what you want.
+HND/HND0000420
+This is your final warning.[nl]....Withdraw from the competition.
+RAK/RAK0027000
+MRK/MRK0007710
+Hahh....
+MRK/MRK0007720
+Jeez, how many years have you been with me?
+MRK/MRK0007730
+Don't you know what I'd say at a time like this?
+HND/HND0000430
+....As expected, you don't listen.
+RAK/RAK0027010
+H-Hey....don't tell me you're actually going to perform?
+MRK/MRK0007740
+As expected of Raku dearest.[nl]You understand me better than Honda.
+MRK/MRK0007750
+I am a woman who follows through with her word.
+MRK/MRK0007760
+And I will not cave to such cheap threats!
+RAK/RAK0027020
+H-Hey! Where are you going?
+MRK/MRK0007770
+To the bright and glorious stage, of course....[nl]Towards my dreams!
+RAK/RAK0027030
+She's really serious about this....
+@pan
+RAK/RAK0027040
+Honda, you aren't going to stop her!?
+HND/HND0000440
+Mr. Ichijo. What do you intend to do?
+HND/HND0000450
+You should be more concerned about why[nl]the mistress....why that girl is going this far.
+RAK/RAK0027050
+HND/HND0000460
+It's all because she wants you to see it.
+HND/HND0000470
+It's a foolish thing to do[nl]for something so trivial.
+HND/HND0000480
+This is nothing new. For 10 years now, she's....
+HND/HND0000490
+She's....she's been running at a[nl]breakneck pace, just to reach you.
+RAK/RAK0027060
+Just to reach me....
+HND/HND0000500
+I'm sorry, but I cannot stop her myself.
+HND/HND0000510
+Only your voice can get through to her.
+RAK/RAK0027070
+I-I......
+HND/HND0000520
+I'll leave it up to you whether[nl]to stop her or give her a push.
+HND/HND0000530
+After all, what she needs is your voice.
+RAK/RAK0027080
+I'll....
+RAK/RAK0027090
+I'll go!
+HND/HND0000540
+Please take good care of the mistress.
+@フェードアウト
+@背景変更
+MRK/MRK0007780
+Hahh, hahh, hahh....
+MRK/MRK0007790
+I'm this close to having my dream come true,[nl]I can't just give up....
+MRK/MRK0007800
+If I can become top idol....[nl]like that idol who married her manager....
+MRK/MRK0007810
+Then maybe....Raku dearest will notice me....
+MRK/MRK0007820
+Until I get there....I must....I must....!
+RAK/RAK0027100
+Tachibana!!
+MRK/MRK0007830
+!!
+MRK/MRK0007840
+Raku dearest....did Honda send you, by any chance?
+MRK/MRK0007850
+There's no use trying to stop me.
+MRK/MRK0007860
+I'm not letting these last three months[nl]I spent working so hard with you go to waste.
+RAK/RAK0027110
+Hold on, Tachibana.
+RAK/RAK0027120
+I'm here to....
+Stop Tachibana
+Support Tachibana all the way
+RAK/RAK0027130
+No matter what you say, I will stop you.
+RAK/RAK0027140
+I don't want you to have to leave me if you collapse.
+MRK/MRK0007870
+RAK/RAK0027150
+Don't you get it, Tachibana?
+RAK/RAK0027160
+If you have to leave,[nl]won't all your effort go to waste anyway?
+RAK/RAK0027170
+And not just the last three months.[nl]I'm talking about the past ten years....all of it!
+MRK/MRK0007880
+Aah....
+RAK/RAK0027180
+You don't need to be the best girl.
+RAK/RAK0027190
+I'll accept everything you've already done for me....
+RAK/RAK0027200
+Up until now, every little thing....
+RAK/RAK0027210
+So please, don't do anything reckless....
+MRK/MRK0007890
+Raku dearest....
+MRK/MRK0007900
+You are really going to accept all of it?
+RAK/RAK0027220
+....That's what I said, isn't it?
+RAK/RAK0027230
+Somewhere down the road....[nl]I don't know when, and I haven't[nl]quite sorted out my feelings yet....
+RAK/RAK0027240
+But I promise, I will take[nl]your feelings seriously from now on.
+MRK/MRK0007910
+-----
+MRK/MRK0007920
+I....I'm glad.
+MRK/MRK0007930
+Raku dearest....that's the first time[nl]you've said anything like that to me....!
+MRK/MRK0007940
+I've never been this happy in my life!
+RAK/RAK0027250
+So, that's enough for you, right?[nl]You'll withdraw from the---
+MRK/MRK0007950
+...Hehe.
+RAK/RAK0027260
+....Tachibana?
+MRK/MRK0007960
+Hehe....hahaha....
+MRK/MRK0007970
+Hehehehehehee......
+@画面揺らし2
+MRK/MRK0007980
+I AM RESTOOOOOOORED~~!!
+RAK/RAK0027270
+WHAAAATT~!?
+MRK/MRK0007990
+I've received a confession[nl]of love from my darling Raku!
+MRK/MRK0008000
+With this, I can win for suuuuuure~!
+RAK/RAK0027280
+....Um, Tachibana? What are you talking about?
+MRK/MRK0008010
+Raku dearest, please bear witness!![nl]My peak performance, the peak of my happiness!
+RAK/RAK0027290
+You're not actually going to compete!?
+MRK/MRK0008020
+Here goes nothing~!
+RAK/RAK0027300
+Wait, Tachibana!![nl]Don't go!
+MRK/MRK0008030
+Everyone~![nl]Sorry to keep you waiting!
+RAK/RAK0027310
+Hahh....this can't be good, jeez.
+RAK/RAK0027320
+....Good luck, Tachibana.
+@ホワイトアウト
+MRK/MRK0008040
+Look, Raku dearest. The ocean is so beautiful.
+RAK/RAK0027330
+...Yep.
+MRK/MRK0008050
+Hey, look, do you see those dolphins?[nl]Haha....they're so cute.
+RAK/RAK0027340
+MRK/MRK0008060
+Why are you still so distant, Raku dearest?[nl]It's already been a month.
+MRK/MRK0008070
+Come on, lighten up and have some fun with me~.
+RAK/RAK0027350
+Well....do you remember whose fault it is[nl]that we can't go back to Japan?
+RAK/RAK0027360
+After the election, you---
+MAS/MAS0000030
+Marika![nl]Congratulations on placing first in the election!
+MAS/MAS0000040
+Is there anyone you wish to dedicate this victory to?
+MRK/MRK0008080
+Well, of course....
+MRK/MRK0008090
+My much-beloved darling Raku!
+MAS/MAS0000050
+Uh...? Darling Raku Ichijo?[nl]What kind of relationship do the two of you have?
+MRK/MRK0008100
+He is my fiancée!
+MAS/MAS0000060
+F-Fianceéeeee!?
+MRK/MRK0008110
+And today, Raku dearest has confessed his love to me!
+MRK/MRK0008120
+So, I will go back to being an ordinary girl,[nl]shining for one man alone.
+FNA/FNA0000030G
+What the hellll!?
+FNA/FNA0000040
+Hey! Where the hell is[nl]that bastard Raku Ichijo!?
+FNB/FNB0000040
+Come out this instant and explain![nl]No, let me hit you!
+MRK/MRK0008130
+Everyone! You're perfectly welcome to hate me,[nl]but please do not hate Raku dearest!
+RAK/RAK0027370
+...You said something like that,[nl]and now the whole country is mad at me.
+MRK/MRK0008140
+Ehehe.....It's difficult being popular, isn't it...
+RAK/RAK0027380
+That was your fault!
+RAK/RAK0027390
+Thankfully, Honda arranged for me to hide out here....[nl]But I can't go back to Japan until this blows over....
+MRK/MRK0008150
+It's like we're eloping. It's so romantic.
+RAK/RAK0027400
+Those Beehive guys, Chitoge, Onodera....aagh![nl]How am I going to explain myself?
+RAK/RAK0027410
+We've got a lot of trouble[nl]waiting for us back in Japan, I guess....
+MRK/MRK0008160
+That's fine with me.[nl]We can solve them together.
+MRK/MRK0008170
+As long as you choose me, Raku dearest,[nl]I'll be happy no matter what.
+RAK/RAK0027420
+Jeez....I guess I lost to your pushiness.
+MRK/MRK0008180
+Ehehe. If you keep yelling, you'll embarrass me.
+MRK/MRK0008190
+I will continue to improve myself and[nl]make myself an even more wonderful girl for you.
+MRK/MRK0008200
+So please make sure you watch me.
+MRK/MRK0008210
+Watch me the whole way through. Okay?
+@汎用フラグ・変数をすべてクリア
+@エンディング
+@最終一枚絵演出
+RAK/RAK0027430
+If you really want to compete,[nl]then I'll support you all the way.
+RAK/RAK0027440
+Work until you drop.[nl]I'll follow you.
+MRK/MRK0008220
+RAK/RAK0027450
+(This is probably all I can do[nl] towards reciprocating her feelings right now.)
+RAK/RAK0027460
+(I don't have what it takes to[nl] properly respond to her feelings.)
+RAK/RAK0027470
+(That would be disrespectful to Chitoge, to Onodera....[nl]and even to Tachibana.)
+RAK/RAK0027480
+....As your manager, Marika Tachibana,[nl]I believe in you.
+MRK/MRK0008230
+As my manager, huh.
+MRK/MRK0008240
+Actually, I was hoping for[nl]something a little more intimate....
+RAK/RAK0027490
+Huh?
+MRK/MRK0008250
+But, this will do for now.
+MRK/MRK0008260
+As long as Raku dearest believes in me,[nl]I will go through hell an back.
+RAK/RAK0027500
+O-Okay. Got it....
+MRK/MRK0008270
+Well, I'm on.
+MRK/MRK0008280
+Everyone....thank you for waiting!
+RAK/RAK0027510
+Tachibana....good luck.
+RAK/RAK0027520
+Hello!? Yes....you want to[nl]perform with Marika Tachibana?
+RAK/RAK0027530
+I'm sorry.[nl]Her schedule is booked solid for the next 6 months.
+RAK/RAK0027540
+Yes....yes....thank you.[nl]Thank you again.
+MRK/MRK0008290
+Fwah.....I'm back.
+RAK/RAK0027550
+Oh, welcome back. I'm answering the[nl]phone right now, so sit down and have a rest.
+MRK/MRK0008300
+Hahh....I can't remember the last time[nl]we had a proper conversation, Raku dearest.
+MRK/MRK0008310
+I've cancelled the rest of today's work already....
+HND/HND0000550
+Unfortunately, you must leave[nl]immediately for the next venue.
+MRK/MRK0008320
+Uuugh.....already?[nl]I haven't even been back for one minute.
+MRK/MRK0008330
+If I keep working this hard,[nl]I may just collapse again....
+RAK/RAK0027560
+Yes, okay![nl]Excuse me, yes!
+HND/HND0000560
+Rest assured, mistress, that we are[nl]monitoring your health even more closely now.
+HND/HND0000570
+I don't want another scare like we had at the election.
+MRK/MRK0008340
+Honda....is it possible you are still angry with me?
+RAK/RAK0027570
+It's only natural.
+RAK/RAK0027580
+You ignored her warnings,[nl]went on stage, and collapsed....
+HND/HND0000580
+Yes. You got what you deserved.
+MRK/MRK0008350
+Hahh....[nl]I didn't end up winning top idol,[nl]and now Honda is angry with me.
+RAK/RAK0027590
+On top of that, your collapse went viral,[nl]and now you're working three times as hard as before.
+MRK/MRK0008360
+I only ever have a chance to talk to my darling Raku[nl]at work, and I feel further away from him than ever....
+MRK/MRK0008370
+Raku dearest![nl]Even though we don't have time to talk,[nl]at least let me give you a hug~!
+RAK/RAK0027600
+Wha!? Hey, don't hug me! Get off me!
+MRK/MRK0008380
+Hahh~....[nl]Raku dearest, you're so warm. I'm so happy....
+MRK/MRK0008390
+Please watch me, Raku dearest.[nl]I'm sure I will become top idol in the next election!
+RAK/RAK0027610
+Okay. That's why I'm supporting you.[nl]Let's do our best together, then.
+MRK/MRK0008400
+Okay!
+RAK/RAK0027620
+....Hey, by the way,[nl]why do you want to become top idol so badly?
+MRK/MRK0008410
+Uhh....well....
+MRK/MRK0008420
+W-Why was it?
+RAK/RAK0027630
+I feel like I missed something important....
+HND/HND0000590
+With all due respect, Mr. Ichijo,[nl]you should be trying to remember what's next on the docket.
+RAK/RAK0027640
+Oh, oh no! We're going to be late!
+RAK/RAK0027650
+Let's go to the next venue, Tachibana!
+MRK/MRK0008430
+I'll follow you anywhere, Raku dearest. ★
+RAK/RAK0027660
+Ahh, well, maybe you could stand[nl]a little further away from me for now.
+MRK/MRK0008440
+Aaah, Raku dearest,[nl]you just don't have any energy anymore~!
+RAK/RAK0027670
+Aghhh, we're too busy right now....!
+RAK/RAK0027680
+I'm so busy, I can barely think.[nl]Today's just work, work, work!
+MRK/MRK0008450
+Fwahh....Raku dearest,[nl]you've really gotten into the role of manager.
+MRK/MRK0008460
+I didn't exactly mean for this to happen....[nl]but I guess it's okay.
+MRK/MRK0008470
+To have my darling Raku all to myself in any way,[nl]it makes me very happy.
+MRK/MRK0008480
+Raku dearest, I hope you stay with me for a long time.
+@ＴＨＥＥＮＤ
+@イベント終了処理
+common.asb

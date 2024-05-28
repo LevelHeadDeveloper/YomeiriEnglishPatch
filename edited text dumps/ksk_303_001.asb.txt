@@ -1,0 +1,159 @@
+__main
+@Lclearscreenall
+@ksk_303
+@イベント開始処理
+RAK/RAK0051200
+Alright, I'm gonna head to the supermarket for a bit.
+RYU/RYU0001290
+Oh, young master![nl]If ya have some shopping to do, I'll go.
+RAK/RAK0051210
+No, I'm going so that I can look at the various[nl]ingredients and try to decide what I need to buy.[nl]You stay here and watch the house.
+RYU/RYU0001300
+Ohhh, yer truly da best, young master![nl]I'm ready to support ya always,[nl]no matter what happens!
+RAK/RAK0051220
+Right, right. Well, I'm off, then.
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+OTM/OTM0005670
+Raku, Raku, Rakuuuu!
+RAK/RAK0051230
+You're trying to leave without permission again....
+@expose
+OTM/OTM0005680
+Thou art going shopping, correct?[nl]Can I go with thee? Lemme come with thee![nl]I mean, I shall come with thee!
+RAK/RAK0051240
+Have you forgotten the rules for living with me?[nl]I told you so many times not to go out in public.
+OTM/OTM0005690
+Worry not. If someone is about to see me, I shall disappear.
+OTM/OTM0005700
+Besides, even if I am seen,[nl]they shalt not know who I am. They shall merely[nl]think that thou art a bit of a fool.
+RAK/RAK0051250
+That's a huge problem!
+RAK/RAK0051260
+....Jeez. I won't buy you any snacks, you know.[nl]Don't go being whiny, okay?
+OTM/OTM0005710
+Hmph. Treat me not as a child.[nl]But I did notice a lack of fried tofu for inari sushi[nl]in the fridge. And that is something I refuse to give up!
+RAK/RAK0051270
+Right, right. Understood.
+RAK/RAK0051280
+Alright. We've got all the ingredients we need for dinner.[nl]All that's left is to get Otama's fried tofu.
+OTM/OTM0005720
+Oh, yes! Hehehe, I am glad.
+RAK/RAK0051290
+Ah, there it is![nl]Oh, it's the only one left.
+KSK/KSK0015760
+Huh? Ichijo?
+RAK/RAK0051300
+Huh!? Onodera!?
+RAK/RAK0051310
+Hey, Otama! Disappear!
+OTM/OTM0005730
+Mmmgh, I guess it cannot be helped....
+KSK/KSK0015770
+....What? Seemed like there was a girl here just now....
+RAK/RAK0051320
+R-Right? It was probably just your imagination.
+KSK/KSK0015780
+Hmmm? Is that right?
+KSK/KSK0015790
+Oh, Ichijo. Were you here to buy fried tofu, by any chance?
+RAK/RAK0051330
+Yeah. You too?
+KSK/KSK0015800
+Yes. But there's only one of these left....
+RAK/RAK0051340
+No, I'm fine. You can have it, Onodera.
+@ザクシャ小咲・小
+KSK/KSK0015810
+Huh!? But that might inconvenience....
+OTM/OTM0005740
+That it would![nl]That is my tofu!!
+KSK/KSK0015820
+Huh!? Who said that!?
+RAK/RAK0051350
+Hey, hey, calm down![nl]Why don't we just stop by another store!?
+OTM/OTM0005750
+Rrrrgh.....!
+KSK/KSK0015830
+You should just buy this one, Ichijo.[nl]I'll stop by the store near my house.
+RAK/RAK0051360
+No, it's fine! Really, I can just[nl]go to another store.
+KSK/KSK0015840
+Hehehe, there's no end to this.[nl]It's fine. I'll just go to the nearest store.
+KSK/KSK0015850
+Well, I'll be going now, okay?
+RAK/RAK0051370
+O-Okay! See ya, Onodera.
+KSK/KSK0015860
+See you later, Ichijo.
+RAK/RAK0051380
+Jeez. She ended up letting me take this after all.
+OTM/OTM0005760
+....A fine young lady.[nl]I liketh her.
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0051390
+Ahhh, I'm stuffed~.
+OTM/OTM0005770
+Ahhhh, what lovely fried tofu that was.
+RAK/RAK0051400
+It's all thanks to Onodera for letting us have the last one.[nl]Be sure to thank her, okay?
+OTM/OTM0005780
+Hohoho. I shall be on top of that.
+RAK/RAK0051410
+Huh? On top of it?[nl]What do you mean by--
+RAK/RAK0051420
+Hm? Who could it be at this hour?
+RAK/RAK0051430
+O-Onodera!?
+KSK/KSK0015870
+G-Good evening....
+RAK/RAK0051440
+What's the matter, why are you here so late!?
+KSK/KSK0015880
+Well, actually, we made too much dinner....
+KSK/KSK0015890
+So my....mother asked me to bring you[nl]this extra inari sushi.
+RAK/RAK0051450
+Inari sushi?[nl]O-Okay. Thanks.
+KSK/KSK0015900
+Ah. I didn't make this, okay?[nl]I did taste it and serve it....
+RAK/RAK0051460
+No, I don't really care about that.
+RAK/RAK0051470
+But as long as you're here,[nl]would you like a cup of tea?
+KSK/KSK0015910
+Thanks. I'd love to stay,[nl]but I'm going to Ruri's house after this.
+RAK/RAK0051480
+I see, that's just as well, then.
+KSK/KSK0015920
+Well....see you later, Ichijo.
+RAK/RAK0051490
+Yeah, take care.
+RAK/RAK0051500
+,....The hell was that, Otama?
+OTM/OTM0005790
+The hell was what?
+RAK/RAK0051510
+Don't play dumb with me.[nl]You set that up, didn't you?
+OTM/OTM0005800
+Mwehehe. 'Twas merely a coincidence.
+OTM/OTM0005810
+If thou doth not want that inari sushi, I shall eat it.[nl]Give it here.
+RAK/RAK0051520
+Oh, hey![nl]I'm gonna have some too!
+OTM/OTM0005820
+Nom nom nom..... Ohhh, this is delicious![nl]It has a different flavor from thy inari sushi!
+RAK/RAK0051530
+It sure is good. That extra sweetness is just perfect....
+OTM/OTM0005830
+Raku, take that girl as thy wife.
+RAK/RAK0051540
+Gahck! W-Why bring that up all of a sudden!?
+OTM/OTM0005840
+That way, I can eat her inari sushi and thine![nl]'Tis a good idea!
+RAK/RAK0051550
+(But Onodera's mother is the one who made these.)
+@イベント終了処理
+common.asb

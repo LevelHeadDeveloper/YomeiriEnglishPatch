@@ -1,0 +1,87 @@
+__main
+@Lclearscreenall
+@mrk_001_101
+@2ショット開始
+Cheer up Marika!
+@ＢＧＭ再生
+MRK/MRK0000880
+Please tell me.
+MRK/MRK0000890
+Raku dearest, what do you really think of me?
+@mrk_001_01_ans01
+@ザクシャ万里花・１
+MRK/MRK0000900
+I see....[nl]You don't dislike me, huh?
+@expose
+MRK/MRK0000910
+....Well, that means that you like me, doesn't it! ♪
+MRK/MRK0000920
+Well then, let's get married immediately!
+@mrk_001_103
+@mrk_001_01_ans02
+MRK/MRK0000930
+A friend, huh....
+MRK/MRK0000940
+I'm quite happy with that, too,[nl]but right now, I'm asking as a member of the opposite sex.
+MRK/MRK0000950
+So, please answer me again.
+MRK/MRK0000960
+Do you like me as a girl, or not?
+@mrk_001_102
+@mrk_001_01_ans03
+MRK/MRK0000970
+Usually....?
+MRK/MRK0000980
+....What didja mean by that?
+What did you mean?
+Didja?
+I like your dialect
+MRK/MRK0000990
+Er...excuse me.[nl]It would seem I accidentally just....
+MRK/MRK0001000
+But you didn't answer my[nl]question, did you?
+@expose
+MRK/MRK0001010
+Please answer properly,[nl]and don't just shrug it off this time.
+@ザクシャ万里花・１
+MRK/MRK0001020
+Ahem....[nl]There's no point in trying to deceive me.
+MRK/MRK0001030
+Raku dearest, please answer my question properly.
+@mrk_001_01_ans04
+MRK/MRK0001040
+Love....?
+MRK/MRK0001050
+Hah!! The part that comes next....is "r"!
+MRK/MRK0001060
+Which means you like me after all! ♪
+MRK/MRK0000920
+Well then, let's get married immediately!
+@mrk_001_103
+@mrk_001_01_ans05
+MRK/MRK0001070
+No comment, huh....
+MRK/MRK0001080
+That must mean you're too embarrased to just say[nl]"I love you". ♪
+@mrk_001_01_ans06
+MRK/MRK0001090
+Oh, my.[nl]That's a brutally honest comment, Raku dearest.
+MRK/MRK0001100
+But there's a really easy way to avoid all this hassle.
+MRK/MRK0001110
+....So, Raku dearest![nl]Let's get married immediately!
+@mrk_001_01_ans07
+MRK/MRK0001120
+Ehehe....[nl]I'm happy to hear you say that, Raku dearest!
+MRK/MRK0001130
+After all, who doesn't love a pretty girl?
+MRK/MRK0001140
+Well then, Raku dearest![nl]let's get married immediately!
+@mrk_001_01_ans08
+MRK/MRK0001150
+You're not answering....which must mean....
+MRK/MRK0001160
+You're too embarrased to just come out[nl]and say "I love you"!♪
+common.asb
+mrk_001_103.asb
+mrk_001_102.asb

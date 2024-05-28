@@ -1,0 +1,146 @@
+__main
+@Lclearscreenall
+@mrk_109
+@イベント開始処理
+RAK/RAK0076190
+Hm? What's with this crowd of people?
+RAK/RAK0076200
+Gah!?[nl]Why the hell are these two facing off!
+@ＢＧＭ再生
+CTG/CTG0022880
+Pardon me, Tachibana.[nl]I think you've been meddling too much with my darling these days.
+MRK/MRK0013110
+Oh, Kirisaki.[nl]I feel so sorry for Raku dearest, what with[nl]you always holding him back.
+MRK/MRK0013120
+I understand that Raku dearest is immensely attractive,[nl]but surely there must be other men worthy of your affections.
+@expose
+MRK/MRK0013130
+I've gathered some pictures of potential partners for you.[nl]Here.
+CTG/CTG0022890
+O-Ohh. So these looks like humans to you, Marika.[nl]To me, they kinda look like gorillas, don't they?
+MRK/MRK0013140
+That's because they *are* gorillas. ♪[nl]You'd have to be crazy to think those could be humans. ♪
+CTG/CTG0022900
+Hahaha! What a terrible joke.[nl]You're probably so hot for my darling that the heat melted your brain.
+MRK/MRK0013150
+Oh, is it that obvious how passionate Raku dearest and I are for each other?[nl]You can't hide true love, after all.
+RAK/RAK0076210
+(Aaaaaah! W-What is going on!?)
+RAK/RAK0076220
+(Why are they doing this in front of the classroom!?)
+RAK/RAK0076230
+(I'd better get outta here and hide on the rooftop[nl] or with the animals until this blows over!
+CTG/CTG0022910
+....What are you sneaking around for, Darling?
+RAK/RAK0076240
+Geh!?
+MRK/MRK0013160
+Raku dearest![nl]If you wanted to listen in, you should have told me.
+RAK/RAK0076250
+N-No....[nl]I was just trying not to get involved....
+MRK/MRK0013170
+She needs to hear it from you, Raku dearest.[nl]Tell her "we should break up".
+RAK/RAK0076260
+Did you not hear what I just said!?
+CTG/CTG0022920
+Why are you only talking to Marika!?[nl]Whose side are you on!?
+RAK/RAK0076270
+When did we start talking about sides!?
+CTG/CTG0022930
+Isn't it obvious!? She pushed me to the edge,[nl]and I can't exactly just stay quiet!
+MRK/MRK0013180
+Today, you're going to tell us clearly[nl]which of the two of us you prefer, Raku dearest!!
+RAK/RAK0076280
+Uh....
+RAK/RAK0076290
+Well.... Y-You're both very attractive,[nl]and I can't quite decide.... How's that?
+CTG/CTG0022940
+Do you really think that's an answer?
+MRK/MRK0013190
+We won't let you go until you answer.
+RAK/RAK0076300
+How is it you only get along during times like this!?
+CTG/CTG0022950
+Now, which of us do you like better!?
+MRK/MRK0013200
+Please tell us, Raku dearest!
+RAK/RAK0076310
+Uuuuuhhhh....[nl]What should I say.....
+Marika
+Chitoge
+I can't answer!
+@ＢＧＭ停止
+RAK/RAK0076315
+....T-Tachibana....
+MRK/MRK0013220
+F....
+@ザクシャ万里花・中
+MRK/MRK0013230
+Finallyyyy!!
+MRK/MRK0013240
+At last, my historic moment![nl]My EPIC WIN!
+CTG/CTG0022960
+N-No way....[nl]I can't believe I'd lose to Marika....
+RAK/RAK0076320
+(Sorry, Chitoge![nl] I'll make some excuses for you later,[nl] but I need you to resign quietly here!)
+MRK/MRK0013250
+Now we absolutely must throw a massive party[nl]for the entire school!
+MRK/MRK0013260
+I'm going to go announce everything over the school PA system!
+RAK/RAK0076330
+(D-Don't do thaaaat!)
+@ザクシャ千棘・中
+CTG/CTG0022970
+H-Hmph! Naturally.[nl]I am his boyfriend, after all.
+RAK/RAK0076340
+(Well, this should have better results, anyway.)
+CTG/CTG0022980
+But you should have answered faster.[nl]I feel like an idiot for getting so worked up....
+RAK/RAK0076350
+Huh? Were you nervous, by any chance?
+CTG/CTG0022990
+S-Shut up![nl]I'm your girlfriend, so it would have been embarrassing to lose!
+CTG/CTG0023000
+W-Well, of course I can't stand you!
+RAK/RAK0076360
+Aaagh, you idiot![nl]Don't say that here!
+CTG/CTG0023010
+Huh....?
+CTG/CTG0023020
+Uh, I-I was just kidding![nl]Of course I love you!
+RAK/RAK0076370
+Of course.[nl]We are lovers, after all. ♪
+MRK/MRK0013270
+....I don't approve.[nl]I don't approve of this!
+MRK/MRK0013280
+....I'm certain Raku dearest is suffering very much[nl]because he can't express his true feelings in front of his terrible girlfriend!
+MRK/MRK0013290
+I do not approve of this!
+@expose2
+RAK/RAK0076380
+Oh, where are you going, Tachibana!?
+CTG/CTG0023030
+You don't need to bother chasing her,[nl]she'll be back in the afternoon anyway.
+CTG/CTG0023035
+You don't need to bother chasing her,[nl]she'll be back tomorrow anyway.
+CTG/CTG0023040
+But....I guess it must be kind of sad when the person[nl]you love doesn't love you back, huh?
+CTG/CTG0023050
+....I've messed up a little, haven't I?
+....
+CTG/CTG0023060
+I'll be a little bit nicer to her when[nl]she gets back.
+RAK/RAK0076390
+I-I can't just make a decision like that so lightly![nl]Enough of this, both of you!
+CTG/CTG0023070
+Ngh! W-Why you...!
+MRK/MRK0013300
+Hehehe, you could have just thrown your embarrassment to the wind[nl]and said "I like Marika Tachibana".
+RAK/RAK0076400
+I just said I'm not saying anything![nl]I'm leaving now!
+CTG/CTG0023080
+Aah! Wait just a second!
+RAK/RAK0076410
+(This is the sort of thing you have to run away from!)
+@イベント終了処理
+common.asb

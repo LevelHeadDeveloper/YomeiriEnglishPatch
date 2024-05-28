@@ -1,0 +1,53 @@
+__main
+@Lclearscreenall
+@ksk_214
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0052380
+Next period is P.E.[nl]I'd better hurry up and change.....
+@背景変更
+KSK/KSK0016640
+G-Guess who!?
+RAK/RAK0052390
+Aaagh!
+KSK/KSK0016650
+RAK/RAK0052400
+....Who, of course, could that be besides---
+Chitoge?
+Onodera?
+Tachibana?
+Tsugumi?
+RAK/RAK0052460
+Chitoge, cut the nonsens--
+KSK/KSK0016680
+Uh.....
+RAK/RAK0052470
+Ghh! O-Onodera....!!
+RAK/RAK0052410
+O-Onodera?
+@ザクシャ小咲・大
+KSK/KSK0016660
+T-That's correct....
+RAK/RAK0052420
+(Phew....)
+RAK/RAK0052430
+I-I just didn't think you'd do that out of the blue.
+KSK/KSK0016670
+I lost a bet....[nl]so Ruri told me to do this....
+RAK/RAK0052440
+Ahhh, I see.
+RAK/RAK0052450
+(Good job, Miyamoto!)
+RAK/RAK0052480
+Tachibana, isn't it?[nl]This kind of prank is exactly your style!
+RAK/RAK0052490
+T-Tsugumi? I'll bet you're trying to attack from behind!
+@expose2
+KSK/KSK0016690
+S-Sorry for being so weird....
+RAK/RAK0052500
+S-Sorry....[nl]I was trying to think who it could be,[nl]and I made a mistake....
+RAK/RAK0052510
+(I can't believe I misheard Onodera's voice....[nl] I'm so stupiiiiiiiid!)
+@イベント終了処理
+common.asb

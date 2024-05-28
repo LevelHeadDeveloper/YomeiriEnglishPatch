@@ -1,0 +1,479 @@
+__main
+@Lclearscreenall
+@mrk_004
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0023340
+Hey, here's your food, Crusher Kato!
+RAK/RAK0023350
+H-t-t-t-t.....stop pecking me like that.[nl]I can't stand it.[nl]Ahahaha.
+MRK/MRK0003370
+Raku dearest?[nl]I hate to interrupt when you're having fun,[nl]but I think that chicken intends malice.
+RAK/RAK0023360
+Yeah.....I know.[nl]These guys don't like me much,[nl]and I know it.
+RAK/RAK0023370
+....Also, are you sure[nl]you're alright helping out with[nl]the animals today?
+RAK/RAK0023380
+Chitoge and Onodera couldn't make it,[nl]so it's a big help, but[nl]you did mention you weren't great with animals....
+MRK/MRK0003380
+It's alright. I helped out once before,[nl]and I don't get a chance like this often!
+RAK/RAK0023390
+Chance?
+@expose
+MRK/MRK0003390
+The golden chance to be alone with my darling Raku![nl]Why, I feel like dancing already!
+RAK/RAK0023400
+I-I see....
+MRK/MRK0003400
+Haha, are you blushing a little?[nl]You're conscious of it, too, then.
+RAK/RAK0023410
+S-Shut up! Let's just finish this quickly!
+@expose2
+MRK/MRK0003410
+Yes! Leave it to--
+NIW/NIW0000020
+Greeeeeeeeee...
+HAM/HAM0000020
+Squeak squeak squeak, squeak squeak!
+UGR/UGR0000010
+Grrrr, grrrr, grrrrr....
+MRK/MRK0003420
+Um....Raku dearest?[nl]Have these animals always all been[nl]this ferocious?
+RAK/RAK0023420
+Yeah. They seem a bit more[nl]fidgety since you're here today,[nl]but it's usually around the same.
+MRK/MRK0003430
+I-Is that so.
+TRT/TRT0000010
+Grrrrrrr!
+SNK/SNK0000080
+Hisssss...!
+MRK/MRK0003440
+T-They seem exceptionally belligerent....
+SDG/SDG0000010
+Woof woof, woof!
+MRK/MRK0003450
+Kyah!
+RAK/RAK0023430
+If you're scared, don't force yourself.
+MRK/MRK0003460
+....P-Please don't underestimate me.
+MRK/MRK0003470
+These animals are like family to you, Raku dearest....![nl]In which case, I must cherish them as my own family....
+MRK/MRK0003480
+And you mustn't have a reason to fear your own family!
+MRK/MRK0003490
+Well then, everyone![nl]Prepare to be pampered!
+IGN/IGN0000020
+Reeeee!!
+MRK/MRK0003500
+Ha, ha, ha....[nl]You're all so energetic,[nl]I'm g-g-g-glad.
+RAK/RAK0023440
+(Tachibana....her mouth is twitching[nl] and her legs are shaking.)
+@時間経過演出
+MRK/MRK0003510
+Hahh, hahh, hahh....
+RAK/RAK0023450
+A-Are you okay?
+MRK/MRK0003520
+P-Phenonenal.....[nl]Well, Raku dearest, I'll go get some water for them!
+RAK/RAK0023460
+O-Okay. Thanks.
+RAK/RAK0023470
+While you're at it....[nl]You should take a break.
+MRK/MRK0003530
+Yeah....[nl]I-I think I might take you up on that for a bit....
+MRK/MRK0003540
+Well then....
+RAK/RAK0023480
+Jeez, she's excessive.
+OTM/OTM0001390
+Thou mustn't speak like that.[nl]She's a commendable young lady.
+RAK/RAK0023490
+Yeah, I guess she did save my butt today....
+RAK/RAK0023500
+Wait, Otama!?[nl]What're you doing here!?
+OTM/OTM0001400
+Mhm. In order that I may become a fine Senko,[nl]I hath decided that I must do something other than watch TV.
+RAK/RAK0023510
+Senko? What's that?
+OTM/OTM0001410
+Never thee mind. That's another story.
+OTM/OTM0001420
+My point is, it won't do to be in the house all day.[nl]I am here to study human behavior.[nl]Great, huh? Mwehehe.
+RAK/RAK0023520
+Just go home and lay low, I'm begging you....
+OTM/OTM0001430
+It'll be fine. I shan't bother anyone.
+SNK/SNK0000090
+Hiss! Hiss!
+OTM/OTM0001440
+Mhm. Thou art called Ta-kun?
+RAK/RAK0023530
+Huh? You can talk to animals?
+OTM/OTM0001450
+Of course I can. Dost thou keepeth thine[nl]without knowing what they are saying?
+RAK/RAK0023540
+Hey, that's amazing![nl]I guess you're a great goddess after all!
+RAK/RAK0023550
+Well then, can you ask the animals[nl]if they're happy with the care I'm providing,[nl]or if I could do anything better?
+RAK/RAK0023560
+....Ah, no! Never mind![nl]I'm too anxious now!
+OTM/OTM0001460
+Hmmm, chicken-hearted coward.
+OTM/OTM0001470
+Very well. For every question I asketh,[nl]thou owest me one piece of inari sushi.
+RAK/RAK0023570
+Bribery....
+RAK/RAK0023580
+Ah, whatever. I'm a little scared of what they'll say,[nl]but can you start by asking if they're satisfied with their life here?
+OTM/OTM0001480
+Verily.
+@ＢＧＭ停止
+OTM/OTM0001490
+Hiss, hiss!
+SNK/SNK0000100
+Hiss, hiss, hiss!
+......
+RAK/RAK0023590
+What'd he say?
+OTM/OTM0001500
+Hiss, hiss! Fshhisshiss, hiss!
+SNK/SNK0000110
+Hisss, hiss....
+OTM/OTM0001510
+Eeek!
+OTM/OTM0001520
+Hisshisshisss!　Hisshisshisssss--!
+SNK/SNK0000120
+Hiss hiss, hiss hiss.
+OTM/OTM0001530
+Hissshishhishhish!
+RAK/RAK0023600
+H-Hey. Why did it heat up just now?
+@expose
+OTM/OTM0001540
+He is calling me a child and mocking me!
+NIW/NIW0000030
+Kakakaka!
+@ＢＧＭ再生
+OTM/OTM0001550
+Thou too!?
+OTM/OTM0001560
+Insolent creatures.[nl]I must remind them of my power!
+RAK/RAK0023610
+Huh? Ah, hey![nl]Don't get too close, it's dangerous!
+OTM/OTM0001570
+I'm a fox goddess, I fear no mortal creatures![nl]Stay thither and behold my awesome ability!
+OTM/OTM0001580
+To arms, hiyahhh~~!!
+NIW/NIW0000040
+Krahhhh!
+@画面揺らし
+OTM/OTM0001590
+Ngyah!? W-What is this!? Stop pecking my ear!
+SNK/SNK0000130
+Hiss!
+OTM/OTM0001600
+Wahhh! Don't wrap thyself around my leg!
+OTM/OTM0001610
+Waah!? Hiyahhh!!
+RAK/RAK0023620
+Aagh....I warned you.
+OTM/OTM0001620
+Ughhhh....these creatures[nl]are making a fool out of me.
+OTM/OTM0001630
+Fools! Blockheads! Bird-brains!
+OTM/OTM0001640
+Waaaaaaaahhhhhhhhhh~~~!
+RAK/RAK0023630
+Whaaa!? W-What the hell!?
+OTM/OTM0001650
+Waaaaaaaaaaah~!
+RAK/RAK0023640
+Guhhh.....quiet, you![nl]You're making my head hurt like hell....
+SNK/SNK0000140
+Hisss!?
+NIW/NIW0000050
+Cluck-!?
+HAM/HAM0000030
+Squeak~!
+RAK/RAK0023650
+Ah!? H-Hey, you! Wait![nl]Get back in your cages!
+RAK/RAK0023660
+Why the hell were they even unlocked!?
+MNT/MNT0000010
+Grah rah rah!
+IBR/IBR0000010
+Grunt grunt grunt....
+WOW/WOW0000010
+Eeek eeek eeek eeek~!
+RAK/RAK0023670
+S-Stop!!
+RAK/RAK0023680
+(Aahh...this is bad.)
+OTM/OTM0001660
+...sniffle....huh?
+OTM/OTM0001670
+Hmm?
+OTM/OTM0001680
+Oh! They have all fled, it seems,[nl]in fear of my sheer godly might.
+OTM/OTM0001690
+Mwehehehe.....After all, I'm a great fox goddess!
+RAK/RAK0023690
+This isn't the time to be proud of yourself![nl]I need to get everyone back quickly, before all hell breaks loose!
+RAK/RAK0023700
+You help too, Otama!
+OTM/OTM0001700
+Oh, looks like my afternoon anime starts soon![nl]I'm going home.
+RAK/RAK0023710
+Wai--!
+OTM/OTM0001710
+Farewell, Raku.[nl]I looketh forward to tonight's supper.
+RAK/RAK0023720
+Otama~~!?
+RAK/RAK0023730
+(Crap....what a pain in the ass![nl] I'm going to put a hot pepper in your inari sushi!)
+RAK/RAK0023740
+But she really left me to deal with[nl]this on my own!?
+MRK/MRK0003550
+Raku dearest!
+RAK/RAK0023750
+Oh....Tachibana, good timing!
+MRK/MRK0003560
+Just now, I thought I heard the animals[nl]screaming in a rather unusual manner....
+MRK/MRK0003570
+Oh, this is bad![nl]All the cages are empty!
+RAK/RAK0023760
+Right! I'm sorry,[nl]but I'll need your help to round everyone up!
+MRK/MRK0003580
+Eh!? Y-You want me to round up these fierce animals!?
+RAK/RAK0023770
+Please! I'm counting on you!
+@expose2
+MRK/MRK0003590
+Acck~!
+RAK/RAK0023780
+You're my only hope!
+MRK/MRK0003600
+Aah, such a powerful gaze....![nl]I feel like your clear eyes are drawing me in....![nl]If you keep looking at me like that, I'll....!
+RAK/RAK0023790
+(I'm getting desperate....)
+MRK/MRK0003610
+Alright! I, Marika Tachibana,[nl]will do my very best to help you!
+RAK/RAK0023800
+Found you, Edelweiss Sakurako!
+HAM/HAM0000040
+Squeak!?
+RAK/RAK0023810
+Uuh...he bolted as soon as he saw me.[nl]I'm a little depressed.
+MRK/MRK0003620
+Raku dearest, let me get him!
+RAK/RAK0023820
+Careful. Edelweiss Sakurako can [nl]squeeze into all kinds of gaps....[nl]Approach slowly or he'll run away again.
+MRK/MRK0003630
+Heheheh....not even the smallest of gaps exists in our love!
+RAK/RAK0023830
+What the hell are you talking about!?
+@画面揺らし2
+MRK/MRK0003640
+....Now! Sakurako, hold still and let us get you!
+HAM/HAM0000050
+Squeesqueesqueek!?
+RAK/RAK0023840
+Oh! Nice!
+@時間経過演出
+WSA/WSA0000020
+Kyah~!? Why is there a chicken in the classroom!?
+RAK/RAK0023850
+Crusher Kato, calm down, it's me!
+NIW/NIW0000060
+Buckaw!
+RAK/RAK0023860
+Guh....he's too much of a fighter.
+MRK/MRK0003650
+I've got this!
+RAK/RAK0023870
+Thanks, Tachibana! Go ahead!
+MRK/MRK0003660
+If it's for you, dearest Raku, I'll do anything~!
+MRK/MRK0003670
+Here we~~~~~!
+NIW/NIW0000070
+Kaah~?
+RAK/RAK0023880
+Nice work, Onodera! Keep on catching them!
+MRK/MRK0003680
+Heheheh, do you see me in a new light?
+RAK/RAK0023890
+Yeah, absolutely![nl]Your special attack is unbeatable!
+MRK/MRK0003690
+Kyah~★,　Raku dearest praised me!
+MRK/MRK0003700
+So, how many animals are left?
+RAK/RAK0023900
+Just one. Look, she's behind that tree.
+MRK/MRK0003710
+Hmmmm.....I can't quite see her from here.
+MRK/MRK0003720
+No matter. I'll nab her in no time!
+RAK/RAK0023910
+Are you sure? I'm hardly one to talk,[nl]but she's a lot more trouble than all the others.
+MRK/MRK0003730
+Ehehe....no matter how tough the opponent,[nl]with your trust, I can conquer them.
+MRK/MRK0003740
+Well then, come on out, umm.....
+RAK/RAK0023920
+Margarita de Sato.
+MRK/MRK0003750
+Margarita! Come out where I can see ya!
+@背景変更
+AGT/AGT0000010
+Growwwwllll.....
+MRK/MRK0003760
+Huh....?
+AGT/AGT0000020
+Grahhhhhh!
+RAK/RAK0023930
+Please, Margarita de Sato![nl]Come back to your cage!
+MRK/MRK0003770
+.....R-Raku dearest?[nl]Just to confirm, who is this...?
+RAK/RAK0023940
+Why, that's our alligator, Margarita de Sato.[nl]Despite appearances, she's a pretty mild-mannered girl.
+MRK/MRK0003780
+Why is there an alligator in the school menagerie!?
+RAK/RAK0023950
+You can't just leave a poor, abandoned alligator!
+MRK/MRK0003790
+In what kind of situation would someone[nl]abandon an alligator....
+AGT/AGT0000030
+Ryaggggggggghhhhh!
+MRK/MRK0003800
+Eeek!
+RAK/RAK0023960
+No good, she's totally pissed off now.[nl]If we get too close, she might try to eat us.
+MRK/MRK0003810
+B-But, we can't just leave her out like this....
+MRK/MRK0003820
+Does she have some kind of weak point that you know of?
+RAK/RAK0023970
+Margarita's weakness, huh....[nl]That would be....
+Her back!
+Onodera!
+RAK/RAK0023980
+Give her a back rub,[nl]and she'll calm right down!
+@ザクシャ万里花・小
+MRK/MRK0003830
+O-Okay! With your brains and my courage,[nl]we can totally fix this!
+MRK/MRK0003840
+I think, if it's for you, Raku dearest....[nl]This crocodile's not so scary!
+MRK/MRK0003850
+So get ready, Margarita!
+RAK/RAK0023990
+She's really attached to Onodera![nl]If we give her a call,[nl]she might be able to help!
+MRK/MRK0003860
+Hmm....it doesn't make much sense[nl]for you to rely on Onodera in this situation,[nl]Raku dearest.
+RAK/RAK0024000
+Huh? What do you mean?
+MRK/MRK0003870
+Uegh, you're so insensitive. Forget it.
+MRK/MRK0003880
+Even without Onodera's help,[nl]I can catch Margarita, I'm sure!
+MRK/MRK0003890
+Hiyahhhh~~!
+RAK/RAK0024010
+Aah, wait! Don't just rush in!
+AGT/AGT0000040
+Greeeeee!
+MRK/MRK0003900
+Kyah~! I can't do it!
+MRK/MRK0003910
+Come here~!
+RAK/RAK0024020
+Oh no! At this rate, she'll....
+RAK/RAK0024030
+(Guh, what to do....)
+Help Tachibana
+Let her handle it
+RAK/RAK0024040
+Tachibana, don't pull that kind of thing alone![nl]I've got your back.
+MRK/MRK0003920
+O-Okay!
+RAK/RAK0024050
+Let's go! One, two.....
+MRK/MRK0003930
+Get over here, you!
+RAK/RAK0024060
+(Tachibana....[nl] Your sacrifice will not be in vain....)
+RAK/RAK0024070
+....Wait, I can't do that!
+MRK/MRK0003940
+Raku dearest, help mee~!
+RAK/RAK0024080
+I'm coming, Tachibana!
+AGT/AGT0000050
+Grrrrr!
+RAK/RAK0024090
+Huh? Wai-....Margarita?[nl]Why are you opening your mouth?
+AGT/AGT0000060
+Grrrreeeeeee!
+RAK/RAK0024100
+Gyahhhhhh~~~~!
+RAK/RAK0024110
+Fuuu....right at the end there,[nl]I thought I was gonna die....
+MRK/MRK0003950
+Yeah.....it's a wonder we're still alive.
+MRK/MRK0003960
+But at least everyone's back[nl]in their cages, right?
+RAK/RAK0024120
+Yeah, you've been a big help, Tachibana.[nl]I'm glad you were here.
+MRK/MRK0003970
+Well....I'd do anything to make[nl]my Raku dearest hapy, y'know?
+MRK/MRK0003980
+If possible, I'd try to avoid[nl]something like today, though....
+RAK/RAK0024130
+Yeah, I'm really sorry.
+MRK/MRK0003990
+Haha. Please don't apologize.[nl]I'm always happy to be of service to you.
+RAK/RAK0024140
+You're right....I should probably[nl]thank you instead of apologizing.[nl]Thank you, Tachibana.
+MRK/MRK0004000
+Of course, you're welcome.
+RAK/RAK0024150
+Well, since we're done with the animals for the day,[nl]let's head home. I'm pooped.
+MRK/MRK0004010
+Yeah....huh?
+RAK/RAK0024160
+Hm, what is it?[nl]You suddenly sat down.
+MRK/MRK0004020
+I think I just didn't have[nl]enough energy to keep standing.
+RAK/RAK0024170
+Hey, hey....are you alright?
+MRK/MRK0004030
+Mmmgh....it can't be helped.[nl]Even though I really wanted to walk home with you....
+MRK/MRK0004040
+Honda.
+HND/HND0000060
+Yes?
+RAK/RAK0024180
+W-Where'd you come from!?
+MRK/MRK0004050
+Please get the car.
+HND/HND0000070
+Yes, ma'am. I will drive it around here.[nl]Please wait a moment.
+RAK/RAK0024190
+She can just show up wherever, huh.
+MRK/MRK0004060
+Yeah, I guess so.
+MRK/MRK0004070
+Anytime....anywhere....
+RAK/RAK0024200
+Hm?
+MRK/MRK0004080
+....It looks like it will be a while[nl]before Honda gets back.
+MRK/MRK0004090
+Raku dearest....[nl]Can we talk for a few minutes?[nl]We couldn't earlier for some reason.
+RAK/RAK0024210
+Yeah, I don't mind.[nl]I appreciate the help.
+@mrk_004_101
+common.asb
+mrk_004_101.asb

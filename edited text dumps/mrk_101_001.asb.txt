@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@mrk_101
+@イベント開始処理
+@ＢＧＭ再生
+WSB/WSB0000210
+Tachibana? Class is over. Tachibanaaaa?
+MRK/MRK0011990
+Mmmm, Mghnghghh....
+RAK/RAK0074740
+She's just not waking up.[nl]Really got on the teachers' nerves....
+MRK/MRK0012000
+Ra....est.
+RAK/RAK0074750
+Hm? Are you sleep-talking?
+MRK/MRK0012010
+Hehehe....[nl]Those aren't fooood.....
+RAK/RAK0074760
+Hahaha.... She's dreaming about food.[nl]She looks so happy when she's asleep.
+Wake her up
+Watch over her for a bit
+RAK/RAK0074770
+Well, I feel bad about this,[nl]but I gotta wake her up.
+@背景変更
+RAK/RAK0074780
+Hey, Tachibana. Tachibana?
+MRK/MRK0012020
+Hmmmm...? Hmmm?
+MRK/MRK0012030
+....Rakky?
+MRK/MRK0012040
+If it ain't Rakky....
+RAK/RAK0074790
+Hey, Tachibana, you're using your dialect.[nl]Wake uuup.
+MRK/MRK0012050
+We finally meet....[nl]Zzzz.....
+@ザクシャ万里花・小
+RAK/RAK0074800
+Hey, hey, don't fall asleep leaning on me!
+RAK/RAK0074810
+Wait, you're just pretending to be asleep, aren't you!
+MRK/MRK0012060
+Hahahaaa.... I love you so much, Raku dearest.... ★
+RAK/RAK0074820
+This is pretty entertaining, so I'm gonna listen for a while longer.
+CTG/CTG0022710
+What's this? You look like you're having fun.
+RAK/RAK0074830
+Oh, Chitoge. She's sleep-talking, and I'm waiting to see what she's[nl]gonna say next because it's entertaining. Wanna stay and listen?
+CTG/CTG0022720
+Hmmmm....?
+MRK/MRK0012070
+No, not at all.[nl]My.....aren't....
+@expose
+CTG/CTG0022730
+What kind of dream is she having?
+RAK/RAK0074840
+Well, just keep listening.
+MRK/MRK0012080
+I saaaid....
+MRK/MRK0012090
+My breasts aren't food....Raku dearest. ★
+RAK/RAK0074850
+Glbckth!
+.....
+RAK/RAK0074860
+H-Hey! What the hell are you saying!?
+MRK/MRK0012100
+But, since I love you so much, Raku dearest, I....[nl]I'll be brave....
+RAK/RAK0074870
+Hey! Wake up![nl]Stop talking in your sleeeeep!
+CTG/CTG0022740
+Hmmm....? So this is entertaining sleep-talking?[nl]Do you find this funny?
+RAK/RAK0074880
+N-Not at all! That's not what I....
+CTG/CTG0022750
+What the hell are you making me listen to,[nl]you perverted bean sprout!?
+@ＨＰ－２５
+RAK/RAK0074890
+Gaaackh!
+CTG/CTG0022760
+Hmph! I'm sorry I listened!
+RAK/RAK0074900
+I don't even get a millisecond to speak up for myself....
+RAK/RAK0074910
+Wait, Tachibana.[nl]You're....actually awake.
+@イベント終了処理
+common.asb

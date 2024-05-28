@@ -1,0 +1,89 @@
+__main
+@Lclearscreenall
+@mrk_103
+@イベント開始処理
+MRK/MRK0012270
+RA・KU・DEAR・EEEESSTT!!!
+@ＢＧＭ再生
+RAK/RAK0075110
+W-Where'd you come from!?
+@expose2
+MRK/MRK0012280
+Well, that's a terrible thing to ask.[nl]I came running because I wanted to see my beloved Raku.
+RAK/RAK0075120
+No, we've got P.E. next, right?[nl]I don't have time for this, we gotta get to the schoolyard[nl]as soon as we can....
+@expose
+MRK/MRK0012290
+Yes, we do. And that's why!
+RAK/RAK0075130
+Huh?
+MRK/MRK0012300
+There are those in this world who are[nl]into gym uniforms, right? I thought you might be[nl]one of those people, Raku dearest.
+MRK/MRK0012310
+Come on, Raku dearest![nl]Make sure to get a good eyeful!
+RAK/RAK0075140
+Gym clothes....[nl]I don't think those people generally mean jerseys.[nl]Actually, don't talk about them like they're perverts.
+@expose
+MRK/MRK0012320
+Come on, Raku dearest. There's no need to be bashful.
+MRK/MRK0012330
+Well, Raku dearest?[nl]Will you tell me what about me appeals the most to you?
+RAK/RAK0075150
+Aaagh, jeez![nl]Alright, just get away from me!
+RAK/RAK0075160
+(....I'd better answer her quickly,[nl] or I'll leave her hanging.)
+@タッチパート開始処理
+RAK/RAK0075180
+I think you're seriously beautiful.
+MRK/MRK0012350
+Oh, my! Are you saying I am your preferred type!?
+@ザクシャ万里花・小
+RAK/RAK0075190
+....Your breasts or someth--
+RAK/RAK0075200
+Wait, what am I saying!?
+@ザクシャ万里花・中
+MRK/MRK0012360
+Oh, my! There's no need to be shy.[nl]It's natural for gentlemen to take an interest in breasts.
+MRK/MRK0012370
+Besides, I'm fairly confident in myself, if you catch my drift.[nl]Hehehe.
+MRK/MRK0012380
+Y-Your arms?
+MRK/MRK0012390
+I must say, you have niche tastes....[nl]Do you prefer sleeveless outfits, then?
+RAK/RAK0075210
+I see this a lot with Chitoge and Tsugumi,[nl]but I gotta say you're very fit.
+RAK/RAK0075220
+How do you keep your figure when[nl]you don't do nearly the level of exercise they do?
+MRK/MRK0012400
+Hehehe, that's a secret. ★
+RAK/RAK0075230
+Oop, we gotta get to the schoolyard![nl]Everyone else has already gone ahead of us.
+MRK/MRK0012410
+Mghhh.....[nl]It doesn't feel like you've complimented me very earnestly,[nl]Raku dearest.
+MRK/MRK0012420
+C-Could it be....[nl]You wanted to see more of what's underneath!?
+RAK/RAK0075240
+Waagh!? What are you doing with your jersey!?[nl]Hey! Don't do that here!
+MRK/MRK0012430
+I won't stop until you call me cute,[nl]or say I make your heart race,[nl]or that you like me, or that you'll marry me! 
+RAK/RAK0075250
+That last one isn't even a compliment!
+RAK/RAK0075260
+Oh, no!
+MRK/MRK0012440
+Hehe. If we're late together,[nl]I'm sure everyone will be suspicious.
+RAK/RAK0075270
+Then this is my last day alive.[nl]I'm sure Chitoge and Tsugumi and the rest of the class[nl]are gonna beat me to death....
+MRK/MRK0012450
+I'll make sure to have Honda call the riot police[nl]when that happens, so don't worry.
+RAK/RAK0075280
+That would just make it worse, don't do that....
+MRK/MRK0012460
+It's no use....[nl]I guess my darling Raku doesn't like gym clothes much.
+MRK/MRK0012470
+I suppose there's no reason to[nl]restrict this to just school outfits,[nl]so I could bring in a nurse outfit or a police outfit or....
+RAK/RAK0075290
+Arrrrgh, no way![nl]Any more and I'll really get mad, let's just get going!
+@イベント終了処理
+common.asb

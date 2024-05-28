@@ -1,0 +1,91 @@
+__main
+@Lclearscreenall
+@ksk_301
+@イベント開始処理
+@ＢＧＭ再生
+KSM/KSM0000070
+Alllright, that's it for today!
+KSM/KSM0000080
+Ichijo, thank you.[nl]I'm so glad you came to help us again.
+RAK/RAK0050860
+No, not at all.[nl]Feel free to call me anytime!
+KSM/KSM0000090
+Honestly, you're so reliable, Ichijo.[nl]Right, Kosaki?
+KSK/KSK0015530
+Yeah! Thanks for your help today.
+KSM/KSM0000100
+....Oh, that's right! It's getting late,[nl]so why don't you have dinner here.
+RAK/RAK0050870
+Huh....? I-Is that okay?
+KSM/KSM0000110
+Right now, it's just me and Kosaki.[nl]You don't have to be shy, alright?
+KSM/KSM0000120
+Hey, you're alright with it too, right, Kosaki?
+KSK/KSK0015540
+Uh....yes, of course![nl]
+@expose
+KSK/KSK0015550
+Uh....but Ichijo, are you sure you wouldn't[nl]have to cook dinner for your family?
+RAK/RAK0050880
+Yeah, I knew I'd be here a bit late,[nl]so I asked the guys at home to do it.
+KSK/KSK0015560
+Well, it's fine then. Right?[nl]Then let's have dinner together.
+RAK/RAK0050890
+Y-Yeah....! I'd be happy to!
+KSM/KSM0000130
+Alright, Kosaki, I'm going to cook dinner,[nl]so can you keep Ichijo company until it's ready?
+RAK/RAK0050900
+Oh, do you want me to help?
+KSM/KSM0000140
+My, you are quite the considerate young man!
+KSM/KSM0000150
+But I'm fine. You were a very big help today,[nl]so just head to Kosaki's room and make yourself at home.
+KSK/KSK0015570
+....Ummm. Well, let's go to my room.
+@時間経過演出
+RAK/RAK0050920
+(Woww....I never thought I'd end up[nl] in Onodera's room again!)
+RAK/RAK0050970
+......!
+KSK/KSK0015600
+Ichijo, I brought you something to drink.
+RAK/RAK0050980
+O-Okay! Thank you!
+KSK/KSK0015610
+Oh....and here, take this too.[nl]I know it's not great to give you this before we eat,[nl]but it's one of my favorites out of our products.
+KSK/KSK0015620
+If you'd like, why don't you take it home with you and try it?[nl]I'm sure it will be delicious!
+RAK/RAK0051000
+Thanks. I'm so happy!
+KSK/KSK0015630
+Hehehe. I'm glad you like it!
+@フェードアウト
+@背景変更
+RAK/RAK0051010
+Thanks for having me.[nl]The food was great.
+KSM/KSM0000160
+I'm glad it was to your taste.
+@expose
+KSK/KSK0015640
+Ichijo, shouldn't you be getting home?
+RAK/RAK0051020
+Yeah, it's getting late.
+KSK/KSK0015650
+I see.
+KSM/KSM0000170
+Come on back and help us anytime.[nl]You're always welcome.
+RAK/RAK0051030
+Yes, I'd be happy to.
+KSM/KSM0000180
+Ain't that right, Kosaki?
+@expose2
+KSK/KSK0015660
+Jeez, I can't believe you, mom....
+RAK/RAK0051040
+Well then, thanks again![nl]I'll see you at school, Onodera.
+KSK/KSK0015670
+Yes. Have a good night, Ichijo.
+RAK/RAK0051050
+(Mmmm, what a fun day!)
+@イベント終了処理
+common.asb

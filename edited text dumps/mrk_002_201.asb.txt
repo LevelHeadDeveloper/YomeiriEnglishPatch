@@ -1,0 +1,166 @@
+__main
+@Lclearscreenall
+@mrk_002_201
+@2ショット成功
+@2ショット失敗
+@mrk_002_201_001
+RAK/RAK0022320
+Wa- Hold on a sec![nl]Calm down, Tachibana!
+MRK/MRK0002120
+Please don't try to stop me![nl]A dish that isn't to your taste, Raku dearest,[nl]isn't worth anything!
+RAK/RAK0022330
+Hey, no![nl]Don't waste your food!
+MRK/MRK0002130
+Kyah!
+RAK/RAK0022340
+Okay, let me try some of it.
+MRK/MRK0002140
+Ehh....but, Raku dearest, you don't like it...?
+RAK/RAK0022350
+That's fine![nl]You went to the trouble of making it, didn't you?
+@expose
+MRK/MRK0002150
+----
+MRK/MRK0002160
+Here, then....say "ah".
+RAK/RAK0022360
+Huh?
+@mrk_002_201_002
+@ＢＧＭ再生
+RAK/RAK0022370
+I-It's fine, Tachibana. I can eat it myself-
+MRK/MRK0002170
+"Ah".★
+RAK/RAK0022380
+Uh....
+RAK/RAK0022390
+A-Ah...
+RAK/RAK0022400
+Nom....nom nom.....
+RAK/RAK0022410
+....Mm?
+MRK/MRK0002180
+How is it, Raku dearest?
+RAK/RAK0022420
+Delicious!
+MRK/MRK0002190
+Wow, really?
+RAK/RAK0022430
+Yeah. It's cooked to perfection,[nl]and the seasoning is just right![nl]Gotta admit, I'm surprised!
+RAK/RAK0022440
+You put serious effort into this.[nl]You'd make a great wife, y'know?
+MRK/MRK0002200
+Hehe....If you want,[nl]we could get married right now.
+RAK/RAK0022450
+Huh!?[nl]No, I didn't mean *my* wife....
+MRK/MRK0002210
+If you marry me,[nl]I can make whatever you want, every day.
+MRK/MRK0002220
+Now say it![nl]Say "I want to eat your miso soup every day"!
+RAK/RAK0022460
+Too close! Your face is too close!
+MRK/MRK0002230
+Not close enough for me.★
+RAK/RAK0022470
+(----Eh!?[nl] This can't be good....[nl] Chitoge and Onodera are here now!)
+CTG/CTG0009330
+....Darling?
+@expose
+RAK/RAK0022480
+Eek!? W-What is it?
+CTG/CTG0009340
+Why are you so jumpy?[nl]Here, my food is ready.
+CTG/CTG0009350
+You ate Marika's, so you'll eat mine, right?
+RAK/RAK0022490
+What the hell is this!?[nl]It looks like curry, but it's moving!
+CTG/CTG0009360
+Haha, isn't it great?[nl]I used fresh ingredients.
+RAK/RAK0022500
+(N-No....[nl] There has to be something fundamentally[nl] wrong with this girl.)
+KSK/KSK0007410
+Um....Ichijo.[nl]I did my very best with mine,[nl]so, if you like, would you try it?
+RAK/RAK0022510
+Ngh....[nl]Onodera, you're done too, huh?[nl]....As always, the finishing touches are perfect.
+KSK/KSK0007420
+Ehehe....Ruri helped me out a[nl]little this time, so it should taste okay.
+RAK/RAK0022520
+That's right, where's Miyamoto and[nl]Tsugumi and the others?
+@ＢＧＭ停止
+CTG/CTG0009370
+Ahh, ummm....[nl]Those two are over there, with everyone else....[nl]like that?
+@背景変更
+@ＢＧＭ再生
+RAK/RAK0022530
+Whaaaaaa!?
+MRK/MRK0002240
+Oh, my.....this looks bad.
+RAK/RAK0022540
+Are you guys okay---!?
+RYU/RYU0000580
+S-Sorry, young master....[nl]As a judge....I ate the young ladies'[nl]cookin' first, and....
+RAK/RAK0022550
+That was reckless....!
+CTG/CTG0009380
+Tsugumi and the rest all took a few bites of mine,[nl]but then they fell down for some reason....
+KSK/KSK0007430
+Mine too....[nl]Was it really that bad....
+MRK/MRK0002250
+Truly a hellscape indeed.
+CTG/CTG0009390
+But it's all good, Raku![nl]We kept improving our dishes even after Tsugumi[nl]fell over! Their sacrifices shall not be in vain!
+RAK/RAK0022560
+There shouldn't even be sacrifices[nl]when you're cooking.
+KSK/KSK0007440
+So you won't eat it, after all....?
+RAK/RAK0022570
+Uuh~~!
+RYU/RYU0000590
+Y-Young master....[nl]Gwahh! Ughhh.....
+RAK/RAK0022580
+Ryuu![nl]Are you sure you're well enough to stand up!?
+RYU/RYU0000600
+Young master....A man is always willin' to[nl]jump into danger for the woman he loves....
+@キャラ揺らし
+RYU/RYU0000610
+Gwaahh!?
+RAK/RAK0022590
+Ryuu!? Speak to me!
+RAK/RAK0022600
+(Gah.....[nl]I guess I have to eat their cooking.....)
+CTG/CTG0009400
+Raku....
+KSK/KSK0007450
+Ichijo....
+RAK/RAK0022610
+(Guuuh![nl] Don't look at me like that!)
+MRK/MRK0002260
+Raku dearest. I know you feel bad for them,[nl]but....it would be best not to force yourself.
+RAK/RAK0022620
+No! I'm a man![nl]I can't just back down here!
+RAK/RAK0022630
+Give it here, Chitoge, Onodera!
+@画面揺らし2
+RAK/RAK0022640
+Hwaaaaaghhhhhh!
+RAK/RAK0022650
+Oh....
+.......
+RAK/RAK0022660
+Nyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[nl]aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[nl]aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaagh!
+@pan
+@フェードアウト
+CTG/CTG0009410
+Hey, Raku! Are you alright? Raku!
+KSK/KSK0007460
+Wake up, Ichijo!
+MRK/MRK0002270
+It's just like you, Raku dearest.[nl]You're so kind to any girl.
+MRK/MRK0002280
+Whatever shall I do....[nl]I keep falling further in love with Raku dearest.
+CTG/CTG0009420
+Stop being so carefree[nl]and help us wake up Raku!
+KSK/KSK0007470
+Ichijo, speak to meee~~~~~!
+@イベント終了処理
+common.asb

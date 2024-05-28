@@ -1,0 +1,54 @@
+__main
+@Lclearscreenall
+@mrk_005_101
+@2ショット開始
+Satisfy Marika?
+@ＢＧＭ再生
+@expose
+MRK/MRK0005710
+Did you know?
+MRK/MRK0005720
+This aquarium has a legend regarding couples....
+MRK/MRK0005730
+Raku dearest. Do you know what[nl]happens to the couples?
+What's the legend about?
+They find eternal happiness?
+They break up
+@ザクシャ万里花・１
+MRK/MRK0005740
+That's right. As expected of my darling Raku,[nl]you understand so well.
+MRK/MRK0005750
+The legend says that any couple that kisses here[nl]will find eternal happiness.
+MRK/MRK0005760
+In a kind of....girly way,[nl]I also have an interest in this kind of story.
+MRK/MRK0005770
+Of course, I wouldn't have any kind of interest[nl]if you weren't my partner.
+@mrk_005_102
+MRK/MRK0005780
+If that's what it's about,[nl]then it doesn't involve us.
+MRK/MRK0005790
+After all, there is no way Raku dearest and I[nl]would separate so easily.
+You won't separate?
+How can you say for sure?
+Since when are we dating?
+MRK/MRK0005800
+My feelings are always connected[nl]with you on a spiritual level.
+MRK/MRK0005810
+That's how I can say for sure.
+@ザクシャ万里花・１
+MRK/MRK0005820
+I've always felt like we were dating.
+MRK/MRK0005830
+Therefore, I'm not wrong.
+MRK/MRK0005840
+Haha. You agree, then!
+MRK/MRK0005850
+By the way....
+MRK/MRK0005860
+The correct answer is that any couple[nl]that kisses here will find eternal happiness.
+MRK/MRK0005870
+Well, legend or no legend,[nl]it's up to you to find your own happiness.
+MRK/MRK0005880
+Haha, don't you understand?
+common.asb
+mrk_005_102.asb

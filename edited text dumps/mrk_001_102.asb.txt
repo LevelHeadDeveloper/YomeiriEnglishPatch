@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@mrk_001_102
+@expose
+MRK/MRK0001170
+I'm going to ask you one more time.[nl]This time, please answer "Yes" or "No".
+MRK/MRK0001180
+Raku dearest, do you like me?
+Do you like Marika?
+Yes
+No
+@ザクシャ万里花・小
+MRK/MRK0001190
+Yes! Well, then, let's hurry up[nl]and just get married already!
+@mrk_001_103
+.....
+MRK/MRK0001200
+Ah, sorry.[nl]I think I heard you wrong just now.
+MRK/MRK0001210
+Could you say that once more, please?
+MRK/MRK0001220
+O-n-c-e  m-o-r-e!　One more time, okay?[nl]Please answer with a simple "Yes" or "No".
+common.asb
+mrk_001_103.asb

@@ -1,0 +1,107 @@
+__main
+@Lclearscreenall
+@mrk_105
+@イベント開始処理2
+@ＢＧＭ再生
+WSB/WSB0000220
+Hahahaha, and then....
+MRK/MRK0012580
+Oooh, was that what happened?Hehehe....
+SYU/SYU0013940
+Marika seems to be fitting right in with our class.
+RAK/RAK0075490
+I guess she is.[nl]She's even having a friendly conversation with the[nl]other girls right now.
+RAK/RAK0075500
+As for me, I'm glad she's getting along well[nl]with the other girls.
+SYU/SYU0013950
+Oho, what do you mean?
+RAK/RAK0075510
+It's easier on my mind because she doesn't hug me every time[nl]I walk in. And it's easier on my body, too, because[nl]Chitoge and Tsugumi don't chase me around afterwards.
+SYU/SYU0013960
+Hmmm. Sounds like you're having a hard time.
+SYU/SYU0013970
+But I'm incredibly curious what Marika and the other girls[nl]are talking about.
+RAK/RAK0075520
+(I'm definitely curious myself....)
+@expose
+SYU/SYU0013980
+Alright, let's listen in from here.[nl]Raku, you'd better keep quiet!
+RAK/RAK0075530
+This is just wrong, dude....
+SYU/SYU0013990
+Shhhh. It's fine, it's fine.
+MRK/MRK0012590
+....So I just can't help but think about my darling Raku,[nl]with his sharp eyes, and his reasonably comfortable[nl]embrace, and his....♪
+RAK/RAK0075540
+Glbctkh!
+RAK/RAK0075550
+W-What the hell is she talking about!?
+MRK/MRK0012600
+Besides, he's surprisingly forward.[nl]Just the other day, we had a sweet time at home,[nl]and he held me on his shoulders at the festival....
+WSA/WSA0000230
+Oooh....[nl]Ichijo's surprisingly scummy.
+WSB/WSB0000230
+If Kirisaki was here, we'd have had a real battlefield.[nl]Too bad.
+RAK/RAK0075560
+Gwaahhhh.... She's saying whatever she wants[nl]about stuff that never happened!
+Stop Marika
+Keep quiet
+RAK/RAK0075570
+Hey, Marika! Come here for a sec![nl]Stop saying all those weird things!
+MRK/MRK0012610
+Oh, my! I can't believe Raku dearest is calling for me!
+MRK/MRK0012620
+I shall jump to Raku dearest posthaste!
+RAK/RAK0075580
+Gaaaah! Don't actually jump on me!
+@叫び揺れ
+MRK/MRK0012630
+Ahh, I do so love your embrace.[nl]It's cozier than any pillow for a good night's rest....
+@ザクシャ万里花・中
+RAK/RAK0075590
+Cut it out! Everyone'll stare!
+MRK/MRK0012640
+S-So it'll be OK if no one's around to see us!?
+RAK/RAK0075600
+Will you calm down!?
+MRK/MRK0012650
+But I'm so glad you called for me, Raku dearest....[nl]I simply cannot control my racing heart!
+MRK/MRK0012660
+Oh, would you like to feel my heartbeat?[nl]Here, just put your hand here....
+RAK/RAK0075610
+Hey!? Let go of my hand!
+WSA/WSA0000240
+Ohh.... He's getting flirty with Marika again.
+WSB/WSB0000240
+Where's Kirisaki? Could we still have a battlefield!?
+RAK/RAK0075620
+(W-What!?[nl] I thought I was stepping in to make this better!?)
+SYU/SYU0014000
+Nyahahaha. So it's come to this after all.
+MRK/MRK0012670
+Come on, Raku dearest. Touch me some more!
+RAK/RAK0075630
+....Jeez, just shut up for God's sake.
+RAK/RAK0075640
+(Times like this, I think it's best[nl] to just stay quiet and let it go, maybe....)
+RAK/RAK0075650
+(Luckily, it doesn't look like Chitoge or anyone else is around,[nl] so I can just sneak away with no one the wiser....)
+CTG/CTG0022770
+Hey, darling....[nl]I can hear Marika talking from all the way down the hallway,[nl]what's all that about?
+RAK/RAK0075660
+Gah!? Y-You heard that!?
+CTG/CTG0022780
+Why are you so quiet, darling,[nl]when Marika's over here saying whatever she wants?
+CTG/CTG0022790
+Or maybe hearing those things makes you happy....
+RAK/RAK0075670
+N-Not at all![nl]This is kind of a complicated operation....
+CTG/CTG0022800
+Whatever, just go stop her![nl]You stupid bean sprout!!
+@ＨＰ－２０
+RAK/RAK0075680
+Glbtckh!
+RAK/RAK0075690
+Nghh.... Even though it's not my fault....[nl]That's just absurd....
+@イベント終了処理
+common.asb

@@ -1,0 +1,45 @@
+__main
+@Lclearscreenall
+@mrk_004_102
+@expose
+MRK/MRK0004560
+Speaking of which, I've been meaning to ask....
+MRK/MRK0004570
+Raku dearest, why don't the animals like you?
+@mrk_004_02_ans01
+MRK/MRK0004580
+Please don't say that so sadly
+MRK/MRK0004590
+Besides, Raku dearest, you're loved plenty.
+MRK/MRK0004600
+...By me.
+@mrk_004_103
+@mrk_004_02_ans02
+MRK/MRK0004610
+I-Is that so....
+MRK/MRK0004620
+I-I'm sorry.[nl]That was a strange thing to ask.
+@mrk_004_02_ans03
+@ザクシャ万里花・１
+@expose
+MRK/MRK0004630
+I really can't believe they[nl]don't like you, Raku dearest.
+@mrk_004_02_ans04
+MRK/MRK0004640
+Yes, I know that.
+MRK/MRK0004650
+Hahh.....
+MRK/MRK0004660
+I just wish you'd love me as[nl]much as you love the animals.
+@mrk_004_02_ans05
+MRK/MRK0004670
+Uegh....you look like you're about to cry....
+MRK/MRK0004680
+But there's no way the animals wouldn't be grateful[nl]to you for working so hard to care for them every day.
+MRK/MRK0004690
+There must be some[nl]other reason they don't like you.
+@mrk_004_02_ans06
+MRK/MRK0004700
+I'm sorry. I guess I shouldn't have asked....
+common.asb
+mrk_004_103.asb

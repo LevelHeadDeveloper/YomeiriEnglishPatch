@@ -1,0 +1,32 @@
+__main
+@Lclearscreenall
+@mrk_003_102
+She's stubborn....
+Don't overdo it
+Why go this far?
+I'll take your place!
+@ザクシャ万里花・１
+@expose
+MRK/MRK0002740
+I'm not overdoing it....!
+MRK/MRK0002750
+After all, you're here to cheer me on....
+MRK/MRK0002760
+If you would deny even this effort, I....[nl]I wouldn't be able to stand up for myself anymore.
+MRK/MRK0002770
+I have my own will.
+MRK/MRK0002780
+Even you can't stop me.
+MRK/MRK0002790
+W-What are you saying!?
+MRK/MRK0002800
+You can't. No matter how nice you look,[nl]you can't just come to the girls' side!
+MRK/MRK0002810
+Seems like you understand.
+MRK/MRK0002820
+Well then, Raku dearest, I'll be heading back.[nl]Please watch me...!
+@mrk_003_201
+@mrk_003_103
+common.asb
+mrk_003_201.asb
+mrk_003_103.asb

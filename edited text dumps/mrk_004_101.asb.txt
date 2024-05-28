@@ -1,0 +1,113 @@
+__main
+@Lclearscreenall
+@mrk_004_101
+@2ショット開始
+Talk with Marika
+@ＢＧＭ再生
+MRK/MRK0004100
+Hehe, what should we talk about?
+MRK/MRK0004110
+That's right~.
+MRK/MRK0004120
+Being able to just talk like this today,[nl]I'm very happy.
+MRK/MRK0004130
+Raku dearest, please say something.
+MRK/MRK0004140
+Ra~ku ~ dear~est!
+MRK/MRK0004150
+Ehehe, can we talk?
+MRK/MRK0004160
+Are you trying to think of what to say?
+MRK/MRK0004170
+Anything at all?
+MRK/MRK0004180
+If you could talk to me,[nl]it would make me very happy.
+@mrk_004_01_ans01
+@ザクシャ万里花・１
+@expose
+MRK/MRK0004190
+I'm all right....[nl]But I'm more worried about you.
+MRK/MRK0004200
+Look, there's a scratch on your cheek!
+She's reaching for your face....
+D-Don't come so close so suddenly!
+Don't touch me!
+MRK/MRK0004210
+There's nothing to be ashamed of.
+MRK/MRK0004220
+Hahaha.....Raku dearest,[nl]your skin is so smooth.
+@mrk_004_102
+MRK/MRK0004230
+Please don't say such boring things.
+@mrk_004_01_ans02
+MRK/MRK0004240
+....After today, I feel like I've gotten[nl]even worse at dealing with animals.
+MRK/MRK0004250
+But please don't worry.
+MRK/MRK0004260
+I will definitely get better[nl]before we get married, Raku dearest!
+Married!?
+We're not getting married
+That's quite the tale
+MRK/MRK0004270
+How can you say that for sure?
+MRK/MRK0004280
+I'm serious.
+MRK/MRK0004290
+It's already far too late.
+MRK/MRK0004300
+For the past ten years, I've been trying my very[nl]hardest to get you to like me.
+MRK/MRK0004310
+....Does that annoy you?
+MRK/MRK0004320
+But I'm serious.
+@mrk_004_01_ans03
+MRK/MRK0004370
+You're talking about another woman[nl]at a time like this.
+MRK/MRK0004380
+Raku dearest, you have no shame.
+@mrk_004_01_ans04
+MRK/MRK0004390
+That's kind of nostalgic....
+MRK/MRK0004400
+Even back then, we used to talk like this,[nl]just the two of us....
+Did you talk long ago?
+Yes, we did
+I forget
+MRK/MRK0004410
+Huh? Is it possible that[nl]you forgot I even existed?
+MRK/MRK0004420
+...Haha, sorry.[nl]That was a bit rude of me.
+MRK/MRK0004430
+Eeh, yes you did. Seriously....
+MRK/MRK0004440
+But, instead of talking about the past,[nl]let's talk about the present, okay?
+MRK/MRK0004450
+Come to think of it,[nl]you have nearly forgotten about me...
+MRK/MRK0004460
+Oh, well, it can't be helped.[nl]Let's talk about the present instead of the past, okay?
+@mrk_004_01_ans05
+MRK/MRK0004470
+If we're just talking like this, I'm fine.
+MRK/MRK0004480
+But thank you for your concern.
+Well...
+It's not like I'm worried or anything
+Go to bed early tonight
+MRK/MRK0004490
+Then why did you ask?
+MRK/MRK0004500
+Ehehe, there's no need to be embarrased.[nl]You're very kind, Raku dearest.
+MRK/MRK0004510
+I'll go to bed after I write in my diary.
+MRK/MRK0004520
+Huh? What am I writing in there?
+MRK/MRK0004530
+Well, of course....that's a secret.♪
+MRK/MRK0004540
+Mm? What is it? You're being oddly quiet.
+@mrk_004_01_ans06
+MRK/MRK0004550
+T-There's no need to[nl]think too hard about it....
+common.asb
+mrk_004_102.asb

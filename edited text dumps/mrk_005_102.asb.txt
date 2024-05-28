@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@mrk_005_102
+@expose
+MRK/MRK0005890
+Raku dearest, do you believe in[nl]this sort of thing?
+Do you believe in legends?
+Trust in only yourself!
+Just a little
+MRK/MRK0005920
+I see....[nl]What a manly and wonderful philosophy.
+@ザクシャ万里花・１
+MRK/MRK0005930
+Well then, I'll try to bring about happiness myself.
+MRK/MRK0005940
+Hey, Raku dearest....
+@mrk_005_103
+MRK/MRK0005900
+Haha....that's a relief.
+MRK/MRK0005910
+Hey, Raku dearest. Why don't we give it a try,[nl]and see if it brings us happiness?
+MRK/MRK0005950
+Oh my, can you please answer?
+MRK/MRK0005960
+I kind of want to test it out.[nl]See if the legend is true....
+common.asb
+mrk_005_103.asb

@@ -1,0 +1,49 @@
+__main
+@Lclearscreenall
+@mrk_002_104
+MRK/MRK0001960
+Ah, by the way....
+MRK/MRK0001970
+I cooked my meal based on what you liked back then....
+MRK/MRK0001980
+Do you still like Japanese food?
+MRK/MRK0001990
+Raku dearest? What kind of food do you like now?
+@mrk_002_01_ans01
+@ＢＧＭ停止
+@expose
+MRK/MRK0002000
+....Is that so.
+MRK/MRK0002010
+I see. I guess it makes sense that your tastes[nl]have changed over the last ten years....
+MRK/MRK0002020
+Well, there's no need for any of this,[nl]since your tastes are different now!
+MRK/MRK0002030
+Rrrgh! Now I have to throw all this out!
+@mrk_002_01_ans02
+@ザクシャ万里花・小
+MRK/MRK0002040
+Phew, thank goodness![nl]My food isn't going to waste!
+MRK/MRK0002050
+Well, Raku dearest.[nl]Will you eat it before it gets cold?
+@mrk_002_ana01_success
+@ザクシャ万里花・大
+MRK/MRK0002060
+Yes, enjoy it.★
+MRK/MRK0002070
+Ah, hold on a second, please.
+MRK/MRK0002080
+Here. Just this once, say "ah".★
+@mrk_002_ana01_failure
+@ザクシャ万里花・１
+MRK/MRK0002090
+Hehehe, you're stuttering.....[nl]You're so cute when you do that, Raku dearest.
+MRK/MRK0002100
+Well, then Raku dearest.[nl]Just this once, here. Say "ah".★
+@mrk_002_ana01_timeout
+MRK/MRK0002110
+Hehehe. You're so cute when[nl]you're embarrased, Raku dearest.
+@mrk_002_104_
+@mrk_002_201
+common.asb
+mrk_002_201.asb

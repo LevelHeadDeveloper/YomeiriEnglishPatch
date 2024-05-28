@@ -1,0 +1,294 @@
+__main
+@Lclearscreenall
+@mrk_005
+@イベント開始処理
+RAK/RAK0024330
+Mmmmghh....
+RAK/RAK0024340
+It's barely 7 AM.[nl]Who the hell is calling so early?
+RAK/RAK0024350
+Hello?
+MRK/MRK0005010
+Good morning, Raku dearest.
+RAK/RAK0024360
+Is this....Tachibana?[nl]What do you need so early?
+MRK/MRK0005020
+Truth be told, I've run into some trouble....[nl]I'll need your help, please.
+RAK/RAK0024370
+Some trouble?
+MRK/MRK0005030
+Yes....and I can't deal with it[nl]without you, Raku dearest![nl]Please help me.
+RAK/RAK0024380
+....Alright, fine.
+MRK/MRK0005040
+Oh, you're not going to ask for the details?
+RAK/RAK0024390
+I made you a promise when you helped[nl]me catch the animals, right?[nl]I told you to call me if you have any trouble.
+RAK/RAK0024400
+Whatever it is, I'll do everything I can.
+MRK/MRK0005050
+As expected of my darling Raku. Well then, I shall[nl]e-mail you the address where I'll meet you.
+RAK/RAK0024410
+Okay, I'll be right there.
+MRK/MRK0005060
+I'm looking forward to it.[nl]See you there.
+RAK/RAK0024420
+....Looking forward to it?
+@時間経過演出
+RAK/RAK0024430
+Let's see....[nl]This is the place from the e-mail, right....?
+RAK/RAK0024440
+What kind of trouble would she[nl]have at a place like this?)
+RAK/RAK0024450
+(Yeah, I think I know exactly[nl] what's gonna happen....)
+MRK/MRK0005070
+Raku dearest~★
+RAK/RAK0024460
+Hi, Tachibana.[nl]Is everything alright?
+MRK/MRK0005080
+Yes. Why do you ask?
+RAK/RAK0024470
+Why do I....[nl]Didn't you need me to help you[nl]with some trouble you were having?
+.......
+MRK/MRK0005090
+.....Aah!
+@expose
+MRK/MRK0005100
+Yes, yes![nl]I have a massive problem!
+RAK/RAK0024480
+What a subtle pause.
+RAK/RAK0024490
+Did you trick me into coming here?
+MRK/MRK0005110
+My. I would never lie to my darling Raku.[nl]I'm really in a tough spot.
+MRK/MRK0005120
+I would have died of loneliness if[nl]I had not been able to spend the weekend with you.
+RAK/RAK0024500
+Seriously....
+MRK/MRK0005130
+So, let's go on a date today!
+RAK/RAK0024510
+I thought that might be it.
+RAK/RAK0024520
+No way![nl]That's not what I came here for.
+MRK/MRK0005140
+Y-You said you'd do anything you could for me....
+MRK/MRK0005150
+Those words....[nl]You didn't mean them, did you?
+RAK/RAK0024530
+H-Hey! Don't cry here![nl]Everyone's gonna get the wrong idea!
+MRK/MRK0005160
+Then....can we spend the day together?
+RAK/RAK0024540
+Yeah, let's go![nl]I'll go wherever with you.
+MRK/MRK0005170
+Well then, let's go enjoy ourselves!
+RAK/RAK0024550
+You were fake crying!
+RAK/RAK0024560
+....Jeez, and you just said you[nl]wouldn't lie to me.
+MRK/MRK0005180
+Hey, hurry up![nl]The day's running out, we need to go!
+@叫び揺れ
+RAK/RAK0024570
+Aaah, hey, stop pulling!
+MRK/MRK0005190
+Let's go!
+RAK/RAK0024580
+Hahh, it can't be helped....
+RAK/RAK0024590
+(A promise is a promise.[nl] I guess I'll stick with her for the[nl] rest of the day.)
+@ＢＧＭ再生
+MRK/MRK0005200
+Kyah~![nl]There's water flying all over!
+RAK/RAK0024600
+Hey, stop clinging to me![nl]I can barely walk.
+MRK/MRK0005210
+If I didn't do this, I'd get all wet.
+RAK/RAK0024610
+I'll walk next to the water, then,[nl]so just walk normally!
+MRK/MRK0005220
+Kyah~★[nl]It's so dark! Raku dearest, save me~!
+RAK/RAK0024620
+Hey! Stop trying to get me to hug you![nl]You're bothering everyone else!
+MRK/MRK0005230
+But it's a tad too dark in here.
+RAK/RAK0024630
+Well, this is the Deep Sea wing.
+MRK/MRK0005240
+If I wasn't holding on to you like this,[nl]I'd probably fall down.
+RAK/RAK0024640
+Really.....?
+MRK/MRK0005250
+Aaah! I have tripped!
+RAK/RAK0024650
+H-Hey! Don't try to push me down[nl]in the heat of the moment!
+MRK/MRK0005260
+Kyaah~★[n]There's a weird stuffed animal coming at me![nl]Raku dearest, help me~!
+RAK/RAK0024660
+That's just plain exaggerating![nl]He's just the aquarium's mascot!
+MRK/MRK0005270
+Raku dearest, shall we visit[nl]the penguin corner next?
+MRK/MRK0005280
+Or perhaps we could say hello[nl]to Mr. Polar Bear once more?
+RAK/RAK0024670
+Hang on....lemme catch my breath for a sec.
+@expose
+MRK/MRK0005290
+Oh, are you tired already?[nl]I'm still fine....
+RAK/RAK0024680
+Well, that's because you don't get squeezed like an orange[nl]every time something happens.
+MRK/MRK0005300
+Are you not happy?
+RAK/RAK0024690
+Well, it's not like I don't like it.....
+MRK/MRK0005310
+Well then, it's fine![nl]There aren't any interlopers today,[nl]and I just want to hold you all day!
+RAK/RAK0024700
+Please let me rest....
+MRK/MRK0005320
+Well, where should we go next?
+MRK/MRK0005330
+This aquarium is so big,[nl]we could spend the whole day here. ♪[nl]......Hahahaha!
+RAK/RAK0024710
+You're awfully excited.
+MRK/MRK0005340
+Well, that's because....[nl]This is my first time at an aquarium.
+RAK/RAK0024720
+Huh, really?[nl]that's a surprise.
+MRK/MRK0005350
+Well, for starters, I don't have many friends....
+MRK/MRK0005360
+I was invited a few times nonetheless,[nl]but I held off on going for a long time.
+RAK/RAK0024730
+Held off? Why?
+MRK/MRK0005370
+....I wanted my first time at an aquarium[nl]to be with you, Raku dearest.
+RAK/RAK0024740
+W-With me?
+MRK/MRK0005380
+When I was in that hospital ten years ago,[nl]you told me all about the aquarium, remember?
+MRK/MRK0005390
+We promised each other we'd go together one day.
+RAK/RAK0024750
+....Sorry. I honestly can't remember.
+MRK/MRK0005400
+I'm honestly not surprised.[nl]It was a very trivial conversation.
+MRK/MRK0005410
+But for me, it was an important memory[nl]with Raku dearest....
+RAK/RAK0024760
+(Why does she hold her childhood[nl] memories so close to herself....)
+RAK/RAK0024770
+(I don't remember Tachibana at all....)
+.......
+MRK/MRK0005420
+Raku dearest? Is something the matter?
+RAK/RAK0024780
+Alright, my strength is restored![nl]Let's go, Tachibana!
+MRK/MRK0005430
+Eh.....
+@背景変更
+MRK/MRK0005440
+Kyaah.....!
+RAK/RAK0024790
+Come on, hurry.
+MRK/MRK0005450
+W-Why are you doing this so suddenly....
+RAK/RAK0024800
+We're already at the aquarium.[nl]We might as well make lots of good memories.
+RAK/RAK0024810
+For everything you've put up with,[nl]I'll give it my all!
+MRK/MRK0005460
+Really....you're just doing this to[nl]make me happy, aren't you.
+MRK/MRK0005470
+If ya get my heart poundin' like that,[nl]it might not be good....
+MRK/MRK0005480
+Ah-![nl]Forget I did that!
+RAK/RAK0024820
+That....your dialect?[nl]You don't need to be ashamed of that.
+MRK/MRK0005490
+....Even though I went to all the trouble of[nl]learning to speak properly in order to become[nl]your ideal woman, Raku dearest?
+MRK/MRK0005500
+Going back to my old way of talking[nl]when I'm even slightly flustered....[nl]It's just pathetic.
+RAK/RAK0024830
+Why does it matter?[nl]If you ask me, both your old dialect and your[nl]new way of talking are pretty cute.
+MRK/MRK0005510
+Huh!? C-Cute?
+RAK/RAK0024840
+Yeah. Besides that, it's kinda nostalgic.
+MRK/MRK0005520
+-----
+MRK/MRK0005530
+....I-If ya say so, Rakkun....
+MRK/MRK0005540
+Just fer today, I'll talk like I did[nl]when we were kids.
+MRK/MRK0005550
+But I wantcha to call me whatcha did[nl]back then......Mari.
+MRK/MRK0005560
+Also....I want to play[nl]with you like we did back then.
+RAK/RAK0024850
+If that's what you want, I don't mind.
+MRK/MRK0005570
+Rakkun....thanks.
+RAK/RAK0024860
+Yeah. Let's go, Mari!
+MRK/MRK0005580
+Yeah!
+@ＢＧＭ停止
+@フェードアウト
+RAK/RAK0024870
+Ahhhh~, we had a lot of fun today.[nl]I'm pooped.
+RAK/RAK0024880
+Mari, how're you holding up?
+MRK/MRK0005590
+Seriously....you worry too much, Raku dearest.[nl]I'm hardly that frail.
+MRK/MRK0005600
+Besides, I haven't had that much fun in ages.[nl]So much fun, in fact, that it made my tiredness disappear.
+RAK/RAK0024890
+I hope that's true.
+MRK/MRK0005610
+I had a lovely time today.[nl]Thank you again for accompanying me.
+RAK/RAK0024900
+You sure went back to normal quick.[nl]It's a little embarrassing to be calling you Mari now.
+MRK/MRK0005620
+While I'm happy that you're[nl]calling me that so affectionately....
+MRK/MRK0005630
+I think it's about time we enjoyed[nl]the more "grown-up" activity here.
+RAK/RAK0024910
+Grown up....?
+MRK/MRK0005640
+Look around us, what do you notice?
+@pan
+RAK/RAK0024920
+Around us....uohhh!?
+RAK/RAK0024930
+(There's couples everywhere!)
+RAK/RAK0024940
+(And they're all....)
+MRK/MRK0005650
+They're all kissing.
+RAK/RAK0024950
+You say that so casually....
+MRK/MRK0005660
+How about we also take a[nl]little rest near the fountain?
+RAK/RAK0024960
+If we need a break, we can take one[nl]in the food court instead of this[nl]embarassing place.
+MRK/MRK0005670
+I'm sorry....I seem to have run out of strength[nl]and cannot walk any farther.
+RAK/RAK0024970
+You just said your tiredness disappeared!
+MRK/MRK0005680
+We have to hurry, or they'll take all the good spots!
+RAK/RAK0024980
+You're fine after all!
+MRK/MRK0005690
+Hurry up, Raku dearest. ★
+RAK/RAK0024990
+Jeez....fine.[nl]You're not going to move unless[nl]we go there, are you?
+MRK/MRK0005700
+Haha. I'm very happy that you understand.
+RAK/RAK0025000
+(Let's keep Tachibana company[nl] until she's satisfied, then...)
+@mrk_005_101
+common.asb
+mrk_005_101.asb

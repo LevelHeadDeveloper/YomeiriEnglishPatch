@@ -1,0 +1,17 @@
+__main
+@Lclearscreenall
+@mrk_003_301
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0023300
+Tachibana![nl]Are you sure you're alright standing up?
+MRK/MRK0003330
+Yes. Thanks to you, I'm back to normal now.[nl]My apologies for causing such worry.
+RAK/RAK0023310
+No, I'm just glad it wasn't serious.
+KSK/KSK0007670
+Yeah. I'm glad you're geeling better.
+MRK/MRK0003340
+Yes....[nl]I'm feeling a bit regretful, as well.
+@イベント終了処理
+common.asb

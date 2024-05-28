@@ -1,0 +1,230 @@
+__main
+@Lclearscreenall
+@mrk_002
+@イベント開始処理
+SYU/SYU0001360
+Hey, Raku.[nl]Are you doing anything after school?
+RAK/RAK0021950
+No, not really.
+SYU/SYU0001370
+O-kay.[nl]Well then, let's hold a study group at your place today.
+RAK/RAK0021960
+Huh....Why?
+SYU/SYU0001380
+Well....since the culture festival's over,[nl]don't we have our exams soon?
+RAK/RAK0021970
+Ah, yeah, we do.[nl]Fine by me, after all, I haven't been able[nl]to study much lately....
+RAK/RAK0021980
+But what's the real reason?
+@expose
+@ＢＧＭ再生
+SYU/SYU0001390
+I want to use the study group as an excuse to[nl]have a fun-fun afternoon with Kirisaki and all the other[nl]hotties in our class!
+RAK/RAK0021990
+I thought that might be it.
+SYU/SYU0001400
+Hey, hey, it's fine![nl]I'll invite the girls myself.
+MRK/MRK0001570
+Of course I'll be there! Raku dearest.★
+RAK/RAK0022000
+So fast!
+SYU/SYU0001410
+Awesome! Marika Get!
+MRK/MRK0001580
+Ah....I do have to get some things ready first,[nl]so feel free to just start without me.
+SYU/SYU0001420
+OK. With that, I'll see you then, Raku!
+MRK/MRK0001590
+I'll see you later, Raku dearest.
+RAK/RAK0022010
+O-Okay....
+RAK/RAK0022020
+(What the hell is it she's preparing?)
+@時間経過演出
+CTG/CTG0009240
+And you just move that over....here.
+KSK/KSK0007370
+Wow~! Amazing, you solved it already![nl]You're such a good teacher, Chitoge.
+CTG/CTG0009250
+Ehhhh, really~?
+SYU/SYU0001430
+Ruri~! Help me out with this one~.
+RUR/RUR0000990
+Don't talk to me, I'm trying to concentrate.
+SYU/SYU0001440
+Huh~, but this is a study group, after all.[nl]Well then, Seishiro! This problem here's....
+SSR/SSR0009600
+Do it yourself. Do not deign to get close to me again.
+@expose2
+SYU/SYU0001450
+What!? This isn't how I expected the study group to be![nl]It's not fun-fun at all!
+RAK/RAK0022030
+I dunno.....
+RAK/RAK0022040
+Jeez....this whole thing was your idea,[nl]but you're not being serious about studying at all?
+SYU/SYU0001460
+Come now, I'm always serious, aren't I?
+RAK/RAK0022050
+(It seriously pisses me off[nl] because he still gets higher grades than me....)
+SYU/SYU0001470
+Oh, by the way, Marika's still not here.[nl]Is she running late?
+RAK/RAK0022060
+Well, it has been a while since the rest of us got here....[nl]I'm going to run outside and see.
+@ＢＧＭ停止
+@背景変更
+RAK/RAK0022070
+Well, she doesn't seem the type to get lost, but....
+MRK/MRK0001600
+Hum, hum, hum hum hummm...♪
+RAK/RAK0022080
+Hm? Humming?
+RAK/RAK0022090
+(Wait, that sounds like....)
+MRK/MRK0001610
+Ryuu, can you pass me the soy sauce?[nl]And you guys over there, get those plates ready.
+RYU/RYU0000450
+O-Okay....
+RAK/RAK0022100
+What the hell are you doing!?
+MRK/MRK0001620
+Oh my, Raku dearest.[nl]Well...I'm making your dinner, that's all.
+RAK/RAK0022110
+That's all!? No![nl]What are you doing in the kitchen[nl]like it's completely normal!?
+MRK/MRK0001630
+Traditionally, it's a wife's duty to prepare[nl]a delicious dinner for her beloved Raku dearest.
+MRK/MRK0001640
+Haah....![nl]Since you're here, I can have you taste it,[nl]just like we're newlyweds!
+MRK/MRK0001650
+Well, Raku dearest.[nl]Here, say "ah"!
+RAK/RAK0022120
+Ahhh....no![nl]We're supposed to be studying, studying!
+MRK/MRK0001660
+But I'm studying to be your wife by doing the housework.
+RAK/RAK0022130
+That's quite the stretch....
+SEA/SEA0000040
+Uh~, young master, this young lady is your classmate, right?[nl]But, just now, she was talking like she was your bride.
+RYU/RYU0000460
+Ahh, well of course![nl]Is she your new mistress!?
+RYU/RYU0000470
+Guh-! It's just like we expected, young master![nl]You're clearly head and shoulders over the other guys!
+RAK/RAK0022140
+What kind of man do you take me for....?
+CTG/CTG0009260
+Aaaah, Marika!?
+CTG/CTG0009270
+I heard all that racket,[nl]what do you think you're doing!?
+MRK/MRK0001670
+Well, I'm cooking for Raku dearest as his wife....
+SSR/SSR0009610
+Ah, now that you mention it,[nl]weren't you his "former" fiancee who made Raku Ichijo[nl]sign a marriage registration in kindergarten?
+MRK/MRK0001680
+Raku dearessst![nl]I don't like these people, they're scaring me!
+RAK/RAK0022150
+I'm more scared of how you're acting....
+CTG/CTG0009280
+Will you stop glomming all over him!?
+KSK/KSK0007380
+Whaaa, Chitoge, calm down!
+SEA/SEA0000050
+A-Amazing![nl]The wife and mistress of the young master[nl]are fighting tooth and nail!
+RYU/RYU0000480
+That's my boy.[nl]Well, this is gonna be a bloodbath....
+RAK/RAK0022160
+Will you shut the hell up with that weird nonsense!?
+RYU/RYU0000490
+Hey, young master, which one's your favorite?
+RAK/RAK0022170
+Huh...?
+RYU/RYU0000500
+It's alright. Whoever you love more,[nl]we're always on your side, young master!
+RYU/RYU0000510
+We will always support your love!
+RAK/RAK0022180
+No, that's not what's going on....
+RYU/RYU0000520
+Come on, hurry up and answer.
+RAK/RAK0022190
+W-Well.....
+Who's your number one?
+Chitoge
+Kosaki
+Seishiro
+Marika
+MRK/MRK0001690
+It's Marika, of course.
+RAK/RAK0022200
+Hey! Stop answering for me!
+SSR/SSR0009620
+Raku Ichijo....lately, you've been a little too friendly[nl]with Marika Tachibana, even though you're dating the[nl]young mistress. Are you looking to die?
+RAK/RAK0022210
+It's a misunderstanding---!
+KSK/KSK0007390
+----
+RAK/RAK0022220
+O-Onodera! It's not like that![nl]I haven't done anything bad!
+CTG/CTG0009290
+How come you're explaining yourself for Kosaki[nl]but I get nothing?
+RAK/RAK0022230
+Y-You too....!?
+RYU/RYU0000530
+Oooh...! The young master is so popular with the ladies![nl]I'm so happy, I can't stop crying....
+RYU/RYU0000540
+Arright! For the young master's sake,[nl]let's all help him out!
+RAK/RAK0022240
+Huh, w-what are you saying....?
+RYU/RYU0000550
+Young master, to help you decide who's your number one....
+RYU/RYU0000560
+We'll have a cookin' showdown!
+RAK/RAK0022250
+What the hell!
+SYU/SYU0001480
+Teehee....As usual, it's so fun to hang around Raku.[nl]Sensational.♪
+RUR/RUR0001000
+Are you really his best friend?[nl]I kind of wonder now.
+RAK/RAK0022260
+Hahhh....[nl]I guess we're seriously having a cooking showdown.
+RYU/RYU0000570
+The judges shall be myself, the young master,[nl]master Shuu and the young 'uns in the Shuei-Gumi!
+SEA/SEA0000060G
+Alright!
+RAK/RAK0022270
+You guys seem to be enjoying yourselves.
+SYU/SYU0001500
+Oh boy, this is so interesting![nl]Thanks, Raku!
+RAK/RAK0022280
+You're grinning too much....
+CTG/CTG0009300
+Jesus.....Why the hell do I[nl]have to cook for Raku as well....?
+MRK/MRK0001700
+Huh? Well, you know you can always just drop out.
+MRK/MRK0001710
+Either way, even your finest banana dishes won't[nl]win you Raku dearest's heart.
+CTG/CTG0009310
+Why am I limited to bananas!?
+CTG/CTG0009320
+Grr~~! Just you wait![nl]I'm going to make my own original dish!
+SSR/SSR0009630
+I'll support. I won't let Marika Tachibana[nl]or anyone else defeat you!
+KSK/KSK0007400
+Oooh....I don't think I can do it.[nl]Mom also told me never to cook outside the house....
+RUR/RUR0001010
+It's alright. I'll help you.
+SYU/SYU0001510
+Mhm, mhm, I see.[nl]Team Kirisaki, Team Onodera, and Marika Tachibana, huh.
+SYU/SYU0001520
+Must be nice, being as popular as you![nl]You get to eat the home-cooked meals of all these girls~.
+RAK/RAK0022290
+(I can only imagine[nl] the home-cooked hell that awaits me.)
+MRK/MRK0001720
+Raku dearest![nl]I've made a meal full of my love.[nl]Please, enjoy it!
+RAK/RAK0022300
+Ooh, that was fast....but I guess[nl]you started a while ago, so it's no surprise.
+MRK/MRK0001730
+Please dig in while it's still warm.
+RAK/RAK0022310
+(I guess....even though I didn't ask for it,[nl] she went to the trouble of making me food....[nl] I'll take it gratefully.)
+@mrk_002_101
+common.asb
+mrk_002_101.asb

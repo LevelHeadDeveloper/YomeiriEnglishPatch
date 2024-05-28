@@ -1,0 +1,6 @@
+__main
+@Lclearscreenall
+@ksk_304
+@イベント開始処理
+Kosaki Saturday Event 4
+common.asb

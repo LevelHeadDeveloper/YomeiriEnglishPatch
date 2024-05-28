@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@mrk_005_103
+@expose
+MRK/MRK0005970
+Raku dearest, you're somewhat dense,[nl]so I'll say this outright.
+MRK/MRK0005980
+I'd.....I'd like one more happy memory[nl]to finish the day.
+MRK/MRK0005990
+A special memory,[nl]that makes us both happy....
+MRK/MRK0006000
+You know what I'm talking about, right?[nl]I want us to.....
+MRK/MRK0006010
+Please tell me what I'm looking for, Raku dearest.
+@ザクシャ万里花・中
+MRK/MRK0006020
+Yes, that is correct.
+MRK/MRK0006030
+Raku dearest....please....kiss me.
+@ザクシャ万里花・１
+MRK/MRK0006040
+Well, yes. I do want you to love me.
+MRK/MRK0006050
+And you know what the symbol of that love is....[nl]Don't you?
+MRK/MRK0006060
+Really....you're such a coward.[nl]You know what I'm talking about....
+@mrk_005_103_end
+@mrk_005_201
+common.asb
+mrk_005_201.asb

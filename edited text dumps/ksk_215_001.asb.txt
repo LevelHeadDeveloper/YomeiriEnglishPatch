@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@ksk_215
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0005850
+Rakuu, I am booored.
+RAK/RAK0052520
+Oh? I see.
+@expose
+OTM/OTM0005860
+I wanna do something interesting with you~.
+RAK/RAK0052530
+....Why do I have to do it?[nl]You do it yourself.
+OTM/OTM0005870
+Stingy.
+RAK/RAK0052540
+Yes, yes, I'm quite stingy.
+OTM/OTM0005880
+Waaaaahhhh....
+OTM/OTM0005890
+I wanna eat fried tofu.[nl]Fried tofu, fried tofu.
+RAK/RAK0052550
+Fine, fine. I'm a bit busy studying right now,[nl]so we'll do that on the weekend.
+OTM/OTM0005900
+@イベント終了処理
+common.asb

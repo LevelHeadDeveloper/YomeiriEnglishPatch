@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@ksk_212
+@イベント開始処理
+@定型ＢＧＭ再生
+KSK/KSK0016580
+Ichijo, are you okay?[nl]You look a little pale.
+RAK/RAK0052330
+....Yeah, I might be a little tired.
+KSK/KSK0016590
+If you're not feeling well,[nl]do you want to go to the infirmary?
+RAK/RAK0052340
+No, I'm fine.[nl]It's not a big deal.
+KSK/KSK0016600
+Really? If you say so....
+@expose
+KSK/KSK0016610
+Oh, hang on.
+@ザクシャ小咲・小
+KSK/KSK0016620
+Eat some of these and cheer up, okay?
+RAK/RAK0052350
+Oh, marshmallows.[nl]Thanks, Onodera.
+KSK/KSK0016630
+Try not to overdo it today.
+@イベント終了処理
+common.asb

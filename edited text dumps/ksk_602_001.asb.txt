@@ -1,0 +1,99 @@
+__main
+@Lclearscreenall
+@ksk_602
+@ヌキアシ終了処理
+@ksk_602_success
+@イベント開始処理
+RAK/RAK0049500
+I-I got away....!!
+@ＢＧＭ再生
+KSK/KSK0014530
+....Ichijo, are you okay!?
+RAK/RAK0049510
+Uh, teacher--[nl]Onodera!? Why are you here!?
+KSK/KSK0014540
+One of my friends told me you'd gotten tangled up[nl]with an upperclassman! I had to run and get a teacher!
+RAK/RAK0049520
+(Well, it's only natural that such a loud[nl] entanglement would get noticed so easily.)
+KYK/KYK0000270
+At least he doesn't seem hurt.
+KYK/KYK0000280
+The school will issue a warning to the guy who started it.[nl]Sorry 'bout that, Ichijo.
+RAK/RAK0049530
+No, it wasn't your fault....
+RAK/RAK0049540
+Oh, here....[nl]Can you return this to him?
+KYK/KYK0000290
+Oh, that. The amulet that his girlfriend gave him[nl]before she dumped him.
+RAK/RAK0049550
+(I guess word spread pretty fast.[nl] I'm starting to feel a little sorry for him....)
+KYK/KYK0000300
+Alright, I'll bring it to him.
+KSK/KSK0014550
+That was a disaster, Ichijo.
+RAK/RAK0049560
+Well, I know that an 8-vs-1 was kind of drastic of them,[nl]but it is true that I stepped on the amulet.
+@expose
+KSK/KSK0014560
+Hehehe.....[nl]Anyway, good work.
+RAK/RAK0049570
+Hahh....[nl]It's so soothing to hear Onodera say "good work"....
+KSK/KSK0014570
+Huh? R-Really?
+RAK/RAK0049580
+Oh, I said that out loud...!
+RAK/RAK0049590
+(Oh no! I was so relieved, it just kinda....)
+RAK/RAK0049600
+Onodera, I'm sorry![nl]Forget I said that!
+KSK/KSK0014580
+Hehehe, if my voice is that soothing,[nl]I'll tell you as much as you want, okay?
+@ザクシャ小咲・中
+@イベント終了処理
+@ksk_602_failure
+JKA/JKA0000070
+You're cornered now, first year scum!!
+JKB/JKB0000030
+Get ready to endure the[nl]Torment of Exam Study Resentment!!!
+JKC/JKC0000030
+Prepare yourselffff!!
+RAK/RAK0049610
+Uh, hang on! Tell you what--
+RUR/RUR0011350
+--Stop. Make one more false move[nl]and I call the teacher.
+@ＢＧＭ再生
+RAK/RAK0049620
+M-Miyamoto!?
+JKA/JKA0000080
+Who the hell are you....?[nl]Just 'cause you're such a scrawny kid,[nl]doesn't mean I'll go easy on you!
+.....
+JKB/JKB0000040
+H-Hey....[nl]I think this is....
+JKC/JKC0000040
+Miyamoto from the swim team?[nl]She's a first-year.....
+JKA/JKA0000090
+Huh? What? She famous or something?
+JKB/JKB0000050
+You don't get it, man![nl]When I say Miyamoto, I mean--
+@背景変更
+JKB/JKB0000060
+E-Eeek!
+JKC/JKC0000050
+D-Don't get too comfortable, first-year scum!!
+JKA/JKA0000100
+Hey, what is this!?[nl]Just you wait, you guyyys!!
+RUR/RUR0011360
+....Hmph.
+RAK/RAK0049630
+I-I'm not really sure what's going on,[nl]but thanks for saving my life, Miyamoto.
+RUR/RUR0011370
+....Not at all.
+RUR/RUR0011380
+If you died, certain people would be upset, that's all.
+RAK/RAK0049640
+....Huh?
+RUR/RUR0011390
+See ya.
+RAK/RAK0049650
+(....No clue what she meant,[nl] but anyway, thanks to her, I survived....)
+common.asb

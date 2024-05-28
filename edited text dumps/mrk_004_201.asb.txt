@@ -1,0 +1,58 @@
+__main
+@Lclearscreenall
+@mrk_004_201
+@2ショット成功
+@mrk_004_201_01
+@expose
+MRK/MRK0004880
+Well, Raku dearest.[nl]Marry me as thanks for today....
+RAK/RAK0024220
+You can't just be so presumptuous!
+MRK/MRK0004890
+Oh. Would you prefer if I proposed[nl]somewhere with a better mood?
+MRK/MRK0004900
+If so, then it can't be helped.[nl]I'll hold off for now.
+RAK/RAK0024230
+You're really positive....
+HND/HND0000080
+Mistress. The car is ready.
+MRK/MRK0004910
+Oh, already?
+MRK/MRK0004920
+That's a shame....I wanted to talk[nl]with Raku dearest for a while longer.
+RAK/RAK0024240
+Ah, hey.....why didn't you[nl]just call Honda to help earlier?
+RAK/RAK0024250
+We would've been able to get all[nl]the animals back in no time with Honda, right?
+MRK/MRK0004930
+That is true, but....
+MRK/MRK0004940
+I guess you could say[nl]I was just being selfish.
+RAK/RAK0024260
+Selfish?
+MRK/MRK0004950
+I want to do everything I can do for you myself.
+MRK/MRK0004960
+If I don't do it myself,[nl]then it doesn't mean anything.
+RAK/RAK0024270
+Is that so...?
+MRK/MRK0004970
+Yes. That's what it means to do your best for the one you love, I think.
+RAK/RAK0024280
+("The one you love" is me, I think....)
+RAK/RAK0024290
+(It'll be a little difficult to respond,[nl]but I appreciate how straightforward she is....)
+MRK/MRK0004980
+Well then, Raku dearest.[nl]I will be leaving for the day.
+RAK/RAK0024300
+Okay. I'll make it up to[nl]you soon for your help.
+MRK/MRK0004990
+Really....I already told you it's totally fine,[nl]you don't need to make it up to me.
+RAK/RAK0024310
+That's not how I operate.[nl]This is my decision.
+RAK/RAK0024320
+Anyway, if you run into any more trouble, give me a call.[nl]I'll do whatever I can.
+MRK/MRK0005000
+Understood. Well then....[nl]I'm counting on you.
+@イベント終了処理
+common.asb

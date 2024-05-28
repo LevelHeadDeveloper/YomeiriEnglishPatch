@@ -1,0 +1,97 @@
+__main
+@Lclearscreenall
+@mrk_005_201
+@2ショット成功
+@2ショット失敗
+@mrk_005_201_01
+MRK/MRK0006070
+I've been waiting for this day for a long time.
+MRK/MRK0006080
+....Come on then, Raku dearest.[nl]Anytime.
+RAK/RAK0025010
+T-Tachibana.....
+MRK/MRK0006090
+Come on, Raku dearest.
+MRK/MRK0006100
+If you make me wait too long,[nl]I'll get embarassed....
+RAK/RAK0025020
+(Uhhh-, where should I kiss her?)
+RAK/RAK0025030
+(How about...)
+@タッチパート開始処理
+@ＢＧＭ停止
+RAK/RAK0025040
+....Wait, why am I doing this?
+MRK/MRK0006110
+Oh? Are you stopping already?
+RAK/RAK0025050
+Yeah! I almost got caught up in the atmosphere,[nl]b-but I'm in no position to kiss you!
+RAK/RAK0025060
+(Sorry Onodera, and I guess Chitoge too![nl] I almost just became the worst kind of person!)
+@expose
+MRK/MRK0006120
+.....Hehehe. It's fine.
+MRK/MRK0006130
+At least for a little while,[nl]I'd swept you off your feet.
+MRK/MRK0006140
+That's enough for me.
+RAK/RAK0025070
+....Wait, what am I doing?
+@ＨＰ－１０
+MRK/MRK0006150
+Kyaaah![nl]Why did you hit yourself!?
+RAK/RAK0025080
+(Oh no, oh no....[nl]I almost got caught up in the atmosphere[nl]and I nearly kissed her....)
+RAK/RAK0025060
+MRK/MRK0006160
+Really....we were so close....
+RAK/RAK0025090
+....Mwah.★
+@ＢＧＭ停止
+MRK/MRK0006170
+....Eh?
+MRK/MRK0006180
+W-What....was that?
+RAK/RAK0025100
+No....if I really think about it, I can't kiss you.[nl]I blew you a kiss instead.
+......
+RAK/RAK0025110
+I-Is that bad?
+MRK/MRK0006190
+....Heh. I was wrong to have even[nl]the slightest expectations of you, Raku dearest.
+MRK/MRK0006200
+Seriously....you're a coward.
+@mrk_005_201_02
+MRK/MRK0006210
+Raku dearest, you're not very determined.
+@mrk_005_201_03
+RAK/RAK0025120
+S-Shut up. How can I kiss you[nl]when I already have a girlfriend?
+MRK/MRK0006220
+Huh...!? Then you and Kirisaki have already...!
+MRK/MRK0006230
+That's no fair![nl]Why can't you do the same for me!?
+RAK/RAK0025130
+We haven't! Don't get so angry!
+MRK/MRK0006240
+Then, that puts me at ease for now.
+MRK/MRK0006250
+Well, I wasn't really expecting you[nl]to actually kiss me, either.
+RAK/RAK0025140
+Ggh....so you were just messing with me?
+MRK/MRK0006260
+Just like when we were kids, you're so pure.[nl]It's so cute.
+RAK/RAK0025150
+C-Crap....so you were just playing with my heart!
+RAK/RAK0025160
+I'm going home!
+MRK/MRK0006270
+Ah-, wait please![nl]You don't need to be so angry about it!
+RAK/RAK0025170
+Don't care! I've paid you back! See ya, Tachibana!
+MRK/MRK0006280
+....Maybe I went a little too far?
+MRK/MRK0006290
+I'm a little depressed now....
+@イベント終了処理
+common.asb

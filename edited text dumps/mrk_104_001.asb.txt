@@ -1,0 +1,107 @@
+__main
+@Lclearscreenall
+@mrk_104
+@イベント開始処理
+RAK/RAK0075300
+So we're playing dodgeball in P.E. today.[nl]Kinda weird to be doing this in high school....[nl]But I'm pretty stoked because it's so nostalgic.
+SYU/SYU0013890
+Heh.... It's really quite simple, Raku.[nl]This game of dodgeball was brought about by all the guys[nl]in our class, who petitioned the teacher for it.
+RAK/RAK0075310
+Huh? Is that right?[nl]Why on earth would they....
+SYU/SYU0013900
+You'll find out once we get started.[nl]See ya, Raku.
+@expose
+SYU/SYU0013910
+You'll always be my best friend![nl]I will never, ever forget you, Raku!
+RAK/RAK0075320
+Huh....?
+@時間経過演出
+@ＢＧＭ再生
+MSA/MSA0000360
+PREPARE FOR BATTLLEEEEE!
+RAK/RAK0075330
+Aaaah!?
+MSD/MSD0000020
+We've cornered Raku Ichijo![nl]COMMENCE THE ATTAAAAACK!!
+@画面揺らし2
+MSA/MSA0000370G
+RAAAAAAAAAAHHHHHHH!
+RAK/RAK0075340
+Whaa!? Why are you guys only throwing balls at me!?
+RAK/RAK0075350
+W-Wait! I think I'm the only one on this side!
+MSB/MSB0000300
+You're always flirting and flirting with Kirisaki[nl]and all the hotties in our class....
+MSA/MSA0000380
+Taste the fury of all the boys in class 1-C....[nl]No, in the entire school!
+RAK/RAK0075360
+Huh!?
+Dodge
+Catch
+RAK/RAK0075370
+Whoa! That seems kinda dangerous!
+MSB/MSB0000310
+Whaa!? He dodged it!?
+MSC/MSC0000120
+Ghh....[nl]All you can do is run away!
+RAK/RAK0075380
+(All that time spent dealing with Chitoge and Tsugumi[nl] wasn't for nothing....!)
+RAK/RAK0075390
+Hey, stop it already![nl]What's even the point of doing this!?
+@ＨＰ－１０
+RAK/RAK0075400
+Gaackh!
+MSA/MSA0000390
+Bwahahahaha, gottem![nl]Keep getting him!
+RAK/RAK0075410
+Owww! Hey! I'm already down![nl]Why the hell are you doing this!?
+SYU/SYU0013930
+Raku....[nl]Sometimes there are things in life that a man must do,[nl]even if he knows those things aren't the right thing.
+RAK/RAK0075420
+What the hell!?
+MRK/MRK0012480
+Everyone, please stop!
+MSA/MSA0000400G
+!
+RAK/RAK0075430
+T-Tachibana....
+MRK/MRK0012490
+Raku dearest is not at fault![nl]All of it is because of us....
+MRK/MRK0012500
+So please, refrain from blaming only Raku dearest!
+MSA/MSA0000410
+Huh....
+RAK/RAK0075440
+Tachibana....![nl]Sorry.... Thanks!
+@ザクシャ万里花・小
+MRK/MRK0012510
+No worries, Raku dearest.
+MRK/MRK0012520
+It's Kirisaki's fault for being attracted to[nl]*my* darling Raku, to begin with.
+RAK/RAK0075450
+Huh....?
+MRK/MRK0012530
+But it's no wonder you're so popular.[nl]You're so manly and interesting, Raku dearest.
+MSB/MSB0000330
+Hunh....!?
+@expose2
+MRK/MRK0012540
+Besides, we've already promised to be wed,[nl]and we've even shared a kiss, haven't we.
+MRK/MRK0012550
+It is a bride-to-be's natural duty[nl]to protect her dearest Raku.
+RAK/RAK0075460
+H-Hey!? What the hell are you....
+RAK/RAK0075470
+Y-You guys have it all wrong![nl]There's a lot of complicated reasons for this....
+MSA/MSA0000420
+SHUT UUUPPP! All troops, ready your balls![nl]Concentrate fire!!!
+MSA/MSA0000430G
+YAAAAAAAARGGGH!!
+RAK/RAK0075480
+Waaaaaaagh!!!
+MRK/MRK0012560
+My, my....
+MRK/MRK0012570
+Everyone really does love Raku dearest, don't they.[nl]As well I'd expect. ♪
+@イベント終了処理
+common.asb

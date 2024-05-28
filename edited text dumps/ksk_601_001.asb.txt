@@ -1,0 +1,127 @@
+__main
+@Lclearscreenall
+@ksk_601
+@ヌキアシ終了処理
+@ksk_601_snk_success
+@イベント開始処理
+RAK/RAK0011540
+....Alright, I think I made it.[nl]Looks like I managed to shake Claude, as well.
+RAK/RAK0011550
+Ah, that's....
+@ＢＧＭ再生
+KSK/KSK0005200
+I-Ichijo....[nl]Sorry for calling you all the way out here....
+RAK/RAK0011560
+N-No.....It's fine, alright?[nl]Sorry for keeping you waiting.
+RAK/RAK0011570
+(It isn't okay at all! [nl] My legs are shaking and wobbling something awful!)
+KSK/KSK0005210
+No, I wasn't waiting too long.[nl]I'm just....so happy that you came.
+RAK/RAK0011580
+I-Is that so....?
+KSK/KSK0005220
+.....Yes. I'm very, very happy.[nl]I kept thinking you might not come.
+RAK/RAK0011590
+T-That's not true at all![nl]To not come, even when you ask me to, Onodera....[nl]There's no way I'd do that.
+KSK/KSK0005230
+.....That's true.[nl]That's the kind of person you are, Ichijo.
+KSK/KSK0005240
+I always knew you were that kind of boy....
+RAK/RAK0011600
+Eeh....?
+..............
+RAK/RAK0011610
+(C-Crap....[nl] I'm so nervous, my heart is[nl] beating pretty loud....)
+RAK/RAK0011620
+(I knew I'd be pretty nervous....[nl] Even if this is just small talk,[nl] I'll be pretty happy....!)
+@clearscreenall
+KSK/KSK0005250
+Um....
+KSK/KSK0005260
+Umm....
+RAK/RAK0011630
+------------
+Wait for Kosaki to finish
+Confess your feelings
+KSK/KSK0005270
+Ummmm....[nl]There's something I've been meaning to tell you[nl]for a long time.
+KSK/KSK0005280
+Ichijo![nl]For a long time, I---
+RAK/RAK0011640
+....Wait a sec.
+KSK/KSK0005290
+Ehh?
+RAK/RAK0011650
+I might be jumping the gun a little here....
+RAK/RAK0011660
+If you end up telling me[nl]the same thing I wanted to tell you,[nl]I'm going to regret it so much....
+RAK/RAK0011670
+So, may I say it first?
+KSK/KSK0005300
+!
+@ザクシャ小咲・中
+KSK/KSK0005310
+Y-Yes....[nl]Got it.
+RAK/RAK0011680
+------------
+RAK/RAK0011690
+(Alright....I'll tell her now!)
+RAK/RAK0011700
+Onodera! For a long time, I've---
+@ＢＧＭ停止
+RAK/RAK0011710G
+GWAAAAAAAAAAH!
+@背景変更
+MST/MST0000140
+Uwahh! What was that!?
+WST/WST0000010
+That was lightning! He got struck by lightning!
+KSK/KSK0005330
+Kyahhh!　Ichijo!!　A-A-Are you alright!?!?
+RAK/RAK0011720
+(W-W-What the hell!?)
+RAK/RAK0011730
+(First those chimes, then Ryuu and the others,[nl] Then even Onodera's cell phone ringing....)
+RAK/RAK0011740
+(I thought she was finally going to confess,[nl] but we were interrupted by a direct hit[nl] from a bolt of lightning this time~~!!)
+RAK/RAK0011750
+(I thought I'd finally be able to confess,[nl] but we were interrupted by a direct hit[nl] from a bolt of lightning this time~~!!)
+RAK/RAK0011760
+(What the hell is with all these interruptions!? Damn it![nl] What did I do!?)
+@イベント終了処理
+@ksk_601_snk_failure
+Don't give up
+Give up
+RAK/RAK0011770
+(I'll never....ever give up!
+@ヌキアシリトライ処理
+RAK/RAK0011780
+(It's no good....There's just no way I can get there!)
+RAK/RAK0011790
+(Gahh, I'm so pathetic![nl] Sorry, Onodera....)
+@フェードアウト
+KSK/KSK0005340
+@expose
+KSK/KSK0005350
+Hello, Ichijo?[nl]Why are you whispering?
+KSK/KSK0005360
+I see....You had some urgent business.
+KSK/KSK0005370
+Okay, got it.....
+KSK/KSK0005380
+What is it? No, it's alright....[nl]Another time, maybe.
+KSK/KSK0005390
+See you soon.
+KSK/KSK0005400
+KSK/KSK0005410
+Even after I worked up my courage....[nl]It's terrible, Gods....
+KSK/KSK0005420
+Hm? Gods....?
+RUR/RUR0000770
+Oh, and also....this shrine.[nl]It's a little-known power spot for love, I've heard.
+RUR/RUR0000780
+Even if it's just a wish or whatever,[nl]isn't it better then just doing nothing?
+..............
+KSK/KSK0005430
+That's right.[nl]Yeah......
+common.asb

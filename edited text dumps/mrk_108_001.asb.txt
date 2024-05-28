@@ -1,0 +1,92 @@
+__main
+@Lclearscreenall
+@mrk_108
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0076060
+65 points.... That's so-so.
+SYU/SYU0014010
+Hoho, that's quite the impressive average score you got[nl]on the singing test.
+SYU/SYU0014020
+Honestly, Raku, if you weren't always surrounded by Kirisaki[nl]and all the other hotties in class,[nl]I'd think you were just an average guy.
+@expose
+SYU/SYU0014030
+Yep! Most average of the average![nl]And the most average boy in Bonyari high!
+RAK/RAK0076070
+Average, average, shut up.[nl]What did you get?
+@expose2
+SYU/SYU0014040
+That's ・ a ・ secret. ♪
+RAK/RAK0076080
+That's so annoying....
+MRK/MRK0013000
+It's okay, Raku dearest![nl]Even if you did get an average score, your strong, steady[nl]singing voice is truly one-of-a-kind.
+SSR/SSR0021160
+Really? Sounds to me like the sort of[nl]unremarkable voice you could hear anywhere.
+RAK/RAK0076090
+Would you all stop saying "average"?[nl]You're bumming me out.
+CTG/CTG0022840
+Oh, but here's something most people don't know.[nl]He's really good at enka.[nl]#fs{12}TN: Enka is a kind of Japanese folk music.#fs{}
+RUR/RUR0012670
+Ohh.... That's surprising.
+KSK/KSK0018020
+Ichijo, you like enka?[nl]I hadn't heard that.
+RAK/RAK0076100
+Y-Yeah....![nl]I sing a lot of enka.
+RAK/RAK0076110
+Maybe it's because of how I grew up,[nl]but I've been listening to enka since I was a kid,[nl]so naturally I can sing it pretty well.
+SSR/SSR0021170
+....Seems like kind of an "old man" skill.
+RAK/RAK0076120
+Don't call me an old man![nl]Or rather, apologize to every young fan of enka in Japan!
+MRK/MRK0013010
+Mmgh. More importantly, why is Kirisaki[nl]the only one who's heard Raku dearest's enka?
+MRK/MRK0013020
+It's not fair![nl]I want to hear Raku dearest sing enka, too!
+RAK/RAK0076130
+N-No.... I'm not *that* good.[nl]Please don't try to flatter me.
+MRK/MRK0013030
+Sensei! Play us some enka, please!
+RAK/RAK0076140
+H-Hey! Why are you asking the teacher to do that!?[nl]I can't sing here!
+MRK/MRK0013040
+Then we can go sing karaoke sometime.[nl]Wouldn't that be fine?
+RAK/RAK0076150
+Y-Yeah. I don't really mind....
+CTG/CTG0022850
+Karaoke, huh.... It's been a while since[nl]I've gone for good karaoke. Tsugumi, you should come too. ♪
+SSR/SSR0021180
+Huh!? I should!?
+SYU/SYU0014050
+Good, good![nl]Surely Ruri and the rest of us are coming too, right?
+RUR/RUR0012680
+That's fine. As long as you pay for everything[nl]and we sing in separate rooms.
+SYU/SYU0014060
+But then what's the point of going together!?
+KSK/KSK0018030
+Hahaha.... Sounds like fun.
+RAK/RAK0076160
+(O-Onodera's coming too.... That's great.[nl] If I can sing an awesome enka song with passion,[nl] maybe she'll like me more....)
+MRK/MRK0013050
+Well, we all can certainly go for karaoke[nl]together someday later....
+MRK/MRK0013060
+But we should go together, just us two, today![nl]Right, Raku dearest? ♪
+@ザクシャ万里花・小
+RAK/RAK0076170
+Whaaa!? How come!?
+MRK/MRK0013070
+Because I want to hear as much of your sweet singing[nl]voice as I can.
+MRK/MRK0013080
+And when we're done, we can go out for dinner and[nl]then to a movie. That settles that!
+CTG/CTG0022860
+Hey, hey! That sounds too much like a date![nl]No way, he's not going!
+MRK/MRK0013090
+Hehe, you're flustered, Kirisaki. I understand.[nl]But ultimately it's up to Raku dearest whether or not he goes.
+CTG/CTG0022870
+Well, Darling!?
+MRK/MRK0013100
+You'll go, right, Raku dearest? ★
+RAK/RAK0076180
+(Aaagh....[nl] Now I'm caught in the middle....)
+@イベント終了処理
+common.asb

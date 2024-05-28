@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@mrk_001_103
+@expose
+MRK/MRK0001230
+Well, Raku dearest,[nl]here is our newly printed marriage certificate.
+MRK/MRK0001240
+Let us bring it to city hall posthaste!
+Marriage certificate!?
+When did you get this!?
+That's not real!
+@ザクシャ万里花・１
+MRK/MRK0001250
+Ahahaha.[nl]I filled it out secretly last night.
+MRK/MRK0001260
+Well, Raku dearest.★
+@mrk_001_104
+@expose2
+MRK/MRK0001270
+I'm sorry to hear you say that.[nl]It is real, you know.
+MRK/MRK0001280
+Only my side is filled in....
+MRK/MRK0001290
+If you would just fill in the other side, Raku dearest,[nl]it would be completed.
+MRK/MRK0001300
+It seems you're pretty surprised.[nl]I filled it out in secret last night.
+MRK/MRK0001310
+And my preparations were all worth it.
+common.asb
+mrk_001_104.asb
