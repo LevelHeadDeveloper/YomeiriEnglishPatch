@@ -1,0 +1,45 @@
+__main
+@Lclearscreenall
+@ssr_001_103
+@expose
+SSR/SSR0001340
+Jeez, but....[nl]Why do we need to stare at each other, anyway?
+SSR/SSR0001350
+I never thought I'd have to go through[nl]this sort of embarrassment with you....!
+SSR/SSR0001360
+Hey, say something!
+@ssr_001_01_ans01
+SSR/SSR0001370
+....You're some kind of pervert, aren't you?
+SSR/SSR0001380
+What? If I do that like I always do,[nl]I'll look dignified, you say?
+@ザクシャ誠士郎・１
+SSR/SSR0001390
+Hmmm....well, I can't say I feel bad about[nl]being praised, even if it's by you.
+SSR/SSR0001400
+But if possible, I would have liked to have been[nl]complimented on my feminine side....
+@ssr_001_104
+@ssr_001_01_ans02
+SSR/SSR0001410
+If I could do that,[nl]we wouldn't have any trouble, would we!
+SSR/SSR0001420
+A-After all, why the hell[nl]should I smile for you!?
+@ssr_001_01_ans03
+SSR/SSR0001430
+Shut up![nl]How could you say that so flippantly!?
+@ssr_001_01_ans04
+SSR/SSR0001440
+I'm more embarrassed than you!
+@ＨＰ－２０
+@ssr_001_01_ans05
+SSR/SSR0001450
+Mgh!
+SSR/SSR0001460
+I-If you keep looking at me so seriously like that,[nl]I guess I'll be quiet....
+@ssr_001_01_ans06
+SSR/SSR0001470
+You've got some nerve,[nl]ordering me around like that....
+SSR/SSR0001480
+Very well. Since you've got that kind of courage,[nl]I'll do what you say.
+common.asb
+ssr_001_104.asb

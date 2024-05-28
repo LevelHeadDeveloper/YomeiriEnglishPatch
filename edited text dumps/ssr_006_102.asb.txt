@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ssr_006_102
+@exposew
+RAK/RAK0019930
+In the past, before I met you,[nl]I wouldn't have been like this....
+What does that mean?
+Is it because you met me?
+Can you elaborate, please?
+@ザクシャ誠士郎・１
+RAK/RAK0019940
+That's....
+@expw
+RAK/RAK0019950
+No, never mind.[nl]I still cannot tell anyone about these feelings.
+@ssr_006_103
+RAK/RAK0019960
+Enough, okay?[nl]Leave me alone for a while.
+RAK/RAK0019970
+I'm not in the mood to talk right now....
+@ssr_006_201
+common.asb
+ssr_006_103.asb
+ssr_006_201.asb

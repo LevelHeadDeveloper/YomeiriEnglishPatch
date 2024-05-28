@@ -1,0 +1,110 @@
+__main
+@Lclearscreenall
+@ssr_103
+@イベント開始処理
+SSR/SSR0012410
+Hmm.....
+RAK/RAK0053050
+Hmm....?[nl]Why are you looking up at that tree, Tsugumi?
+@ＢＧＭ再生
+SSR/SSR0012420
+Oh, Raku Ichijo.[nl]I was just looking at *that*.
+RAK/RAK0053060
+That soccer ball?
+RAK/RAK0053070
+What's it doing way up at the top of that tree?
+SSR/SSR0012430
+The teacher told me to kick it as hard as I could.[nl]So that's what I did.
+RAK/RAK0053080
+You kicked it up there?[nl]Where did you kick it from?
+@expose
+SSR/SSR0012440
+I was the goalie, so it was from somewhere[nl]around that goal over there.
+RAK/RAK0053090
+That's gotta be around 100 meters from here![nl]What kind of legs do you even have....?
+SSR/SSR0012450
+I was aiming for the other team's goal,[nl]but it's kind of hard to aim the ball where you want it to go.
+RAK/RAK0053100
+....Jeez, I guess it can't be helped.[nl]Lemme go grab a ladder or a big stick or something.
+SSR/SSR0012460
+No, that won't be necessary.[nl]I was about to jump up there and grab it.
+RAK/RAK0053110
+Huh? Jump?
+SSR/SSR0012470
+.....Hut!
+RAK/RAK0053120
+Aaagh!?
+SSR/SSR0012480
+I got it, Raku Ichijo.
+RAK/RAK0053130
+Amazing.....[nl]To think you climbed so high that quickly.
+SSR/SSR0012490
+Heh....I don't need a ladder to get up this high.
+RAK/RAK0053140
+H-Hey, stop moving around so much![nl]You might lose your balance and fall!
+SSR/SSR0012500
+Hahaha! I would never do something that stupid![nl]You just stand back and watch me land gracefull--
+SSR/SSR0012510
+Ahh.....
+RAK/RAK0053150
+Look out!
+She fell!
+Catch her
+SSR/SSR0012520
+Aaagh! Don't get so close, Raku Ichijo!
+@ＢＧＭ停止
+@画面揺らし2
+@スクリーン変更
+SSR/SSR0012530G
+Aaaaagh!
+SSR/SSR0012540
+Owwww.....ghh.[nl]That was supposed to be a simple landing for one person....
+SSR/SSR0012550
+Then you had to go and jump under me,[nl]making me lose my form and--
+SSR/SSR0012560
+....Wait, huh? Raku Ichijo?[nl]Where are you? Where did you go!?
+RAK/RAK0053170
+Mmmmpppphh!
+SSR/SSR0012570
+Hm.....?
+@背景変更
+RAK/RAK0053180
+Mmmphh!?
+SSR/SSR0012580
+Waaaaaaagh![nl]W-W-W-W-W-What the hell do you think[nl]you're doing there!?
+RAK/RAK0053190
+Jmft gfd fff mmf![nl](Just get off me!)
+SSR/SSR0012590
+Hyaaah!?[nl]S-Stop talking! That tickles!!
+@ザクシャ誠士郎・中
+RAK/RAK0053200
+Mm bmmg sffmcatd![nl](I'm being suffocated!)
+SSR/SSR0012600
+All right, fine, just be quiet!
+RAK/RAK0053210
+Haaahh....I thought I was gonna die there.
+SSR/SSR0012610
+Ghh.... That was your own fault![nl]You had to do do something so needless,[nl]and also, my.....
+SSR/SSR0012620
+My b-b-bu-bu....!
+RAK/RAK0053220
+Aaaagh! You don't have to keep saying it![nl]I know it was my fault!
+SSR/SSR0012630
+Uuuuugh....[nl]Forget this ever happened. Forget it!
+RAK/RAK0053230
+Okay....I'll pretend this never happened.
+SSR/SSR0012640
+There.
+RAK/RAK0053240
+Phew. It was just like you said.[nl]I was gonna try to help you, but I couldn't do much.
+@ザクシャ誠士郎・小
+SSR/SSR0012650
+Heh. I told you that wouldn't be necessary.
+SSR/SSR0012660
+Well, I'm going to go put this ball away.[nl]See ya, Raku Ichijo.
+RAK/RAK0053250
+Okay, later, Tsugumi.
+RAK/RAK0053260
+(I guess I should probably start working out.)
+@イベント終了処理
+common.asb

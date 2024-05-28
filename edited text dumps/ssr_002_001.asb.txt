@@ -1,0 +1,271 @@
+__main
+@Lclearscreenall
+@ssr_002
+@イベント開始処理
+@画面揺らし2
+SSR/SSR0001680
+Raku Ichijooo!!
+RAK/RAK0015690
+Aaah! Tsugumi![nl]W-What's the matter!?
+SSR/SSR0001690
+...I have a favor to ask of you,[nl]as the mistress's boyfriend.
+RAK/RAK0015700
+Huh....?
+CTG/CTG0008030
+Huh? Tsugumi, what's wrong?[nl]What is it you need from Raku?
+@expose
+SSR/SSR0001700
+Aa! M-Mistress!
+SSR/SSR0001710
+Khh....we can't talk here.[nl]Raku Ichijo! Shut up and come with me!
+@叫び揺れ
+RAK/RAK0015710
+H-Hey! Stop pulling me!
+@pan
+RAK/RAK0015720
+Aaaaaaaaaaaahhh!
+CTG/CTG0008040
+Hm?
+@時間経過演出
+@ＢＧＭ再生
+RAK/RAK0015730
+---So, I shut up and came with you, but....[nl]This is an aquarium, right?
+SSR/SSR0001720
+Yes, an aquarium.
+RAK/RAK0015740
+You....wanted to come to an aquarium with me?
+SSR/SSR0001730
+I have a good reason![nl]Hear me out!
+SSR/SSR0001740
+....Ahem.
+SSR/SSR0001750
+This aquarium has a limited edition[nl]stuffed animal that the mistress wants.
+SSR/SSR0001760
+As for me, I'd like to get her one[nl]as a token of my appreciation of her....
+SSR/SSR0001770
+But I heard that to get this particular stuffed animal,[nl]you need to attend the event as a pair.
+RAK/RAK0015760
+Hmmhmm.[nl]That sounds like it'll be a lot of trouble.
+SSR/SSR0001780
+You say that like it's someone else's problem....[nl]You're going to be in the event with me!
+RAK/RAK0015770
+Huh!? Me....with you!?
+SSR/SSR0001790
+T-There's no need to act so surprised.
+RAK/RAK0015780
+N-No, it's just....[nl]There's all kinds of guys in the Beehive, right?
+RAK/RAK0015790
+Wouldn't it have been easier to just[nl]have one of them go with you instead?
+SSR/SSR0001800
+No. I can't trust them to[nl]not let word slip to the mistress.
+SSR/SSR0001810
+Claude is the only one I trust to keep quiet....[nl]But I don't think I can ask him....
+RAK/RAK0015800
+I see. So that's where I come in.
+SSR/SSR0001820
+It annoys me that I have to rely on you,[nl]but that's a small price to pay to see the joy[nl]on the mistress's face.
+RAK/RAK0015810
+By the way, what would you do if I said no?
+SSR/SSR0001830
+Impossible. As the mistress's boyfriend,[nl]isn't it natural that you'd go right along with this?
+RAK/RAK0015820
+Gwehh...![nl]So I don't have a say right from the get-go!
+SSR/SSR0001840
+Of course! If you're really the[nl]mistress's lover, you'd nod your head yes immediately![nl]Right!?
+RAK/RAK0015830
+Yeah, you're right.[nl]I'll do it, then.
+RAK/RAK0015840
+So, this event. What is it?
+SSR/SSR0001850
+I dunno.[nl]All I know is that they require male-female pairs.
+RAK/RAK0015850
+Huh? Male-female?
+RAK/RAK0015860
+----
+RAK/RAK0015870
+Hey, Tsugumi.[nl]Doesn't it feel like there's[nl]an unusual amount of couples around?
+SSR/SSR0001860
+Hm?
+......
+SSR/SSR0001870
+It would seem so, but why does that matter?
+RAK/RAK0015880
+I'm just saying, this event might be....
+EVS/EVS0000010
+Registration will close shortly.[nl]If you are participating in the event,[nl]please gather around here as soon as possible!
+SSR/SSR0001880
+Let's go! We don't have time!
+RAK/RAK0015890
+Wa- He- Stop pulling me![nl]Hear me out!
+@ＢＧＭ停止
+SSR/SSR0001890
+Our first mission is....[nl]"Find something heart-shaped on the[nl]bottom of the ocean floor", huh.
+SSR/SSR0001900
+Khh....I can't see anything heart-shaped.[nl]There's too many fish to see clearly!
+RAK/RAK0015900
+Well, yeah, this is an aquarium.[nl]Of course there's lots of fish.
+SSR/SSR0001910
+I knew that already![nl]More importantly, are you even trying to[nl]find it yourself!?
+@背景変更
+SSR/SSR0001920
+I feel like it's over there somewhere....[nl]Lemme see it!
+RAK/RAK0015910
+Oy! Don't lean on me so much!
+SSR/SSR0001930
+I can't see it if I don't do this.
+SSR/SSR0001940
+Aah....!?
+SSR/SSR0001950
+There it is, Raku Ichijo!
+SSR/SSR0001960
+Haha....whatever that is, it's surprisingly cute.[nl]It's shining there in the water as the lights reflect[nl]off of it!
+RAK/RAK0015920
+(Hmmm... I guess she does[nl] have a feminine side after all.[nl] She seems pretty happy....)
+RAK/RAK0015930
+(But it kinda looks like that's[nl] just a heart-shaped rock....)
+SSR/SSR0001970
+Hahaha. I wish I could show this to the mistress.
+@フェードアウト
+SSR/SSR0001980
+Right, this is our next mission!
+ASK/ASK0000010
+Arf, arf, arf!
+RAK/RAK0015940
+The Sea Lion Couple High Five, huh....
+SSR/SSR0001990
+Hehe....this should be simple.[nl]Here, come here.
+ASK/ASK0000020
+Arf, arf, arf ♪
+SSR/SSR0002000
+Yes, yes. Good boy. Now! High five!
+RAK/RAK0015950
+Hey~! Nice job, Tsugumi!
+RAK/RAK0015960
+Alright, my turn....[nl]Right! Come here!
+ASK/ASK0000030
+Arrrrrrrr~~~!
+RAK/RAK0015970
+Gwah!? Cold!
+SSR/SSR0002010
+Hyahh!?
+ASK/ASK0000040
+Bark, bark!?[nl]Arf, arf, arf!
+RAK/RAK0015980
+Dammit, even here, animals don't seem to like me....
+RAK/RAK0015990
+Are you alright, Tsugumi?
+RAK/RAK0016000
+Hey, aaaagh! You're soaked!
+@expose2
+SSR/SSR0002020
+Whaaaaaa!?[nl]D-Don't look at me!
+@ＨＰ－１０
+RAK/RAK0016010
+Gwaahhh!?
+RAK/RAK0016020
+Owww....
+SSR/SSR0002030
+Fwah....we're finally all dry.[nl]Jeez....we lost a lot of time.
+RAK/RAK0016030
+Yeah, yeah, sorry, that was all my fault.
+SSR/SSR0002040
+Hmph. I didn't expect even sea lions to hate you.[nl]How are you supposed to be a keeper like that?
+RAK/RAK0016040
+Please don't say that.[nl]It seriously stings...
+SSR/SSR0002050
+I-I see....sorry.
+RAK/RAK0016050
+Anyway! I managed to touch his flipper once,[nl]so I guess this mission is complete, right?
+SSR/SSR0002060
+Yeah. I got the O.K. from the staff just now.
+SSR/SSR0002070
+Alright, next!
+SSR/SSR0002080
+This way next!
+SSR/SSR0002090
+Next! Hurry up!
+SSR/SSR0002100
+Next!
+RAK/RAK0016060
+Hahh....hahh....
+SSR/SSR0002110
+Alright. This is our next and final mission.
+RAK/RAK0016070
+Finally....
+RAK/RAK0016080
+We chased penguins,[nl]we caught a lucky tropical fish....[nl]That was a lot of work.
+SSR/SSR0002120
+This is all for the mistress. Stop whining.
+SSR/SSR0002130
+If something this trivial upsets you,[nl]then you're not qualified to be her lover!
+RAK/RAK0016090
+Right, right....sorry about that.
+RAK/RAK0016100
+So, what's the last mission?
+SSR/SSR0002140
+I don't know.[nl]I was told the staff would explain it....
+EVS/EVS0000020
+Alright~, boyfriends and girlfriends![nl]Thank you for participating in our event today!
+SSR/SSR0002150
+Hm....?
+EVS/EVS0000030
+So, for those lucky couples who completed[nl]our other challenges, please listen as I explain[nl]today's final challenge!
+SSR/SSR0002160
+Hey, Raku Ichijo....[nl]Just now, did she say...."boyfriends and girlfriends"?
+RAK/RAK0016110
+Yeah. That's what she said....
+EVS/EVS0000040
+Yes, let's go! If you can finish this challenge,[nl]you will win a special stuffed animal that's[nl]exclusive to this aquarium!
+EVS/EVS0000050
+This event is called:[nl]"All Living Creatures Show Their Love Through Hugs!?[nl]Heart-Pounding ★ Couple Hugging!"
+EVS/EVS0000060
+That's right! Now, let us see your warm embraces!
+SSR/SSR0002170
+Wha....!
+SSR/SSR0002180
+Wh-wh-wh-wh-wh-wh-wh-wh-[nl]wh-wh-wh-wh-wh-wh-wh-wh-
+@画面揺らし2
+SSR/SSR0002190
+WHAT THE HELLL!?
+RAK/RAK0016120
+H-Hey, Tsugumi.[nl]I didn't really want to think about this....[nl]But this is a special couples-only dating event!
+SSR/SSR0002200
+D-Dating event!?
+SSR/SSR0002210
+W-W-W-W-Wait! Hang on, Raku Ichijo![nl]I didn't know about any of this!
+SSR/SSR0002220
+T-T-This is just a mission to get[nl]something for the mistress![nl]I had no idea it was this kind of event!
+RAK/RAK0016130
+C-Calm down![nl]I understand, so don't worry.
+SSR/SSR0002230
+Ghhhh......
+EVS/EVS0000070
+Heey you, that high school couple over there![nl]If you don't hug soon,[nl]you won't get the stuffed animal, okay?
+RAK/RAK0016140
+High school couple....[nl]Is she talking to us!?
+RAK/RAK0016150
+W-Well....[nl]We can't just hug each other. Right, Tsugumi---
+SSR/SSR0002240
+Ooooohhhhhh.....
+RAK/RAK0016160
+T-Tsugumi!?!?
+SSR/SSR0002250
+....Guhh! We've come all this way,[nl]and now we have to return....empty handed!?
+SSR/SSR0002260
+W-We're doing this! Raku Ichijo!
+RAK/RAK0016170
+Huh!? Seriously!? Hugging!?[nl]You mean, like, an actual hug!?
+SSR/SSR0002270
+There's no need to say it twice! Idiot!
+SSR/SSR0002280
+This is all for the sake of the mistress.[nl]I've resigned myself, so you should too!
+RAK/RAK0016180
+B-But.....
+SSR/SSR0002290
+Stop complaining already....[nl]Well, c-come on!
+RAK/RAK0016190
+W-We're seriously doing this!?
+@ＢＧＭ停止
+@ssr_002_101
+common.asb
+ssr_002_101.asb

@@ -1,0 +1,19 @@
+__main
+@Lclearscreenall
+@snk_381
+SSR/SSR0021600
+Well done. You're almost to the goal.
+RAK/RAK0083010
+R-Really....!?
+SSR/SSR0021610
+Yes. But be on your guard.[nl]A former world-champion wrestler awaits you in the next area.
+SSR/SSR0021620
+With your body, you could probably only afford[nl]2, maybe 3 broken ribs. Try to keep a level head so you aren't discovered.
+RAK/RAK0083020
+How am I supposed to keep a level head!?[nl]Dammit, you've given me too much unnecessary information!
+RAK/RAK0083030
+....Although, I did participate of my own volition.[nl]I just need to make it through to the end....
+SSR/SSR0021630
+Heh, that's the spirit.
+SSR/SSR0021640
+As the mistress's boyfriend,[nl]you must be prepared to do at least that.

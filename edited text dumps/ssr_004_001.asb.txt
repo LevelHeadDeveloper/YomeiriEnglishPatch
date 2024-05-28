@@ -1,0 +1,164 @@
+__main
+@Lclearscreenall
+@ssr_004
+@イベント開始処理
+SSR/SSR0004140
+Mistress~! Mistress~!
+@expose
+SSR/SSR0004150
+....Not here.
+@背景変更
+SSR/SSR0004160
+Gone the second class ends....[nl]Mistress, you've become exceedingly good[nl]at ditching me.
+SSR/SSR0004170
+But you're naive.[nl]After all, you have animal care duties after school.[nl]I know exactly where you are.
+SSR/SSR0004180
+Which means I can keep tabs on Raku Ichijo[nl]at the same time as---
+SSR/SSR0004190
+Mgh....!
+SSR/SSR0004200
+----
+SSR/SSR0004210
+What is this....[nl]At the mention of Raku Ichijo's name,[nl]this pain in my chest....
+SSR/SSR0004220
+What the hell....is wrong with me?
+......
+SSR/SSR0004230
+For some reason....[nl]I don't want to go to the menagerie....[nl]I cannot go....
+SSR/SSR0004240
+To watch over the mistress,[nl]and keep an eye on Raku Ichijo....[nl]These are the duties given to me.
+SSR/SSR0004250
+I must go....[nl]Then, why....
+SSR/SSR0004260
+Why are my feet so heavy....?
+CTG/CTG0008610
+Ah....Tsugumi.
+SSR/SSR0004270
+M-Mistress!?
+@ＢＧＭ再生
+SSR/SSR0004280
+!!![nl]Mistress! Why are you crying!?
+CTG/CTG0008620
+S-Sorry. Talk to you later....
+SSR/SSR0004290
+Aaaah! Mistress!!
+SSR/SSR0004300
+----What's going on!?[nl]Why is the mistress crying....
+SSR/SSR0004310
+!![nl]Don't tell me....Raku Ichijo![nl]That bastard's done something horrible to you!
+SSR/SSR0004320
+----
+SSR/SSR0004330
+No forgiveness....
+SSR/SSR0004340
+NO FORGIVENESS!!!!
+@フェードアウト
+RAK/RAK0017430
+Jeez....[nl]"Cleaning the shed'll be easy-peasy", she said.[nl]Waving her broom around like that....
+RAK/RAK0017440
+Now she's crying because she got dust in her eyes.[nl]She's hopeless.
+RAK/RAK0017450
+Hahh.....I guess I'll clean up by myself[nl]until she rinses out her eyes....
+NIW/NIW0000010
+Buckaw! Buck buck buck, buckaw!
+RAK/RAK0017460
+Aah! What's the matter, Crusher Kato!?
+HAM/HAM0000010
+Squeak squeak squeak,[nl]squeak squeak~~~!
+IGN/IGN0000010
+Grunt grunt....
+CRW/CRW0000010
+Caw! Caw!
+RAK/RAK0017470
+Beauty Edelweiss Sakurako![nl]Hanks Muramatsu Echigo![nl]Even Cannonball Kurokawa the Third!
+RAK/RAK0017480
+(W-What's going on?[nl] The animals all look terrified....)
+SSR/SSR0004350
+Raku....Ichijo....
+RAK/RAK0017490
+Hey, Tsugumi....
+RAK/RAK0017500
+Wait, w-what!?[nl]You seem different from your usual self....
+@ＢＧＭ停止
+SSR/SSR0004360
+What have you done to the mistress?
+RAK/RAK0017510
+Hm? What do you mean?
+@expose
+@画面揺らし2
+SSR/SSR0004370
+Stop....playing....DUMB!!!!!!!
+RAK/RAK0017520
+Aaaaaaaagh!?
+RAK/RAK0017530
+H-Hang on a sec! Let's talk about this, Tsugumi![nl]What did I do!?
+SSR/SSR0004380
+I warned you, Raku Ichijo![nl]Do anything to make the mistress cry,[nl]and I'll show you no mercy!
+RAK/RAK0017540
+What are you talking about!?
+SSR/SSR0004390
+To keep denying it this far in....[nl]I'll show you a fate worse than death!
+SSR/SSR0004400
+PREPARE YOURSELF, RAKU ICHIJOOOOOOO!!!!
+RAK/RAK0017550
+Aaaaaaaaaaaaaagh!!
+RAK/RAK0017560
+I told you to listen to me!
+SSR/SSR0004410
+K・I・L・L......!
+RAK/RAK0017570
+L-Let's talk this over....!
+SSR/SSR0004420
+KILLLLL!
+RAK/RAK0017580
+(Dammit, it's useless![nl] I've got to run away!)
+RAK/RAK0017590
+Hahh, hahh, hahh....
+RAK/RAK0017600
+Did I....get away somehow?
+SSR/SSR0004430
+Where are you....Raku Ichijo?[nl]I won't let you get awaaay.....
+RAK/RAK0017610
+Khh....no good.
+RAK/RAK0017620
+(She's a professional.[nl] No way in hell she won't find me if I don't do something.)
+RAK/RAK0017630
+(I need to get her to calm down,[nl] but I don't know how.)
+RAK/RAK0017640
+Aaah!
+RAK/RAK0017650
+Oh, it's Chitoge.
+CTG/CTG0008630
+What the hell, Raku![nl]Where have you gone while I was cleaning my eyes!?[nl]You're trying to make me clean up all by myself, aren't you!?
+RAK/RAK0017660
+W-Well....for some reason, Tsugumi's chasing me.
+CTG/CTG0008640
+Huh? Why?
+RAK/RAK0017670
+I don't know![nl]Something about how I made you cry, or something!
+CTG/CTG0008650
+You, make me cry? That's stupid.
+RAK/RAK0017680
+Anyway, If I don't do something, she'll kill me![nl]Help me, Chitoge!
+CTG/CTG0008660
+O-Okay.....
+CTG/CTG0008670
+But once she gets fired up, there's no stopping her....
+CTG/CTG0008680
+Maybe, if she sees us getting along,[nl]she'll calm down enough so we can explain.
+RAK/RAK0017690
+I see....so that means we need to meet up.
+CTG/CTG0008690
+Yeah. Then I'll try to calm her down.
+SSR/SSR0004440
+Raku Ichijo.....come out this instaaaaaaant!
+RAK/RAK0017700
+Ghh, I'm almost out of time.
+RAK/RAK0017710
+Chitoge! Come into the school![nl]I'll find a way to meet up with you!
+CTG/CTG0008700
+I guess I have to.[nl]But you're buying me something later.
+RAK/RAK0017720
+(Alright, time to go meet Chitoge!)
+@ヌキアシ開始処理
+common.asb

@@ -1,0 +1,35 @@
+__main
+@Lclearscreenall
+@ssr_006_101
+@2ショット開始
+Calm down Seishiro
+@ＢＧＭ再生
+RAK/RAK0019840
+You're awfully impudent, Raku Ichijo....
+RAK/RAK0019850
+What do you know about my problems....
+Seishiro's problems....
+Is it because of me?
+Did you want to be a man?
+@ザクシャ誠士郎・１
+@expw
+RAK/RAK0019860
+....I guess I can't hide that, after all.
+RAK/RAK0019870
+Yes, that is correct,[nl]Raku Ichijo.
+RAK/RAK0019880
+But it isn't your fault.[nl]This happened because I am weak.
+@ssr_006_102
+@exposew
+RAK/RAK0019890
+What kind of idiot are you?[nl]I can't do anything with such a frail body.
+RAK/RAK0019900
+I'm sorry, but I'm not in the mood for a stupid[nl]conversation like this one.....shut up.
+@ssr_006_201
+RAK/RAK0019910
+Exactly. So please leave me alone.
+RAK/RAK0019920
+I'm not in the mood for such a stupid conversation....
+common.asb
+ssr_006_102.asb
+ssr_006_201.asb

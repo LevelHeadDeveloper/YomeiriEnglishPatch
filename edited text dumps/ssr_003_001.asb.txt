@@ -1,0 +1,199 @@
+__main
+@Lclearscreenall
+@ssr_003
+@イベント開始処理
+@ＢＧＭ再生
+......
+RAK/RAK0016650
+Hey, honey.....
+RAK/RAK0016660
+Why exactly is Tsugumi at our date spot?
+@expose
+CTG/CTG0008050
+There wasn't anything I could do.[nl]I didn't ask her to come today.
+SSR/SSR0003050
+Ahem.....[nl]It's my duty to protect the mistress at any time,[nl]no matter the location.
+RAK/RAK0016670
+B-But, well....
+SSR/SSR0003060
+But what, exactly? Would you prefer if[nl]the Beehive and I didn't watch you today?[nl]Would that be more convenient?
+SSR/SSR0003070
+I didn't want to think about it, but you weren't[nl]planning on doing something indecent with the[nl]mistress somewhere no one's watching, were you?
+RAK/RAK0016680
+I-I was not![nl]I won't lay a finger on her!
+CTG/CTG0008060
+Mgh....[nl]For some reason, that's frustrating....
+RAK/RAK0016690
+Hm?
+CTG/CTG0008070
+N-Nothing! Stupid bean sprout!
+RAK/RAK0016700
+Huh!? Why are you mad at me!?
+SSR/SSR0003080
+Come on, why don't you hurry up[nl]and escort the mistress on your date?[nl]Like her lover should!
+RAK/RAK0016710
+But we haven't decided where to go yet....[nl]Any thoughts, Chitoge?
+CTG/CTG0008080
+I guess....since Tsugumi's with us today,[nl]how about we start with a girls' shopping trip?
+RAK/RAK0016720
+Ummm....where do I fit into that?
+CTG/CTG0008090
+You carry all the bags.
+RAK/RAK0016730
+Yeah, yeah....I figured that might be it.[nl]As you command, mistress.
+CTG/CTG0008100
+Alright! ♪　[nl]Shall we, then, Tsugumi?
+SSR/SSR0003090
+Huh? U-Um.....[nl]I'm just the bodyguard and observer.
+SSR/SSR0003100
+Don't worry about me, mistress.[nl]Just enjoy your date.
+RAK/RAK0016740
+No way that's happening.[nl]Stop being so weirdly reserved.
+CTG/CTG0008110
+Right, then.[nl]A 3-person date shouldn't be too bad, should it?
+SSR/SSR0003110
+T-Three person d----
+SSR/SSR0003120
+Then that means I'm also[nl]on a date with Raku Ichijo....?
+SSR/SSR0003130
+----
+RAK/RAK0016750
+Hey, what's the matter, Tsugumi?
+SSR/SSR0003140
+Waaaaaagh!
+@ＨＰ－１０
+RAK/RAK0016760
+Gwaaaaaaah!
+CTG/CTG0008120
+R-Raku!?
+@expose2
+SSR/SSR0003150
+N-No way!![nl]Why the hell should I be your lover!?
+RAK/RAK0016770
+W-What the hell are you talking about!?
+SSR/SSR0003160
+Shut up![nl]I belong to the mistress!
+CTG/CTG0008130
+H-Hang on, Tsugumi! Don't yell something[nl]that can be so easily misunderstood![nl]Come on, calm down!
+SSR/SSR0003170
+Ghhhh......
+RAK/RAK0016780
+(Jeez, the second she thinks she's on[nl] a date with me, she flips out....[nl] What the heck is her deal?)
+@ＢＧＭ停止
+@フェードアウト
+@時間経過演出
+@ＢＧＭ再生
+SSR/SSR0003180
+M-Mistress....[nl]Are we really changing clothes here?
+CTG/CTG0008140
+Yeah. That's what the fitting rooms are for.
+CTG/CTG0008150
+Here. I'll help you. Take it off.
+SSR/SSR0003190
+Kyah! I-I can take that off myself!
+.......
+SSR/SSR0003200
+Aaaaah! W-Where did you just touch me!?
+CTG/CTG0008180
+Tsugumii~![nl]Don't tell me you've gotten even bigger?
+SSR/SSR0003210
+Huh...?[nl]Well....I guess....
+CTG/CTG0008190
+I knew it![nl]Kuu....I was pretty certain of it for a while![nl]These....these....
+SSR/SSR0003220
+T-That tickles, mistress! Hahahaha![nl]P-Please stop~! D-Don't poke me~!
+@画面揺らし
+RAK/RAK0016790
+Hey! What's going on?[nl]What kind of torture is that?
+CTG/CTG0008200
+Shut up.[nl]What? What are you doing here?
+RAK/RAK0016800
+You're the one who told me to wait here!
+SSR/SSR0003230
+Is that Raku Ichijo....?[nl]Don't tell me you heard all of that!?
+RAK/RAK0016810
+Well, I'm bound to when you're talking that loudly.
+SSR/SSR0003240
+Y-You dirty-minded man!
+RAK/RAK0016820
+No, no, it wasn't my fault!
+SSR/SSR0003250
+I am going to very slowly kill you later....
+RAK/RAK0016830
+You're way overreacting!
+CTG/CTG0008210
+Hey, hey, look at this, Raku![nl]Ta-daaa!
+@背景変更
+SSR/SSR0003260
+Aaah!? Don't open it so suddenly!
+CTG/CTG0008220
+Well? Great, isn't she?[nl]She's got a great body, so it would be a[nl]waste to not dress her up like this~!
+RAK/RAK0016840
+Y-Yeah....
+CTG/CTG0008230
+What, you're really that unfeeling of a guy.[nl]Times like this, you should compliment her!
+CTG/CTG0008240
+Hey, Tsugumi, stop being so bashful and[nl]show yourself off a little.
+SSR/SSR0003270
+O-Okay.....
+SSR/SSR0003280
+R-Raku Ichijo....what do you think?
+RAK/RAK0016850
+What do I think....
+RAK/RAK0016860
+I think that looks awesome on you.[nl]Kinda cute, don'tcha think?
+SSR/SSR0003290
+....Y-Yeah.
+CTG/CTG0008250
+Hahaha. You're really a lucky guy.[nl]You've got flowers in both hands!
+RAK/RAK0016890
+(Well....she's not wrong.)
+RAK/RAK0016900
+(Not just Chitoge, either....[nl] but when she dresses femininely like that,[nl] Tsugumi couldreally turn some heads.)
+SSR/SSR0003320
+Mgh....[nl]W-What the hell are you looking at!?
+RAK/RAK0016910
+Aah, sorry![nl]I got kinda caught up in....
+SSR/SSR0003330
+Huh....?
+RAK/RAK0016920
+Waaagh, never mind![nl]You're done shopping now, aren't you?
+RAK/RAK0016930
+Let's go somewhere else! Alright?
+SSR/SSR0003340
+O-Okay....
+OWR/OWR0000010
+Shichi! Shichiiii!
+DOG/DOG0000010
+Arooooooo!
+RAK/RAK0016940
+(Waaaah![nl] "Loyal Dog Shichiko"....[nl] A real tear-jerker!)
+SSR/SSR0003350
+*Sniffle*.....Shichi!
+CTG/CTG0008270
+Zzzzzz........
+RAK/RAK0016950
+Ahhh, what a great movie.
+RAK/RAK0016960
+He really waited for his owner after all that time....[nl]Shichi was a good boy and really lived up to his title.
+CTG/CTG0008280
+Yaaaaaaawn. That went by fast.
+RAK/RAK0016970
+Yeah, that's because you[nl]dozed off the instant the movie started.
+CTG/CTG0008290
+Mmmgh....I'm still kinda tired.[nl]My head feels fuzzy....
+RAK/RAK0016980
+Jeez. Try splashing some cold water on your face.
+CTG/CTG0008300
+Yeah....I think I will.
+RAK/RAK0016990
+Hm? By the way, where's Tsugumi?
+SSR/SSR0003360
+Aahhhhh.....what a splendid dog,[nl]so small and fuzzy, and so cute!
+SSR/SSR0003370
+I'll take one "Loyal Dog Shichiko" pamphlet,[nl]and that clear file! And also---
+RAK/RAK0017000
+She really seems to have loved it....[nl]I guess I should ask her what she thought.
+@ssr_003_101
+common.asb
+ssr_003_101.asb

@@ -1,0 +1,63 @@
+__main
+@Lclearscreenall
+@ssr_004_103
+@expose2
+SSR/SSR0005220
+Ngh....I'm really bad at this....[nl]Every time I say it I get violent....
+@ssr_004_103_01
+@expose
+SSR/SSR0005230
+T-That reminds me![nl]Is there anything I can do to make up for it?
+SSR/SSR0005240
+I-I'll do anything you want!
+What do you want?
+Help take care of the animals
+Take care of me
+Take care of Shuu
+SSR/SSR0005250
+That's right, you and the mistress[nl]were cleaning the animal's cages just now.
+SSR/SSR0005260
+And you want me to help with that?
+SSR/SSR0005270
+....Alright. I'll put my heart and soul into it.
+@ザクシャ誠士郎・小
+SSR/SSR0005280
+Thank you, Raku Ichijo.
+SSR/SSR0005290
+Wha---!?[nl]W-What do you mean by that!?
+SSR/SSR0005300
+You....mean I should stay with you[nl]from "Good morning" to "Good night"?
+SSR/SSR0005310
+I see, t-that's what you meant.
+@ザクシャ誠士郎・大
+SSR/SSR0005320
+----
+SSR/SSR0005330
+.....A-Alri---
+SSR/SSR0005340
+Huh!? You were joking!?
+SSR/SSR0005350
+What kind of joke is that!?[nl]You stupid bastard----!!!
+@ＨＰ－２０
+SSR/SSR0005360
+Aaaaaa! I did it again!
+SSR/SSR0005370
+Alright....
+SSR/SSR0005380
+Huh? No, wait! Wait, wait![nl]Why did you say Shuu Maiko's name there!?
+SSR/SSR0005390
+Oogh....if it were you, maybe,[nl]but the other---
+SSR/SSR0005400
+---Wait, what are you trying to make me say!?
+SSR/SSR0005410
+@ザクシャ誠士郎・１
+SSR/SSR0005420
+What....you don't want anything?
+SSR/SSR0005430
+Here I am, bowing my head and offering recompense,[nl]and you don't even want anything....
+SSR/SSR0005440
+....You're a very strange man.
+@ssr_004_103_end
+@ssr_004_201
+common.asb
+ssr_004_201.asb

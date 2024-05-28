@@ -1,0 +1,46 @@
+__main
+@Lclearscreenall
+@snk_272
+RAK/RAK0033040
+Y-Yo....Tsugumi.
+SSR/SSR0009920
+Raku Ichijo.....
+SSR/SSR0009930
+How brave of you to show your face in front of me.
+RAK/RAK0033050
+Huh?
+SSR/SSR0009940
+Recently, I was even beginning to appreciate you a little....[nl]But now I'm angry with myself for that.
+RAK/RAK0033060
+U-Umm....what are you talking about?
+@IsAnswerTrue
+SSR/SSR0009950
+Don't play dumb.[nl]You....you took the mistress's glasses right off her face.
+@IsAnswerFalse
+SSR/SSR0009955
+Don't play dumb.[nl]You....you took off your glasses right in front of the mistress.
+@snk272continue
+RAK/RAK0033070
+Gah! You already heard about that!?
+SSR/SSR0009960
+I always knew you were unsavory,[nl]but I never thought you'd be a straight-up scumbag!!
+SSR/SSR0009970
+There is no excuse.[nl]Die. Right here, right now.
+RAK/RAK0033080
+Aaaaaaagh! Wait, time out!
+SSR/SSR0009980
+Save your breath. OBLITERA---
+SYU/SYU0005380
+Maiko Attack!!
+SSR/SSR0009990
+!?!?
+SSR/SSR0010000
+Aaagh! W-What are you doing!?
+SSR/SSR0010010
+M-My glasses![nl]No....NOOOOO!
+SSR/SSR0010020
+....Wait, Raku Ichijo![nl]Where are you!? Where did you go!?
+SSR/SSR0010030
+Ghhh....you bastards![nl]NO MERCYYYYYYY!!
+SSR/SSR0010040
+Beehive, we have an emergency![nl]Raku Ichijo! Shuu Maiko! KILL THEM BOTH!

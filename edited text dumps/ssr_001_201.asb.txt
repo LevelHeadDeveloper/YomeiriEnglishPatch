@@ -1,0 +1,59 @@
+__main
+@Lclearscreenall
+@ssr_001_201
+@2ショット成功
+@2ショット失敗
+@ssr_001_201_01
+RAK/RAK0015590
+(Phew....I think I've almost got a good drawing.)
+SSR/SSR0001590
+...Huuuuuuhhh.....
+RAK/RAK0015600
+W-What's the matter, Tsugumi?
+SSR/SSR0001600
+I-I knew it....this...this....
+SSR/SSR0001610
+I can't stand iiiiitttt!!
+@ＢＧＭ再生
+@画面揺らし
+RAK/RAK0015610
+Woaaaah! The easel!
+@expose
+SSR/SSR0001620
+Dammit! I can't do this![nl]I can't believe getting stared at by you[nl]is making me this nervous!
+@ザクシャ誠士郎・小
+SSR/SSR0001630
+Alright, Raku Ichijo![nl]Don't go thinking you've won this time!
+RAK/RAK0015620
+Huh? W-Won? Won what?
+RAK/RAK0015630
+(Crap....and I was almost finished, too.[nl] what am I going to do with this picture?)
+@ssr_001_201_02
+@expose
+SSR/SSR0001640
+I'm at my limit.[nl]I cannot put up with this any longer.
+RAK/RAK0015640
+Huh!? Wait....hang on a sec![nl]I haven't drawn anything yet!
+SSR/SSR0001650
+I refuse!
+SSR/SSR0001660
+I-If you stare at me for another second,[nl]I'm going to lose my damn mind!
+SSR/SSR0001670
+You can handle it from here! Hmph!
+RAK/RAK0015650
+(Does she really hate me that much....)
+RAK/RAK0015660
+Even though she told me to finish it myself....[nl]I can't do a sketch without a partner.
+@ssr_001_201_03
+SYU/SYU0001210
+Hohoho....you seem troubled.
+RAK/RAK0015670
+Oh, Shuu![nl]Do you have some kind of scheme to get me a partner!?
+SYU/SYU0001220
+Don't fret.
+SYU/SYU0001230
+After all, you still have a good friend in me. Right?
+RAK/RAK0015680
+....I guess I'm pairing with you, after all.
+@イベント終了処理
+common.asb

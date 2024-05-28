@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@ssr_107
+@イベント開始処理2
+WSA/WSA0000100
+Oh, so I found this one store yesterday....
+@ＢＧＭ再生
+.........
+SSR/SSR0013150
+Hahh.....
+RAK/RAK0053790
+(Tsugumi's not engaging in conversation with them[nl] this time, either.... It can't be helped.)
+Give her a push
+Leave her alone
+@expose
+SSR/SSR0013160
+!
+RAK/RAK0053800
+Come on, stop worrying and get over there.
+SSR/SSR0013170
+Huh...? I-I wouldn't say I'm really worried....
+SSR/SSR0013180
+I already told you.[nl]If I get too close to them, it will only[nl]make it harder for me to leave them behind.
+RAK/RAK0053810
+You're not the only one who has trouble[nl]saying their goodbyes.
+SSR/SSR0013190
+Huh....?
+RAK/RAK0053820
+We'll be graduating in just two years,[nl]and I'm certain some of us won't be[nl]seeing each other again.
+RAK/RAK0053830
+But you're wasting precious time by not talking[nl]to them for just that reason, right?[nl]You need to lighten up a bit about making friends.
+SSR/SSR0013200
+But....
+RAK/RAK0053840
+Besides, you'll have a lot more memories with Chitoge[nl]and the others, and that'll be more fun, right?
+SSR/SSR0013210
+Ah.....
+SSR/SSR0013220
+I see.... You've certainly got a point there....
+RAK/RAK0053850
+If you really think so, stop moping[nl]and go mingle with the others.
+RAK/RAK0053860
+Heeey, Chitoge!
+SSR/SSR0013230
+Waaagh, hey!
+CTG/CTG0013960
+What? You called?
+RAK/RAK0053870
+Tsugumi's interested in what you're talking about!
+CTG/CTG0013970
+Oh, really? Then you should've come over here[nl]instead of standing there talking to my darling or someone.
+RAK/RAK0053880
+The hell do you mean "or someone"?
+CTG/CTG0013980
+Come on, Tsugumi. Let's talk together.
+SSR/SSR0013240
+Ghh....alright. Thanks for offering....
+SSR/SSR0013250
+You....I won't forget this.
+RAK/RAK0053890
+Aaagh! Please don't make such a scary face.
+RAK/RAK0053900
+Okay, maybe I was nosing in a *little*....
+SSR/SSR0013260
+Jeez. You're always doing such uncalled-for things....
+RAK/RAK0053910
+Save the lecture for later. Just get going.
+SSR/SSR0013270
+O-Okay....
+SSR/SSR0013280
+....Raku Ichijo.
+RAK/RAK0053920
+Hm?
+@ザクシャ誠士郎・中
+SSR/SSR0013290
+Well....thank you.
+RAK/RAK0053930
+....Huh? What did you say?
+SSR/SSR0013300
+Shut up! Don't make me say it again![nl]See ya!
+RAK/RAK0053940
+She earnestly thanked me. That's pretty rare.
+RAK/RAK0053950
+I hope this helps her get to know her classmates better.
+RAK/RAK0053960
+Well, if she doesn't want to talk to them,[nl]it really isn't my place to say anything.
+@イベント終了処理
+common.asb

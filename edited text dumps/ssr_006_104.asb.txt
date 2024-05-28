@@ -1,0 +1,60 @@
+__main
+@Lclearscreenall
+@ssr_006_104
+@exposew
+RAK/RAK0020060
+Also....
+RAK/RAK0020070
+If I told anyone about these feelings,[nl]it wouldn't be the same as it was before.
+@expw
+RAK/RAK0020080
+Even if we got our old bodies back....
+RAK/RAK0020090
+These feelings....[nl]They'd cause trouble for you and the mistress.
+RAK/RAK0020100
+I wouldn't like that.
+Let me hear your feelings!
+It won't bother me at all!
+I can't wait any longer!
+@ザクシャ誠士郎・１
+RAK/RAK0020110
+Shut up....you....[nl]You really irritate me....
+RAK/RAK0020120
+How can you say that when you don't[nl]even know how I feel!?
+RAK/RAK0020130
+Listen, Raku Ichijo![nl]Let me be very clear!
+RAK/RAK0020140
+If you listen to my problems,[nl]you'll regret it!
+RAK/RAK0020150
+And yet....you still say[nl]you'll accept it!?
+@ザクシャ誠士郎・大
+RAK/RAK0020160
+!
+RAK/RAK0020170
+....You're so obtuse.
+RAK/RAK0020180
+Trying to accept everything, even anger and troubles....
+RAK/RAK0020190
+But....that's because you're....
+RAK/RAK0020200
+----
+RAK/RAK0020210
+Heh, you're a bit tight-lipped.[nl]But it's fine.
+RAK/RAK0020220
+This is my own problem to deal with.
+RAK/RAK0020230
+It's not an easy word to say....
+RAK/RAK0020240
+Yes, it's fine.
+RAK/RAK0020250
+This is my own problem to deal with....
+RAK/RAK0020260
+Wh-What kind of child are you!?
+RAK/RAK0020270
+You can't! These feelings are very important to me!
+RAK/RAK0020280
+You can't talk about them so lightly, you idiot!
+@ssr_006_104_end
+@ssr_006_201
+common.asb
+ssr_006_201.asb

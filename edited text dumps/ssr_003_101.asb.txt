@@ -1,0 +1,40 @@
+__main
+@Lclearscreenall
+@ssr_003_101
+@2ショット開始
+Talk to Seishiro!
+@ＢＧＭ再生
+SSR/SSR0003380
+....Hm? What is it, Raku Ichijo?
+What are your thoughts?
+The movie was entertaining
+Chitoge was entertaining
+@ザクシャ誠士郎・１
+@expose
+SSR/SSR0003390
+Aah! Yes, it was!
+SSR/SSR0003400
+Specifically, Shichi's unwavering loyalty to his master....[nl]That's something I want to emulate.
+SSR/SSR0003410
+Huh...? What are you talking about?[nl]What was so entertaining about the mistress?
+What was it?
+She was drooling
+She was sleeping with her eyes open
+SSR/SSR0003420
+Why were you staring at the mistress like that!?[nl]Moron!
+SSR/SSR0003430
+Jeez....I thought you were going to talk[nl]about the movie....what a joke of a man.
+@expose
+SSR/SSR0003440
+You're a lonely man if that's all[nl]you can think about after seeing that movie....
+SSR/SSR0003450
+Really, Shichi's unwavering loyalty to his master....[nl]Didn't that tug your heartstrings?
+SSR/SSR0003460
+....You are a very strange man.
+SSR/SSR0003470
+Hahhh.....but really,[nl]that was a great movie.
+SSR/SSR0003400
+Specifically, Shichi's unwavering loyalty to his master....[nl]That's something I want to emulate.
+@ssr_003_102
+common.asb
+ssr_003_102.asb

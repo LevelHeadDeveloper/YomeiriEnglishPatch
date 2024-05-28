@@ -1,0 +1,152 @@
+__main
+@Lclearscreenall
+@ssr_109
+@イベント開始処理
+@ＢＧＭ再生
+WSC/WSC0000010
+'Scuse me! Is Tsugumi here?
+RAK/RAK0054080
+Tsugumi?
+RAK/RAK0054090
+Heeey, Tsugumi![nl]One of the girls from another class is looking for you!
+SSR/SSR0013610
+Hahh.... Is it this again?
+RAK/RAK0054100
+Again? Well, you *have* been getting a lot[nl]of people looking for you, lately. What's going on?
+SSR/SSR0013620
+That's.....uhh.....
+SSR/SSR0013630
+I-It's not any of your business!
+RAK/RAK0054110
+Yeah, yeah. I knew you'd say that.
+SSR/SSR0013640
+Ahem.... Anyway, there's too many people here.[nl]Let's go somewhere else.
+WSC/WSC0000020
+Of course! ★
+RAK/RAK0054120
+....What, is this something you don't want people seeing?
+SYU/SYU0008850
+Whaat, you don't know about this, Raku?[nl]Seishiro's SE・CRET! ♪
+RAK/RAK0054130
+Secret? ....I mean, it's more suspicious when[nl]you put it that way....
+SYU/SYU0008860
+It's actually quite the story.[nl]But if it turns out to be true, there's not a single[nl]male in Bonyari High who would leave it alone
+SYU/SYU0008870
+After all, it's a glimpse into the sensual, alluring world[nl]of Seishiro and the other girls!
+RAK/RAK0054140
+S-Sensual!?
+@expose
+SYU/SYU0008880
+Yeah. Lately, Seishiro seems to have been up to[nl]something or other with the other girls in the bathrooms.
+SYU/SYU0008890
+And when they come out of the bathroom....[nl]Seishiro is always blushing. From this, I can only conclude....
+RAK/RAK0054150
+Conclude...what?
+SYU/SYU0008900
+Seishiro and the other girls must be doing something[nl]unbelievably sexy in there together!
+SSR/SSR0013650
+Shot or beaten to death. Choose.
+.......
+SYU/SYU0008910
+B-Beaten....
+@キャラ揺らし
+SYU/SYU0008920
+Gackkhh!
+RAK/RAK0054160
+Shuu!
+SSR/SSR0013660
+Don't go spitting strange stories like!
+SSR/SSR0013670
+Raku Ichijo! Don't believe a word this man is saying![nl]Every word is a lie!
+SYU/SYU0008930
+S-Seriouslyyy, so it's true that you're[nl]doing *that thing* in the bathroom?
+SSR/SSR0013680
+Ngh.... How did you know about that....?
+RAK/RAK0054170
+Hey, hey, can you stop with the back-and-forth?[nl]You're making me even *more* curious.
+SSR/SSR0013690
+Well, ummmm....
+SSR/SSR0013700
+This isn't the sort of thing I can tell people....!
+WSD/WSD0000010
+Umm.....is Tsugumi here?
+SYU/SYU0008940
+Yo! Someone else is here for you, Seishiro![nl]The "Breast Goddess" sure has her hands full!
+SSR/SSR0013710
+Aaagh, hey!
+RAK/RAK0054180
+"Breast Goddess"?
+SYU/SYU0008950
+Yeah. Rumor has it, if you touch Seishiro's breasts,[nl]your own chest will get even bigger.
+SYU/SYU0008960
+Quite the romantic story for girls and boys alike. ♪
+RAK/RAK0054190
+O-Ohh.....
+SSR/SSR0013720
+Hey! Stop looking at my chest all of a sudden!
+RAK/RAK0054200
+N-No, I wasn't looking!
+SSR/SSR0013730
+This is the worst.... I can't believe you know my most[nl]embarrassing secret of all things....
+RAK/RAK0054210
+(Jeez, Tsugumi's got it rough....)
+Go help her, Breast Goddess!
+No pressure.
+RAK/RAK0054220
+Hurry up and help her, O Breast Goddess!
+SSR/SSR0013740
+DON'T CALL ME THAT!!
+@ＨＰ－５０
+RAK/RAK0054230
+Gaaack!
+SSR/SSR0013750
+You know....now that you know about this,[nl]I can't let you live.
+SSR/SSR0013760
+PREPARE TO DIE.....RAKU ICHIJOOOO!
+RAK/RAK0054240
+Waaaaaagh, run awaaaaay!
+SYU/SYU0008970
+Awwww, Raku's probably done for this time.
+SSR/SSR0013770
+Shuu Maiko, I'll start with you!!
+SYU/SYU0008980
+Huh....?
+@フェードアウト
+SYU/SYU0008990
+S-Seishiro? What is that? Some kind of tool?[nl]Hey, could you stop? Won't I die if you use that on me?[nl]Hey, stop!! I'm gonna dieee!!
+SYU/SYU0009000
+GYAAAAAAHHHHH!!!
+@背景変更
+RAK/RAK0054250
+Rest in peace, Shuu....[nl]I'll escape to honor your memory.
+RAK/RAK0054260
+You don't need to do this, I think.
+@ザクシャ誠士郎・小
+SSR/SSR0013780
+B-But....
+RAK/RAK0054270
+Even if it's between women, it's sexual harrassment.
+RAK/RAK0054280
+You're really gonna touch her....to make yours bigger,[nl]even though she doesn't want to?[nl]....Wait, that question itself is sexual harrassment.
+WSD/WSD0000020
+Uh....in that case....
+@expose
+SSR/SSR0013790
+No, it's alright, Raku Ichijo!
+SSR/SSR0013800
+If me putting up with this will make the[nl]Mistress's friends happy....[nl]Then I'm more than willing to resign myself!
+SYU/SYU0009010
+Ooooh! You're so admirable, Seishiro!
+SSR/SSR0013810
+You shut your trap!
+@キャラ揺らし
+SYU/SYU0009020
+Gaaaackh!
+SSR/SSR0013820
+So you really don't need to worry about it.[nl]A-Alright, let's go....
+WSD/WSD0000030
+Yes, Breast Goddess!
+RAK/RAK0054290
+The hell is going on....?
+@イベント終了処理
+common.asb

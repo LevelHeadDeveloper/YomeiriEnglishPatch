@@ -1,0 +1,135 @@
+__main
+@Lclearscreenall
+@ssr_108
+@イベント開始処理
+@ＢＧＭ再生
+SSR/SSR0013310
+Hahh....why has the Mistress left me behind again?
+RAK/RAK0053970
+What, did something happen with Chitoge?
+SSR/SSR0013320
+She said she was going to go grab some drinks[nl]with Ms. Onodera and the others. I offered to run to the store[nl]and pick some up for her....but she refused.
+SSR/SSR0013330
+And then she said:[nl]"I don't need you to escort me, so just be quiet!"[nl]....and refused to let me accompany her.
+@expose
+SSR/SSR0013340
+Aaagh.... What'll I do if something terrible[nl]happens to her while we're apart!?
+RAK/RAK0053980
+I doubt something that serious would happen here at school.
+SSR/SSR0013350
+Preposterous! She's the daughter of the leader of the[nl]Beehive! I wouldn't be surprised if someone dangerous[nl]infiltrated the school with their sights set on the Mistress!
+RAK/RAK0053990
+(To be honest, *you're* the most dangerous person in the school....[nl] I don't think I'll bring that up, though.)
+SSR/SSR0013360
+Even at this very moment, there may be people[nl]in this school who could hold a gun at her any chance they get!
+RAK/RAK0054000
+I doubt there's anyone like that in--
+@ＢＧＭ停止
+@叫び揺れ
+SSR/SSR0013370
+GET DOWWWN!
+@画面揺らし2
+RAK/RAK0054010
+Waaagh!?
+SSR/SSR0013380
+Ghh, an enemy attack this early in the day....!
+RAK/RAK0054020
+Ngh, hey, get off me, Tsugumi!
+SSR/SSR0013390
+Don't raise your head! You'll get shot!
+SSR/SSR0013400
+Two shots fired from the same direction....[nl]They're close!
+RAK/RAK0054030
+(H-Her chest is right in front of me....)
+MRK/MRK0010710
+Kyaaaah! Tsugumi! What have you been up to[nl]while I was away at the infirmaryyyy!?
+SSR/SSR0013410
+What the hell are you doing!? Get down, quick![nl]You'll die if you keep standing there!
+MRK/MRK0010720
+W-What on earth are you talking about!?[nl]Whatever, just get off my darling Raku right away!
+SSR/SSR0013420
+Mghh..... H-Huh?
+SSR/SSR0013430
+Something doesn't feel quite right....
+CTG/CTG0013990
+We're baaack!
+CTG/CTG0014000
+....Wait, what's going on here?
+KSK/KSK0016720
+W-W-Why is Tsugumi sitting on top of Ichijo!?
+@expose2
+SSR/SSR0013440
+Huh? Um, well....
+RAK/RAK0054040
+Tsugumi....I need you to take a gooood look around.
+SSR/SSR0013450
+Huh....?
+WSA/WSA0000110
+Um.... Today is Iwashita's birthday,[nl]so we were using party crackers....
+WSB/WSB0000070
+Did we startle you, by any chance?
+SSR/SSR0013460
+Wha----!? Party crackerssss!?
+CTG/CTG0014010
+Tsugumi....don't tell me it happened again?
+SSR/SSR0013470
+Uuh.....
+RAK/RAK0054050
+"Again", huh....[nl]Has this happened before?
+CTG/CTG0014020
+Well, it happened once during my birthday party[nl]back in elementary school....
+SSR/SSR0013480
+I-I-I'm sorry![nl]I've caused so much trouble for you all....
+MRK/MRK0010730
+Whatever, just get off of my darling Raku!
+SSR/SSR0013490
+Huh? Get off--
+SSR/SSR0013500
+Wait, WAAAAGH!?
+SSR/SSR0013510
+T-T-T-....This isn't what it looks like! I was just protecting[nl]you because you're the Mistress's boyfriend!
+RAK/RAK0054060
+No....don't even worry about it. Just make sure to assess[nl]the situation more carefully next time.
+SSR/SSR0013520
+Nghhh.....what a blunder.[nl]I'm so embarrassed, I can't face you all....
+SSR/SSR0013530
+P-Please excuse meeee!!
+CTG/CTG0014030
+Huh!? Where are you going!?[nl]Class is gonna start soon!!
+RAK/RAK0054070
+(Is she really one of the Beehive's top dogs?[nl] Sometimes I wonder....)
+SSR/SSR0013540
+EVERYONE GET DOWN!
+WSB/WSB0000080
+Kyaaaaah!!
+WSA/WSA0000120
+W-What's wrong, Tsugumi!?
+SSR/SSR0013550
+Someone in this room is trying to go after the Mistress![nl]Put your hands behind your back and get down!
+SSR/SSR0013560
+The gunfire came from around seven o'clock.... YOU!
+MSA/MSA0000170
+Eeeeeeeek![nl]I-It's not me!
+SSR/SSR0013570
+Then it's you!
+MSB/MSB0000130
+Aaaaaaagh! I-It's not me, either!
+SSR/SSR0013580
+For what you've done to the Mistress, you'll pa--
+@ＢＧＭ停止
+@キャラ揺らし
+@expose
+SSR/SSR0013590
+Aaaah!
+CTG/CTG0014040
+Hey, Tsugumi!
+SSR/SSR0013600
+M-Mistress....?
+KSK/KSK0016730
+Tsugumi, could you calm down, please?[nl]Take a good look around.
+CTG/CTG0014050
+Hahh.... Seems like you've done it again.
+Well, it happened once during my birthday party[nl]back in elementary school....
+@ザクシャ誠士郎・小
+@イベント終了処理
+common.asb

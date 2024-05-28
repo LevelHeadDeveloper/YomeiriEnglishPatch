@@ -1,0 +1,135 @@
+__main
+@Lclearscreenall
+@ssr_004_102
+@expose
+SSR/SSR0004760
+I've caused you and the mistress[nl]a lot of trouble this time.
+SSR/SSR0004770
+So, please allow me to apologize.
+SSR/SSR0004780
+------
+.........
+SSR/SSR0004790
+U-Um....
+SSR/SSR0004800
+Well....
+SSR/SSR0004810
+Raku Ichijo....
+SSR/SSR0004820
+Um....well....
+@ssr_004_01_ans01
+SSR/SSR0004830
+W-What!?
+@expose
+SSR/SSR0004840
+Ghh! I-I'm seriously trying to[nl]apologize here!
+Put the gun away!
+I'm injured!
+You've got some nerve!
+SSR/SSR0004850
+Mgh.....t-that's right....[nl]Sorry.....
+@ssr_004_103_01
+SSR/SSR0004860
+Shut up, shut uuuuup!
+@ＨＰ－２０
+SSR/SSR0004870
+!! Dammit![nl]I did it again....
+@ssr_004_103
+SSR/SSR0004880
+S-Say something!!!
+@expose
+@ssr_004_01_ans02
+SSR/SSR0004890
+C-Cutely?
+For example...
+Put "meow" at the end.
+Do something babyish.
+SSR/SSR0004900
+....O-Okay. If that's what you want,[nl]I guess I don't have a choice....
+SSR/SSR0004910
+I-I'm sorry, meow....?
+SSR/SSR0004920
+Wait, I can't do something that embarrassing!
+SSR/SSR0004930
+I-I'm sowwy....
+SSR/SSR0004940
+I-I'm sorr--
+@ＨＰ－２０
+@expose
+SSR/SSR0004870
+!! Dammit![nl]I did it again....
+@ssr_004_103
+@ssr_004_01_ans03
+@ザクシャ誠士郎・１
+SSR/SSR0004950
+S-Smile, you say!?
+SSR/SSR0004960
+When I'm trying to sincerely apologize, you---
+She's so rigid
+Be more soft.
+Don't think so hard about it.
+SSR/SSR0004970
+Huh!? Soft!?[nl]What the hell do you mean by that!?
+SSR/SSR0004980
+! Are you talking about my b-breasts!?[nl]And under these circumstances, no less!
+SSR/SSR0004990
+You're just living your life carelessly!
+SSR/SSR0005000
+That doesn't help me settle my feelingssss!
+SSR/SSR0005010
+Don't tell me to smile at this situation....[nl]I don't know what you mean!
+@ssr_004_01_ans04
+SSR/SSR0005020
+Does that mean you won't forgive me....
+SSR/SSR0005030
+I guess it can't be helped.[nl]I did something unforgivable to you.
+You won't forgive?
+That's right
+Maybe if you tell me a joke
+SSR/SSR0005040
+I-Is this kind of thing really[nl]OK between friends?
+SSR/SSR0005050
+Dammit! Why do I feel so gloomy....
+@ssr_004_103_01
+SSR/SSR0005060
+A-A joke!?
+.....
+@expose2
+SSR/SSR0005070
+A-A priest, a pastor, and a rabbit[nl]walked into a blood donation clinic....
+SSR/SSR0005080
+The rabbit said "I'm a type O."
+SSR/SSR0005090
+GAAAAAAAAAAH!
+@ＨＰ－５０
+SSR/SSR0005100
+I know you're very angry with me[nl]in your heart....
+SSR/SSR0005110
+I'm not asking you to forgive me.[nl]But at least I'll feel better if I apologize.
+SSR/SSR0005120
+So, please allow me to apologize....
+@ssr_004_01_ans05
+SSR/SSR0005130
+What do you mean by "all good"?
+What did you mean?
+I'm a masochist
+It's better to be yourself.
+SSR/SSR0005140
+Getting hit feels good[nl]because you're a masochist...?
+SSR/SSR0005150
+Hehhehheh....
+SSR/SSR0005160
+You've got to be joking![nl]If that's how it is, I'll give you as much as you wish!
+SSR/SSR0005170
+Be myself, you say?
+SSR/SSR0005180
+How....do you just laugh off[nl]my violence against you!?
+SSR/SSR0005190
+You just said that at random, huh.
+SSR/SSR0005200
+Stop being so damn lax....[nl]while I'm trying to sincerely apologize!
+@ssr_004_01_ans06
+SSR/SSR0005210
+Just say something already!
+common.asb
+ssr_004_103.asb

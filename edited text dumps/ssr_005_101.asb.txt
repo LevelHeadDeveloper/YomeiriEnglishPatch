@@ -1,0 +1,75 @@
+__main
+@Lclearscreenall
+@ssr_005_101
+@2ショット開始
+Uncover her secret!
+@ＢＧＭ再生
+SSR/SSR0006000
+W-What is it?[nl]Stop staring at me....!
+@タッチパート開始処理
+@ssr_005_touch_face
+@expose2
+SSR/SSR0006010
+H-Hey, come on![nl]I told you to stop staring!
+SSR/SSR0006020
+I don't know what you suspect,[nl]but that sound is your imagination!
+SSR/SSR0006030
+....Ghhhh....!
+@ssr_005_102
+@ssr_005_touch_bast
+SSR/SSR0006040
+Y-You![nl]Where the hell are you looking!?
+Why are you looking there?
+That's where the sound is
+My eyes slipped....
+@ザクシャ誠士郎・１
+SSR/SSR0006050
+Sound? H-Hmph....[nl]Sounds like you're hearing things.
+SSR/SSR0006060
+S-Stop staring at my breasts, you pervert![nl]Lecherous man!
+@ssr_005_201
+@expose2
+SSR/SSR0006070
+I don't know what you suspect,[nl]but it's probably your imagination.
+SSR/SSR0006030
+......Ghh!
+@ssr_005_102
+@ssr_005_touch_body
+@expose
+SSR/SSR0006080
+Hm? Why are you looking at[nl]the lower half of my body?
+Why look there?
+Could the sound have been a fart?
+No, it's nothing....
+SSR/SSR0006090
+How is that possible!?
+@ＨＰ－２０
+SSR/SSR0006095
+Dammit! You're always throwing me off-key!
+SSR/SSR0006100
+What are you talking about?
+SSR/SSR0006110
+Jeez, I don't know what you suspect,[nl]but the sound is probably your imagination.
+......Ghh!
+@ssr_005_102
+SSR/SSR0006070
+I don't know what you suspect,[nl]but it sounds like you're hearing things.
+SSR/SSR0006030
+@ssr_005_touch_back
+SSR/SSR0006120
+Waaaaagh!
+SSR/SSR0006
+You....really think you'll get away with it[nl]if you pull something funny!?
+@ssr_005_201
+SSR/SSR0006140
+Kyaah!
+SSR/SSR0006150
+Y-You're persistent!!
+SSR/SSR0006160
+You wanna die now!? Huh!?
+@ssr_005_touch_other
+SSR/SSR0006170
+What is it, why are you looking away?
+common.asb
+ssr_005_102.asb
+ssr_005_201.asb

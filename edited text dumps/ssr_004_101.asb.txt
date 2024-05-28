@@ -1,0 +1,33 @@
+__main
+@Lclearscreenall
+@ssr_004_101
+@2ショット開始
+Cheer up Seishiro!
+@ＢＧＭ再生
+SSR/SSR0004670
+I'm hopeless...[nl]When it comes to the mistress, I get fired up too easily.
+Your response....
+That means you care a lot, right?
+You sound like Claude.
+@ザクシャ誠士郎・１
+@expose
+SSR/SSR0004680
+Well, I guess so....[nl]But does that make it okay?
+SSR/SSR0004690
+I've done something horrible to you,[nl]and that's the undeniable truth.
+@ssr_004_102
+SSR/SSR0004700
+Ngh....you might be right.
+SSR/SSR0004710
+Even Claude goes off the rails[nl]when it comes to Chitoge.
+SSR/SSR0004720
+Though I have the deepest respect[nl]for Master Claude....
+SSR/SSR0004730
+I see....[nl]So that's what I look like to people around me....
+SSR/SSR0004740
+Well, whatever the case....
+@expose
+SSR/SSR0004750
+Nothing to say, huh.[nl]I can't say I'm surprised.
+common.asb
+ssr_004_102.asb

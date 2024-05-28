@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@ssr_102
+@イベント開始処理
+RAK/RAK0052880
+Alright, time to give the animals their lunch. ♪
+SSR/SSR0012300
+....So, I'm sorry.
+RAK/RAK0052890
+Hm? That sounds like....
+@ＢＧＭ再生
+SSR/SSR0012310
+I still cannot reciprocate your feelings.
+RAK/RAK0052900
+(So it *is* Tsugumi....[nl] Could it be, she's....getting another love confession!?)
+RAK/RAK0052910
+(But of course, the other guy--)
+LVR/LVR0000010
+I get it....[nl]I guess I'm not good enough for you after all.
+RAK/RAK0052920
+(--is totally a girl!!)
+@expose
+SSR/SSR0012320
+Also, look....we're both women.[nl]I'm sure it wouldn't work out in a lot of ways.
+LVR/LVR0000020
+Come on, that doesn't matter as long as we have love![nl]Besides, you and Kirisaki seem to get along[nl]like only lovers would, right!?
+SSR/SSR0012330
+The Mistress and I are like lovers!?[nl]....Really?! W-We look like that?
+RAK/RAK0052930
+(Being told that shouldn't make you happy![nl] What the hell is she thinking....?)
+LVR/LVR0000030
+Or, maybe.....Tsugumi,[nl]is there someone else you like?
+RAK/RAK0052940
+(Huh....?)
+SSR/SSR0012340
+Wha...!?[nl]T-There's no one like that....!
+LVR/LVR0000040
+(Gasp.....)[nl]There is someone, isn't there?
+SSR/SSR0012350
+.....Well....
+LVR/LVR0000050
+If you won't give me a clear answer,[nl]I won't give up!
+SSR/SSR0012360
+-----
+Listen in
+Walk away for Tsugumi's sake
+RAK/RAK0052950
+(I'm curious about that, too![nl] Carefully, carefully.....)
+RAK/RAK0052960
+Wait, what? Where'd Tsugumi go?
+@ＢＧＭ停止
+SSR/SSR0012370
+JUST・WHAT・DO・YOU・THINK・YOU'RE・DOING....?
+RAK/RAK0052970
+Gaah! T-Tsugumi!?
+SSR/SSR0012380
+I'd thought something had felt off for a while....[nl]How long have you been eavesdropping on me!?
+RAK/RAK0052980
+I-I haven't! I wasn't eavesdropping on purpose....
+SSR/SSR0012390
+No more of your excuses![nl]I'm gonna shut you up forever!!!
+SSR/SSR0012400
+Prepare yourself, Raku Ichijo!
+RAK/RAK0052990
+Gaaaahhhh!?!?
+@フェードアウト
+@ＨＰ－５０
+@時間経過演出
+CTG/CTG0013790
+Raku....I thought you went to feed the animals?[nl]Why are you so beat up?
+RAK/RAK0053000
+Don't ask me that....[nl]It hurts to think about it....
+CTG/CTG0013800
+O-Okay....
+RAK/RAK0053010
+(....I overheard this much,[nl] but I don't think I should eavesdrop any more.)
+RAK/RAK0053020
+(I guess I'll head back to the classroom for now.[nl] Carefully, carefully.....)
+CTG/CTG0013810
+Huh? Raku, I thought you went to feed the animals?
+RAK/RAK0053030
+Hm? Yeah, I'll go back and do that later.
+CTG/CTG0013820
+Hmmmm.
+RAK/RAK0053040
+(But....who does Tsugumi like?[nl] Aaaagh, I kinda want to know!)
+@イベント終了処理
+common.asb

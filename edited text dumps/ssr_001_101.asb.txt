@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ssr_001_101
+@2ショット開始
+Explain to Seishiro!
+@ＢＧＭ再生
+@expose
+SSR/SSR0001180
+I'm leaving![nl]See you around, Raku Ichijo!
+Stall Seishiro!
+Hey! Wait, wait!
+Are you running away?
+SSR/SSR0001190
+...What?
+@ザクシャ誠士郎・１
+SSR/SSR0001200
+I-I'm not running away!
+SSR/SSR0001210
+....Y-You're not going to stop me?
+SSR/SSR0001220
+If you won't stop me, then I'll be leaving for real....
+@ssr_001_102
+common.asb
+ssr_001_102.asb

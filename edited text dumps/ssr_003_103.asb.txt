@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ssr_003_103
+.....
+SSR/SSR0003550
+Loyalty, huh....
+@expose
+SSR/SSR0003560
+Hey, Raku Ichijo.[nl]Am I doing well as the mistress's attendant?
+@ssr_003_ana01_success
+@ザクシャ誠士郎・小
+SSR/SSR0003570
+I see....
+SSR/SSR0003580
+For some reason, hearing that from you[nl]is a relief....
+@ssr_003_ana01_failure
+SSR/SSR0003590
+I was an idiot to ask you.
+SSR/SSR0003600
+What did I even expect....
+@ssr_003_103_end
+@ssr_003_201
+common.asb
+ssr_003_201.asb

@@ -1,0 +1,276 @@
+__main
+@Lclearscreenall
+@ssr_001
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0015140
+Hey, Tsugumi.
+SSR/SSR0000770
+Hm? What is it, Raku Ichijo? Did you need something?
+RAK/RAK0015150
+Nothing, really.[nl]I was wondering, have you seen Shuu?
+@expose
+SSR/SSR0000780
+Shuu Maiko? No, I haven't seen him....
+SSR/SSR0000790
+Have you seen him, mistress?
+CTG/CTG0007960
+Well....I think he was in the classroom earlier.
+RUR/RUR0000830
+He's probably up to something nasty right now.
+KSK/KSK0007130
+R-Ruri! That's a rude thing to say about Maiko!
+RAK/RAK0015160
+Hmmmm....so no one's seen him.
+SSR/SSR0000800
+Was something the matter?
+RAK/RAK0015170
+No, it's just that today's the day we sketch portraits.[nl]I was going to pair up with Shuu, but I can't find him.
+MRK/MRK0000370
+Well! You haven't got a sketching partner, Raku dearest?[nl]If that's the case, then you're welcome to work with me!
+RAK/RAK0015180
+H-Hey! You're too close!
+MRK/MRK0000380
+Well, I need to be closer if I want[nl]to see every detail of your manly face.
+SSR/SSR0000810
+Hey, get off him, Marika Tachibana![nl]I told you, that guy is the mistress's boyfriend!
+CTG/CTG0007970
+T-That's right! Why the hell would you[nl]get so over-friendly with my darling?
+MRK/MRK0000390
+Oh my, why do you care[nl]who's pairing with who in art class?[nl]Or, perhaps, you wanted to be paired with Raku dearest?
+SSR/SSR0000820
+T-T-That's not what I meant at all....
+MRK/MRK0000400
+Then it's fine! Come on, Raku dearest![nl]Let me capture that chiseled physique on my canvas!
+SSR/SSR0000830
+I-I told you no!
+RAK/RAK0015190
+(Good grief....sounds like it'll get pretty noisy.[nl] Jeez....where the hell is Shuu, anyway?)
+SYU/SYU0001020
+Ahhem! You were looking for me?
+RAK/RAK0015200
+Oh, Shuu! What have you been doing?[nl]I've been looking all over.
+SYU/SYU0001030
+Hehehe....I didn't think it would be as fun if[nl]I paired up with you, like usual. That's why I made this.
+SSR/SSR0000840
+A white box?
+KSK/KSK0007140
+By any chance, is that a lottery?
+SYU/SYU0001040
+That's exactly right!
+SSR/SSR0000850
+Hmph! It's just like you.[nl]I'm sure this probably for something stupid you've thought up.
+SYU/SYU0001050
+I'm sad to hear you say that.[nl]Hey, hey, just watch this.
+SYU/SYU0001060
+Hey, dear friends from class 1-C![nl]If I may have but a moment of your time!
+SYU/SYU0001070
+It is by no means a bad thing to pair up with someone you[nl]already know, but why not leave it up to the heavens[nl]this time and make a new acquaintance?
+SYU/SYU0001080
+You can see some new aspects of someone you might never[nl]have spoken to, and further deepen the bonds of Room 1-C!
+RAK/RAK0015210
+You mean we're picking partners by lottery?[nl]That seems like too much trouble for most---
+MSA/MSA0000010
+Hey, that sounds like fun!
+WSB/WSB0000010
+I agree!
+SYU/SYU0001090
+Ohoho! Then, please line up for your tickets!
+@時間経過演出
+RAK/RAK0015220
+Everyone's surprisingly excited about this....
+RUR/RUR0000840
+He said it was a bonding experience....[nl]But I doubt it.
+MSA/MSA0000020
+I'm with Moriya! Yay!
+WSB/WSB0000020
+Aww, I'm with Yamanaka?[nl]It's a little embarrassing, but, oh well....★
+RAK/RAK0015230
+H-Hey, Shuu![nl]Are there supposed to be boy-girl pairs!?
+SYU/SYU0001100
+Calm down, old pal of mine.[nl]This is all part of my plan.
+SYU/SYU0001110
+With a little luck,[nl]I could stare at the girl of my dreams at close range!
+RUR/RUR0000850
+I heard that, pervert. Scumbag.[nl]Lowest of men. Lowest of people. Lowest of animals, even.
+SYU/SYU0001120
+Hahaha, no, no....[nl]Well, you're as harsh as ever, Ruri.
+RAK/RAK0015240
+....I'd still prefer to just chill with one of the guys.
+SYU/SYU0001130
+Don't talk like that! Come on, Raku, it's your turn.
+RAK/RAK0015250
+Right, right.
+CTG/CTG0007980
+----
+KSK/KSK0007150
+SSR/SSR0000860
+RAK/RAK0015260
+(I kinda feel like I'm being watched in a weird way....)
+MRK/MRK0000410
+Let me be paired with Raku dearest, Let me be paired with[nl]Raku dearest, Let me be paired with Raku dearest, Let me[nl]be paired with Raku dearest!
+SSR/SSR0000870
+Shut up, Marika Tachibana.
+RAK/RAK0015270
+Alright, let's see who....
+RAK/RAK0015280
+Oh?
+SYU/SYU0001140
+Ohoho, Raku has been paired with Seishiro!
+@expose2
+SSR/SSR0000880
+W-W-W-W-W-Whaaaaaaat!?!?!?!?
+RAK/RAK0015290
+It's a lottery, don't act so surprised.[nl]Well, I get that you don't want to pair with me.
+SSR/SSR0000890
+That's not...!![nl]That's not why I'm----[nl]Wait, why am I getting so flustered by this!?!?
+RAK/RAK0015300
+I don't know, but please calm down.
+SSR/SSR0000900
+Whose fault is this!?
+RAK/RAK0015310
+Is it mine!?
+SSR/SSR0000910
+Aaghh....[nl]I never thought I'd have to pair with Raku Ichijo!
+SYU/SYU0001150
+Hey, congratulations, Seishiro![nl]Now you can see Raku making[nl]all kinds of faces all you want!
+@キャラ揺らし
+MRK/MRK0000420
+If you don't like it, Tsugumi, then how about me![nl]I'll take your place by any means necessary!
+MRK/MRK0000430
+By・any・means・necessary![nl]Let me take your place!
+SSR/SSR0000920
+Hey, you don't need to say it three times![nl]Instead of letting you pair with him....[nl]I'd rather do it myself!
+RAK/RAK0015320
+Are you sure?
+SSR/SSR0000930
+It's a class, so it can't be helped.[nl]You look easy enough to draw, so I'll be fine.
+RAK/RAK0015330
+Easy to draw....well, whatever.[nl]Let's get working, Tsugumi.
+SSR/SSR0000940
+Hmph! I'm not going to cut any corners when I draw you!
+CTG/CTG0007990
+Tsugumi's partnered with Raku, then.[nl]Well, I guess that's okay.
+CTG/CTG0008000
+Raku, if you try to pull anything nasty[nl]on Tsugumi, I will never forgive you.
+SSR/SSR0000950
+M-M-M-Mistress!?
+RAK/RAK0015340
+I won't![nl]How little faith do you have in me, anyway!
+CTG/CTG0008010
+Hmph....
+SYU/SYU0001160
+Well then, looks like I'm next.
+SYU/SYU0001170
+I might get partnered with Chitoge~,[nl]or I might get partnered with Marika~....[nl]No, no, I might even get partnered with Ruri....
+RUR/RUR0000860
+What are you even talking about?[nl]Everyone else has already drawn lots.
+SYU/SYU0001180
+Huh? Then who's my partner?
+CTG/CTG0008020
+That's right, there was someone absent today.[nl]So there should be someone left over.
+SYU/SYU0001190
+Ah.....
+RUR/RUR0000870
+Well, I could lend you my hand mirror.[nl]That way you can at least draw yourself.
+SYU/SYU0001200
+.......Eeuuuue......
+RAK/RAK0015350
+Shuu....
+SSR/SSR0000960
+Forget him. He's getting what he deserves.
+@ＢＧＭ停止
+RAK/RAK0015360
+(Hahh....I'm so nervous, for some reason.)
+SSR/SSR0000970
+Stop moving around so much.[nl]Look me in the eye.
+RAK/RAK0015370
+I-If you say so....
+RAK/RAK0015380
+(When she's looking at me this closely,[nl] I can't help but look away!)
+SSR/SSR0000980
+Hey, don't turn away so suddenly![nl]Show me your face!
+RAK/RAK0015390
+(Her breathing![nl] She's breathing on my face!)
+RAK/RAK0015400
+(Crap! But still, she's....)
+SSR/SSR0000990
+Hm---?
+RAK/RAK0015410
+(When I look at her up close like this,[nl] it's easy to see how cute she is....)
+RAK/RAK0015420
+(Her sharp eyes, her pale skin,[nl] her silky hair....and she smells kind of nice, too.)
+SSR/SSR0001000
+Your face has been red for a while.[nl]Are you feeling okay?
+RAK/RAK0015430
+Huh!? Y-Yeah, um, well.....
+SSR/SSR0001010
+What the hell are you mumbling for, you're a man....[nl]If you have something to say, just spit it out!
+RAK/RAK0015440
+W-Well, it's just....[nl]You're really close to my face.
+SSR/SSR0001020
+Huh....? Your face?
+RAK/RAK0015450
+Y-Yes.
+........
+SSR/SSR0001030
+Wh-.....What the hell were[nl]you thinking just now!?
+SSR/SSR0001040
+H-Here's the thing! Aren't we just in class!?[nl]I just wanted to draw a good picture of you!
+@画面揺らし2
+SSR/SSR0001050
+Aaaaahh!
+RAK/RAK0015460
+H-Hey! Are you okay, Tachibana?
+SSR/SSR0001060
+S-Shut up! I just slipped, that's all!
+RAK/RAK0015470
+Who the hell slips while they're sketching....
+SSR/SSR0001070
+Alright! A few lines like this,[nl]a few more like that, and that's your face!
+RAK/RAK0015480
+Oy! Why'd you get so sloppy all of a sudden!?[nl]My face looks like you just wrote "#/$O+O\"!
+SSR/SSR0001080
+That's enough for your face![nl]It's finished! I'm done!
+RAK/RAK0015490
+Well, alright....[nl]But I haven't drawn anything yet, so hold still for a sec.
+SSR/SSR0001090
+What? Then what have you been doing?
+RAK/RAK0015500
+Well, I was looking at you....
+SSR/SSR0001100
+S-Shut the hell up!
+@ＨＰ－２０
+RAK/RAK0015510
+Ouch!!
+SSR/SSR0001110
+You've got 10 minutes, so draw!
+RAK/RAK0015520
+G-Got it.
+SSR/SSR0001120
+H-Hey....why are you getting so close?
+RAK/RAK0015530
+Well, how else am I supposed to see your face?
+SSR/SSR0001130
+N-No! Don't get any closer!
+SSR/SSR0001140
+Besides, that's....[nl]kind of a lewd look in your eyes, isn't it?
+RAK/RAK0015540
+It isn't![nl]And I can't draw you unless I can get a good look at you!
+SSR/SSR0001150
+Ghh....[nl]I don't feel comfortable[nl]with you staring at me like that!
+RAK/RAK0015550
+Hey. I can't draw you if you keep turning away.
+SSR/SSR0001160
+S-Shut up! You can fix that yourself!
+RAK/RAK0015560
+Huhh!? That's impossible!
+SSR/SSR0001170
+If you keep whining,[nl]shall I take care of it right here and now?
+RAK/RAK0015570
+Stop scaring me! Put that away!
+RAK/RAK0015580
+(Crap! I'll have to straighten up my story[nl] and get Tsugumi to sit still!)
+@ssr_001_101
+common.asb
+ssr_001_101.asb

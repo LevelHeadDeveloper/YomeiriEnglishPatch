@@ -1,0 +1,270 @@
+__main
+@Lclearscreenall
+@ssr_003_201
+@2ショット成功
+@2ショット失敗
+@ssr_003_201_01
+SSR/SSR0003610
+Really, I never thought we'd see eye-to-eye on so much.[nl]I had a great time today.
+RAK/RAK0017010
+I enjoyed it too. With my guy friends, it's difficult to[nl]go see one of these movies.
+SSR/SSR0003620
+Really?
+RAK/RAK0017020
+Without the flashy action scenes and explosions,[nl]I guess they're not satisfied.
+@expose
+SSR/SSR0003630
+I already see plenty of that every day.
+RAK/RAK0017030
+....Yeah, that's why I try to go for the[nl]inspirational or healing movies.
+@ザクシャ誠士郎・中
+SSR/SSR0003640
+Hmmm.....well, that's.....
+SSR/SSR0003650
+I guess, if it's a cute animal movie, and if you absolutely[nl]insist, then....I could go see it with you, if you like.
+RAK/RAK0017040
+Really? Hehe, that would be awesome.
+@expose
+SSR/SSR0003660
+Y-Yeah....I'd be glad to talk about that, too.
+SSR/SSR0003670
+If you can find the time, let's go again.
+@ssr_003_201_02
+SSR/SSR0003680
+To speak such nonsense....[nl]You and I clearly don't have the same taste in movies.
+SSR/SSR0003690
+You talk a lot of crap....[nl]You and I clearly don't have the same taste in movies.
+RAK/RAK0017050
+T-That's not true!
+SSR/SSR0003700
+....Hm? Hang on.[nl]Since you and the mistress are lovers,[nl]doesn't it make sense that you'd have similar taste?
+SSR/SSR0003710
+Well, then....[nl]Why the hell are you engaging me in this[nl]joke of a conversation instead of her....
+SSR/SSR0003720
+Hm?[nl]Why am I getting so angry about this? Mgh....ghhhhhh.....
+SSR/SSR0003730
+Mggghhhh~~~~.....
+RAK/RAK0017060
+T-Tsugumi? Why are you growling to yourself----
+SSR/SSR0003740
+Raaaaaaaaaaghhh!
+RAK/RAK0017070
+Aaah!
+SSR/SSR0003750
+W-Why the hell should I get so worked up over you---!
+@ＨＰ－１０
+RAK/RAK0017080
+Oww!
+RAK/RAK0017090
+(Why is she hitting me!?)
+@ssr_003_201_03
+@時間経過演出
+@ＢＧＭ再生
+SSR/SSR0003760
+What the hell is this gun? Why can't I aim it?
+RAK/RAK0017100
+You need to use the pointer on the screen.
+SSR/SSR0003770
+The pointer?
+SSR/SSR0003780
+Mgh, this thing.[nl]It always shoots in a different direction than I aimed.
+SSR/SSR0003790
+Besides, there's no recoil, so it's harder to shoot.
+RAK/RAK0017110
+Well, I think an authentic gun might be too much[nl]to ask for a video game---
+CTG/CTG0008310
+Aaah~![nl]Tsugumi, on your right! There's a zombie on your right!
+SSR/SSR0003800
+Huh? D-Dammit!
+SSR/SSR0003810
+Khh....If I'd been using a real gun,[nl]I could've killed it in one shot....
+SSR/SSR0003820
+Raku Ichijo![nl]If you'd done a better job of backing me up,[nl]we wouldn't have lost!
+RAK/RAK0017120
+You were running around on your own,[nl]there was no way I could keep up.
+RAK/RAK0017140
+Jeez....[nl]I don't know how you can be an assassin with[nl]that kind of skill.
+@expose2
+SSR/SSR0003830
+Hoho....[nl]Maybe you'd like to try a sample for yourself? Hmmm?
+RAK/RAK0017150
+Put the real gun away, I'm sorry!
+@expose
+CTG/CTG0008320
+Okay, okay, there's no need for bickering![nl]I'm up next, so I'll take over.
+SSR/SSR0003840
+Raku Ichijo! Try not to drag the mistress down!
+RAK/RAK0017160
+Yeah, yeah....
+CTG/CTG0008330
+Okay, let's go![nl]Darling! Cover me!
+RAK/RAK0017170
+Right, on it.
+CTG/CTG0008340
+Ptr-tr-tr-tr-tr!
+RAK/RAK0017180
+Chitoge, you're almost out of ammo.[nl]Hurry up and reload, while you can!
+CTG/CTG0008350
+I know what I'm doing!
+CTG/CTG0008360
+You've got a zombie on the left![nl]Don't just stand there, or it'll turn you[nl]into a zombie bean sprout!
+CTG/CTG0008370
+Even if you turn into a zombie, you'd still[nl]be a bean sprout, so you'd be pretty weak.
+RAK/RAK0017190
+Shut up, if anything, you'd be a zombie gori---
+CTG/CTG0008380
+Hmmm?
+RAK/RAK0017200
+I-It's amazing how *vigorously* you're[nl]taking out all these zombies....hahaha.
+RAK/RAK0017210
+(That was scarier than any horde of zombies....)
+RAK/RAK0017220
+Hey, you're running too fast![nl]At this rate, you'll be overwhelmed by all the zombies!
+CTG/CTG0008390
+I'll be fine as long as[nl]you're covering me, won't I, darling?[nl]I'll leave the ones on the sides to you.
+RAK/RAK0017230
+Jeez....no way!
+CTG/CTG0008400
+I believe in you, darling!
+SSR/SSR0003850
+-----
+@時間経過演出
+CTG/CTG0008410
+Alright, clear! I win!
+RAK/RAK0017240
+You ended up beating most of the enemies, Chitoge.
+SSR/SSR0003860
+....You were playing in-sync with the mistress's[nl]movement and shots, so it must have been easy for her.
+RAK/RAK0017250
+Eeh. It's rare for you to compliment me.
+SSR/SSR0003870
+Hmph....I guess that's how well you've been paying[nl]attention to the mistress. I'll admit that much.
+@ＢＧＭ停止
+SSR/SSR0003880
+....The mistress and I are so different.
+RAK/RAK0017260
+Huh....?
+SSR/SSR0003890
+No, nothing....
+CTG/CTG0008420
+Rakuu! I'm hungry!
+RAK/RAK0017270
+Right, right.[nl]Let's grab a bite somewhere nearby.
+RAK/RAK0017280
+Come on, let's go, Tsugumi.
+SSR/SSR0003900
+Yeah....
+@pan
+SSR/SSR0003910
+Why is it....?
+SSR/SSR0003920
+For a while now, since the mistress and Raku Ichijo[nl]started having fun together, my chest feels....
+SSR/SSR0003930
+This has never happened before....
+@フェードアウト
+@ＢＧＭ再生
+CTG/CTG0008430
+Mmmm, delicious![nl]This crepe is so sweet! ♪
+CTG/CTG0008440
+Raku, you miracle worker![nl]I didn't know you knew such a great crepe shop!
+RAK/RAK0017290
+Yeah, I went here with Tsugumi---
+SSR/SSR0003940
+Ahem....!
+RAK/RAK0017300
+Uhhh, I mean, I went here with S-Shuu a while ago!
+@expose
+CTG/CTG0008450
+Hmmm. Two boys going to a crepe shop, huh.[nl]Well, as long as it's delicious, I don't care.
+RAK/RAK0017310
+(Careful, careful....[nl] I almost let it slip about the time[nl] I came here with Tsugumi.)
+CTG/CTG0008460
+Hey, Tsugumi, aren't you going to eat?
+SSR/SSR0003950
+I'm sorry. My chest feels kind of tingly right now,[nl]and I don't have an appetite....
+CTG/CTG0008470
+Your chest feels tingly....[nl]Hey, it's not some kind of serious illness, right?
+SSR/SSR0003960
+N-No! It doesn't feel like it, so don't worry.
+SSR/SSR0003970
+....Hahh.
+CTG/CTG0008480
+....Hey, Raku. C'mere a sec.
+RAK/RAK0017320
+Hm?
+CTG/CTG0008490
+How come Tsugumi's been acting so strange[nl]these last couple hours?
+RAK/RAK0017330
+You think so too?
+SSR/SSR0003980
+CTG/CTG0008500
+Maybe....[nl]Something about our date seemed fake to her....
+RAK/RAK0017340
+Huh!? You mean she found out we're not lovers!?
+CTG/CTG0008510
+I don't know exactly, but....[nl]We'd better fix that.
+RAK/RAK0017350
+What should we do?
+CTG/CTG0008520
+What should we....[nl]The only thing we can do!
+SSR/SSR0003990
+....Hahh. My chest aches so much,[nl]what on earth is wrong with me....
+CTG/CTG0008530
+H-Here, darling! ★[nl]Try some of my crepe, it's delicious~.[nl]Open wide! ★
+SSR/SSR0004000
+SSR/SSR0004010
+---Wha-!!
+RAK/RAK0017360
+Y-Yeah![nl]But, honey....wouldn't that be....[nl]An indirect kiss?
+CTG/CTG0008540
+Gacptkh! W-What the hell are you----[nl]....Wait!
+CTG/CTG0008550
+H-Hang on a second, darling! ★[nl]We're lovers, so we can do that, can't we!?
+CTG/CTG0008560
+Right? We・can・do・that!
+RAK/RAK0017370
+Y-Yeah! Right! Okay, then....
+RAK/RAK0017380
+B-Bon appetit....
+CTG/CTG0008570
+R-Right....here, e-eat up.[nl]Open wide! ★
+RAK/RAK0017390
+Aaah....
+SSR/SSR0004020
+Aaa...hhhhh.....
+SSR/SSR0004030
+R-Raku Ichijo! You wouldn't eat my crepe,[nl]but you don't see an issue with eating the mistress's!?
+RAK/RAK0017400
+Waagh! You idiot....!
+CTG/CTG0008580
+Huh? What....? Tsugumi's crepe?
+SSR/SSR0004040
+Huh!? N-No....i-it's nothing!
+SSR/SSR0004050
+T-That's right. You two are lovers.[nl]An i-i-in-....
+SSR/SSR0004060
+....An indirect kiss wouldn't be a big deal.
+SSR/SSR0004070
+After all, you're lovers....
+CTG/CTG0008590
+Y-Yeah! Thank goodness, darling.[nl]We're super lovey-dovey, after all!
+RAK/RAK0017410
+Y-Yeah!
+SSR/SSR0004080
+W-Well, you are lovers after all.[nl]You're both flirting so wonderfully together.
+SSR/SSR0004090
+It's so embarrassing to watch, my heart's beating so hard....[nl]My chest aches....
+SSR/SSR0004100
+Ahahaha.....!
+SSR/SSR0004110
+Hahahahaha.....!
+RAK/RAK0017420
+Tsugumi started laughing all of a sudden.
+CTG/CTG0008600
+Yeah. I think we managed to pull it off.
+SSR/SSR0004120
+Hahaha....
+SSR/SSR0004130
+Haha....
+@イベント終了処理
+common.asb

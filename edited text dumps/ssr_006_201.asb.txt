@@ -1,0 +1,675 @@
+__main
+@Lclearscreenall
+@ssr_006_201
+@2ショット成功
+@2ショット失敗
+@ssr_006_201_true
+@expw
+......
+SSR/SSR0008220
+Still having trouble, huh?
+RAK/RAK0020290
+Of course.[nl]This is the first time I've done anything like this.
+RAK/RAK0020300
+I don't know what the right thing to do is.[nl]I don't know where to find the right answer....
+SSR/SSR0008230
+....Then, why don't we both look for it?
+RAK/RAK0020310
+Huh....?
+SSR/SSR0008240
+I don't know what your problem is, yet....[nl]But it won't bother me if you confide in me.
+SSR/SSR0008250
+If it's a really serious problem, and you can't even[nl]tell Chitoge or Onodera or anyone else---
+SSR/SSR0008260
+Then I'll accept all of it.
+SSR/SSR0008270
+I'll worry about it with you and help you.
+RAK/RAK0020320
+....Idiot.
+SSR/SSR0008280
+Hey, don't make fun of me![nl]I was being serious about that!
+RAK/RAK0020330
+Heh....you're a really funny guy.
+SSR/SSR0008290
+Stop laughing. I think I just[nl]said something really embarassing....
+RAK/RAK0020340
+Totally. You blurt out these embarrassing things[nl]in front of me. You're an absolute fool, you know that?
+RAK/RAK0020350
+You're stupid and dumb and weak and naive....[nl]And also incredibly insensitive.
+SSR/SSR0008300
+That's mean.[nl]You didn't need to go that far.
+RAK/RAK0020360
+But thanks to you, I have my answer.
+SSR/SSR0008310
+RAK/RAK0020370
+I---
+@背景変更
+SSR/SSR0008320
+I like you.
+@ＢＧＭ再生
+RAK/RAK0020380
+....Huh?
+SSR/SSR0008330
+Whether or not you're the mistress's boyfriend,[nl]these feelings won't change.
+SSR/SSR0008340
+I want to be near you more.
+SSR/SSR0008350
+I want you to know all about me.[nl]And I want to know all about you, too.
+SSR/SSR0008360
+And....I want to love you more.
+SSR/SSR0008370
+This is my first love.
+RAK/RAK0020390
+....
+@expose
+SSR/SSR0008380
+And just like that, we're back in the right bodies.
+RAK/RAK0020400
+Why all of a sudden....?
+SSR/SSR0008390
+I'm sure it's because I properly voiced my feelings.[nl]Because that was my true wish.
+RAK/RAK0020410
+What, is that so....?
+SSR/SSR0008400
+Your face is bright red, Raku Ichijo.[nl]That face is making me embarrassed, too.
+RAK/RAK0020420
+I-I can't help it![nl]I wasn't expecting a sudden love confession!
+SSR/SSR0008410
+Does that mean....it was a nuisance?
+RAK/RAK0020430
+That's not what I meant![nl]It was....just so sudden, my mind went blank....
+RAK/RAK0020440
+I still don't quite understand it....
+SSR/SSR0008420
+Then, shall I tell you again?
+RAK/RAK0020450
+Huh....?
+SSR/SSR0008430
+You'll accept all of it, won't you?
+SSR/SSR0008440
+I'll say it again and again until you understand.[nl]I....
+SSR/SSR0008450
+Raku Ichijo, I.....
+RAK/RAK0020460
+Tsugumi....
+@ＢＧＭ停止
+CLD/CLD0000820
+Don't move! Raku Ichijooooooo!!!!
+RAK/RAK0020470
+Waagh!?
+SSR/SSR0008460
+Master Claude!?
+CLD/CLD0000830
+No....NO, NO, NO!!!!!
+CLD/CLD0000840
+I won't allow it, Raku Ichijo! It's bad enough you have[nl]Mistress Chitoge in your thrall, but to put your[nl]slimy hands on Seishiro as well....! 
+RAK/RAK0020480
+H-H-Hang on! How long have you been watching!?
+CLD/CLD0000850
+Shut up! What kind of vendetta do you have against me!?
+RAK/RAK0020490
+I don't have one!
+SSR/SSR0008470
+Please wait, Master Claude![nl]This was my fault, not Raku Ichijo's!
+CLD/CLD0000860
+Seishiro....
+CLD/CLD0000870
+I'm sorry.
+SSR/SSR0008480
+Huh?
+CLD/CLD0000880
+For many years, I've been mistaken.
+CLD/CLD0000890
+The ribbon on your head....[nl]And also the way you've been talking and acting....[nl]I finally understand what it all means.
+CLD/CLD0000900
+Heh....I'm surprised at myself for being so obtuse.[nl]I must apologize to you.
+SSR/SSR0008490
+Master Claude....
+CLD/CLD0000910
+But, it's still displeasing.
+SSR/SSR0008500
+!
+CLD/CLD0000920
+You....couldn't possibly be in love with this guy?
+SSR/SSR0008510
+----
+SSR/SSR0008520
+....Yes.
+CLD/CLD0000930
+That path would prove difficult.[nl]You can never be united with Raku Ichijo.
+SSR/SSR0008530
+I understand that. In thinking of the mistress,[nl]I have kept my feelings hidden for a long time.
+SSR/SSR0008540
+However! I still love this man!
+RAK/RAK0020500
+Tsugumi....
+RAK/RAK0020510
+H-Hey....Claude?
+CLD/CLD0000940
+Heh....
+CLD/CLD0000950
+Heh....hehe....heh....
+CLD/CLD0000960
+Raku Ichijo. I don't know what kind of trick[nl]you used to possess Seishiro like this....
+CLD/CLD0000970
+I was a fool for letting it go[nl]all this time just because you were the mistress's lover.
+CLD/CLD0000980
+I will not be satisfied until I make you[nl]suffer worse than death.
+RAK/RAK0020520
+Eeeeeeeeh!?[nl]D-Do you think it's my fault!?
+CLD/CLD0000990
+Never cross the Beehive, punk....!
+SSR/SSR0008550
+No! Move, Raku Ichijo!
+RAK/RAK0020530
+Huh....?
+SSR/SSR0008560
+Tch...! Get out of the way!
+@画面揺らし
+RAK/RAK0020540
+@キャラ揺らし
+SSR/SSR0008570
+Gaaah!
+CLD/CLD0001000
+.....Mgh!
+RAK/RAK0020550
+T-Tsugumi!! You saved me!?
+SSR/SSR0008580
+Ghh....Don't be an idiot![nl]You're not strong enough to withstand a[nl]blow from Master Claude!
+CLD/CLD0001010
+Get out of the way, Seishiro. Do you want to die!?
+CLD/CLD0001020
+This man is our enemy. For the mistress's sake,[nl]and for your sake, he must be eliminated.
+SSR/SSR0008590
+I don't want to....!
+CLD/CLD0001030
+What....?
+SSR/SSR0008600
+I consider both the mistress and Raku Ichijo to be very [nl]important to me! Whether or not you agree,[nl]that's non-negotiable!
+SSR/SSR0008610
+So, to protect this man, I'll--
+SSR/SSR0008620
+I'll....even fight you!
+RAK/RAK0020560
+CLD/CLD0001040
+Do you really think you can take me alone?
+SSR/SSR0008630
+----!
+CLD/CLD0001050
+Who was it who taught you to fight?[nl]Who taught you unarmed combat?
+SSR/SSR0008640
+Ghh....!!
+CLD/CLD0001060
+Have you ever, even once, been able to defeat me?
+CLD/CLD0001070
+I have never trained you to misjudge[nl]a difference in strength....
+CLD/CLD0001080
+Still, if you're going to challenge me--
+@expose2
+CLD/CLD0001090
+Then I won't hold anything back!
+SSR/SSR0008650
+Ghh....[nl]I didn't know that Master Claude was so terrifying when [nl]he's serious....just standing in front of him, my legs--
+RAK/RAK0020570
+H-Hey! You're shaking!
+SSR/SSR0008660
+S-Shut up! I know that!
+SSR/SSR0008670
+You run away. I'll stop Master Claude.
+CLD/CLD0001100
+You stand firm in your convictions.
+CLD/CLD0001110
+But, you know what happens to traitors....[nl]Don't you?
+SSR/SSR0008680
+......!
+CLD/CLD0001120
+I will discipline you severely....
+SSR/SSR0008690
+Khhhh....!
+RAK/RAK0020580
+(Dammit....why the hell am I just[nl] letting Tsugumi protect me!?
+RAK/RAK0020590
+SSR/SSR0008700
+Waaagh!?
+RAK/RAK0020600
+Get it together, Tsugumi!
+SSR/SSR0008710
+Y-You! Why are you holding my hand!?
+RAK/RAK0020610
+If you're so scared that you're shaking,[nl]then you should just stay quiet from the start.
+RAK/RAK0020620
+I'm not so pathetic as to just[nl]let you protect me.
+SSR/SSR0008730
+Y-You idiot, get the hell outta here![nl]This is no time to play it cool!
+RAK/RAK0020630
+....I can't wimp out in front of someone[nl]who says she likes me.
+CLD/CLD0001130
+Raku Ichijo![nl]What are you doing to Seishiro in front of me!?
+RAK/RAK0020640
+Shut up! As for you, Claude!
+RAK/RAK0020650
+Tsugumi's a child you raised![nl]A parent shouldn't be treating their child like this!
+SSR/SSR0008740
+Raku Ichijo....
+CLD/CLD0001140
+Tch.... You smartass!
+CLD/CLD0001150
+This is your last warning. Seishiro.[nl]Hand him over, now.
+CLD/CLD0001160
+If you don't, he won't just sink to the bottom of the sea....
+CLD/CLD0001170
+I will tear off that frail body with my own hands!
+RAK/RAK0020660
+(Oogh....he's scary!)
+RAK/RAK0020670
+(I was trying to be strong,[nl] but what am I doing now!?)
+SSR/SSR0008750
+Good grief....now you're the one shaking, aren't you?
+SSR/SSR0008760
+You should've left me alone and run away....
+RAK/RAK0020680
+S-Shut up. I can't back down[nl]now that I've said all that.
+@ＢＧＭ停止
+SSR/SSR0008770
+Then why don't you fight with me?
+RAK/RAK0020690
+SSR/SSR0008780
+I don't know what I can do against[nl]Master Claude when he's serious....
+SSR/SSR0008790
+But, strangely, you're calming my heart by holding my hand.[nl]I can feel my strength welling up.
+@expose
+SSR/SSR0008800
+So, then....will you keep holding my hand, please?
+RAK/RAK0020700
+SSR/SSR0008810
+Please....Raku Ichijo.
+RAK/RAK0020710
+Alright. Well then, let's go together!
+SSR/SSR0008820
+Right!
+CLD/CLD0001180
+DIE, RAKU ICHIJO!
+SSR/SSR0008830
+Let's go, Raku Ichijo![nl]Match my timing!
+RAK/RAK0020720
+Right....!
+CLD/CLD0001190
+HAAAAAAAAAAAAAAAAAAAAHHHHH!!!
+@画面揺らし2
+CLD/CLD0001200
+Heh....you stupid---
+RAK/RAK0020730
+Whoa, we're kinda alright.
+CLD/CLD0001210
+What!?
+CLD/CLD0001220
+Stupid....! You're unharmed!?
+SSR/SSR0008840
+Look sharp. The next one's coming.
+RAK/RAK0020740
+Right!
+CLD/CLD0001230
+Heh, you got lucky. You can't dodge like that every time!
+CLD/CLD0001240
+CLD/CLD0001250
+HAAAAHHH!!
+CLD/CLD0001260
+TCHAAAAAAHHH!
+CLD/CLD0001270
+Why!? Why do I keep missing!?
+RAK/RAK0020750
+(It's strange....even though I'm just holding her hand....)
+RAK/RAK0020760
+(I always know....how she'll move next....)
+CLD/CLD0001280
+Dammit, Seishiro! How are you moving so fast[nl]with that punk weighing you down!?
+SSR/SSR0008850
+Weighing me down!? Not at all!
+RAK/RAK0020770
+(To the right!)
+SSR/SSR0008860
+We're matching each other's moves perfectly now!
+RAK/RAK0020780
+(Left!)
+SSR/SSR0008870
+I can't get this kind of power by myself![nl]It's courage I'm getting from fighting with the man I love!
+SSR/SSR0008880
+This is the only technique that can surpass you!
+CLD/CLD0001290
+Gwlbck!
+SSR/SSR0008890
+Now! We'll knock him down, Raku Ichijo!
+RAK/RAK0020790
+Right!
+SSR/SSR0008900G
+Sidestep!
+CLD/CLD0001300
+Gahh!
+SSR/SSR0008910G
+Progressive Turn!
+CLD/CLD0001310
+Gwaah!
+SSR/SSR0008920G
+Swivel!
+CLD/CLD0001320
+SSR/SSR0008930
+He's down!
+@スクリーン変更
+SSR/SSR0008940G
+Double Spin....and....Finish!!
+CLD/CLD0001330
+GWAAAAHH!!
+SSR/SSR0008950
+It's done....
+RAK/RAK0020840
+Yes, it's done.
+RAK/RAK0020850
+(Hang on, I did all that in the spur of the moment....[nl] What the hell is this development!?)
+CLD/CLD0001340
+Gack...! Stupid....[nl]How could....I....lose...!?
+SSR/SSR0008960
+I'm sorry, Master Claude.
+SSR/SSR0008970
+Even you cannot stop my feelings---!
+CLD/CLD0001350
+Gack....I never thought you'd be so powerful, Seishiro.[nl]As expected of the agent I raised myself.
+CLD/CLD0001360
+And....this would be what you call the power of love....
+SSR/SSR0008980
+I'm sorry....
+CLD/CLD0001370
+Regrettably, I've lost.
+CLD/CLD0001380
+But....I'll tell you this, Seishiro and Raku Ichijo.
+CLD/CLD0001390
+Don't do anything that will make Mistress Chitoge sad.
+CLD/CLD0001400
+Please....promise me that much.
+SSR/SSR0008990
+Sure. I understand.[nl]After all, I love the mistress, too.
+CLD/CLD0001410
+Heh....then do as you please.[nl]I have nothing to say....
+SSR/SSR0009000
+Thank you, Master Claude.
+RAK/RAK0020860
+(Good grief.... Well, I guess that settles that, doesn't it?)
+CLD/CLD0001420
+But, I must say I'm surprised....
+CLD/CLD0001430
+I didn't think you and the punk were...."that kind" of people.
+RAK/RAK0020870
+SSR/SSR0009010
+T-That kind?
+CLD/CLD0001440
+I didn't think you could "play for both teams"....[nl]At the very least, I was expecting a [nl]friendship between men....
+SSR/SSR0009020
+Ee-eh-....[nl]N-No, Master Claude!
+@キャラ揺らし
+CLD/CLD0001450
+Ghaaack!!!
+RAK/RAK0020880
+H-Hey! What did you mean by "that kind"?
+RAK/RAK0020890
+Hey, come on! Don't pass out![nl]Wake up! Wake up and listen to me!
+SSR/SSR0009030
+This guy....he still thinks I'm a man[nl]after all this time....
+RAK/RAK0020900
+I'm begging you, wake up![nl]We can't just stop heeeeere!
+@フェードアウト
+CLD/CLD0001460
+Hello.
+RAK/RAK0020910
+Gah! Claude!
+CLD/CLD0001470
+Oh, wouldn't you be Raku Ichijo,[nl]the young master of the Shuei-Gumi?
+RAK/RAK0020920
+Y-Yeah....
+CLD/CLD0001480
+Well, you have a date with the mistress today?[nl]After all, you are her lover.
+RAK/RAK0020930
+Huh?
+CLD/CLD0001490
+Well, so far![nl]We don't know how long that relationship will last, right?[nl]Hahahahahaha!
+CLD/CLD0001500
+Anyway, I had a strange dream last night.
+RAK/RAK0020940
+D-Dream?
+CLD/CLD0001510
+Yes. A dream in which the young master[nl]and Seishiro were in a forbidden love.
+CLD/CLD0001520
+Well, it was a blood-curdling scenario![nl]A truly absurd dream!
+CLD/CLD0001530
+But, you mustn't worry.
+CLD/CLD0001540
+Because then I, Claude, appeared, defeated the [nl]young master, and saved both the mistress and Seishiro!
+CLD/CLD0001550
+If that had been real life, you wouldn't be here![nl]Consider your life saved, young master!
+RAK/RAK0020950
+O-Okay....[nl]I'm glad it was only a dream.
+CLD/CLD0001560
+Well, I have an assignment, so I'll be going now.
+CLD/CLD0001570
+....Ah. That's right.[nl]I should probably call the mistress as well.
+CLD/CLD0001580
+Tch.
+RAK/RAK0020970
+(Does he think everything[nl] that happened yesterday was part of his dream?)
+RAK/RAK0020980
+(It's an awfully convenient dream,[nl] but, well, I guess it helps me....)
+RAK/RAK0020990
+(But....what should I do about Tsugumi?)
+RAK/RAK0021000
+(After the fight, we were too busy carrying Claude[nl]to talk about anything, and it was all a mess....)
+CTG/CTG0008980
+Hello, darling! Thanks for picking me up!
+RAK/RAK0021010
+Yo, honey.
+RAK/RAK0021020
+A-And....Tsugumi.
+SSR/SSR0009040
+What is it? Is my presence here a problem?
+RAK/RAK0021030
+No, not really....
+SSR/SSR0009050
+Don't worry, I'm just here to see you off.[nl]You should focus on escorting the mistress.
+RAK/RAK0021040
+RAK/RAK0021050
+(What's with her? She's just acting completely normal,[nl] like she never confessed her love!)
+CTG/CTG0008990
+Ah....sorry![nl]I think I left something in my room!
+CTG/CTG0009000
+Tsugumi! Sorry, but you'll have to stay[nl]with my darling for a bit!
+SSR/SSR0009060
+Yes, I understand.
+SSR/SSR0009070
+Well, what is it?[nl]You shouldn't stare like that.
+RAK/RAK0021060
+Well....after everything that happened,[nl]you're acting very normal.
+SSR/SSR0009080
+Your face has been red for a while now.[nl]You'd better not let the mistress see that.
+RAK/RAK0021070
+Huh!? Seriously!?
+SSR/SSR0009090
+Heh....gotcha, idiot.
+RAK/RAK0021080
+You tricked me!?
+SSR/SSR0009100
+Don't get so angry. If you're a man,[nl]just grin and bear it.
+RAK/RAK0021090
+You've been blushing for a while now, too.
+SSR/SSR0009110
+Wha-? You idiot!?
+RAK/RAK0021100
+Kidding.
+@expose2
+SSR/SSR0009120
+Sounds to me like you want to die, Raku Ichijo.....
+RAK/RAK0021110
+You're the one who told me to grin and bear it!
+SSR/SSR0009130
+I said "if you're a man"![nl]You oaf! You numbskulled man!
+RAK/RAK0021120
+Dammit....you haven't changed at all, have you?
+RAK/RAK0021130
+I was just thinking, I need to respond to your feelings....[nl]I was really stressing about it.
+SSR/SSR0009140
+Huh....?
+RAK/RAK0021140
+I mean, that's what I should do, right?[nl]It wouldn't be right to just leave this[nl]up in the air after you were so earnest.
+SSR/SSR0009150
+I-I see.
+SSR/SSR0009160
+....I'm very glad you feel that way.
+RAK/RAK0021150
+So, let me set it straight.[nl]I'm going to answer you.
+RAK/RAK0021160
+I---
+RAK/RAK0021170
+!?!?
+SSR/SSR0009170
+....No, not yet.
+RAK/RAK0021180
+Tsugumi?
+SSR/SSR0009180
+I love both Mistress Chitoge and you, Raku Ichijo.[nl]I'm just glad I was able to make that clear.
+SSR/SSR0009190
+So....
+SSR/SSR0009200
+I don't need an answer just yet.
+RAK/RAK0021190
+....Are you sure?
+SSR/SSR0009210
+Yes. But be on your guard.
+SSR/SSR0009220
+I won't be satisfied with just you or the mistress.
+SSR/SSR0009230
+One day, I'll bring you down[nl]and we'll be inseparable.
+RAK/RAK0021200
+!!
+CTG/CTG0009010
+Thank you for waiting!
+CTG/CTG0009020
+Huh? What's the matter, darling?[nl]Your face looks like a boiled octopus.
+RAK/RAK0021210
+N-Nothing at all![nl]Come on, let's go!
+CTG/CTG0009030
+Ah, hang on a sec!
+CTG/CTG0009040
+Well, we're off, Tsugumi!
+SSR/SSR0009240
+Yes....have a good time, mistress.[nl]And you too, Raku Ichijo.
+SSR/SSR0009250
+(Right....I don't need to know[nl] how this love ends just yet.)
+SSR/SSR0009260
+(My first love is just beginning.....)
+@汎用フラグ・変数をすべてクリア
+@エンディング
+@最終一枚絵演出
+@ssr_006_201_another
+SSR/SSR0009270
+Hey, how long are you gonna keep quiet?[nl]Just tell me.
+SSR/SSR0009280
+If you keep this up, we'll have to be[nl]together forever, won't we?
+SSR/SSR0009290
+If that happens....how will we handle it?[nl]Like, how will we bathe, or go to the b-bathroom and stuff!?
+@exposew
+RAK/RAK0021220
+Y-You moron![nl]Don't worry about such stupid things!
+SSR/SSR0009300
+Then tell me![nl]Tell me how we ended up like this!
+RAK/RAK0021230
+----!
+RAK/RAK0021240
+I can't.
+SSR/SSR0009310
+Huh....?
+RAK/RAK0021250
+I cannot, I cannot, I cannot!
+RAK/RAK0021260
+I can't tell you anything![nl]I don't want to tell you!
+SSR/SSR0009320
+Huh!? No, please do something!
+RAK/RAK0021270
+N-O  W-A-Y!!
+SSR/SSR0009330
+S-Stop acting like a child!
+RAK/RAK0021280
+Shut up! I don't even mind being you anymore![nl]I could stay like this forever!
+SSR/SSR0009340
+That's....!
+CLD/CLD0001590
+Found you, Seishiro!
+RAK/RAK0021285
+(Gaah, this is bad![nl] What a time for Claude to show up!)
+CLD/CLD0001600
+Hmph....you're with the brat, huh.
+CLD/CLD0001610
+Well, no matter. We'll deal with him later.
+SSR/SSR0009360
+Huh? I....I thought you were[nl]after Raku Ichijo, not me....
+CLD/CLD0001620
+Well, I was....[nl]But now's not the time to fool around with this guy!
+CLD/CLD0001630
+Seishiro! I have an urgent mission for you!
+RAK/RAK0021290
+What!? What is it?
+@叫び揺れ
+CLD/CLD0001640
+You shut your mouth!
+RAK/RAK0021300
+Ah....d-dang it.
+CLD/CLD0001650
+Seishiro. I'm sending you to America.
+SSR/SSR0009370
+A-America!?
+CLD/CLD0001660
+It's a long mission, a very dangerous operation.[nl]I can't do it without you. I'm counting on you!
+SSR/SSR0009380
+H-Hang on a second! I'm actually not Seishiro, I--
+CLD/CLD0001670
+What kind of nonsense is that!?[nl]I've already arranged the flight, so come on!
+SSR/SSR0009390
+Waagh! Ha....[nl]Stop pulling!
+RAK/RAK0021310
+R-Raku Ichijo!
+CLD/CLD0001680
+The mission is an all-out war against "The Bloody Mother",[nl]an extremely violent criminal group that's the second most[nl]dangerous in the country. Ask for more details there.
+SSR/SSR0009400
+Waaaaaagh! Stop! I don't want to go!
+RAK/RAK0021320
+Raku Ichijo!!
+@背景変更
+SSR/SSR0009410
+This is Team Fox. Operation Failed.
+SSR/SSR0009420
+I repeat....Operation Failed.
+@ＢＧＭ再生
+SSR/SSR0009430
+Waaaaagh!?
+RAK/RAK0021330
+Come on, lower yourself more![nl]Do you want to die!?
+SSR/SSR0009440
+W-Why the hell am I in this mess!?
+RAK/RAK0021340
+Stop whining! Why do you think I[nl]sneaked over as your support!?
+SSR/SSR0009450
+Crap....I wanted to live an honest life[nl]as a civil servant!
+RAK/RAK0021350
+It can't be helped now. You're me and I'm you.
+RAK/RAK0021360
+Until our bodies are returned to normal,[nl]our lives are intertwined....
+RAK/RAK0021370
+We'll have to be together forever!
+SSR/SSR0009460
+What the hell, are you enjoying this?
+RAK/RAK0021380
+N-No way, idiot![nl]See, it's not safe to be distracted!
+SSR/SSR0009470
+AAAIIIIEEEE!
+SSR/SSR0009480
+Dang it! If I'd chosen my words more carefully,[nl]I might've been able to hear her wish....
+SSR/SSR0009490
+I'm such an idiot!!
+@ＴＨＥＥＮＤ
+@イベント終了処理
+common.asb

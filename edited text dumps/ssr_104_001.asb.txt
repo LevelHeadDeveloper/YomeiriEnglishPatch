@@ -1,0 +1,120 @@
+__main
+@Lclearscreenall
+@ssr_104
+@イベント開始処理
+@ＢＧＭ再生
+KYK/KYK0000350
+Alright, time to turn in your English quizzes.[nl]When I call your name, go ahead and bring me yours.
+MSA/MSA0000150G
+Okaaay!
+RAK/RAK0053270
+Crap....I didn't review thoroughly enough,[nl]so I'm not sure I did well on this....
+KYK/KYK0000360
+Kirisaki.
+CTG/CTG0013830
+Here you go!
+KYK/KYK0000370
+Hey, just what we expected from an American transfer[nl]student. A well-deserved 100 points for you.
+@expose
+CTG/CTG0013840
+Hehe, of course!
+KSK/KSK0016700
+That's amazing, Chitoge!
+CTG/CTG0013850
+Hehehe, really? If you have any trouble with this subject,[nl]just let me know, okay?
+RAK/RAK0053280
+(As usual, Chitoge can *really* study.)
+KYK/KYK0000380
+Next up, Ichijo.
+RAK/RAK0053290
+O-Okay!
+KYK/KYK0000390
+....Hmm. This isn't good, but it isn't bad, either.[nl]You stayed the same as usual.
+RAK/RAK0053300
+R-Right....
+@時間経過演出
+SSR/SSR0012670
+Heh.... You really are a pathetic man. How do you expect[nl]to be a good lover for the Mistress like this?
+RAK/RAK0053310
+S-Shut up![nl]What kind of score did you get?
+SSR/SSR0012680
+A perfect score with room to spare.
+RAK/RAK0053320
+Nghhh.....[nl]You did great as usual.
+SSR/SSR0012690
+.....A-Ahem. W-Well, if you're this bad,[nl]you'll probably embarrass the Mistress.
+SSR/SSR0012700
+It cannot be helped.[nl]May I walk you through where you made mistakes?
+SSR/SSR0012710
+That is....if you insist.
+Sounds like a pain in the butt.
+Let her help
+RAK/RAK0053330
+No, I'm good.
+SSR/SSR0012720
+....You need to accept other people's generosity!
+RAK/RAK0053340
+Which is it....?
+SSR/SSR0012730
+Shut up and listen!
+RAK/RAK0053350
+Fine, fine.[nl]Thanks for helping me out, them.
+SSR/SSR0012740
+M-Mhm....
+RAK/RAK0053360
+Seriously!? Tsugumi, you're a great teacher![nl]Will you really help me!?
+@ザクシャ誠士郎・中
+SSR/SSR0012750
+....I-Is that right?[nl]I'm a great teacher, huh.
+SSR/SSR0012760
+You ready? First of all, this problem here....
+RAK/RAK0053370
+.....!
+SSR/SSR0012770
+Mgh....W-What is it?[nl]Are you listening to me?
+RAK/RAK0053380
+Y-Yeah. I'm listening, I'm listening.
+SSR/SSR0012780
+Okay. Then let us continue.
+RAK/RAK0053390
+(She's so close! Every time she teaches me,[nl] she gets so close!)
+RAK/RAK0053400
+(I like Onodera, why the hell is[nl] my heart pounding....wait, it's this pattern again!)
+SSR/SSR0012790
+Hey, stop spacing out![nl]Listen carefully!
+RAK/RAK0053410
+Huh? T-To what!?
+SSR/SSR0012800
+To what I'm saying!
+SSR/SSR0012810
+Jeez....could you try to take this[nl]a little bit more seriously?
+RAK/RAK0053420
+O-Okay.....[nl]Sorry. After all, you're going to all this trouble for me.
+SSR/SSR0012820
+Who said it was for you!?[nl]It's for, ummm.....the Mistress! Don't get the wrong idea!
+RAK/RAK0053430
+Got it, got it.[nl]Don't worry about it.
+SSR/SSR0012830
+You really and truly get it?
+SSR/SSR0012840
+Then I'll have you take a retest for me sometime.
+RAK/RAK0053440
+Oh. A goal like that should keep me motivated.
+SSR/SSR0012850
+Hm.... Then, we'll use a carrot-and-stick approach.[nl]If you can get a perfect score on the retest,[nl]I'll do any one thing you want.
+RAK/RAK0053450
+Oooh, that's good![nl]Now I'm all fired up!
+SSR/SSR0012860
+However, if you miss even one question,[nl]you must break up with the Mistress.[nl]Are we clear?
+RAK/RAK0053460
+Too risky! Too risky!
+SSR/SSR0012870
+Then that's how seriously you need to take this!
+RAK/RAK0053470
+(Seriously.... If I make a mistake and have to[nl] break up with Chitoge, the Beehive and Shuei-Gumi[nl] will start an all-out war!)
+SSR/SSR0012880
+Well, do your very best.[nl]Or die trying.
+RAK/RAK0053480
+(Ooogh.... The fate of this city[nl] depends on one little English quiz! I can't believe it!)
+@イベント終了処理
+common.asb

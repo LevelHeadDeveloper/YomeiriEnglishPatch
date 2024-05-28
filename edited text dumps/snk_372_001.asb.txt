@@ -1,0 +1,29 @@
+__main
+@Lclearscreenall
+@snk_372
+SSR/SSR0021520
+You're too slow, Raku Ichijo! Had this been a real battle,[nl]your comrades would have long since left you behind!
+RAK/RAK0082960
+Yeah, but that being said....[nl]I intend to live my life on the straight and narrow[nl]to avoid having to be in a real battle.
+SSR/SSR0021530
+What a naive thing to say![nl]Danger lurks around every corner!
+SSR/SSR0021540
+For example....[nl]Recently, I went out to eat some fish.
+SSR/SSR0021550
+I thought it would be a normal restaurant,[nl]but this place was outrageous.
+RAK/RAK0082970
+What do you mean?
+SSR/SSR0021560
+Mhm. When I asked the owner what he recommended,[nl]he gave me a creepy smile, and he said in a mousy, wheedling voice:
+SSR/SSR0021570
+"Customer-san, right now it's *gun* season!!"
+RAK/RAK0082980
+Huh....?
+SSR/SSR0021580
+Sensing that I was in danger, I broke through the window[nl]and jumped outside to escape. Had I stayed in that restaurant,[nl]I would definitely have been killed.
+RAK/RAK0082990
+You know, that's....
+SSR/SSR0021590
+Even in a country like this, which is said to be the[nl]safest in the world, there's a lot of very dangerous places![nl]Remember that very well!
+RAK/RAK0083000
+(When he said "gun", was he just talking about pufferfish....?[nl] I-I won't tell her. Now's not the time....)[nl] #fs{12}TN: The word used is "teppou", which means "gun" and is slang for "pufferfish".#fs{}

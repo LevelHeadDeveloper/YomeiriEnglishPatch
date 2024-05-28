@@ -1,0 +1,42 @@
+__main
+@Lclearscreenall
+@ssr_001_102
+@expose
+SSR/SSR0001230
+If you have something to say, say it.
+I....
+I want to draw the brave Seishiro!
+I want to see more of your face!
+@ザクシャ誠士郎・１
+SSR/SSR0001240
+What!?
+SSR/SSR0001250
+W-What did you s-say just now?
+@ザクシャ誠士郎・小
+SSR/SSR0001260
+I-I see...[nl]Well, if you insist, then I'll oblige....
+@ssr_001_103
+SSR/SSR0001270
+Stop mumbling and just spit it out!
+@ssr_001_201
+SSR/SSR0001280
+Fwah!? W-What!?[nl]W-Where exactly do you want to see!?
+@タッチパート開始処理
+@ザクシャ誠士郎・小
+SSR/SSR0001290
+Alright! Okay, fine,[nl]just don't bring your face any closer~~!
+@ssr_001_103
+SSR/SSR0001300
+I thought you said you wanted to see part of my face![nl]Where the hell are you looking!?
+@ＨＰ－５０
+SSR/SSR0001320
+M-Moron! Why the hell are you looking behind me!?
+SSR/SSR0001330
+I-I thought you wanted to see my face!
+SSR/SSR0001310
+I-I thought you wanted to see my face....
+SSR/SSR0005210
+Say something already!
+common.asb
+ssr_001_103.asb
+ssr_001_201.asb

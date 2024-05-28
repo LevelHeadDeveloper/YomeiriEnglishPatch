@@ -1,0 +1,241 @@
+__main
+@Lclearscreenall
+@ssr_005_201
+@2ショット成功
+@2ショット失敗
+@ssr_005_201_01
+@ＢＧＭ再生
+RAK/RAK0018300
+Seriously....[nl]I coulda sworn I heard that sound from somewhere around here....
+@expose
+SSR/SSR0006290
+T-That's enough.[nl]No one likes a guy who's too persistent, right?
+SSR/SSR0006300
+Of course, I don't like you either way!
+SSR/SSR0006310
+HOW IS THAT A LIEEEEEE!?
+RAK/RAK0018310
+Huh? A lie?
+SSR/SSR0006320
+---!
+RAK/RAK0018320
+Ah, now I remember![nl]That's the sound from the lie detector[nl]you brought to the study group that one time!
+SSR/SSR0006330
+Ghh....dammit!
+RAK/RAK0018330
+You've put it in your chest pocket?[nl]Heeeh....it's gotten a lot smaller.
+RAK/RAK0018340
+But why are you carrying it?
+SSR/SSR0006340
+Ghhh....I kept quiet so you wouldn't find out!
+SSR/SSR0006350
+Well, there's no point in doing that now![nl]Now that you know, I'll carry out the mission anyway!
+RAK/RAK0018350
+Huh? W-What the hell!?[nl]Don't tell me I just brought this on myself....
+SSR/SSR0006360
+Too late now. And you can't just back out!
+SSR/SSR0006370
+Raku Ichijo![nl]Can you honestly say you love the mistress!?
+SSR/SSR0006380
+D-Do you....really and truly have feelings[nl]for the mistress!?
+RAK/RAK0018360
+Eeh!? That's the same question again!
+SSR/SSR0006390
+You'd better answer honestly,[nl]or consider your head already blown into a thousand pieces....
+RAK/RAK0018370
+Stop trying to scare me!
+SSR/SSR0006400
+Shut up and answer me!
+RAK/RAK0018380
+(Crap....she's outdone herself this time.[nl] If she finds out the truth about me and Chitoge,[nl] all our effort will go to waste!)
+SSR/SSR0006410
+What's the matter? Can't tell me?
+RAK/RAK0018390
+W-Well, obviously![nl]Of course I love her!
+SSR/SSR0006420
+....Tch. No feedback.[nl]Looks like you weren't lying.
+RAK/RAK0018400
+H-Huh? Seriously?
+RAK/RAK0018410
+(Phew....I guess a lie detector's[nl] not infalliable after all.)
+SSR/SSR0006430
+Next question. The mistress is at her best[nl]when she's eating delicious food!
+SSR/SSR0006440
+This time, respond with "Yes" or "No"!
+RAK/RAK0018420
+Wait, wait! Why'd you ask another question!?
+SSR/SSR0006450
+Why are you so confused?[nl]There's still a good number of questions to answer.
+SSR/SSR0006460
+Now that I've gotten this far,[nl]I won't let you leave until I'm satisfied!
+RAK/RAK0018430
+(Guhh....if this keeps up, she's going to[nl]figure it out sooner or later.)
+RAK/RAK0018440
+(I've got to change the subject....right!)
+RAK/RAK0018450
+Alright! I've got a question for you, too!
+SSR/SSR0006470
+W-What!?
+RAK/RAK0018460
+Let's see, let's see......
+RAK/RAK0018470
+G-Got it![nl]Seishiro Tsugumi, is there anyone you like!?
+SSR/SSR0006480
+Wha-......
+SSR/SSR0006490
+N-N-No, there i-i-i-is not!!!
+SSR/SSR0006500
+Gaaahhhhhh!
+RAK/RAK0018480
+Come on, I knew it.
+SSR/SSR0006510
+N-No, wait....! You misunderstand, Raku Ichijo.
+RAK/RAK0018490
+You don't need to try and hide it.[nl]I'll be rooting for you.
+SSR/SSR0006520
+....You cannot support me here.
+SSR/SSR0006530
+Besides, I have no need for such feelings.[nl]All I want is to be a good bodyguard to the mistress....
+RAK/RAK0018500
+Even so, once you fall in love,[nl]you don't think about it so logically.
+SSR/SSR0006540
+I-Is that how it is?
+RAK/RAK0018510
+Well, I'm not sure I should be saying it.
+RAK/RAK0018520
+Whether they like someone else,[nl]or whether they're even interested in you....
+RAK/RAK0018530
+Once you're interested in someone,[nl]you can't stop thinking about them.
+SSR/SSR0006550
+....Even if he already has a girlfriend?
+SSR/SSR0006560
+Even if you know your feelings will never[nl]be reciprocated----
+SSR/SSR0006570
+Even then, you can fill your head and heart with[nl]thoughts of the person you like?
+RAK/RAK0018540
+Huh....?[nl]So the guy you like already has a girlfriend....
+SSR/SSR0006580
+H-Hang on! This is only hypothetical!
+SSR/SSR0006590
+Hypothetically....if I fall in love with someone who[nl]has a girlfriend, what do I do with those feelings?
+@ＢＧＭ停止
+SSR/SSR0006600
+----Like, if Marika Tachibana or myself confessed love[nl]to you, even though you're dating the mistress....
+SSR/SSR0006610
+Wouldn't that be just a nuisance?
+RAK/RAK0018550
+Huh....?
+SSR/SSR0006620
+D-Don't get me wrong![nl]Like I said, this is all hypothetical!
+SSR/SSR0006630
+But....please answer honestly.
+RAK/RAK0018560
+I gotta say---
+It wouldn't be a nuisance.
+I'm not sure.
+RAK/RAK0018570
+It wouldn't be a nuisance.
+SSR/SSR0006640
+Even....if it was me?
+RAK/RAK0018580
+Yeah....[nl]Even though you get angry a lot, and hit me a lot,[nl]and sometimes I don't know what you're thinking.
+RAK/RAK0018590
+Still, if a girl like you told me they loved me,[nl]I'd be....pretty happy, I think.
+@ザクシャ誠士郎・大
+SSR/SSR0006650
+...........!!
+SSR/SSR0006660
+Y-You moron....[nl]You should have said "no" for the mistress's sake....
+RAK/RAK0018600
+You're the one who told me to answer honestly.
+SSR/SSR0006670
+~~~~!!
+SSR/SSR0006680
+Jeez....you're....
+@ザクシャ誠士郎・中
+SSR/SSR0006690
+All the time....you're so annoying.
+RAK/RAK0018610
+RAK/RAK0018620
+Sorry....I'm not sure.
+SSR/SSR0006700
+A.....[nl]Well, you wouldn't....hate it, right?
+RAK/RAK0018630
+Right....[nl]I can't say I would hate it.
+@ザクシャ誠士郎・小
+SSR/SSR0006710
+I-I see....
+RAK/RAK0018640
+Well, I don't think most guys would feel bad[nl]if they got a confession of love from you.
+SSR/SSR0006720
+....I don't care about any guy but you.
+RAK/RAK0018650
+SSR/SSR0006730
+Ah--.....[nl]N-Nothing!
+SSR/SSR0006740
+~~~~![nl]Why the hell did I say that!
+RAK/RAK0018660
+A-Are you....embarrassed?
+SSR/SSR0006750
+H-Huh!?[nl]Why the hell would a hypothetical situation embarrass me!?
+SSR/SSR0006760
+After all, how would someone like you make[nl]me lose my composure!? You moron, you absolute moron!
+SSR/SSR0006770
+I-I.....for me to love you....
+SSR/SSR0006780
+Well, that's just plain impossible!
+RAK/RAK0018670
+Huh....? T-That's---!
+SSR/SSR0006790
+WAAAAAAAAAAAGGHHHH!
+@ＨＰ－２０
+RAK/RAK0018680
+....Gack!
+SSR/SSR0006800
+GAAAAAAAAH!
+RAK/RAK0018690
+Glrpth!
+@expose2
+SSR/SSR0006810
+I-I-I-It's false! The machine must be defective!
+SSR/SSR0006820
+It's all NONSENSE!!!
+RAK/RAK0018700
+(W-What the hell was that?[nl] And why did she hit me twice....)
+@フェードアウト
+@背景変更
+SSR/SSR0006830
+Hahh, hahh, hahh....
+SSR/SSR0006840
+Why me!? Why do I have to get so damn[nl]nervous around him!?
+SSR/SSR0006850
+He's the mistress's boyfriend....why!?
+Whether they like someone else,[nl]or whether they're even interested in you....
+RAK/RAK0018530
+.....
+SSR/SSR0006860
+I'm not being unreasonable.
+SSR/SSR0006870
+Then my heart is....
+SSR/SSR0006880
+--I....
+SSR/SSR0006890
+I love....Raku Ichijo!
+SSR/SSR0006900
+-----
+SSR/SSR0006910
+Everything's....so clear now.
+SSR/SSR0006920
+I can fool my mind, but not my heart....
+SSR/SSR0006930
+Raku Ichijo is my first love....
+SSR/SSR0006940
+Haha....so this is love.[nl]My heart's pounding....just like they say.
+SSR/SSR0006950
+It really....hurts.
+SSR/SSR0006960
+Besides....I guess it's also true what they[nl]say about your first love not coming true.
+SSR/SSR0006970
+I will never tell Raku Ichijo[nl]how I feel about him, ever.
+@イベント終了処理
+common.asb

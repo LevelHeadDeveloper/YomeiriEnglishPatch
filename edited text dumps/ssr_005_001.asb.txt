@@ -1,0 +1,211 @@
+__main
+@Lclearscreenall
+@ssr_005
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0001240
+Hey, hey, everyone![nl]How about we stop at a family restaurant on the way home?
+RAK/RAK0018080
+Sure, I don't really mind.
+CTG/CTG0008750
+Me too~![nl]Kosaki and the others and I were planning to do something[nl]like this anyway, so I'm totally fine with it!
+KSK/KSK0007160
+Yes. It'll be a lot more lively together with everyone.
+RUR/RUR0000880
+You mean together with Ichijo.
+@expose
+KSK/KSK0007170
+R-Ruri!?
+MRK/MRK0000440
+Of course, wherever Raku dearest goes, I go![nl]Be it through fire or water, I will stick by his side....!
+RAK/RAK0018090
+O-Okay....just don't overdo it.
+CTG/CTG0008760
+And how about you, Tsugumi?
+........
+SSR/SSR0005580
+Hahh....
+RAK/RAK0018100
+Tsugumi?
+SSR/SSR0005590
+Aah!?!?[nl]W-What is it, Raku Ichijo!?
+RAK/RAK0018110
+Well, we were all thinking of stopping somewhere[nl]on the way home....
+CTG/CTG0008775
+You're going too, right, Tsugumi?
+SSR/SSR0005600
+....I'm sorry. I'll have to pass today,[nl]but you all go enjoy yourselves.
+CTG/CTG0008780G
+!?!?
+RAK/RAK0018130
+(You've gotta be kidding....[nl]Tsugumi turned down Chitoge's invitation....)
+KSK/KSK0007190
+What's wrong, Tsugumi?[nl]Is something the matter?
+SSR/SSR0005610
+N-No.... Nothing's wrong.
+SSR/SSR0005620
+It's nothing, so please don't worry.
+CTG/CTG0008790
+R-Really? I guess it's fine....
+SSR/SSR0005630
+Excuse me.
+MRK/MRK0000460
+It's most unusual for Tsugumi to reject[nl]an invitation from Kirisaki.
+KSK/KSK0007200
+Yeah. She's been seeming a little down lately.
+RUR/RUR0000900
+Chitoge, do you have any idea what's up?
+CTG/CTG0008800
+Nope. I don't have any ideas, either.
+SSR/SSR0005640
+....Hahh.
+SYU/SYU0001260
+Mm-hmm. I see.
+RAK/RAK0018140
+Have you figured it out?
+SYU/SYU0001270
+Absolutely![nl]Seishiro's sweet sigh just now....
+@expose2
+SYU/SYU0001280
+That is the sigh of a maiden in lov---
+@キャラ揺らし
+SYU/SYU0001290
+Gackpth!
+@画面揺らし
+RAK/RAK0018150
+Waagh!
+SSR/SSR0005650
+Y-Y-Y-You idiot!
+SSR/SSR0005660
+T-T-There's no way I'm in love with anyone!
+SSR/SSR0005670
+Aaaaagh!?
+KSK/KSK0007210
+That sound just now....what was that?
+SSR/SSR0005680
+R-Right? What the hell was that sound?[nl]I don't know, either!
+SSR/SSR0005690
+W-W-W-W-Well then, everyone![nl]I'll be headed out first! See ya!
+RAK/RAK0018160
+H-Hey....Tsugumi!
+CTG/CTG0008810
+I wonder what's bothering her.
+KSK/KSK0007220
+I'm worried....
+SYU/SYU0001300
+U-Um....isn't anyone worried about me?
+MRK/MRK0000470
+I assure you that we aren't worried about you in the slightest.
+RUR/RUR0000910
+You had it coming.
+RAK/RAK0018170
+-----
+@ＢＧＭ停止
+@時間経過演出
+SSR/SSR0005700
+....Hahh. I couldn't help but run away.
+SSR/SSR0005710
+Ooogh....why the hell did I take on this mission!?
+@背景変更
+@ＢＧＭ再生
+SSR/SSR0005720
+Master Claude.[nl]What's this little gadget that looks like a cellphone?
+CLD/CLD0000600
+Hmmm....this is an improved model of the "Lie Detector"[nl]that I lent you earlier.
+SSR/SSR0005730
+Huh!? This thing!?
+CLD/CLD0000610
+Yes....as you can see,[nl]our scientists succeeded in giving it a battery and[nl]reducing the form-factor. Amazing, isn't it?
+SSR/SSR0005740
+Y-Yeah....it is.
+CLD/CLD0000620
+And it is still 98% accurate, just like the old one.
+CLD/CLD0000630
+Seishiro! You must use this to expose[nl]that little brat's true intentions!
+SSR/SSR0005750
+Huh!? I-I must!?
+CLD/CLD0000640
+A device of this size should be easy to bring into school[nl]inconspicuously, and that should make it easy to get[nl]close to that boy.
+SSR/SSR0005760
+Well, that's true....
+SSR/SSR0005770
+If it turns out....[nl]Raku Ichijo does not have feelings for the mistress....
+SSR/SSR0005780
+How will she feel about that, I wonder....
+CLD/CLD0000650
+Please, there's no way that the mistress[nl]is serious about such a twerp!
+CLD/CLD0000660
+Of course, I think that he and the Shuei-Gumi are[nl]exploiting the mistress in some way!
+SSR/SSR0005790
+Are you sure....?
+CLD/CLD0000670
+The only one who can find out conclusively is....[nl]you, Seishiro! You're the only one!
+CLD/CLD0000680
+You must save the mistress from that savage little monkey!
+SSR/SSR0005800
+.........
+SSR/SSR0005810
+SSR/SSR0005820
+....Understood.[nl]I will accept this assignment---
+SSR/SSR0005830
+---I accepted the assignment, but the school day ended[nl]before I could find a chance to carry it out.
+SSR/SSR0005840
+Raku Ichijo's true feelings, huh....
+SSR/SSR0005850
+Before, I would have been overjoyed to learn[nl]that the relationship between the mistress and Raku Ichijo[nl]was false.
+SSR/SSR0005860
+But now....all my feelings are jumbled up.
+SSR/SSR0005870
+....Ghh![nl]Not at all!
+SSR/SSR0005880
+In the first place, why should I even bother[nl]thinking about Raku Ichijo at all!?
+SSR/SSR0005890
+That aside, he's pretty much taken over all my thoughts....
+RAK/RAK0018180
+What's this about me?
+SSR/SSR0005900
+W-WAAAAAAAAAGGHH!
+@ＨＰ－２０
+RAK/RAK0018190
+Gack!?
+SSR/SSR0005910
+Aa......
+RAK/RAK0018200
+D-Don't just suddenly hit me!
+SSR/SSR0005920
+Y-You just appeared from out of nowhere![nl]Why are you even here!?[nl]I thought you went out with the others!
+RAK/RAK0018210
+....I let everyone go ahead.
+RAK/RAK0018220
+I noticed something was bothering you....
+SSR/SSR0005930
+Huh....?
+SSR/SSR0005940
+Were you....worried about me, by any chance?
+RAK/RAK0018230
+Is that bad?
+SSR/SSR0005950
+......H-Hmph! I would have to have fallen pretty far[nl]to have you worrying about me.
+RAK/RAK0018240
+What the hell....that isn't at all cute.
+RAK/RAK0018250
+So, what were you worried about?[nl]You said something about me a while ago.
+SSR/SSR0005960
+Ghhh.....don't get too cocky, Raku Ichijo![nl]It doesn't have anything to do with you!
+SSR/SSR0005970
+Gaack!
+RAK/RAK0018260
+Hmm? Did you hear that sound just now?
+SSR/SSR0005980
+R-Right!?[nl]It must have been one of the birds that lives here!
+RAK/RAK0018270
+No bird would make such a machine-like noise.
+SSR/SSR0005990
+Then you must have imagined it. There's no strange sound!
+RAK/RAK0018280
+(Hmmm.... It's suspicious how much she's trying to hide it.)
+RAK/RAK0018290
+(I think it was coming from somewhere around her chest....[nl] I'll try and find out what's up with some questions.)
+@ssr_005_101
+common.asb
+ssr_005_101.asb

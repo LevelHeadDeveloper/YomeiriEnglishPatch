@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@ssr_002_102
+@expose
+SSR/SSR0002400
+Hahh....hahh....
+SSR/SSR0002410
+W-Whatever it is, just hurry up.[nl]....I'm going to go crazy!
+@ssr_002_01_ans01
+@ザクシャ誠士郎・中
+SSR/SSR0002420
+----!!
+@ssr_002_01_ans02
+SSR/SSR0002430
+What's the matter, hurry up!
+@expose
+SSR/SSR0002440
+Really, you....[nl]You're telling me you can't do this?
+SSR/SSR0002450
+....Spineless coward!
+@ssr_002_102_end
+@ssr_002_201
+common.asb
+ssr_002_201.asb

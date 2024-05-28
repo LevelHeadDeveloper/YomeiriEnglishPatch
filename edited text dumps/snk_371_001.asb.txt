@@ -1,0 +1,23 @@
+__main
+@Lclearscreenall
+@snk_371
+SSR/SSR0021450
+Alright. You've reached the checkpoint.[nl]Now head for the next one.
+RAK/RAK0082910
+Hey, Tsugumi, are we really still doing this?
+SSR/SSR0021460
+Of course. There's still two more checkpoints to go.
+RAK/RAK0082920
+Huh!? Seriously!?
+SSR/SSR0021490
+Just be cautious and try not to hurry.[nl]Usually, when an agent doesn't come back from a mission,[nl]it's because they were too hasty and not cautious enough.
+RAK/RAK0082930
+Just so we're clear, let me ask....[nl]Under what circumstances would an agent not come[nl]back from a mission?
+SSR/SSR0021500
+Do you really want to know?
+RAK/RAK0082940
+No, forget it....[nl]I feel like it would involve too much blood.
+SSR/SSR0021510
+Okay then. You need to focus or you won't make it home, okay?
+RAK/RAK0082950
+Oogh, crap....

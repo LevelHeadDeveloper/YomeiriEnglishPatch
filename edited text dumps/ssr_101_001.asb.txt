@@ -1,0 +1,136 @@
+__main
+@Lclearscreenall
+@ssr_101
+@イベント開始処理
+RAK/RAK0052560
+Ahhh, it feels great to be on the roof.
+RAK/RAK0052570
+I figure it isn't so bad to eat lunch alone once in a while,[nl]and I think I've found the right place for that. Hehehe....
+SSR/SSR0012000
+....Why are you snickering to yourself like that?
+@ＢＧＭ再生
+RAK/RAK0052580
+Aaaagh! T-Tsugumi!?[nl]Why are you here!?
+SSR/SSR0012010
+The Mistress and Onodera are eating lunch with the[nl]swim team, so we separated for lunch today.
+RAK/RAK0052590
+How come? Why don't you eat together?
+@expose
+SSR/SSR0012020
+The Mistress is having a good time with her friends.[nl]I don't want to get in the way of that.
+SSR/SSR0012030
+Besides, it's such a lovely day.[nl]I figured I might as well eat outside.
+RAK/RAK0052600
+Hmmmm....[nl]So you had the same idea I did.
+Invite her to eat with you
+Eat separately
+RAK/RAK0052610
+Alright, then let's eat quickly.
+@ザクシャ誠士郎・中
+SSR/SSR0012040
+Mhm. Good idea.....
+SSR/SSR0012050
+Wait, hang on! Why are you sitting so close to me!?[nl]I-It's just the two of us here!![nl]We shouldn't be doing something like this....
+RAK/RAK0052620
+I don't know what you're talking about, but eat this[nl]and calm down. Here.
+SSR/SSR0012060
+Mmpgh!? What the hell are you....[nl]....Nom nom.
+SSR/SSR0012070
+.....T-This is delicious![nl]What the hell is it?
+RAK/RAK0052630
+Hehehe.....that was my special Japanese omelet![nl]I'm quite proud of how it came out today.
+SSR/SSR0012080
+Hmmmm....this is the first time I've eaten your cooking,[nl]and I gotta say it's pretty good.[nl].....What's this over here?
+RAK/RAK0052640
+Oh, that's called "you lin ji".[nl]It's lower in calories than fried chicken,[nl]but it's crispy and tasty all the same.
+RAK/RAK0052650
+Go on, try some of the others.
+SSR/SSR0012090
+Ngh....even for you, Raku Ichijo,[nl]this is awfully intricately made.[nl]Even so....it's delicious.
+SSR/SSR0012100
+And the rice is strangely fluffy, considering how it's packed.[nl]How did you prepare it?
+RAK/RAK0052660
+I took freshly-cooked rice and let it cool[nl]before packing it. That's a piece of wisdom I learned[nl]from my many years making lunchboxes.
+SSR/SSR0012110
+Ghh....I can't stop my chopsticks![nl]And it's Raku Ichijo's cooking, no less.....[nl]I can't believe I'm giving in to this guy's cooking!
+SSR/SSR0012120
+D-Don't go thinking you've won, Raku Ichijo!
+RAK/RAK0052670
+Bold words after eating so much....
+RAK/RAK0052680
+By the way, is that your lunchbox?[nl]Did you make it yourself, by any change?
+SSR/SSR0012130
+Well, pretty much.
+RAK/RAK0052690
+Ooooh, lemme try some of that.[nl]We'll share our lunches.
+SSR/SSR0012140
+S-Share!?
+SSR/SSR0012150
+N-No way![nl]There's absolutely no way we're doing that!
+RAK/RAK0052700
+Awww....why not?[nl]Just a little should be fine.
+SSR/SSR0012160
+Well, this morning's been pretty hectic, so I'm not sure how[nl]well put-together this is, and after you showed me your[nl]lunch, I'm not confident in how mine stacks up....
+RAK/RAK0052710
+Don't worry about that! I don't have many other friends[nl]who can cook. We've gotta exchance opinions....
+SSR/SSR0012170
+Who said we were friends!?
+SSR/SSR0012180
+Don't get the wrong idea, Raku Ichijo![nl]You and I are enemies!
+SSR/SSR0012190
+I-I don't know how we could get along well enough[nl]to be sharing our lunches!
+RAK/RAK0052720
+Oh, w-wait a second![nl]Don't take my lunch, too!
+RAK/RAK0052730
+Hey, Tsugumi! Tsugumi!?[nl].....Come baaaack!
+RAK/RAK0052740
+....Huh?[nl]I guess I'm.....not eating my lunch today, then?
+RAK/RAK0052750
+.....Seriously?
+RAK/RAK0052760
+Alright, I'll eat over here, then.
+SSR/SSR0012200
+I-I see....
+RAK/RAK0052770
+Hm? Did you want to eat with me?
+SSR/SSR0012210
+I refuse!!
+SSR/SSR0012220
+Even a good lunch would taste bad[nl]if I ate it with you!
+RAK/RAK0052780
+You didn't need to go that far....
+RAK/RAK0052790
+Oh, hang on.[nl]Tsugumi, get your lunch box out.
+SSR/SSR0012230
+B-But I told you I'm not eating with---!
+RAK/RAK0052800
+Here, this is a dish I highly recommend.[nl]I'll give you mine.
+SSR/SSR0012240
+Is this....an omelette?[nl]But it smells like bonito broth....
+RAK/RAK0052810
+Oh, you noticed. It's my Japanese-style omelet.[nl]I think it turned out well.
+SSR/SSR0012250
+I see....[nl]Thanks for sharing, then.
+RAK/RAK0052820
+See ya.
+SSR/SSR0012260
+W-Wait! Raku Ichijo!
+RAK/RAK0052830
+Hm?
+SSR/SSR0012270
+I don't have any intention of owing you anything.[nl].....So, here, you can have this insignificant thing....
+RAK/RAK0052840
+Ohh, hamburger steak.[nl]....It definitely looks....homemeade.
+SSR/SSR0012280
+I-I ran out of time making lunch this morning![nl]I'm not usually this bad at cooking!
+RAK/RAK0052850
+Hahaha, sorry, sorry.[nl]I shouldn't have been so picky with a gift.
+RAK/RAK0052860
+I guess we should eat together, Tsugumi.
+SSR/SSR0012290
+.....H-Hmph. I guess it can't be helped!
+@ザクシャ誠士郎・小
+RAK/RAK0052870
+(You're lonely eating by yourself,[nl] but you're not being honest about it at all....)
+@イベント終了処理
+common.asb

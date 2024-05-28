@@ -1,0 +1,83 @@
+__main
+@Lclearscreenall
+@ssr_106
+@イベント開始処理2
+CTG/CTG0013940
+So, on TV yesterday....!
+WSA/WSA0000090
+Ah! I saw that, too! That was hilarious!
+@ＢＧＭ再生
+.......
+RAK/RAK0053630
+How come you're just standing there all spaced out?
+@expose
+SSR/SSR0012980
+....Oh, it's just you, Raku Ichijo.
+RAK/RAK0053640
+Sorry it's just me. So, what are you doing?
+SSR/SSR0012990
+Nothing, really.....[nl]I was just keeping an eye on the Mistress.
+RAK/RAK0053650
+Chitoge?
+SSR/SSR0013000
+She's made herself a lot of friends at this school.[nl]Since she told me it was hard making friends[nl]back in the U.S.,[nl]I'm happy for her.
+RAK/RAK0053660
+(Well, she did have a pretty hard time here at first, too.[nl] ....She made a friend notebook and everything.)
+SSR/SSR0013010
+Ever since she arrived in Japan,[nl]she's been enjoying herself a lot more than before.
+SSR/SSR0013020
+She always wanted to be able to just[nl]have a good laugh with her friends like that.
+RAK/RAK0053670
+....You say that like you're a stranger.[nl]You're one of her friends, too.
+SSR/SSR0013030
+Me? One of her friends?[nl]Absurd.... I'm merely a bodyguard.
+SSR/SSR0013040
+We've certainly been acquaintances for a long time,[nl]but that's hardly the same as being friends.
+RAK/RAK0053680
+Tsugumi.....
+Chitoge considers you a friend.
+Are you really OK with that?
+RAK/RAK0053690
+I think Chitoge would say you're her friend....
+@ザクシャ誠士郎・小
+SSR/SSR0013050
+Ghh....[nl]You act like you know what you're talking about.
+RAK/RAK0053700
+I've been dating her for half a year,[nl]so I feel like I would know.
+SSR/SSR0013060
+That's some big talk coming from you, Raku Ichijo....
+RAK/RAK0053710
+Are you okay with that?
+SSR/SSR0013070
+------
+RAK/RAK0053720
+You don't look like you are.
+RAK/RAK0053730
+If just listening is too lonely,[nl]you should head over there and join them.
+SSR/SSR0013080
+M-Me? In their group?
+RAK/RAK0053740
+It would be a great opportunity to get[nl]to know all the others, right?
+RAK/RAK0053750
+I get it, you care a lot about Chitoge.[nl]But you also need to think about yourself a little,[nl]and try to enjoy your own school life.
+SSR/SSR0013090
+My school life....
+CTG/CTG0013950
+Hahahahahahaha!
+SSR/SSR0013100
+....No, I don't think I will after all.
+RAK/RAK0053760
+Huh?
+SSR/SSR0013110
+Unlike the Mistress,[nl]I am only here as a bodyguard.
+SSR/SSR0013120
+I don't know when I might have to go back[nl]to the U.S. for another mission.... I'm certain,[nl]if I make friends here, that will only make it harder to leave.
+RAK/RAK0053770
+SSR/SSR0013130
+In the meantime, I thank you for your concern.
+SSR/SSR0013140
+But please forget we had this talk.[nl]I'll be fine the way I am.
+RAK/RAK0053780
+....Doesn't look like it to me.
+@イベント終了処理
+common.asb

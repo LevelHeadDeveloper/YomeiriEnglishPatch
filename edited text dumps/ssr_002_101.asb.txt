@@ -1,0 +1,36 @@
+__main
+@Lclearscreenall
+@ssr_002_101
+@2ショット開始
+Make this date a success!
+@ＢＧＭ再生
+SSR/SSR0002300
+Well, then----[nl]C-Come on!
+Hug Seishiro?
+Here I come!
+What are you doing?
+SSR/SSR0002310
+Waaaa....H-Hang on![nl]I'm not ready yet!
+@expose
+SSR/SSR0002320
+Well....t-this is the first time[nl]I've done something like this with a guy.
+SSR/SSR0002330
+So, then, please.[nl]S-Slowly, that is....
+SSR/SSR0002340
+That way, I'd be more than happy to.....
+SSR/SSR0002350
+---Wait, what are you making me say!?
+SSR/SSR0002360
+W-What do you....[nl]I'm waiting for you!
+SSR/SSR0002370
+Times like these, it's customary for the guy to lead, y'know....
+@expose
+SSR/SSR0002380
+I'd be happier if you led....
+@ＨＰ－２０
+......
+SSR/SSR0002390
+W-What are you doing?
+@ssr_002_102
+common.asb
+ssr_002_102.asb

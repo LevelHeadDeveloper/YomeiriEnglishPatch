@@ -1,0 +1,42 @@
+__main
+@Lclearscreenall
+@ssr_005_102
+@expose2
+SSR/SSR0006180
+Hey! What the hell is wrong with you!?[nl]You've been looking at me funny for a while now!
+SSR/SSR0006190
+Are you really that interested in me!?
+Are you?
+I am interested in you
+Not especially
+@ザクシャ誠士郎・小
+@expose
+SSR/SSR0006200
+Uh....I-I don't think.....
+SSR/SSR0006210
+Wait, n-no! Absolutely not![nl]There's no way, is there!?
+SSR/SSR0006220
+In the first place, it doesn't matter[nl]what you think of me....
+SSR/SSR0006230
+W-W-W-W-What the hell am I saying!?[nl]I thought we were talking about that sound!
+SSR/SSR0006240
+A-A-Anyway, I'm not hiding anything~......
+SSR/SSR0006250
+....Please, just be quiet for a second....
+@expose
+SSR/SSR0006260
+Would it kill you to pay a little attention....
+I didn't quite hear that.
+What did you say?
+Your face is red
+SSR/SSR0006270
+N-Nothing!
+SSR/SSR0006220
+SSR/SSR0006280
+W-Whose fault do you think it is!?
+SSR/SSR0006095
+Dammit! You're always throwing me off key!
+@ssr_005_102_end
+@ssr_005_201
+common.asb
+ssr_005_201.asb

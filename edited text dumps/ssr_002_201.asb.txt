@@ -1,0 +1,246 @@
+__main
+@Lclearscreenall
+@ssr_002_201
+@2ショット成功
+@2ショット失敗
+@ssr_002_201_01
+@背景変更
+@ＢＧＭ再生
+RAK/RAK0016200
+(Whoa....S-She's so soft....[nl] For some reason, I'm nervous!)
+@ザクシャ誠士郎・小
+SSR/SSR0002460
+Ah, aah, whaa.......
+SSR/SSR0002470
+W-W-W-What are you doing!?[nl]Get away! That's enough!
+@ssr_002_201_02
+SSR/SSR0002480
+Aaaaaaaaaaaa![nl]S-Stop! That hurts!
+RAK/RAK0016200
+(Whoa....S-She's so soft....[nl] For some reason, I'm nervous!)
+SSR/SSR0002490
+T-Too tight![nl]Get away! Enough! That's enough!
+@ssr_002_201_03
+EVS/EVS0000080
+Hey now, it's not over yet![nl]If you stop hugging now, you're disqualified~.
+SSR/SSR0002500
+Ggghhhhhh!
+RAK/RAK0016220
+H-Hey....Tsugumi?[nl]Your body feels hotter, are you okay?
+SSR/SSR0002510
+S-S-S-S-Shut the hell up![nl]If you look at me, I'll annihilate you....
+RAK/RAK0016230
+I-If you say so....[nl]Hang on, how long do we have to do this?
+EVS/EVS0000090
+Hug time is five minutes![nl]Feel free to make out as much as you want. ★
+RAK/RAK0016240
+T-That's a long time....
+SSR/SSR0002520
+I've never had a longer 5 minutes....[nl]Ooogh, I'm going to die of embarrassment....
+RAK/RAK0016250
+(I'd never let Chitoge or Onodera see anything like this....)
+@ssr_002_201_04
+SSR/SSR0002530
+Hyaaaahhhh!
+@expose
+SSR/SSR0002540
+W-Where did you just touch me!?[nl]Bastard!!!!
+@ＨＰ－５０
+@ＢＧＭ再生
+RAK/RAK0016260
+Gackh!!
+SSR/SSR0002550
+---!
+SSR/SSR0002560
+S-Sorry. My head knows what I should do,[nl]but my body can't accept it....
+SSR/SSR0002570
+I'll try to hold still this time,[nl]so please....let's give it another shot!
+RAK/RAK0016270
+Is it really okay?
+SSR/SSR0002580
+Don't give up![nl]Get up and keep trying, again and again!
+RAK/RAK0016280
+(Does that mean she's going to keep hitting me?[nl] Aagh, I hate it!)
+SSR/SSR0002590
+Come on! We don't have time! Hurry up!
+RAK/RAK0016290
+(Ghh....I'll have to resign myself.)
+RAK/RAK0016300
+Alright, here I come! Prepare yourself, Tsugumi!
+SSR/SSR0002600
+Aaa....aaaaa! Come at me from anywhere!
+RAK/RAK0016310
+Here I come! Hyaaaaaah~~~!
+SSR/SSR0002610
+Hyaa! I can't do it after all!
+@ＨＰ－１０
+RAK/RAK0016320
+Gwah!?
+RAK/RAK0016330
+N-Not yet~!
+SSR/SSR0002620
+N-No way~~~!
+RAK/RAK0016340
+Gackk!
+SSR/SSR0002630
+I can't!
+SSR/SSR0002640
+I can't, I can't! I absolutely cannot----!!!
+@ＨＰ－５
+....
+SSR/SSR0002650
+---!?[nl]W-What did I....
+@expose
+SSR/SSR0002660
+Waagh![nl]....H-Hey, Raku Ichijo! Speak to me!
+EVS/EVS0000100
+Ah, umm....I guess it counts if you[nl]pick him up to look after him, just in case!
+EVS/EVS0000110
+E-Everyone![nl]Let's have a warm round of applause for this lovely young[nl]couple that's showing us an unusual form of love!
+SSR/SSR0002670
+S-Sorry....Raku Ichijo.
+SSR/SSR0002680
+I won't let your sacrifice go to waste.[nl]I will make the mistress happy with[nl]that limited-edition stuffed animal!
+RAK/RAK0016350
+Hey....y'know, I'm not dead....
+@ＢＧＭ停止
+@時間経過演出
+@ssr_002_201_05
+@expose2
+SSR/SSR0002690
+Hey, if you won't hug me,[nl]then I'll have to hug you![nl]Prepare yourself, Raku Ichijo!
+RAK/RAK0016360
+Huh@? H-Hang on a sec![nl]W-Why are you looking at me like that!?
+SSR/SSR0002700
+No questions....![nl]Hyaaaah!
+@フェードアウト
+RAK/RAK0016370
+T-T-T-T-T-T![nl]T-Tsugumi, you're squeezing me too hard!
+SSR/SSR0002710
+Gghhhhhh....![nl]I-I-I'm embarrased about this, too![nl]You'll just have to put up with this!
+RAK/RAK0016380
+I'm not of a high enough level to put up with it![nl]I'm going to shatter! You're breaking my ribs!
+RAK/RAK0016390
+Gaaaaahhhhh~~~~~!!!!
+@背景変更
+@ssr_002_201_06
+@ssr_002_201_07
+@ＢＧＭ再生
+RAK/RAK0016400
+Hahh.....
+RAK/RAK0016410
+Somehow, we got a stuffed animal, but....[nl]I-I'm exhausted....
+SSR/SSR0002720
+Fwahh....[nl]I don't think I've ever had a harder mission....
+SSR/SSR0002730
+Also....we must never tell the mistress how we got this.[nl]Never ever!
+RAK/RAK0016420
+Yeah. I totally agree....
+SSR/SSR0002740
+This wasn't something I wanted to do,[nl]but this must be kept a secret between us.[nl]D-Don't tell anyone, okay!?
+RAK/RAK0016430
+O-Okay. Understood.
+SSR/SSR0002750
+Hm....?
+SSR/SSR0002760
+----
+SSR/SSR0002770
+Something smells sweet....
+RAK/RAK0016440
+Hm? Oh, yes. That?[nl]That's a crepe shop.
+SSR/SSR0002780
+Crepe!?
+SSR/SSR0002790
+Oh....so that's a crepe![nl]I see....just like I heard, it smells delicious.
+RAK/RAK0016450
+What, you've never eaten one?
+SSR/SSR0002800
+No. I heard all about them from classmates, though....
+SSR/SSR0002810
+So, this is a crepe....
+RAK/RAK0016460
+If it really bothers you that much, then why not have one?
+SSR/SSR0002820
+W-Well, it doesn't really....
+RAK/RAK0016470
+....Good grief.
+RAK/RAK0016480
+Here, let's go.
+@ザクシャ誠士郎・小
+SSR/SSR0002830
+Huh!? W-Wait!
+SSR/SSR0002840
+W-Whoaaaaa~~!
+SSR/SSR0002850
+Nom nom.....Mmm![nl]The dough is soft and warm, and chock-full of cream....!
+SSR/SSR0002860
+There's strawberries and bananas, too.[nl]So many yummy flavors spreading through my mouth!
+RAK/RAK0016490
+I-I see...[nl]You've suddenly become very talkative.
+SSR/SSR0002870
+Crepes are delicious![nl]I'm mad at myself for not eating them earlier.
+RAK/RAK0016500
+Well, I'm glad you enjoyed it.
+SSR/SSR0002880
+Thanks....for the help today.[nl]I'm sorry for putting you through all this trouble.
+RAK/RAK0016510
+No need to thank me.[nl]I had a good time, even if it was a hassle sometimes.
+SSR/SSR0002890
+I see.[nl]Well, if you had a good time, then it's fine....
+RAK/RAK0016520
+But, I bet you'd probably rather have gone with[nl]someone you liked.
+SSR/SSR0002900
+....!
+RAK/RAK0016530
+After all, it was a date event, so you'd probably have [nl]preferred to go with the guy you like, right?
+SSR/SSR0002910
+The guy I like, huh....
+SSR/SSR0002920
+No....I think asking you was the right move.
+RAK/RAK0016540
+Really? Well then, I guess it's fine.
+SSR/SSR0002930
+Yeah....I'm glad I didn't ask someone else.
+RAK/RAK0016550
+Huh....?
+SSR/SSR0002940
+N-Nothing!
+SSR/SSR0002950
+Anyway, here! You have to try this crepe![nl]It's very good!
+RAK/RAK0016560
+Huh!? N-No, I'm good!
+SSR/SSR0002960
+What!? All I did was offer you a bite of my crepe....
+RAK/RAK0016570
+No, it's just that....[nl]Well, you know....
+SSR/SSR0002970
+Why the hell have you been squirming....
+SSR/SSR0002980
+Just eat it![nl]Or else you'll miss out on something delicious,[nl]won't you!?
+RAK/RAK0016580
+Well....you see----
+RAK/RAK0016590
+Um, wouldn't that be an indirect kiss....
+@キャラ揺らし
+SSR/SSR0002990
+Gaah!
+RAK/RAK0016600
+Gwah! Careful!
+SSR/SSR0003000
+W-What the hell are you saying!?[nl]Moron!　What kind of idiot are you!?
+RAK/RAK0016610
+That's why I casually refused!
+SSR/SSR0003010
+That wasn't casual at all![nl]You were super suspicious about it!
+SSR/SSR0003020
+Die! Die! Perish--!
+RAK/RAK0016620
+Hey! Don't point that at me![nl]Take your finger off the trigger!
+SSR/SSR0003030
+Imbeciles like you are only relieved[nl]of their stupidity when they die![nl]Drop dead!
+RAK/RAK0016630
+(Khhh....no good![nl] I have to run!)
+SSR/SSR0003040
+Hey! Get back here! Come back!
+@イベント終了処理
+common.asb

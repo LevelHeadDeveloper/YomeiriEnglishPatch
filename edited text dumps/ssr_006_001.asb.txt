@@ -1,0 +1,696 @@
+__main
+@Lclearscreenall
+@ssr_006
+@イベント開始処理
+SSR/SSR0006980
+Raku Ichijo....
+SSR/SSR0006990
+I can't stop thinking about him....
+SSR/SSR0007000
+....I couldn't sleep, so I went for a walk,[nl]but now I'm even wider awake.
+@expose
+.....
+SSR/SSR0007010
+I haven't been to a shrine or[nl]temple since the summer festival.
+SSR/SSR0007020
+From what I've heard, these places usually[nl]have a god of marriage or something....
+SSR/SSR0007030
+Marriage, huh....
+SSR/SSR0007040
+He is the mistress's boyfriend.[nl]I cannot tell him how I feel.
+SSR/SSR0007050
+....But if I can't tell him how I feel,[nl]I can at least---
+SSR/SSR0007060
+I wish I could be with Raku Ichijo all the time,[nl]like the mistress is....
+SSR/SSR0007070
+I want to be closer to him than anyone else....
+SSR/SSR0007080
+....Haha. What a stupid thing for me to say.
+SSR/SSR0007090
+I'm Seishiro Tsugumi of the Beehive.[nl]The agent entrusted with guarding the mistress....
+SSR/SSR0007100
+I can only push away those feelings that get in the way.[nl]It has always been and will always be this way,[nl]as it should be.
+SSR/SSR0007110
+....Well then, I'm headed home.
+OTM/OTM0001100
+Thy wish shall be granted----.
+@フェードアウト
+@背景変更
+RAK/RAK0018710
+(Mph....)
+RAK/RAK0018720
+(Mgh, it's morning already.[nl] It was awfully hard to sleep.)
+RAK/RAK0018730
+(My shoulders ache like hell,[nl] as though my chest were heavy....)
+RAK/RAK0018740
+(Well, whatever. I'm going to go wash my face....)
+@ＢＧＭ再生
+SSR/SSR0007120
+Oh, Ryuu. Good morning.[nl]You're up early this morning.
+RYU/RYU0000290
+Ah, young master! G'morni---
+RYU/RYU0000300
+WHAAAAAAAAAA!?
+SSR/SSR0007130
+W-What the hell!?[nl]That's too loud for so early in the morning.
+RYU/RYU0000310
+----
+SSR/SSR0007140
+H-Hey, Ryuu! Why are you so quiet all of a sudden? Hey!
+RYU/RYU0000320
+....Woah! I'm so proud of you, young master![nl]When I wasn't lookin', he skipped this many steps[nl]on the stairs to adulthood and jumped right to the top!
+SSR/SSR0007150
+Huh!?
+RYU/RYU0000330
+Oi, all of you![nl]Go buy some azuki beans and rice cakes right now!
+RYU/RYU0000340
+We're havin' sekihan this mornin', sekihan![nl]Get the very best o' the best!
+SSR/SSR0007160
+W-What the hell have you been talking about?
+RYU/RYU0000350
+Yes~, I thought the young master was still a boy,[nl]but he is now truly a man!
+RYU/RYU0000360
+I'm feelin' happy an' sad at the same time!
+SSR/SSR0007170
+Listen to me!
+RYU/RYU0000370
+Um, Tsugumi, was it?[nl]As the young master's lover, take good care of him, alright?
+SSR/SSR0007180
+Huh!? T-Tsugumi!?[nl]Is Tsugumi here?
+RYU/RYU0000380
+Is she....young mistress,[nl]your name is "Seishiro Tsugumi", right?
+SSR/SSR0007190
+Huh!? I don't know what you're talking abou---
+@ＢＧＭ停止
+RAK/RAK0018750
+(Hang on a sec.[nl] My voice sounds a little weird, doesn't it?[nl] It sounds strangely high....)
+SSR/SSR0007200
+Aa, aa......
+SSR/SSR0007210
+This chest....no way....
+RAK/RAK0018760
+(No no no no no![nl] That's ridiculous!)
+RYU/RYU0000390
+Hey, where are ya goin', young mistress?[nl]If yer lookin' for the bathroom, it's the other way!
+SSR/SSR0007220
+To the washroom, the washroom!
+SSR/SSR0007230
+WAAAAAAAAAAAAAGH!?
+SSR/SSR0007240
+W-W-W-W-W-W-W-W-
+SSR/SSR0007250
+WHAT THE HELL IS THIS!?!?
+RAK/RAK0018770
+(Why is Tsugumi in my house!?[nl] No, wait, why am I Tsugumi!?)
+RAK/RAK0018780
+(I was definitely me when I went to bed! [nl]No, wait, I'm not even sure it was me when I went to bed!)
+RAK/RAK0018790
+(Anyway, calm down, calm down![nl] First of all, let's try to stay calm. Okay, me?)
+RAK/RAK0018800
+(This is probably just a dream. I'm still asleep!)
+RAK/RAK0018810
+(Jeez, I can't even get up on time![nl] I'd better wake up now, or it'll be noon!)
+RAK/RAK0018820
+(So, if I close my eyes like this....)
+RAK/RAK0018830
+(Alright.)
+SSR/SSR0007260
+I'm still Tsugumi!!
+SSR/SSR0007270
+Besides, the reason I had trouble sleeping....[nl]must have been these big things.
+SSR/SSR0007280
+These....big....
+@画面揺らし2
+SSR/SSR0007290
+HEEEEY! What the hell am I thinking!?[nl]This isn't the time!
+RYU/RYU0000400
+Hey, young mistress. The young master's not in his room,[nl]have you seen where he went?
+SSR/SSR0007300
+Right! Where am I?
+RYU/RYU0000410
+What're ya sayin', young mistress?[nl]You're right here, aren't ya?
+SSR/SSR0007310
+Yes, right, not me![nl]Where is Raku Ichijo!?
+RYU/RYU0000420
+Well, that's what I was askin' ya.[nl]Weren't ya with him all night long?
+RYU/RYU0000430
+Ah, no! I won't ask you for the details![nl]Yeah, just skip to the end!
+SSR/SSR0007320
+Aagh, it's so complicated![nl]Anyway, I need to go find my body!
+SSR/SSR0007330
+Wait up, me!
+@pan
+RYU/RYU0000440
+Hang on, young mistress![nl]You're not goin' outside dressed like that, I hope!
+SSR/SSR0007340
+Ah! R-Right. It would be a bad idea[nl]to go out in my pajamas.
+SSR/SSR0007350
+So I'll need to change----
+SSR/SSR0007360
+......
+SSR/SSR0007370
+....How do I get changed?
+@時間経過演出
+SSR/SSR0007380
+Hahh, hahh, hahh.....
+RAK/RAK0018840
+(Crap! I had to change with my eyes covered[nl] and that ate up a lot of time.)
+RAK/RAK0018850
+(If I have Tsugumi's body, then that means[nl] something might have happened to her, too!)
+RAK/RAK0018860
+(I'll have to go meet up with her to find out!)
+CTG/CTG0008820
+Ah, you're finally here. You're late, Tsugumi!
+SSR/SSR0007390
+Gack...!
+KSK/KSK0007230
+It's unusual for you to be late.[nl]Did you oversleep?
+RUR/RUR0000920
+Huh? But, you came from a weird direction.[nl]Isn't Ichijo's house the only one that way?
+RAK/RAK0018870
+(Ghh....this isn't good.[nl] Why is everyone meeting up this morning!?)
+RAK/RAK0018880
+(They wouldn't believe me if I told them[nl] I was Raku this way....)
+RAK/RAK0018890
+(I'll have to pretend to be Tsugumi here....)
+SSR/SSR0007400
+You're thinking too hard about this, Miss Miyamoto.[nl]I was simply going for a run around town.
+CTG/CTG0008830
+A run, even though we promised to meet today?
+SSR/SSR0007410
+Ah-...I'm sorry.[nl]Did we make a promise to meet today?
+CTG/CTG0008840
+What are you talking about?[nl]We all promised to help Ruri with her club activities[nl]today, didn't we?
+RUR/RUR0000930
+You were supposed to accompany me[nl]to my morning practice....
+SSR/SSR0007420
+I-Is that right? I'd completely forgotten about that.[nl]Hahaha, sorry about that.
+CTG/CTG0008850
+Come on, get it together.
+CTG/CTG0008860
+Well then, now that Tsugumi's here,[nl]let's get going, shall we?
+KSK/KSK0007240
+Yeah. It takes time to change clothes, and if we don't hurry,[nl]we might not make it in time for that.
+SSR/SSR0007430
+C-Change clothes!?
+RAK/RAK0018900
+(T-That's right! Miyamoto's club is the swim team![nl] That means....)
+@叫び揺れ
+SSR/SSR0007440
+Aaaaiiieeee~~~!?!?[nl]I-I'll need to wear a swimsuit!!
+@expose2
+KSK/KSK0007250
+Waaaa!??
+CTG/CTG0008870
+Ha....Why'd you yell so suddenly?
+RAK/RAK0018910
+(T-This isn't good! After all, I'll have to[nl] change in the girl's locker room with all of them....)
+RAK/RAK0018920
+(No no no! Absolutely not![nl] If that happens, I'll....)
+@ＨＰ－５
+SSR/SSR0007450
+Plbth!
+KSK/KSK0007260
+Waah!? Tsugumi, you've got a nosebleed!
+SSR/SSR0007460
+S-Sorry! It's nothing!
+RAK/RAK0018930
+(Oh, no! I thought of something weird just now![nl] I'm an idiot! Die, Raku Ichijo!)
+RAK/RAK0018940
+(Anyway, I need to figure out how to get out of this![nl] What to do? What should I do!?)
+KSK/KSK0007270
+Huh? Speaking of which, where's your bag, Tsugumi?[nl]It doesn't look like you've got a change of clothes....
+RAK/RAK0018950
+(That's it!)
+SSR/SSR0007470
+S-Sorry. It looks like I forgot my bag and my swimsuit.
+SSR/SSR0007480
+So, I'll have to go back home and get them.[nl]Well, I'll see you---
+CTG/CTG0008880
+Ahh, you don't need to worry.
+CTG/CTG0008890
+You were planning on wearing a plain swimsuit, right?[nl]Well, I thought ahead and brought you a special stylish swimsuit!
+SSR/SSR0007490
+Eehh....!?
+RUR/RUR0000940
+The swim club has anything else you might need,[nl]so there's no problem if you show up without your stuff.
+RAK/RAK0018960
+(Ghh! Why the hell is Chitoge so prepared....!)
+SSR/SSR0007500
+Well, I'm not sure I'm in good shape for swimming today....
+KSK/KSK0007280
+Huh? Tsugumi, you were running pretty fast when you[nl]got here. And you also mentioned you were taking a run....
+SSR/SSR0007510
+Grmthk! Well, you see, that's....
+CTG/CTG0008900
+Come on, this is unlike you, Tsugumi![nl]Stop waffling and let's go!
+SSR/SSR0007520
+Waaagh! Don't pull so hard!
+RAK/RAK0018970
+(Dammit~! Gimme a break!)
+RAK/RAK0018980
+Mistress~~~!
+RAK/RAK0018990
+(Oh! It's me![nl] I'm finally here!
+RAK/RAK0019000
+Mistress, get away from that person!
+CTG/CTG0008910
+Huh!? What's the matter, darling?
+CTG/CTG0008920
+And what do you mean by "Mistress"?[nl]That's kinda creepy.
+RAK/RAK0019010
+Gwahh.....[nl]C-Creepy?
+RAK/RAK0019020
+The mistress said I was creepy....
+RAK/RAK0019030
+(There's no mistaking that apologetic tone.[nl] That's Tsugumi in my body, all right....)
+KSK/KSK0007290
+Um....Ichijo, are you okay?
+RAK/RAK0019040
+Huh!? Right![nl]I'm Raku Ichijo right now....
+RAK/RAK0019050
+C-Chito....Chitoge![nl]I'm going to borrow Tsugumi for a bit!
+SSR/SSR0007530
+Whaa!?
+CTG/CTG0008930
+Darling! Hang on, where are you taking Tsugumi!?
+RAK/RAK0019060
+I'll tell you everything later! Let's run!
+SSR/SSR0007540
+Okay!
+KSK/KSK0007300
+I-Ichijo!?
+CTG/CTG0008940
+Why is darling taking Tsugumi away?
+RUR/RUR0000950
+Something's fishy....
+SSR/SSR0007550
+What's going on, Tsugumi!? Why have we switched bodies!?
+RAK/RAK0019070
+Hell if I know! That's why I was looking for you!
+SSR/SSR0007560
+A-Anyway, we have to find somewhere where it's safe[nl]to stop and plan our next move.
+@expw
+RAK/RAK0019080
+While I agree with that sentiment,[nl]we have one small problem.
+SSR/SSR0007570
+Problem?
+RAK/RAK0019090
+Mhm....namely, we need to shake our pursuer.
+@ＢＧＭ再生
+CLD/CLD0000690
+I won't let you get away with this, brat!
+SSR/SSR0007580
+Gaack! Claude!
+CLD/CLD0000700
+Mgh....you're with him, Seishiro?[nl]Perfect, hand him over!
+@exposew
+SSR/SSR0007590
+Huh!? What the hell is going on!?
+CLD/CLD0000710
+This punk took advantage of our absence[nl]to sneak into your room!
+CLD/CLD0000720
+I don't know what this theiving dog is up to,[nl]but we'll make him talk with our[nl]"Beehive-Style Hellish Torture Techniques"!
+RAK/RAK0019100
+Sorry....Claude came into my room[nl]at a bad time....
+SSR/SSR0007600
+That's just the worst....
+CLD/CLD0000730
+What are you doing, Seishiro!?[nl]Hurry up and apprehend that little bastard!
+SSR/SSR0007610
+Ghh....[nl]There's no way we can talk things through like this....
+SSR/SSR0007620
+We'll have to run for now!
+RAK/RAK0019110
+Y-Yeah!
+CLD/CLD0000740
+Whaa!? What is this, Seishiro!?[nl]Why are you running away with that horrid brat!?
+CLD/CLD0000750
+Gah! A-Anyway, you're not getting away!
+SSR/SSR0007630
+Alright....do you think we shook Claude?
+RAK/RAK0019120
+Yeah....but he'll catch up soon if we don't keep moving.[nl]First, we need a place to hide---
+MRK/MRK0000480
+Raku dearest![nl]Good morning!
+SSR/SSR0007640
+Gwahh....Tachibana![nl]What perfect timing!
+MRK/MRK0000490
+Oh my, I see you're not with Kirisaki today. ♪
+MRK/MRK0000500
+Then, why are you with Tsugumi?
+SSR/SSR0007650
+Well, there's a good reason, I promise....
+MRK/MRK0000510
+Aha....! Maybe, Raku dearest....you got tired of[nl]Kirisaki and wanted to switch to another woman....?
+MRK/MRK0000520
+If that's the case, then please let it be me!
+RAK/RAK0019130
+Hey! What the hell are you doing!?[nl]Don't grab me all of a sudden!
+MRK/MRK0000530
+Ohh! Raku dearest, you seem a lot wilder[nl]and more masculine today.
+MRK/MRK0000540
+I think it's wonderful! ★[nl]I'm falling more and more in love with you!
+RAK/RAK0019140
+....Ngh, this is annoying![nl]Isn't there anything you can do about this?
+SSR/SSR0007660
+I can't do anything about Tachibana.[nl]Now you know that, too.
+RAK/RAK0019150
+Oogh, you've got it rough....
+CLD/CLD0000760
+Found you, punk!
+SSR/SSR0007670
+Gaahh!? He's caught up already!
+CLD/CLD0000770
+Mgh!? Rrrrgh, youuuuu!!
+CLD/CLD0000780
+Even though you have the mistress,[nl]you have other women under your thrall....![nl]Torture alone is no longer enough!
+CLD/CLD0000790
+Calling all members of the Beehive![nl]Do not let this punk escape! [nl]This is a matter of life and death!
+SSR/SSR0007680
+H-Hey....[nl]This is beginning to snowball.
+RAK/RAK0019160
+We'll just have to keep running and running and running!
+SSR/SSR0007690
+Right!
+MRK/MRK0000550
+Aaaaah, please stop, Raku dearest~~~~!
+CLD/CLD0000800
+Halt, halt!
+@ＢＧＭ停止
+@フェードアウト
+RAK/RAK0019170
+....No sign of our pursuers.[nl]Looks like we've lost them this time.
+@背景変更
+SSR/SSR0007700
+We're hiding in plain sight, I guess.[nl]They probably haven't even thought to check my room.
+SSR/SSR0007710
+And Ryuu's out right now,[nl]so we can probably hide here for a while.
+RAK/RAK0019180
+....M-Mhm.
+SSR/SSR0007720
+How come you're mumbling?
+RAK/RAK0019190
+U-Um....well, it's just that[nl]this is the first time we've been alone in your room.
+SSR/SSR0007730
+I-Idiot! Stop thinking such weird things!
+SSR/SSR0007740
+I mean, stop making such weird faces with my face![nl]It's incredibly unnerving!
+RAK/RAK0019200
+S-Shut up! Your face is unnerving to begin with!
+SSR/SSR0007750
+Glbth....it's kind of upsetting to see myself saying that.
+RAK/RAK0019210
+You haven't done anything weird with my body, right?
+SSR/SSR0007760
+Weird?
+RAK/RAK0019220
+Yes. Like....touching it, or looking at it----
+RAK/RAK0019230
+......![nl]How did you even get dressed in the first place?
+RAK/RAK0019240
+D-Don't tell me you saw my whole body!?
+SSR/SSR0007770
+I didn't see anything![nl]I did everything blindfolded!
+RAK/RAK0019250
+Ngh....I'll take your word for it.[nl]But if I find out you lied, you're losing your life.
+RAK/RAK0019260
+(....I don't think I should mention that[nl] I accidentally touched her because I[nl] was blindfolded.)
+RAK/RAK0019270
+Hahh....how did we get into this mess?
+RAK/RAK0019280
+I still have a hard time believing[nl]that something this crazy can even happen....
+SSR/SSR0007780
+Me too. It's just unusual.....
+@expose
+OTM/OTM0001110
+I beg thy pardon.[nl]With my power, such a task was trifling.
+SSR/SSR0007790
+Yeah. It was trifling.....
+SSR/SSR0007800
+Wait, hang on a sec! Otama![nl]Did you do this!?
+OTM/OTM0001120
+Of course I did.[nl]What dost thou think, isn't it amazing?
+RAK/RAK0019290
+Hey, Raku Ichijo.[nl]Who is this girl?
+RAK/RAK0019300
+I mean....until a second ago,[nl]we were the only ones in here, right?
+SSR/SSR0007810
+Uhh...I promise there's a good reason for this....
+RAK/RAK0019310
+What are these ears? And these two tails....[nl]Are these fake?
+SSR/SSR0007820
+Ghh....!
+RAK/RAK0019320
+Hoho~, excellent craftsmanship.
+OTM/OTM0001130
+I-I say! Touch not my sacred tail!
+RAK/RAK0019330
+Whoa, it moved!
+RAK/RAK0019340
+I-It feels so nice and bushy, Raku Ichijo![nl]Ah, and the ears are soft, too!
+OTM/OTM0001140
+Heeey! That tickles![nl]Touch not mine ears without my permission!
+OTM/OTM0001150
+Rrrgh.....what a horrid girl, to be so presumptuous[nl]as to attempt to stroke me, a fox goddess.
+RAK/RAK0019350
+Fox goddess?
+SSR/SSR0007830
+Uh....well, to put it simply, she's a youkai.
+RAK/RAK0019360
+Youkai? That's absurd....[nl]You're pulling my leg, aren't you....
+SSR/SSR0007840
+I know you don't believe me. But the fact that she showed[nl]up out of nowhere proves it's true.
+RAK/RAK0019370
+What nonsense....
+RAK/RAK0019380
+....is what I would say, but I don't[nl]think, under the circumstances, that you're lying to me....
+RAK/RAK0019390
+Then, it's true....
+OTM/OTM0001160
+If thou understandeth, then let me go![nl]I'll haunt thee, I'll curse thee!
+RAK/RAK0019400
+I still can't believe youkai actually exist, though.[nl]They're so cute....
+OTM/OTM0001170
+Fwaaaah!? Please let go of my tail.[nl]Don't rub it~!
+RAK/RAK0019410
+It's so bushy....
+SSR/SSR0007850
+Hey, Tsugumi. Sorry to interrupt,[nl]but this isn't the time to play.
+RAK/RAK0019420
+....Huh!?
+RAK/RAK0019430
+Ahem....y-yes, that's true.
+OTM/OTM0001180
+Grrrr....I shan't forget this. My anger won't be quelled until[nl]thou giveth me at least three pieces of inari sushi!
+SSR/SSR0007860
+Right, right, I'll make you the usual later.
+SSR/SSR0007870
+More importantly, was it you who switched our bodies?
+RAK/RAK0019440
+Y-Yeah! Did you do that!?
+OTM/OTM0001190
+With my power, it wasn't a big deal.
+RAK/RAK0019450
+But why did you....
+OTM/OTM0001200
+Hm? I was merely granting thy wish.
+RAK/RAK0019460
+Huh....m-my wish?
+OTM/OTM0001210
+Mhm! Last night, thou madest a wish at my shrine,[nl]didst thou not?
+RAK/RAK0019470
+A wish....? I....?
+RAK/RAK0019480
+Ah! You must mean---
+SSR/SSR0007060
+I wish I could be with Raku Ichijo all the time,[nl]like the mistress is....
+SSR/SSR0007070
+I want to be closer to him than anyone else....
+RAK/RAK0019490
+You're talking about THAT!?
+OTM/OTM0001220
+What, that was only part of my training to become[nl]a splendid fox goddess. No need to thank me.
+RAK/RAK0019500
+N-No, wait! This isn't what I meant at all!
+SSR/SSR0007880
+Tsugumi....what exactly did you wish for?
+RAK/RAK0019510
+Well....I, actually, with you....
+SSR/SSR0007890
+With me?
+RAK/RAK0019520
+W-Well....
+......
+SSR/SSR0007900
+Hey, lemme get this straight.
+SSR/SSR0007910
+Until we can fix this, you're saying we'll[nl]have to stay together the whole time, right?
+RAK/RAK0019530
+Together the whole time!?[nl]Why should I have to spend any time together with you!?
+SSR/SSR0007920
+Well, it's not like we can tell the others[nl]about our situation.
+SSR/SSR0007930
+So that means we'll need to stick together[nl]and keep tabs on each other, right?
+RAK/RAK0019540
+....Y-Yeah. I guess we'll be together all the time.
+RAK/RAK0019550
+So that's what this is about....
+OTM/OTM0001230
+Yes, that's what this is about! [nl]Isn't this what thou wished for?
+RAK/RAK0019560
+Not at allll!
+RAK/RAK0019570
+Ooogh....I can't believe my careless words[nl]caused this to happen....
+SSR/SSR0007940
+Hey! Don't just leave me out of this,[nl]tell me what's going on!
+RAK/RAK0019580
+I-I can't tell you!
+SSR/SSR0007950
+Huh!? But this was because of your wish, right?[nl]So we should work together to figure this out....
+RAK/RAK0019590
+....It's embarassing.
+SSR/SSR0007960
+Huh? Embarrassing?
+SSR/SSR0007970
+What's embarassing that has to do with me?
+RAK/RAK0019600
+L-Like I said....I can't tell you thaaaaat!
+SSR/SSR0007980
+H-Hey, Tsugumi! Don't go outside now![nl]Claude and the others will catch you!
+RAK/RAK0019610
+Shut up! Just leave me alone!
+SSR/SSR0007990
+My bodyyyyy!
+OTM/OTM0001240
+Ha ha ha....such delightful people.
+SSR/SSR0008000
+This is no time to laugh![nl]What did she wish for, anyway?
+OTM/OTM0001250
+I cannot tell thee.[nl]It's what's called a "trade secret". Trade secret!
+SSR/SSR0008010
+You were just looking for an excuse to use that word....
+OTM/OTM0001260
+Mwehehe. Cool, is it not?
+OTM/OTM0001270
+But, I truly cannot tell thee.[nl]It is against the rules to divulge others' wishes.
+SSR/SSR0008020
+Then can I ask if there's a way to reverse it?
+OTM/OTM0001280
+It's not impossible. If the girl wishes,[nl]from the bottom of her heart, that things go back to[nl]the way they were, it will be reversed.
+SSR/SSR0008030
+I see....[nl]Then I guess I'll have to go find her[nl]and find out what her wish was.
+OTM/OTM0001290
+Mhm....hang on, Raku.
+SSR/SSR0008040
+Hm?
+OTM/OTM0001300
+Because thou art the provider of my inari sushi,[nl]I shall let thee in on a little secret.[nl]It's a big privilege, mmkay?
+OTM/OTM0001310
+The girl is worried about thee.
+SSR/SSR0008050
+So it does have to do with me?
+OTM/OTM0001320
+Mhm. She's seriously worried in her own way.
+SSR/SSR0008060
+So then, what do I do?
+OTM/OTM0001330
+It's simple. There's only one thing thou canst do.
+OTM/OTM0001340
+You need to listen to her.
+SSR/SSR0008070
+-----
+SSR/SSR0008080
+Understood. I'll do that.
+SSR/SSR0008090
+You said something smart there for a change, Otama.
+OTM/OTM0001350
+Good, good![nl]I'd simply remembered what my grandma would say[nl]in situations like this.
+OTM/OTM0001360
+I know not what it means,[nl]but it sounds like something a goddess[nl]would say, does it not?
+SSR/SSR0008100
+You didn't even know what it meant, but you still said it.
+OTM/OTM0001370
+Nyehehehe....!
+OTM/OTM0001380
+More importantly, shouldn't thou be chasing that girl?
+SSR/SSR0008110
+Oh....yeah.
+SSR/SSR0008120
+It's too risky to have Tsugumi out and about in my body[nl]right now, so I'm going to go after her.
+RAK/RAK0019620
+(I don't know what's bothering Tsugumi,[nl] but if it's my fault after all....)
+RAK/RAK0019630
+(Then I need to be the one to resolve it!)
+SSR/SSR0008130
+Wait up, Tsugumi!
+@時間経過演出2
+CLD/CLD0000810
+Hey, where the hell are you!?[nl]I will find you and kill you!
+RAK/RAK0019640
+(We're completely surrounded....[nl] Even Tsugumi can't get out of the city like this.)
+RAK/RAK0019650
+(Of course, she probably didn't go back to the[nl]Kirisaki's house, and she wouldn't go to school,[nl]where everyone knows us....)
+RAK/RAK0019660
+(So....then where would she go?)
+RAK/RAK0019670
+(....I just realized I don't[nl] know anything about Tsugumi.)
+RAK/RAK0019680
+(I never realized she was suffering because of me....[nl] I'm sure this is my fault.)
+RAK/RAK0019690
+(And that's why I need to find her!)
+CTG/CTG0008950
+Come on....where could Tsugumi have gone?
+RAK/RAK0019700
+(...! Oh no, I need to hide!)
+KSK/KSK0007310
+Chitoge, do you have any idea where Tsugumi[nl]might have gone?
+CTG/CTG0008960
+Um....now that you mention it,[nl]surprisingly, I don't know.
+CTG/CTG0008970
+She's not the type to go hang out by herself,[nl]so she probably knows the places she went[nl]with me or Raku....
+RAK/RAK0019710
+(The places she went with us, huh....)
+RAK/RAK0019720
+(That narrows down the search list.)
+RAK/RAK0019730
+Hahh.....
+RAK/RAK0019740
+What the hell am I doing?
+RAK/RAK0019750
+I know I'll get Raku Ichijo and the mistress in trouble[nl]if I don't do something....
+SSR/SSR0008140
+Tsugumi!
+RAK/RAK0019760
+Huh....?
+SSR/SSR0008150
+---Finally found you.
+RAK/RAK0019770
+Raku Ichijo....[nl]How did you know I was here?
+SSR/SSR0008160
+I searched everywhere I've been with you.[nl]Other than school and your house, that left the aquarium,[nl]the crepe shop, the shopping district, and here.
+SSR/SSR0008170
+It was hard to find you while avoiding everyone else.
+RAK/RAK0019780
+H-Hmph! Is this weak, frail body really that important to you?
+SSR/SSR0008180
+That's not it. I'm worried about you.
+RAK/RAK0019790
+W-What....?
+SSR/SSR0008190
+Tell me what's on your mind.
+SSR/SSR0008200
+Right now, I'm the only one who[nl]can listen to your problems.
+RAK/RAK0019800
+----Ghh. It's not something I can talk about so easily.
+SSR/SSR0008210
+Then I'll wait until you tell me.
+RAK/RAK0019810
+----
+RAK/RAK0019820
+(It's up to me to get her to talk.)
+RAK/RAK0019830
+(This conversation feels like an important turning point,[nl] so let's think carefully....)
+@ssr_006_101
+common.asb
+ssr_006_101.asb

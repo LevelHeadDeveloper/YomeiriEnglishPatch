@@ -1,0 +1,32 @@
+__main
+@Lclearscreenall
+@ssr_006_103
+@exposew
+RAK/RAK0019980
+I have to keep these feelings tucked away[nl]in the back of my mind until they disappear....
+Those feelings....
+Will you tell me if I buy you dinner?
+Do you want them to disappear?
+@expw
+RAK/RAK0020020
+I'm not telling you if you talk to me like that![nl]What kind of moron are you!?
+RAK/RAK0020030
+Why am I even bothering with you....?[nl]You're just making me angrier and angrier.
+RAK/RAK0020040
+I'll never tell you anything again....
+@ssr_006_201
+@ザクシャ誠士郎・１
+RAK/RAK0019990
+.....I'm not really sure.
+RAK/RAK0020000
+There's a part of me that wants them to disappear[nl]and a part of me that wants to keep them.
+RAK/RAK0020010
+Jeez, I don't know what I'm doing anymore....
+@ssr_006_104
+RAK/RAK0020050
+If you understand, please leave me alone....
+RAK/RAK0019970
+I'm not in the mood to talk to anyone right now....
+common.asb
+ssr_006_201.asb
+ssr_006_104.asb

@@ -1,0 +1,91 @@
+__main
+@Lclearscreenall
+@ssr_105
+@イベント開始処理
+KYK/KYK0000400
+Aah, I know it's kind of sudden,[nl]but I'm gonna be searching everyone's bags.
+@ＢＧＭ再生
+MSA/MSA0000160G
+HUUUHH!?!?
+KYK/KYK0000410
+I don't wanna do it either. But some of our students[nl]are bringing in games, magazines, a lot of sweets.....[nl]Well, all kinds of things like that.
+KYK/KYK0000420
+So I'll be going around the room, so just[nl]leave your bag on your desk and wait for me.[nl]It'll be done in no time.
+RAK/RAK0053490
+An unannounced bag inspection....[nl]None of you brought anything that isn't allowed, right?
+SYU/SYU0008840
+Aaagh! I'll put this DVD over here,[nl]and hide this photo album behind my desk.....
+RUR/RUR0011710
+Sh....Sh sh sh sh.....
+KSK/KSK0016710
+Ruri, stop bringing so many sweets to hide!
+RAK/RAK0053500
+(They're all packing contraband!)
+CTG/CTG0013860
+Hey, hey, Raku![nl]Doesn't this seem like it could go sour?
+RAK/RAK0053510
+Hm? How come, Chitoge?[nl]Did you bring something weird with you, too?
+CTG/CTG0013870
+Not me! Tsugumi!!
+RAK/RAK0053520
+Tsugumi....? Ah!
+KYK/KYK0000430
+Alright, next up is Tsugumi.
+RAK/RAK0053530
+She's always pointing weapons at me and Shuu,[nl]and I'm pretty sure she has them on her today, as well....
+CTG/CTG0013880
+How could she not have that kind of equipment?[nl]....She's probably armed to the teeth.
+CTG/CTG0013890
+The class seems to think all her weapons are toys,[nl]but if they find out they're real....[nl]She could be expelled, right?
+RAK/RAK0053540
+No, they wouldn't let her off that easy.[nl]They wouldn't just expel her,[nl]they'd take her right to the police--
+KYK/KYK0000440
+....Huh!? T-Tsugumi, what is this!?
+SSR/SSR0012890
+Oogh! T-That's....
+CTG/CTG0013900G
+!!
+RAK/RAK0053560
+Oh no....! She's found them!?
+KYK/KYK0000450
+Uh, I've more or less picked up on the sort of[nl]relationship you have with Kirisaki....
+KYK/KYK0000460
+But still, these picture prints have no place[nl]in academics, so don't bring them in the future, okay?
+@expose
+SSR/SSR0012900
+What!? Can't I at least just put them[nl]in my student handbook!?
+RAK/RAK0053570
+H-Huh? Picture prints don't seem too odd, do they?
+CTG/CTG0013910
+They don't.[nl]....Except that she's carrying pictures of me around.
+SSR/SSR0012910
+Mistress, Raku Ichijo. Why is it that you two[nl]have been staring at me for the past few minutes?
+RAK/RAK0053580
+T-Tsugumi? Wait, are we allowed to get up[nl]and walk around during this?
+SSR/SSR0012920
+Those who have had their bags inspected[nl]are doing self-study, it seems.
+SSR/SSR0012930
+But I'm still interested in why you two were[nl]looking at me the whole time.
+CTG/CTG0013920
+I mean, Tsugumi, given how you are,[nl]we figured you probably had something bad in there.
+RAK/RAK0053590
+Yeah, we thought it would be chock-full[nl]of guns and grenades.
+SSR/SSR0012940
+Heh.... You two are so naive.
+SSR/SSR0012950
+I'm far too well-prepared for this sort of thing. The bag has[nl]a false bottom and fake pockets, and an amateur searcher[nl]doesn't have a prayer of finding them.
+RAK/RAK0053600
+You modified it!?
+SSR/SSR0012960
+Of course, there's a whole stash planted in this[nl]very uniform. I'm always ready to take out any[nl]insolent lowlifes who dare to go for you, Mistress!
+CTG/CTG0013930
+Hahaha.....
+RAK/RAK0053610
+You're really quite the character.
+@ザクシャ誠士郎・小
+SSR/SSR0012970
+H-Hmph! Such praise from you[nl]doesn't please me one bit!
+RAK/RAK0053620
+....No, that wasn't the sort of thing[nl]that should make you feel embarrassed.
+@イベント終了処理
+common.asb
