@@ -1,0 +1,163 @@
+__main
+@Lclearscreenall
+@mrk_126
+@イベント開始処理
+MRK/MRK0016230
+Hehehe, it's finally time!
+RAK/RAK0079270
+I know I promised to do this and all, but....[nl]I didn't think we'd actually do a test of courage.
+@expose
+MRK/MRK0016240
+But I'm sure you're curious too, Raku dearest?[nl]You wonder whether or not there really is a moaning Mona Lisa in the school.
+RAK/RAK0079280
+It's probably just a prank of some kind,[nl]or someone misheard. Let's just check it out quickly and head home.
+MRK/MRK0016250
+....You could certainly be a little bit more excited here.
+MRK/MRK0016260
+You're all alone with a girl in a dark school.[nl]Don't you feel the slightest bit nervous?
+RAK/RAK0079290
+Again with that kind of talk....[nl]You're not really afraid of ghosts at all, are you.
+MRK/MRK0016270
+You'll have to wait until we find the ghost to find out.[nl]I'm so scared, I can't leave your side, Raku dearest. ♪
+RAK/RAK0079300
+(She's not scared at all.)
+@時間経過演出
+MRK/MRK0016280
+Kyaaaah! I'm so scaaaared!
+RAK/RAK0079310
+Yeah, yeah, but nothing's happened yet,[nl]so get off me.
+MRK/MRK0016290
+That's a cold response....[nl]But the way you've put it, I can construe that[nl]if something *does* happen, I can feel free to hug you!?
+RAK/RAK0079320
+Just shut up!
+MRK/MRK0016300
+Hahh....[nl]Raku dearest, you're the same as ever and that's boring.[nl]I was hoping for more of a suspension-bridge effect.
+RAK/RAK0079330
+That's just too bad.[nl]This sort of thing doesn't bother me at all.
+MRK/MRK0016310
+It would have been much more fun to bring[nl]Kirisaki along so I could make fun of her.
+RAK/RAK0079340
+Don't do that.[nl]She isn't that great with this sort of thing.
+MRK/MRK0016320
+....Raku dearest, you're awfully soft with Kirisaki.[nl]It's not fair that you'd protect her but not me.
+RAK/RAK0079350
+Really?[nl]I didn't mean it like that at all....
+MRK/MRK0016330
+It's okay, you don't need to hide it.[nl]You two are in a relationship, after all.[nl]But only for now!
+MRK/MRK0016340
+But, it's just for now!
+RAK/RAK0079360
+W-What are you suddenly so mad about?
+MRK/MRK0016350
+I'm just saying, even I get jealous sometimes.[nl]Hmph!
+RAK/RAK0079370
+We're almost to the art room.[nl]I haven't heard any voices so far....
+MRK/MRK0016360
+I think we need to go inside.
+RAK/RAK0079380
+But aren't these rooms usually kept locked anyway?[nl]Here.... See what I--
+RAK/RAK0079390
+Huh....?
+@フェードアウト
+@背景変更
+MRK/MRK0016370
+....It opened.
+RAK/RAK0079400
+T-The teacher must have forgotten to lock it.
+MRK/MRK0016380
+That must have been it. To be honest, I don't think[nl]there's a ghost either, so--
+OTM/OTM0008070
+....Whoo.... whooo....
+RAK/RAK0079410G
+!?!?
+@ＢＧＭ再生
+RAK/RAK0079420
+W-What was that!?
+OTM/OTM0008080
+Whooo..... Whoooo....
+MRK/MRK0016400
+I-It came from inside the....art room.[nl]Could it be....the Mona Lisa ghost is real!?
+RAK/RAK0079430
+Hahaha.... No way, that can't be right![nl]Sounds like these always turn out to be a draft or something.
+MRK/MRK0016410
+But there's no wind....
+OTM/OTM0008090
+Whaaaaaa......![nl]Aaaaaaaaaaaaaaah.....!
+MRK/MRK0016420
+Kyaaaah!
+OTM/OTM0008100
+AAAAAAAAAAA!
+MRK/MRK0016430
+I-I-It's getting louder and louder!)
+RAK/RAK0079440
+(Dammit! What should I do!?)
+Run away with Marika
+Leave Marika and find who's moaning
+RAK/RAK0079450
+Tachibana! We can't just stand around here![nl]Let's get outta here for now!
+MRK/MRK0016440
+Raku dearest, Raku deeaaaresst!
+RAK/RAK0079460
+Here, grab my hand! Let's go!
+@ザクシャ万里花・中
+@expose2
+MRK/MRK0016450
+O-Okay...!
+OTM/OTM0008110
+Aaaaa.....?[nl]Raaaaku....?
+MRK/MRK0016460
+N-No! Don't leave me here by myself!
+RAK/RAK0079480
+Wh--!?[nl]Stop hugging me.
+MRK/MRK0016470
+Pleeeaaase! Raaaku deeearesst!
+RAK/RAK0079490
+Okay, fine![nl]I won't go, so calm down!
+@ザクシャ万里花・小
+MRK/MRK0016480
+*Sob*....[nl]Raku dearest....
+RAK/RAK0079500
+There, there....[nl]Alright, let's get outta here.
+MRK/MRK0016490
+Okay....[nl]*sniffle*
+@ＢＧＭ停止
+RAK/RAK0079510
+....I think we're far enough away now[nl]that we should be fine.
+RAK/RAK0079520
+Don't worry, Tachibana. We can't hear it anymore,[nl]and I doubt that ghost is leaving the art room.
+MRK/MRK0016500
+T-Thank you so much.[nl]*sob*.... I never thought there'd actually be a ghost....
+RAK/RAK0079530
+I guess even you'd get scared[nl]from running into that thing.
+RAK/RAK0079540
+(To be honest, I'm a bit scared myself.[nl] If I can help it, I don't wanna tangle with that thing again.)
+MRK/MRK0016510
+....Let's get the police in here.
+RAK/RAK0079550
+Huh!?
+MRK/MRK0016520
+We can't just let something that scary roam unchecked![nl]I'll have Honda call in the national riot police, district riot police,[nl]and the special vehicles unit!
+MRK/MRK0016530
+I'll make that ghost regret the day it scared me!
+MRK/MRK0016540
+THIS IS WAR!!
+RAK/RAK0079560
+Hey, hey, calm down![nl]You're thinking too much like Tsugumi!
+MRK/MRK0016550
+B-But....
+RAK/RAK0079570
+If you do that, it'll be catastrophic to the point[nl]we couldn't even go to school!
+RAK/RAK0079580
+Anyway, let's get out of here for the day.[nl]I'll walk you home.
+MRK/MRK0016560
+....I'm still scared, can you hold my hand?
+RAK/RAK0079590
+Sure, just for today.
+MRK/MRK0016570
+....In that case, I'll hold off on taking back[nl]the art room for now.
+MRK/MRK0016580
+But I'm never going near the school at night again.
+RAK/RAK0079600
+That'd be great.[nl]For your sake and the school's....
+@イベント終了処理
+common.asb

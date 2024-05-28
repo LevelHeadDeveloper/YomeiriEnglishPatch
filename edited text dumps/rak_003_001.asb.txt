@@ -1,0 +1,420 @@
+__main
+@Lclearscreenall
+@rak_003
+@イベント開始処理
+RAK/RAK0037320
+Pardon me.[nl]I've finished that paperwork you needed, ma'am.
+KYK/KYK0000040
+Ohh, thanks.[nl]Maaan, I really appreciate the help.
+RAK/RAK0037330
+Jeez, ma'am....[nl]You've got too much paperwork.
+KYK/KYK0000050
+Hahaha, sorry, sorry.[nl]I've been pretty busy with my personal life.
+RAK/RAK0037340
+Hahh....
+KYK/KYK0000060
+Right, I'm gonna have you clean up the schoolyard next.
+RAK/RAK0037350
+Whaaaa!? There's more!?
+@時間経過演出
+RAK/RAK0037360
+Hahh.... I'm so tired....[nl] Ms. Kyoko, you're too rough with your students....
+OTM/OTM0003910
+Oh, thou hast returned.[nl]Thou looketh tired, art thou okay?
+RAK/RAK0037370
+Yeah, it's nothing serious, don't worry.[nl]I'm just a bit tired.
+RAK/RAK0037380
+Aghhhh....[nl]I wanna take a relaxing bath in a hot spring....
+.....
+@expose
+OTM/OTM0003920
+....I see.
+RAK/RAK0037390
+....Hm?
+RAK/RAK0037400
+W-W-W-What!?
+@背景変更
+@ＢＧＭ再生
+RAK/RAK0037410
+WAAAAAAAAAGH!?[nl]WHAT'S GOING ONNNNN!?
+OTM/OTM0003930
+Yaayyyy, 'tis so warm![nl]It feeleth good!
+RAK/RAK0037420
+Eeeeeeeek!?[nl]My room's been flooded! My notebooks, and....[nl]Aaagh, wet, wet, wet!
+OTM/OTM0003940
+.....What? Raku, art thou not happy?
+RAK/RAK0037430
+No, I'm not sure what to think![nl]Somebody stop thissssss!
+OTM/OTM0003950
+I-I see.....
+OTM/OTM0003960
+Well then, this might take a bit longer....
+RAK/RAK0037440
+What!? I can't hear you over all this water!
+RYU/RYU0000950
+Young maaaaaaster![nl]Dat was pretty loud, is dere some kinda attack!?
+RYU/RYU0000960
+Waaaagh!?[nl]W-What's all dis!?
+RAK/RAK0037450
+W-Well....[nl]I'm not too sure myself, but a bunch of hot water[nl]suddenly started coming up through the floor!
+RAK/RAK0037460
+W-W-What should we do!?[nl]If we don't do something quick, the house is gonna flood!
+RYU/RYU0000970
+Ohhh, young master. Could dis be....[nl]A hot spring!?
+RAK/RAK0037470
+A- A hot spring!?
+RYU/RYU0000980
+If so, we can't just 'ave it like dis![nl]Wait over in da other room for a bit!
+RAK/RAK0037480
+O-Okay....?
+@ＢＧＭ停止
+RYU/RYU0000990
+Young master, it's ready![nl]Come back in 'ere!
+RAK/RAK0037490
+What do you mean it's ready....
+RAK/RAK0037500
+.....Whaaaaa!?
+RYU/RYU0001000
+Maaan, for an improvised job, it ain't too shabby now, is it?[nl]All da guys worked together to finish it!
+RAK/RAK0037510
+No, no, that's not what I meant![nl]What the heck have you done to my room!
+SYU/SYU0006250
+Heyo! I came to take a dip in the hot spring!
+RAK/RAK0037520
+Bfffh!
+CTG/CTG0010790
+Whoa!? There really is a hot spring in here![nl]I heard it just sprang up a few minutes ago, that's amazing!
+RAK/RAK0037530
+Huh? Huh?[nl]W-What are you guys....
+RYU/RYU0001010
+I took the liberty of lettin' 'em know.[nl]Long as yer here, go enjoy yerself!
+RAK/RAK0037540
+Ryuu, you bastard.....![nl]What about my bedroom!?
+RYU/RYU0001020
+You can use the other room fer the time bein'![nl]Welp, I'll leave ya to it!
+SSR/SSR0010590
+When Shuu Maiko told me about it, I'd thought it was a joke,[nl]but it's really real.
+SYU/SYU0006260
+Awww, Seishiro, did you think I could tell a lie?
+RUR/RUR0007700
+It's not her fault you do that every day.
+KSK/KSK0008910
+But having a hot spring at home seems so nice[nl]and luxorious. You can go in and out whenever you want.
+RAK/RAK0037550
+Nghh..... But my room's been completely destroyed,[nl]as you can see....
+KSK/KSK0008920
+Oh.... T-That's right![nl]I'm sorry for so casually saying it like it was a good thing!
+RAK/RAK0037560
+Ah, it's fine. Don't worry about it.
+RAK/RAK0037570
+As long as you're all here, why don't you all go in first?[nl]Me and Shuu will be waiting over in the other room.
+@expose
+MRK/MRK0009260
+In that case, I'll wait with you guys!
+RAK/RAK0037580
+Huh? Why?
+MRK/MRK0009270
+My, you're so bashful, Raku dearest.[nl]We are to be husband and wife in the future, so there is[nl]no need to be so shy about bathing together.
+@expose2
+CTG/CTG0010800
+You really ought to feel more ashamed of yourself, making[nl]such a bold statement right in front of his girlfriend....!
+RAK/RAK0037590
+A-Anyway. We'll be waiting in here....[nl]So go on ahead.
+MRK/MRK0009280
+Oh, please wait! Raku dearesssst!
+CTG/CTG0010810
+Get over here, Marika!
+@フェードアウト
+@背景変更
+RAK/RAK0037600
+Hahh....[nl]What the hell is even happening?
+RAK/RAK0037610
+Well, anyway, wanna have some tea, Shuu?
+SYU/SYU0006270
+Let's drink!
+SYU/SYU0006280
+By the way, Raku.[nl]What's behind this wall?
+RAK/RAK0037620
+Hm? This one?
+RAK/RAK0037630
+Well, this is a makeshift wall Ryuu put up.[nl]I think the hot spring's on the other side? Maybe.
+SYU/SYU0006290
+So it is. That's what I thought,[nl]considering the layout of the room!
+RAK/RAK0037640
+Wait....what are you doing?
+SYU/SYU0006300
+Is it not obvious?[nl]It's easier to hear with your ear to the wall.
+RAK/RAK0037650
+Wai.... Cut it out![nl]If that wall falls down, our lives are basically over!
+SYU/SYU0006310
+How can you miss out on such a golden opportunity[nl]if such a small thing is gonna give you cold feet?
+CTG/CTG0010820
+Marika's boobs are surprisingly big.
+MRK/MRK0009290
+Naturally. I have them massaged every day without fail.[nl]I'm nowhere near as endowed as Tsugumi, though....
+MRK/MRK0009300
+Tsugumi, do you have some special thing[nl]you do for those....?
+SSR/SSR0010600
+Huh!? I-I haven't done anything special....!
+CTG/CTG0010830
+You don't even do anything and they're that big,[nl]damn you, Tsugumiiiii.....
+SSR/SSR0010610
+S-S-S-S-S-Stop looking at me like that, please!
+CTG/CTG0010840
+Well, natural endowment aside for the moment....[nl]Marika. Do those massages actually work?
+MRK/MRK0009310
+They work beautifully.[nl]It hurts a little, but....
+KSK/KSK0008930
+Kyaaah! What are you doing!?
+....
+SYU/SYU0006320
+What a nice conversation they're having, huh, good buddy?
+RAK/RAK0037660
+.....Ngh![nl]I can't really deny that.
+SYU/SYU0006330
+Right?
+SYU/SYU0006340
+Oh, there's a little hole in the wall here.[nl]Couldn't we peep through here?
+RAK/RAK0037670
+P-Peeping, you said....!?[nl]That's not good at all!
+SYU/SYU0006350
+It can't be helped. This is what men do![nl]Come on, get outta the way. I'll go first.
+RAK/RAK0037680
+No, no, stop! Oh, hey![nl]Don't lean on the wall!
+RAK/RAK0037690
+.....Waaaaaagh!
+RAK/RAK0037700
+Blblblblblblb....
+RAK/RAK0037710
+(My life....is over.)
+RAK/RAK0037720
+Gasp!
+RAK/RAK0037730
+...Wait, huh?
+@ＢＧＭ再生
+CTG/CTG0010850
+Hey, the wall collapsed all of a sudden....[nl]You guys okay?
+RAK/RAK0037740
+Huh? Y-You're wearing swimsuits?
+CTG/CTG0010860
+....?[nl]Of course we are. Your guys told us to bring them....
+SYU/SYU0006360
+Pfft. Khehehehe....
+RAK/RAK0037750
+!
+RAK/RAK0037760
+Shuu! You knew all along!
+SYU/SYU0006370
+Pfkekekeke...[nl]Come on, what are you talking about?
+RAK/RAK0037770
+Ngh....!
+SSR/SSR0010620
+You guys. I hope you weren't thinking of acting untoward.
+RAK/RAK0037780
+O-Of course we weren't!
+KSK/KSK0008940
+T-That's right! Ichijo isn't....that kind of person.
+KSK/KSK0008950
+Maybe.
+RAK/RAK0037790
+(Maybe!?)
+SYU/SYU0006380
+Hahaha.[nl]Onodera, you forgot to mention me.
+RUR/RUR0007710
+Then let me ask you,[nl]what were we talking about just now?
+RAK/RAK0037800
+Let's see....                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+@rak_003_001_02
+RUR/RUR0007720
+Hmm. I guess it really was just an accident.
+RAK/RAK0037810
+O-Of course it was! Alright, I'm leaving now....
+MRK/MRK0009320
+Raku dearest, please don't goooo!
+RAK/RAK0037820
+Waagh!? D-Don't cling to me like that, Tachibana!
+MRK/MRK0009330
+I would like you to wash my back. It can't be helped, watch.[nl]....I just barely can't reach. ★
+RAK/RAK0037830
+Huh? Wai....! G-Get away from meeeeee!
+SYU/SYU0006390
+Marika, you're so forward.[nl]You look so happy, Raku!
+CTG/CTG0010870
+You.....pervert! Stupid bean sproouuut![nl]You just want a girl with big breasts!
+@ＨＰ－２０
+RAK/RAK0037840
+Gaaah!! W-What was that for!?[nl]There's nothing I can do about this!                                                                                                                                                                                                                                             
+@ＢＧＭ停止
+@rak_003_001_03
+RUR/RUR0007730
+----
+RAK/RAK0037850
+(Oh, no! That was the right answer!
+CTG/CTG0010880
+You.....pervert! Stupid bean sproouuut!
+RAK/RAK0037860
+Gwaaaaaagh!                                                                               
+@rak_003_001_04
+@画面揺らし2
+@時間経過演出
+RAK/RAK0037870
+N-Nnngghhh.....
+MRK/MRK0009340
+Ah....[nl]You're awake, Raku dearest!
+RAK/RAK0037880
+....Huh? What happened to me....?
+MRK/MRK0009350
+Oh, you don't remember?
+MRK/MRK0009360
+We were alone together in the hot spring,[nl]but you collapsed halfway through the bath!
+RAK/RAK0037890
+....Huh? Alone together....[nl]Was that what happened?
+CTG/CTG0010890
+Hey, quit lying to him!
+MRK/MRK0009370
+Oh my, you can hear me?
+CTG/CTG0010900
+Of course I can hear you, you're literally right there!
+MRK/MRK0009380
+I see.... Well, lying isn't any good.[nl]Then I shall tell you what really happened.
+MRK/MRK0009390
+Raku dearest, Kirisaki's mindless hard punch sent you[nl]straight to heaven for a few minutes.
+CTG/CTG0010910
+Ghhh....!
+RAK/RAK0037900
+Ohh....that's right....[nl]I'm starting to remember.
+RAK/RAK0037910
+Hey, wait a sec![nl]You've got my head on your knees....!?
+MRK/MRK0009400
+Hehe, it's quite the privilege for my fiance.
+CTG/CTG0010920
+S-Stop talking nonsense! Jeez....
+RAK/RAK0037920
+Tachibana, I'm hurting your knees.[nl]I'll get up now....
+RAK/RAK0037930
+....H-Huh? My vision's gone dark again....
+MRK/MRK0009410
+Come now, you mustn't get up yet![nl]Please lie back down and be quiet.
+RAK/RAK0037940
+No, but....
+MRK/MRK0009420
+I do not mind, so please stay like this for a while.
+MRK/MRK0009430
+In fact, I'd rather we stay like this all the time.
+MRK/MRK0009440
+I'm quite happy to be of service to you, Raku dearest,[nl]even if it's only in this small way.
+MRK/MRK0009450
+I know it's inappropriate for me to be thinking like this[nl]when you're having such a difficult time, but I'm glad I'm[nl]able to help you....
+RAK/RAK0037950
+....I-I see. Thanks, Tachibana.
+@ザクシャ万里花・中
+MRK/MRK0009460
+Not at all.
+KSK/KSK0008960
+Ichijo, I got you a drink....[nl]Can you drink?
+RAK/RAK0037960
+Yeah, thanks, Onodera.
+RAK/RAK0037970
+Ahhh, it's delicious....
+KSK/KSK0008970
+Hehehe.... That's good.
+RAK/RAK0037980
+Onodera, thank you.[nl]....Do you think I could have one more of these?
+KSK/KSK0008980
+Yes, of course![nl]I'll go get it, so please wait.
+RAK/RAK0037990
+Tsugumi, have you been fanning me this whole time?
+SSR/SSR0010630
+W-Well....it's hardly a big deal.
+RAK/RAK0038000
+....I see, it's refreshing.[nl]Sorry for tiring out your hands.
+SSR/SSR0010640
+Heh.... It's not tiring at all.[nl]My training regimen's not the same as yours.
+RAK/RAK0038010
+That's not that big of a difference.
+SSR/SSR0010650
+Y-You should toughen up more if you're a man. Do you[nl]really think you can act as the Mistress's lover if you're[nl]fainting from a blow like that?
+RAK/RAK0038020
+Hahahaha....
+CTG/CTG0010930
+Here, lemme put this wet towel on you.
+RAK/RAK0038030
+Waaagh!? Cold! You gotta wring it out before you put it on!
+CTG/CTG0010940
+W-What the hell. You're so bossy.
+CTG/CTG0010950
+....Here, is that good?
+RAK/RAK0038040
+Y-Yeah....
+CTG/CTG0010960
+Anything else you need me to do?[nl]At least right now, there's nothing I wouldn't do for you.
+RAK/RAK0038050
+No, I'm fine.... Sorry, everyone.[nl]After you all came to have fun in a hot spring.
+CTG/CTG0010970
+What are you talking about? It's not your fault.
+MRK/MRK0009470
+Not at all.[nl]Please don't think for a moment that we regret doing this.
+MRK/MRK0009480
+Right now, you're injured, Raku dearest,[nl]so we should at least take care of you.
+MRK/MRK0009490
+....Is that alright, Raku dearest?
+RAK/RAK0038060
+RYU/RYU0001030
+Ohhh! You're awake, young master!
+RYU/RYU0001040
+Thank God! Hey, ya lowlifes![nl]The young master's woken up!
+RAK/RAK0038070
+RAK/RAK0038080
+(I remember Chitoge knocked me out of the water,[nl] and then....)
+RAK/RAK0038090
+Hey, wait a sec![nl]You've got my head on your knees....!?
+RYU/RYU0001050
+Hehe, it's quite da priv'lege for our future leader.
+RYU/RYU0001060
+Young master, yer injured.[nl]Lemme take really good care of ya!
+RYU/RYU0001070
+Now, young master. Have a cold drink!
+RAK/RAK0038100
+O-Okay.... Thanks....
+CTG/CTG0010980G
+Goodbye!
+RYU/RYU0001080
+Seems like they've finished up.
+RAK/RAK0038110
+Yeah. I might as well go have a dip in the hot spring myself.
+RYU/RYU0001090
+Uhh, well, about that, young master....
+RYU/RYU0001100
+Young master, ev'ryone's finished up![nl]Are ya feelin' any better?
+RAK/RAK0038120
+Yeah, thanks. I'm doing fine now.[nl]Sorry to make you worry.
+RYU/RYU0001110
+No, no, I'm glad to hear it!
+RYU/RYU0001120
+And I got somethin' to report.
+RAK/RAK0038130
+Oh, what is it?
+RYU/RYU0001130
+Da hot spring's dried up or somethin'.
+RAK/RAK0038140
+Huh? Really? What a shame.
+RYU/RYU0001140
+Well, it might spring up again sometime.[nl]If it does, let's have some more fun then!
+RYU/RYU0001150
+With that outta the way, I'mma go put[nl]your room back to how it was as fast as I can!
+RAK/RAK0038150
+Okay, thank you.
+OTM/OTM0003970
+It took me longer than I expected.[nl]My apologies for the delay, Raku.
+RAK/RAK0038160
+Haha, what do you have to apologize for?[nl]Well, it's fine, Ryuu's gone already.
+RAK/RAK0038170
+The hot spring's been shut down.[nl]It's too bad I couldn't go in myself.
+OTM/OTM0003980
+Huh? 'Tis too bad *now* that thou couldst not go in!?
+OTM/OTM0003990
+Mgghh. Humans art fickle.
+RAK/RAK0038180
+?
+@イベント終了処理
+common.asb

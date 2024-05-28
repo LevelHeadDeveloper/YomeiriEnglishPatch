@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@pro_001
+@pro_001_000
+@pro_001_10
+@背景変更
+RAK/RAK0034160
+Mph...
+......
+RAK/RAK0034170
+...It's been a long time since I last had that dream.
+@背景変更2
+RAK/RAK0034180
+(The girl I met 10 years ago, and quickly befriended...)
+RAK/RAK0034190
+(She was my first love, for sure.)
+RAK/RAK0034200
+(We promised each other over this pendant that we'd[nl]meet again someday. It's still my prized possession.)
+RAK/RAK0034210
+A promise like that and I can't even remember her face, huh.
+RAK/RAK0034220
+I wonder if we'll ever meet again...
+@フェードアウト
+@pro_001_01
+@pro_001_02
+OTM/OTM0002310
+We doth not specialize.[nl]I shall grant thee any kind of wish, so go ahead!
+RAK/RAK0034480
+(What should I wish for, though?[nl] Maybe, to be reunited with the girl from 10 years ago....[nl]　Yeah, that sounds good.)
+RAK/RAK0034490
+....Wait, who said that!?
+@ＢＧＭ再生
+@スクリーン変更
+OTM/OTM0002320
+Nom nom nom...Mmm!　I say, this flavor is superb![nl]'Tis not what I'm used to,[nl]but fantastic nonetheless!
+RAK/RAK0034500
+O-Oh, when did you get here!?
+RAK/RAK0034510
+....Hey, you![nl]That inari sushi is an offering for the gods!
+OTM/OTM0002330
+But thou brought this sushi for me, didst thou not?[nl]Then there is no problem.[nl]Nom nom....
+OTM/OTM0002340
+....Yes. I loved it![nl]It has been far too long since I last ate[nl]such sweet and delicious inari sushi! ♪
+RAK/RAK0034520
+Ohhh, you ate all of it....
+RAK/RAK0034530
+Who the hell raised you!?[nl]It's just plain thoughtless to go eating[nl]god's food like that.
+OTM/OTM0002350
+But I am the goddess of this shrine!
+RAK/RAK0034540
+Goddess? You?
+RAK/RAK0034550
+Hahhh.....[nl]I ran into a weirdo this morning.
+OTM/OTM0002360
+Mrghh.....Thou dost not believe me.[nl]It cannot be helped.
+@expose
+OTM/OTM0002370
+I shall grant thee an inari gift: a special wish for whatever thy[nl]heart desires. Mayhaps family safety, eternal victory,[nl]romantic success....whatever it is, it's thine.♪
+RAK/RAK0034560
+What the hell are you even talking about....
+OTM/OTM0002380
+Thou art a foolish young man~.[nl]I shall explain it to thee slowly.
+OTM/OTM0002390
+"Tis part of my job to communicate with humans.[nl]Let us begin.
+@ＢＧＭ停止
+RAK/RAK0034570
+Huh, begin!? Begin what?
+OTM/OTM0002400
+Communication, as I just said!
+@2shot_otm01_00
+common.asb
+pro_001_101.asb

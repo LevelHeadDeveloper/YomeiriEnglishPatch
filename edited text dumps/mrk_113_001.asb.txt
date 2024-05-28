@@ -1,0 +1,104 @@
+__main
+@Lclearscreenall
+@mrk_113
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0013700
+Raku dearesssst!
+MRK/MRK0013710
+Are you doing anything after school today?[nl]If not, would you go out with me?
+MRK/MRK0013720
+If you promised to do something with Kirisaki,[nl]you can blow it off. I'll keep my mouth shut!
+RAK/RAK0076800
+Hey, don't just pull that stuff outta nowhere!
+RAK/RAK0076810
+Making dangerous suggestions like that with no qualms....[nl]You know, *I'm* the one Chitoge beats up on[nl]for this stuff, right?
+MRK/MRK0013730
+I recommend breaking up with such a scary woman[nl]as soon as possible.
+RAK/RAK0076820
+Hmm....?
+MRK/MRK0013740
+What's wrong, Raku dearest?
+RAK/RAK0076830
+(Tachibana's got something in her hair....[nl] Too much trouble to explain, so I'll just take it out.)
+MRK/MRK0013750
+Huh? U-Um....
+RAK/RAK0076840
+Just hold still. This'll only take a second.
+MRK/MRK0013760
+U-Um....[nl]This is an awfully conspicuous place[nl]to be suddenly saying that.
+MRK/MRK0013770
+We should at least go somewhere less popular....[nl]N-No! That's not what I meant!
+RAK/RAK0076850
+Why the heck are you getting so upset?
+RAK/RAK0076860
+Look, this'll take longer if you keep getting upset.[nl]Just be quiet and let me do my thing.
+MRK/MRK0013780
+Ohh....[nl]If you're gonna say such a manly line, I....
+MRK/MRK0013790
+B-But this is my first time, so....[nl]B-Be gentle....
+RAK/RAK0076870
+(Right, then....)
+@タッチパート開始処理
+@expose
+RAK/RAK0076880
+Okay, got it!
+MRK/MRK0013800
+....Huh?
+RAK/RAK0076890
+Look, some dust.[nl]This was in your hair.
+MRK/MRK0013810
+D-Dust....?
+MRK/MRK0013820
+Uuuh....[nl]Don't go sayin' things in such a confusing way.[nl]Rakky, you idiot....
+@ザクシャ万里花・中
+RAK/RAK0076900
+Huh? Did I say something wrong....?
+RAK/RAK0076910
+Hey, stop moving.[nl]I just touched your face!
+MRK/MRK0013830
+Oh.... R-Rakky....
+MRK/MRK0013840
+Mmmm.....
+RAK/RAK0076920
+You've finally stopped.
+RAK/RAK0076930
+....Alright.
+RAK/RAK0076940
+Okay, I got it.
+MRK/MRK0013850
+....Huh?
+@ザクシャ万里花・小
+MRK/MRK0013860
+Waaaaagh!?
+MRK/MRK0013870
+Uh.... Huh....?[nl]R-Rakky....!?
+MRK/MRK0013880
+○▽%◇#!?~~~~
+RAK/RAK0076960
+Tachibana!?
+MRK/MRK0013890
+Wawawawaaaagh! S-Shamefullll![nl]Aaaaieeeee!
+@画面揺らし
+RAK/RAK0076970
+Whaaaaa!?
+RAK/RAK0076980
+T-Tachibana! Wake up![nl]Hey, Tachibanaaaa!
+MRK/MRK0013900
+Ooh, come here, Rakky....
+RAK/RAK0076990
+(Oh.... She fell down.)
+RAK/RAK0077000
+That's enough, Tachibana.
+......
+MRK/MRK0013910
+RAK/RAK0077010
+There was some dust on your head. I was trying to get it off,[nl]but it fell off by itself. It's fine now.
+MRK/MRK0013920
+I-I see. Ahaha....hahaha!
+MRK/MRK0013930
+Hahh.....
+RAK/RAK0077020
+Huh? W-Why do you look so disappointed?
+@イベント終了処理
+common.asb

@@ -1,0 +1,24 @@
+__main
+@Lclearscreenall
+@mrk_205
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0018720
+Good morning, Raku dearest. ★
+RAK/RAK0081760
+Oh, good morning....
+RAK/RAK0081770
+.....Um, why are you in my seat?
+@expose
+MRK/MRK0018730
+Once class starts, we'll be apart.[nl]I want to be as close to you as possible,[nl]even if only for a few fleeting moments, Raku dearest.
+RAK/RAK0081780
+So, where do *I* sit?
+MRK/MRK0018740
+How about on my lap?[nl]Oh, or maybe the other way round?
+MRK/MRK0018750
+Frankly, the other way round would[nl]excite me much more!
+RAK/RAK0081790
+We won't do either one!
+@イベント終了処理
+common.asb

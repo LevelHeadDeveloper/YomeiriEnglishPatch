@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@mrk_203
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0018630
+Oh, well if it isn't Raku dearest.[nl]Good morning.
+RAK/RAK0081690
+Oh, good morning.[nl]What are you doing here?
+@expose
+MRK/MRK0018640
+I actually lost my textbook for this morning's class....
+RAK/RAK0081700
+So you came back here to get it, right?[nl]Ooh, you're surprisingly diligent.
+MRK/MRK0018650
+Hehehe....[nl]If you compliment me like that, I get embarrassed.
+HND/HND0000930
+Mistress. I'm here to return your lost item.
+@expose
+MRK/MRK0018660
+Yes. Thank you very much.[nl]You are permitted to return to your regular duties.
+RAK/RAK0081710
+I retract my previous statement....
+@イベント終了処理
+common.asb

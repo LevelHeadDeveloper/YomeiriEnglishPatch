@@ -1,0 +1,81 @@
+__main
+@Lclearscreenall
+@mrk_120
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0077950
+Hm? Is that Tachibana?[nl]What's she doing with the animals?
+MRK/MRK0014910
+Okaaay..... So you're Divine Spencer Kuniyoshi,[nl]and this one's Rodriguez the Fourth....
+MRK/MRK0014920
+And the crocodile's Margarita de Sato.[nl]Then there's Cyclops Gengar....
+MRK/MRK0014930
+Aaaagh, jeez! All these names are so long and complicated![nl]I'm having a hard time writing them all down....
+MRK/MRK0014940
+Raku dearest is an ideal man in every respect,[nl]but his naming conventions are quite the curveball....
+MRK/MRK0014950
+But I guess that's a pretty cute quirk.[nl]Come to think of it, these animal names are kinda cute.... Hehehe.
+RAK/RAK0077960
+Sorry, I'm terrible at naming.
+MRK/MRK0014960
+Kyaah!? R-Raku dearest, how long have you been listening!?
+RAK/RAK0077970
+Since you said Spencer Kuniyoshi's name.
+@expose
+MRK/MRK0014970
+To think I didn't sense your presence, Raku dearest....[nl]I am so embarrassed.
+RAK/RAK0077980
+Well, I'm not too jazzed about the idea of[nl]anyone "sensing my presence", but....[nl]What are you doing here?
+MRK/MRK0014980
+Actually....I was trying to remember these guys' names.
+RAK/RAK0077990
+....!
+MRK/MRK0014990
+If the animals are your precious family members,[nl]the least I could do is remember their names, right?
+MRK/MRK0015000
+My plan was actually to learn their names and use that[nl]knowledge to make a casual appeal to you, Raku dearest,[nl]but I failed.
+RAK/RAK0078000
+Awesome!
+MRK/MRK0015010
+Whaa!?
+RAK/RAK0078010
+No, no, it's just that no one else has bothered[nl]to learn their names until now! I'm super stoked.
+MRK/MRK0015020
+Well! That would make me the first, then.[nl]As your wife, I must say I'm proud.
+RAK/RAK0078020
+Maaan, I'm so freaking happy![nl]....You're not my wife, though.
+MRK/MRK0015030
+Mghh! If you're so impressed with what I'm doing,[nl]you could at least accept my proposal with the same vigor!
+RAK/RAK0078030
+I can't make such a big decision with just vigor!
+RAK/RAK0078070
+Oh, hang on, Tachibana.[nl]Don't just memorize their names, use this as well.
+MRK/MRK0015070
+Is this an illustrated book about animals?
+RAK/RAK0078080
+If you're gonna memorize their names,[nl]I'd be happy if you'd memorize their characteristics as well.
+MRK/MRK0015080
+I see. I don't know terribly much about how crocodiles[nl]and turtles live, but it might be easier to remember[nl]if I learned about them with you.
+MRK/MRK0015090
+May I borrow this book for a while?
+RAK/RAK0078090
+Of course. There's a lot of notes in the margins,[nl]but don't mind them.
+@ザクシャ万里花・中
+@expose2
+MRK/MRK0015100
+Oh, here's a memo you wrote, Raku dearest.[nl]Hehehe. Guess I'll have to read through this carefully.
+RAK/RAK0078040
+If you want to memorize their names, I'll help you out.[nl]I'll be next to you explaining things, so do your best!
+MRK/MRK0015040
+Mgh.... You changed the subject so forcefully.
+MRK/MRK0015050
+Well, that's fine.[nl]We can talk about marriage after I learn the animals' names.
+@ザクシャ万里花・小
+RAK/RAK0078050
+Thanks. I'm sure the animals will be grateful.[nl]By the way....
+RAK/RAK0078060
+Am I really that bad at naming them?
+MRK/MRK0015060
+You at least seem to care about that....
+@イベント終了処理
+common.asb

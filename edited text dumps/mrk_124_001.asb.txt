@@ -1,0 +1,113 @@
+__main
+@Lclearscreenall
+@mrk_124
+@イベント開始処理
+RAK/RAK0078890
+Good grief....[nl]I only just got finished with some stuff the teacher asked me[nl]to take care of, and it's getting late.
+@背景変更
+@ＢＧＭ再生
+MRK/MRK0015680
+Welcome back, Raku dearest.
+RAK/RAK0078910
+Huh....?
+RAK/RAK0078920
+What are you still doing in the classroom, Tachibana?[nl]Did you forget your homework again and get detention?
+MRK/MRK0015690
+No, nothing like that.[nl]You left your bag on your desk, Raku dearest.
+RAK/RAK0078930
+What are you still doing in the classroom, Tachibana?
+MRK/MRK0015700
+You left your bag on your desk, Raku dearest.
+RAK/RAK0078940
+Huh!? So you waited for me with it!?[nl]But class ended almost two hours ago....!
+MRK/MRK0015710
+I did so of my own volition, Raku dearest,[nl]so please don't worry.
+@expose
+MRK/MRK0015720
+Besides, I passed the time remarkably quickly[nl]by doodling on the blackboard.
+RAK/RAK0078950
+Oh, you did! That's an awful lot of love umbrellas![nl]#fs{12}TN: What Marika has drawn are known in Japan as 'aiaigasa'.[nl]These represent shared umbrellas and are drawn to show love between two people.#fs{}
+RAK/RAK0078960
+And you wrote my name under all of them!?[nl]Erase, eraaase!
+MRK/MRK0015730
+Kyaaaah![nl]Please don't erase what I've written!
+RAK/RAK0078970
+But if Chitoge and the other's see this,[nl]I'll get beaten up again!
+MRK/MRK0015740
+Then I'll nurse you back to health when that happens.
+........
+MRK/MRK0015750
+Aaaah! I don't like how you're silently erasing them now!
+RAK/RAK0078990
+Whatever, let's just get home.[nl]It's getting dark and your father must be worried.
+MRK/MRK0015760
+Do you think we could take a short detour first?[nl]I have some place I want to go with you, Raku dearest.
+RAK/RAK0079000
+A detour? Well, I guess that could be okay....[nl]Where are you taking me?
+MRK/MRK0015770
+It's not so far from here. ♪
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0079010
+So you wanted to take me to the rooftop?
+MRK/MRK0015780
+Yes. I wanted to look at the sky with my darling Raku.
+RAK/RAK0079020
+At the sky....?
+@フェードアウト
+MRK/MRK0015790
+Alright, have a look.
+RAK/RAK0079030
+Oohhh!?
+MRK/MRK0015800
+This city has quite the starry sky at night.[nl]Did you know that?
+RAK/RAK0079040
+Well, I used to look at it practically every night....[nl]These days, I barely ever do.
+MRK/MRK0015810
+Here, please look up there.[nl]That's Cygnus, the Swan. And next to it, that's Lacerta, the Lizard.
+RAK/RAK0079050
+Ohh, is that right?[nl]So you know even a minor constellation like Cygnus, huh.[nl]Do you know a lot about constellations?
+MRK/MRK0015820
+Haha.... I'm just parroting what I was told.[nl]That's about all I know, though.
+RAK/RAK0079060
+Parroting?
+MRK/MRK0015830
+Yes....
+MRK/MRK0015840
+Don't you remember?[nl]All that time ago, we looked up at the night sky together....
+MRK/MRK0015850
+That night, you taught me about all the constellations you knew[nl]with the happiest smile on your face....
+I think I remember that....
+Sorry, I don't remember.
+RAK/RAK0079070
+Hmmm. I think I remember something like that....
+@ザクシャ万里花・中
+MRK/MRK0015860
+If you remember it even vaguely,[nl]that's enough for me.
+MRK/MRK0015870
+But, do me a favor and remember every detail[nl]about tonight, okay?
+RAK/RAK0079080
+Sorry.... I don't remember that at all.
+MRK/MRK0015880
+It's okay, you don't have to[nl]force yourself to remember.
+MRK/MRK0015890
+For now, let's just watch the night sky together.[nl]That alone is enough to make me happy.
+@ザクシャ万里花・小
+RAK/RAK0079090
+Tachibana....
+MRK/MRK0015900
+I forgive you for forgetting what happened back then, but....[nl]Do me a favor and remember every detail about tonight, okay?
+RAK/RAK0079100
+Huh....?
+MRK/MRK0015910
+Please remember all the lovely memories we're making right now.[nl]Me and you, Raku dearest, this is our most precious time.
+MRK/MRK0015920
+I won't forget this starry night, either.
+RAK/RAK0079110
+....Very well.
+RAK/RAK0079120
+I won't forget this time,[nl]tonight or anything after this....
+MRK/MRK0015930
+Alright, it's a promise.
+@イベント終了処理
+common.asb

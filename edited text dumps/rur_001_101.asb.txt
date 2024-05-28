@@ -1,0 +1,39 @@
+__main
+@Lclearscreenall
+@rur_001_101
+@2ショット開始
+Convince Ruri!
+@ＢＧＭ再生
+RUR/RUR0001090
+Do you really want cat ear pictures?
+RUR/RUR0001100
+For starters, why cat ears?[nl]Ichijo, I have to wonder if you actually like them.
+Do you like cat ears?
+I like them.
+Not particularly.
+I mean, I like cats.
+@expose
+RUR/RUR0001110
+Hmmmm. I wonder what's so good about them.[nl]Cat ears....
+RUR/RUR0001120
+If a human wears them, wouldn't they have four ears?[nl]Sounds absurd to me....
+@rur_001_102
+RUR/RUR0001130
+Then why did you want Kosaki to wear them?[nl]You're contradicting yourself right off the bat.
+RUR/RUR0001140
+I know. This is one of Maiko's conspiracies, isn't it?
+RUR/RUR00
+Perhaps the plan was to make a fortune off of[nl]pictures of Kosaki in cat ears?
+@rur_001_201
+@ザクシャるり・１
+RUR/RUR0001160
+Ah, you are an animal caretaker after all.
+RUR/RUR0001170
+But, no matter how cute cats are,[nl]what's the point of putting their ears on a human?
+RUR/RUR0001180
+I won't know if you don't tell me.
+RUR/RUR0001190
+Maybe you don't actually like them,[nl]and Maiko is just making you say you do?
+common.asb
+rur_001_102.asb
+rur_001_201.asb

@@ -1,0 +1,62 @@
+__main
+@Lclearscreenall
+@mrk_208
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0081920
+Hm, a phone call....?
+RAK/RAK0081930
+Hello?
+MRK/MRK0018790
+Hello, Raku dearest.[nl]Sorry to disturb you at this hour, but this is Marika.
+RAK/RAK0081940
+Oh, Tachibana?[nl]What do you need this late?
+MRK/MRK0018800
+Do you have any plans for the weekend, Raku dearest?
+RAK/RAK0081950
+Plans?[nl]I don't think I had anything specific in mind....
+MRK/MRK0018810
+Well, then![nl]In that case, how about we get together and hang out?[nl]We can have ourselves a date. ♪
+RAK/RAK0081960
+Dude....[nl]I'm already dating Chitoge.
+MRK/MRK0018820
+There's no rule that says you can't spend[nl]time with someone who isn't your girlfriend.
+MRK/MRK0018830
+Besides....as long as she doesn't find out,[nl]there's no problem, right?
+RAK/RAK0081970
+I don't wanna stoop that low.
+MRK/MRK0018840
+Mghh.... That's my darling Raku for you.[nl]Always so tough and cool.
+MRK/MRK0018850
+Well then, I don't mind if you just spend time with me![nl]As long as it's not date-like, you'll be okay with it, right?
+RAK/RAK0081980
+That's, well....[nl]Maybe.
+MRK/MRK0018860
+Then it's settled![nl]I'll pick you up at your house on our next day off school,[nl]thank you very much, and I'll see you then!
+RAK/RAK0081990
+Whaaa!? It's been settled already!?
+MRK/MRK0018870
+I can't wait to hang out with you, Raku dearest!
+RAK/RAK0082000
+....Jeez, you never listen when I have something to say.[nl]Alright, I'll do it just this once.
+RAK/RAK0082010
+But....d-don't do anything weird, okay?
+MRK/MRK0018880
+Hehe, I wouldn't dream of it, Raku dearest.[nl]And it's typically the lady that has to have that kind[nl]of caution, right?
+MRK/MRK0018890
+Anyway, we're hanging out this weekend for sure![nl]You promise?
+RAK/RAK0082020
+Alright, alright. I promise, so get to bed already.[nl]We can't have you being over-tired tomorrow.
+MRK/MRK0018900
+Copy that. ♪[nl]Well then, have a good night.
+RAK/RAK0082030
+Yeah, good night.
+MRK/MRK0018910
+I love you, Raku dearest. ★[nl]*smooch*
+@ザクシャ万里花・小
+RAK/RAK0082040
+H-Hey! That's a hell of a thing to--
+RAK/RAK0082050
+She's already hung up!? Jeez, Tachibana's always[nl]saying whatever the hell she wants....
+@イベント終了処理
+common.asb

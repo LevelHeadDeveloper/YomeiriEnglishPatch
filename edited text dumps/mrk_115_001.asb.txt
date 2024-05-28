@@ -1,0 +1,104 @@
+__main
+@Lclearscreenall
+@mrk_115
+@イベント開始処理
+MRK/MRK0014000
+Raku dearessst![nl]We've been having a lot of chilly days lately.
+RAK/RAK0077170
+Yeah. The kind with higher temperatures in the west[nl]and lower in the east....right?[nl]I can't stand the cold, but I'm glad we've got a lot of sunny days.
+......
+RAK/RAK0077180
+....?
+MRK/MRK0014010
+But we also need to worry about getting too dry.[nl]Not just our skin, but our eyes can dry out too....
+RAK/RAK0077190
+Y-Yeah.... That's right.
+RAK/RAK0077200
+(W-What the hell....? This conversation's so frivolous....?[nl] Talking about dry weather like this just isn't like her....)
+RAK/RAK0077210
+(Hmm!? ....Wait a sec.)
+@タッチパート開始処理
+@ＢＧＭ再生
+RAK/RAK0077220
+Hey, Tachibana....[nl]Your eyes....
+@ザクシャ万里花・小
+MRK/MRK0014020
+Yes! I didn't think you'd notice!!
+RAK/RAK0077230
+Well, since you were emphasizing your eyes so much....[nl]You're wearing colored contacts?
+RAK/RAK0077240
+(Is it something around here....?)
+RAK/RAK0077250
+....No, I don't see anything unusual there...
+MRK/MRK0014030
+Jeez, Raku dearest.[nl]You're so dense....
+RAK/RAK0077260
+Huh?
+MRK/MRK0014040
+I can't help but feel bad for Kirisaki's struggles now....
+MRK/MRK0014050
+It's here, right here.[nl]The color of my eyes!
+RAK/RAK0077270
+....Oh, it is! They're different!
+RAK/RAK0077280
+So you're wearing colored contacts?
+MRK/MRK0014060
+Yes. I thought I'd change my image a little[nl]and make them the same color as Kirisaki's eyes.
+MRK/MRK0014070
+I was curious whether or not you'd like it, Raku dearest.[nl]What do you think?
+RAK/RAK0077290
+I think....
+The old ones are better
+These ones are better
+You're cute either way
+RAK/RAK0077300
+There's really no need to force yourself to match Chitoge.[nl]Your natural look is best.
+MRK/MRK0014080
+I see. Since you're dating Kirisaki, I thought for sure[nl]you'd prefer this eye color....
+MRK/MRK0014090
+But if that's not the case, I'll take these out posthaste.
+RAK/RAK0077310
+I like these, they're very novel.[nl]I think they look very exotic.
+MRK/MRK0014100
+I see....![nl]So the reason you didn't like me back before[nl]was because my eyes were the wrong color!
+RAK/RAK0077320
+No, that has nothing to do with....
+MRK/MRK0014110
+Come now! There's no need to be shy about it.
+MRK/MRK0014120
+The reason you put up with Kirisaki's violence against you[nl]is because you have a soft spot for blue eyes, isn't it?
+MRK/MRK0014130
+Or, maybe you're okay with any girl,[nl]as long as she has blue eyes!?
+RAK/RAK0077330
+Stop talking about people like they're perverts!
+MRK/MRK0014140
+Am I wrong?
+RAK/RAK0077340
+Very wrong. I don't have a blue-eye fetish,[nl]and I don't change my opinion of people based on the color[nl]of their eyes.
+MRK/MRK0014150
+I see.[nl]....Well then, I guess these contacts are useless.[nl]I will take them out posthaste.
+MRK/MRK0014160
+Oh, but if you want to see me wearing them again,[nl]let me know, okay? I'd be happy to do anything[nl]for you after all, Raku dearest!
+RAK/RAK0077350
+(I wonder if she'll try to dye her hair blonde next.[nl] She doesn't need to change herself so drastically....)
+RAK/RAK0077360
+Makes no difference one way or another.[nl]Whatever color your eyes are, Tachibana, you're you,[nl]and you're cute either way.
+MRK/MRK0014170
+Fwaah!?!?
+@ザクシャ万里花・中
+MRK/MRK0014180
+N-N-N-No fair....[nl]Callin' me cute....to my face like that....[nl]Umm.... Now I'm all embarrassed....
+RAK/RAK0077370
+Don't be embarrassed.[nl]You really are cute, Tachibana....
+RAK/RAK0077380
+Actually, don't you think there's no need to change[nl]the color of your eyes? Your natural look is best.
+MRK/MRK0014190
+Very well....[nl]If you say so, Raku dearest, I shall take these out.
+MRK/MRK0014200
+Hahh..... Cute.... Cute....[nl]I'm so happyyyy....
+MRK/MRK0014210
+Fwaaahhh....
+RAK/RAK0077390
+(Getting as happy as she did....[nl] Did I say something wrong?)
+@イベント終了処理
+common.asb

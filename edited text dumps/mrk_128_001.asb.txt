@@ -1,0 +1,148 @@
+__main
+@Lclearscreenall
+@mrk_128
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0023590
+Hey, Marika....[nl]Stay away from Raku.
+MRK/MRK0016970
+I reee-fuuuse.
+SSR/SSR0021310
+Hey, Raku Ichijo....[nl]Why don't you put in some effort to shake her off yourself?
+RAK/RAK0079920
+(If I could do that, there wouldn't be any problem.)
+MRK/MRK0016980
+This is good, though, right?[nl]Raku dearest, aren't you happy to have flowers in both hands?
+@expose
+MRK/MRK0016990
+Even if the other flowers are all small and nameless. ♪[nl]....Well, except for Kosaki, of course.
+KSK/KSK0018320
+Hahaha....[nl]T-Thanks.
+CTG/CTG0023600
+What should I do, Raku?[nl]I wanna hit this girl so bad.
+RAK/RAK0079930
+Wait, wait.[nl]Tachibana's not as physically resilient as I am.
+SSR/SSR0021320
+Then, perhaps you'd be punched on her behalf as well?[nl]Hmmm?
+RAK/RAK0079940
+Why would I do that!?
+KSK/KSK0018330
+Both of you, calm down! Okay?
+MRK/MRK0017000
+First of all, *I'm* the one who agreed[nl]to walk home with Raku dearest....[nl]Why are the rest of you following us?
+CTG/CTG0023610
+W-Well, I, um....[nl]Because I'm his girlfriend? I'm keeping an eye on you[nl]to make sure you don't try doing anything behind my back.
+SSR/SSR0021330
+As for me, I don't give a crap about Raku Ichijo![nl]I'm just here because the Mistress is here.
+KSK/KSK0018340
+I-I just happened to leave at the same time, okay?
+MRK/MRK0017010
+Hmmmm? I guess if you all say so,[nl]I'll have to take your word for it, although....
+RAK/RAK0079950
+(H-Huh....? Something about the atmosphere here[nl] strikes me as strange. I get the feeling I shouldn't interrupt....)
+MRP/MRP0000010
+Hm....?
+MRK/MRK0017020
+Oh, Daddy dearest!
+RAK/RAK0079960
+Wha...!?
+MRP/MRP0000020
+Heading home, Mari?
+RAK/RAK0079970
+(What's Tachibana's dad doing here!?)
+MRP/MRP0000030
+Oh, you're with Ichijo's son.[nl]It's been a while.
+RAK/RAK0079980
+Y-Yes! So it has!
+MRP/MRP0000040
+Hmmmm.... Walking Mari home, I see.[nl]I'm sorry to have interrupted--
+MRP/MRP0000050
+Hmmm...!?
+MRP/MRP0000060
+Hey.....Ichijo's kid.[nl]Come here for a second.
+RAK/RAK0079990
+Y-Y-Yes, sir....!
+CTG/CTG0023620
+....Marika, was that your dad?
+MRK/MRK0017030
+Yes, isn't he so strong and gentle?
+SSR/SSR0021340
+Gentle, you say....?[nl]He has this murderous aura....
+KSK/KSK0018350
+What does he want with Ichijo?
+@フェードアウト
+@背景変更
+RAK/RAK0080000
+U-Ummm....
+.....
+RAK/RAK0080010
+U-Ummm.... Dad?
+MRP/MRP0000070
+....You seem to be friends with a lot of other[nl]girls besides my daugher, correct?
+MRP/MRP0000080
+Is one of them the girlfriend you mentioned before?
+RAK/RAK0080020
+Hahh.... Well, yes.
+MRP/MRP0000090
+Ohhh....
+MRP/MRP0000100
+You have a girlfriend, but you're playing games with my daughter,[nl]and you spend time with other women on top of that?
+RAK/RAK0080030
+N-No....!!
+MRP/MRP0000110
+I wouldn't have thought you'd have the gall to be a four-timer,[nl]but I guess you really are Ichijo's boy....
+MRP/MRP0000120
+But I still don't think much of what you're doing.[nl]Shall we take this to the station to discuss further?
+This is a misunderstanding!
+There's a good reason!
+RAK/RAK0080040
+T-T-This is all a misunderstanding![nl]I didn't mean any of it like that....
+MRP/MRP0000130
+That's what criminals usually say....
+RAK/RAK0080050
+(Eeeek!)
+RAK/RAK0080060
+T-There's a bit of an ongoing situation....!
+MRP/MRP0000140
+Situation? Isn't that putting it lightly? Huhhhh?
+RAK/RAK0080070
+It's true! Please believe me!
+MRK/MRK0017040
+Jeez, Daddy! Stop scaring Raku dearest!
+MRP/MRP0000150
+Mrgh....
+RAK/RAK0080080
+T-Tachibana....!
+MRK/MRK0017050
+Everyone's waiting on Raku dearest to come back.[nl]Isn't it time to let him go?
+MRP/MRP0000160
+....Are you okay with this, Mari?
+MRK/MRK0017060
+Yes. I have no issue with it.
+MRP/MRP0000170
+Son.
+RAK/RAK0080090
+Y-Yes!
+MRP/MRP0000180
+I'll let you off for today.
+MRP/MRP0000190
+But sooner or later, you will make my daughter happy.[nl]Be ready for it.
+RAK/RAK0080100
+....Phew.
+RAK/RAK0080110
+Thanks for the save, Tachibana.[nl]Your dad doesn't listen to me at all....
+MRK/MRK0017070
+Sorry about that, Raku dearest....[nl]He's just worried about me.
+RAK/RAK0080120
+Yeah, I guess I can see that.[nl]He's kind of scary, but he's a good father.
+@ザクシャ万里花・小
+MRK/MRK0017080
+Hehe. If you like that,[nl]I can make him *your* father anytime.
+MRK/MRK0017090
+If you marry me, then he can be your father-in-law[nl]starting that very day.
+RAK/RAK0080130
+I think I'll pass....
+RAK/RAK0080140
+(But, yes. One of these days,[nl] I'll have to give Tachibana's dad an honest answer....)
+@イベント終了処理
+common.asb

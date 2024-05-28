@@ -1,0 +1,16 @@
+__main
+@Lclearscreenall
+@mrk_207
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0081870
+Aahhhh, that was refreshing.[nl]A bath really is the best way to wash away[nl]the day's stress.
+RAK/RAK0081880
+Hmm....?[nl]An email from Tachibana.
+MRK/MRK0018780
+RAK/RAK0081890
+W-What is this email....[nl]And what does she mean "daily dose of Raku dearest"!?
+RAK/RAK0081900
+But I guess I haven't been talking[nl]to Tachibana much, lately....
+@イベント終了処理
+common.asb

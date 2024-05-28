@@ -1,0 +1,53 @@
+__main
+@Lclearscreenall
+@mrk_209
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0082060
+H-Hey....my suit doesn't look weird, right?[nl]And how about my tie? It's not crooked, right?
+MRK/MRK0018920
+Yes, your suit fits perfectly and looks great.[nl]My father will be quite pleased.
+RAK/RAK0082070
+Really? I hope so....
+@expose
+MRK/MRK0018930
+But....I'm glad you're finally ready to fulfill[nl]our promise, Raku dearest.
+MRK/MRK0018940
+After thinking about you for those entire 10 years,[nl]it was all worth it.
+RAK/RAK0082080
+Yeah. I hadn't expected your key to be[nl]the one to open the pendant....
+RAK/RAK0082090
+A promise is a promise.[nl]From now on, I have eyes only for you.
+@expose
+MRK/MRK0018950
+Mgh....[nl]The way you've put it, you're making it sound like[nl]you're only marrying me because my key opened the pendant!
+RAK/RAK0082100
+Whoops, sorry, sorry.[nl]Didn't mean it like that.
+MRK/MRK0018960
+Right? Besides....[nl]This isn't just our problem anymore.
+RAK/RAK0082110
+Huh? Problem?
+@背景変更
+MRK/MRK0018970
+You came here today to tell my father about us,[nl]and ask for my hand in marriage, didn't you?
+MRK/MRK0018980
+Good luck, Raku dearest. No....
+@ザクシャ万里花・中
+MRK/MRK0018990
+Daddy. ★
+RAK/RAK0082120
+Da.... Daddy?
+RAK/RAK0082130
+DADDDYYYY!?
+RAK/RAK0082140
+Hahh, hahh, hahh....
+CTG/CTG0023630
+Hey....[nl]You dozed off in class and started sleep-talking.
+RAK/RAK0082150
+....Daddy.
+CTG/CTG0023640
+Huh?
+RAK/RAK0082160
+I-It was a dream, thank God....
+@イベント終了処理
+common.asb

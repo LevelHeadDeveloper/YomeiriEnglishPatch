@@ -1,0 +1,104 @@
+__main
+@Lclearscreenall
+@mrk_129
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0017100
+Jeez, Raku dearest.[nl]Trying to leave like that without telling me was[nl]not very nice at all.
+RAK/RAK0080150
+Whether or not it was nice,[nl]we live in opposite directions.
+MRK/MRK0017110
+That doesn't matter to me at all.[nl]I don't want to be away from you for a minute,[nl]or even a second.
+KSM/KSM0000250
+Oh. If it isn't Ichijo.
+RAK/RAK0080160
+Oh, Onodera's mom!
+MRK/MRK0017120
+Huh? Is this Onodera's mother?
+KSM/KSM0000260
+You a friend of Kosaki's?
+MRK/MRK0017130
+Yes. My name is Marika Tachibana.
+MRK/MRK0017140
+Raku dearest gave me some sweets from your shop some time ago.[nl]I must say, they were delicious.
+KSM/KSM0000270
+Ohh, my, is that right?[nl]I *am* glad they were to your taste.
+MRK/MRK0017150
+I will be coming in to buy some next time.
+KSM/KSM0000280
+Hehe. ♪　We'll be waiting.
+KSM/KSM0000290
+But wait.... Are the two of you on a date?[nl]Am I interrupting something?
+@ザクシャ万里花・小
+@expose
+MRK/MRK0017160
+Yes, we are!
+RAK/RAK0080170
+Hey! Don't lie so brazenly!
+RAK/RAK0080180
+We're not, ma'am![nl]Our relationship isn't like that at all!
+MRK/MRK0017170
+Raku dearest....[nl]You don't need to deny it so hard.
+RAK/RAK0080190
+....!?[nl]S-Sorry, I--
+KSM/KSM0000300
+Hmmmm, you are quite the lady killer, aren't you, Ichijo?[nl]No wonder Kosaki's always so eager to see you.
+RAK/RAK0080200
+Huh? What's this about Onodera?
+KSM/KSM0000310
+...Ohh, I've said too much.[nl]Never mind that.
+KSM/KSM0000320
+You *must* come back and help us at the shop again.[nl]I'll increase your hourly wage.
+RAK/RAK0080210
+Yes. I'd be happy to.
+KSM/KSM0000330
+If you want, you can even be my son-in-law. ♪
+RAK/RAK0080220
+Yes. I'd be ha--
+RAK/RAK0080230
+Wait, huh!? Son-in-law!?
+@expose2
+MRK/MRK0017180
+No, no, no, no, no!
+MRK/MRK0017190
+No matter how good of a friend Kosaki is,[nl]there is NOOOO WAY I'm letting that happen!
+RAK/RAK0080240
+....Hey, don't get more agitated than I am.
+MRK/MRK0017200
+What's no good is no good!
+KSM/KSM0000340
+Ohhh. I guess it'll be pretty hard to land Ichijo.[nl]You'd be a great help to our shop.
+KSM/KSM0000350
+Whoops, I guess it's too late in the day[nl]to be worrying about the shop.
+KSM/KSM0000360
+Well then, I'll leave you two to it.[nl]I may ask you to help out again on short notice pretty soon,[nl]but until then....
+MRK/MRK0017210
+Good grief....[nl]What things that woman said to *my* Raku dearest![nl]I can't let down my guard for even a second!
+RAK/RAK0080250
+I, um, not really yours.....
+MRK/MRK0017220
+This is your fault too, Raku dearest![nl]I can't believe you're in thick with Onodera's family[nl]when you already have me!
+RAK/RAK0080260
+You, um, aren't really mine, either....
+RAK/RAK0080270
+I mean, stop getting such weird ideas.[nl]I just work part-time at their shop occasionally,[nl]like I said earlier.
+MRK/MRK0017230
+I guess that's alright....
+MRK/MRK0017240
+....By the way, is working part-time lucrative?
+RAK/RAK0080280
+I wonder. I guess if you're diligent and work hard,[nl]you can save up a decent amount of money.
+MRK/MRK0017250
+Hmmm....I see.
+MRK/MRK0017260
+A part-time job....[nl]That doesn't sound so bad.
+MRK/MRK0017270
+If I work hard enough, I can make my dream come true....
+RAK/RAK0080290
+Is there something you want to buy?
+MRK/MRK0017280
+Yes. But, that's a secret. ★
+RAK/RAK0080300
+?
+@イベント終了処理
+common.asb

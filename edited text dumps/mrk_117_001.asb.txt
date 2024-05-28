@@ -1,0 +1,86 @@
+__main
+@Lclearscreenall
+@mrk_117
+@イベント開始処理
+MRK/MRK0014380
+Hahh....[nl]Where on Earth did I drop it....?
+MRK/MRK0014390
+I can't believe I had to do *that* and drop it!
+RAK/RAK0077520
+(Looks like Tachibana's looking for something.)
+RAK/RAK0077570
+(Ah, that reminds me....)
+RAK/RAK0077580
+Hey, Tachibana.[nl]Is this what you're looking for?
+@ＢＧＭ再生
+@expose
+MRK/MRK0014430
+Oh! How did you get that picture, Raku dearest!?
+RAK/RAK0077590
+I picked it up when you bumped into me that one time,[nl]but I completely forgot to give it back.
+MRK/MRK0014440
+Thank you very much![nl]I've been looking for it for so long!
+MRK/MRK0014450
+Ahhh.[nl]I'm so glad you found it!
+@ザクシャ万里花・中
+RAK/RAK0077600
+That's a picture we took together way back when.[nl]I found one at my place too.
+MRK/MRK0014460
+Is that so?[nl]I thought I was the only one who had this photo....
+RAK/RAK0077610
+I found it just before you transferred here, too.[nl]I had no idea I'd meet the girl in that photo so soon.
+MRK/MRK0014470
+I didn't realize that.[nl]As for me, I looked at this picture every day, waiting for[nl]the day when I'd see you again, Raku dearest.
+RAK/RAK0077620
+Oogh.... Hurts to hear that.[nl]I'm so sorry I forgot about all that, Tachibana.
+MRK/MRK0014480
+It's fine, I'm already over it.
+MRK/MRK0014490
+More importantly, I'm surprised to hear you had the same photo.[nl]Now that it feels like we share some memories, I'm glad.
+RAK/RAK0077630
+But things have changed a lot over the last 10 years,[nl]like you'd expect. I was such a small child back then.
+MRK/MRK0014500
+Hehe.... You were cute when you were small, too, Raku dearest.
+MRK/MRK0014510
+But, even this cute little darling Raku[nl]was such a cool and dependable boy to me at the time.
+RAK/RAK0077640
+Huh, really?
+MRK/MRK0014520
+Yes. I spent my days bored in bed, and he told me all kinds[nl]of stories about his adventures, and all about the outside world, too.
+MRK/MRK0014530
+For me, it was more exciting, more thrilling,[nl]and much more fun than any adventure story I've ever heard.
+RAK/RAK0077650
+I'm glad to hear it. But....[nl]When you heap on the praise like that, I get embarrassed.
+MRK/MRK0014540
+That's just how much I looked up to you, Raku dearest.[nl]To me, you are like a knight in shining armor, so to speak.
+RAK/RAK0077660
+K-Knight in shining armor!?
+RAK/RAK0077670
+....Jeez, you're exaggerating.[nl]I'm just an ordinary guy with nothing special about me.
+MRK/MRK0014550
+That's not true at all.[nl]Raku dearest, you're kind, and you're manly....
+MRK/MRK0014560
+Besides, if you marry me, you can even take over[nl]as the chief of police one day. Following in my father's footsteps!
+RAK/RAK0077680
+No, I don't really intend to do that....[nl]I mean, that position isn't even hereditary.
+MRK/MRK0014570
+Don't worry. I'll make sure to help you become[nl]the most beloved hero in all Japan....no, the world!
+RAK/RAK0077690
+I told you, I don't want that!
+RAK/RAK0077530
+Looking for something, Tachibana?
+MRK/MRK0014400
+Oh, Raku dearest....
+RAK/RAK0077540
+You want me to help you look for it?
+@ザクシャ万里花・小
+MRK/MRK0014410
+No, thanks....[nl]It's not big enough for you to bother with, Raku dearest....[nl]Please don't worry about it....
+MRK/MRK0014420
+See you later....
+RAK/RAK0077550
+(If it's not big enough to bother with,[nl] why the hell does she look so sad?)
+RAK/RAK0077560
+(What the hell is she looking for?)
+@イベント終了処理
+common.asb

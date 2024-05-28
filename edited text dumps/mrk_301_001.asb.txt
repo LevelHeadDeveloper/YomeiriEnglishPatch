@@ -1,0 +1,162 @@
+__main
+@Lclearscreenall
+@mrk_301
+@イベント開始処理
+@ＢＧＭ再生
+@叫び揺れ
+OTM/OTM0008120
+Hey, Rakuuu. I am booored.[nl]Play with meeee.
+RAK/RAK0080510
+Sorry, play by yourself.
+OTM/OTM0008130
+But 'tis thy day off![nl]Thou canst play with me, so play with meee!
+RAK/RAK0080520
+Aaargh![nl]I already lent you some manga earlier, just read that![nl]I'm sorry, I've already made plans today.
+RAK/RAK0080530
+Oh, sounds like she's here.[nl]I'm gonna step out for a bit, so just stay here[nl]and keep quiet. Okay?
+OTM/OTM0008140
+Mgghh.
+@背景変更
+MRK/MRK0017490
+Good morning, Raku dearest.
+RAK/RAK0080540
+Hey, Tachibana.
+MRK/MRK0017500
+....Right then, let us be off together!
+RAK/RAK0080550
+Hahaha, skipping the pleasantries, I see.
+MRK/MRK0017510
+Those aren't important.[nl]It's our day off, after all, so let's spend the day[nl]having fun together!
+RAK/RAK0080560
+Good grief....[nl]You sound just like Otama....[nl]
+@expose
+MRK/MRK0017520
+Hm? What are you talking about?
+RAK/RAK0080570
+Nothing important.
+MRK/MRK0017530
+....Hahh. I see.
+MRK/MRK0017540
+Well, that doesn't matter.[nl]Anyway, let's hurry up and get going.[nl]I have a car waiting for us out front.
+RAK/RAK0080580
+A car....[nl]Where are you taking me, exactly?[nl]I thought I told you I wasn't going on any dates with you....
+MRK/MRK0017550
+Don't worry, what I have planned today isn't a date. ♪[nl]Come on, let's go!
+RAK/RAK0080590
+Waaagh!? Don't just pull my arm outta nowhere!
+@ＢＧＭ停止
+@フェードアウト
+MRK/MRK0017560
+Please, come in.
+RAK/RAK0080600
+You came and dragged me away against my will,[nl]and you take me to your room of all places....[nl]Isn't your dad home?
+MRK/MRK0017570
+My father is away on business.[nl]So please, make yourself at home.
+RAK/RAK0080610
+It's kinda hard for me to do that in a girl's room....
+MRK/MRK0017580
+Well then, *ahem*....
+MRK/MRK0017590
+Welcome home, darling. ★
+RAK/RAK0080620
+Huh....?
+MRK/MRK0017600
+You don't want to go on a date,[nl]but you're okay if we just have fun, right?
+MRK/MRK0017610
+So then, let's have fun playing make-believe.
+RAK/RAK0080630
+M-Make-believe!?
+RAK/RAK0080640
+For God's sake, I'm not a child,[nl]I can't do something that embarrassing!
+MRK/MRK0017620
+Awww.... But we used to do this all the time.[nl]Why don't we revisit our childhood for a while?
+RAK/RAK0080650
+Maybe we could do this when we were kids,[nl]but now we're a bit too old for make-believe.
+MRK/MRK0017630
+But if we don't, you won't be able to go home,[nl]will you, Raku dearest?
+MRK/MRK0017640
+My father's bound to come back while you're still here,[nl]and if I cry, he may have to press you for answers....
+RAK/RAK0080660
+Nghh....[nl]An underhanded trick!
+RAK/RAK0080670
+Fine, I'll do it! But only until your father gets back[nl]from the office! If I do this, will you let me go?
+MRK/MRK0017650
+Of course! That sounds good enough.
+RAK/RAK0080680
+(Dammit....[nl] At this point, she's basically threatening me.)
+RAK/RAK0080690
+(It can't be helped....[nl] Let's just go along with this and[nl] get the hell outta here.)
+MRK/MRK0017660
+Alright, let's continue.[nl]Welcome home, darling. ★
+RAK/RAK0080700
+Ummm.... I-I'm home.
+MRK/MRK0017670
+Thank you so much for all your hard work today.[nl]I have dinner and a bath ready for you.
+RAK/RAK0080710
+O-Okay....[nl]Thanks, as usual.
+MRK/MRK0017680
+We are a married couple, after all. ♪
+RAK/RAK0080720
+(Gaaaaaah! I'm still too embarrassed![nl] It would have been so much better if I'd[nl] just agreed to the date!)
+MRK/MRK0017690
+Let's see, when we were kids,[nl]what was it you said after that line?
+RAK/RAK0080730
+Heck if I know....[nl]I'm sorry, I don't remember at all.
+MRK/MRK0017700
+Didn't you imitate your father at that point?
+MRK/MRK0017710
+I remember you'd shout[nl]"We're gonna raid 'em! Get me my pistol!"
+RAK/RAK0080740
+Gah!?[nl]Out of everyone I could imitate, I had to go with him.
+MRK/MRK0017720
+After that, your father would scold us both. He'd go[nl]"people who do such foolish things need to be arrested!".[nl]Hehe. ♪
+MRK/MRK0017730
+Anyway, I'm going to get some snacks and drinks in lieu[nl]of dinner. Please wait here for a moment.
+RAK/RAK0080750
+O-Okay. Thanks!
+RAK/RAK0080760
+....Well, as long as we're just eating snacks[nl]and talking, it won't be any different from usual.
+@時間経過演出
+....
+RAK/RAK0080770
+(Having another look at the room,[nl] it's clear Tachibana's good at keeping it tidy....)
+RAK/RAK0080780
+(Hm? What's that?)
+RAK/RAK0080790
+(....It's a very messy drawing.)
+MRK/MRK0017740
+Raku dear....I mean, darling. ★[nl]I brought us some drinks.
+MRK/MRK0017750
+Go ahead, take one.
+RAK/RAK0080800
+Oh, thank you.[nl]I see you've still got that thing up.
+MRK/MRK0017760
+What were you looking at?
+RAK/RAK0080810
+Well, I was looking at that picture....
+MRK/MRK0017770
+That picture....? Oh.
+MRK/MRK0017780
+Raku dearest....don't you remember?
+RAK/RAK0080820
+Huh? Did I see that ten years ago?
+RAK/RAK0080830
+Hmmm....I don't remember at all.[nl]Did a great artist make that?
+MRK/MRK0017790
+Hmmm, I see.....[nl]At least for me, that picture just might be the greatest[nl]in the world.
+RAK/RAK0080840
+Ooh, interesting....
+RAK/RAK0080850
+(I guess Tachibana's into that kind of art.[nl] It kinda looks like a bad doodle to me....[nl] You never know, I guess.)
+MRK/MRK0017800
+Come on, picture aside for a while,[nl]how about we play some more?
+MRK/MRK0017810
+I just got a call from my father,[nl]and he says he'll be working late today, so we can do[nl]all kinds of things together, is that alright?
+RAK/RAK0080860
+Like hell it's alright![nl]I mean, when can I go home!?
+MRK/MRK0017820
+Hehehe. Make yourself at home here, darling. ★
+OTM/OTM0008150
+....How much longer doth Raku intendeth to spend[nl]entertaining his guest? I'm hungry....
+@イベント終了処理
+common.asb

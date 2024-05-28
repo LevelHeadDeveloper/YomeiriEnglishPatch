@@ -1,0 +1,80 @@
+__main
+@Lclearscreenall
+@mrk_110
+@イベント開始処理
+@ＢＧＭ再生
+@画面揺らし2
+MRK/MRK0013310
+Raku dearessst! ★[nl]Please help me with this thing I don't understand from class!
+RAK/RAK0076420
+Why do you have to hug me for me to teach you....
+@expose
+MRK/MRK0013320
+Because this pose helps me concentrate. ♪
+RAK/RAK0076430
+Like hell it does!
+SYU/SYU0014070
+Hahaha! There she goes again.
+RUR/RUR0012690
+You do this every day, too.
+RUR/RUR0012700
+Kosaki, why not follow her lead and hug him for once?
+KSK/KSK0018040
+W-What are you saying!?
+RAK/RAK0076440
+Huh? ....What's wrong, Onodera?
+KSK/KSK0018050
+W-Well, Tachibana, you're always talking about Ichijo....[nl]Was it the same way at your old school?
+MRK/MRK0013330
+My old school?
+RUR/RUR0012710
+....You're changing the subject.
+SYU/SYU0014080
+Yeah, you're changing the subject.
+KSK/KSK0018070
+Jeez! Both of you be quiet!
+SYU/SYU0014090
+Yeah, but now I'm curious too.[nl]Marika, you're super cute, were you popular at your old school?
+MRK/MRK0013340
+Indeed I was....[nl]My old school was an all-girls' school, but boys from the surrounding[nl]schools would approach me frequently.
+MRK/MRK0013350
+It was most repulsive.
+RAK/RAK0076450
+Don't smile when you say that.
+MRK/MRK0013360
+But then, one fateful day, all of a sudden,[nl]not one came near me anymore.
+RUR/RUR0012720
+One fateful day....?
+KSK/KSK0018080
+I-Is this a scary story?
+MRK/MRK0013370
+No, it's actually pretty normal.
+MRK/MRK0013380
+My father accompanied me to school one day, and the rest is history.
+SYU/SYU0014100
+Huh....? Was that it?
+MRK/MRK0013390
+Yes, that was it.
+RAK/RAK0076460
+....You've got some father.
+@フェードアウト
+RAK/RAK0076470
+(He's got some glare, and some build....)
+@背景変更
+RAK/RAK0076480
+I guess I can understand that....[nl]Like maybe they were afraid they'd be sent to jail[nl]if they got near you.
+MRK/MRK0013400
+Of course we wouldn't go that far.[nl]They would be thorougly investigated, though.
+RAK/RAK0076490
+They did that!?
+MRK/MRK0013410
+But you have nothing to worry about, Raku dearest.[nl]After all, our relationship has already been approved by my father. ♪
+RAK/RAK0076500
+But *I* don't recall approving it.
+MRK/MRK0013420
+It's only a matter of time.
+KSK/KSK0018090
+A-Ahahaha....[nl]You haven't changed a bit, Tachibana.
+@ザクシャ万里花・小
+@イベント終了処理
+common.asb

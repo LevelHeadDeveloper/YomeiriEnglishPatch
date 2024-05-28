@@ -1,0 +1,204 @@
+__main
+@Lclearscreenall
+@2shot_otm01_00
+@2ショット開始
+Talk to the fox girl!
+@ＢＧＭ再生
+OTM/OTM0002410
+It's been too long since I last spoke[nl]face-to-face with a human.
+OTM/OTM0002420
+...Well, where should we begin?
+OTM/OTM0002430
+I know. We can start with your suspicions.
+OTM/OTM0002440
+What, it's not hard.[nl]Just tap on thy desired option.
+@expose
+OTM/OTM0002450
+Take a good look at me.[nl]What dost thou make of my appearance?
+@汎用フラグ・変数をすべてクリア
+@2shot_otm01_01
+OTM/OTM0002460
+Well, I don't know what to tell thee.[nl]They're my ears.
+OTM/OTM0002470
+Of course, they let me hear much better[nl]than human ears like thine would.
+OTM/OTM0002480
+That's because if I don't listen to thy wishes,[nl]I'd hardly be a goddess.
+OTM/OTM0002490
+What? Thou thinkest these ears are fake?
+@2shot_otm01_02
+OTM/OTM0002500
+Buuut, I'm the goddess of this shrine![nl]I've been telling thee that since thy arrival!
+OTM/OTM0002510
+I do not have a "house" per se.[nl]This shrine is where I live.
+OTM/OTM0002520
+Dost thou have another question?
+@2shot_otm01_03
+OTM/OTM0002530
+Thou art misunderstanding. There is nothing wrong[nl]with a goddess eating an offering at her own shrine, right?
+OTM/OTM0002540
+Stop complaining or I'll kick you out.
+@2shot_otm01_04
+OTM/OTM0002550
+Mhm. Thou might choose to not[nl]answer like that.
+OTM/OTM0002560
+That said, silence is considered rude. 
+OTM/OTM0002570
+I wouldn't recommend it unless thou art[nl]sure it's better not to answer.
+OTM/OTM0002580
+Don't be shy.[nl]Tell me what thou wish to know.
+@2shot_otm01_05
+OTM/OTM0002590
+We talked about that already, right?
+@2shot_otm01_jigen
+Ask...
+What are those ears?
+Please pay for that sushi
+Where is your house?
+@2shot_otm01_06
+OTM/OTM0002600
+Ruuude! What a skeptic.
+OTM/OTM0002610
+There is meaning in everything.[nl]If thou dost not believe it, touch it.
+OTM/OTM0002620
+Now, touch my ears!
+@タッチパート開始処理
+@2shot_otm01_07
+OTM/OTM0002630
+Aaah! E-e-enough! Stop!
+OTM/OTM0002640
+Fuwaahh...[nl]That tickled......
+OTM/OTM0002650
+.....but now thou canst tell, right?[nl]These are my real ears.
+OTM/OTM0002660
+Normally, I would not let anyone touch[nl]my ears so readily...
+OTM/OTM0002670
+...But I made an exception for thee, because[nl]thou bringeth the best inari sushi I've had in ages!
+OTM/OTM0002680
+!?!? WHAT?[nl]You made that?!?!
+OTM/OTM0002690
+What's thy secret!? Please tell me!
+OTM/OTM0002700
+Hmm... there's a lot of little things, right?
+OTM/OTM0002710
+If that's the case, just tell me one of them.[nl]Make it the most important one!
+@2shot_otm01_08
+OTM/OTM0002720
+I knew it. [nl]I thought that might have been it.
+OTM/OTM0002730
+Tofu is the most important part....[nl]what makes inari sushi, "inari sushi".
+OTM/OTM0002740
+What? "Ukari Tofu" is thy recommended supplier!?
+OTM/OTM0002750
+This is some great info![nl]I'll have to tell the priest this in a dream.
+@2shot_otm01_09
+OTM/OTM0002760
+Rice... the white spirit of Middle Earth, that is...
+OTM/OTM0002770
+There's no way one can just forget that. 
+OTM/OTM0002780
+Huh? For inari sushi, thou recommendeth "Shikari Komachi"?
+@2shot_otm01_10
+OTM/OTM0002790
+As a goddess who values the pure water in this country,[nl]I'm glad thou art sticking to that.
+OTM/OTM0002800
+Nowadays, people are drinking water that has been[nl]made to taste bad, like tap water...
+OTM/OTM0002810
+Why? Why? Why not use a well, or drink from a spring,[nl]like before? 
+@2shot_otm01_11
+OTM/OTM0002820
+Umami is the essence of Japanese cuisine.[nl]It is a treasure that even Michelin-star chefs recognize.
+OTM/OTM0002830
+Thou hast made the dashi from scratch, correct?[nl]Where did thy fish come from?
+OTM/OTM0002840
+Huh? Thou wert in a hurry, so thou[nl]used instant dashi? "Otoridashi", you said?
+OTM/OTM0002850
+I see...[nl]Don't do that, 'tis stupid.
+@2shot_otm01_12
+OTM/OTM0002860
+The sweetness and taste are impeccable.[nl]I'm guessing this isn't made with just brown sugar.
+OTM/OTM0002870
+I see. The high end "Asari Sucrose".
+OTM/OTM0002880
+Hehehe. I thought so.[nl]It's just as I gathered.
+@2shot_otm01_13
+OTM/OTM0002890
+These days, a lot of amateurs use imitations like[nl]"Mirin-style Seasoning" in their dishes, but...
+OTM/OTM0002900
+I can tell this is made with real mirin.
+OTM/OTM0002910
+Not only that, but thou art also particular[nl]about the manufacturers, right?
+OTM/OTM0002920
+For inari sushi, thou recommendeth... "Masa Nashi Brewery"?!?
+@2shot_otm01_14
+OTM/OTM0002930
+Delicious inari starts with good vinegar and good rice.
+OTM/OTM0002940
+My grandma said that a lot a long time ago.
+OTM/OTM0002950
+I see. Thou recommendeth "Dogan Vinegar"?
+@2shot_otm01_15
+OTM/OTM0002960
+Soybeans, wheat, salt...
+OTM/OTM0002970
+To think, from three such simple ingredients,[nl]we have such a flavorful seasoning...
+OTM/OTM0002980
+A divine elixir that our country should be proud of.
+OTM/OTM0002990
+What? Thou recommendeth "Jinwari Soy Sauce"?
+@2shot_otm01_16
+OTM/OTM0003000
+Hmm... I figured that was it.
+OTM/OTM0003010
+I have no choice but to ask thee to[nl]continue making this for me.
+OTM/OTM0003020
+When the priest gets back, I'll tell him[nl]to fire the old cook.
+OTM/OTM0003030
+...in his dreams.
+@2shot_otm01_17
+OTM/OTM0003040
+Hm, thou wouldst withhold[nl]secrets from a goddess...?
+@2shot_otm01_18
+OTM/OTM0003050
+Oh yeah! 
+OTM/OTM0003060
+I forgot the most important part...[nl]...to tell thee my name!
+OTM/OTM0003070
+My name is Otama.
+OTM/OTM0003080
+Go ahead and try it out.[nl]Call out "Otama"!
+OTM/OTM0003090
+"O", "t", "a", "m", "a". Just 5 letters.[nl]Trace them in order. Easy, right?
+OTM/OTM0003100
+Instead of just tapping them,[nl]trace over them with one stroke, OK?
+OTM/OTM0003110
+Come on, call my name.
+@2shot_otm01_ana
+@2shot_otm01_19
+OTM/OTM0003120
+Dost thou wish for divine punishment!!?
+OTM/OTM0003130
+Don't make such silly mistakes![nl]It's "Otama"! "Otama"! 
+@2shot_otm01_20
+OTM/OTM0003140
+Who the hell is that!![nl]It's "Otama"! "Otama"!
+OTM/OTM0003150
+Calm down, and trace again!
+@2shot_otm01_21
+OTM/OTM0003160
+No. It's "Otama".[nl]Calm down and trace again!
+@2shot_otm01_22
+OTM/OTM0003170
+Didst thou not hear me?[nl]It's "Otama"! "Otama"!
+OTM/OTM0003180
+Okay. Instead of tapping the letters,[nl]trace over them with thy finger!
+@2shot_otm01_23
+OTM/OTM0003190
+That's right! Otama!
+OTM/OTM0003200
+It's a very precious name that my grandma gave me.
+@ＢＧＭ停止
+@2ショット成功
+@汎用フラグ・変数をすべてクリア
+@pro_001_201
+common.asb
+pro_001_201.asb

@@ -1,0 +1,116 @@
+__main
+@Lclearscreenall
+@mrk_123
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0015440
+Hmmmm....
+RAK/RAK0078660
+Oh, Tachibana.[nl]It's not every day I see you staying late to study.
+MRK/MRK0015450
+Actually, I forgot to do my homework,[nl]and the teacher's making me stay behind.
+RAK/RAK0078670
+You mean the math homework from yesterday?[nl]There's not that much of it, so you can just[nl]bang it out, right?
+MRK/MRK0015460
+That would be nice, Raku dearest.[nl]This particular homework is in my weak subject.
+MRK/MRK0015470
+Besides, I didn't do the last homework or the homework[nl]before that, so I've got three times as much![nl]I don't think I can get all this finished by myself.
+RAK/RAK0078680
+That's hardly anything to brag about.
+@expose
+MRK/MRK0015480
+....Please help me with this![nl]I could reward you with a kiss or a hug, if you want?
+RAK/RAK0078690
+No need for a reward![nl]I'll help you, just be quiet.
+MRK/MRK0015490
+Aww, now I'm lonely.
+RAK/RAK0078700
+Let's just get this over with.[nl]If we don't, I won't be able to go home, and we'll[nl]be making extra trouble for the teacher.
+MRK/MRK0015500
+Hehe. You are a real gentleman, Raku dearest.[nl]Go ahead and sit down.
+RAK/RAK0078710
+....Wait. Why do I have to sit on the chair[nl]you're already sitting in? There isn't enough room.
+MRK/MRK0015510
+Mghh....[nl]Just sit across from me, then. Your face is still close to mine,[nl]so I'll let it go this time.
+RAK/RAK0078720
+Right, right. So, which ones are we doing?
+MRK/MRK0015520
+Let's see....[nl]From this one, all the way to this one. ★
+RAK/RAK0078730
+That's all of them![nl]You haven't done a single one yet!?
+MRK/MRK0015530
+I'm so happy my darling Raku is going to help me[nl]with all these problems.
+MRK/MRK0015540
+Sitting alone together in the classroom, as the setting sun[nl]shines in. A man and a woman, gazing at each other across a desk.[nl]And a secret private tutoring session....!
+MRK/MRK0015550
+No matter how you look at it,[nl]this is the ideal situation!
+RAK/RAK0078740
+Dude....
+MRK/MRK0015560
+....Raku dearest, does it set your heart aflutter when[nl]you're around me?
+RAK/RAK0078750
+Huh?
+MRK/MRK0015570
+My heart's always pounding around you.
+MRK/MRK0015580
+Whenever our eyes meet, or our hands touch,[nl]or when we talk together like this.[nl]My heart bounces around so much it hurts.
+MRK/MRK0015590
+Raku dearest....[nl]Does your heart ever do that?
+RAK/RAK0078760
+W-Well.... I guess it does.
+MRK/MRK0015600
+Around me?
+RAK/RAK0078770
+Uh....
+MRK/MRK0015610
+Please tell me.[nl]Tell me what you feel.
+RAK/RAK0078780
+I-I....
+I don't feel anything.
+My heart's pounding.
+RAK/RAK0078790
+I-I don't really feel anything.
+MRK/MRK0015620
+Aww. You're so boring.[nl]You could have at least been swayed a little[nl]by the atmosphere.
+RAK/RAK0078800
+Well, I also....
+@ザクシャ万里花・中
+MRK/MRK0015630
+Huh....?
+RAK/RAK0078810
+My heart also--
+KYK/KYK0000620
+Heeey, Tachibana![nl]It's about time you get that homework finished and turned in.[nl]I'm tired of waiting for you.
+RAK/RAK0078820
+T-Teacher!
+KYK/KYK0000630
+What, you're here too, Ichijo?
+KYK/KYK0000640
+....Ohhh.[nl]I think I might be interrupting you youngsters.
+RAK/RAK0078830
+No! Not at all!
+RAK/RAK0078840
+(Actually, I'm glad she interrupted![nl] That atmosphere almost had me say something embarrassing....)
+KYK/KYK0000650
+I see, Welp, you'd better hurry up and get home, then.
+RAK/RAK0078850
+Right!
+RAK/RAK0078860
+Come on, let's finish this up and get outta here, Tachibana!
+MRK/MRK0015640
+Mghh, I feel like I've just been brushed off....
+MRK/MRK0015650
+Well, I suppose that's fine this time.[nl]If I just forget my homework again, I can get detention[nl]with you, Raku dearest.
+RAK/RAK0078870
+No, don't forget it.[nl]What do you think homework's for?
+MRK/MRK0015660
+It's a chance to talk to my darling Raku?
+RAK/RAK0078880
+....I won't help you next time.
+@expose2
+MRK/MRK0015670
+Aww, no fair!
+@イベント終了処理
+@mrk_210
+common.asb
+mrk_210_001.asb

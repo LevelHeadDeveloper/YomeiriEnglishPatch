@@ -1,0 +1,94 @@
+__main
+@Lclearscreenall
+@mrk_116
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0014220
+Hahh....[nl]It's gotten so cold ever since fall started.[nl]I miss summer.
+RAK/RAK0077400
+Hey, hey, it's too soon to say that.[nl]Didn't we even go to the beach not that long ago?
+@expose
+MRK/MRK0014230
+Yes, that was quite fun.
+MRK/MRK0014240
+The sea here in Japan sparkled far more with you, Raku dearest,[nl]than it does in the Maldives, where I usually go.
+MRK/MRK0014250
+And the barbecue I had with you,[nl]and the fireworks I lit with you....[nl]These are all precious memories to me.
+RAK/RAK0077410
+Don't just casually leave out everyone else.[nl]Chitoge and the others were there too, right?
+MRK/MRK0014260
+Oh, were they?
+MRK/MRK0014270
+That's strange.[nl]Every detail of that day should be etched into my brain[nl]as a glorious summer memory.
+@expose
+MRK/MRK0014280
+I can even remember your gentle touch as you rubbed sunscreen[nl]on me, Raku dearest....
+RAK/RAK0077420
+But I didn't rub sunscreen on you!?
+CTG/CTG0023320
+You....[nl]If I just sit by and listen, you start saying[nl]all these things!?
+MRK/MRK0014290
+Oh, were you eavesdropping?
+CTG/CTG0023330
+The whole classroom can hear you!
+CTG/CTG0023340
+First of all, you're making Darling sound bad[nl]the way you're talking! You should think about the trouble[nl]you're causing him!
+RAK/RAK0077430
+Ohh, I never expected you to defend me, Chitoge!
+@expose
+CTG/CTG0023350
+Well, naturally.[nl]I don't want people to think I'd date a player!
+RAK/RAK0077440
+What, so you were worried for yourself....
+MRK/MRK0014300
+You're quite self-centered.[nl]I am appalled.
+CTG/CTG0023360
+Nnnghhh!!
+@ＨＰ－５０
+RAK/RAK0077450
+Gltbckh!?
+CTG/CTG0023370
+I'm gonna hit you instead of Marika....
+RAK/RAK0077460
+Why would you say that *after* you hit me!?
+MRK/MRK0014310
+Kirisaki really is a very violent person.
+MRK/MRK0014320
+I, on the other hand, would stick by your side[nl]no matter how much of a bad rap you get.
+CTG/CTG0023380
+Why do you think he *has* a bad rap in the first place!?[nl]Anyway, stay away from my darling!
+MRK/MRK0014330
+I'm sorry, but I can't stay away from him[nl]until after you two break up.
+RAK/RAK0077470
+H-Hey, you two. Don't get so heated....[nl]Or, you know....
+WSB/WSB0000250
+Look, look! They're fighting again!
+WSA/WSA0000260
+Ichijo does this a lot.[nl]Rumor has it he's made countless girls cry this way.
+RAK/RAK0077480
+(Aaargh....[nl] There goes my reputation again....)
+@expose
+MRK/MRK0014340
+Poor Raku dearest.[nl]I'll rub that bruise out of your cheeks for you.
+MRK/MRK0014350
+Pain, pain, go away!
+RAK/RAK0077490
+Whaa!? Stop rubbing my cheek!
+CTG/CTG0023390
+Khh....[nl]I'm right here, you know!
+MRK/MRK0014360
+Hehehe, are we feeling jealous?[nl]But it's all because of how violent you were, Kirisaki.
+@ザクシャ万里花・中
+CTG/CTG0023400
+Mgghhh![nl]Raku, you remember that, don't you!?
+RAK/RAK0077500
+Why are you mad at me!?
+CTG/CTG0023410
+Anyway....[nl]Don't mess around with my darling any more!
+MRK/MRK0014370
+You're the one who shouldn't mess around with him any more!
+@ザクシャ万里花・小
+RAK/RAK0077510
+(Hahhh....[nl] How many more times am I gonna have to put up[nl] with these exchanges before graduation....?)
+@イベント終了処理
+common.asb

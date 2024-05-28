@@ -1,0 +1,96 @@
+__main
+@Lclearscreenall
+@otm_001
+@ＢＧＭ再生
+OTM/OTM0003550
+Grandma....grandma.....
+OTM/OTM0003560
+Grandma!!
+@背景変更
+BAB/BAB0000010
+Oh, Otama. My adorable little girl.[nl]What is troubling thee?
+OTM/OTM0003570
+Hey, grandma? Why doth I have two tails?[nl]Thou hast nine magnificent tails!
+OTM/OTM0003590
+I want to be like thee, grandma!
+BAB/BAB0000020
+Hohoho, that shall not happen anytime soon.
+OTM/OTM0003600
+Why not!?
+BAB/BAB0000030
+Thy number of tails indicates thy status as a fox spirit.[nl]Thou art too young to be a nine-tailed fox spirit.
+OTM/OTM0003610
+Then, what must I do?[nl]How might I become like thee, grandma?
+BAB/BAB0000040
+Grant the people's wishes and accumulate virtue.
+OTM/OTM0003620
+Wishes?
+BAB/BAB0000050
+That is correct.
+BAB/BAB0000060
+Otama. Since thou beareth my name,[nl]thou wast born with a special power. 'Tis a very special[nl]divine power that can manifest people's wishes into reality.
+BAB/BAB0000070
+If thou shouldst useth this power to lead people[nl]to happiness, that shall become thy virtue. And as thy[nl]virtue increases, so too shall thee gain more tails.
+BAB/BAB0000080
+And when thou hast attained ten tails,[nl]thou shalt be elevated from "fox spirit" to "sacred fox".
+OTM/OTM0003630
+Sacred....fox....?
+BAB/BAB0000090
+Noble beings, on the same level as gods....[nl]The ultimate goal of a fox spirit.
+OTM/OTM0003640
+Grandma, thou art not a sacred fox?
+BAB/BAB0000100
+Correct. Even grandma is not a sacred fox.[nl]'Tis not easy for a great yokai to be reborn as a god.
+BAB/BAB0000110
+Well, Otama. Since thou shalt inherit my name,[nl]so too I hope that thou shalt strive to become a sacred fox.[nl]That is my sincere hope.
+OTM/OTM0003650
+Yes, I understand! One day I shall surely become[nl]a sacred fox, and then I shall come back and report to thee!
+BAB/BAB0000120
+However, 'tis not enough to simply grant wishes.[nl]To gain virtue, two conditions must be met.
+OTM/OTM0003660
+Two conditions?
+BAB/BAB0000130
+Mhm. First of all, the wish must be one that[nl]the creature truly desires, from the bottom of their heart.
+BAB/BAB0000140
+Humans are very strange creatures.[nl]They are often unsure of even their very own true desires.
+BAB/BAB0000150
+Therefore, what one may wish aloud[nl]may not constitute their true wish.
+OTM/OTM0003670
+Hmmmm.....
+BAB/BAB0000160
+Secondly, the wish must not be one[nl]that brings harm to anyone else.[nl].....This is also quite difficult.
+OTM/OTM0003680
+What dost thou mean?
+BAB/BAB0000170
+You see....
+BAB/BAB0000180
+For example, let us say that thou hast fulfilled[nl]a man's wish for love. But if there was a woman whomst[nl]had had feelings for this man since the start--
+BAB/BAB0000190
+The man would have his love requited,[nl]but the woman would be broken-hearted.
+BAB/BAB0000200
+Thou canst see that it is not uncommon for the fulfillment of[nl]a wish to cause pain for someone else in the background.[nl]Thus, the virtue of the wish is cancelled out.
+BAB/BAB0000210
+Be very careful to only grant wishes that are[nl]truly noble, that will not cause others to suffer.[nl]Am I clear?
+OTM/OTM0003690
+Hmmm....I am not sure I understand.....
+OTM/OTM0003700
+But I'll do my best!
+BAB/BAB0000220
+....Hohoho. Good grief. See you later.
+@ＢＧＭ停止
+@フェードアウト
+......
+OTM/OTM0003710
+...It's been a long time since I last had that dream.
+OTM/OTM0003720
+Granting people's wishes,[nl]and rising to the rank of "sacred fox"....
+OTM/OTM0003730
+And the promise I made to my grandma,[nl]whose face I can no longer remember....
+OTM/OTM0003740
+Shall the day ever come when I am able[nl]to keep that promise....?
+OTM/OTM0003750
+....No, I must keep it.[nl]That is why I hath followed this man.
+RAK/RAK0035250
+Zzzz.....
+@イベント終了処理
+common.asb

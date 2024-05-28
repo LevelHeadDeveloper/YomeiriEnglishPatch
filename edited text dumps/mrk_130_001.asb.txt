@@ -1,0 +1,109 @@
+__main
+@Lclearscreenall
+@mrk_130
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0080310
+Phewww, what a day. I'm exhausted.
+MRK/MRK0017290
+Good work today, Raku dearest. ★
+RAK/RAK0080320
+It looks like she isn't here today,[nl]so I'll just spend the evening relaxing in my room....
+MRK/MRK0017300
+I see. Sometimes, it's nice to just relax in your room.
+@expose
+MRK/MRK0017310
+By the way, who is "she"?
+RAK/RAK0080330
+Well, "she" would be Otama--
+@ＢＧＭ停止
+RAK/RAK0080340
+Wait, hey![nl]How'd you get into my room, Tachibana!?
+@expose2
+MRK/MRK0017320
+What....I walked in with you, Raku dearest,[nl]and we both went into your room together, right?
+MRK/MRK0017330
+I was riiight behind you. ♪
+RAK/RAK0080350
+....You're freaking me out more and more, Tachibana.
+@expose
+MRK/MRK0017340
+And I'm falling more and more in love with you. ★
+RAK/RAK0080360
+I'm too tired to argue anymore.[nl]....So, why are you here?
+MRK/MRK0017350
+I wanted to spend time with my darling Raku, of course....[nl]But while I'm here, can I ask you something?
+RAK/RAK0080370
+Don't know what you'd need to know after coming in here[nl]without permission.... Go ahead and ask me anything.
+MRK/MRK0017360
+I was wondering....
+MRK/MRK0017370
+Where do you keep your family's stamp?[nl]#fs{12}TN: Instead of signatures, people in Japan sign documents with a stamp.#fs{}
+RAK/RAK0080380
+Whaaa!?
+What are you gonna do with that!?
+I don't know.
+RAK/RAK0080390
+What are you gonna do with it!?
+MRK/MRK0017380
+Well, once I have your stamp,[nl]it will be useful for something in the future.
+MRK/MRK0017390
+Please don't worry. Aside from the marriage registration,[nl]I won't use it for anything on your behalf without permission.
+@ザクシャ万里花・小
+RAK/RAK0080400
+The heck you mean "don't worry"!?[nl]A marriage registration is what you shouldn't be stamping[nl]on my behalf without permission!
+RAK/RAK0080410
+I don't know where it is.[nl]My dad must keep it somewhere secure,[nl]but he never told me where.
+MRK/MRK0017400
+Is that so? That's a shame.
+MRK/MRK0017410
+It would have been very convenient to have[nl]your real stamp....
+RAK/RAK0080420
+(Even if I *did* know,[nl] there's no way I'd tell her....)
+@expose
+MRK/MRK0017420
+It can't be helped.[nl]Since I've come all this way, let's at least look for it. ♪
+RAK/RAK0080430
+Hey! Stop trying to storm my room!
+MRK/MRK0017430
+Oh, I found your futon, Raku dearest![nl]Here we go.
+MRK/MRK0017440
+Hup!
+@画面揺らし
+RAK/RAK0080440
+Why are you jumping into it!?
+@ザクシャ万里花・大
+MRK/MRK0017450
+Ahhhh.... It smells like Raku dearest. ★
+RAK/RAK0080450
+Cut it out!
+MRK/MRK0017460
+Aah! Raku dearest, you're awfully bold to suddenly[nl]grab my shoulders from behind!★
+RAK/RAK0080460
+C・O・M・E ・ O・N![nl]Let go of my futon....!  
+RYU/RYU0001880
+Young master, you have friends over?[nl]Imma get them some tea and--
+RYU/RYU0001890
+Aaaaaaagh!!
+RAK/RAK0080470
+Gah! Ryuu!?
+MRK/MRK0017470
+Oh, Raku dearest....[nl]You're done already?
+RYU/RYU0001900
+....Whoaaaaaa![nl]Pard'n me, young master!
+RYU/RYU0001910
+I'm....I'm so sorry I interrupted you during[nl]one of the most momentous steps you can take, young master!
+RYU/RYU0001920
+Right, don't pay me a bit o' mind, just continue![nl]Don't worry, I won't tell Miss Chitoge!
+RAK/RAK0080480
+Y-You idiot! Stop with the weird misunderstandings!
+RYU/RYU0001930
+Young master! Goood luuuck!
+RAK/RAK0080490
+Hey, listen to meeee!
+MRK/MRK0017480
+Well, Raku dearest. You heard him, let's continue.★
+RAK/RAK0080500
+You go home!
+@イベント終了処理
+common.asb

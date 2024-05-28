@@ -1,0 +1,50 @@
+__main
+@Lclearscreenall
+@mrk_211
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0082200
+Mmmmgghh....[nl]I've been asleep since I got home,[nl]but I'm still tired....
+RAK/RAK0082220
+I think I'll just sleep for the rest of the day....
+MRK/MRK0019020
+Yes, get yourself some nice rest.
+.....
+MRK/MRK0019030
+Oh, why are you staring at me like that?
+RAK/RAK0082230
+I was just wondering why you're here....[nl]I don't even have the energy to get too deep into it.
+@expose
+MRK/MRK0019040
+When I heard you were sick, Raku dearest,[nl]I came as fast as I could.
+MRK/MRK0019050
+I knew I shouldn't wake you up, so I took care of you[nl]as you slept.... Does that bother you?
+RAK/RAK0082240
+It doesn't bother me, but I'm a bit surprised.[nl]Besides, wasn't it a lot of work to do that?
+MRK/MRK0019060
+I got to see your sleeping face, so not at all. ♪[nl]I sat there watching you the whole time, as adorable as you were[nl]when you were a child.
+RAK/RAK0082250
+C-Cut it out, you're embarrassing me!
+MRK/MRK0019070
+If you keep yelling, you'll wear yourself out again.
+MRK/MRK0019080
+Now, enough about me,[nl]please lie down and get some rest.
+@ザクシャ万里花・中
+RAK/RAK0082260
+But, well....[nl]How long are you going to stay here?
+@expose2
+MRK/MRK0019090
+Don't worry, please.[nl]As soon as I see that you're sleeping soundly, Raku dearest,[nl]I'll leave the rest to Ryuu and go home.
+MRK/MRK0019100
+So please let me do this for a while longer.
+RAK/RAK0082270
+(Hmmm....[nl] With a girl staring at me like this,[nl] it's kinda hard to sleep soundly like she said....)
+MRK/MRK0019110
+If you can't sleep, shall I sleep with you?[nl]I'm always down for that.
+RAK/RAK0082280
+Maaan, I'm getting so sleepy![nl]I'm gonna go to sleep, I'll fall asleep in 5 seconds,[nl]good night, good niiight!
+MRK/MRK0019120
+Hehe, good night.
+@ＨＰ＋８０
+@イベント終了処理
+common.asb

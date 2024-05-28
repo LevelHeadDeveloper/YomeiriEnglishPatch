@@ -1,0 +1,88 @@
+__main
+@Lclearscreenall
+@mrk_114
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0077030
+Hahh....
+RAK/RAK0077040
+....It's been more than half a year now since we started high school.[nl]It sounds like a long time, but it flew by....
+SYU/SYU0014120
+Come on, Raku![nl]Aren't you a little young to be reminiscing?
+RAK/RAK0077050
+I guess maybe I am....
+RAK/RAK0077060
+But at this rate, the rest of high school,[nl]college, and even employment will be over in the blink of[nl]an eye, and that's kinda got me down.
+CTG/CTG0023280
+You old man....is what I'd like to call you,[nl]but I think you're right. I've also been thinking a lot lately[nl]about how time flies.
+@expose
+SSR/SSR0021190
+Time flies like an arrow, they say.[nl]I feel the same way.
+KSK/KSK0018180
+Once we graduate and get jobs....[nl]I wonder where we'll all be then.
+RUR/RUR0012730
+I can't help but wonder if at least one wil be married.[nl]Riiight, Kosaki?
+KSK/KSK0018190
+R-Ruri!
+SYU/SYU0014130
+With all the connections I have,[nl]I'm sure I can have an interesting life.
+SSR/SSR0021200
+I....
+SSR/SSR0021210
+......
+SSR/SSR0021220
+....No, never mind.[nl]I'd be content to work with the mistress, as I always have.
+SSR/SSR0021230
+I'd be content to work with the mistress, as I always have.
+RAK/RAK0077070
+You both seem to have very vague plans for the future....
+CTG/CTG0023290
+What about you, Darling?
+RAK/RAK0077080
+Me? Well, I want to--
+Be an upstanding civil servant!
+Take over the family business
+Be a house-husband
+RAK/RAK0077090
+I'd be happy if I could have a peaceful life[nl]as a public servant.
+SSR/SSR0021240
+Walking the straight and narrow, huh.[nl]I'd say that's a good choice....
+SSR/SSR0021250
+....If it wasn't completely impossible.[nl]Do you really think you could be the mistress's lover[nl]with resolve like that?
+RAK/RAK0077100
+S-Shut up. A man can dream!
+RAK/RAK0077110
+Lately, I've been thinking it might not be so[nl]bad to take over the Shuei-gumi.
+CTG/CTG0023300
+Oooh. That's surprising.
+RAK/RAK0077120
+Of course, I don't think I'm cut out for the whole[nl]hacking-and-slashing thing.
+RAK/RAK0077130
+But, there are other ways to lead a group,[nl]and after watching our dads for a while, I can't say[nl]they haven't been making an effort....
+RAK/RAK0077140
+I'd like to be a house-husband....
+RUR/RUR0012740
+....As skilled as you are at housework,[nl]that's certainly an option for you, Ichijo.
+KSK/KSK0018200
+Yes. He'd be a good family-oriented father.
+RAK/RAK0077150
+Haha.... Well, I was just kidding.
+@ザクシャ万里花・小
+MRK/MRK0013940
+Ahem! Let me tell you all my dream for the future.[nl]I'm going to--
+CTG/CTG0023310G
+You don't need to tell us.
+MRK/MRK0013950
+Mgh....[nl]That's just cold, guys!
+RAK/RAK0077160
+Well, it was so obvious what you were gonna say....
+MRK/MRK0013960
+Well then, Raku dearest, you can make my dream come true, right?[nl]My dream is....
+MRK/MRK0013970
+....to be the wife of a public servant!
+MRK/MRK0013980
+....to be the matriarch of the Ichijo family!
+MRK/MRK0013990
+....to be a career woman supporting her house-husband!
+@イベント終了処理
+common.asb

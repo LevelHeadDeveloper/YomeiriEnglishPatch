@@ -1,0 +1,22 @@
+__main
+@Lclearscreenall
+@mrk_206
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0081800
+Oh, an email.[nl]....From Tachibana?
+MRK/MRK0018760
+RAK/RAK0081810
+Tachibana was even more hyper then than usual....[nl]I mean, we didn't pledge ourselves to each other in the future.
+RAK/RAK0081820
+Hm....? Another one?
+MRK/MRK0018770
+@ザクシャ万里花・小
+RAK/RAK0081830
+Waaaagh!?[nl]I didn't know I wore *this*!
+RAK/RAK0081840
+If Chitoge and the others see this,[nl]I'm dead meat!
+RAK/RAK0081860
+(I've gotta stop Tachibana, whatever it takes![nl] Good luck, me!)
+@イベント終了処理
+common.asb

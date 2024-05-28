@@ -1,0 +1,46 @@
+__main
+@Lclearscreenall
+@mrk_202
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0018520
+Good morning, Raku dearest.
+RAK/RAK0081610
+Oh, good morning.
+MRK/MRK0018530
+I know it's a bit sudden, but would you[nl]like to take a brief psychological test?
+RAK/RAK0081620
+....That really is sudden.[nl]Well, alright.
+@expose
+MRK/MRK0018540
+Thank you. Okay then....
+MRK/MRK0018550
+You are standing in front of a white house on a hill.[nl]The white house has large windows, and through them you can see a[nl]happy couple and two children.
+MRK/MRK0018560
+Now, what color curtains do you see on the windows?
+RAK/RAK0081630
+....What would my answer tell you about me?
+MRK/MRK0018570
+Just answer what your intuition tells you, please.
+RAK/RAK0081640
+Hmmm. Curtains, curtains....[nl]You said the house was white? Considering that....
+RAK/RAK0081650
+A light green....maybe?
+MRK/MRK0018580
+I see, I see.
+MRK/MRK0018590
+Got it. I'll use this as a reference!
+RAK/RAK0081660
+Huh? O-Okay.[nl]....Wait, what are my results, then?
+MRK/MRK0018600
+Huh?
+RAK/RAK0081670
+You said this was a psychological test.
+MRK/MRK0018610
+R-Riiight![nl]S-So it was. Let's seeee.....
+MRK/MRK0018620
+That's a secret. ♪
+RAK/RAK0081680
+Huh? Whaddya mean by that!?
+@イベント終了処理
+common.asb

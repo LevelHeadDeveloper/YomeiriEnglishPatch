@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@mrk_201
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0018470
+Good morning Raku dearest. ★
+RAK/RAK0081580
+Hm? What are you doing here?[nl]We live in opposite directions from the school.
+@expose
+MRK/MRK0018480
+I wanted to have a lovey-dovey[nl]walk to school with you, of course.
+RAK/RAK0081590
+Y-You....went the long way around[nl]and waited around for me just for that?
+MRK/MRK0018490
+Such are the labors of love.[nl]But I did get a little cold....
+@expose2
+MRK/MRK0018500
+So, Raku dearest, please warm me with your body!
+RAK/RAK0081600
+Yeah, yeah, no clinging to me!
+MRK/MRK0018510
+Well, aren't you mean, Raku dearest....
+@イベント終了処理
+common.asb

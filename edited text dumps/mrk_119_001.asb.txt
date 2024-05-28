@@ -1,0 +1,82 @@
+__main
+@Lclearscreenall
+@mrk_119
+@イベント開始処理
+SSR/SSR0021270
+Raku Ichijo![nl]Did you see Marika Tachibana go by here?
+RAK/RAK0077800
+No, I haven't seen her.
+SSR/SSR0021280
+I see.... That's strange.[nl]I could have sworn she came by here.
+SSR/SSR0021290
+You goddamned....Marika Tachibana![nl]I will catch you and make you apologize to the Mistress[nl]for all your violent language towards the mistress!
+RAK/RAK0077810
+....She's gone.
+@ＢＧＭ再生
+MRK/MRK0014730
+There's a lot more space under the podium[nl]than you'd think by looking at it.
+RAK/RAK0077820
+....Jeez. ....I really don't need such a fuss[nl]in the classroom every time.[nl]Just this once, okay?
+@expose
+MRK/MRK0014750
+Thank you very much for covering for me.[nl]I knew I could count on my darling Raku.
+RAK/RAK0077840
+So, what'dja do this time?
+MRK/MRK0014760
+Nothing out of the ordinary, I believe.
+@expose2
+MRK/MRK0014770
+I was only giving Kirisaki my honest impressions of her,[nl]and I was able to touch Tsugumi's....proportions in person[nl]to make sure they were as big as they look.
+RAK/RAK0077850
+You were doing that to Tsugumi!?[nl]I regret covering for you....
+MRK/MRK0014780
+Oh my, I do say Tsugumi is an interesting friend.
+RAK/RAK0077860
+So you at least think of her as a friend.[nl]I just didn't think you were that close, so I'm surprised.
+@ザクシャ万里花・小
+MRK/MRK0014790
+I don't know what she thinks of me,[nl]but I don't dislike her.
+MRK/MRK0014800
+And I find it fun to play chase and hide-and-seek[nl]with another girl like this.
+RAK/RAK0077870
+Try not to overdo it.[nl]She's really scary if you piss her off.
+MRK/MRK0014810
+I wish I could get to know Miyamoto[nl]as well as the rest of you....
+RAK/RAK0077880
+Come to think of it, I don't[nl]usually see you talking to Miyamoto much.
+MRK/MRK0014820
+I'm hoping for the perfect opportunity.
+RAK/RAK0077890
+Well, if you start hanging out with Onodera and the others,[nl]you can make more connections.
+MRK/MRK0014830
+That is true. I should take this slowly.
+MRK/MRK0014840
+....Oh, hang on!
+MRK/MRK0014850
+Maybe it would be easier to talk to her[nl]if I also became a four-eyes?
+RAK/RAK0077900
+When did you get glasses!?
+MRK/MRK0014860
+Better safe than sorry, I always say.[nl]I prepared these just in case I found out you had[nl]a huge fetish for glasses.
+MRK/MRK0014870
+Do they suit me?
+RAK/RAK0077910
+They look good on you,[nl]but I don't have a fetish for glasses.
+MRK/MRK0014880
+That's a shame.... But what about Miyamoto?[nl]I wonder if I could connect with her using glasses.
+RAK/RAK0077920
+Hmmmm.... I don't think it matters that much, ya know?
+RAK/RAK0077930
+Instead, just talk to her about stuff.[nl]Like what kinds of books you read,[nl]or what you do in your spare time....
+MRK/MRK0014890
+I see.... Maybe it was silly of me to think[nl]just wearing glasses would get her attention.
+SYU/SYU0014150
+Oh, Marika's rocking glasses![nl]Come on, what's going on here?
+SYU/SYU0014160
+Don't tell me you wanted to be glasses-buddies with me?[nl]Oh, maaan, I'm so embarrassed!
+MRK/MRK0014900
+....Looks like I hooked one I didn't want.
+RAK/RAK0077940
+Right? Normal's always best.
+@イベント終了処理
+common.asb

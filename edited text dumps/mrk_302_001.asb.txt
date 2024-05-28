@@ -1,0 +1,147 @@
+__main
+@Lclearscreenall
+@mrk_302
+@イベント開始処理
+RAK/RAK0080870
+(Alright....[nl] I got that silky fried tofu Otama wanted, time to head home.)
+MRK/MRK0017830
+No way. Please don't touch me.
+RAK/RAK0080880
+(Hm, that sounds like....)
+@ＢＧＭ再生
+CPA/CPA0000060
+Come on, come onnn![nl]We're just wanna go somewhere fun with you.
+CPB/CPB0000100
+After all, how could we leave a hottie like you alone?
+MRK/MRK0017840
+....Hahh, this is a real pain.
+RAK/RAK0080890
+(So it *is* Tachibana.[nl] Looks like she's getting harrassed by some weirdos,[nl] what should I do?)
+Help her right away.
+Honda will help her.
+RAK/RAK0080900
+(Wait, I don't need to think about this!)
+RAK/RAK0080910
+H-Heeey, Marika![nl]Whatcha doin' in a place like this?
+CPA/CPA0000070
+Huh?
+@expose
+MRK/MRK0017850
+R-Raku dearest!?
+RAK/RAK0080920
+I thought I told you not to wander off[nl]Come on, let's go.
+RAK/RAK0080930
+Ohhh, sorry, fellas.[nl]Seems like she was causing trouble.
+RAK/RAK0080940
+Welp, goodbye!
+MRK/MRK0017860
+Raku dearest....treated me like his lover....
+@expose2
+MRK/MRK0017870
+I've....I've never been this happy in my liiiife!
+@ザクシャ万里花・小
+RAK/RAK0080950
+Aaagh! You idiot![nl]This isn't the part where you should say anything!
+MRK/MRK0017880
+If you want, we can start being real lovers now, okay?[nl]I'm ready to warm up anytime!
+RAK/RAK0080960
+Don't you know what's going on!?
+CPA/CPA0000080
+What the hell....have you been lying to us?
+CPB/CPB0000110
+Using those dirty tricks....
+MRK/MRK0017890
+I assure you, there's no lying here![nl]Raku dearest and I are going to be true lovers from now on!
+RAK/RAK0080970
+Hahhhh, jeeeez....
+CPA/CPA0000090
+I dunno about you, but I don't think a cute girl[nl]like you and your scrawny pudding boy here are a good match.
+CPB/CPB0000120
+Wouldn't you be better off with a studly-type[nl]guy like us?
+MRK/MRK0017900
+Raku dearest and you are as different[nl]as the sun and a water flea. Please be a little more understanding.
+CPA/CPA0000100
+Whaaat!?
+RAK/RAK0080980
+Waagh! Why are you egging them on!?
+MRK/MRK0017910
+Because these people are making fun of you, Raku dearest.
+RAK/RAK0080990
+I went to all the trouble of trying to help you[nl]and now you're making things complicated!
+MRK/MRK0017920
+It's my mission to put my darling Raku first.
+RAK/RAK0081000
+H-Hey! Don't throw yourself into my arms!
+CPA/CPA0000110
+Oy! What're you two making out for!?
+CPB/CPB0000130
+You gotta be kiddin' me....[nl]I'm gonna have to punch you in the face!
+RAK/RAK0081010
+Aaaah! Wait, wait![nl]Violence isn't the answer!
+CPA/CPA0000120
+Shut up! Eat this!
+@ＢＧＭ停止
+HND/HND0000870
+....Pardon me.
+CPB/CPB0000140
+Huh?
+HND/HND0000880
+Everyone, if you please.
+PLA/PLA0000020
+We're coming in![nl]Protect Mistress Marika ASAP!
+PLA/PLA0000030G
+RAAAAAAGGGGHHH!!!
+RAK/RAK0081020
+Gah!?
+CPA/CPA0000130
+W-Who the heck are these guys!?
+CPB/CPB0000150
+Aaaaaaagh! H-H-Help meeee!
+RAK/RAK0081030
+(Amazing. They got rid of them in no time flat....)
+HND/HND0000890
+Forgive me for intervening, Mistress.[nl]Are you hurt?
+@expose
+MRK/MRK0017930
+Not at all.
+HND/HND0000900
+Master Ichijo, thank you for helping her out of danger.
+RAK/RAK0081040
+N-No, it was nothing.[nl]I wasn't much help....
+MRK/MRK0017940
+Hey, listen to this, Honda![nl]A few minutes ago, Raku dearest called me Marika!
+MRK/MRK0017950
+What's more, he appeared out of thin air[nl]and tried to save me.
+MRK/MRK0017960
+He was just like a knight in shining armor,[nl]I was so excited!
+RAK/RAK0081050
+That's what got me into this mess....[nl]You know what I mean, right?
+MRK/MRK0017970
+Yes![nl]If it means you'll save me again, I'll get harrassed as much as I need to. ♪
+MRK/MRK0017980
+So, please call me Marika again.[nl]Next time, I'll act like your girlfriend and keep quiet!
+RAK/RAK0081060
+You don't know what I mean at all!
+RAK/RAK0081070
+Jeez.... Honda ended up taking care of it,[nl]so I guess there was no need to intervene.
+MRK/MRK0017990
+That's not true at all, Raku dearest.[nl]You've made me very happy.
+@ザクシャ万里花・中
+MRK/MRK0018000
+Even now, I can't stop my heart from pounding.[nl]Thank you so much, Raku dearest.
+RAK/RAK0081080
+(Well, whatever. Honda's probably nearby, anyway.)
+CPA/CPA0000140
+Heeey, come on.[nl]Don't you wanna have a little fun with us?
+CPB/CPB0000160
+I'll bet you're just here by yourself, aren't you?
+MRK/MRK0018010
+....Aaagh, jeez![nl]You guys are obnoxious.
+MRK/MRK0018020
+Hondaaa!
+HND/HND0000910
+....As you wish.
+RAK/RAK0081090
+(She is the daughter of the chief of police, after all....[nl] That's a hell of a high level of alert.)
+@イベント終了処理
+common.asb

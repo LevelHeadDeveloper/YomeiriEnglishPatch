@@ -1,0 +1,20 @@
+__main
+@Lclearscreenall
+@mrk_215
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0019280
+Raku dearest, what are your plans for Saturday?
+RAK/RAK0082490
+....What's up, Tachibana?[nl]That came outta nowhere.
+MRK/MRK0019290
+I'll ask one more time.[nl]Raku dearest, what are your plans for Saturday?
+RAK/RAK0082500
+Nothing, really.[nl]I might just do some chores around the house.
+@ザクシャ万里花・小
+MRK/MRK0019300
+Is that so? ♪[nl]Well then, thank you for your time.
+RAK/RAK0082510
+(What's with her?[nl] She's usually a lot more pushy....)
+@イベント終了処理
+common.asb

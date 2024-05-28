@@ -1,0 +1,126 @@
+__main
+@Lclearscreenall
+@mrk_111
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0076510
+Hahh....
+MRK/MRK0013430
+What's wrong, Raku dearest?[nl]That was quite the sigh....
+@expose
+MRK/MRK0013440
+Oh, the promise pendant.[nl]It's still broken, if I remember correctly....
+RAK/RAK0076520
+Yeah. I couldn't get at what's inside,[nl]so I had one of Shuu's friends take a look at it....
+RAK/RAK0076530
+And Shuu just told me that it still might take a while longer.
+@スクリーン変更2
+RAK/RAK0076540
+(A promise I made a long time ago,[nl] to marry a girl whose face I can't even remember....)
+RAK/RAK0076550
+(And then 10 years later, we finally meet again....[nl] The girl who has the key from back then....)
+RAK/RAK0076560
+(...."girls", plural, that is.)
+@背景変更
+CTG/CTG0023090
+What, you haven't gotten that pendant fixed yet?
+RAK/RAK0076570
+You say that like it isn't your problem.[nl]It's your fault for turning your key so hard.
+CTG/CTG0023100
+Ngh.... I-I'm sorry.
+MRK/MRK0013450
+But, until the pendant is repaired,[nl]we can't figure out which of these keys is the real one....
+KSK/KSK0018110
+That's right.....[nl]We know I have a key....
+CTG/CTG0023110
+And, um, so do I....
+MRK/MRK0013460
+And, most importantly, so do I. ♪
+CTG/CTG0023120
+Hang on! Why are you "most important"!?
+MRK/MRK0013470
+Everyone knows the real winner is the last to appear.[nl]And you, Kirisaki, are just a foil to set me up for success.
+CTG/CTG0023130
+Who's the foil here!?[nl]Kosaki, tell her what you think of that!
+KSK/KSK0018120
+Huhh!? I-I, umm....
+MRK/MRK0013480
+Kirisaki, aren't you ruled out because your key broke?
+CTG/CTG0023140
+Heheh. ♪　Did you forget?[nl]My key was perfectly repaired, as you can see.
+MRK/MRK0013490
+Mrgh....[nl]It was fixed quite well.
+MRK/MRK0013500
+But, Raku dearest, which of our keys do *you* think is real?[nl]Of course, you know it's mine.
+RAK/RAK0076580
+(Let's see....)
+Tachibana has the real key
+Chitoge has the real key
+Onodera has the real key
+I don't know
+RAK/RAK0076590
+Tachibana, I think you've got the real key.
+MRK/MRK0013510
+R - I - G - H - T!?
+@ザクシャ万里花・中
+CTG/CTG0023150
+Rrrgh.[nl]That smug look really pisses me off....
+KSK/KSK0018130
+Hahaha....
+RAK/RAK0076600
+I'm just saying it's possible.[nl]We don't know for sure whose it is until we open it.
+RAK/RAK0076610
+Well, let's see....[nl]I think I'm gonna say Honey's key is the real one.
+@expose2
+CTG/CTG0023160
+O-Ohhh. You sure know what you're talking about....
+@ザクシャ千棘・中
+MRK/MRK0013520
+Rrrrgh....
+RAK/RAK0076620
+(I can feel Claude watching us through the window....!)
+CLD/CLD0002520
+Hmm....
+RAK/RAK0076630
+W-Well.... Maybe Onode--
+@ザクシャ小咲・中
+KSK/KSK0018140
+Huh?
+RAK/RAK0076640
+No, definitely Honey's, yeah!
+KSK/KSK0018150
+H-Huh....?
+CTG/CTG0023170
+Oh, right?[nl]See, you know!
+RAK/RAK0076650
+If I knew that, we wouldn't be having any of this trouble.[nl]I'm sorry, but I honestly don't know.
+MRK/MRK0013530
+Hmmm, I guess.
+MRK/MRK0013540
+Then how about we fight for all 3 keys, winner-takes-all?
+MRK/MRK0013550
+We'll have a fierce battle royale,[nl]spilling blood all over the ground until someone gets all the keys!
+KSK/KSK0018160
+Do I have to fight too!?
+RAK/RAK0076660
+Hey, hey! I'll do what I can to[nl]get the pendant fixed, so calm down!
+RAK/RAK0076670
+Shuu's got a friend who knows how to fix it.[nl]Maybe we can work something out.
+MRK/MRK0013560
+Hehe. That would be fine, then.
+MRK/MRK0013570
+To be honest, whether or not I was the one you made the promise to,[nl]as long as I end up marrying you in the end, I'll be fine!
+RAK/RAK0076680
+How can you say something like that so openly....
+KSK/KSK0018170
+Y-Yeah.... It's amazing.
+CTG/CTG0023180
+I'm pretty astonished too, past the point of being appalled.
+MRK/MRK0013580
+If that's how you feel, you should leave my darling Raku[nl]and then he and I can get married!
+CTG/CTG0023190
+That's totally separate!
+MRK/MRK0013590
+Jeez, you're stingy....
+@イベント終了処理
+common.asb

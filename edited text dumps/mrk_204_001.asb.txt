@@ -1,0 +1,26 @@
+__main
+@Lclearscreenall
+@mrk_204
+@イベント開始処理
+@定型ＢＧＭ再生
+MRK/MRK0018670
+Raku dearest, Raku dearest, Raku dearesssst!
+RAK/RAK0081720
+Waaagh!? Isn't it a bit early to be doing that?
+MRK/MRK0018680
+Raku dearest, you haven't been paying very much[nl]attention to me lately....so I've been feeling neglected.
+RAK/RAK0081730
+Really?[nl]I hadn't meant it like that....
+@expose
+MRK/MRK0018690
+Well then, will you please make some time for me[nl]in the future?
+RAK/RAK0081740
+O-Okay. I will, I will![nl]I'll hang out with you sometime.
+MRK/MRK0018700
+Thank you so much![nl]Well, just let me know anytime.
+MRK/MRK0018710
+Until then....
+RAK/RAK0081750
+She's as proactive as always....
+@イベント終了処理
+common.asb

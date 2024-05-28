@@ -1,0 +1,14 @@
+__main
+@Lclearscreenall
+@mrk_210
+@イベント開始処理
+RAK/RAK0074080
+Hm, an email?
+MRK/MRK0019000
+RAK/RAK0082180
+An email of thanks, huh.[nl]Tachibana's sure conscientious.
+MRK/MRK0019010
+RAK/RAK0082190
+That's my homework, huh....[nl]I guess I'll have to finish it someday.
+@ザクシャ万里花・小
+common.asb

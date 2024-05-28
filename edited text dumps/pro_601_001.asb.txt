@@ -1,0 +1,121 @@
+__main
+@Lclearscreenall
+@pro_601
+@ヌキアシ終了処理
+@背景変更
+RAK/RAK0034950
+(...Hmm? Where's Claude?[nl]Did he have some kind of urgent business?)
+RAK/RAK0034960
+(Whatever. Let's get the hell home.)                   
+@フェードアウト500
+RAK/RAK0034970
+Fwah~, another exhausting day.
+RAK/RAK0034980
+(But why the hell did Claude come inside the school[nl]today...? Usually, he just sits on a tree or something[nl]and watches us with binoculars.)                            
+RAK/RAK0034990
+(That's pretty weird, but...)                  
+@フェードアウト1000
+RAK/RAK0035000
+I'm ho--
+CLD/CLD0001770
+Welcome back.   
+@ＢＧＭ再生
+RAK/RAK0035010
+Gwahhhhh-!!!!                      
+CLD/CLD0001780
+Jeez. You're a cold bastard, running away like that.   
+RAK/RAK0035020
+C-C-Claude![nl]Why the hell are you here!?                              
+CLD/CLD0001790
+Hmm? Claude? 
+CLD/CLD0001800
+Oh, yeah. I forgot to change back. One sec.          
+@ＢＧＭ停止
+RAK/RAK0035030
+Huh? You're Otama!?[nl]Whaaaaaaaaaaaaat?!?!?                         
+OTM/OTM0003300
+Thou were not believing what I was telling thee,[nl]so I picked some dork at random near the school[nl]and changed form to scare thee.                                    
+@expose
+OTM/OTM0003310
+How's that? Cool, right?
+RAK/RAK0035040
+Cool.... what, who....[nl]I'm so surprised, I don't know what to say...                      
+RAK/RAK0035050
+You... really aren't human, are you...
+OTM/OTM0003320
+So thou finally believest.[nl]Boy, thou sure took thy time.
+RAK/RAK0035060
+I believe it all right, but....[nl]...Why are you at my house, exactly?
+OTM/OTM0003330
+Mhm. There's something here I want.
+OTM/OTM0003340
+I shall be living here for around a month,[nl]starting today, mkay?
+RAK/RAK0035070
+Huh...?
+OTM/OTM0003360
+Thy inari sushi was heavenly. Unforgettable.[nl]I want to eat more. So let me stay here.                                     
+RAK/RAK0035080
+Y-you can't stay here![nl]Go back to the shrine!  
+OTM/OTM0003370
+But it's boring at the shrine! No one ever visits,[nl]or comes to worship, or anything! You knucklehead!
+RAK/RAK0035090
+Reversed anger!?
+OTM/OTM0003380
+Just go make me some inari sushi!             
+RAK/RAK0035100
+Damn, she's really not backing down...        
+OTM/OTM0003390
+If thou canst understand me,[nl]nod like an adult.
+OTM/OTM0003400
+Use thy imagination. The incarnation of divine favor[nl]is sitting in front of thee, mkay?
+OTM/OTM0003410
+In fact, I can arrange a relationship between the[nl]and the "special someone" thou art thinking of...[nl]Mwehehe...
+RAK/RAK0035110
+N-no, don't![nl]I can do that myself, thank you!
+OTM/OTM0003420
+Is that a fact? Well, I guess it is up to thee,[nl]after all...
+OTM/OTM0003430
+Anyway, I'll be here for a month.[nl]If thou changeth thy mind, feel free to[nl]worship me.
+RAK/RAK0035120
+Has it already been decided that you will live here!?
+OTM/OTM0003450
+Please let me live here!
+RAK/RAK0035130
+--------
+RAK/RAK0035140
+You're putting a lot of effort into this.
+RAK/RAK0035150
+It's just too much to defy a goddess...[nl]I guess... Only for a month, though. Okay?
+OTM/OTM0003460
+Mhm, mhm!
+RAK/RAK0035170
+However! Don't let Dad or Ryuu see you![nl]And don't show yourself in public![nl]That's the deal. Okay?
+OTM/OTM0003470
+I'll remember that.
+OTM/OTM0003480
+Mm-hmm, now that I hath secured lodging in this world,[nl]the only thing left to do is to fulfill my goal.
+RAK/RAK0035180
+Goal? Are you up to something?
+OTM/OTM0003490
+Why dost thou even care? It's hardly a big deal.
+OTM/OTM0003500
+There are many, many more important things than my goal.[nl]Listen with thy heart.
+RAK/RAK0035190
+Ehh.... L-like what?
+OTM/OTM0003510
+Like flipping the tofu upside-down when making inari sushi.[nl]I prefer it that way.
+.........
+RAK/RAK0035200
+........Is that important?
+OTM/OTM0003520
+Mm-hmm. Don't forget it.
+OTM/OTM0003530
+Well then, thou shalt take care of me for the next month.[nl]Raku.
+RAK/RAK0035210
+Got it, got it.[nl]Welcome to my house, Otama.
+RAK/RAK0035220
+(Jeez... Now I'm stuck with this weirdo for a whole month.)
+RAK/RAK0035230
+(A whole month, huh?[nl]I hope nothing bad happens...)  
+@イベント終了処理
+common.asb

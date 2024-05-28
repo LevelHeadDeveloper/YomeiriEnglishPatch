@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@mrk_213
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0008320
+Raku, Raku. ♪
+RAK/RAK0082340
+Hm? Otama.[nl]You seem to be in a good mood.
+OTM/OTM0008330
+Mwehehe. Actually, I hath found something nice.
+RAK/RAK0082350
+Something nice? What'dja find?
+@expose2
+OTM/OTM0008340
+Thou wisheth to knooww?[nl]Shall I teeelllll yoouuu?
+RAK/RAK0082360
+....No, never mind.
+OTM/OTM0008350
+Come on, ask me![nl]I am simply *itching* to tell thee about it!
+RAK/RAK0082370
+You should have said so from the start.[nl]So, what did you find?
+OTM/OTM0008360
+At the de-part-ment store,[nl]I found some delightfully silky fried tofu!
+RAK/RAK0082380
+The department store?[nl]You went there by yourself?
+OTM/OTM0008370
+Naturally.[nl]It was melt-in-thy-mooouuuth ♪ kind of stuff.
+RAK/RAK0082390
+Did you sneak into the free-sample corner of the store?
+@expose
+OTM/OTM0008380
+Melt-in-thy-mooouuuth. ♪[nl]Yeah.
+RAK/RAK0082400
+....I have a lot of questions, but so?[nl]Why bring up this fried tofu?
+OTM/OTM0008390
+I want to eat a lot more of it.
+RAK/RAK0082410
+I see, so you want me to buy you some?
+OTM/OTM0008400
+Mhm!
+RAK/RAK0082420
+Why me?
+OTM/OTM0008410
+Because I want some!
+RAK/RAK0082440
+Hahh....[nl]If I'm gonna be forced to buy it anyway.... Alright.[nl]I'll get you some this weekend, okay?
+OTM/OTM0008420
+That's my Raku for you!
+@イベント終了処理
+common.asb

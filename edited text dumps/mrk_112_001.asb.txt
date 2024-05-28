@@ -1,0 +1,72 @@
+__main
+@Lclearscreenall
+@mrk_112
+@イベント開始処理
+MSA/MSA0000440
+This is an incident, right?
+WSA/WSA0000250
+They've got us completely surrounded.
+RAK/RAK0076690
+Hm? It's getting pretty noisy....
+CTG/CTG0023200
+Everyone's looking out the window,[nl]what's going on out there?
+RAK/RAK0076700
+Let's see.
+RAK/RAK0076710
+....Gah!?
+@フェードアウト
+@ＢＧＭ再生
+@背景変更
+HND/HND0000690
+Division 4 is guarding the back gate. Division 6, we'd[nl]like you to patrol the area around the school.
+PLA/PLA0000010G
+Yes, ma'am!
+@背景変更2
+RAK/RAK0076720
+What the hell's going on!?
+CTG/CTG0023210
+The police....!?[nl]Why are they surrounding the school!?
+RAK/RAK0076730
+Maybe there's some really big incident around here!
+@expose
+CTG/CTG0023220
+M-Maybe.... It's because of us?
+RAK/RAK0076740
+Gasp....![nl]Did our guys and the Beehive[nl]start fighting without us knowing!?
+CTG/CTG0023230
+The whole school's on alert![nl]That has to be it! Let's hurry up and stop them!
+RAK/RAK0076750
+Ghh! Dad, Ryuu....![nl]I'm begging you, don't do anything rash!
+MRK/MRK0013600
+Oh. It looks like divisions 4 and 6 are off today.
+RAK/RAK0076760
+Huh....?
+MRK/MRK0013610
+Jeez, I told them so many times they don't need to[nl]guard me *this* tightly....
+CTG/CTG0023240
+Hey....[nl]Does this have something to do with you?
+MRK/MRK0013620
+It does.[nl]These officers voluntarily guard me on their days off of work.
+RAK/RAK0076770
+That's too high of an alert....
+CTG/CTG0023250
+And here we were misunderstanding the whole situation.[nl]You're a real pain.
+MRK/MRK0013630
+I do apologize.[nl]I will reprimand them later, so please be patient for today.
+MRK/MRK0013650
+But there are less of them now than there used to be.
+MRK/MRK0013660
+Back in elementary school, the entire police force[nl]for the prefecture used to come and greet me.
+MRK/MRK0013670
+Thanks to that, our neighborhood had[nl]zero crime for six years. ♪
+CTG/CTG0023270
+I don't know if that's....a good thing or a bad thing.
+MRK/MRK0013680
+Do be careful, Raku dearest.[nl]These people think you're a bad man who dumped me.
+RAK/RAK0076790
+Huh!? Are the police watching me!?
+@ザクシャ万里花・小
+MRK/MRK0013690
+If you don't hurry up and marry me,[nl]it's possible you'll get arrested....perhaps. ♪[nl]Hehe.
+@イベント終了処理
+common.asb

@@ -1,0 +1,68 @@
+__main
+@Lclearscreenall
+@mrk_118
+@イベント開始処理2
+@ＢＧＭ再生
+CTG/CTG0023420
+...So yeah, Kosaki![nl]That puppy on TV last night was soooo cute!
+KSK/KSK0018220
+Oooh, really?[nl]I missed it, I was in the bath at the time.
+CTG/CTG0023430
+Hahaha, you take super long baths, Kosaki.
+KSK/KSK0018230
+Awww. That's not true.
+MRK/MRK0014580
+Mghh....[nl]Kirisaki's talking to Onodera again.
+MRK/MRK0014590
+But I also wanted to talk to her.
+RAK/RAK0077700
+Hm? Then you can just go up and talk to her, no worries.
+@expose
+MRK/MRK0014600
+But when Kirisaki's around, it's far too easy to start fighting.[nl]I'll talk to Onodera at a more peaceful time.
+RAK/RAK0077710
+Ohh, I didn't think you cared about that sort of thing.[nl]I'm surprised you care that much.
+MRK/MRK0014610
+Of course I do, Raku dearest.[nl]What kind of person did you take me for?
+RAK/RAK0077720
+W-Well.... I mean....[nl]Hahaha....
+RAK/RAK0077730
+(How can I say that I've only seen her taking an interest[nl] in me and that she doesn't seem to have many friends....?)
+RAK/RAK0077740
+But I really don't think you need to worry[nl]about that at all.
+MRK/MRK0014620
+Yes, I do.
+MRK/MRK0014630
+Whenever I open my mouth around her, we always[nl]end up fighting over you, so we just don't get along[nl]at all.
+RAK/RAK0077750
+Maybe if you were a little more mature,[nl]it would be easier to get along with her....
+MRK/MRK0014640
+Raku dearest. You can't make the most of your youth[nl]by just sitting around. You gotta fight and earn it!
+RAK/RAK0077760
+But your fighting is gonna get me caught in the crossfire!
+MRK/MRK0014650
+But it's not as though I really like fighting either!
+MRK/MRK0014660
+First of all, it's like I *dislike* Kirisaki, per se.
+RAK/RAK0077770
+Huh? Really?
+MRK/MRK0014670
+She's a foul-mouthed, short-tempered woman who isn't[nl]feminine in the slightest, and yet she has the audacity to call herself[nl]your girlfriend.
+........
+MRK/MRK0014680
+....But over the last few months,[nl]I've discovered that she's not really a bad person.
+MRK/MRK0014690
+If only she wasn't dating you, Raku dearest,[nl]we might actually be able to be friends.
+RAK/RAK0077780
+I didn't think you thought about her that way.[nl]Chitoge would be so surprised.
+@ザクシャ万里花・小
+MRK/MRK0014700
+Well, that's just a "what-if" scenario....
+MRK/MRK0014710
+Currently, I don't like Kirisaki one bit,[nl]and the feeling is mutual.
+MRK/MRK0014720
+We are sworn rivals. Our battle is far from over!
+RAK/RAK0077790
+Please just stop battling....
+@イベント終了処理
+common.asb

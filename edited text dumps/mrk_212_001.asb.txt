@@ -1,0 +1,31 @@
+__main
+@Lclearscreenall
+@mrk_212
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0082290
+(Mmmghh....[nl] I'm feeling pretty tired for some reason....)
+MRK/MRK0019130
+Are you feeling okay, Raku dearest?
+RAK/RAK0082300
+Yeah, just kind of sluggish....
+@expose
+MRK/MRK0019140
+That's worrisome. Would you like[nl]to head to the infirmary, just to be on the safe side?[nl]I'll even go with you, if that's okay....
+RAK/RAK0082310
+Thanks. But I don't think I need to go there.
+MRK/MRK0019150
+I see.
+MRK/MRK0019160
+In that case, have some of these candies.[nl]Sweet things are the best things for kicking fatigue.
+RAK/RAK0082320
+Oh, thanks.
+RAK/RAK0082330
+Ooh. That's perked me right up!
+@ザクシャ万里花・小
+MRK/MRK0019170
+Right? I find those nice, too.
+MRK/MRK0019180
+Well then, do take care.[nl]And take it easy, okay?
+@イベント終了処理
+common.asb

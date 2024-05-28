@@ -1,0 +1,55 @@
+__main
+@Lclearscreenall
+@mrk_214
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0052380
+Next period is P.E.[nl]I'd better hurry up and change.....
+@背景変更
+MRK/MRK0019190
+Gueeeeeessss whooooo?
+RAK/RAK0052390
+Aaagh!
+MRK/MRK0019200
+Guessss whooo?
+RAK/RAK0052400
+....Who, of course, could that be besides---
+Chitoge?
+Onodera?
+Tsugumi?
+Tachibana?
+RAK/RAK0052460
+Chitoge, cut the nonsens--
+MRK/MRK0019230
+----
+RAK/RAK0082470
+Gah!? Tachibana....!
+@expose
+MRK/MRK0019240
+How terrible, Raku dearest....[nl]How could you mistake me for Kirisaki, of all people?
+RAK/RAK0060180
+I got it. Onodera, right?
+RAK/RAK0082450
+T-Tachibana, right?
+MRK/MRK0019210
+Corrrrrreeeect!
+@ザクシャ万里花・大
+@expose2
+MRK/MRK0019220
+That's my darling Raku! ♪[nl]You know my voice so well!
+RAK/RAK0082460
+Well, I guess that's true, at the very least....
+RAK/RAK0052490
+T-Tsugumi? I'll bet you're trying to attack from behind!
+MRK/MRK0019250
+Even if it's not her,[nl]I can still get behind you, right?
+MRK/MRK0019260
+Raku dearest, am I the kind of person[nl]whose voice you can't even remember....?
+RAK/RAK0052500
+S-Sorry....[nl]I was thinking about who it could be,[nl]and somewhere along the way, I made a mistake....
+MRK/MRK0019270
+Hahhhh.....
+RAK/RAK0082480
+(Gaah, I think I messed up....)
+@イベント終了処理
+common.asb

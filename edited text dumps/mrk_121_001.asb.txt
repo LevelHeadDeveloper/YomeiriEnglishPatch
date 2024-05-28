@@ -1,0 +1,80 @@
+__main
+@Lclearscreenall
+@mrk_121
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0015110
+Raku dearest! What are you doing here?
+RAK/RAK0078100
+I heard you had to go to the infirmary,[nl]so I came to visit you.
+@expose
+MRK/MRK0015120
+Well, how about that! I'm glad you came for me!
+MRK/MRK0015130
+But don't worry.[nl]I'm not as sick as you are worried about me, Raku dearest.
+RAK/RAK0078110
+I see. That's good to hear....
+RAK/RAK0078120
+(....Why is she acting so tough here?)
+MRK/MRK0015140
+I don't want us to be standing for too long while we talk,[nl]so please sit down. I'll get us some tea.
+RAK/RAK0078130
+Huh....?
+MRK/MRK0015150
+I left some tea here the other day, and those[nl]cookies the other students brought as a gift are under the shelf.[nl]Ah, here they are.
+RAK/RAK0078140
+Hey, don't just take those out without permission.[nl]Won't the nurse get mad?
+MRK/MRK0015160
+It's fine. She's not the kind of nurse[nl]to get mad over something like this.
+MRK/MRK0015170
+Oh, come to think of it, she also asked me to[nl]refill the gauze and disinfectant for her! Let's do that now.
+RAK/RAK0078150
+A give-and-take kind of relationship, huh.
+MRK/MRK0015180
+The nurse is in a meeting right now and won't be back for a while.[nl]So please, make yourself at home.
+RAK/RAK0078160
+So this is your house.
+MRK/MRK0015190
+Hmmm.... Actually, I think I spend the third-most time here,[nl]behind my actual home and the classroom.
+MRK/MRK0015200
+The nurse told me I could come in whenever I wanted,[nl]regardless of whether or not I'm feeling well.[nl]We usually have a pretty good chat.
+RAK/RAK0078170
+Wow, sounds like you're getting along great.
+MRK/MRK0015210
+Yes. She's quite the kind and wonderful nurse.
+RAK/RAK0078180
+(It's rare to hear Tachibana talk this way about someone.)
+RAK/RAK0078190
+(Gotta say I'm surprised....[nl] But it looks like she interacts with people other than us,[nl] which is a bit of a relief.)
+MRK/MRK0015220
+Of course, Raku dearest, we never talk about[nl]anything but you, so don't worry. ♪
+@ザクシャ万里花・中
+RAK/RAK0078200
+....The nurse has it rough.
+MRK/MRK0015230
+Oh, Raku dearest. If you look closely,[nl]wouldn't you say your face looks a bit pale?
+RAK/RAK0078210
+Huh, really?[nl]I'd say I feel just fine....
+MRK/MRK0015240
+No, my eyes never lie![nl]There is nothing pertaining to my darling Raku[nl]that slips past my eyes!
+RAK/RAK0078220
+Ahhh, I see....
+MRK/MRK0015250
+So please, drink this.
+RAK/RAK0078230
+What's this? Medicine?
+MRK/MRK0015260
+Just a little supplement.[nl]There's nothing weird in it.
+RAK/RAK0078240
+I guess I'll take it, if you insist.
+@ザクシャ万里花・小
+MRK/MRK0015270
+Yes, it's white broth.
+RAK/RAK0078250
+Ohh, very well prepared.
+RAK/RAK0078260
+Oh? I suddenly feel like I'm getting better.
+MRK/MRK0015280
+Hehehe, it's quite the special supplement.
+@イベント終了処理
+common.asb

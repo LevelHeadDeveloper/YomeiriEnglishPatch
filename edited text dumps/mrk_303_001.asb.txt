@@ -1,0 +1,232 @@
+__main
+@Lclearscreenall
+@mrk_303
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0081100
+Jeez, why do I have to go all the way to the shrine[nl]to offer this inari sushi when the one we're offering it to[nl]is right here?
+OTM/OTM0008160
+Thou understandeth not.
+OTM/OTM0008170
+A meal isn't just how the food tasteth,[nl]but also where 'tis eaten and who 'tis eaten with.
+RAK/RAK0081110
+Who'd you hear that from?
+@expose
+OTM/OTM0008180
+My grandma!
+RAK/RAK0081120
+Hmmmm..... Sounds like you've got a nice grandma.
+OTM/OTM0008190
+Mhm!
+MRK/MRK0018030
+Oh my, if it isn't Raku dearest!
+MRK/MRK0018040
+To think we'd run into each other here,[nl]this must be a "chance meeting". ♪
+RAK/RAK0081130
+Y-Yeah....[nl]But we're right in front of my house....
+RAK/RAK0081140
+Hey, Otama. Stay hidden.
+OTM/OTM0008200
+Worry not, I hath already disappeared.
+MRK/MRK0018050
+Hm? Is something the matter?
+RAK/RAK0081150
+N-No. It's nothing.
+MRK/MRK0018060
+Raku dearest ♪, it's a good thing I ran into you here....[nl]If you have time, why don't we go out together?
+RAK/RAK0081160
+Well, I'm free today, so I don't mind....
+MRK/MRK0018070
+Then let's go![nl]Honda's car "just happens" to be parked nearby as well,[nl]so let's have her drive us!
+RAK/RAK0081170
+I knew it! You came here specifically to wait for me![nl]What are you up to!?
+RAK/RAK0081180
+Hahh.... We can go out,[nl]but no hugging or anything!
+MRK/MRK0018080
+What about linking arms? Holding hands?
+RAK/RAK0081190
+Not those, either! If you don't like that, I'm not going.
+MRK/MRK0018090
+Mgh.... There's too many restrictions,[nl]but I can bear with that.
+RAK/RAK0081200
+Oh, hang on a second.
+MRK/MRK0018100
+Okay.
+RAK/RAK0081210
+Hey, Otama.[nl]You think you can get back to my room by yourself?
+OTM/OTM0008210
+No way. I shall follow thee.
+......
+RAK/RAK0081220
+You sure? You won't mess with me or anything?
+OTM/OTM0008220
+Of course I shan't. ♪
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+RAK/RAK0081230
+So, by "going out", you meant clothes-shopping?
+MRK/MRK0018110
+Yes! I thought I'd take this opportunity[nl]to investigate your tastes.
+MRK/MRK0018120
+Please don't worry. We're only window shopping.[nl]You're coming with me, right?
+RAK/RAK0081240
+Yeah, okay.
+MRK/MRK0018130
+Then why not start with a swimsuit?[nl]Raku dearest, please choose a swimsuit you think is cute.
+RAK/RAK0081250
+Why are we starting there!?[nl]Summers over, we don't need swimsuits!
+@expose2
+MRK/MRK0018140
+You don't know that for sure.[nl]There's always the possibility that we'll go somewhere[nl]far out to the sea.
+MRK/MRK0018150
+Or rather, we might elope there!
+RAK/RAK0081260
+No! Let's just get something geared more towards[nl]fall or winter, okay?
+MRK/MRK0018160
+Mmmmmgh.... The way you put it has me second-guessing.[nl]From the beginning, I'd planned to start with swimsuits, and I even[nl]went out of my way to find a store that sells them....
+RAK/RAK0081270
+I don't understand your approach at all....
+OTM/OTM0008230
+Rakuuu. This swimsuit looketh like a piece of string.[nl]How art thou supposed to put it on?
+RAK/RAK0081280
+Hey! You're too young for that![nl]Leave it alone!
+MRK/MRK0018170
+So you have a taste for Brazilian bikinis, Raku dearest....
+RAK/RAK0081290
+Huh!? N-No! It's just--!
+MRK/MRK0018180
+Do you think you can wait maybe 3....no, 2 more years[nl]so I can wear that perfectly?
+RAK/RAK0081300
+....You don't need to wear that in two years, okay?
+@時間経過演出
+MRK/MRK0018190
+If you're gonna reject the swimsuit, then next....[nl]Why don't we pick out some clothes for you, Raku dearest?
+MRK/MRK0018200
+We don't need to buy them,[nl]let's just try a bunch of different clothes on you!
+RAK/RAK0081310
+No, I'm good.[nl]That kind of thing is embarrassing....
+MRK/MRK0018210
+No, Raku dearest! Remember, you're dating Kirisaki, right?[nl]....It hurts so much to say that myself.
+MRK/MRK0018220
+But anyway, I'm sure Kirisaki is dressed up nicely[nl]whenever you go out, and if you dress too perfunctorily,[nl]I'd feel bad for her.
+RAK/RAK0081320
+Ohh, that's a surprise.[nl]I didn't think you'd be thinking about Chitoge like that.
+MRK/MRK0018230
+Well, to be honest, I don't care about Kirisaki at all.[nl]I just want to see you in different outfits.
+RAK/RAK0081330
+Yeah. That's more what I expected.
+MRK/MRK0018240
+Well, shall we find some clothes that will look good on you?[nl]I'll be on the lookout!
+MRK/MRK0018250
+Let's start with this![nl]Tuxedo Raku Dearest. ★
+RAK/RAK0081340
+I tried my best to change into it, but....[nl]It's different from a regular suit, and this is a little[nl]embarrassing.
+MRK/MRK0018260
+Woaaaah![nl]What are you talking about, Raku dearest!?[nl]It suits you super well!
+OTM/OTM0008240
+Mhm. I suppose fine feathers *do* make fine birds.
+MRK/MRK0018270
+*pant* *pant.....[nl]May I take a picture?
+OTM/OTM0008250
+A-A photograph!?[nl]Thou shalt be drained of thy soul!
+RAK/RAK0081350
+Hey, why are you trying to take a picture, Tachibana!?
+RAK/RAK0081360
+....And Otama! You be quiet!
+MRK/MRK0018280
+And next up![nl]Fashion at odds with Raku dearest's desire for a quiet, peaceful life....
+MRK/MRK0018290
+Punk Rock Style!
+RAK/RAK0081370
+Hey, this doesn't suit me at all!
+RAK/RAK0081380
+Why is there so much jingling stuff on here!?[nl]And what's with all the bagginess and skulls and weird spikes!?
+MRK/MRK0018300
+No, no! It's not so bad.[nl]I think you look a lot more *dangerous* than before!
+MRK/MRK0018310
+Is this what they call "wild charm"!?[nl]If Raku dearest was by my side, I'm sure I'd awaken to all kinds of things!
+OTM/OTM0008260
+'Tis a wonderful world,[nl]putting skulls in fashion like this....
+RAK/RAK0081390
+Cut it out! I'm not gonna wear this again!
+MRK/MRK0018320
+And last but not least, Gyaruo Style! To be honest, I don't[nl]think this one fits your clean image.... but I'll give it a try. ♪[nl]#fs{12}TN: "Gyaruo" is the male equivalent of "gyaru", a Japanese fashion subculture.#fs{}
+RAK/RAK0081400
+....You're playing with me, aren't you?
+MRK/MRK0018330
+Don't be absurd.[nl]Now, show us what you look like!
+RAK/RAK0081410
+It's kinda....cramped. There's a lot of padding.
+RAK/RAK0081420
+It's also got a lot of zebra patterns,[nl]and it's also jingling and has skulls on it again.
+MRK/MRK0018340
+Oh, myyy....[nl]You look even more like a bad boy than I expected....
+OTM/OTM0008270
+Bahahahahahahaha!
+MRK/MRK0018350
+Oh, but there's something....[nl]Some mysterious charm about you that makes me feel[nl]like you'd lose your way without me.
+MRK/MRK0018360
+Don't worry, even if you go down this path, Raku dearest,[nl]I can still love you! Now I'm sure of that!
+RAK/RAK0081430
+You're really just cool with anything, aren't you!
+OTM/OTM0008280
+Wahahahaha!
+RAK/RAK0081440
+And *you'll* laugh at anything!
+MRK/MRK0018370
+Hehe....[nl]I had a good time seeing so many Raku dearests today.
+RAK/RAK0081450
+That's good....[nl]I was just tired of changing clothes so many times.
+MRK/MRK0018380
+In the end, you didn't buy a single piece of clothing.
+RAK/RAK0081460
+Naturally. I didn't want any of it,[nl]and it was all too expensive.
+RAK/RAK0081470
+But didn't you do the same thing?[nl]You didn't buy anything, but you're happy?
+MRK/MRK0018390
+There weren't any clothes I wanted, either.
+MRK/MRK0018400
+Besides, I enjoyed watching you try on clothes more,[nl]Raku dearest, so I was satisfied. I'm just happy to spend time with you.
+RAK/RAK0081480
+How can you say that without being embarrassed?
+MRK/MRK0018410
+I couldn't say those words for 10 whole years.[nl]I can say them as much as I want, okay?
+RAK/RAK0081490
+Even so, though....[nl]I'm still not sure how I'm supposed to respond.
+MRK/MRK0018420
+Do you not like it?
+RAK/RAK0081500
+Uhh.... It's not as though I don't like it.[nl]....I'm just kind of at a loss.
+MRK/MRK0018430
+Then, for now, please take it in stride.[nl]I don't need an answer immediately.
+RAK/RAK0081510
+I see....[nl]I guess if you're okay with it, I'd be glad to oblige....
+MRK/MRK0018440
+Yes.
+MRK/MRK0018450
+Well then, if you'll excuse me.
+RAK/RAK0081520
+Oh, it's this late already....
+HND/HND0000920
+Alright, Mistress, please head to the car.
+RAK/RAK0081530
+Honda, when did you....
+OTM/OTM0008290
+She hath been behind us the whole day.
+RAK/RAK0081540
+Seriously....
+MRK/MRK0018460
+Well then, Raku dearest,[nl]I hope you enjoy the rest of your day.
+RAK/RAK0081550
+Okay, see you, Tachibana.
+OTM/OTM0008300
+What a lovely girl.
+RAK/RAK0081560
+....Yeah.
+OTM/OTM0008310
+Shall we go back, too?[nl]To our house.
+RAK/RAK0081570
+It's *my* house.
+@イベント終了処理
+common.asb

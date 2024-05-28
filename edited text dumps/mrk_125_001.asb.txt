@@ -1,0 +1,146 @@
+__main
+@Lclearscreenall
+@mrk_125
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0015940
+Hey, Raku dearest, have you heard it?[nl]The story....
+RAK/RAK0079130
+The story? The heck is that?
+@expose
+MRK/MRK0015950
+The story, it's the story!
+@expose2
+MRK/MRK0015960
+I'm so scared I'm shaking![nl]Help meee, Raku dearest!
+@pan
+RAK/RAK0079140
+Woah!
+MRK/MRK0015970
+Mgh....[nl]Raku dearest, you've gotten faster.[nl]That's frustrating.
+CTG/CTG0023450
+Hey! Were you trying to hug him just now in his confusion!?
+KSK/KSK0018250
+What's this "story" you kept talking about?
+MRK/MRK0015980
+Oh, so neither of you have heard "the rumor"?
+RAK/RAK0079150
+Rumor?
+MRK/MRK0015990
+Yes....[nl]One of our school's Seven Wonders,[nl]a tale too terrible to tell....
+CTG/CTG0023460
+Huh...!?[nl]There's a rumor like that!?
+KSK/KSK0018260
+Come to think of it, there's been a lot of rumors lately.[nl]Why so many all of a sudden....?
+CTG/CTG0023470
+I-I don't really like stories like this.[nl]....Well, let's move on.
+@ＢＧＭ停止
+MRK/MRK0016000
+....Right.[nl]So, it's about what one of the girls in the art club saw....
+CTG/CTG0023480
+Why are you whispering it into my ear!?
+RAK/RAK0079160
+(You say it's too horrible to tell,[nl] but then you end up telling it anyway....
+@フェードアウト
+@背景変更
+MRK/MRK0016010
+This girl stayed every day after school to paint[nl]for an upcoming painting competition....
+MRK/MRK0016020
+On that day, she'd even asked her teacher[nl]if she could stay past the final bell to put the[nl]finishing touches on her project.
+MRK/MRK0016030
+She had her painting on the easel in front of her,[nl]and the bust she was working from was sitting[nl]on the teacher's desk....
+MRK/MRK0016040
+It was pitch-dark out by now, and the girl was painting[nl]away single-mindedly. The only sound to be heard was[nl]her brush stroking the canvas....
+MRK/MRK0016050
+But then, as she stopped to rest her hand,[nl]she heard a sound from behind her....
+MRK/MRK0016060
+"Whooo, whooo.....", someone was heard to moan.
+CTG/CTG0023490
+----!
+MRK/MRK0016070
+The sound caught her attention,[nl]so she turned around, and then....
+KSK/KSK0018270
+A-And then....?
+MRK/MRK0016080
+....She saw it.
+MRK/MRK0016090
+Moaning and wailing, with red tears running down its face....[nl]was a Mona Lisa with a horrible face!
+MRK/MRK0016100
+Kyaaaaah!
+@叫び揺れ
+CTG/CTG0023500
+Gaaaaaahhh!
+KSK/KSK0018280
+C-Chitoge, are you okay!?
+MRK/MRK0016110
+I'm scared, Raku dearessst![nl]Hold me in your armssss!
+RAK/RAK0079170
+That's a weird way to react when[nl]you're the one who told the story.
+MRK/MRK0016120
+No, no. Numerous other students have heard the Mona Lisa voice.
+MRK/MRK0016130
+I can't just walk around this scary school by myself![nl]I need you to stay by my side at all times, please!
+RAK/RAK0079180
+You're not really scared, are you?
+MRK/MRK0016140
+Of course I am. I'm a refined maiden.[nl]Of course I'd be afraid of a ghost or two, right?
+RAK/RAK0079190
+I doubt a scared girl would brush off ghosts as[nl]"just one or two".
+RAK/RAK0079200
+This seems about typical for you two.
+CTG/CTG0023510
+....Huh?[nl]F-For me!?
+CTG/CTG0023520
+I-I-I don't believe Marika's story at all![nl]I'm not even a bit scared!
+CTG/CTG0023530
+You'd have to be a real child to fall for such[nl]a childish prank!
+KSK/KSK0018290
+Chitoge....let's wipe those tears off first, okay?
+MRK/MRK0016150
+Well then, Raku dearest.If you must insist on not believing[nl]me, how about we go on a test of courage at some[nl]point in the near future?
+MRK/MRK0016160
+That way, I can prove to you[nl]that I'm a bona fide coward. ♪
+RAK/RAK0079210
+(She's lying, 200%....[nl] But I'm not sure.)
+I don't mind doing that
+Sounds like a pain....
+RAK/RAK0079220
+A test of courage, huh....[nl]I wouldn't mind one of those.
+@ザクシャ万里花・中
+MRK/MRK0016170
+Hehehe. Promise?
+CTG/CTG0023540
+H-Hang on! What the hell are you saying!?[nl]Raku's got no business going along with that nonsense!
+MRK/MRK0016180
+No, this matter is between myself and Raku dearest.[nl]You should be cowering in the corner of the classroom[nl]right now, Kirisaki.
+CTG/CTG0023550
+What'dja say to me!?
+RAK/RAK0079230
+You guys need to stop fighting all the time....
+RAK/RAK0079240
+No way.[nl]A test of courage sounds like a pain in the ass.
+CTG/CTG0023560
+Y-Yeah![nl]I'm sure you heard that ghost story wrong, too!
+MRK/MRK0016190
+Is that a fact?[nl]If you're so incredulous, perhaps *you'll* come with me, Kirisaki?
+CTG/CTG0023570
+Gulp! W-Well....
+MRK/MRK0016200
+You don't want me and my darling Raku to be alone together, right?
+MRK/MRK0016210
+Or maybe you're still too scared?
+CTG/CTG0023580
+S-S-S-Shut up![nl]That bean sprout can do whatever, for all I care![nl]Go ahead and do your test of courage or whatever, why don't you!?
+RAK/RAK0079250
+(What a terrible thing to say....)
+MRK/MRK0016220
+Sounds like we've got permission....right, Raku dearest?[nl]Please don't say this is too much trouble.
+@ザクシャ万里花・小
+RAK/RAK0079260
+Hahh.... Okay. It can't be helped.
+KSK/KSK0018300
+Hmmmm.....
+KSK/KSK0018310
+Does our school even have a print of the Mona Lisa?
+@イベント終了処理
+common.asb

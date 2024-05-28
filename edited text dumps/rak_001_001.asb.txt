@@ -1,0 +1,427 @@
+__main
+@Lclearscreenall
+@rak_001
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0035260
+Oh, it's this late already!?[nl]I'd better hurry up and get to school!
+RAK/RAK0035270
+Ryuu! I'm sorry, but I'll need you to clean up after breakfast!
+RYU/RYU0000910
+Certainly, young master! I'll get ya a car![nl]Heeey, get me one o' those 15-meter limousines!
+RAK/RAK0035280
+No, no, I don't need a car!
+@expose
+OTM/OTM0003760
+Raku, Raku!
+RAK/RAK0035290
+Hm....?
+RAK/RAK0035300
+Wait, huh!? You idiot![nl]I told you not to let anyone else see you!
+OTM/OTM0003770
+Whoops, that's right!
+RYU/RYU0000920
+....?[nl]I coulda sworn I saw a little girl[nl]behind the young master just now....
+RAK/RAK0035310
+M-Maybe you imagined it?
+RYU/RYU0000930
+Well, dat sounds right.[nl]There's no way there'd be a child 'ere.
+RYU/RYU0000940
+Oh, I gotta go clean up now. Young master,[nl]you run along now and don't worry 'bout a thing!
+RAK/RAK0035320
+Alright, we're good. Otama.
+OTM/OTM0003780
+Rakuuu, I am hungry.[nl]Hast thou any inari sushi?
+RAK/RAK0035330
+Haha, so that's it.
+RAK/RAK0035340
+I knew you'd say that, so I made some.[nl]Here.
+OTM/OTM0003790
+Oooh, yeah![nl]My inari sushiii! ★
+OTM/OTM0003800
+....Wait, hey![nl]Did I not tell thee to turn the fried tofu around[nl]and make this inside-out!?
+RAK/RAK0035350
+Oh, sorry, sorry. I'll do that next time.
+OTM/OTM0003810
+Jeez......nom nom....[nl]What an in-com-pe-tent young man....nom nom!
+RAK/RAK0035360
+Looks like you're enjoying it.
+ANA/ANA0000080
+Type A! Let's see what your fortune is!
+RAK/RAK0035370
+....?
+ANA/ANA0000090
+I have a hunch that today's the day to step up your love life![nl]Your lucky item is pocket tissues. ★
+RAK/RAK0035380
+Step up my love life, huh....
+RAK/RAK0035390
+If only it were that easy to make that happen[nl]with just pocket tissues, that'd be amazing.
+OTM/OTM0003820
+Nom nom nom.....hm?
+RAK/RAK0035400
+....Whoops! I've got no time!
+RAK/RAK0035410
+See ya, Otama![nl]You should get back to my room before they find you!
+@ＢＧＭ停止
+......
+OTM/OTM0003830
+Mhm.
+@時間経過演出
+RAK/RAK0035420
+Hahh....! Hahh....!
+RAK/RAK0035430
+Huh? Usually this is where Chitoge is.
+RAK/RAK0035440
+Is she running late too? I thought she was gonna[nl]beat up on me for being late, so I came running....
+RAK/RAK0035450
+@背景変更
+CTG/CTG0010170
+Aaaaaah! Moooooove!
+RAK/RAK0035460
+Waaaaagh!!
+@画面揺らし
+CTG/CTG0010180
+Owww....
+RAK/RAK0035470
+H-Heavy....
+CTG/CTG0010190
+S-Sorry, Raku! You okay!?
+RAK/RAK0035480
+You jumped over the fence again![nl]That's dangerous!
+CTG/CTG0010200
+I-I'm sorry....[nl]I'll be more careful next time.
+RAK/RAK0035490
+Huh?
+CTG/CTG0010210
+Here, take my hand....[nl]Can you get up?
+RAK/RAK0035500
+Yeah, thank you....
+RAK/RAK0035510
+(She's being awfully straightforward....)
+CTG/CTG0010220
+Huh? Hang on a second.[nl]Isn't your nose bleeding?
+RAK/RAK0035520
+Huh!? Oh, it is!
+CTG/CTG0010230
+Aagh, jeez....[nl]Here! I've got some pocket tissues, so use them!
+RAK/RAK0035530
+Thanks.
+RAK/RAK0035540
+Oh. These tissues smell like flowers.
+CTG/CTG0010240
+Oh, yeah. I think they're rose-scented.
+RAK/RAK0035550
+Mhmmm.....
+Smells good.
+That's surprising.
+RAK/RAK0035560
+They smell good. It's kind of a girly smell....
+CTG/CTG0010250
+....!!
+@ザクシャ千棘・中
+CTG/CTG0010260
+D-Don't be so creepy![nl]Come on, let's get going.
+RAK/RAK0035570
+I'm a little surprised you have these.
+CTG/CTG0010270
+What the hell do you mean!?
+RAK/RAK0035580
+I don't know. They seem kinda girly.
+CTG/CTG0010280
+CTG/CTG0010290
+T-That shouldn't be surprising![nl]Come on, let's get going.
+RAK/RAK0035590
+Yeah.
+SYU/SYU0005980
+Good morning, you two![nl]Well, well, are you gonna show us how you walk to school[nl]together every day?
+RAK/RAK0035600
+Why do you have to tease me like that again....
+SSR/SSR0010190
+But, Raku Ichijo. Why is your nose bleeding?
+SSR/SSR0010200
+Oh! Don't tell me....someone tried to attack the mistress!?
+CTG/CTG0010300
+N-Not at all, Tsugumi![nl]The thing is....
+@expose2
+SYU/SYU0005990
+A boyfriend with a nosebleed,[nl]walking to school with his girlfriend.... Hohoho, I see, I see.
+SSR/SSR0010210
+W-What on earth are you thinking!?
+SYU/SYU0006000
+Woww, congrats, Raku![nl]You've finally reached the top of the ladder of adulthood!
+RAK/RAK0035610
+Huh!?
+SSR/SSR0010220
+Wha.....
+@画面揺らし2
+SSR/SSR0010230
+WHAAAAAAAAAAAAAAAAAT!?
+CTG/CTG0010310
+Hey....Tsugumi!?
+SSR/SSR0010240
+M-Mistress....[nl]Don't tell me you did *that*....!
+RAK/RAK0035620
+That's not true at all! Hey, Shuu![nl]Stop saying such misleading things!
+SYU/SYU0006010
+Hyuck hyuck hyuck....
+SSR/SSR0010250
+R-Really?
+CTG/CTG0010320
+R-Really![nl]His nose is bleeding because, well....I bumped into him.
+SSR/SSR0010260
+I-Is that right....
+SSR/SSR0010270
+No, I'm sorry for losing my composure.[nl]Let me wipe up the spilled tea.
+Let's clean it up together.
+Chitoge, help her.
+RAK/RAK0035630
+Alright, lemme help you.[nl]Let's see, the pocket tissues I got earlier....there.
+@ザクシャ誠士郎・中
+SSR/SSR0010280
+I-It's fine! I'll take care of it myself.
+SSR/SSR0010290
+I can do this much without your help....
+RAK/RAK0035640
+Don't be shy.
+SSR/SSR0010300
+N-No, really....!?
+RAK/RAK0035650
+Chitoge, you help her.
+CTG/CTG0010330
+I guess so, but....[nl]Why should I take orders from you?
+SSR/SSR0010310
+That's right, Raku Ichijo![nl]Don't bother the Mistress! You help me!
+RAK/RAK0035660
+Huh? Me?
+RAK/RAK0035670
+Oh, well.[nl]Let's see, the pocket tissues I got earlier....there.
+SSR/SSR0010320
+W-Wait a second, w-why are you so close....!?
+RAK/RAK0035680
+....Hm? What's wrong, Tsugu--
+@ＨＰ－１０
+RAK/RAK0035690
+OOOOWWWWWWW!
+CTG/CTG0010340
+T-Tsugumi!?
+SSR/SSR0010330
+Aagh!? S-S-S-S-S-Sorry! I just....!
+RAK/RAK0035700
+Dude! Why'd you have to hit me out of nowhere like that!?
+SSR/SSR0010340
+Because when I looked up,[nl]your face was so close to mine....!
+SSR/SSR0010350
+Wait, what are you trying to make me say!?
+RAK/RAK0035720
+Whaa!? Put your weapon away![nl]First of all, did I even make you say that!?
+SSR/SSR0010360
+Uh, no....[nl]You're right. Sorry, hang on a second.
+RAK/RAK0035730
+W-What?
+SSR/SSR0010370
+I'm going to put an ice pack on you.[nl]Don't move, okay?
+SSR/SSR0010380
+....How's that?
+RAK/RAK0035740
+Oh, that's amazing.[nl]The pain's all going away pretty fast....
+SSR/SSR0010390
+It's a professional, high-end product.[nl]You can have a spare, just in case.
+RAK/RAK0035750
+Are you sure? This is one of your work tools, right?
+SSR/SSR0010400
+No problem. I still have plenty of spares.
+SSR/SSR0010410
+I'm so sorry for hurting you.[nl]Well....please just take it.
+RAK/RAK0035760
+Really?...Well, I'll accept it gratefully then!
+SYU/SYU0006020
+Yeah, yeah, nice, right? Very girly. ★[nl]I wish Seishiro would treat me, too.
+SSR/SSR0010420
+S-S-S-Shut up![nl]This was your fault to begin with!
+SSR/SSR0010430
+If you want, I can make it so you need treatment.[nl]I'm not treating you, though.
+SYU/SYU0006030
+No thank you....
+@ＢＧＭ停止
+@時間経過演出
+RAK/RAK0035770
+It was so sunny this morning,[nl]but now it's suddenly started raining.
+RAK/RAK0035780
+Ngggh, cold, cold!
+MRK/MRK0008900
+Raku deareeessst! If you're cold, I'll give you a hug!
+RAK/RAK0035790
+Whaa!? Tachibana!
+MRK/MRK0008910
+Well, come on![nl]Please let me warm you with my body heat. ★
+RAK/RAK0035800
+No! Don't just suddenly hug....
+RAK/RAK0035810
+....Wait, huh?
+RAK/RAK0035820
+Tachibana, I'm going to touch your forehead, okay?
+MRK/MRK0008920
+Hehe. If it's you, Raku dearest,[nl]you're quite welcome to touch anywhere you please,[nl]not just my forehead....
+RAK/RAK0035830
+This isn't the time for that!
+MRK/MRK0008930
+Aah!
+RAK/RAK0035840
+You've got a fever.
+MRK/MRK0008940
+....Huh?
+MRK/MRK0008950
+I-I don't at all.[nl]This is just my normal temperature.
+RAK/RAK0035850
+What are you talking about?[nl]Here, I've got a cold pack for your forehead.
+MRK/MRK0008960
+N-No! Really, I'm just fine....
+RAK/RAK0035860
+It's okay. Just be quiet.
+@背景変更
+RAK/RAK0035870
+...How do you feel? Any better?
+MRK/MRK0008970
+T-Thank you very much....
+MRK/MRK0008980
+B-But I should be fine from here![nl]So let's spend a bit more time together....
+RAK/RAK0035880
+No way. It's important to take care of yourself[nl]at the first signs of a cold. Take it easy and get yourself well.
+MRK/MRK0008990
+Y-You're overreacting! Seriously....
+I'm worried about you!
+Don't be so selfish!
+RAK/RAK0035890
+Please listen to me.[nl]I'm worried about you.
+MRK/MRK0009000
+----!
+@ザクシャ万里花・中
+MRK/MRK0009010
+You're embarrassing me by saying that...!
+RAK/RAK0035900
+Don't be so selfish![nl]Go home and get some rest!
+MRK/MRK0009020
+MRK/MRK0009030
+Y-You sure are pushy, Raku dearest....[nl]I kinda....like it....
+RAK/RAK0035910
+Waaagh! T-Tachibana!? Are you okay!?[nl]Your fever has suddenly gone up!
+MRK/MRK0009040
+Fwaaaaahhhh....
+RAK/RAK0035920
+Hey, look out!
+MRK/MRK0009050
+Oh, Raku dearest![nl]I can't believe you caught me....
+RAK/RAK0035930
+(No, I haven't really....)
+MRK/MRK0009060
+I'm so happyyyyyy!
+RAK/RAK0035940
+Tachibana, take care of yourself....
+HND/HND0000600
+Master Ichijo.
+RAK/RAK0035950
+Waaagh!
+HND/HND0000610
+I'm very sorry,[nl]but may I borrow an umbrella if you have one?
+HND/HND0000620
+Unfortunately, I don't have one with me right now....[nl]And if I can't find one, the Mistress will get wet in the rain.
+RAK/RAK0035960
+Oh, sure, sure.[nl]Here you go, use this.
+HND/HND0000630
+Thank you very much. Later.
+@フェードアウト
+RAK/RAK0035970
+(Okay, now what?[nl] I'm glad I let a sick person have that, but....)
+RAK/RAK0035980
+(It's gonna be kinda hard to run home in the rain....)
+KSK/KSK0008650
+....Ichijo?
+RAK/RAK0035990
+Huh?
+RAK/RAK0036000
+O-Onodera?
+KSK/KSK0008670
+What's wrong? You're still here.
+RAK/RAK0036010
+Uh, well....[nl]Actually, I don't have my umbrella. I was just trying to[nl]figure out how to deal with this heavy rain....
+KSK/KSK0008680
+Huh? Really? That sounds pretty bad.
+@expose
+........
+KSK/KSK0008690
+U-Um....
+KSK/KSK0008700
+....You can share my umbrella, if you'd like?
+RAK/RAK0036020
+Huh....?
+RAK/RAK0036030
+(HUUUUHHHHHHHHH!?!?!?!?!?)
+RAK/RAK0036040
+A-A-A-Are you sure!?
+KSK/KSK0008710
+Y-Yes, it's fine. But mine's a folding umbrella,[nl]so it might be a little small to fit both of us....[nl]Is that alright with you?
+RAK/RAK0036050
+Y-Yeah....of course![nl]That's a big help! Thanks, Onodera!
+KSK/KSK0008720
+Y-You're welcome!
+RAK/RAK0036060
+(I'm sharing an umbrella with Onodera...![nl] What a great way to blow off the day's fatigue!)
+RAK/RAK0036070
+(Wait, no, no![nl] I can't stop myself from smiling!)
+RAK/RAK0036080
+(We need some kind of conversation topic....topic![nl] Topic, topic, topic, ummmm....)
+What a beautiful day!
+Are your shoulders wet?
+RAK/RAK0036090
+Ummmm, well, what a....beautiful day!
+KSK/KSK0008730
+RAK/RAK0036100
+(I'm an idiooooot!)
+KSK/KSK0008740
+Hehe....
+RAK/RAK0036110
+Huh?
+KSK/KSK0008750
+Ichijo....are you nervous?
+RAK/RAK0036120
+Uh, yeah. A little.
+KSK/KSK0008760
+Hehe. So am I.
+RAK/RAK0036130
+Huh? You are?[nl]How come?
+KSK/KSK0008770
+W-Well....
+RAK/RAK0036140
+(Onodera's gotten quiet....[nl] Did I ask a bad question....?)
+RAK/RAK0036150
+Ah, ummm, the umbrella.[nl]Let me hold it.
+RAK/RAK0036160
+Umm....[nl]Are your shoulders wet?
+KSK/KSK0008780
+Uh, no. I'm fi--
+KSK/KSK0008790
+Kshoo!
+RAK/RAK0036170
+!
+RAK/RAK0036180
+....Sorry.
+@ザクシャ小咲・中
+KSK/KSK0008800
+No, it's fine.[nl]I, well, enjoy talking with you, Ichijo.
+RAK/RAK0036190
+I-I see. Thanks!
+RAK/RAK0036200
+Hm? This is....
+RAK/RAK0036210
+Amazing....[nl]I guess fortune telling isn't so stupid.
+KSK/KSK0008810
+Hm? Did you say something?
+RAK/RAK0036220
+No, it's nothing.[nl]Here, lemme hold the umbrella.
+KSK/KSK0008820
+Ah....okay. Thanks.
+@pan
+OTM/OTM0003840
+....Hehe.
+@イベント終了処理
+common.asb

@@ -1,0 +1,64 @@
+__main
+@Lclearscreenall
+@rak_002
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0036230
+Let's see, we've got green onions, Chinese cabbage,[nl]carrots, shiitake mushrooms, mizuga....[nl]All we need now is some chicken and we're done.
+OTM/OTM0003850
+Hey! We shan't be done! Fried tofu![nl]Thou must purchase fried tofu!
+RAK/RAK0036240
+I made you a huge batch of inari sushi this morning.[nl]Did you already eat all of it!?
+OTM/OTM0003860
+Mhm. 'Twas tasty indeed![nl]It was gone in a flash!
+RAK/RAK0036250
+Oh, I see....
+@expose
+OTM/OTM0003870
+Buy fried tofu, or I shall show myself[nl]in front of all these people!
+RAK/RAK0036260
+Wait, don't!
+ANO/ANO0000010
+A raffle is being held by the registers for those who have[nl]made a purchase of 5000 yen or more.[nl]Please bring your receipt to enter.
+.....
+RAK/RAK0036270
+5000 yen....huh.[nl]Let's see....one, two, three....oh.[nl]I just need a bit more.
+RAK/RAK0036280
+Alright, fine. I'll buy you that fried tofu.
+OTM/OTM0003880
+Yaaaaay! Inari sushi get!
+@時間経過演出
+ANO/ANO0000020
+Okay, one ticket. Please turn it in over there.
+RAK/RAK0036290
+First prize is a stay at a camping cabin, huh.[nl]Kinda reminds me of the class trip.
+RAK/RAK0036300
+(I almost died in the bathtub,[nl] and never ended up pairing with Onodera....[nl] And so many other things happened....)
+RAK/RAK0036310
+(But it was fun, all things considered.)
+RAK/RAK0036320
+....I wouldn't mind winning.
+OTM/OTM0003890
+Ohh.
+RAK/RAK0036330
+....Hm?
+RAK/RAK0036340
+It's gold? That means....
+ANO/ANO0000030
+Congratulationsssss![nl]You have won first prize: [nl]A ticket for a free stay in a camping cabin!
+RAK/RAK0036350
+Huh....? R-Really!?[nl]That's amazing, seriously!?
+OTM/OTM0003900
+Hehehe.
+ANO/ANO0000040
+And here's your prize.[nl]It's almost expired, so be sure to use it as soon as you can.
+RAK/RAK0036360
+Oh, so it is. Wait, it expires this weekend!
+RAK/RAK0036370
+Don't tell me.... Is this some kind of leftover?
+ANO/ANO0000050
+Gulp!
+RAK/RAK0036380
+Well, whatever. Looks like it's good for up to 7 people,[nl]so I'll call everyone.
+@イベント終了処理
+common.asb

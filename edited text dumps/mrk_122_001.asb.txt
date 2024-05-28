@@ -1,0 +1,163 @@
+m__main
+@Lclearscreenall
+@mrk_122
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0078270
+Phewww.... Today's finally over.[nl]Let's head home, guys!
+CTG/CTG0023440
+Oh, sorry, Raku![nl]I've got some stuff I need to take care of at home today,[nl]so I've gotta rush!
+SSR/SSR0021300
+I'll be going with her.
+KSK/KSK0018240
+U-Umm....[nl]I need to help out at the shop today, so I've gotta leave[nl]right away.
+RAK/RAK0078280
+Huh? Looks like everyone's busy today....[nl]Shuu went home early, so I guess I'm walking home alone today.
+MRK/MRK0015290
+Come on, Raku dearest![nl]You forgot about me, didn't you?
+MRK/MRK0015300
+Unlike all the others,[nl]I've got nothing to do whatsoever!
+RAK/RAK0078290
+Is that something you're proud to say?
+@expose
+MRK/MRK0015310
+I get to walk home with my darling Raku,[nl]so I should be proud!
+MRK/MRK0015320
+Now then, let's walk home together, okay?
+RAK/RAK0078300
+Sure, I don't really mind.[nl]Just grab your bag quickly so we can leave.
+@ザクシャ万里花・中
+MRK/MRK0015330
+Ah! I've got some other things I need to get ready,[nl]so please wait at the school gates.
+RAK/RAK0078310
+Huh? Other things?[nl]And why do I have to wait at the school gate....?
+MRK/MRK0015340
+Because when you go on an after-school date,[nl]you always meet at the school gates, right?[nl]I've always dreamed of doing something like that with my Raku dearest!
+RAK/RAK0078320
+A-A date!?[nl]No, I just wanna go home!
+MRK/MRK0015350
+Just wait by the school gates, please, Raku dearest.[nl]I'll be right there! Ta-ta.
+RAK/RAK0078330
+She just does not listen at all....
+RAK/RAK0078340
+It can't be helped.[nl]I'll just wait by the school gate.
+@ＢＧＭ停止
+@時間経過演出
+........
+RAK/RAK0078350
+(....Tachibana's late.[nl] I've been here for, what, 10 minutes already?)
+RAK/RAK0078360
+(I mean, if I'd just gone home by myself,[nl] I'd have been home by now.)
+HND/HND0000700
+....It's Master Ichijo.[nl]Are you heading home?
+RAK/RAK0078370
+Oh, Honda.
+RAK/RAK0078380
+I'm waiting to meet with Tachibana....[nl]Are you doing the same thing?
+HND/HND0000710
+Yes, I'm here to pick up the mistress.
+RAK/RAK0078390
+A-Anyway, you wanna wait together[nl]until Tachibana gets here?
+HND/HND0000720
+Very well.
+RAK/RAK0078400
+....Care for a marshmallow?
+HND/HND0000730
+No, thank you.
+RAK/RAK0078410
+Ahhhh, yes, of course....
+RAK/RAK0078420
+U-Um....
+HND/HND0000740
+What is it?
+RAK/RAK0078430
+What is it you do while Tachibana's at school, Honda?
+HND/HND0000750
+I mostly patrol around the school.[nl]I keep an eye out for suspicious persons and objects.
+RAK/RAK0078440
+A-Ahhh, I see....
+RAK/RAK0078450
+W-What about your day off?
+HND/HND0000760
+I organize papers and make the mistress's[nl]protection is up to snuff.
+RAK/RAK0078460
+Ohh.... You've got quite the work ethic.
+RAK/RAK0078470
+....Are you thirsty?[nl]Would you like some juice?
+HND/HND0000770
+No thank you.
+RAK/RAK0078480
+Okay then....
+HND/HND0000780
+You are kind, Master Ichijo.
+RAK/RAK0078490
+Huh?
+HND/HND0000790
+I can understand why the mistress fell for you.
+RAK/RAK0078500
+Ahh....
+RAK/RAK0078510
+(Ghh.... I can't keep this conversation going at all![nl] Isn't there anything we can talk about!?)
+RAK/RAK0078520
+(That's right, we can talk about our common link: Tachibana!)
+RAK/RAK0078530
+So, what is it you usually talk about with Tachibana?[nl]I'm kinda curious.
+RAK/RAK0078540
+(Alright, we should be able to hold a conversation now![nl] Well, how about it!?)
+HND/HND0000800
+Mostly about you, Master Ichijo.
+RAK/RAK0078550
+(It's over!?)
+RAK/RAK0078560
+(Dammit, what's left after that!?[nl] It would be awkward not to say anything after already[nl] trying to half-heartedly make conversation....)
+RAK/RAK0078570
+(Hurry up and get here, Tachibana![nl] How long are you gonna make me wait like this!?)
+MRK/MRK0015360
+Raku dearest, thank you so much for waiting!
+RAK/RAK0078580
+Ohh!
+HND/HND0000810
+Mistress, welcome back.
+MRK/MRK0015370
+Oh, if it isn't Honda.[nl]What are you doing here?
+HND/HND0000820
+I'm here to pick you up.
+HND/HND0000830
+I understand that you promised to walk home with Master Ichijo,[nl]but may I take you home in the car?
+MRK/MRK0015380
+Jeez, you just don't get it, Honda.[nl]If we did that, our date at the school gate[nl]would all have been for nothing.
+MRK/MRK0015390
+Right, Raku dearest? ★
+RAK/RAK0078590
+Whatever, I was itching to see you[nl]as soon as possible, Tachibana!
+MRK/MRK0015400
+W-Whaaaat!?[nl]I never thought I'd hear you say those words, Raku dearest....!
+RAK/RAK0078600
+Yeah.... That was the longest wait of my life![nl]I was waiting and waiting for you to come meet me!
+HND/HND0000840
+While we were waiting for you, Mistress,[nl]Master Ichijo kept talking about you.
+@ザクシャ万里花・大
+MRK/MRK0015410
+Fwaaaah!?
+MRK/MRK0015420
+N-No way....[nl]You were waiting that eagerly for me, Raku dearest....![nl]I-I wasn't expecting that at all....
+MRK/MRK0015430
+I'm feeling lightheaded from excitement....
+@画面揺らし
+RAK/RAK0078610
+T-Tachibana!?
+HND/HND0000850
+....Looks like she's fainted.[nl]Let's get her to the car for the time being.
+RAK/RAK0078620
+Why would she suddenly....
+HND/HND0000860
+Master Ichijo. I'm sorry for the inconvenience,[nl]but I'm certain the Mistress will wake up soon.[nl]Would you mind waiting in the car with us until then?
+RAK/RAK0078630
+S-Sure.... That'll be fine.
+....
+RAK/RAK0078640
+(Problem is, now I'm alone with her again....)
+RAK/RAK0078650
+(Ooogh....[nl] Hurry up and wake up, Tachibana!)
+@イベント終了処理
+common.asb

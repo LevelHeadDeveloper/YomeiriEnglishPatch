@@ -1,0 +1,149 @@
+__main
+@Lclearscreenall
+@mrk_127
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0079610
+Hey, Tachibana. Whatcha doin' here?
+@expose
+MRK/MRK0016590
+Ooh, Raku dearest. ★[nl]Y'know, I was just thinking that I wanted to see you.
+MRK/MRK0016600
+Could this be a fated meeting!?
+RAK/RAK0079620
+No, this isn't that big of a town,[nl]so chance meetings are pretty plausible.
+MRK/MRK0016610
+Jeez, your reactions are as boring as ever.[nl]....But I really love that unwavering attitude.★
+RAK/RAK0079630
+So, what are you doing here?
+MRK/MRK0016620
+I was going home, and then I saw *that*....
+RAK/RAK0079640
+"That"....?[nl]Oh, a takoyaki stall.
+MRK/MRK0016640
+I was taken in by that savory smell,[nl]so I'm thinking about whether to get some or not.
+RAK/RAK0079650
+Hmmm, so even you eat street food sometimes.
+MRK/MRK0016650
+I'm the kind of lovely lady who outblooms even a flower,[nl]so of course I do that.
+RAK/RAK0079660
+....You outbloom even a flower,[nl]but you eat street food?
+MRK/MRK0016660
+But the takoyaki they sell here are very big,[nl]and there are 8 of them to a pack.
+MRK/MRK0016670
+If I eat all of them, I won't have room for dinner....
+RAK/RAK0079670
+Hmmm....[nl]It's not enough for us guys, though....
+MRK/MRK0016680
+Yes. So it's lucky we ran into each other, Raku dearest.
+MRK/MRK0016690
+If you'd like, Raku dearest,[nl]can we go halfsies on one order of takoyaki?
+RAK/RAK0079680
+Sure, sounds good to me.[nl]I'd also wanted some after I smelled it.
+MRK/MRK0016700
+Thank you so much.[nl]I'll go buy some, then!
+MRK/MRK0016710
+Excuse me, good sir,[nl]I'll have one order of takoyaki, please.
+TAK/TAK0000010
+Arrright! It's hot right now, so you gotta wait!
+RAK/RAK0079690
+(Takoyaki, though.[nl] Usually, our guys would make them for the festivals,[nl] so we haven't had them from other places much.)
+RAK/RAK0079700
+(I can hear the grill sizzling, and I'm getting hungry.[nl] ....Will half an order be enough?
+MRK/MRK0016720
+Thanks for waiting, Raku dearest. ♪
+RAK/RAK0079710
+Oh, thank you.[nl]Mmmm, that's a lot of sauce and bonito flakes.
+MRK/MRK0016730
+They gave me extra because I'm so cute.
+RAK/RAK0079720
+Ooh, lucky for you.
+MRK/MRK0016740
+You know, if you went out with me,[nl]I could get you a lot of freebies this way, right?[nl]I'll bet you want to go out with me now, don't you?
+RAK/RAK0079730
+W-Well....[nl]We'll talk about that some other time.[nl]For now, let's just eat our takoyaki.
+MRK/MRK0016750
+I guess it can't be helped.[nl]Well then, Raku dearest. *ffff*.... *ffff*....
+RAK/RAK0079740
+Hm....?
+MRK/MRK0016760
+Alright, say "ah". ★[nl]Open wide.
+RAK/RAK0079750
+Whaaaa!?[nl]I-I'm good, thanks!
+MRK/MRK0016770
+But I insist![nl]This is my treat, so at the very least do this[nl]one thing for me.
+RAK/RAK0079760
+No, no! I was gonna pay you back!
+MRK/MRK0016780
+If you try paying me back, I won't accept it.
+MRK/MRK0016790
+Here, say "ah". ★
+MRK/MRK0016800
+Come on, it's fresh off the grill, all hot and steamy,[nl]but if you don't eat it now, it'll get cold.
+MRK/MRK0016810
+Say "ah". ★
+Say "ah"
+Eat it yourself
+RAK/RAK0079770
+You're as pushy as ever. Fine, I'll do it.
+MRK/MRK0016820
+Okay, say "ah". ♪
+RAK/RAK0079780
+*A-Aaah*....
+RAK/RAK0079790
+Nom.... nom nom....
+@ザクシャ万里花・小
+MRK/MRK0016830
+Is it good?
+RAK/RAK0079800
+I'm not going along with this![nl]*Chomp*
+MRK/MRK0016840
+Aaah! And right when we were going to do the "ah" thing!
+RAK/RAK0079810
+Nom nom!
+MRK/MRK0016850
+Mmm....
+RAK/RAK0079820
+....Ooh! It's crispy on the outside,[nl]and tender on the inside, and the octopus is perfectly chewy....it's good!
+RAK/RAK0079830
+You gotta have some now. It's great!
+MRK/MRK0016860
+Well then, I guess it's my turn now.[nl]Okay, *ahhh*. ★
+RAK/RAK0079840
+Huh....?
+MRK/MRK0016870
+Hurry up, blow on it to cool it down[nl]so you can feed it to me too.
+MRK/MRK0016880
+Hurry up, blow on it to cool it down[nl]so you can feed it to me.
+RAK/RAK0079850
+W-Whaaaa!? I've gotta do that too!?
+MRK/MRK0016890
+If you don't do this now,[nl]I'll run out of opportunities to eat this.
+MRK/MRK0016900
+*Aaahhh*.... ★
+RAK/RAK0079860
+Gulp....
+MRK/MRK0016910
+----
+RAK/RAK0079870
+(Ghh.... I feel kind of obligated to go along with it[nl] when she's sitting expectantly with her mouth open[nl] like that, but....)
+RAK/RAK0079880
+(Surprisingly, it's more embarrassing to feed these[nl]to her than it is to be fed these by her....)
+MRK/MRK0016920
+Come on, Raku dearest.... ★
+RAK/RAK0079890
+Ghhhh....!
+RAK/RAK0079900
+No! I can't do it after all!
+MRK/MRK0016930
+Aah! Raku dearest!?
+RAK/RAK0079910
+Sorry, Tachibana! I'm going home![nl]See ya tomorrow!
+MRK/MRK0016940
+Jeez, he's as meek as ever.[nl]And he only ate one takoyaki.
+MRK/MRK0016950
+....I guess I'll have Daddy eat the rest.
+MRK/MRK0016960
+Hahh.... What a shame.[nl]I'd really wanted him to do the "aah" thing with me, too....
+@イベント終了処理
+common.asb

@@ -1,0 +1,257 @@
+__main
+@Lclearscreenall
+@rur_001
+@イベント開始処理
+SYU/SYU0001900
+You came, Raku.
+RAK/RAK0027690
+Why did you call me up here, Shuu?[nl]What did you want to talk about?
+SYU/SYU0001910
+Actually, I have a favor to ask of you.[nl]I'm counting on you, best friend.
+RAK/RAK0027700
+You're being unusually serious.[nl]Please don't ask me for debt advice or anything like that.
+SYU/SYU0001920
+No, this is more important.
+@expose
+SYU/SYU0001930
+It's about the "black market".
+RAK/RAK0027710
+Black market? What's that?
+@ＢＧＭ再生
+SYU/SYU0001940
+The "black market" is a market through which[nl]I sell all my lovely photos.
+SYU/SYU0001950
+The subjects of these photos, of course, are the[nl]girls right here on campus! I secretly take and sell[nl]"Exquisitely Embarrassing Shots" of their everyday lives.
+RAK/RAK0027720
+Oh, right, you sold some of those from the class trip.[nl]I didn't know you were still doing that....
+SYU/SYU0001960
+Where there is demand, there is supply.[nl]This is quite lucrative, ya know.
+RAK/RAK0027730
+At least make sure the girls and teachers can't find out....[nl]Not that I really care if they find out.
+SYU/SYU0001970
+Hey, hey, why act so reserved, good buddy!?
+SYU/SYU0001980
+I'm asking you for a favor.[nl]I need your help with my work.
+RAK/RAK0027740
+Huh? My help?
+SYU/SYU0001990
+Yes, yes. Actually, I was thinking of making a photo book,[nl]a compilation of all the work I've done for the black market.
+SYU/SYU0002000
+It shall be a collection of photos of all the beautiful girls at[nl]our school. Of course, it will only be sold underground,[nl]and will be kept secret from the girls.
+RAK/RAK0027750
+Underground....I have a bad feeling about that.[nl]I don't want to be involved.
+SYU/SYU0002010
+Come on, come on, don't talk like that.[nl]You have the very important job of convincing[nl]the girls to be in these photos!
+RAK/RAK0027760
+What!? Convince them!?[nl]Why do I....!?
+SYU/SYU0002020
+Because you have connections with[nl]lots of beautiful girls, of course.[nl]I'm just trying to make myself look good, so help me out!
+RAK/RAK0027770
+Jeez....
+It can't be helped
+I'm not doing it!
+SYU/SYU0002040
+Hey, hey, what are you talking about!?[nl]We're friends, you and I, right?
+Absolutely not doing it
+SYU/SYU0002050
+I'm begging you, think of the future[nl]generations, Raku! Please help us!
+SYU/SYU0002060
+I'm not leaving here until you agree to help!
+I'll help you
+I refuse
+RAK/RAK0027780
+I can't refuse if you're this pushy....
+RAK/RAK0027790
+You know....I can't get involved with a photo shoot[nl]that involves money.
+RAK/RAK0027800
+First of all, if Onodera or our other classmates[nl]found out, it'd be the end of my life....
+SYU/SYU0002070
+What is this!? You're a chicken, Raku!
+RAK/RAK0027810
+Yeah, whatever. I'm not getting involved.[nl]If you're gonna do it, do it by yourself.
+SYU/SYU0002080
+Ehhh..... If you won't help me, Raku, I won't be able[nl]to finish my photo book of beautiful girls.
+RAK/RAK0027820
+Then give up on the beautiful-girl-photo-album.[nl]It's half illegal anyway.
+SYU/SYU0002090
+I guess I'll have to do just that....too bad.
+RAK/RAK0027830
+Yeah. Good idea. I'd rather do something more meaningful[nl]with my time than such dangerous things as---
+SYU/SYU0002100
+Alright, here's what I'll do.[nl].....Alright, say "cheese".
+RAK/RAK0027840
+Huh!? What are you taking pictures of me for!?
+SYU/SYU0002110
+It can't be helped. If I can't make money by[nl]selling pictures of beautiful girls, I can still make[nl]a solid profit by selling pictures of you, Raku.
+RAK/RAK0027850
+Huh? Pictures of me?[nl]I don't think anyone would want to buy those.
+SYU/SYU0002120
+Hehhehheh. Where it sells, it sells.[nl]I have at least 3 or 4 customers who[nl]are in the market for these.
+RAK/RAK0027860
+Seriously....[nl]Who are those suckers?
+SYU/SYU0002130
+It's a secret. No matter what, I can't[nl]reveal the identities of my customers.
+SYU/SYU0002140
+Well then, I'm off to develop and sell[nl]these photos right away. See ya, Raku!
+RAK/RAK0027870
+Oh, hey!
+RAK/RAK0027880
+Jeez, sometimes I can't figure this guy out.
+@rur_001_202
+SYU/SYU0002030
+Oho! As expected of Raku![nl]I knew you'd say that!
+RAK/RAK0027890
+I'll tell you now, I'm only asking if we can take pictures.[nl]I don't care if she refuses, and I won't help you any further.
+SYU/SYU0002150
+Yeah, that's fine. I owe ya one.
+SYU/SYU0002160
+Well then, let's go take the first picture!
+RAK/RAK0027900
+You're going already!?
+SYU/SYU0002170
+Naturally. Time's running out.[nl]Lunch break's almost over already.
+RAK/RAK0027910
+Yeah, yeah, got it.[nl]So, whose picture are we gonna take?
+SYU/SYU0002180
+First up is....I know.[nl]We'll start with Onodera.
+@ＢＧＭ停止
+RAK/RAK0027920
+O-Onoderaaa!?
+@時間経過演出
+RAK/RAK0027930
+Of all people, it had to be Onodera.[nl]She's the hardest person to talk to, in a way.
+SYU/SYU0002190
+Really? I think she'd agree if you asked her.
+RAK/RAK0027940
+You idiot....[nl]Don't say things that have no basis in reality.
+SYU/SYU0002200
+No, no, that's not true.[nl]I know what I'm talking about.
+SYU/SYU0002210
+Well, anyway, Raku. Why dontcha just go up to her and say[nl]"I want to take a picture of you wearing these cat ears"?
+RAK/RAK0027950
+Cat ears!? No way I'm asking Onodera to wear cat ears!
+SYU/SYU0002220
+Don't forget what I said at the beginning. What we're trying[nl]to make is a book of girls in guys' dream situations.
+SYU/SYU0002230
+And a classmate wearing cat ears is the number one[nl]example of that, right? There's a lot of fetish demand for it,[nl]ya know?
+RAK/RAK0027960
+But isn't it kinda hard to ask someone to[nl]wear cat ears in school in the middle of the day like this?
+RAK/RAK0027970
+And I'm supposed to ask Onodera, right?[nl]If she treats me like a pervert because of this,[nl]I don't think I'd be able to come to school tomorrow....
+SYU/SYU0002240
+Well, I know how you feel, Raku.[nl]But no risk, no reward, right?[nl]You want to see Onodera in cat ears, don't you?
+RAK/RAK0027980
+Uh....well....
+SYU/SYU0002250
+On top of her neat black hair, *ding*, there sit[nl]Onodera's cat ears. She looks up at you, and[nl]she shyly says....
+SYU/SYU0002260
+"I-I'll only let you see me like this, Ichijo-kun...."
+RAK/RAK0027990
+G-Gaaaaaagh!!
+SYU/SYU0002270
+Huh, Huh?[nl]You definitely want to see Onodera as Nekodera.
+RAK/RAK0028000
+Aagh....[nl]Even though I've never seen Onodera wearing cat ears,[nl]I can imagine exactly what she'd look like....
+SYU/SYU0002280
+Right, so let's hurry up and get this done.
+SYU/SYU0002290
+We shall launch our attack on Onodera[nl]with this cat ear headband!
+RAK/RAK0028010
+Ngh....O-Okay.[nl]But, ya know, it's kinda hard for me to[nl]ask Onodera about this sort of thing....
+SYU/SYU0002300
+Heeey, Onodera![nl]Raku here wants to talk to you for a sec!
+RAK/RAK0028020
+Y-You moron![nl]Don't just suddenly call her over without telling me!
+KSK/KSK0007710
+Huh? What is it, Ichijo?
+KSK/KSK0007720
+Huh? That headband you're holding....[nl]Are those cat ears? They're kinda cute.
+RAK/RAK0028030
+Uh, well, they're....um....
+KSK/KSK0007730
+Hm?
+SYU/SYU0002310
+Okay, I'm leaving the rest to you.[nl]Don't hesitate to ask her!
+RAK/RAK0028040
+(Aaagh, come on, I don't know if I can....)
+RAK/RAK0028050
+O-Onodera![nl]Please don't ask any questions, just wear these cat ears![nl]Also, I want you to pose for a photo!
+KSK/KSK0007740
+Huh....?
+KSK/KSK0007750
+Huuuh!? Pose for a photo!?[nl]T-T-That would be kind of embarrassing....[nl]Why all of a sudden!?
+RAK/RAK0028060
+Well, it's....
+RAK/RAK0028070
+(I can't just tell her it's for a secret photo book....)
+SYU/SYU0002320
+That's the thing, Onodera.[nl]He wants to see you in cat ears, and he[nl]wants to preserve that image forever.
+KSK/KSK0007760
+Ehhhhh!?
+RAK/RAK0028080
+Wa- Y- What the hell are you....
+SYU/SYU0002330
+But it's not a lie, is it?[nl]You want to see Nekodera.
+RAK/RAK0028090
+Uh....well, that's true....
+KSK/KSK0007770
+I-I see....
+KSK/KSK0007780
+Also, speaking of cat ears....[nl]I feel like I've run into them before....
+SYU/SYU0002340
+What is it, Onodera?[nl]Do you have experience with cat ears?
+KSK/KSK0007790
+Uh, no. It's not that, but....[nl]When I look at these, it kind of feels like[nl]it's bringing up an embarrassing memory.
+RAK/RAK0028100
+S-Sorry, Onodera.[nl]I'm not trying to force you to do this.
+KSK/KSK0007800
+I-It's fine.
+RAK/RAK0028110
+Huh?
+KSK/KSK0007810
+If you want to see it, Ichijo, I can wear the ears.[nl]I don't mind if you take a picture, either.
+RAK/RAK0028120
+R-Really, Onodera!?
+KSK/KSK0007820
+Y-Yes. It's a little embarrassing, but it's what[nl]you want me to do, right? As your friend, I have to[nl]help you as much as I can.
+SYU/SYU0002350
+Oho! What a quick response, Onodera![nl]Well then, please put these on....
+RUR/RUR0001030
+Hang on, what are you guys doing?
+KSK/KSK0007830
+Ah, Ruri.
+RAK/RAK0028130
+(Gulp! Here comes someone I'm not sure[nl] I can explain this to!)
+RUR/RUR0001040
+What are these? Cat ears?
+KSK/KSK0007840
+Yes. I'm going to wear them and have[nl]Ichijo and Maiko take a picture of me.
+RUR/RUR0001050
+A picture of Kosaki wearing cat ears?
+........
+RUR/RUR0001060
+Alright, Maiko.[nl]What on earth are you up to this time?
+RAK/RAK0028140
+(As usual, she's quick on the uptake....)
+SYU/SYU0002360
+Ahahaha! That's mean, Ruri!
+SYU/SYU0002370
+I'm just helping out Raku, since he seems eager to[nl]see Onodera in cat ears![nl]....I promise I don't have any ulterior motives!
+RUR/RUR0001070
+Is that really so....?
+SYU/SYU0002380
+Isn't that right, Raku?[nl]You can tell Ruri all about it yourself.
+RAK/RAK0028150
+Why do I have to!?
+SYU/SYU0002390
+Your job is to convince the girls, like I said earlier![nl]Please do that for me, Raku!
+RAK/RAK0028160
+Gahh....you're letting it slip!
+RUR/RUR0001080
+Ichijo, is what he says true?
+RAK/RAK0028170
+(Convince Miyamoto, huh....[nl] It seems difficult, but if Onodera finds out what's up,[nl] I'm toast. I'll have to fake it like there's no tomorrow....!)
+@rur_001_101
+common.asb
+rur_001_201.asb
+rur_001_101.asb
