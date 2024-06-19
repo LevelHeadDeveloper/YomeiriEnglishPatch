@@ -2,7 +2,7 @@ __main
 @Lclearscreenall
 @ctg_003_101
 @2ショット開始
-Touch the correct answer!
+Tap the right answer!
 @ＢＧＭ再生
 CTG/CTG0003020
 5 questions total.[nl]Looks like whoever answers more correctly wins.
