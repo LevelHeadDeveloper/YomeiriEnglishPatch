@@ -4,14 +4,14 @@ __main
 @イベント開始処理
 @ＢＧＭ再生
 OTM/OTM0000570
-Raku, are you making my inari sushi yet? I must eat soon, or I shall lose my strength....
+Raku, art thou making my inari sushi yet?[nl]I must eat soon, or I shall lose my strength....
 RAK/RAK0011070
 Ah, in a sec. I gotta make breakfast for the guys first...
 @expose
 OTM/OTM0000580
 What.....!
 OTM/OTM0000590
-Have you no humanity? No blood or tears?[nl]To treat me like this when I am so feeble....[nl]For this, I may curse your family for generations!
+Hast thou no humanity? No blood or tears?[nl]To treat me like this when I am so feeble....[nl]For this, I may curse thy family for generations!
 RAK/RAK0011080
 No one's cursing anyone's family for generations![nl]I never said I wouldn't feed you, so shut up and wait!
 RAP/RAP0000240

@@ -45,7 +45,7 @@ Old Photo
 A faded photo of Raku with Marika Tachibana.[nl]Her innocent smile brightens it up.
 R_Item13
 Body Warmer
-A reliable body warmer that takes 5 seconds to warm up.[nl]Keeps you snug for about a half day.
+A reliable body warmer that warms up in 5 seconds.[nl]Keeps you snug for about a half day.
 R_Item14
 Stuffed Tiger
 A stuffed animal used by one class at the Culture Festival.[nl]It's ugly enough to make babies cry.
@@ -78,7 +78,7 @@ Bear Statue
 A souvenir that someone bought for you long ago, and[nl]you don't want to leave at school but don't have room for.
 R_Item24
 Phone Strap
-A strap with a cute fox figurine on it.[nl]The sort of thing you should always have with your phone.
+A strap with a cute fox figurine on it.[nl]The sort of thing you should always have on your phone.
 R_Item25
 Scented Wax
 Assorted packs of scented wax that really lift your mood.
@@ -87,7 +87,7 @@ Music Box
 An antique-style music box.[nl]The varnish is peeling, which makes it look even older.
 R_Item27
 Barette
-A hair clip for fine women.[nl]The design is heartbreakingly detailed.
+A hair clip for fine women.[nl]The design is painstakingly detailed.
 R_Item28
 Bracelet
 A silver and leather bracelet.[nl]Casual and fashionable to increase the wearer's power.

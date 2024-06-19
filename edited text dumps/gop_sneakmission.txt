@@ -117,7 +117,7 @@ R_SneakMission078
 R_SneakMission079
 R_SneakMission080
 Love
-Unusual Love for Raku Ichijo: Why is everyone chasing him?[nl]Escape the pursuers and slip out the school gate!
+Unusual Love for Raku Ichijo:[nl]Why is everyone chasing him? Try to escape!
 R_SneakMission081
 frm
 R_SneakMission082
