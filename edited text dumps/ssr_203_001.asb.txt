@@ -9,7 +9,7 @@ RAK/RAK0059460
 You're here early, Tsugumi.[nl]What are you doing?
 @expose
 SSR/SSR0019000
-Raku Ichijo. I was just making sure there wasn't[nl]anything suspicious in the school before the Mistress arrives.
+Raku Ichijo. I was just making sure there wasn't[nl]anything suspicious in the school before[nl]the Mistress arrives.
 RAK/RAK0059470
 In the school....[nl]You didn't go around checking all the classrooms, right?
 SSR/SSR0019010

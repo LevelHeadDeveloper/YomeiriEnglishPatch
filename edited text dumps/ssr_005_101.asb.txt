@@ -58,7 +58,7 @@ SSR/SSR0006030
 @ssr_005_touch_back
 SSR/SSR0006120
 Waaaaagh!
-SSR/SSR0006
+SSR/SSR0006130
 You....really think you'll get away with it[nl]if you pull something funny!?
 @ssr_005_201
 SSR/SSR0006140
