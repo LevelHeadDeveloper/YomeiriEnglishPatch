@@ -1,0 +1,13 @@
+__main
+@Lclearscreenall
+@day_001
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0065300
+....Yeah, yeah, I'm up~!
+RAK/RAK0065310
+Mphh...!
+RAK/RAK0065320
+Alright, time to make breakfast!
+@イベント終了処理
+common.asb

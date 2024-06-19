@@ -1,0 +1,90 @@
+__main
+@Lclearscreenall
+@ctg_122
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0013550
+Hey, Raku, what are some good games to teach a kid?
+RAK/RAK0071340
+....Games to teach a kid?
+SYU/SYU0013560
+I've got a relative's child coming over to play soon.[nl]Other than video games, I was wondering if you had[nl]any good ideas.
+CTG/CTG0019820
+For a child, huh....[nl]How about basketball or soccer? You guys like those, right?
+@expose
+SYU/SYU0013570
+Well, we *do* like them.[nl]But we're not sure they'd be a good fit.[nl]She's a three-year old girl.
+CTG/CTG0019830
+A three-year old girl, huh.... What did I do to amuse myself[nl]when I was that age, I wonder....[nl]Hmmmmm, I don't remember!
+RAK/RAK0071350
+Let's see....[nl]This might be a bit old-fashioned,[nl]but how about cat's cradle?
+SYU/SYU0013580
+Oh, cat's cradle! That's good.[nl]It can get you really absorbed. Thank you, Raku!
+RAK/RAK0071360
+Yeah.
+CTG/CTG0019840
+....Hey.[nl]Cat's cradle....what is it?
+RAK/RAK0071370
+Ah. I see, so you don't know, Chitoge.
+RAK/RAK0071380
+Ummmm, do I have any string or something.....
+RAK/RAK0071390
+....Oh, I found some yarn in my sewing kit.
+CTG/CTG0019850
+....You carry a sewing kit around?
+RAK/RAK0071400
+I put it in there because I need it for home ec![nl]Just hold this string.
+RAK/RAK0071410
+Alright, now try moving your fingers the same way I do.
+CTG/CTG0019860
+O-Okay.
+RAK/RAK0071420
+....This one right here goes through there....
+RAK/RAK0071430
+And then....like that.
+CTG/CTG0019870
+....Huh? What was that wizardry just now!?[nl]Show me that move one more time!
+RAK/RAK0071440
+Like I said, you take this like this....[nl]Here, move your finger like so.[nl]Then it should come out looking like a ladder.
+CTG/CTG0019880
+....Whoa! It's just a loop, but it's amazing....![nl]Is there anything else you can do with this?
+Make a tower
+Two-player cat's cradle
+RAK/RAK0071450
+What, you like it?
+CTG/CTG0019890
+Yep! I've never seen anything like it!
+RAK/RAK0071460
+It doesn't feel too bad when you praise me that much.[nl]Alright, here's another one.
+RAK/RAK0071470
+This goes like that....there.[nl]Here! "Tokyo Watermelon Fishing"!
+@ザクシャ千棘・小
+CTG/CTG0019900
+Amazing....![nl]So you can make something like that, too!
+CTG/CTG0019910
+Hey, hey, show me how to make that!
+RAK/RAK0071480
+Okay, okay, I'll show you, just relax.
+RAK/RAK0071490
+Cat's cradle isn't strictly a one-person activity,[nl]two people can do it too.
+CTG/CTG0019920
+Oooh, how do you do it? Can I do it too?
+RAK/RAK0071500
+Absolutely. One person holds the cat's cradle,[nl]and the other person has to try to take it from them.[nl]If it falls apart, you lose.
+RAK/RAK0071510
+Here, try to take it.
+CTG/CTG0019930
+Try to take it? What do I do?
+RAK/RAK0071520
+Pinch where the string crosses,[nl]wrap the inside around to the outside.... Then pull it up!
+CTG/CTG0019940
+....Like this?
+RAK/RAK0071530
+Yes, yes! See, you can do it.
+@ザクシャ千棘・中
+CTG/CTG0019950
+Hehehe....[nl]It might be fun to play these kinds of retro games sometimes.
+RAK/RAK0071540
+(I thought she was gonna say this was a bean-sprouty[nl] activity or something....[nl] I'm honestly surprised she enjoyed this.)
+@イベント終了処理
+common.asb

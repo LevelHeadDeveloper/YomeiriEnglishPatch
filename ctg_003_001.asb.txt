@@ -1,0 +1,185 @@
+__main
+@Lclearscreenall
+@ctg_003
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0002600
+A date at the game center is an interesting choice, huh?
+RAK/RAK0001390
+We've already exhausted all the date spots in the city.[nl]I thought it'd be good to go to this[nl]kind of place every once in a while.
+@expose
+CTG/CTG0002610
+Mm, breaking the norm.[nl]Not a bad idea.
+RAK/RAK0001400
+Alright, then why don't we get going....[nl]Maybe with a little friendly competition?
+CTG/CTG0002620
+Ooh, yeah.[nl]Why don't we make the loser buy the other a drink?[nl]Just so you know, I'm not gonna go easy on you.
+RAK/RAK0001410
+Bring it on.
+CTG/CTG0002630
+So, what game are we gonna play?
+RAK/RAK0001420
+Hmm....
+RAK/RAK0001430
+What about that crane game over there?[nl]Whoever gets the target first wins.
+CTG/CTG0002640
+Sure~. So why don't we make the target....
+CTG/CTG0002650
+Ah, what about that. The small gorilla keychain.[nl]It looks a lot like the one you gave me a while back.
+RAK/RAK0001440
+It really does.....[nl]They've made a series out of that, I guess.
+RAK/RAK0001450
+Okay, I'll give you the first move.[nl]We'll call it "ladies first" at that.
+CTG/CTG0002660
+Oh? You sure you want to do that?
+CTG/CTG0002670
+All I have to do is lift it and drop it in the box, right?[nl]I'll win before you can play, y'know?
+RAK/RAK0001460
+Don't you have some confidence on you. Just do it, then.
+CTG/CTG0002680
+Watch closely![nl]I'll show you some graceful technique.
+CTG/CTG0002690
+First, let's put in the coin, and....
+CTG/CTG0002700
+*humming*
+CTG/CTG0002710
+*losing confidence*
+........
+CTG/CTG0002720
+Ugh. So unlucky.....
+RAK/RAK0001470
+Seems like it's actually not so easy, huh?
+CTG/CTG0002730
+That's strange. It was perfectly around it as well,[nl]but the arm just doesn't lift it.
+CTG/CTG0002740
+Surely the machine is just broken, isn't it?[nl]Definitely.[nl]The arm's even weaker than yours.
+RAK/RAK0001480
+No, hold up. From the start, all of these machines[nl]are like that for this kind of thing.
+RAK/RAK0001490
+Just like how the gun's barrel is curved in those festival[nl]shooting games. It's designed to be harder than it looks.
+CTG/CTG0002750
+Haaah? What is that? I've never heard that!?
+RAK/RAK0001500
+I mean, isn't that just super common.
+RAK/RAK0001510
+Well anyways, my turn.
+RAK/RAK0001520
+Hmm. Considering the arm and claw movement[nl]from watching your attempt....[nl]Where should I aim to grab....
+RAK/RAK0001530
+Since we've proven that going for the body is a no-go,[nl]clearly I've got to aim for the tag.
+CTG/CTG0002760
+Hold it right there.
+CTG/CTG0002770
+Surely that "ladies first" wasn't just a trap[nl]to make me your guinea pig?
+RAK/RAK0001540
+Gathering information is a perfectly fair strategy.
+CTG/CTG0002780
+What IS that? No it isn't!
+RAK/RAK0001550
+Well, this is a serious fight. And anyways,[nl]weren't you the one who said you wouldn't go easy?
+CTG/CTG0002790
+I mean, you're not wrong, but....!
+RAK/RAK0001560
+Alright, the easiest part of the tag to lift up.....
+RAK/RAK0001570
+Right, that's it.
+RAK/RAK0001580
+Get it in the loop.....there we go!
+CTG/CTG0002800
+Ugh....![nl]Just like that, perfectly grabbed!
+RAK/RAK0001590
+OK, I win.
+CTG/CTG0002810
+That's not fair at all![nl]From the start, isn't this kind of game[nl]your specialty anyways!?
+RAK/RAK0001600
+Well, I'm not bad at it. For this kind of thing, you just[nl]study how your prey moves, make a plan,[nl]and follow through carefully and win every time.
+RAK/RAK0001610
+I'm just applying my festival game technique.
+CTG/CTG0002820
+Huh..... Right, you grew up helping man festival stands[nl]and grew into an unrivaled festival game beast.
+CTG/CTG0002830
+Hmm... something about using every[nl]cheap trick in the book to tryhard these games....[nl]It's just so you.
+RAK/RAK0001620
+Hmph. You can complain all you want,[nl]but I feel just super about it.
+RAK/RAK0001630
+For now I'll give you this keychain,[nl]alright, so quit it with the sour look.
+CTG/CTG0002840
+.....Th-thanks.
+CTG/CTG0002850
+B-but! I still haven't lost.[nl]The competition still hasn't finished.
+RAK/RAK0001640
+Whaat?
+CTG/CTG0002860
+Why don't we play a bunch more games, and whoever[nl]wins overall makes the other buy a drink.
+CTG/CTG0002870
+That game was wayyy too biased for you anyways.[nl]This way, it's more fair.
+RAK/RAK0001650
+Man, you really hate to lose, huh.
+RAK/RAK0001660
+(In that case, let's pick a game she would[nl] probably like next....)
+1v1 fighting game
+Horror game
+Photo booth
+RAK/RAK0001670
+Why don't we try that fighting game?[nl]With that, I'm a complete beginner, and there wouldn't[nl]be a turn disadvantage.
+CTG/CTG0002880
+Hmm, I think I'll pass on that.
+RAK/RAK0001680
+Why? Seems simple and easy enough to understand.
+CTG/CTG0002890
+Really? If we were gonna settle a competition[nl]by kicking and punching, pressing buttons[nl]seems less simple than fighting for real.
+CTG/CTG0002900
+Ah, but if you wanted to do a real fight one on one,[nl]I'll humor you?
+RAK/RAK0001690
+Yeah, uh, no.[nl]Don't think I'd live to see the next game....
+RAK/RAK0001700
+What about that zombie shooting booth horror thing?[nl]Higher score wins.
+CTG/CTG0002910
+Hey, hey. You're saying that because you know how I feel[nl]about tight, dark places, surely.
+CTG/CTG0002920
+You've got some nerve trying to win[nl]only by playing my weaknesses!
+RAK/RAK0001710
+Sorry, that's not what I had in mind at all, though.
+CTG/CTG0002930
+With that recent bloody "Claude incident",[nl]I think I'm all horrored up at the moment anyways.
+RAK/RAK0001720
+Okay, why don't we do the photo booth, then.
+CTG/CTG0002940
+Is, isn't that - the thing couples go into and take[nl]flirty pictures with each other?[nl]I heard that from Adachi-chan and the others.
+RAK/RAK0001730
+Well, it doesn't really have to be those kinds of pictures.....
+RAK/RAK0001740
+With that, we could have a funny face competition[nl]or something, thought that might be funn-
+CTG/CTG0002950
+N, no!
+RAK/RAK0001750
+Huh?
+CTG/CTG0002960
+Today, I didn't really do much makeup,[nl]I'm not wearing anything special....[nl]Most of all, I don't think my heart is ready....
+CTG/CTG0002970
+A-after all, it's a two-shot, right?[nl]If we're gonna take one, at least let me take some time[nl]and get ready!
+RAK/RAK0001760
+W-was this more serious than I thought....?
+RAK/RAK0001770
+(Using time to get ready, what on earth[nl] kind of funny face is she planning to make....)
+CTG/CTG0002980
+B-but, let's take one some other time.[nl]It's a promise!
+@ザクシャ千棘・小
+RAK/RAK0001780
+A-alright.....[nl]Looks like you're putting in some spirit, huh.
+RAK/RAK0001790
+Well in the meantime, we can get busy[nl]with some other game, like....
+CTG/CTG0002990
+Hey Raku, how's that over there.[nl]The "Quiz Wizard Academy" thing.
+RAK/RAK0001800
+A quiz-type, eh.[nl]Wouldn't say I have the most confidence, but....
+RAK/RAK0001810
+Well, if you say you want to do it, [nl]I don't really have any complaints. Let's get to it.
+CTG/CTG0003000
+Hehe, of course.
+CTG/CTG0003010
+Let's just put the genre as "miscellaneous".[nl]....Ready, and start!
+@ＢＧＭ停止
+@ctg_003_101
+common.asb
+ctg_003_101.asb

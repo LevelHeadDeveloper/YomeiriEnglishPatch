@@ -1,0 +1,298 @@
+__main
+@Lclearscreenall
+@ctg_002
+@イベント開始処理
+RAK/RAK0000680
+Cleaning up the shed took long enough for[nl]it to get pretty late already.[nl]Kyoko-chan really works us like slaves, sheesh.
+CTG/CTG0001190
+Lately, it's been getting dark earlier as well.[nl]I'm also not really a fan of dark places, too......
+RAK/RAK0000690
+Now that you mention it, you're surprisingly easily spooked.[nl]You were pretty shaken by the test of courage.
+KSK/KSK0000250
+Huh? Chitoge-chan, are you by chance scared of ghosts?
+@expose
+CTG/CTG0001200
+Ah, no, I'm more scared of the dark. If we're talking[nl]ghosts themselves, I'm alright.
+CTG/CTG0001210
+If anything, I actually like paranormal activity and stuff.
+RUR/RUR0000010
+Ah, in that case, I have a juicy story[nl]to tell you, Chitoge-chan.
+CTG/CTG0001220
+.....Huh?
+RUR/RUR0000020
+Yeah. Behind the neighborhood shrine, there's that[nl]old decrepit Shinto gate, right?
+RUR/RUR0000030
+From there..... It comes. The ghost.
+KSK/KSK0000260
+Ah, I've heard that before.[nl]Isn't it supposed to look like a young girl with a tail?
+RAK/RAK0000700
+(Huh? Don't tell me......)
+RUR/RUR0000040
+Yes. If you ask her for a wish, she'll[nl]grant any of your desires, according to the rumors.
+CTG/CTG0001230
+Heh, really!? A ghost that'll grant any wish[nl]sounds like something out of a fairy tale.
+KSK/KSK0000270
+I might go to try it out! Maybe I'll wish to[nl]become good at cooking, or something.
+CTG/CTG0001240
+Ah, in that case, Kosaki-chan,[nl]why don't we go together sometime?[nl]I think it'll be interesting.
+RAK/RAK0000710
+O-oi, hold up a sec! Stop that thought there![nl]It's probably fake anyways, fake news!
+CTG/CTG0001250
+Heh~, really?
+RAK/RAK0000720
+Yes, really!
+RAK/RAK0000730
+(That fox is seriously nothing but trouble......[nl]I can't let them get wrapped up in her antics.)
+RAK/RAK0000740
+Those types of stories always end up being marketing ploys[nl]to get people to come and cough up money.
+CTG/CTG0001260
+Mugh. Read the room, bean sprout.
+RUR/RUR0000050
+I see.[nl]So Ichijou-kun isn't really interested in this kind of thing.
+RUR/RUR0000060
+Alright, have you heard this, though?[nl]The one where "Every night, mysterious sounds and[nl]wails are heard from the empty classroom."
+KSK/KSK0000280
+W-what is that? I've never heard that one.
+RAK/RAK0000750
+Yeah, me neither.
+RUR/RUR0000070
+This is a really recent story.[nl]According to a girl from one class over,[nl]she once stayed late on the grounds after club......
+@フェードアウト
+@背景変更
+@ＢＧＭ再生
+RUR/RUR0000080
+And from somewhere, they heard something pop,[nl]followed by a man crying out in pain......
+CTG/CTG0001270
+A, ahaha....... Every school has stuff like that,[nl]those kinds of ghost stories.
+RUR/RUR0000090
+The sound seemed to be coming from the direction[nl]of one of the third-year classrooms.
+RUR/RUR0000100
+Understandably worried, she climbed the stairs and started[nl]towards that classroom, alone.....
+KSK/KSK0000290
+S-she sure is brave. I definitely couldn't have gone.......
+RUR/RUR0000110
+And then, what do you think she saw?
+RUR/RUR0000120
+Right before her eyes, the scene that greeted her......
+@ＢＧＭ停止
+RUR/RUR0000130
+Was a classroom completely soaked[nl]from corner to corner with blood......!
+@叫び揺れ
+CTG/CTG0001280
+Gyahhhhhh!?
+RUR/RUR0000140
+The blackboard, the podium, the desks,[nl]everything was completely covered in fresh blood.[nl]As if someone had been killed there just earlier.
+RAK/RAK0000760
+Seriously.......[nl]So then, what did she do next?
+RUR/RUR0000150
+She lost consciousness, and apparently[nl]can't recall anything afterwards. However......
+RAK/RAK0000770
+However?
+RUR/RUR0000160
+When she woke up, she was at the entrance of the school.
+RUR/RUR0000170
+She should have fainted right there in the classroom,[nl]and yet she came to, she was out front with her back[nl]against the gate.
+KSK/KSK0000300
+S-so what happened......?
+CTG/CTG0001290
+Don't tell me....[nl]the ghost found her and took her outside.....?
+RUR/RUR0000180
+Seems to be the conclusion a lot of people are drawing.
+RUR/RUR0000190
+She tried to look for signs[nl]of the event after it had gotten bright[nl]again, but to no avail.
+CTG/CTG0001300
+We-well then she saw a dream or was hallucinating!? Surely!
+RUR/RUR0000200
+....that's one possibility.[nl]Whether that be true or false, no one knows.
+RUR/RUR0000210
+So why don't we head in tonight and try to prove it?
+KSK/KSK0000310
+Th-that's a joke, right!? I'm not doing that!
+RUR/RUR0000220
+Heh, I'm joking, of course.[nl]At this chilly time of year, I'm not gonna actually[nl]suggest going to the school at night.
+RAK/RAK0000780
+Hm?
+CTG/CTG0001310
+Ah, ahaha....... I might've got[nl]a little hungry from the shock.[nl]Anyone want to join me somewhere?
+RAK/RAK0000790
+What even is that......[nl]Don't blame your animal-like appetite on the ghost stories.
+KSK/KSK0000320
+Ah, but I think I'd like to join.[nl]It'd be nice to get my mind off of ghosts.
+RUR/RUR0000230
+I'll come too. Let's get some sweets or something[nl]from that cafe over there.
+@時間経過演出
+RUR/RUR0000240
+Phew, I'm stuffed. That was good.
+KSK/KSK0000330
+As always, that was an impressive helping[nl]that you flattened, Ruri-chan.
+RUR/RUR0000250
+Today's classical lit homework looked[nl]massive as well, didn't it?[nl]You can't fight on an empty stomach, as they say.
+KSK/KSK0000340
+Ah. That's right, we had to do that.[nl]I'm going to have to get home quick and finish it.
+KSK/KSK0000350
+......Well then, Ichijou-kun, Ruri-chan and I are this way.[nl]See you later.
+RAK/RAK0000800
+Alright. Take care, then.
+CTG/CTG0001320
+See you tomorrow!
+CTG/CTG0001330
+Huh......? It's not here.....?
+RAK/RAK0000810
+Hm? What are you looking for?
+CTG/CTG0001340
+I can't find my classical lit notebook.
+CTG/CTG0001350
+Awesome.......[nl]I might have left it in the classroom.
+CTG/CTG0001360
+Uwah..... what am I gonna do?[nl]With that amount, there's no way[nl]I could cram it in tomorrow.....
+RAK/RAK0000820
+How are you forgetting something so important like that?
+CTG/CTG0001370
+Shut it! You didn't seem so calm when you lost your precious[nl]pendant just a little while back!
+RAK/RAK0000830
+Ugh!
+CTG/CTG0001380
+In any case, we've got to go back to school.
+CTG/CTG0001390
+Come on, Raku! Let's go!
+RAK/RAK0000840
+Haah? Why do I have to?
+CTG/CTG0001400
+I-it just can't be helped! I'm not good with dark[nl]places to begin with, and on top of that we just[nl]were talking about ghosts and stuff......
+RAK/RAK0000850
+So basically, you're scared to go back by yourself?
+CTG/CTG0001410
+Y-yes, exactly! It's scary. You have a problem with that!?
+RAK/RAK0000860
+(Good grief......)
+Guess I'll tag along
+Annoying....
+RAK/RAK0000870
+Well, I can't be leaving a girl to roam around[nl]the school alone at night.[nl]Guess I'll tag along.
+RAK/RAK0000880
+Setting ghosts aside, it'd be bad if you ran into[nl]any sex offenders or anything like that.
+CTG/CTG0001420
+Does that mean you'd protect me if I was attacked?
+RAK/RAK0000890
+Well after all, I am said to be your boyfriend,[nl]so I'll do what I can.
+CTG/CTG0001430
+H-hmmm.[nl]Well, I won't expect anything much,[nl]but I'll thank you for the thought.
+@ザクシャ千棘・小
+RAK/RAK0000900
+(In reality, I'd almost be scared for[nl]the sex offenders if that happened....)
+RAK/RAK0000910
+Why do I have to baby you for every little thing?[nl]Frankly, I can't be bothered.
+CTG/CTG0001440
+Uwah !? You actually said that!?[nl]I helped you find your pendant, didn't I?[nl]Are you forgetting that you owe me!?
+RAK/RAK0000920
+No, that's not what I was talking about.....
+CTG/CTG0001450
+Mugh......![nl]If you do this, I'm going to tell everyone you're a cold,[nl]unfeeling jerk boyfriend who left me to the wolves!
+CTG/CTG0001460
+And if you start getting the cold shoulder from Kosaki-chan[nl]and the others, I won't help you!
+CTG/CTG0001470
+And then you'll spend the rest of your[nl]high school life with that reputation!
+RAK/RAK0000930
+(Looks like she's gone straight to blackmail......)
+RAK/RAK0000940
+Alright, alright! I'll help you.[nl]Looks like I don't have much say anyways.
+CTG/CTG0001480
+Hmph. Should've just said that from the beginning!
+RAK/RAK0000950
+By the way, I don't mind sticking around.......[nl]but why not Tsugumi or Four-eyes?
+CTG/CTG0001490
+About that, Tsugumi and Claude both[nl]are apparently swamped.
+CTG/CTG0001500
+Every once in a while, there are days like this where[nl]I don't have any bodyguards.
+RAK/RAK0000960
+Hmmm. I guess even with them,[nl]there's sometimes important work[nl]they have to prioritize even over you.
+CTG/CTG0001510
+Yeah. I wonder what it is.
+CTG/CTG0001520
+Surely they aren't making a plan on sending you[nl]to the afterlife around now......
+RAK/RAK0000970
+Y-you idiot! Don't say scary stuff like that!
+CTG/CTG0001530
+Fufu, that's what you get for calling me a scaredy cat![nl]Alrighty, let's head out already!
+CTG/CTG0001540
+Ugh..... With that said, scary stuff is still scary......
+RAK/RAK0000980
+O-oi, Chitoge. Don't cling to me so much,[nl]you're making it hard to walk.
+CTG/CTG0001550
+It can't be helped![nl]I'm not good with this kind of situation.
+CTG/CTG0001560
+Uhhh........
+RAK/RAK0000990
+Come on, get up off the floor.
+CTG/CTG0001570
+B-but......
+RAK/RAK0001000
+-tch, you're a lost cause.
+CTG/CTG0001580
+......huh?
+CTG/CTG0001590
+Uwah, wawawa!? Hey wai- wha, what are you doing!?
+RAK/RAK0001010
+If you can't move yourself,[nl]I'm gonna have to move you, right?
+CTG/CTG0001600
+W-w-what!? But this is embarassing, all of a sudden!
+RAK/RAK0001020
+O-oi, quit squirming so much![nl]I mean, it isn't embarrassing just for you, y'know!
+CTG/CTG0001610
+I mean in the first place, doing this,[nl]don't you first set up more of a romantic setting first!?
+CTG/CTG0001620
+Just picking me up like this with no mood, no preparation,[nl]in this damn school, you really don't know even the basics[nl]of a woman's heart, you moron!
+RAK/RAK0001030
+Yeah, yeah, I got it, just calm down.[nl]If you keep moving around like that you could get hurt.
+CTG/CTG0001630
+O-okay.[nl]Just whatever you do, don't drop me.
+CTG/CTG0001640
+Jeez, if you were going to do this, let me at least[nl]mentally prepare a little first.[nl]Seriously......
+RAK/RAK0001040
+You say something?
+CTG/CTG0001650
+It's nothing!!
+RAK/RAK0001050
+That so.....?
+@背景変更
+.............
+RAK/RAK0001060
+Hey, Chitoge.
+CTG/CTG0001660
+W-what.
+@ＢＧＭ停止
+RAK/RAK0001070
+Don't you feel like you can[nl]hear a voice coming from somewhere?
+CTG/CTG0001670
+Huh? S-stop it with that.
+RAK/RAK0001080
+No seriously, listen close for a sec.
+CTG/CTG0001680
+――――!
+@ＢＧＭ再生
+CTG/CTG0001690
+I-isn't this what Ruri-chan was just talking about......?
+RAK/RAK0001090
+Mysterious sounds and screams. Checks out.[nl]Seems like that rumor was really true after all.
+CTG/CTG0001700
+Huh? Th-then, that blood-stained classroom,[nl]and the ghost, too....!?
+RAK/RAK0001100
+Just......maybe.
+RAK/RAK0001110
+In the worst case, it's possible we could be caught[nl]and carried out just like the girl in the rumor.....
+CTG/CTG0001710
+N-noooo!!
+@ＨＰ－１０
+RAK/RAK0001120
+Aghhh!!? C-chitoge!?[nl]Quit grabbing me so tight all of a sudden!
+CTG/CTG0001720
+I-it's cause you're saying all this scary stuff in the first place!
+RAK/RAK0001130
+I-I'm going to put you down, okay!?
+CTG/CTG0001730
+I-I just can't anymore......![nl]Do something, Raku......!
+RAK/RAK0001140
+(Chitoge's totally gone at this point.......[nl]I've got to do something to calm her down)
+@ctg_002_101
+common.asb
+ctg_002_101.asb

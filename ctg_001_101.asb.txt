@@ -1,0 +1,46 @@
+__main
+@Lclearscreenall
+@ctg_001_101
+@2ショット開始
+Calm Chitoge down!
+@ＢＧＭ再生
+CTG/CTG0000520
+In the first place, aren't we both caretakers?
+CTG/CTG0000530
+Why am I always being the one that's bossed around?
+CTG/CTG0000540
+Are you just levitating above me?[nl]What on earth gives you the right?
+@ctg_001_01_ans01
+CTG/CTG0000550
+Explain yourself.
+CTG/CTG0000560
+Being my boyfriend isn't a reason for that attitude.
+@ctg_001_01_ans02
+@ザクシャ千棘・１
+CTG/CTG0000570
+I see. It's true that you have a bit more experience[nl]when it comes to caretaking.
+CTG/CTG0000580
+But, that's still a weak reason.
+@ctg_001_01_ans03
+CTG/CTG0000590
+Hah? Teacher?[nl]Why are you just spewing nonsense now?
+@ctg_001_01_ans04
+CTG/CTG0000600
+I just said we are both caretakers.[nl]Listen when I talk!
+@ctg_001_01_ans05
+CTG/CTG0000610
+Student? So what does that mean?
+CTG/CTG0000620
+That doesn't mean anything at all![nl]Try thinking before opening your mouth next time!
+@ctg_001_01_ans06
+CTG/CTG0000630
+.....Are you just trying to randomly say crap and[nl]hope I'll get confused?
+CTG/CTG0000640
+Thinking fit for a bean sprout!
+@ctg_001_01_ans07
+CTG/CTG0000650
+If you can't say anything, that makes us equal.
+@ctg_001_101_END
+@ctg_001_102
+common.asb
+ctg_001_102.asb

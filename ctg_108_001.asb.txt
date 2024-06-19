@@ -1,0 +1,101 @@
+__main
+@Lclearscreenall
+@ctg_108
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0016940
+Hey, Raku.[nl]Didja catch that TV special on ramen yesteday?
+RAK/RAK0068780
+No, I didn't see it.
+CTG/CTG0016950
+Well, that's a shame. Everything looked absolutely delicious!
+RAK/RAK0068790
+If you wanted to eat it so badly,[nl]why not have your cook make it?[nl]As far as your lunch goes, he can make anything, right?
+@expose
+CTG/CTG0016960
+Yeah, I had him make some for me.[nl]It was really good, but not as good as going out[nl]and getting ramen somewhere.
+CTG/CTG0016970
+I mean, doesn't eating ramen outside make it[nl]feel just that much more special?
+RAK/RAK0068800
+Well, I guess I can see what you mean.[nl]Ramen shops have this unique atmosphere[nl]that amplifies the flavor.
+CTG/CTG0016980
+Right, right! Ohhh, I'm getting hungry just talking about---
+.....
+CTG/CTG0016990
+.....
+WSA/WSA0000200
+Huh? Did you hear that....
+WSB/WSB0000190
+A stomach rumble?
+MSA/MSA0000250
+No way! That was way too loud to be a stomach rumble!
+RAK/RAK0068810
+U-Ummmm....
+Maaan, I'm starved!
+Chitoge, are you hungry?
+(Give her your marshmallows)
+RAK/RAK0068820
+CTG/CTG0017000
+!!
+MSA/MSA0000260
+Well, so that was Raku's stomach![nl]Hahaha, laaame!
+MSB/MSB0000210
+I can give you some sweets if you like.[nl]Interest is 10% though!
+RAK/RAK0068830
+Hey, hey, you guys are terrible!
+CTG/CTG0017010
+W-Wait a second![nl]....I-I'll give you some!
+RAK/RAK0068840
+Aaaah! Where were you keeping all those sweets!?
+CTG/CTG0017020
+Never mind where I got them![nl]There's no need to sweat the finer details.
+CTG/CTG0017030
+That is.....um.....
+@ザクシャ千棘・中
+CTG/CTG0017040
+....Thanks.
+RAK/RAK0068850
+Hm? What did you say?
+CTG/CTG0017050
+N-Nothing. Come on, eat up, will ya?
+RAK/RAK0068860
+Okay, I'll take a few.
+RAK/RAK0068870
+Oh, these marshmallows are delicious.
+CTG/CTG0017060
+Jeez.... Stupid bean sprout.
+RAK/RAK0068880
+CTG/CTG0017070
+----!!
+MSA/MSA0000270
+Huhh!? So that sound we heard just now was Kirisaki!?
+WSA/WSA0000210
+Hey, pipe down, will ya?
+CTG/CTG0017080
+~~~~!!
+CTG/CTG0017090
+Y-Y-You....idiot darling!!
+@ＨＰ－２５
+RAK/RAK0068890
+Gaackh!
+RAK/RAK0068900
+H....Hang a second![nl]Did I do something wrong!?
+CTG/CTG0017100
+Think about it, would you!?[nl]You idiot! You utter moron!
+RAK/RAK0068910
+W-What the hell....
+RAK/RAK0068920
+....It can't be helped.[nl]Here, have some of these.
+CTG/CTG0017110
+....Marshmallows? I-I don't want these!
+RAK/RAK0068930
+Just take them. I'm not trying to ingratiate myself or anything.
+@ザクシャ千棘・小
+CTG/CTG0017120
+T-That's not the problem here....!
+MSB/MSB0000220
+Huh? So what we heard was Kirisaki's tummy rumbling?
+MSA/MSA0000280
+Whaa!? Seriously!?[nl]I'm kind of shocked she's even able to[nl]make a sound like that!
+@イベント終了処理
+common.asb

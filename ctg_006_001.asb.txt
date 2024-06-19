@@ -1,0 +1,1168 @@
+__main
+@Lclearscreenall
+@ctg_006
+@イベント開始処理
+CTG/CTG0006130
+This must be that shrine Ruri was talking about.[nl]If I remember correctly, a ghost with a tail will grant wishes....
+@expose
+.........
+CTG/CTG0006140
+Personally, I think that story's just a little too convenient....
+CTG/CTG0006150
+But making a wish couldn't hurt,[nl]so I'll give it a shot.
+CTG/CTG0006160
+*Gulp*
+CTG/CTG0006170
+U-Ummm, Miss Ghost?[nl]Please.....grant my wish.
+CTG/CTG0006180
+I, Chitoge Kirisaki....
+CTG/CTG0006190
+I want you to make me a ladylike girl,[nl]worthy of being by his side....
+@フェードアウト
+@背景変更
+OTM/OTM0000110
+Thy wish shall be granted!
+@ＢＧＭ再生
+RAK/RAK0003970
+Waaah, what just happened!?[nl]What's the matter!?
+OTM/OTM0000120
+Just now, somebody hath made a wish at the shrine.[nl]I received it and I hath made it come true.
+RAK/RAK0003980
+Received it....[nl]You goddamn radio tower.
+RAK/RAK0003990
+Also, what the hell do you mean, you made it come true?[nl]That would take god-like power....
+OTM/OTM0000130
+Art thou saying I can't do it?[nl]Perhaps I look unassuming, but I have aspirations[nl]of becoming a grand fox.
+OTM/OTM0000140
+'Tis very easy for me to grant the wishes of others.[nl]In fact, by doing so, I can eventually rise to the status[nl]of Sacred Fox.
+RAK/RAK0004000
+Really, so you did have a job or purpose.[nl]I thought you were just a youkai who haunts[nl]people's houses to sleep and eat their food.
+OTM/OTM0000150
+Thou art a very rude man.[nl]I have granted thy wishes on several occasions.
+RAK/RAK0004010
+Huh? My wishes?
+OTM/OTM0000160
+Indeed. For example, that time the two of thee[nl]went to that tropical island!
+OTM/OTM0000170
+Thou didst say that thou wanted to[nl]"while away an everlasting summer on a private beach"[nl]with that blonde girl, didst thou not?
+OTM/OTM0000180
+So, I took the liberty of giving thee a few hours to thyselves[nl]on a tropical beach, just the two of thee!
+RAK/RAK0004020
+Y-You did that!?
+OTM/OTM0000190
+Verily.
+RAK/RAK0004030
+Jeez, you bastard.[nl]We thought we were gonna die after we got shipwrecked!
+OTM/OTM0000200
+Hm? Whether or not thou didst get shipwrecked,[nl]it was still just the two of thee alone, correct?[nl]What art thou angry about?
+RAK/RAK0004040
+Hahh....I see. So that's what that was about.[nl]You're a real menace....
+RAK/RAK0004050
+So, whose wish did you just receive,[nl]and what wish did you grant them?
+OTM/OTM0000210
+Hehehehe. 'Tis a secret.
+RAK/RAK0004060
+Come on....
+OTM/OTM0000220
+Here's a hint:[nl]'Tis somebody close to you.
+RAK/RAK0004070
+What!?
+OTM/OTM0000230
+Well, thou shalt find out soon enough.[nl]Please enjoy it.
+RAK/RAK0004080
+Enjoy it, you say.[nl]Now I'm just worried....
+RAK/RAK0004090
+(This girl....whose wish did she grant?[nl] I hope this doesn't get weird.....)
+@ＢＧＭ停止
+RAK/RAK0004100
+Mmmgh....[nl]Who is....calling so early.....
+RAK/RAK0004110
+'Sup?
+SSR/SSR0000340
+Raku Ichijo. Get yourself dressed[nl]and come right to the Beehive headquarters.
+RAK/RAK0004120
+Huh? Is this Tsugumi? What's going on all of a sudden?
+SSR/SSR0000350
+There's no time to explain.[nl]Rather, it would be difficult to explain over the phone.
+SSR/SSR0000360
+Anyway, get here ASAP. Okay?
+RAK/RAK0004130
+Oh, hey, wait! What time--
+RAK/RAK0004140
+She hung up on me.[nl]What the hell was that?
+@時間経過演出
+RAK/RAK0004150
+*Yawn*....tired....[nl]The hell's going on....
+SSR/SSR0000370
+You're here, Raku Ichijo.
+RAK/RAK0004160
+Yeah, g'morning.
+SSR/SSR0000380
+Skip the pleasantries. You'd better come inside.[nl]We're having a bit of....trouble.
+RAK/RAK0004170
+What's the matter? You look very serious....[nl]What's the trouble?
+SSR/SSR0000390
+Well....instead of trying to explain it,[nl]it would be faster to just show you.
+SSR/SSR0000400
+The entire Beehive is completely baffled.[nl]Of course, I'm at a loss myself.
+RAK/RAK0004180
+It must be quite the quandary for you to say that.
+SSR/SSR0000410
+Yeah. Anyway, why not go on into the mistress's bedroom?[nl]I'm sure even you will be bowled over by this.
+CTG/CTG0006200
+Tell me, who the hell are you?[nl]And what are you doing in my room?
+MTG/MTG0000010
+I don't care what you say....[nl]This room belongs to me, Chitoge Kirisaki.....
+MTG/MTG0000020
+Who the heck are you? Why were you sleeping in my bed?
+CTG/CTG0006210
+That's my line!
+CTG/CTG0006220
+I don't understand! Didn't I tell you I was Chitoge!?
+MTG/MTG0000030
+No. I am Chitoge.
+RAK/RAK0004190
+What's going on here....?
+SSR/SSR0000420
+Exactly what you see. I don't know how,[nl]but when I woke up this morning, there were two mistresses.
+SSR/SSR0000430
+They look and sound exactly the same....[nl]I'm not even sure which one's the real one.
+RAK/RAK0004200
+Honestly, they look more alike the more I look at them.[nl]It's like she's looking into a mirror....
+SSR/SSR0000440
+Yeah, it's honestly hurting my head....
+SSR/SSR0000450
+Anyway, I'm going to go discuss this with Master Claude[nl]and the others. You stay here and keep an eye[nl]on the mistress.
+RAK/RAK0004210
+S-Sure....
+MTG/MTG0000040
+Oh, Mr. Raku! Good morning!
+CTG/CTG0006230
+Hey, Raku! You know which of us is real, right!?
+MTG/MTG0000050
+Indeed. I'm sure he does.[nl]After all, we are lovers. Right, Mr. Raku?
+RAK/RAK0004220
+No, you're calling me "Mister" Raku....[nl]Chitoge isn't the type to be so polite.
+RAK/RAK0004230
+So, if I had to hazard a guess, I'd say the one that's being[nl]more outspoken is the real Chitoge.
+CTG/CTG0006240
+Outspoken....[nl]Well, you're not wrong.
+CTG/CTG0006250
+Anyway, even if the way he said it is annoying,[nl]Raku is right! Now we know, Ms. Fake!
+MTG/MTG0000060
+No, it's not fair to be calling me the fake....
+MTG/MTG0000070
+Hey, Mr. Raku. Take a good look at me.[nl]I am the real Chitoge Kirisaki....right?
+CTG/CTG0006260
+What a fake. You're gonna go crying to Raku now?
+MTG/MTG0000080
+I have no intention of crying....
+CTG/CTG0006270
+Why have you gone and taken my name!?[nl]What's your goal!?
+MTG/MTG0000090
+I'm telling you, I don't have one![nl]I am really and truly Chitoge Kirisaki!
+MTG/MTG0000100
+When I woke up this morning, there was another girl[nl]in my bed who looked just like me, and she told me[nl]she was Chitoge, too--
+MTG/MTG0000110
+It's as though I've suddenly split into two separate people,[nl]and I'm no less surprised than you are!
+CTG/CTG0006280
+You impostor, so brazenly....
+RAK/RAK0004240
+Hey, hang on a sec, Chitoge.[nl]I don't think she's lying to us.
+@expose2
+CTG/CTG0006290
+What, so you're defending her!? Don't tell me you really[nl]think there's somehow two of me now!
+RAK/RAK0004250
+Well....I think I have some idea of what's going on here.
+RAK/RAK0004260
+I know someone who's troublesome and absurd enough to[nl]cause these sorts of outrageous, nonsensical situations....
+OTM/OTM0000240
+Mmgh....[nl]Troublesome and absurd. Thanks for the high praise.
+CTG/CTG0006300
+Waaagh, who the hell is this!?[nl]How long has she been here!?
+OTM/OTM0000250
+The whole time?
+CTG/CTG0006310
+Huh....?
+OTM/OTM0000260
+I might not look it, but I am a very powerful Inari-sama.[nl]I possess the power to appear and disappear as I please.
+MTG/MTG0000120
+Oh, my, so you're an Inari-sama?[nl]Well, I think your ears and tail are absolutely adorable.
+OTM/OTM0000270
+Mhm. Exactly as expected from an ideal girl,[nl]created from mine own power.[nl]She also seemeth to have excellent manners.
+CTG/CTG0006320
+Ideal girl? Created from your own power....?
+RAK/RAK0004270
+So it was you after all.
+OTM/OTM0000280
+Mhm. This girl came to my shrine to make a wish.[nl]And I granted her that wish.
+CTG/CTG0006330
+Uh, a wish....[nl]That's a lie!
+OTM/OTM0000290
+Worry not. I shall not tell anyone what thou hast wished for.[nl]Forsooth, I am an Inari-sama, and I am very respectful[nl]of privacy.
+CTG/CTG0006340
+Hahhh, Inari-sama, huh....[nl]I thought you were a ghost.
+MTG/MTG0000130
+Hahh.....[nl]So the reason we're both here is[nl]because of the wish yesterday?
+OTM/OTM0000300
+Verily.
+RAK/RAK0004280
+So, Chitoge, you told her[nl]"I wish there was one more of me"?[nl]Why on earth would you wish for something so strange....?
+CTG/CTG0006350
+Nope. That wasn't what I wished for.
+MTG/MTG0000140
+I thought all I wished for was for[nl]her to make me a more ladylike girl....
+CTG/CTG0006360
+Oh, hey! Don't say that in front of him!
+CTG/CTG0006370
+B-But if you know about that, then that means[nl]that you really *are* me, after all.
+CTG/CTG0006380
+Hey, Inari-sama. This isn't right.[nl]Why is this happening to me, exactly?
+OTM/OTM0000310
+Huh? No, I am pretty sure this was correct.[nl]I hath made thee a more ladylike girl, as thou requested.
+CTG/CTG0006390
+This isn't what I meant at all![nl]I meant that *I* wanted to be a more ladylike girl![nl]Not that you should make another of me!
+OTM/OTM0000320
+Hmmmmmmmm...?
+RAK/RAK0004290
+So you misunderstood her wish, you stupid fox.
+OTM/OTM0000330
+W-What dost thou mean "stupid fox"!?
+RAK/RAK0004300
+Well, you also caused us to get shipwrecked the other day[nl]because you completely misunderstood what I said,[nl]didn't you?
+CTG/CTG0006400
+Huh!?[nl]Was that also her fault!?
+OTM/OTM0000340
+Mgh...[nl]'Twas not my fault! I was merely trying to grant thy wish!
+OTM/OTM0000350
+I went to all the trouble of granting thy wish,[nl]and thou still hast not even thanked me![nl]People these days aren't very polite!
+MTG/MTG0000150
+No, no. I'm glad to hear your sentiments, Inari-sama.[nl]I appreciate what you've done.
+MTG/MTG0000160
+So please don't be mad, okay?[nl]There, there.
+OTM/OTM0000360
+Mmmm.....[nl]Being patted on the head makes me weak....
+RAK/RAK0004310
+(This Chitoge seems pretty good with Otama....)
+CTG/CTG0006410
+Good grief....
+CTG/CTG0006420
+But I think I understand what's going on now.[nl]I'm kinda surprised my wish came true.
+MTG/MTG0000170
+So, I really *was* wished into existence....[nl]....is what you're saying.
+MTG/MTG0000180
+I'm sorry, Ms. Chitoge....[nl]I guess I really was the fake, after all.
+MTG/MTG0000190
+And I'm sorry I was so rude to you earlier, as well.
+CTG/CTG0006430
+Huh? Uh, yeah. Circumstances being what they were,[nl]it couldn't be helped. I'm sorry I said so many[nl]accusatory things, too.
+MTG/MTG0000200
+No, that's okay.[nl]I can understand why you'd be so distraught[nl]when someone shows up who looks exactly like you.
+CTG/CTG0006440
+Haha.....yeah, I guess so.[nl]We were both caught off guard, weren't we?
+CTG/CTG0006450G
+Hahahaha.....
+RAK/RAK0004320
+(Man, this is....an awfully surreal sight.)
+CTG/CTG0006460
+But you're a lovely girl to talk to.[nl]You're far too nice to be labeled a fake.
+MTG/MTG0000220
+Well, thank you.
+MTG/MTG0000230
+By the way, ummmm....[nl]Ms. Inari-sama?
+OTM/OTM0000370
+What?
+MTG/MTG0000240
+Is there a way to undo this situation?[nl]Can you cancel the wish, maybe?
+OTM/OTM0000380
+Mm. Wouldst thou like to disappear?
+MTG/MTG0000250
+Well, while the idea of disappearing scares me a bit--
+MTG/MTG0000260
+If I remain here as I do, I will cause a lot of[nl]trouble for the real Ms. Chitoge.
+CTG/CTG0006470
+I can't believe she's thinking more about me than[nl]about herself, ooogh.....[nl]She's such a good girl after all....
+OTM/OTM0000390
+Mhm. But I'm afraid I cannot undo the wish.[nl]Forsooth, I am still in training.
+RAK/RAK0004330
+Huh!? Then what are we supposed to do!?[nl]Will there always be two Chitoges!?
+OTM/OTM0000400
+Worry not.[nl]After some time, she shall return to being just one.[nl]My divine power has its limits.
+RAK/RAK0004340
+About how long will that take?
+OTM/OTM0000410
+Well.....? Maybe a day, maybe a week....[nl]Perhaps even a year?
+RAK/RAK0004350
+That's too vague....
+CTG/CTG0006480
+Well, whatever. If you say it'll wear off,[nl]then we'll just wait.
+MTG/MTG0000270
+But how should I behave until that happens?
+RAK/RAK0004360
+Good question. People will get confused[nl]if there's two Chitoges.
+CTG/CTG0006490
+Hmmmmm.....[nl]It can't be helped. We'll have to pull out *that* technique.
+RAK/RAK0004370G
+That technique?
+@フェードアウト
+@時間経過演出2
+@ＢＧＭ再生
+KSK/KSK0000470
+Wow, you have a twin sister, Chitoge?[nl]Amazing, you two look so much alike!
+RUR/RUR0000340
+I'd heard you were living abroad but[nl]decided to come live here suddenly?
+MTG/MTG0000290
+Yes, that's correct.[nl]Because of our mother's work.
+RUR/RUR0000350
+If you need any help adjusting to life in Japan,[nl]just let me know.
+RUR/RUR0000360
+By the way, my name is Ruri Miyamoto.[nl]What's yours?
+CTG/CTG0006500
+Oh, right! Her name is....[nl]Ummmm, her name is....
+CTG/CTG0006510
+....What's her name, Raku?
+RAK/RAK0004380
+I-Idiot, don't ask me!
+RAK/RAK0004390
+(Didn't she even think about this ahead of time?)
+MTG/MTG0000300
+My name is Mitoge Kirisaki.[nl]Nice to meet you, everyone.
+MRK/MRK0000220
+Mitoge, was it?[nl]You seem like a very pleasant young lady, unlike your sister.
+MRK/MRK0000230
+You have the same face, but you couldn't be[nl]more different.... I guess we could call this one[nl]"Beautiful Kirisaki".
+CTG/CTG0006520
+What the hell, Marika?[nl]It's not as though I'm not beautiful.
+MRK/MRK0000240
+Oh, my sincerest apologies, "Uncouth Kirisaki".
+CTG/CTG0006530
+Hey, that's uncalled for!
+MTG/MTG0000310
+Hey, hey, Chito....[nl]Big sis, please calm down.
+MTG/MTG0000320
+Ms. Marika, please be nice to both me and my sister, okay?
+MRK/MRK0000250
+U-Uh-huh....[nl]Understood.
+MRK/MRK0000260
+I don't know why....[nl]But something about talking with this girl makes me[nl]feel like I'm being poisoned.
+RAK/RAK0004400
+(Well, that's because she's the opposite of the original.)
+SYU/SYU0000240
+Wowee, the number of hot girls in our class[nl]just keeps getting higher!
+SYU/SYU0000250
+Mitoge, my name is Maiko! Nice to meet you!
+MTG/MTG0000330
+Yes, I know who you are.
+SYU/SYU0000260
+Huh!?
+MTG/MTG0000340
+I may be uninitiated,[nl]but I look forward to working with everyone.
+RAK/RAK0004410
+Looks like there's nothing to worry about so far.[nl]She seems pretty friendly, and I'm sure she'll be[nl]good friends with everyone right off the bat.
+CTG/CTG0006540
+Yeah, looks like it.
+CTG/CTG0006550
+....Pretty friendly, huh.
+KSK/KSK0000480
+Chitoge, is it ready?
+CTG/CTG0006560
+Yeah, just a bit more....
+CTG/CTG0006570
+Mph....hut....ha....!
+CTG/CTG0006580
+....Alright!
+CTG/CTG0006590
+Finished![nl]My special omelette rice is ready!
+CTG/CTG0006600
+Enjoy, darling.
+RAK/RAK0004420
+Enjoy....what, exactly?
+CTG/CTG0006610
+Well, I mean, this *is* a cooking class, right?[nl]You're supposed to taste what I've made.
+CTG/CTG0006620
+Don't worry. I'm feeling more confident about this[nl]than about the cookies the other day.
+RAK/RAK0004430
+O-Okay. If you insist, I'll have a bite....
+RAK/RAK0004440
+Nom.
+CTG/CTG0006630
+....Well?
+RAK/RAK0004450
+Umm....well, it certainly seems to have a[nl]pleasantly milder stimulation to it....
+CTG/CTG0006640
+What's with that vague review?[nl]If you didn't like it, just say you didn't like it.
+RAK/RAK0004460
+Well, I'll say it outright, then.
+RAK/RAK0004470
+To put it simply, it's too sweet.[nl]What did you put in it this time?
+CTG/CTG0006650
+I mixed a few bottles of this vitamin drink called "Love"[nl]into the beaten eggs.
+CTG/CTG0006660
+All for my darling, who's so busy every day,[nl]I made an omelette that will pick you right up[nl]and refresh you.
+RAK/RAK0004480
+Ughh....[nl]Again with the unneeded cheap tricks, dude....
+CTG/CTG0006670
+Mmgh, what? You don't like it?[nl]I thought for sure I had something[nl]that'd strike you speechless....
+RAK/RAK0004490
+It certainly does strike me speechless.[nl]And not in admiration, either.
+MTG/MTG0000350
+Umm~, pardon me for a second, Mr. Raku.
+MTG/MTG0000360
+If you don't mind, I'd like you to try[nl]the omelette rice I made.....
+RAK/RAK0004500
+RAK/RAK0004510
+Just curious, but does this omelette rice[nl]have any weird stuff in it?
+MTG/MTG0000370
+Oh, so you know?[nl]I put a little something special in there.
+RAK/RAK0004520
+What....?
+MTG/MTG0000380
+You'll just have to wait until you try it.
+RAK/RAK0004530
+Mnghh.....
+RAK/RAK0004540
+(No matter how ladylike she is, she's still[nl]Chitoge's doppelganger. That "little something"[nl]could be anything....)
+CTG/CTG0006680
+Hey, Raku, what are you waiting for?[nl]If you don't eat up now, I won't pity you when you starve.
+RAK/RAK0004550
+I-I know![nl]Dammit, I'm gonna need a second to breathe.....
+RAK/RAK0004560
+Nom!
+RAK/RAK0004570
+Mm?
+MTG/MTG0000390
+How is it, Mr. Raku?
+RAK/RAK0004580
+--!!
+@ＨＰ＋１００
+RAK/RAK0004590
+This is amazing!
+RAK/RAK0004600
+Is this omelet rice or omelet hash?[nl]The rich, tender sauce, combined with the subtle sweetness[nl]of the egg, creates a melt-in-your-mouth deliciousness....
+RAK/RAK0004610
+Hmmmm....[nl]The secret ingredient in this sauce can only be beef tendon!
+MTG/MTG0000400
+Yes, it is! I knew you'd get it, Raku!
+RAK/RAK0004620
+This was cooked painstakingly well until it was[nl]perfectly tender.... And it's absorbed so much flavor, I think[nl]my cheeks are about to fall off....!
+MTG/MTG0000410
+Hahaha.....Mr. Raku, you're too flattering.[nl]But if you say so, I guess it was worth it.
+MTG/MTG0000420
+I'd honestly wondered whether to use oyster sauce as the[nl]secret ingredient instead.... But in the end, I decided to keep[nl]it simple and use beef tendon to bring out the umami.
+RAK/RAK0004630
+Yeah, simple is best, after all!
+CTG/CTG0006690
+Hahaha, and I struck him speechless....
+KSK/KSK0000490
+Amazing. It looks just like something you could order[nl]at a western-style restaurant. You're a great cook, Mitoge.
+MTG/MTG0000430
+I'm not *that* good.[nl]I just followed the recipe, nothing more.
+KSK/KSK0000500
+Really? Hey, Mitoge, could you teach me how to make that?
+MTG/MTG0000440
+Yes. Of course I can.[nl]Let's begin by chopping the vegetables, shall we?
+RAK/RAK0004640
+So besides her personality,[nl]her cooking skills are different from the original?
+CTG/CTG0006700
+I'm sorry.
+CTG/CTG0006710
+I mean, how come only *she* can cook well,[nl]even though we're basically the same person?
+RAK/RAK0004650
+No, well, there's a personality aspect to cooking as well.[nl]Even if two people have the same cooking knowledge, one[nl]may still cook better if they have a better temperament.
+CTG/CTG0006720
+Huh.....[nl]So what you're saying is that I don't have an ounce[nl]of finesse. I'm a crass, careless, violent girl.
+RAK/RAK0004660
+No, I wouldn't go that far....
+CTG/CTG0006730
+Hmmmm. I know all that already without you telling me.
+RAK/RAK0004670
+Jeez, no need to feel inferior.[nl]She's the ideal girl you created,[nl]it's only natural she can do things you can't.
+CTG/CTG0006740
+....Yeah.
+CTG/CTG0006750
+Ideal girl, huh.
+@時間経過演出
+SYU/SYU0000270
+Well, I gotta say it was a pretty big surprise.
+RAK/RAK0004680
+Hm? What was?
+SYU/SYU0000280
+Why, Mitoge, of course!
+SYU/SYU0000290
+She only moved in a few days ago,[nl]and already she's drawing eyes from every boy in school.
+RAK/RAK0004690
+Is that true? I hadn't noticed at all.
+SYU/SYU0000300
+You're just the same as ever.[nl]All the guys are saying they've never seen any girl[nl]as perfect or as beautiful as Mitoge.
+SYU/SYU0000310
+She's athletic, makes good grades,[nl]and she can cook, right? And, being Kirisaki's twin sister,[nl]her appearance is impeccable.
+SYU/SYU0000320
+Above all, unlike her big sister,[nl]she doesn't have any weird baggage.
+RAK/RAK0004700
+You're saying I'm the weird baggage, huh.
+SYU/SYU0000330
+But her most attractive trait is her reserved personality.[nl]She's friendly, kind, and gentle to the point where I think[nl]she's too good to exist in this world.
+RAK/RAK0004710
+Well, actually she doesn't exist in this world.
+SYU/SYU0000340
+Hm? What did you say?
+RAK/RAK0004720
+Uh, well....
+SYU/SYU0000350
+Hey, c'mon, just like I was saying....[nl]Look over there.
+RAK/RAK0004730
+Hmmm....Chitoge....no.[nl]That's Mitoge.
+@背景変更
+MSE/MSE0000010
+.....U-Um, Kirisaki, did you read my letter?[nl]I'd really like it if--
+MTG/MTG0000450
+I-I'm sorry....[nl]I appreciate the thought, but I'm not really looking for[nl]a relationship or anything right now....
+MSE/MSE0000020
+No....! Why not?
+MTG/MTG0000460
+Well, I can't stay in this country forever....
+MSE/MSE0000030
+Then at least until you have to go back.....[nl]Please, will you go out with me?
+MTG/MTG0000470
+I'm sorry....
+MTG/MTG0000480
+Well, if I'm being honest.... To tell the truth,[nl]there's someone else I'm interested in.... So--
+MSE/MSE0000040
+.....!! I-I see.....
+SYU/SYU0000360
+....Another shot down. Poor guy.[nl]I wonder how many more she's had so far.
+RAK/RAK0004740
+She's really popular, I see....[nl]But who's the someone else she's interested in?
+SYU/SYU0000370
+I think I might have an inkling.
+RAK/RAK0004750
+Really!? Who is it?
+SYU/SYU0000380
+Well, it's not really my place to be talking about it~.[nl]If you wanna know, go ask her yourself.
+RAK/RAK0004760
+We don't know each other well enough for[nl]me to just ask her face to face.
+SYU/SYU0000390
+Really? I'm sure you two will hit it off pretty quick.
+SYU/SYU0000400
+Oh, that's right. That reminds me....
+SYU/SYU0000410
+This weekend, we're all taking Mitoge to an amusement park[nl]for a welcome party. You're coming too, right?
+RAK/RAK0004770
+Yeah, I don't mind.
+RAK/RAK0004780
+(Mitoge's doing a much better job of being accepted[nl] by everyone than I expected....)
+@ＢＧＭ停止
+CTG/CTG0006760
+H-Hey, what the hell was that attraction.....
+CTG/CTG0006770
+I went in there, expecting a "Fun Surprise House"....[nl]I didn't think it'd be a haunted house!
+MRK/MRK0000270
+Kirisaki, you were making the strangest noises[nl]the whole time. You were pretty scared.
+CTG/CTG0006780
+Yeah, but you also kept hugging my darling for no reason.
+KSK/KSK0000510
+Ooogh.....[nl]I'm not too good with this sort of thing, either....
+RUR/RUR0000370
+But I'd say you did well for[nl]being such a coward, Kosaki.
+SYU/SYU0000420
+In the end, the only ones who didn't turn pale from fright[nl]were Ruri and Mitoge.
+SYU/SYU0000430
+Ruri aside, I didn't expect Mitoge[nl]to be such a calm and collected young lady.
+SYU/SYU0000440
+Wouldn't you say she's neat and tidy?[nl]The dignified, unperturbed type?
+RAK/RAK0004790
+Huh? Where did Mitoge go?
+SSR/SSR0000460
+I saw her going to a stand a moment ago.
+RAK/RAK0004800
+A stand?
+MTG/MTG0000490
+....Everyone, thanks for waiting for me!
+MTG/MTG0000500
+Here. I got everyone a hot drink.
+MTG/MTG0000510
+It must have been pretty cold in that haunted house, right?[nl]Have some cocoa and warm up.
+SYU/SYU0000450
+Oh! How thoughtful of you![nl]Thank you, Mitoge.
+RAK/RAK0004810
+You didn't have to.[nl]I can't believe you went to so much trouble[nl]and bought these for all of us....
+MTG/MTG0000520
+No, it's alright.[nl]You all did such a good job planning this for me,[nl]so this is the least I can do to return the favor.
+SYU/SYU0000460
+You really didn't need to be this thoughtful.
+SYU/SYU0000470
+Earlier you did give us those lunchboxes you made.
+SSR/SSR0000470
+Indeed. Those homemade wieners were delicious.
+MTG/MTG0000530
+Thank you very much.[nl]I am glad to hear you say so.
+KSK/KSK0000520
+You're a great cook, you're smart....[nl]And you're honestly amazing, Mitoge.[nl]You're a model for girls.....
+RUR/RUR0000380
+I think she's just a smidge *too* good.[nl]A perfect beauty with no weaknesses.
+MRK/MRK0000280
+Honestly, I'm glad she's not my sister.[nl]If Mitoge was *my* rival, I wouldn't stand a chance.
+CTG/CTG0006790
+Hang on, Marika. What do you mean by that?[nl]Are you trying to say I'm that easy to beat?
+MTG/MTG0000540
+No, you're all such wonderful people.[nl]You're so nice to a transfer student like me[nl]who arrived in the middle of the school year.
+SYU/SYU0000480
+Oho, you really are such a nice girl, Mitoge.[nl]It's almost heartwarming....
+CTG/CTG0006800
+Hahh.....
+CTG/CTG0006810
+As I thought, everyone loves a ladylike girl....
+RAK/RAK0004820
+What's wrong, Chitoge?
+CTG/CTG0006820
+N-Nothing. Let's finish our cocoa and press on.
+KSK/KSK0000530
+Oh, sorry. I'm just gonna sit on this bench for a while.[nl]My legs are still shaking from earlier....
+CTG/CTG0006830
+Oh, are they? Are you okay, Kosaki?
+KSK/KSK0000540
+Yes. I just need a moment to rest.
+RUR/RUR0000390
+Then I'll sit with you.
+SSR/SSR0000480
+Oh, if that's the case.... Mistress, may I poke around[nl]the stalls for a while? There's actually this one[nl]stuffed animal I noticed a while back....
+CTG/CTG0006840
+S-Sure. That's fine.
+MRK/MRK0000290
+I'm going to the stalls, too.[nl]I need to buy something for my father.
+SYU/SYU0000490
+Well then, I'll go with Seishiro and Marika~.
+SYU/SYU0000500
+Okay, Raku, I'll give you a ring on your cell phone.[nl]We'll meet up later, okay?
+RAK/RAK0004830
+Okay.
+MTG/MTG0000550
+Everyone's left.
+RAK/RAK0004840
+We just kinda fell apart suddenly.
+MTG/MTG0000560
+But as long as we're here, let's go enjoy[nl]some of the attractions, even if it is just the three of us.
+CTG/CTG0006850
+Sure. But first....
+CTG/CTG0006860
+Excuse me![nl]Can I get one hamburger steak and some fried shrimp?[nl]Also some beef stew!
+RAK/RAK0004850
+You know, I can't help but wonder[nl]if you're trying to be a food fighter.
+CTG/CTG0006870
+I mean, isn't eating lots of tasty food[nl]a happy thing?
+RAK/RAK0004860
+That's true, but there's a limit to how much you can eat.
+CTG/CTG0006880
+Huh? But Mitoge isn't eating at all, right?[nl]If she's my other self, it wouldn't be a[nl]surprise if she also ate a lot.
+CTG/CTG0006890
+What's wrong, no appetite?[nl]Maybe you're not feeling well, or something?
+MTG/MTG0000570
+N-No. It isn't anything like that.
+MTG/MTG0000580
+I just don't think it would be ladylike for me[nl]to eat a huge meal in front of a gentleman.
+CTG/CTG0006900
+Ooogh....!?[nl]L-Ladylike...!?
+MTG/MTG0000590
+Oh, no! I'm not criticizing you or anything, Ms. Chitoge![nl]That's just my preferred take on it.
+RAK/RAK0004870
+Well, if you were to ask me whether a gluttonous[nl]woman is ladylike, I'd probably say no.
+CTG/CTG0006910
+Hmmmph. I don't have the ladylike character[nl]of someone like Mitoge anyway!
+CTG/CTG0006920
+Waiter! Add 300 grams of rib roast!
+MTG/MTG0000600
+Are you still eating, Ms. Chitoge!?
+CTG/CTG0006930
+Of course. I'm going to be riding *that* after this,[nl]so I need to keep my strength up!
+RAK/RAK0004880
+"That"?
+CTG/CTG0006940G
+KYAAAAAAAAAAHHHH!
+RAK/RAK0004890
+WAAAAAAAAAAAAAGGHHHHH!!!
+CTG/CTG0006950
+Round and round!!
+MTG/MTG0000620
+Hehe.....that's so refreshing!
+CTG/CTG0006960
+Faster, faster! Not enough speed!
+RAK/RAK0004900
+Waaaaaaaaaaaaaaaaaaah!
+CTG/CTG0006970
+Wow, that was fun!![nl]Roller coasters are the best!
+MTG/MTG0000630
+Yes. It was quite the thrilling and exciting ride.
+CTG/CTG0006980
+Hey, hey, wanna ride it one more time?
+RAK/RAK0004910
+H...wait....I'm.....already....
+CTG/CTG0006990
+Aww, you're giving up already?[nl]We've come all the way to an amusement park, it would be[nl]a waste to not ride until you're satisfied.
+RAK/RAK0004920
+No....I can't....anymore....[nl]If I ride any more, the food I just ate....will come back up....
+CTG/CTG0007000
+Aahhh. Puny bean sprout.[nl]Imagine the sound you'd make on *this* thrill ride.
+MTG/MTG0000640
+Hey, hey, Ms. Chitoge.[nl]I told you already, coercion isn't good.
+RAK/RAK0004930
+Oooogh....thanks, Mitoge....[nl]Keep talking....
+MTG/MTG0000650
+No matter how nice Mr. Raku is to you,[nl]when you try to push him around and[nl]take advantage of him, that's no good.
+MTG/MTG0000660
+Moreover, you aren't even a real couple.[nl]You're fake lovers.
+CTG/CTG0007010
+Huh....?
+RAK/RAK0004940
+Please, don't make me do any more of this.[nl]My ear canals are screaming at me, too.
+CTG/CTG0007020
+Aw, okay, okay, fine.[nl]We'll do something milder now.
+CTG/CTG0007030
+Woahh, amazing! We're so high up![nl]I can see for miles!
+RAK/RAK0004950
+Hey, Chitoge, calm down.[nl]You're not in elementary school anymore.
+MTG/MTG0000670
+Hehehe, she's the most excited out of all of us.
+CTG/CTG0007040
+That's because this is such a great view![nl]Maybe we can even see where we live?
+MTG/MTG0000680
+I doubt it, since we're out of the prefecture....
+CTG/CTG0007050
+Well, let's see if I can't spot Mt. Fuji![nl]Where is it!? Where is Mt. Fuji!? Where!?
+RAK/RAK0004960
+S-Stop moving around so much, you're shaking the car!
+MTG/MTG0000690G
+Aaaaagh!?
+RAK/RAK0004980
+Aaaagh, I don't even need to tell you.[nl]Now they've made an emergency stop.
+CTG/CTG0007070
+----
+RAK/RAK0004990
+What's the matter?
+CTG/CTG0007080
+Ummm.....
+CTG/CTG0007090
+I'm just kinda wondering why[nl]Mitoge is holding onto you so comfortably.[nl]And you're even holding hands so naturally....
+RAK/RAK0005000G
+Oh.
+MTG/MTG0000710
+I-I'm sorry, Ms. Chitoge![nl]The Ferris wheel stopped all of a sudden,[nl]and it caught me off guard....
+RAK/RAK0005010
+E-Exactly! It was just an accident![nl]And it was also your fault that happened!
+MTG/MTG0000720
+I didn't mean it any other way, okay? Honest.
+CTG/CTG0007100
+CTG/CTG0007110
+If you're the same as me, is it possible that....
+MTG/MTG0000730
+W-What's wrong, Ms. Chitoge?[nl]You suddenly look super-scary.
+CTG/CTG0007120
+H-Hey, Mitoge. Do you....
+RAK/RAK0005020
+Oh, it's Shuu. He's awfully late.
+RAK/RAK0005030
+Hm? Where are we? We're in the Ferris wheel.[nl]Chitoge accidentally triggered the emergency stop.
+RAK/RAK0005040
+Huh? You envy me for being in an[nl]enclosed space with them?[nl]I told you to shut up already.
+RAK/RAK0005050
+We'll be there as soon as we get off.[nl]See ya.
+RAK/RAK0005060
+That was Shuu.[nl]He said he'd meet up with us when we get off.
+CTG/CTG0007130
+O-Okay.
+MTG/MTG0000740
+Ms. Chitoge.[nl]Were you about to ask me something just now?
+CTG/CTG0007140
+No, not really....
+RAK/RAK0005070
+??[nl]Weirdo....
+SYU/SYU0000510
+Woww, we sure had a lot of fun today.
+MTG/MTG0000750
+Everyone, thanks for going out of your way for me today.[nl]It *was* a lot of fun.
+KSK/KSK0000550
+No, don't worry about it, Chitoge.[nl]Let's come here again sometime.
+RAK/RAK0005080
+(Hmm?)
+RUR/RUR0000400
+We're very happy to have you in our[nl]class from now on, Chitoge.
+RAK/RAK0005090
+Hahaha, you two, that's Mitoge. Chitoge's over there.[nl]They might look alike, but they're completely different.
+KSK/KSK0000560
+Oh, t-that's right! That *is* Mitoge![nl]What am I even saying?
+RUR/RUR0000410
+Really, I didn't notice.[nl]....I'm sorry, it was very rude of me to get your names wrong.
+CTG/CTG0007150
+I-It's fine, it's fine.[nl]We look alike, so it happens.
+MTG/MTG0000760
+That's right. Kosaki, Ruri, you don't need to worry.
+SSR/SSR0000490
+Alright, now that the mistre-- I mean, Mistress Mitoge[nl]is satisfied, we can head home.[nl]We've still got time to catch the train.
+MTG/MTG0000770
+*yawn*
+MTG/MTG0000780
+Oh, sorry. It's been a long day of fun,[nl]and I'm a little sleepy.
+MRK/MRK0000300
+It's totally fine to sleep on the train,[nl]but please don't snore, okay, Kirisaki?
+RAK/RAK0005095
+Marika, that's Mitoge.[nl]Mitoge doesn't snore.
+MRK/MRK0000310
+H-Huh? That's right. I seem to have mistaken Kirisaki[nl]for Mitoge. That's strange....
+RAK/RAK0005100
+What, isn't everyone tired?[nl]Let's just go back home and try not to mix them up again.
+SYU/SYU0000520
+Yes, yes, it's a welcome party[nl]all the way until we get back~.
+RAK/RAK0005110
+(I wonder if Chitoge and Mitoge really do look that similar....)
+KSK/KSK0000570
+Hey, do you think you could help me out[nl]with something I didn't understand in class just now?
+MTG/MTG0000790
+Sure, what is it?
+KSK/KSK0000580
+In English, when you want to give someone your seat[nl]on the train, you do not say "GIVE A SEAT"?
+MTG/MTG0000800
+That is correct.[nl]Native speakers don't use "give" very much.
+MTG/MTG0000810
+Instead, you should say "Offer" as in "offer a seat".
+KSK/KSK0000590
+Oh...I see.[nl]I guess it makes sense that you know that, Chitoge,[nl]having lived abroad. I can always rely on you.
+CTG/CTG0007170
+H-Hey, Kosaki. That's Mitoge you're talking to.[nl]I'm over here....
+KSK/KSK0000600
+I'd like to study abroad at some point, too, but it[nl]seems like a lot of work. I'd need to learn[nl]how to speak English conversationally and stuff....
+CTG/CTG0007180
+Heeey, Kosaki? Can you hear me?
+KSK/KSK0000610
+....Huh!?　Oh, C-Chitoge?[nl]How long have you been standing there?
+CTG/CTG0007190
+Well, I've been here with Mitoge right from the start....
+KSK/KSK0000620
+Huh....? That's weird.[nl]I didn't see you at all....
+CTG/CTG0007200
+Hahh....you too, huh, Kosaki....[nl]Just as I thought....
+RAK/RAK0005120
+(W-What's with this conversation?[nl] There's something a bit strange about it.
+RAK/RAK0005130
+Hey, Chitoge. Got a second to talk?
+CTG/CTG0007210
+Uh, sure. Let's go to the roof.
+RAK/RAK0005140
+What was all that just now? I don't think it's normal[nl]that Onodera wouldn't notice you when you were[nl]standing so close to her.
+CTG/CTG0007220
+Yeah, I think it's pretty weird.[nl]But this sort of thing's been happening a lot lately.
+CTG/CTG0007230
+Like, I'm talking to someone and they don't even notice me,[nl]or they might call Mitoge "Chitoge" instead of me.
+CTG/CTG0007240
+It's not just Kosaki.[nl]Ruri and Marika are doing the same thing for some reason....
+RAK/RAK0005150
+The hell....?[nl]They're not the sort of person to[nl]intentionally leave someone out, right....?
+CTG/CTG0007250
+Yeah, I know that.
+CTG/CTG0007260
+But it's kinda weird,[nl]everyone's treating me like I'm "not there".
+RAK/RAK0005160
+"Not there"....?
+OTM/OTM0000420
+That is because thou art disappearing.
+RAK/RAK0005170
+You're popping in out of nowhere again, Otama.
+CTG/CTG0007270
+Ummm, more importantly....[nl]What do you mean by "disappearing"?
+OTM/OTM0000430
+Did I not explain it to thee before?[nl]My divine power is expiring, so thou shalt go back[nl]to being one, rather than two.
+OTM/OTM0000440
+Therefore, thy existence is shaken[nl]and it is getting more and more difficult for other people[nl]to recognize that thou art there.
+RAK/RAK0005180
+No, that doesn't make any sense.[nl]Why should the original Chitoge disappear?[nl]Wasn't it Mitoge who was created by the wish?
+OTM/OTM0000450
+I never said the other party would disappear.[nl]The one who wishes to disappear will disappear, that's all.
+RAK/RAK0005190
+Huh? So then why would Chitoge disappear?
+RAK/RAK0005200
+There's no way she'd want herself to disappear....
+CTG/CTG0007280
+RAK/RAK0005210
+Chitoge....?
+OTM/OTM0000460
+Thou hast figured it out, it seems.
+OTM/OTM0000470
+Thou must certainly believe the other girl[nl]to be worth more than thyself, correct?
+CTG/CTG0007290
+W-Well, Mitoge is a very kind and gentle girl,[nl]she can cook.... And she's just very girly overall.
+CTG/CTG0007300
+Certainly, if one of us had to disappear,[nl]it might be better if it were me....[nl]Well, that's what I thought for a second there.
+RAK/RAK0005220
+Hey, Chitoge. Where the hell did that come from!? You[nl]can't seriously be thinking about disappearing, can you?
+CTG/CTG0007310
+I-I don't think there's a problem with that, is there?[nl]If I disappear, and Mitoge stays, that doesn't mean that[nl]"Chitoge Kirisaki" disappears.
+CTG/CTG0007320
+Besides, I know that you and[nl]everyone else like Mitoge better.
+CTG/CTG0007330
+If I disappear, then no one will be bothered.
+RAK/RAK0005230
+Wha....!
+OTM/OTM0000480
+I see. If thou thinkest this of thyself,[nl]then it is inevitable that thou shalt disappear.
+RAK/RAK0005240
+H-Hang on a second! That's impossible!
+RAK/RAK0005250
+First of all, what about me!?[nl]Even if no one else does, I....[nl]I clearly recognize the original Chitoge!
+OTM/OTM0000490
+That is probably because....[nl]Thou art necessary for the girl's "true wish" to come true.
+RAK/RAK0005260
+Huh?
+OTM/OTM0000500
+Well, 'tis only a matter of time.[nl]At this rate, thou shalt be gone in about one night or so....[nl]Any regrets?
+CTG/CTG0007340
+One night, huh....[nl]Well, I was a bit prepared for this, but it can't be helped.[nl]Mitoge can make everyone happier than I can.
+RAK/RAK0005270
+Huh!? Don't say such stupid things![nl]Mitoge is Mitoge! You're you![nl]Think of your own happiness a little!!
+CTG/CTG0007350
+It's fine, Raku. This way, my true wish can be fulfilled.
+RAK/RAK0005280
+....And your true wish is?
+CTG/CTG0007360
+It might sound a little funny, but it looks like[nl]I'll stop living soon, so I'll tell you the truth.
+CTG/CTG0007370
+I wanted to be the perfect girl for you.[nl]I wanted to be the ideal, ladylike girl to be your girlfriend.
+RAK/RAK0005290
+Huh....?
+CTG/CTG0007380
+Maybe if Mitoge becomes "Chitoge", that can happen....[nl]There isn't a girl more ideal than her, right?
+CTG/CTG0007390
+I think she could make you happy,[nl]even as your real girlfriend.
+CTG/CTG0007400
+For Chitoge Kirisaki and Raku Ichijo to be happy lovers....[nl]That's my true wish.
+CTG/CTG0007410
+And if it will just come true, I'll be happy....
+RAK/RAK0005300
+Hey.....wait, Chitoge![nl]So what you're saying....is that you li--
+CTG/CTG0007420
+P-Please don't tell everyone what I said.[nl]I said it on the spur of the moment....
+RAK/RAK0005310
+No, I was just surprised at the suddenness of it,[nl]and I'm not quite sure how to answer....
+CTG/CTG0007430
+....It's fine, you don't have to answer.[nl]You can tell her.
+RAK/RAK0005320
+Oh, hey! Where are you going, Chitoge!?
+CTG/CTG0007440
+Hahaha. Sorry, there's a lot of stuff[nl]jumbled up in my head right now.... Do you think you[nl]could leave me alone for a minute?
+RAK/RAK0005330
+Chitogeee!
+OTM/OTM0000510
+Ahh, youth.
+RAK/RAK0005340
+This isn't the time to be like that![nl]If you don't do something, Chitoge will disappear![nl]Come on, do something!
+OTM/OTM0000520
+If it is her wish, then there is nothing I can do.
+OTM/OTM0000530
+I can grant wishes, but I cannot interfere with them.
+RAK/RAK0005350
+Crap.....![nl]You useless bastard!
+OTM/OTM0000540
+Still thy tongue. She shall not just disappear.
+OTM/OTM0000550
+Rather, it shall be as though she never existed....[nl]That would be a more apt description.
+OTM/OTM0000560
+When that happens, even thou shalt not recall her.[nl]In other words, there is no reason to be so pessimistic.
+RAK/RAK0005360
+Stop messing around.....
+RAK/RAK0005370
+Stop messing around....[nl]You stupid fox!
+SSR/SSR0000500
+What's wrong, Raku Ichijo?
+RAK/RAK0005380
+!!
+RAK/RAK0005390
+Tsugumi....
+SSR/SSR0000510
+It's unlike you to be cursing by yourself.
+RAK/RAK0005400
+I'm not exactly by myself.[nl]Chitoge was here a few minutes ago, too....
+RAK/RAK0005410
+Did you pass Chitoge on the stairs?
+SSR/SSR0000520
+The mistress? I'm pretty sure I didn't pass her....
+SSR/SSR0000530
+No, now that you mention it,[nl]I think I did pass her....[nl]Mmmgh, I can't remember.
+RAK/RAK0005420
+(No good. Even Tsugumi doesn't notice Chitoge anymore....)
+RAK/RAK0005430
+(Dammit, what am I supposed to do....?)
+SSR/SSR0000540
+I have a message for you, Raku Ichijo.[nl]It's from the boss.
+RAK/RAK0005440
+The boss being....Chitoge's dad?
+SSR/SSR0000550
+Yeah, he wants you to head to the Kirisaki[nl]mansion immediately. He says this is an[nl]urgent and important matter.[nl]The head of the Shuei-gumi has already arrived.
+RAK/RAK0005450
+My dad, too!? What kind of business is this?[nl]Don't tell me there's *more* trouble[nl]between us and the Beehive!?
+SSR/SSR0000560
+I don't know. I heard it was urgent.[nl]There's a very good chance it's a precarious situation.
+SSR/SSR0000570
+I have a car waiting just outside the gates.[nl]Hurry up and get going.
+RAK/RAK0005460
+Dammit. she couldn't have missed Chitoge there,[nl]what the hell was all that about....
+RAP/RAP0000010
+No, really! This is great news!
+CTP/CTP0000010
+Yeah. Now we can finally get this[nl]burden off our shoulders.
+MTG/MTG0000820
+That's right. Peace is good.
+RAK/RAK0005470
+I heard it was urgent, so I rushed right over....[nl]What the hell is going on, dad?
+RAP/RAP0000020
+Let me tell ya. I'm glad to announce[nl]that we and the Beehive are joining forces.
+CTP/CTP0000020
+This move will make us a family with a size unparalleled[nl]anywhere else in the world. No other organization will be[nl]able to take us on easily.
+RAP/RAP0000030
+Well, that means we won't be needing to[nl]fight anyone for a while, Raku.
+RAK/RAK0005480
+Uh, well, if it's for peace, then that's great---
+RAK/RAK0005490
+But why do I have to marry Chitoge for us to join forces!?[nl]This is so abrupt, I don't understand!
+RAP/RAP0000040
+Well, you know, it *is* a collusion between families.[nl]The heirs should, at least, marry each other.
+RAP/RAP0000050
+Besides, we're not saying you should get married right away.[nl]After all, you are still in high school.[nl]All you need to do is get engaged.
+RAK/RAK0005500
+Engagement, so you're using me for a political marriage....![nl]You can't just tell me unilaterally like that....!
+CTP/CTP0000030
+Oh, Raku, are you upset?
+RAK/RAK0005510
+Well, of course I am....
+CTP/CTP0000040
+But is that really the case?
+CTP/CTP0000050
+Maybe it's because you've been pretending for so long,[nl]but from what I can see, the two of you look like you're[nl]getting along much better than before.
+RAK/RAK0005520
+M-Maybe a little......
+RAK/RAK0005530
+But engagement!? That's *way* different from pretending[nl]to be dating! We'd at least need to have feelings for[nl]each other!
+CTP/CTP0000060
+Feelings for each other, huh....
+CTP/CTP0000070
+At the very least, Chitoge seems to have[nl]feelings for you, though....
+CTP/CTP0000080
+Isn't that right, Chitoge?
+MTG/MTG0000830
+Uh, yes....[nl]If you're okay with it, Mr. Raku,[nl]I wouldn't mind getting engaged.
+MTG/MTG0000840
+No, actually, let's absolutely get engaged, please....!
+RAK/RAK0005540
+Y-You....!?[nl]What are you saying...!?
+RAP/RAP0000060
+Hahaha, you're such an honest and good girl![nl]Raku, are you going to say "no" to your girlfriend[nl]after she went so far as to tell you that?
+RAK/RAK0005550
+S-She isn't even my girlfriend!
+RAP/RAP0000070
+No need to be so shy. You've been a couple for over[nl]half a year now, even if you were just pretending.[nl]You're basically a couple now.
+RAK/RAK0005560
+That's not what I meant....!
+RAK/RAK0005570
+Dad, Chitoge's dad, you're both mistaken!
+RAK/RAK0005580
+This Chitoge isn't the real Chitoge!
+MTG/MTG0000850
+Mr. Raku....
+CTP/CTP0000090
+Hm? What are you talking about?[nl]Chitoge's Chitoge, isn't she?
+RAK/RAK0005590
+(Crap....they can't tell at all...![nl] It must be because Chitoge's disappearing....!)
+RAP/RAP0000080
+Well, hang on. I'll bet you're probably just upset[nl]that we sprang this engagement on you so suddenly.
+RAP/RAP0000090
+Hahahaha, you've got some serious guts, son!
+RAK/RAK0005600
+You're wrong! Arrgh, I don't know[nl]how to explain this....
+RAP/RAP0000100
+Well, whatever. We'll just step out for a second,[nl]so take some time to calm down and reassess the situation.
+RAK/RAK0005610
+H-Hey, Dad!
+RAP/RAP0000110
+...Hey, Adelt, while we're out, let's gather[nl]all the young folks up for the engagement reception tonight.
+CTP/CTP0000100
+Yeah. One of those "leave the rest to the young folks"[nl]kind of things.
+CTP/CTP0000110
+Raku, I'm sure you were caught off guard[nl]by how sudden our meeting was.[nl]I hope the two of you can talk it over for a while.
+RAK/RAK0005620
+Uh, hey...!
+MTG/MTG0000860
+They've left....
+RAK/RAK0005630
+Dang it....!
+RAK/RAK0005640
+Mitoge! You're at fault here, too....![nl]How are you so calm about this!?
+RAK/RAK0005650
+Why did you accept such an absurd engagement!?[nl]You could have refused in any number of ways!
+MTG/MTG0000870
+Was it....really ridiculous?
+MTG/MTG0000880
+I don't think it was.
+RAK/RAK0005660
+MTG/MTG0000890
+I didn't really have any intention of refusing.[nl]Getting engaged to you, Mr. Raku,[nl]is what I truly intend to do.
+RAK/RAK0005670
+Huh....?
+MTG/MTG0000900
+Don't you understand?[nl]With all my heart, I love you!
+MTG/MTG0000910
+Political marriage or not,[nl]I'm just happy for the opportunity to be with you, Mr. Raku!
+RAK/RAK0005680
+W-What the....?
+MTG/MTG0000920
+I may be just a fake, created by a wish,[nl]but I assure you these feelings are very real.
+MTG/MTG0000930
+You see, the reason I was created was because of[nl]the love that Chitoge Kirisaki had for you.
+RAK/RAK0005690
+!!
+RAK/RAK0005700
+I see....so that's it.
+RAK/RAK0005710
+I'd heard about that from Chitoge a little while ago.[nl]To be honest, I was pretty surprised.
+MTG/MTG0000940
+Then, will you--
+RAK/RAK0005720
+No, not happening.[nl]I'm not just gonna accept you.
+MTG/MTG0000950
+Why not? Mr. Raku, is there somebody else you like?
+RAK/RAK0005730
+No, at this point, it doesn't matter who I like.
+RAK/RAK0005740
+But I can think of at least one person who will[nl]be absolutely miserable if I accept this proposal, right?
+MTG/MTG0000960
+Let me guess, is it the real Chitoge?
+RAK/RAK0005750
+Right now, she intends to concede her existence[nl]to you and disappear.
+RAK/RAK0005760
+She's foolishly convinced herself[nl]that she's not worth anything.
+RAK/RAK0005770
+So if I were to accept you,[nl]wouldn't she disappear?
+MTG/MTG0000970
+You're so kind, Mr. Raku....[nl]You've proven that you really[nl]do care about "Chitoge Kirisaki".[nl]Chitoge is very lucky to have you think so highly of her.
+MTG/MTG0000980
+But I am also Chitoge, Mr. Raku.
+MTG/MTG0000990
+No. Rather, now that the original is disappearing,[nl]I can say that I am *the* Chitoge Kirisaki.
+RAK/RAK0005780
+That's not true! Chitoge's Chitoge![nl]And you're just....
+RAK/RAK0005790
+You're just....an impostor!
+MTG/MTG0001000
+So what you're saying....[nl]is that I'm the one who should disappear?
+MTG/MTG0001010
+But, at this point, it does not matter which of us is real.[nl]Chitoge has made up her own mind to disappear.
+MTG/MTG0001020
+Mr. Raku. If you truly do care for her,[nl]please consider her feelings as she disappears.
+RAK/RAK0005800
+What do you mean?
+MTG/MTG0001030
+I, Chitoge Kirisaki, would like you to marry me.
+MTG/MTG0001040
+Because that's what she....[nl]the original Chitoge Kirisaki, wished for as well.
+RAK/RAK0005810
+(Jeez, she's as stubborn as the original....)
+RAK/RAK0005820
+(If I let her get to me and accept,[nl]the real Chitoge might disappear forever....!)
+@ctg_006_101
+common.asb
+ctg_006_101.asb

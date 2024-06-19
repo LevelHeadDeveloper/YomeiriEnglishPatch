@@ -1,0 +1,81 @@
+__main
+@Lclearscreenall
+@ctg_127
+@イベント開始処理
+CTG/CTG0020560
+Hahh.... It's been too long since we've done anything.[nl]Raku, let's do something fun.
+@ＢＧＭ再生
+RAK/RAK0072150
+That's a bit unreasonable all of a sudden. It's your life,[nl]so why not entertain yourself, instead of relying on others[nl]to do it for you?
+CTG/CTG0020570
+Mghh....![nl]If it was that simple, we wouldn't be having this conversation!
+@expose
+CTG/CTG0020580
+I mean, to begin with, that kind of attitude is the whole[nl]reason no thought or planning goes into our scheduled[nl]dates. You should at least plan dates a little more seriously.
+RAK/RAK0072160
+Huh!? Why's the conversation going that way!?
+RAK/RAK0072170
+First of all, while we're on that subject,[nl]you haven't made any kind of solid plans yourself!
+CTG/CTG0020590
+Come on, that's not even the girl's responsibility.[nl]It's up to the guy to escort her.
+RAK/RAK0072180
+Isn't it kinda unfair to only play the "woman" and "man"[nl]cards only in situations like this?
+RAK/RAK0072190
+If you're gonna do that, you should try to be[nl]a little more "womanly" and stop being so crass.
+CTG/CTG0020600
+Hey, now that's just terrible![nl]How exactly am I crass to begin with!?
+RAK/RAK0072200
+You're pretty quick to yell at me, just saying!
+RAK/RAK0072210
+If you keep acting so spoiled,[nl]you might lose out on some affection.
+@expose2
+CTG/CTG0020610
+Affection....!?[nl]I-I-I don't even care about your affection to begin with!
+RAK/RAK0072220
+Huh!? I didn't mean *mine*![nl]I meant that of whoever you end up liking!
+CTG/CTG0020620
+Whaddya talking about!?[nl]I don't need *you* worrying about that!
+RAK/RAK0072230
+Come on, I was just worried![nl]You're such a-- Jeez!
+CTG/CTG0020630
+You really are a--
+@ＢＧＭ停止
+RAK/RAK0072240G
+Gorilla girl!
+.....
+@ザクシャ千棘・小
+CTG/CTG0020650
+Pfft....
+CTG/CTG0020660
+Hahahaha! Now we're talking at the same time!?
+RAK/RAK0072250
+Hahh....[nl]This whole argument's honestly gotten kinda stupid.
+RAK/RAK0072260
+Can't we just bad mouth each other and call it even?
+CTG/CTG0020670
+Works for me.[nl]And here, you can have this for your ignorance.
+RAK/RAK0072270
+What's this? A magazine?
+CTG/CTG0020680
+It's one of those free magazines.[nl]It's about interesting date spots in our city.
+CTG/CTG0020690
+Look through that, and try to plan out our next date.
+@ザクシャ千棘・中
+RAK/RAK0072280
+Plan our next date....
+RAK/RAK0072290
+(Maybe instead of reading these,[nl] she could make a plan herself....[nl] I just don't understand her....)
+CTG/CTG0020700
+Well, okay.[nl]I wonder how many more times we'll have to fight.
+RAK/RAK0072300
+Let's see. If we fight once a day every school day,[nl]that's around 500 times until the end of our third year.
+CTG/CTG0020710
+....Don't actually do the math.
+CTG/CTG0020720
+But 500 more times until the end....huh.[nl]....It's shorter than you might think.
+RAK/RAK0072310
+Huh!?
+CTG/CTG0020730
+....Just kidding.
+@イベント終了処理
+common.asb

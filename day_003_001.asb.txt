@@ -1,0 +1,20 @@
+__main
+@Lclearscreenall
+@day_003
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0006600
+Hey! Raku! It's morning already!
+RAK/RAK0065350
+Gwah!! Wh-What the hell!?
+@expose
+OTM/OTM0006610
+Wake up~! Raku~! It's morning~![nl]Awaken and make me some inari sushi~.
+RAK/RAK0065360
+O-Otama...?[nl]What the hell are you doing this early!?
+OTM/OTM0006620
+Get up so we can make inari sushi~!
+RAK/RAK0065370
+Ah, right, right....[nl]Got it.....
+@イベント終了処理
+common.asb

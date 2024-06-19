@@ -1,0 +1,209 @@
+__main
+@Lclearscreenall
+@ctg_109
+@イベント開始処理
+RAK/RAK0068940
+What a great meal! Man, I ate and ate.
+CTG/CTG0017130
+I'm finished....
+SYU/SYU0013240
+Huh? Kirisaki, it's rare for you to not eat all of your lunch.
+@expose
+CTG/CTG0017140
+Uhh....[nl]W-Well, sure....
+SSR/SSR0020790
+Is something the matter today?
+CTG/CTG0017150
+No, ummm..... I know we just ate lunch,[nl]but I have a favor to ask you guys.....
+RAK/RAK0068950
+Hm? What is it?
+CTG/CTG0017160
+Actually, yesterday, we got a massive amount of bananas[nl]from one of our business partners....
+CTG/CTG0017170
+....There we go.
+@画面揺らし
+@ＢＧＭ再生
+RAK/RAK0068960
+Waaagh! What the hell!?
+CTG/CTG0017180
+As you can see, it's quite a staggering amount.....
+RAK/RAK0068970
+Why do you have so many bananas again.....
+CTG/CTG0017190
+It seems that, out of the blue, they learned that the boss's[nl]daughter has an unparallelled love of bananas....
+CTG/CTG0017200
+....Well, that's just a rumor that *someone*[nl]started at some point.
+RAK/RAK0068980
+----
+SYU/SYU0013250
+So, Kirisaki, can you eat all those?[nl]Will you find them surprisingly tasty?
+CTG/CTG0017210
+Not a chance. It's completely hopeless.[nl]First of all, I don't even *like* bananas.
+SSR/SSR0020800
+So, you want us to help you.....
+CTG/CTG0017220
+That's right. I can't just throw them away....[nl]So please! Help me eat these!
+RAK/RAK0068990
+I dunno.....[nl]That's kind of a tall order after we just ate.
+CTG/CTG0017230
+Just a few, okay?
+SSR/SSR0020810
+Very well. If the mistress wants me to help,[nl]then I'll do what I can.
+@時間経過演出
+CTG/CTG0017240
+Nom nom.....
+CTG/CTG0017250
+Phew....[nl]I can't say it looks like there's any less....
+RAK/RAK0069000
+You're right....[nl]We've eaten a lot already, but that pile is as big as ever.
+SSR/SSR0020820
+But if we don't keep going,[nl]the problem will get even worse....
+SYU/SYU0013260
+....Ah!
+RAK/RAK0069010
+What is it, Shuu?
+SYU/SYU0013270
+Heheheheh.....[nl]Leave everything to me. I have a fantastic idea!
+RAK/RAK0069020
+When you say it like that, I get a bad feeling....
+CTG/CTG0017260
+Ain't that funny, Raku. So do I.
+SSR/SSR0020830
+Me too.
+SYU/SYU0013280
+Come onnnn, that's disgraceful![nl]At least wait to criticize until you've heard me out!
+@ＢＧＭ停止
+SYU/SYU0013290
+Gentlemen, if I may have your attention!
+SYU/SYU0013300
+Whichever of you eats the most of these bananas[nl]will be given the right to one date with Kirisaki!
+CTG/CTG0017270
+....Huh?
+RAK/RAK0069030
+....Huh?
+MSA/MSA0000290
+Really, Shuu!?[nl]But isn't Kirisaki dating Raku already....?
+SYU/SYU0013310
+Sure, they're dating, but they're not married yet![nl]Everyone, this is your chance to steal Kirisaki away from Raki!
+MSB/MSB0000230
+T-That's right.....![nl]I don't want Ichijo to feel any better about himself[nl]than he already does!! Always surrounded by hotties....!
+MSC/MSC0000090
+I'm gonna eat them!
+MSA/MSA0000300
+Me too!
+MSA/MSA0000310G
+Aaaaaaargh!!
+RAK/RAK0069040
+S-Shuu! What the hell are you doing!?
+CTG/CTG0017280
+Yeah![nl]You don't get to decide who can go on a date with me!
+MSA/MSA0000320
+Arright, down the hatch![nl]Aaaaaaaaargh!
+MSB/MSB0000250
+Mgh....I ain't gonna lose![nl]Nom nom nom nom nom nom....
+SSR/SSR0020840
+N-No, I can't watch this....! Mistress, I'm gonna join them,[nl]even if I may not be able to beat them![nl]Shuu Maiko....I'll remember this!
+SYU/SYU0013320
+Eeek, Seishiro, you're scaaary! ★
+@expose2
+CTG/CTG0017290
+Hey, hang on a second, you guys![nl]I never said I was okay with any of you going on a date with me!!
+SYU/SYU0013330
+Hey, hey. Think about it, Kirisaki. Shouldn't Raku,[nl]your boyfriend, just get serious and eat more bananas[nl]than anyone else?
+RAK/RAK0069050
+Huh!? Why me....!?
+CTG/CTG0017300
+....N-No, that's fine![nl]You don't need to do anything, I'll do my best to eat these!
+RAK/RAK0069060
+....!
+SYU/SYU0013340
+Raku, you'd better hurry up.[nl]The rest of these guys are eating like pigs.
+RAK/RAK0069070
+Aaaaaagh, fine![nl]I'll eat and eat and eat until I burst!
+CTG/CTG0017310
+N-No, you don't need to![nl]I'm not happy that you're forcing yourself to do this!
+RAK/RAK0069080
+What are you talking about!?[nl]It's a lot better than doing this alone, and I'd probably[nl]eat a lot less if I did that!
+RAK/RAK0069090
+Besides, you're my girlfriend, so let me protect you a little!
+CTG/CTG0017320
+Huh....
+RAK/RAK0069100
+Here goes!! Raaaaaaaahhh!
+SYU/SYU0013350
+Ohhoooo! Excellent catching-up, Ichijo!
+SYU/SYU0013360
+The other guys are stuffing even more bananas[nl]into their stomachs! It's a close, heated battle.....[nl]It's anyone's game!
+RAK/RAK0069110
+Nomnomnmonmonnom...... Nom!
+SYU/SYU0013370
+Arrright, that's the last banana![nl]GAAAAME!
+SYU/SYU0013380
+Alright, let's count up how many banana peels[nl]you each have.
+@時間経過演出
+SYU/SYU0013390
+2, 4, 6, 8 and 10..... Oho!
+SYU/SYU0013400
+Our boy Raku Ichijo, upholding his honor as a boyfriend,[nl]is the winner!
+SYU/SYU0013410
+Congratulations![nl]You have won a date with the lovely Ms. Kirisaki!
+RAK/RAK0069120
+....Ugh, 'k....[nl]*ulp*.....
+MSA/MSA0000330
+Seriously.....there's no way.[nl]I'll never get a date with Kirisaki!
+MSB/MSB0000260
+Dammit, I didn't want Ichijo to be the only winner....[nl]Noooo!
+SSR/SSR0020850
+....Hey, Shuu Maiko. Have you prepared yourself for this?
+SYU/SYU0013420
+Hahahaha! There's no need to be so angry, Seishiro.[nl]Thanks to me, you see, there's no more bananas....
+@キャラ揺らし
+SYU/SYU0013430
+Gaaackh! S-Seishiro, that's seriously dangerou-- Gcbtkh!
+RAK/RAK0069130
+Ughh.....[nl]I don't wanna see another banana for a while....
+@ザクシャ千棘・中
+CTG/CTG0017330
+....You idiot. I told you not to push yourself.
+RAK/RAK0069140
+....Well, I had to push myself at least a little.[nl]I don't want you to have to go out with[nl]someone you don't like.
+CTG/CTG0017340
+I mean, that's true, but....
+CTG/CTG0017350
+....I'm sorry. I know the reward was a date with me.[nl]This isn't a replacement, and it's not really a reward either.
+RAK/RAK0069150
+No, that's fine. I didn't eat these for the reward.
+CTG/CTG0017360
+I-I see....[nl]All I've got right now is this, but, here....[nl]Have this tea.
+RAK/RAK0069160
+....Thanks, then.
+CTG/CTG0017370
+Thank you....Raku.
+SYU/SYU0013440
+2, 4, 6, 8.... Huh!? 15 of them!?[nl]T-This is....!!
+SYU/SYU0013450
+S-Seishiro Tsugumi, somehow you've won by a landslide!
+Congratulations![nl]You have won a date with the lovely Ms. Kirisaki!
+RAK/RAK0069170
+D-Dude, that's amazing.....
+SSR/SSR0020860
+*Ulp*....[nl]This was the obvious result.
+RAK/RAK0069180
+Crap, I was pathetic.[nl]Thank goodness Tsugumi won....
+@ザクシャ千棘・小
+CTG/CTG0017380
+You didn't need to push yourself so hard....[nl]Even if someone else won, I wouldn't go out with them.
+RAK/RAK0069190
+Hey, don't say that.[nl]I was just being your stubborn boyfriend.
+CTG/CTG0017390
+Stubborn....huh.[nl]Well, I'm grateful either way.
+CTG/CTG0017400
+Stubborn....huh.[nl]Well, I'm grateful either way.....to Tsugumi.
+RAK/RAK0069200
+....Yeah.
+SSR/SSR0020870
+Huh, no way!?[nl]Mistress, what about our date!?
+RAK/RAK0069210
+....You're totally gonna do that, aren't you.
+@イベント終了処理
+common.asb

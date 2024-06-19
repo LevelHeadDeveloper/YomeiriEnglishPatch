@@ -1,0 +1,217 @@
+__main
+@Lclearscreenall
+@2ショット開始
+@2ショット成功
+@2ショット失敗
+@汎用フラグ・変数をすべてクリア
+@clearscreenall
+@フェードアウト
+@ホワイトアウト
+@フェードアウト500
+@フェードアウト1000
+@フェードアウト2000
+@時間経過演出
+@時間経過演出2
+@時間経過演出・旧版
+@時間経過演出2・旧版
+@背景変更
+@背景変更2
+@スクリーン変更
+@スクリーン変更2
+@背景時間適正化
+@全画面ＡＲＫ付加
+@ＨＰ－５
+@ＨＰ－１０
+@ＨＰ－１５
+@ＨＰ－２０
+@ＨＰ－２５
+@ＨＰ－３０
+@ＨＰ－４０
+@ＨＰ－５０
+@ＨＰ－６０
+@ＨＰ－７０
+@ＨＰ－８０
+@ＨＰ－９０
+@ＨＰ－１００
+@ＨＰ＋５
+@ＨＰ＋１０
+@ＨＰ＋１５
+@ＨＰ＋２０
+@ＨＰ＋２５
+@ＨＰ＋３０
+@ＨＰ＋４０
+@ＨＰ＋５０
+@ＨＰ＋６０
+@ＨＰ＋７０
+@ＨＰ＋８０
+@ＨＰ＋９０
+@ＨＰ＋１００
+@ザクシャ千棘・１
+@ザクシャ千棘・小
+@ザクシャ千棘・中
+@ザクシャ千棘・大
+@ザクシャ小咲・１
+@ザクシャ小咲・小
+@ザクシャ小咲・中
+@ザクシャ小咲・大
+@ザクシャ誠士郎・１
+@ザクシャ誠士郎・小
+@ザクシャ誠士郎・中
+@ザクシャ誠士郎・大
+@ザクシャ万里花・１
+@ザクシャ万里花・小
+@ザクシャ万里花・中
+@ザクシャ万里花・大
+@ザクシャるり・限界突破判定
+@ザクシャるり・１
+@ザクシャるり・小
+@ザクシャるり・中
+@ザクシャるり・大
+@画面揺らし
+@画面揺らし2
+@叫び揺れ
+@キャラ揺らし
+@expose
+@expose2
+@pan
+@エンディング
+@最終一枚絵演出
+@エンディング楽
+@ＴＨＥＥＮＤ
+@exposew
+@exposew2
+@expw
+@イベント開始処理
+@イベント開始処理2
+@イベント終了処理
+@マジコイ終了処理
+@ヌキアシ開始処理
+@ヌキアシ終了処理
+@ヌキアシリトライ処理
+@ババ抜き開始処理
+@ババ抜き終了処理
+@タッチパート開始処理
+#fs{14}Find what's different about Chitoge!
+#fs{16}Find Chitoge's ribbon!
+#fs{16}Tap the place you care about!
+#fs{16}Tap where you want to draw!
+#fs{16}What's different about Kosaki?
+Get the dust off!
+#fs{16}What's different about Seishiro?
+#fs{16}Find out who's watching!
+Take the chalk!
+#fs{16}Tap the charm point!
+Get the dust off!
+#fs{16}What's different about Marika?
+Win Ruri's trust!
+#fs{16}Tap the girl's ears!
+#fs{16}Tap what's suspicious!
+#fs{14}Tap what you want to see!
+#fs{14}Tap where the sound is coming from!
+Stop Marika!
+#fs{16}Where would suit you?
+#fs{16}Show your feelings
+#fs{14}Where would it look good?
+@プレゼント選択
+@プレゼント表示
+@ＢＧＭ再生
+@ＢＧＭ停止
+@定型ＢＧＭ再生
+@pro_001_000
+Zawsze in love....
+Forever in love....
+You keep the lock....
+....and I'll keep the key.
+Hold it close to your heart, and keep it safe!
+One day, when we're all grown up, we'll open the lock....
+And then.....
+We'll get married!
+@pro_001_01
+RAK/RAK0034230
+Okay, is that enough salt....?[nl]Yep. That's good.
+RYU/RYU0000820
+Young master! Good mornin'!
+RAK/RAK0034240
+Hi, Ryuu. You're up early, as usual.
+RYU/RYU0000830
+I won't allow myself to just sleep idly while you[nl]cook us all breakfast, young master.
+RYU/RYU0000840
+Your food shall make us a million times stronger![nl]Today's the day we wipe out the Beehive gang for good!
+RAK/RAK0034250
+(That's right. We, the Shuei-gumi, are at odds with the[nl] Beehive gang... It wouldn't surprise me one bit[nl] if an all-out war broke out.)
+RAK/RAK0034260
+(We're just barely holding it back....)
+RAP/RAP0000310
+Hey, hey, you're sounding troublesome this morning.
+RAK/RAK0034270
+Dad....
+RYU/RYU0000850
+B-Boss![nl]Good mornin'!
+RAP/RAP0000320
+Ryuu, I already told you to simmer down for a while.[nl]If you or the young guys act out, [nl]won't Raku and his "girlfriend" be in trouble?
+RYU/RYU0000860
+Gwagghhhh!
+RYU/RYU0000870
+Y-y-y-yes! Tha's right![nl]I got a bit too fired up there![nl]Sorry 'bout that, young master!
+RAK/RAK0034280
+(I, Raku Ichijo, the only son of the Shuei-gumi leader,[nl] and Chitoge Kirisaki, the only daughter of[nl] the Beehive leader, are madly in love....)
+RAK/RAK0034290
+(....And that's really the only thing holding back[nl] an impending war between us....)
+RAP/RAP0000330
+Ha, ha, ha![nl]It must be hard being popular, huh?
+RAK/RAK0034300
+(Except that this whole thing was orchestrated by our[nl] damn fathers. Really, we don't love each other at all....[nl] We're just pretending to be dating.)
+RAK/RAK0034310
+(But if that's what it takes to stop this city from becoming a[nl] sea of fire, then....)
+RAK/RAK0034320
+That's right, Ryuu. It's alright to get a bit fired up,[nl]but don't do anything to upset Honey.
+RYU/RYU0000880
+Hahh, yer right, my bad....[nl]That would be pretty stupid....
+RYU/RYU0000890
+I won't lay a finger on anyone, I'm drawin' the line!!
+RAK/RAK0034330
+Stop getting all fired up on me so early![nl]I won't give you breakfast.
+RYU/RYU0000900
+Y-You can't mean that, young master!?
+RAP/RAP0000340
+Oh....That's right, Raku.[nl]I forgot to ask you earlier,[nl]but I need a favor from you after breakfast.
+RAK/RAK0034340
+A favor?
+RAP/RAP0000350
+I need you to make some inari sushi[nl]as an offering.
+RAK/RAK0034350
+Huh? Inari sushi?
+RAK/RAK0034360
+Well, I wouldn't really mind, but....[nl]What do you mean, "as an offering"?
+RAP/RAP0000360
+You know that big shrine nearby?[nl]The priest there is an old friend of mine.
+RAP/RAP0000370
+He's going overseas for a month, so he asked me[nl]to take care of all the cleaning and stuff for him.
+RAP/RAP0000380
+Well, I'm having the young guys do most of it,[nl]but I'd like your help with one of the smaller shrines[nl]in the outskirts of the city.
+RAK/RAK0034370
+Oh, so the inari sushi is an offering there, then.[nl]I don't really mind, but you should have asked me earlier.
+RAP/RAP0000390
+I already told you, I forgot.[nl]We have all the ingredients.
+RAK/RAK0034380
+Okay, got it.
+RAK/RAK0034390
+Alright.....[nl]I managed to make it here to drop off the offerings[nl]before I had to be at school....
+RAK/RAK0034400
+It must be pretty dusty here.[nl]I can't imagine it would be easy to clean this place,[nl]since it's at the edge of the city.
+RAK/RAK0034410
+Well then....I don't have a ton of time,[nl]but I can clean up a little right now.
+OTM/OTM0002300
+Mhm! You are a good-hearted young man.
+RAK/RAK0034420
+Hm?
+RAK/RAK0034430
+(I thought I heard something just now....[nl]....Was it just my imagination?)
+RAK/RAK0034440
+Well, forget that. I'll have to come back later for the[nl]serious cleaning, but I can get some of this dust away[nl]right now, and put down this inari sushi....
+RAK/RAK0034450
+Alright, finished.[nl]I guess, since I came all the way to this shrine,[nl]I might as well make a wish.
+RAK/RAK0034460
+(If we're offering inari sushi, that would make this[nl] an inari shrine....)
+RAK/RAK0034470
+What sort of wish would I make at an inari shrine?

@@ -1,0 +1,39 @@
+__main
+@Lclearscreenall
+@ctg_005_102
+@expose
+CTG/CTG0005640
+Well, however you may truly feel....
+CTG/CTG0005650
+From now on, you and me....[nl]We might have to live on this island together forever.
+CTG/CTG0005660
+How do you feel about that?[nl]Can you endure it?
+Living with you would be....
+Tolerable
+Intolerable
+Rather enjoyable
+CTG/CTG0005670
+Can you really say that so easily?[nl]I mean, it's not like we'll be playing lovers anymore, right?
+CTG/CTG0005680
+Even if it's fine now, we'll be seeing each other every hour[nl]of every day, even if we'd rather not....
+CTG/CTG0005690
+You might stop being fond of me one day, right?
+CTG/CTG0005700
+I-Is that right....
+CTG/CTG0005710
+Uh, no. I don't mind.[nl]In fact, it's normal to feel that way.
+CTG/CTG0005720
+It would be torture to spend every moment of every day[nl]with a girl you don't even like....
+@ザクシャ千棘・１
+CTG/CTG0005730
+Huh? R-Really?
+CTG/CTG0005740
+That's some surprisingly positive thinking.
+CTG/CTG0005750
+Couldn't even answer if you tried....huh.[nl]Hehehe. That's just like you.
+CTG/CTG0005760
+It's okay, you don't have to answer.
+@ctg_005_102_end
+@ctg_005_103
+common.asb
+ctg_005_103.asb

@@ -1,0 +1,77 @@
+__main
+@Lclearscreenall
+@ctg_129
+@イベント開始処理
+RAK/RAK0072470
+Phew! Everything's all clean now![nl]Now we can all feel good about life!
+RAK/RAK0072480
+Hey, Chitoge. Thanks for working hard.[nl]Let's head home!
+RAK/RAK0072490
+....Wait, huh? Chitoge?[nl]Where'd she go?
+CTG/CTG0020910
+Mumble mumble....
+RAK/RAK0072500
+Hm?
+@ＢＧＭ再生
+@背景変更
+CTG/CTG0020920
+Mumble mumble mumble.....[nl]He loves me, he loves me not,[nl]he loves me, he loves me not.....
+RAK/RAK0072510
+.....Huh?
+CTG/CTG0020930
+He loves me, he loves me not, he loves me....
+RAK/RAK0072520
+Hey, Chitoge....san?[nl]You're mumbling and it's freaking me out.
+CTG/CTG0020940
+He loves me not, he loves me, he loves me not....
+@背景変更
+RAK/RAK0072530
+Chitoge!
+CTG/CTG0020950
+Yaaaagh![nl]Y-You scared me!
+RAK/RAK0072540
+No, you scared me.[nl]What the hell are you doing?
+CTG/CTG0020960
+Uh, I'm, w-well....
+Don't be rough with the flowers
+Stop making more mess to clean up
+RAK/RAK0072550
+Flowers are living things too,[nl]so don't be too rough with them.
+CTG/CTG0020970
+....Huh?
+@ザクシャ千棘・小
+@expose
+CTG/CTG0020980
+Pfft. Wow, you're such a gentle bean sprout!
+CTG/CTG0020990
+But don't worry. I'm using the flowers you thinned out[nl]from the flower beds earlier, so they're not going to waste.
+RAK/RAK0072560
+I see. That should be fine then.
+RAK/RAK0072570
+People have just finished cleaning up.[nl]You've made quite a mess, dude.
+CTG/CTG0021000
+S-Sorry about that....
+RAK/RAK0072580
+Well, let's just sweep up and be done with it.
+CTG/CTG0021010
+----
+CTG/CTG0021020
+Did you hear?
+RAK/RAK0072590
+Huh?
+CTG/CTG0021030
+That "loves-me-loves-me-not" just now....[nl]You don't have a reaction?
+RAK/RAK0072600
+Nah, not really. I know more or less how you're feeling.
+CTG/CTG0021040
+Huh....!?
+RAK/RAK0072610
+I'll bet one of the animals was intimidated by you, right?[nl]And you just wanted to make sure he still loved you, right?[nl]I know exactly how you feel.
+RAK/RAK0072620
+But if you treat him with sincerity, I'm sure one day[nl]you'll get through to him.[nl]That's the only way to get him to love you.
+CTG/CTG0021050
+I-I see.... Treat him with sincerity....
+CTG/CTG0021060
+Hahh....[nl]I really wonder if he'll ever get the message.
+@イベント終了処理
+common.asb

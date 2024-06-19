@@ -1,0 +1,40 @@
+__main
+@Lclearscreenall
+@ctg_210
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0074350
+Hey, Shuu. Got any plans this weekend?
+SYU/SYU0013800
+Hmm? I don't really think I've got any.
+RAK/RAK0074360
+Alright, how about we get together then and[nl]do that assignment we just got?
+SYU/SYU0013810
+With me? Why not with Kirisaki?
+RAK/RAK0074370
+Don't know how Chitoge's name got in there....
+@expose2
+SYU/SYU0013820
+Well, I mean, you know when a couple is supposed[nl]to be studying, but one thing leads to another....
+RAK/RAK0074380
+What are you talking about....
+@expose
+SYU/SYU0013830
+So, Kirisaki, you're in, right?
+CTG/CTG0022440
+Huh? What's this about me?
+SYU/SYU0013840
+We're just talking about having a study group.[nl]You're free this weekend, right?
+CTG/CTG0022450
+Yeah, I'm free....are you sure I can come?
+RAK/RAK0074390
+Sure, it's fine with me.
+@ザクシャ千棘・小
+SYU/SYU0013850
+It'd be boring with just the two guys.[nl]Alright, see y'all then!
+RAK/RAK0074400
+Hahh....
+CTG/CTG0022460
+Maiko's certainly as slippery as ever.
+@イベント終了処理
+common.asb

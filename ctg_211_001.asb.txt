@@ -1,0 +1,56 @@
+__main
+@Lclearscreenall
+@ctg_211
+@イベント開始処理
+@定型ＢＧＭ再生
+CTG/CTG0022470
+Raku, I'm here to visit you! You alive!?
+RAK/RAK0074410
+Oh, Chitoge....
+@expose
+CTG/CTG0022480
+Oh, you look exhausted....[nl]Go lie down for a while.
+RAK/RAK0074420
+(Hm? Something smells kinda weird.)
+CTG/CTG0022490
+Ta-daaaaa![nl]Check it out, I made you some "special porridge"!
+RAK/RAK0074430
+....Whaaa!?
+CTG/CTG0022500
+I added seven Chinese herbs that are supposed to[nl]make you stronger, some chocolate, eel, natto, garlic,[nl]liver and stuff!
+RAK/RAK0074440
+Y-You added all that....[nl]Have you *tasted* it, Chitoge?
+CTG/CTG0022510
+It's fiiine.[nl]Claude gave it the seal of approval!
+RAK/RAK0074450
+Claude....!? W-Wait....[nl]N-No, I don't really have much of an appetite....
+CTG/CTG0022520
+Ohhh, you're not pulling that![nl]You need to eat to keep your strength up.[nl]Now come on, eat up!
+RAK/RAK0074460
+Wai-, you can't force me to....Mfghh!
+RAK/RAK0074470
+◎×％＆＋ＺΩ＃＄～～～！
+@フェードアウト1000
+CTG/CTG0022530
+Huh? Raku!? Rakuuuu!?
+@背景変更
+RAK/RAK0074480
+....!?
+RAK/RAK0074490
+I-I think I blacked out for a second....
+CTG/CTG0022540
+Thank goodness you're awake....[nl]A-Are you okay?
+RAK/RAK0074500
+....Y-Yeah.
+@ＨＰ＋８０
+RAK/RAK0074510
+Huh? Suddenly I feel a lot better....
+CTG/CTG0022550
+Whaa, really!?
+CTG/CTG0022560
+Yaaaayyy![nl]Then I'll make this for you again if this happens again!
+@ザクシャ千棘・大
+RAK/RAK0074520
+Huh....?[nl]Uh, o-okay.... Thanks....
+@イベント終了処理
+common.asb

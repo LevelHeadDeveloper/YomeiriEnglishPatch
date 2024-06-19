@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@ctg_112
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0069490
+Haaahh..... Time to spend the end of the day[nl]playing with cute animals....[nl]What an incredible, heartwarming time!
+NIW/NIW0000080
+Buckaw! Buck buck buck buckaw!
+RAK/RAK0069500
+Hahahaha, this guy.
+CTG/CTG0017720
+No no, that chicken definitely dislikes you.[nl]You just aren't likeable enough to him.
+RAK/RAK0069510
+You could at least learn his name.[nl]He's called "Crusher Kato"!
+@expose
+CTG/CTG0017730
+I'm not gonna remember that name.[nl]Let's just go with "Kato".
+NIW/NIW0000090
+Buckaw! Buck buck buck buck buck.
+RAK/RAK0069520
+Look, Crusher Kato is rejecting your idea![nl]He likes his original name better!
+NIW/NIW0000100
+BUCKAW, BUCKBUCKBUCKBUCK!
+CTG/CTG0017740
+No, it sounds to me like he's not too crazy[nl]about the name you gave him either....
+CTG/CTG0017750
+Also, he's been pecking at you for a while now.[nl]Doesn't that hurt?
+RAK/RAK0069530
+It doesn't hurt as long as I have love!
+CTG/CTG0017760
+That's sad....[nl]Raku, I feel sad for you....
+RAK/RAK0069540
+I think this guy's put on some weight, though.[nl]No, not just him, but all the others, too....
+CTG/CTG0017770
+Reeeeally?[nl]I never paid too much attention to their size.
+RAK/RAK0069550
+Yeah....that sounds about right.
+RAK/RAK0069560
+(It was your fault to begin with! You've just been eyeballing[nl] the food and giving everyone massive portions....!)
+CTG/CTG0017780
+Righty-o, I guess I'd better go get everyone fed!
+RAK/RAK0069570
+(But today's gonna be different!)
+RAK/RAK0069580
+Chitoge! Here, these are for the chickens.
+CTG/CTG0017790
+Oh, you've got the food separated into little bags?[nl]Must've been a lot of work to do something so small.
+RAK/RAK0069590
+Not at all. I don't mind a bit,[nl]since this way it's less stressful for me.
+CTG/CTG0017800
+Is that so? Okay then.[nl]So I give them all of these, right?
+RAK/RAK0069600
+Yes, yes. Exactly!
+CTG/CTG0017810
+'K, heeere goooes!
+RAK/RAK0069610
+(What a great idea, if I do say so myself![nl] Now Chitoge won't overfeed any of the animals!)
+CTG/CTG0017820
+Alright, done. Now for the crocodiles--
+RAK/RAK0069620
+Hang on, Chitoge! These are for the crocodiles.
+CTG/CTG0017830
+Huh? W-What's this?[nl]Don't tell me you've got these portioned out for everyone!?
+RAK/RAK0069630
+Haha, w-well, sure.
+CTG/CTG0017840
+Hmmmm. You're very well prepared.
+@ザクシャ千棘・小
+CTG/CTG0017850
+But I gotta say it's fun to do stuff like this.[nl]It's like we're both working on the same thing.
+CTG/CTG0017860
+......Uh, wait![nl]It's not like it's fun *specifically* with you!
+RAK/RAK0069640
+I-I get it, I get it.[nl]I'm just glad you're enjoying this.
+CTG/CTG0017870
+W-Well....it's alright![nl]Alright!
+CTG/CTG0017880
+....Okay! Right, who's next to feed?
+RAK/RAK0069650
+Here ya go. Give that to the goldfish.
+CTG/CTG0017890
+Okaaaay! I'll be right back!
+@イベント終了処理
+common.asb

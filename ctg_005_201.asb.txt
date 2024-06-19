@@ -1,0 +1,136 @@
+__main
+@Lclearscreenall
+@ctg_005_201
+@2ショット成功
+@2ショット失敗
+@ctg_005_201_01
+…………。
+@ザクシャ千棘・小
+@expose
+CTG/CTG0005880
+Alright, I'm sorry if I'm misunderstanding....[nl]But can I ask you something?
+CTG/CTG0005890
+I've been listening to you for a while,[nl]and I think I'm picking up on something.
+CTG/CTG0005900
+....A-Ahem. Ummm....
+CTG/CTG0005910
+It feels like, I dunno,[nl]you've been awfully nice to me for a while now....
+CTG/CTG0005920
+It kinda seems like you....
+CTG/CTG0005930
+L...li.....
+@ctg_005_201_02
+CTG/CTG0005940
+Well, I'll try to stay out of your way[nl]as much as I can, then.
+CTG/CTG0005950
+Whether or not you like it,[nl]we're gonna be stuck together for---
+@ctg_005_201_03
+SSR/SSR0000130
+Mistress, it's time to go home!
+CTG/CTG0005960
+Huh....?
+RAK/RAK0003830
+That sounds like....
+CTG/CTG0005970
+Tsugumi!?
+SSR/SSR0000140
+Mistress, it's time to head home.[nl]It's already awfully late at nught.
+SSR/SSR0000150
+Hm? What's the matter? You're staring awfully hard at me....
+RAK/RAK0003840
+W-What are you doing here, Tsugumi!?
+@expose
+SSR/SSR0000160
+I feel like you should know by now.[nl]I've been with you ever since we left for this island.
+CTG/CTG0005980
+This island....?[nl]Isn't this island a deserted island?
+SSR/SSR0000170
+Deserted island? What are you talking about?[nl]This is a private beach owned by the Beehive.
+CTG/CTG0005990
+Huh? Huuuhh!? What do you mean!?
+CTG/CTG0006000
+I mean, we got shipwrecked in our rubber boat[nl]and washed up on this beach.
+CTG/CTG0006010
+How could we be back on the island we came from?
+SSR/SSR0000180
+Shipwrecked? Washed ashore?
+SSR/SSR0000190
+Oh, I see....[nl]I think I understand the story.
+SSR/SSR0000200
+Mistress, is it possible you mistakenly believed[nl]that you were marooned?
+RAK/RAK0003850
+Mistakenly? What do you mean?
+SSR/SSR0000210
+Listen, Raku Ichijo. Like I mentioned earlier,[nl]we are on the beach on the other side of the island[nl]where we landed.
+RAK/RAK0003860
+Other side....?
+SSR/SSR0000220
+Yes. Everyone's about a 30 minute walk[nl]through the jungle from here.
+SSR/SSR0000230
+I'm certain you and the mistress believed you were[nl]marooned when you really drifted about halfway[nl]around the island on your boat.
+CTG/CTG0006020
+T-Then that means we--
+RAK/RAK0003870
+You mean we weren't even marooned in the first place?
+SSR/SSR0000240
+That's exactly what I mean.
+@expose
+SSR/SSR0000250
+First of all, I have been watching over the mistress for a[nl]long time. She could not have been in any danger[nl]of getting marooned.
+RAK/RAK0003880
+Hahhh.....what the hell, man....[nl]I really thought we were stuck here....
+CTG/CTG0006030
+Yeah, me too....[nl]I'm absolutely drained from all of this....
+CTG/CTG0006040
+Also, Tsugumi's kinda at fault here, too.[nl]Why didn't you tell us if you knew we were here?
+SSR/SSR0000260
+W-Well....
+SSR/SSR0000270
+I can't just interrupt two lovers when they're talking[nl]about their love so harmoniously, can I?
+SSR/SSR0000280
+E-Even with that said....[nl]I can't just interrupt two lovers when they're talking[nl]about their love, can I?
+CTG/CTG0006050
+T-Talking about our love....[nl]Is that what our survival efforts looked like to you, Tsugumi?
+SSR/SSR0000290
+That's what that was? It looked like you two were flirting[nl]while staring at the starry night sky....
+SSR/SSR0000300
+There wasn't the slightest opportunity for me to intervene.
+RAK/RAK0003890
+....Tsugumi?
+SSR/SSR0000310
+That's what that was? It looked like you two were flirting[nl]while staring at the starry night sky.
+SSR/SSR0000320
+Master Claude seemed pretty eager to try to snipe you,[nl]Raku Ichijo. It was all I could do to stop him.
+RAK/RAK0003900
+...Well, that was great work. Good job, Tsugumi.
+SSR/SSR0000330
+Anyway, we should head back now.[nl]The boss and Master Claude will be worried.
+RAK/RAK0003910
+Good grief, so this all turned out to be[nl]a huge misunderstanding, then....
+CTG/CTG0006060
+U-Um, Raku. About what I was saying earlier....
+RAK/RAK0003920
+I understand. You were feeling anxious because[nl]you thought we were marooned.[nl]Let's both just sweep this under the carpet.
+CTG/CTG0006070
+No. That wasn't it....
+@ＢＧＭ再生
+CTG/CTG0006080
+To be completely honest, I was thinking that[nl]having to live here with you would actually be fun.
+RAK/RAK0003930
+Huh?
+CTG/CTG0006090
+But, after all, I'm not the one who should[nl]be by your side. I'm sure of that.
+RAK/RAK0003940
+Huh? What do you mean?
+CTG/CTG0006100
+Well, if you don't know, you don't know, really.
+RAK/RAK0003950
+Hey, that's not good enough![nl]Just tell me outright!
+CTG/CTG0006110
+Hehe, it's fine, it's fine.[nl]We're done talking about this! Let's hurry up and leave!
+CTG/CTG0006120
+...Hahhhh, I can't wait to take a nice hot shower[nl]and get back to my bed!
+RAK/RAK0003960
+The hell? What a weirdo....
+@イベント終了処理
+common.asb

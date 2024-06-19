@@ -1,0 +1,52 @@
+__main
+@Lclearscreenall
+@ctg_111
+@イベント開始処理
+RAK/RAK0069400
+Oooh man, it's chilly today.[nl]Wanna stop by a coffee shop or something?
+CTG/CTG0017600
+I mean, that'd be ok,[nl]but it's kiiinda getting old.
+@expose
+CTG/CTG0017610
+I wonder what real lovers do after school.[nl]I read about them in magazines, but I can't seem to[nl]find anything about it.
+RAK/RAK0069410
+I mean, like, do you *want* to do what real lovers do?[nl]What specifically?
+CTG/CTG0017620
+Me? No, I don't really....
+RAK/RAK0069420
+Look out!
+CTG/CTG0017630
+Aaaaaah!?
+@画面揺らし
+@ＢＧＭ再生
+CTG/CTG0017640
+.....!![nl]O-Owww.....
+RAK/RAK0069430
+....Dude, that car almost hit us....
+RAK/RAK0069440
+Chitoge, you okay?
+CTG/CTG0017650
+I-I think I'm fine.[nl]But could you....let go of my hand?
+RAK/RAK0069450
+Aah!? S-Sorry!
+CTG/CTG0017660
+Oh....that's what's missing![nl]Let's just keep hold hands!
+RAK/RAK0069460
+Huh? Why?
+@ザクシャ千棘・小
+CTG/CTG0017670
+C-Come on.[nl]It's not that unusual for lovers to be holding hands.
+CTG/CTG0017680
+Besides, it's possible that Claude or someone[nl]is watching us, right?
+RAK/RAK0069470
+Oh....I see.[nl]I forgot for a second there that we never know[nl]when we're being watched.
+CTG/CTG0017690
+Right? Y-You should really be more careful.
+RAK/RAK0069480
+Understood. Okay, let's get going.
+CTG/CTG0017700
+....Right.
+CTG/CTG0017710
+Um....I might be okay with going to a coffee shop.
+@イベント終了処理
+common.asb

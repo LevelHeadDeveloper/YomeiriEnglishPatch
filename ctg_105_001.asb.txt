@@ -1,0 +1,87 @@
+__main
+@Lclearscreenall
+@ctg_105
+@イベント開始処理
+@画面揺らし2
+CTG/CTG0016410
+Waaagh!?
+RAK/RAK0068210
+Aaah, sorry!
+RAK/RAK0068220
+....Oh, it's just you, Chitoge.
+CTG/CTG0016420
+Wai.... What the hell, dude?[nl]So you're saying it's fine to bump into me!?
+RAK/RAK0068230
+No, that's not what I meant.[nl]But you're pretty sturdy, so I'll bet you're not hurt, right?
+CTG/CTG0016430
+Wha...!?
+@expose
+CTG/CTG0016440
+W-Why you....[nl]I'm still a girl, after all!
+RAK/RAK0068240
+Huh? Y-Yeah. I knew that already.[nl]I'm aware you're more or less a girl....
+@expose
+CTG/CTG0016450
+More or less!?
+CTG/CTG0016460
+You stupid bean sprout....!![nl]I don't even care anymore!
+RAK/RAK0068250
+Why's she in such a bad mood?
+SYU/SYU0013180
+Hey, hey.[nl]If you can't figure that out, you're not boyfriend material.
+RAK/RAK0068260
+Aaagh, Shuu![nl]When did you get here!?
+RAK/RAK0068270
+Also, whaddya mean "not boyfriend material"....?[nl]We have exchanges like this all the time.[nl]Why's she only mad about this one?
+@ＢＧＭ再生
+SYU/SYU0013190
+Perhaps you do, but I think Kirisaki is lonely.
+RAK/RAK0068280
+Lonely?
+SYU/SYU0013200
+She thinks you don't care about her.
+SYU/SYU0013210
+Of course, I know you didn't mean what you said[nl]in such a terrible way.
+SYU/SYU0013220
+But, this isn't about whether it's usually okay to[nl]say that kind of thing, or that it's okay[nl]because you're just fake lovers.
+RAK/RAK0068290
+I-Is that so....
+RAK/RAK0068300
+Well, she is more or less a girl after all.[nl]Maybe I was in the wrong earlier....
+SYU/SYU0013230
+Raku. Not "more or less", she's just a girl.
+RAK/RAK0068310
+----
+@時間経過演出
+KYK/KYK0000520
+And in conclusion, this is what's gonna happen....[nl]Well, you all get it.
+RAK/RAK0068320
+(I'm still not sure how I'm gonna apologize to Chitoge for what[nl]I said earlier.... If I just come right out and say I'm sorry[nl] for not treating her like a girl, I know she'll just get mad.[nl] Hmmm....)
+RAK/RAK0068330
+....Hm?
+RAK/RAK0068340
+What's this?
+RAK/RAK0068350
+(Oh, I can't read it![nl] But this part here.....that's read "so-rry"....right?
+RAK/RAK0068360
+Chitoge. Did you--
+CTG/CTG0016470
+Hey, don't say it out loud, it's embarrassing.[nl]It's like you don't even know why I wrote a letter!
+RAK/RAK0068370
+Yeah, yeah. My bad. Hang on a sec, wouldja?
+RAK/RAK0068380
+....Here.
+CTG/CTG0016480
+What's this?
+CTG/CTG0016490
+....Oh.
+.......
+@ザクシャ千棘・小
+CTG/CTG0016500
+....Elementary-school level English.
+RAK/RAK0068390
+Sorry. I'm terrible at it.
+CTG/CTG0016510
+Hehe, it's fine.[nl]....You're forgiven.
+@イベント終了処理
+common.asb

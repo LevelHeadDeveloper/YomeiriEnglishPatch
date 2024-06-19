@@ -1,0 +1,117 @@
+__main
+@Lclearscreenall
+@ctg_103
+@イベント開始処理
+RAK/RAK0067800
+Looks like we're doing a three-legged race for P.E. today....
+CTG/CTG0016050
+Three-legged race?
+@ＢＧＭ再生
+RAK/RAK0067810
+Hm? Chitoge, you've never heard of three-legged races?
+CTG/CTG0016060
+O-Of course I've heard of them![nl]We even have 'em in America!
+@expose
+CTG/CTG0016070
+But, we never did them at my old school....
+RAK/RAK0067820
+I see, so you know what they are but not how to do them?
+RAK/RAK0067830
+Well, how about we partner up?[nl]I'll teach you everything you need to know.
+CTG/CTG0016080
+Hmmm. Well, if you wanna teach me that bad,[nl]I guess I could let you teach me.
+RAK/RAK0067840
+(That was refreshingly straightforward of her....[nl] Well, whatever....)
+RAK/RAK0067850
+Then I'll teach you. Watch closely.
+@pan
+RAK/RAK0067860
+First, you use the rope they passed out[nl]to tie one of our legs together.....
+CTG/CTG0016090
+H-Hey!?[nl]Don't go touching me in weird spots!
+RAK/RAK0067870
+Huh!? I didn't touch anything![nl]I'm just tying the string normally!
+RAK/RAK0067880
+I see... Well, how about you tie it them?[nl]That way I don't have to touch you.
+CTG/CTG0016100
+H-Hey, yeah! That's pretty clever.[nl]Give me the string.
+RAK/RAK0067890
+Okay. Uhhh, if you tie the string too tight,[nl]it'll be hard to move, so tie it loosely, okay?
+CTG/CTG0016110
+Ummm.....there we go.
+@画面揺らし
+RAK/RAK0067900
+Owwwww!?
+RAK/RAK0067910
+Y-You....I told you not to tie it too tight!![nl]I mean, doesn't it hurt you, too!?
+CTG/CTG0016120
+I-It doesn't hurt at all![nl]You're just a bit too much of a softie!
+RAK/RAK0067920
+....It *is* hurting you too, isn't it....
+RAK/RAK0067930
+Anyway, you better untie it.[nl]Otherwise it'll disrupt our circulation.
+CTG/CTG0016130
+Y-Yeah....
+CTG/CTG0016140
+Huh? I can't untie it?[nl]Ummmm......
+RAK/RAK0067940
+Gaaaaaah, that hurts![nl]You're just making it tighter!
+CTG/CTG0016150
+H-Huh....? What's going on with this....?[nl]I'm trying to untie it, but it's gotten all tangled....
+RAK/RAK0067950
+G-Give it to me! I'll do it!
+@時間経過演出
+RAK/RAK0067960
+Pheww, we're saved.....[nl]Alright, could you tie the knot again?[nl]Looser this time?
+CTG/CTG0016160
+I-I know, I know! Okayyyy.....like this?
+RAK/RAK0067970
+Yeah, yeah! I knew you could do it.
+@背景変更
+RAK/RAK0067980
+....So you start by putting the tied leg out in front,[nl]at the same time as me, then put your other foot out.[nl]Just keep doing that and we should be able to run, okay?
+CTG/CTG0016170
+....Y-Yeah.[nl]But don't you think we're a bit too close together?
+@ザクシャ千棘・中
+RAK/RAK0067990
+That's part of the game, it can't be helped.[nl]Come on, let's get practicing so we can run this properly!
+CTG/CTG0016180
+I-I know already![nl]Ready, set....!
+Start on tied leg
+Start on free leg
+@ＨＰ－２０
+CTG/CTG0016190
+Hang on! Whydja start off on the other foot!?[nl]Now we've tripped!
+RAK/RAK0068000
+That's my line![nl]I told you to start with the tied leg!
+CTG/CTG0016200
+T-That was then, this is now.[nl]You need to do a better job at reading the air, you know?
+CTG/CTG0016210
+Well, I'll match you this time around.[nl]So we start off on the leg that's tied to the other one, right?
+RAK/RAK0068010
+Yep.
+RAK/RAK0068020
+Oh, perfect, perfect![nl]You're doing great, keep it up!
+CTG/CTG0016220
+Yayyyy![nl]Surprisingly, I think we're running at a good pace!
+RAK/RAK0068030
+I think I said we should start on the tied leg,[nl]but we're running pretty well anyway, so this is fine!
+@ザクシャ千棘・小
+CTG/CTG0016230
+Yeah, yeah, don't sweat the details![nl]Alright, let's go full speed ahead!
+RAK/RAK0068040
+Yeah, we're gonna do this![nl]Let's go, honey!
+CTG/CTG0016240
+Same to you![nl]Try and keep up with me, darling!
+RAK/RAK0068050
+Hahh, hahh.....[nl]Man, what a great run!
+CTG/CTG0016250
+How come you're so out of breath?
+RAK/RAK0068060
+No....I think the question is more[nl]how come you aren't out of breath? After we ran so far....
+CTG/CTG0016260
+You really are a weakling.
+CTG/CTG0016270
+Hehe. But the three-legged race was lots of fun![nl]I hope we can do something like this again.
+@イベント終了処理
+common.asb

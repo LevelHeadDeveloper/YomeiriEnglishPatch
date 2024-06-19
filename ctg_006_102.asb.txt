@@ -1,0 +1,33 @@
+__main
+@Lclearscreenall
+@ctg_006_102
+MTG/MTG0001120
+I understand that you want to[nl]remain loyal to her, but....
+MTG/MTG0001130
+What's the difference between myself[nl]and the real Ms. Chitoge?
+MTG/MTG0001140
+Our faces, voices, and our hair colors[nl]are exactly the same, right?
+MTG/MTG0001150
+----Of course, we are also alike[nl]in that we both love you.
+What's the difference?
+....There's no difference
+Your personalities[nl]are very different.
+MTG/MTG0001160
+Yes, that's correct![nl]So you understand, then!
+MTG/MTG0001170
+Thank goodness....[nl]Now you'll have no issues accepting me, right?
+@ctg_006_401
+MTG/MTG0001180
+I guess our contents are somewhat different.
+MTG/MTG0001190
+The original is a lot more[nl]uninhibited than I am.
+MTG/MTG0001200
+See, you can't think of an answer.[nl]There's no difference.
+MTG/MTG0001210
+Then, I am Chitoge Kirisaki, in the flesh.
+MTG/MTG0001220
+So now you should have no problem[nl]accepting me, right?
+@ctg_006_102_end
+@ctg_006_103
+ctg_006_401.asb
+ctg_006_103.asb

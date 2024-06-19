@@ -1,0 +1,102 @@
+__main
+@Lclearscreenall
+@ctg_209
+@イベント開始処理
+@定型ＢＧＭ再生
+CTG/CTG0022270
+....Raku, Raku. You awake?[nl]It's morning.
+RAK/RAK0074150
+Mmm...mmmm.....[nl]I see, so it's already morning....
+CTG/CTG0022280
+Come on, can you get up?[nl]Breakfast is ready, so how about joining us?
+RAK/RAK0074160
+....Mm.
+RAK/RAK0074170
+Wait, huhh!? C-Chitoge!?
+CTG/CTG0022290
+Hm? What's the matter?
+RAK/RAK0074180
+W-What are you doing in my room!?
+CTG/CTG0022300
+Well, isn't this usually how it is?
+RAK/RAK0074190
+Huh?
+CTG/CTG0022305
+Come on. Let's hurry up and eat breakfast, okay?
+@時間経過演出
+RAK/RAK0074200
+T-This is....delicious!
+@ザクシャ千棘・小
+CTG/CTG0022310
+Hehehe, you like it?
+RAK/RAK0074210
+What the hell, Chitoge, so you can cook when you really try!
+CTG/CTG0022320
+Hey, rude. I've put in so much practice to make[nl]the best food I can for you.
+RAK/RAK0074220
+F-For me!?
+CTG/CTG0022330
+From now on, I'm gonna feed you every day.[nl]You can count on me!
+RAK/RAK0074230
+Huh? ....F-From now on, every day?
+CTG/CTG0022340
+Yep. After all, we're getting married next month.
+RAK/RAK0074240
+Huh!? I-I didn't know about this!
+CTG/CTG0022350
+Come onnn, what are you talking about? ★
+CTG/CTG0022360
+Look. Here's the ring you got me the other day.[nl]I've treasured it ever since, so you should be grateful.
+RAK/RAK0074250
+Uh....H-Hahahaha....
+RAK/RAK0074260
+(Oh man, I actually don't know what she's talking about....[nl] What the hell is going on here?)
+@expose
+@背景変更
+CTG/CTG0022370
+....Hey, Raku.
+RAK/RAK0074270
+Hm?
+CTG/CTG0022380
+Ummm....[nl]Do you think you could....reward me, like you always do?
+RAK/RAK0074280
+Like I always do....what?
+CTG/CTG0022390
+You know, umm....a kiss.
+RAK/RAK0074290
+Whaaa!? That's what I do!?
+CTG/CTG0022400
+No way.... So you're not gonna do it?
+RAK/RAK0074300
+....U-Uuuhh....[nl]N-No! I'll do it....!
+CTG/CTG0022410
+....Yeah!
+@ザクシャ千棘・中
+RAK/RAK0074310
+(Uhhh..... How am I supposed to kiss her?[nl] Is this really okay!?_
+RAK/RAK0074320
+(Ohhh, her face is beautiful....)
+RAK/RAK0074330
+(Aaaagh, I'm seriously gonna....kiss her!?)
+RAK/RAK0052110
+Gasp!
+KYK/KYK0000320
+Hey, Ichijo! You awake?
+RAK/RAK0052120
+....A-A dream....?
+KYK/KYK0000610
+Must've been a pretty happy dream, huh?[nl]Your face was melting like cheese.
+RAK/RAK0052130
+Hahahaha.....so it was.[nl]Pardon me....
+KYK/KYK0000340
+Just for you, a special homework course.
+RAK/RAK0052140
+O-Oops....
+CTG/CTG0022420
+....Jeez, what an idiot.
+RAK/RAK0074340
+Ngh.... Whose fault do you think it was?
+CTG/CTG0022430
+....?
+@イベント終了処理
+common.asb

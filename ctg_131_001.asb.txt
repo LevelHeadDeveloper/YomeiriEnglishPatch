@@ -1,0 +1,140 @@
+__main
+@Lclearscreenall
+@ctg_131
+@イベント開始処理
+RAK/RAK0072890
+(I'd heard about one of the Seven Wonders the other day...[nl] If you open the door to the school rooftop at the moment[nl] the sun sets, you see a vision of the one you will marry....)
+RAK/RAK0072900
+(Anyway, it's almost exactly sunset now.[nl] ....Should I open the door?)
+Open it
+Don't open it.
+@背景変更
+RAK/RAK0072910
+(Huh....? That's....don't tell me....)
+@ＢＧＭ再生
+CTG/CTG0021270
+----!!
+@ザクシャ千棘・小
+CTG/CTG0021280
+You're kidding....[nl]I never thought I'd see a vision of *this* guy....
+@expose
+CTG/CTG0021290
+I had to see a vision of this guy....I....
+RAK/RAK0072920
+....C-Chitoge?
+CTG/CTG0021300
+....Huh? Is that the, like, *real* Raku?
+RAK/RAK0072930
+Y-Yeah. ....I'm real.
+CTG/CTG0021310
+...I-I see....[nl]Hahaha....I was mistaken for a second there.
+CTG/CTG0021320
+What a surprise....[nl]I wasn't expecting you to be my partner, so, well, yeah!
+CTG/CTG0021330
+I-I'm gonna go ahead and leave!
+RAK/RAK0072940
+....Wasn't expecting it, huh.
+KSK/KSK0017930
+@ザクシャ小咲・小
+KSK/KSK0017940
+I-Ichijo....!?[nl]Y-You're kidding....
+RAK/RAK0072950
+Onodera....
+KSK/KSK0017950
+....Huh?
+KSK/KSK0017960
+B-By any chance....[nl]Are you the real Ichijo?
+RAK/RAK0072960
+Huh? Y-Yeah....I see.[nl]Yes. I am indeed real.
+KSK/KSK0017970
+I-I see....
+KSK/KSK0017980
+W-What a shock![nl]That was so similar to that Seven Wonders[nl]story I'd heard that I'd thought I was....seeing a vision.
+RAK/RAK0072970
+R-Right!? So did I!
+KSK/KSK0017990
+----
+RAK/RAK0072980
+........
+RAK/RAK0072990
+Ummmm.....Well, it's certainly a lovely day![nl]And that sunset is seriously beautiful!
+KSK/KSK0018000
+T-T-That's right! Hahahaha!
+KSK/KSK0018010
+I-I'm just gonna leave now! See you later, Ichijo!
+RAK/RAK0073000
+(Seven Wonders, please be true!)
+@ＢＧＭ再生
+MRK/MRK0011920
+R-Raku....dearest....?
+@ザクシャ万里花・小
+RAK/RAK0073010
+Tachibana....
+@expose
+MRK/MRK0011930
+IT'S DESTINYYYYY!
+@ザクシャ万里花・中
+RAK/RAK0073020
+Waaaaagh!?
+MRK/MRK0011940
+I saw a vision of my darling Raku! That means I'm gonna[nl]be the one to marry Raku dearest after all![nl]If that's not destiny, I don't know what is!
+RAK/RAK0073030
+No, no, no! I'm not a visioooon!
+MRK/MRK0011950
+Oh, you're real?
+RAK/RAK0073040
+I'm real!
+MRK/MRK0011960
+I see. That's a shame.
+MRK/MRK0011970
+But I'm convinced now.[nl]You and I are destined to be married after all, Raku dearest!
+MRK/MRK0011980
+I always have and always will believe in it![nl]Raku dearest! Let's build a lovely family together!
+RAK/RAK0073050
+(I-Is it actually destiny!?[nl] ....Seriously....)
+SSR/SSR0021050
+!![nl]W-Why are you here....!?
+SSR/SSR0021060
+N-No! I'm just here to protect the Mistress....!
+SSR/SSR0021070
+No, but what if it's destiny!?[nl]What am I saying!? I...! I....! AAAAAAAAGH!
+RAK/RAK0073060
+....H-Hang on a second, Tsugumi![nl]You've got it all wrong!
+SSR/SSR0021080
+....Huh? You're not a vision....
+RAK/RAK0073070
+Nope. I'm not a vision, I'm the real Raku Ichijo.
+SSR/SSR0021090
+----!!
+@ザクシャ誠士郎・中
+SSR/SSR0021100
+F-F-Forget what just happened! Got that!?[nl]Every last detail!
+RAK/RAK0073080
+O-Okay....?
+SSR/SSR0021110
+Aaaaagh, I'm so stupid![nl]Aaaaaaaargh!!
+SSR/SSR0021120
+I-I'm gonna leave ahead of you![nl]You stay here for the rest of your life!
+RUR/RUR0012620
+Oh, Ichijo. What a coincidence, meeting you here.
+RAK/RAK0073090
+Miyamoto....
+RUR/RUR0012630
+Need something?
+RAK/RAK0073100
+No, not really....[nl]I wasn't really looking for something, but....
+RUR/RUR0012640
+Ah.
+@ザクシャるり・中
+RUR/RUR0012650
+It's pretty nice to watch the sunset from[nl]somewhere high up from time to time.
+RUR/RUR0012660
+It's quite spectacular. If you have time, Ichijo,[nl]would you like to watch it, too?
+RAK/RAK0073110
+Y-Yeah. Sounds good.
+RAK/RAK0073120
+(I never thought Miyamoto would be waiting for me....[nl] But she wasn't a vision, she was the real deal, so I guess[nl] rumors are just rumors....maybe.)
+RAK/RAK0073125
+(Well, whatever. I don't really care.)
+@イベント終了処理
+common.asb

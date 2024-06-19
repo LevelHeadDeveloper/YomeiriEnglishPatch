@@ -1,0 +1,116 @@
+__main
+@Lclearscreenall
+@ctg_303
+@イベント開始処理
+@ＢＧＭ再生
+OTM/OTM0007860
+I-nari su-shiii! I-nari su-shiii![nl]Ahhh, this shall be most enjoyable!
+RAK/RAK0073560
+You really love inari sushi, don't you.[nl]Well, I'm glad you're looking forward to this.
+OTM/OTM0007870
+Mwehehehe, then I shan't shut up about it!
+OTM/OTM0007880
+Besides, 'tis a special treat to eat outside![nl]Being in thy room all day has been boring,[nl]so being able to eat outside is very exciting!
+CTG/CTG0021810
+....Oh, Raku?[nl]What are you doing here!?
+@expose
+OTM/OTM0007890
+Whoops.
+CTG/CTG0021820
+Hm? Who was that just now?
+RAK/RAK0073570
+....Uh, I'm by myself?
+CTG/CTG0021830
+I see.
+RAK/RAK0073580
+I just went for a walk for a change of pace.[nl]Wait, what about you?
+CTG/CTG0021840
+I'm on a walk too. I walk here sometimes. It feels great!
+RAK/RAK0073590
+Ahh, I'm with you on that.
+CTG/CTG0021850
+But I was just getting a bit hungry,[nl]so I was thinking I miiiight head home.
+RAK/RAK0073600
+Hmmmm....
+Care for some inari sushi?
+See you around
+RAK/RAK0073610
+Do you want some inari sushi, then?
+CTG/CTG0021860
+Huh? You sure!?
+RAK/RAK0073620
+You're hungry, right? Eat as much as you like.
+@ザクシャ千棘・中
+CTG/CTG0021870
+Ohh, thank youuu!
+CTG/CTG0021880
+Nom nom....
+@expose2
+CTG/CTG0021890
+Mmmm, delicious!
+RAK/RAK0073630
+Hehehe, I know, I know! I've really been doing[nl]lots of research on the tofu and ingredients!
+@ＨＰ－２０
+RAK/RAK0073640
+Glbtctkh!
+CTG/CTG0021900
+Huh, what? What's wrong?
+RAK/RAK0073650
+N-No....N-Nothing....at all....
+RAK/RAK0073660
+(A-A gut punch....[nl] C-Could this be....[nl] No, could this *not* be....)
+RAK/RAK0073670
+S-Sorry, Chitoge.[nl]I just remembered something I really need to take care of....
+CTG/CTG0021910
+Oh, really?[nl]Well then, see you at school.
+CTG/CTG0021920
+That inari sushi was delicious.[nl]Thanks! ♪
+@時間経過演出
+OTM/OTM0007900
+Ooooghh.....[nl]My inari sushiiiii....
+RAK/RAK0073680
+I only gave her a little....[nl]We've still got plenty.
+OTM/OTM0007910
+Uuuuuuuu.....[nl]Inari sushiiiiii.....!!!!
+RAK/RAK0073690
+(Jeez, it can't be helped....)
+RAK/RAK0073700
+Here, you can have this.
+OTM/OTM0007920
+Ooogh....[nl]What is this?
+RAK/RAK0073710
+It's called ningyoyaki.[nl]I was gonna have it for dessert, but you can have it.
+OTM/OTM0007930
+....Mhm, I suppose I must.[nl]Art thou going to make me some more inari sushi?
+RAK/RAK0073720
+(....Oh, my stomach doesn't hurt anymore.)
+OTM/OTM0007940
+Oohh, this is most delicious!
+RAK/RAK0073730
+(Seems like she's feeling better.[nl] Jeez, what a child....)
+RAK/RAK0073740
+Uugh, fine, fine.[nl]I'll make some more inari sushi later[nl]to replace the ones she ate. Sound good?
+OTM/OTM0007950
+Mrrrghh. I'm scary when I'm hungry!
+RAK/RAK0073750
+(That isn't even funny when an actual yokai says it.[nl] I'd better make that inari sushi as soon as we get home....)
+RAK/RAK0073760
+I'm gonna keep walking for a bit and then go home.[nl]Well, see you around.
+CTG/CTG0021930
+Huh? Uh, okay. See you....
+OTM/OTM0007960
+Phew. I was afraid thou wouldst give her my inari sushi.
+RAK/RAK0073770
+This is yours and yours alone to eat today.[nl]I'm not giving it to anyone else.
+OTM/OTM0007970
+Mhm, very considerate!
+OTM/OTM0007980
+And for thy consideration, here!
+RAK/RAK0073780
+(Ohh, I feel way better!)
+OTM/OTM0007990
+Then let us eat right away!
+RAK/RAK0073790
+Alright, let's set up around here then!
+@イベント終了処理
+common.asb
