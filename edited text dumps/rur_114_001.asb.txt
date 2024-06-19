@@ -1,0 +1,76 @@
+__main
+@Lclearscreenall
+@rur_114
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0007720
+Ya know how sometimes you see food that has[nl]the word "delicious" built right into the name?[nl]I think that's cheating!
+RAK/RAK0043130
+Yeah, 'cause you just have to buy it when[nl]it's got a name like that, right? I see what you're saying.
+KSK/KSK0010650
+It's the same at sweet shops. Sometimes a menu item[nl]will be labeled "patissier's choice" to make it sound tastier.
+@expose
+KSK/KSK0010660
+Right, Ruri?
+…………。
+KSK/KSK0010670
+....Ruri?
+RUR/RUR0009450
+....Don't worry about it.[nl]Go ahead and keep talking.
+RUR/RUR0009460
+I'm just gonna step out for a bit.
+KSK/KSK0010680
+....O-Okay.
+KSK/KSK0010690
+What's the matter with Ruri?
+RAK/RAK0043140
+Maybe she's not feeling well.[nl]I'm gonna run to the bathroom, and check on her while I'm up.
+KSK/KSK0010700
+Oh, sure.
+@背景変更
+RAK/RAK0043150
+(Okayyyy, Miyamoto....[nl] Oh, there she is.)
+RAK/RAK0043160
+....Huh!?
+@ＢＧＭ再生
+RAK/RAK0043170
+(M-Miyamoto's crying!?!?)
+RAK/RAK0043180
+(W-W-What should I do!?)
+Try talking to her anyway
+Watch quietly
+RAK/RAK0043190
+M-Miyamoto! What's wrong!?[nl]Are you hurt!? Are you sick!?
+@ザクシャるり・小
+RUR/RUR0009470
+....Huh?
+RAK/RAK0043200
+Huh? Wait.[nl]Just now, you were crying!
+RUR/RUR0009480
+Oh, that?
+RUR/RUR0009490
+No, I was just using some eyedrops.[nl]I'd gotten an eyelash stuck in my eye, and it hurt.
+RAK/RAK0043210
+Oh, was that it?
+RAK/RAK0043220
+I see. That's why you were[nl]acting strange earlier.
+RUR/RUR0009500
+....Sheesh.[nl]You're always sticking your nose in and misunderstanding things.
+RAK/RAK0043230
+(I guess even Miyamoto gets depressed sometimes....)
+RAK/RAK0043240
+I'd better not tell this to anyone....
+RUR/RUR0009510
+Better not tell what to anyone?
+RAK/RAK0043250
+Waaaagh!? M-Miyamoto!?
+RUR/RUR0009520
+Let me tell you, I wasn't crying just now.[nl]I was just using some eyedrops because I'd gotten[nl]a last stuck in my eye and it hurt.
+RAK/RAK0043260
+But Onodera was worried about you too, you know.
+RUR/RUR0009530
+Ohh, I see. Alright, I'll clear that up for her later.[nl]Thanks for taking the trouble.
+RAK/RAK0043270
+Sure.
+@イベント終了処理
+common.asb

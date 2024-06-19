@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@rur_205
+@イベント開始処理
+@定型ＢＧＭ再生
+SYU/SYU0007790
+Good morning, Raku!
+RAK/RAK0044530
+Wassup, Shuu? You're with Miyamoto today, huh.
+RUR/RUR0010420
+Good morning.
+SYU/SYU0007800
+Hahaha, you seem to be in a bad mood[nl]this morning, Ruri.
+RUR/RUR0010430
+That's because I have to see your face.
+@expose2
+SYU/SYU0007810
+You're so mean, Ruri!
+RAK/RAK0044540
+Hey, Shuu. It's too early in the morning for this.[nl]Miyamoto doesn't like it, either.
+SYU/SYU0007820
+H-Hey!?
+RAK/RAK0044550
+Hahaha.
+RUR/RUR0010440
+Hmph....
+@イベント終了処理
+common.asb

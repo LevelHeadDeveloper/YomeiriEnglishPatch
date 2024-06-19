@@ -1,0 +1,33 @@
+__main
+@Lclearscreenall
+@rur_207
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0044670
+Hm? Whose number is this....?
+RAK/RAK0044680
+Hello?
+RUR/RUR0010510
+It's Miyamoto....[nl]Is this Ichijo?
+RAK/RAK0044690
+Ah, yes! I didn't recognize the number,[nl]so I thought it might be someone else. What's up?
+RUR/RUR0010520
+I found your number in the school's emergency contact list.[nl]Our next music class has been changed to P.E., so make sure[nl]you're ready for that.
+RAK/RAK0044700
+I see. Thank you.
+RAK/RAK0044710
+Wait. Why is it that you're using the school's[nl]emergency contact list? Isn't it usually the other way round?
+RUR/RUR0010540
+By the way, me and Kosaki are[nl]heading into town this Saturday.
+RAK/RAK0044720
+Huh!? I-Is that so!?
+RUR/RUR0010550
+Alright, make sure you call up the next person[nl]and tell them what I said earlier.
+RAK/RAK0044730
+O-Okay....[nl]Thanks, Miyamoto.
+RAK/RAK0044740
+....She didn't answer my question....
+RAK/RAK0044750
+But I *did* get some useful information.
+@イベント終了処理
+common.asb

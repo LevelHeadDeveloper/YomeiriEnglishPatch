@@ -1,0 +1,99 @@
+__main
+@Lclearscreenall
+@rur_107
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0042310
+Oh, Chitoge. Hang on a sec.
+CTG/CTG0013020
+Hm? What is it, Darling?[nl]Something wrong?
+RAK/RAK0042320
+The sleeve on your uniform is coming off.[nl]Look. On that side.
+CTG/CTG0013030
+Oh....so it is.[nl]It must have gotten caught on something.
+RAK/RAK0042330
+Hang on. Lemme see if I've got my sewing kit....
+CTG/CTG0013040
+Your sewing kiiiit!?[nl]You carry one of those around with you?
+RAK/RAK0042340
+Don't see why I wouldn't.[nl]Sewing is a gentleman's hobby.
+RAK/RAK0042350
+....Ahh, sorry, coulda sworn I had it with me.[nl]I must've left it at home today.
+@expose
+CTG/CTG0013050
+Ha. Useless gentleman, huh.
+RAK/RAK0042360
+I won't take that kind of criticism[nl]from the lady with fraying sleeves.
+RUR/RUR0008760
+Oh, is there trouble?
+@expose2
+CTG/CTG0013060
+Oh....Ruri.[nl]It's nothing major, my sleeve's just a little frayed.
+RUR/RUR0008770
+Hmmmm. If that's the case, let me see it.
+CTG/CTG0013070
+....Huh?[nl]Ruri, do you carry a sewing kit?
+RUR/RUR0008780
+Yeah. Just in case, y'know.
+CTG/CTG0013080
+Wow, that's amazing! It's so girly!
+RAK/RAK0042370
+You should take a page outta Miyamoto's book[nl]and carry one of these. You might be a little more feminine that way.
+CTG/CTG0013090
+S-Shut uppp![nl]I was gonna buy one anyway, even without you telling me to!
+RUR/RUR0008790
+Okay, Chitoge, just hold still while I[nl]sew up your sleeve.
+CTG/CTG0013100
+Oh, okay! Thank you!
+....
+RAK/RAK0042380
+Ohhh.... You're pretty good, Miyamoto.
+@ザクシャるり・小
+RUR/RUR0008800
+Not as good as you.
+@expose
+CTG/CTG0013110
+You sewed that up so fast!
+RUR/RUR0008810
+This is about normal.[nl]....Okay, you're all set.
+CTG/CTG0013120
+I-I wanna be able to do that, too![nl]You gotta teach me, Ruri!
+RUR/RUR0008820
+It's not such a big thing as to call it "teaching".[nl]Besides, didn't we learn this in home economics or something?
+CTG/CTG0013130
+I think so....[nl]But I can't remember now.
+RUR/RUR0008830
+....I see. Very well, then.[nl]Let's see.... We'll need a piece of fabric that you[nl]wouldn't mind ruining.
+RAK/RAK0042390
+Oh, you can use this handkerchief.[nl]I don't care if there's random stitches in there.
+RUR/RUR0008840
+Thanks.
+RUR/RUR0008850
+Okay, Chitoge. I'll show you how it's done first,[nl]so watch closely. You go like so....
+CTG/CTG0013140
+Mhm, mhm.
+RUR/RUR0008860
+Wrap the thread around the needle, and pull through.[nl]....And that's that.
+CTG/CTG0013150
+Uh-huh.
+RUR/RUR0008870
+Want to give it a try, Chitoge?
+CTG/CTG0013160
+Absolutely!
+CTG/CTG0013170
+Okayyy....[nl]First, I go like this....
+RUR/RUR0008880
+....No, not like that.[nl]Like this.
+CTG/CTG0013180
+Mhm....
+RAK/RAK0042400
+(Miyamoto's surprisingly good at helping people.)
+RUR/RUR0008890
+Not like that.[nl]Relax your shoulders, you're trying too hard.
+@expose2
+CTG/CTG0013190
+Ngh....!
+RAK/RAK0042410
+(But she's also pretty strict....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,48 @@
+__main
+@Lclearscreenall
+@rur_210
+@イベント開始処理2
+@定型ＢＧＭ再生
+KSK/KSK0011090
+Um, Ichij--
+CTG/CTG0013400
+Hey, hey, Darling![nl]You're free Saturday, right?
+RAK/RAK0044890
+I think I'm free....[nl]But why did you assume I'd be free, Honey?
+CTG/CTG0013420
+If you're free, that's great.[nl]We'll go out that day.
+RAK/RAK0044900
+Where are we going?
+@expose
+CTG/CTG0013430
+I haven't decided yet!
+RAK/RAK0044910
+Then why be so bossy....?[nl]Why should I even go out with you in the first place?
+CTG/CTG0013440
+Because we have a scheduled date.
+RAK/RAK0044920
+Oh, it's that time already, huh.[nl]Is Claude still suspicious of us?
+CTG/CTG0013450
+Well, something like that.
+CTG/CTG0013460
+Alright, meet me at the station at 11 o'clock sharp![nl]Okay? You won't forget, right?
+RAK/RAK0044930
+Make sure you're not late, okay?
+@expose2
+CTG/CTG0013470
+I won't be late! I'm not a child.
+RAK/RAK0044940
+Yeah, yeah. Being a couple is such hard work....
+RUR/RUR0010630
+There you have it, Kosaki.
+KSK/KSK0011100
+....Yeah....
+RUR/RUR0010640
+It's your fault for being so slow.
+KSK/KSK0011110
+RUR/RUR0010650
+So, what are you gonna do?
+KSK/KSK0011120
+----
+@イベント終了処理
+common.asb

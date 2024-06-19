@@ -1,0 +1,84 @@
+__main
+@Lclearscreenall
+@rur_120
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0043770
+(T-There's Onodera! And she's alone![nl] This is my chance to go talk to her!)
+RAK/RAK0043780
+O-Onode--
+WSA/WSA0000030
+'Dera, 'Dera![nl]Hey, I picked up some of your favorite sweets,[nl]I'll give 'em to ya later!
+@expose
+KSK/KSK0010890
+Oh, really!? Thanks![nl]I'm looking forward to them!
+WSA/WSA0000040
+See yaaa! ♪
+RAK/RAK0043790
+(Gaaah! That girl interrupted me....[nl] Well, I guess there's no rush. I can always try again.)
+RAK/RAK0043800
+Onode--
+CTG/CTG0013340
+Ohh, it's Kosaki! Headed somewhere?
+KSK/KSK0010900
+Yeah, the staff room.[nl]Teacher wants to see me.
+CTG/CTG0013350
+I see. See ya later then!
+KSK/KSK0010910
+Later.
+RAK/RAK0043810
+(Guhh, I've been interrupted again![nl] And now she's going to the staff room....)
+Give up
+Don't give up
+RAK/RAK0043820
+Maybe it'd be better if I don't talk to her....
+@ＨＰ－２０
+RAK/RAK0043830
+Glbtckh!?
+RAK/RAK0043840
+Huh? ....M-Miyamoto!?
+RUR/RUR0009950
+You've been really annoying me for a while now.[nl]If you want to go talk to Kosaki, just go talk to Kosaki.
+RAK/RAK0043850
+No, no, I can't just give up now.[nl]There must still be a chance to talk to her....!
+RUR/RUR0009960
+That's right. Go talk to her.
+RAK/RAK0043860
+M-Miyamoto!?
+RUR/RUR0009970
+You've been really annoying me for a while now.
+@ザクシャるり・小
+RAK/RAK0043870
+Huh? Wai--[nl]How long have you been watching me!?
+RUR/RUR0009980
+From the beginning.
+RAK/RAK0043880
+Whaaaat!?
+RUR/RUR0009990
+....Listen up. Even if she's talking to someone else,[nl]or is on her way to the staff room for an errand, if you[nl]want to talk to her, just go talk to her.
+RAK/RAK0043890
+W-Well, it's not like I had anything important[nl]to talk to her about, okay?
+RUR/RUR0010000
+I told you! If you wanna talk to her,[nl]just talk to her, whatever the reason.
+RAK/RAK0043900
+Ngh....[nl]W-Well, you've got a point.
+RAK/RAK0043910
+You're actually pretty nice, Miyamoto!
+RUR/RUR0010010
+Thanks. You'd better hurry if you[nl]want to catch Miyamoto before she gets to the staff room.
+RAK/RAK0043920
+Right....
+RAK/RAK0043930
+O-Onoderaaaa!
+KSK/KSK0010920
+Ichijo? Is something the matter?
+RAK/RAK0043940
+N-No.... I didn't have anything in particular to tell you,[nl]I just saw you and thought I'd say hi.
+KSK/KSK0010930
+I see. Thanks for stopping to talk to me, Ichijo.
+RAK/RAK0043950
+....S-Sure!
+RUR/RUR0010020
+Sheesh, what a handful....
+@イベント終了処理
+common.asb

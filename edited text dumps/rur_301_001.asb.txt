@@ -1,0 +1,99 @@
+__main
+@Lclearscreenall
+@rur_301
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0010940
+....Oh, is that Ichijo?
+RAK/RAK0044090
+Oh, O-Onodera and Miyamoto![nl]What a coincidence I'd run into you here.
+RAK/RAK0044100
+(Amazing! It's just like Miyamoto said![nl] Thanks, Miyamoto!!)
+@expose
+KSK/KSK0010950
+It really is. We were just looking at all the different[nl]shops around here, but we got tired, so we came here[nl]to take a break and get some ice cream.
+RUR/RUR0010160
+The ice cream here is really good.[nl]You should try it.
+RAK/RAK0044120
+Is that right? I'll get some, then.
+@expose
+KSK/KSK0010960
+I find that if Ruri says ice cream is delicious,[nl]then it's delicious.
+RAK/RAK0044130
+Ohh. You like ice cream, Ruri?
+RUR/RUR0010170
+Well, yeah. I like sweets in general.
+CHD/CHD0000010
+Hahahaha ♪
+@ＢＧＭ停止
+KSK/KSK0010970
+Ruri, look out!
+RUR/RUR0010180
+....Hm?
+@背景変更
+RUR/RUR0010190
+!!
+CHD/CHD0000020
+Aaaa! ....I'm so sorry about that, ma'am!
+RAK/RAK0044140
+Oh. Hey, get back here, kid!
+RAK/RAK0044150
+Ghh! He's gone....
+RAK/RAK0044160
+You okay, Miyamoto?
+......
+KSK/KSK0010980
+Ruri?
+KSK/KSK0010990
+Ruri, snap out of it!
+RAK/RAK0044170
+Miyamoto, just how shocked *are* you!?
+RAK/RAK0044180
+(Hahh. What should I do....?)
+Buy her some more ice cream
+Pretend not to notice
+RAK/RAK0044190
+Pardon me. One more ice cream like that one, please.
+RAK/RAK0044200
+Here.
+RUR/RUR0010200
+Huh....?
+RAK/RAK0044210
+Take this and cheer up.
+RUR/RUR0010210
+No, I don't want it.[nl]I don't want to owe you anything.
+RAK/RAK0044220
+No, no, you gave me valuable informa....[nl]--Wait, that's not what I meant!
+RAK/RAK0044230
+I mean, I don't care about obligations or anything.[nl]When your friend is looking down, it's only natural to want to[nl]cheer them up. Right, Onodera?
+KSK/KSK0011000
+Yes, that's right!
+RUR/RUR0010220
+Friend....
+RAK/RAK0044240
+So, please take it and don't worry about it.
+RUR/RUR0010230
+----
+@ザクシャるり・中
+RUR/RUR0010240
+....Alright, I'll take it. Thanks.
+KSK/KSK0011010
+Thanks, Ichijo.
+RAK/RAK0044250
+Sure!
+RAK/RAK0044260
+(Well, I guess I shouldn't stick my nose in *too* much....)
+KSK/KSK0011020
+Hey, Ruri. I can get you another one, if you want.
+RAK/RAK0044270
+Huh?[nl]N-No, if you're buying it, Onodera, I can--
+RUR/RUR0010250
+It's none of your business, Ichijo.[nl]Besides, I'll buy it myself, Kosaki, so it's fine.
+RAK/RAK0044280
+(Ghh.... I-I guess I picked the wrong time[nl] to offer....)
+RUR/RUR0010260
+Siiigh. Today really is the worst day ever....
+RAK/RAK0044290
+(Hahh....[nl] Now it's so awkward....)
+@イベント終了処理
+common.asb

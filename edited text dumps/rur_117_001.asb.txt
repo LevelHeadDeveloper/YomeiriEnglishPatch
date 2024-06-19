@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@rur_117
+@イベント開始処理
+RAK/RAK0043530
+....Hm?[nl]What's that you're drawing in your textbook, Miyamoto?
+@ＢＧＭ再生
+RUR/RUR0009760
+Oh, Ichijo. This is nothing.
+RAK/RAK0043540
+You say it's nothing, but that's a very appealing picture....[nl]Is it even okay to draw that in a textbook?
+RUR/RUR0009770
+It's not a problem. This isn't mine.
+RAK/RAK0043550
+Huh!? That's not your textbook!?[nl]That's even worse!
+RUR/RUR0009780
+It's just a cute little prank.[nl]It comes off with an eraser, and it's easy to laugh off.
+RUR/RUR0009790
+More importantly, Ichijo,[nl]are you the sort of person who draws in textbooks?
+RAK/RAK0043560
+Hmmm, let's see....[nl]I--
+I draw in textbooks.
+I don't draw in textbooks.
+RAK/RAK0043570
+Sometimes, I can't help but draw beards[nl]on the author's photo....
+@expose
+@ザクシャるり・小
+RUR/RUR0009800
+That's a classic.
+RAK/RAK0043580
+I wonder what the author would say[nl]if they saw it?
+RUR/RUR0009810
+Who knows? I don't think they'd mind, honestly.[nl]Frankly, I'd be more annoyed that someone published[nl]my diary in a textbook.
+RAK/RAK0043590
+When you put it like that, classical literature[nl]is terrifying....
+RUR/RUR0009820
+And having your love letters read out loud.[nl]It's not a good idea to become too famous.
+RAK/RAK0043600
+Agreed.
+RAK/RAK0043610
+No, not at all.[nl]My textbooks are all pristine.
+RUR/RUR0009830
+Oh, I see. You're boring, then.
+RAK/RAK0043620
+You really have to say that just because[nl]I'm responsible with my textbooks?
+RUR/RUR0009840
+Can you go away, so I can concentrate[nl]on finishing this drawing?
+RAK/RAK0043630
+Okay, okay. See you around, Miyamoto.
+@イベント終了処理
+common.asb

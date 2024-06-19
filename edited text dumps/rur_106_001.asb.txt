@@ -1,0 +1,50 @@
+__main
+@Lclearscreenall
+@rur_106
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0042270
+Brrr, it's cold out todayyy....[nl]I just wanna run some warm water over my hands[nl]and take a bath in a nice, warm hot spring.
+CTG/CTG0012990
+You're such an old man.
+SYU/SYU0007110
+But whether or not we actually *can* go to a hot spring,[nl]I'm sure we'd all like to go on a fun trip.
+@expose
+CTG/CTG0013000
+Oh, that sounds great![nl]Ruri, you wanna come with us?
+@ザクシャるり・小
+RUR/RUR0008710
+Sure. Minus the organizer, of course.
+SYU/SYU0007120
+My, my, are you talking about me?[nl]No, no, I think I'd be a fair bit useful if I came along.
+RUR/RUR0008720
+We don't need someone who's only a bit useful.[nl]And *you* definitely shouldn't be anywhere near a hot spring or beach.
+SYU/SYU0007130
+You're so meeeean, Ruri![nl]You misunderstand me.
+SYU/SYU0007140
+It's definitely true that I very much enjoy the situations[nl]that arise at hot springs and beaches! However....
+@expose2
+SYU/SYU0007150
+I am quite certain! I am quite certain I can enjoy[nl]any kind of situation that arises, as long as there's girls involved!
+@キャラ揺らし
+SYU/SYU0007160
+Kyaaaaaaah!
+@画面揺らし
+RUR/RUR0008730
+....I overdid it with the force.
+RAK/RAK0042280
+Hey, Miyamoto, it looks kinda like you've been[nl]extra hard on Shuu lately, why is that?
+RUR/RUR0008740
+He had it coming, he's a pain in the butt.
+RAK/RAK0042290
+I-I see....[nl]No surprise there.
+CTG/CTG0013010
+But doesn't he do this stuff intentionally just to[nl]get you riled up? I almost think he enjoys it.
+RAK/RAK0042300
+Well, I dunno.[nl]Maybe he is, but maybe he isn't.
+RUR/RUR0008750
+Either way he's a pain in the butt.[nl]But if he's a pain in the butt on purpose,[nl]that's even worse.
+SYU/SYU0007170
+Mwehehehe....
+@イベント終了処理
+common.asb

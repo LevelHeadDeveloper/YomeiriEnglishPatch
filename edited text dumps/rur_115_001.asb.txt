@@ -1,0 +1,68 @@
+__main
+@Lclearscreenall
+@rur_115
+@イベント開始処理
+KSK/KSK0010710
+Whaaaaaaat!? For real!?
+RAK/RAK0043280
+Hm?
+@ＢＧＭ再生
+RAK/RAK0043290
+What's wrong, Onodera?
+KSK/KSK0010720
+Huh!? Uh, nothing![nl]U-Ummmm....
+RAK/RAK0043300
+?
+RAK/RAK0043310
+What's with Miyamoto?[nl]She's just standing there frozen, staring at her phone....
+RAK/RAK0043320
+Is that....a lottery ticket?
+RUR/RUR0009540
+I think I just won 100 million yen....
+RAK/RAK0043330
+WHAAAAAAAAAT!?
+SYU/SYU0007730
+Yahooo! That's amazing![nl]With 100 million yen, you could do this, or that....!
+@expose2
+SYU/SYU0007740
+I'm afraid I'll be taking this ticket off your hands,[nl]thank you very much!
+RAK/RAK0043340
+Aah! Hey, Shuu! Give Miyamoto back her ticket![nl]That's not yours!
+@expose
+RUR/RUR0009550
+Hmph....
+RUR/RUR0009560
+You scum. I cannot let my guard down around you at all.
+SYU/SYU0007750
+I-I was just kidding....
+KSK/KSK0010730
+....Huh? Ruri, I don't think your ticket number[nl]matches the winning number on the screen.
+RUR/RUR0009570
+Huh? Really?
+RAK/RAK0043350
+By the way, Miyamoto, your glasses look a bit foggy.
+RUR/RUR0009580
+Oh....So they are....[nl]Maybe I read the ticket wrong because[nl]my glasses are fogged....
+RAK/RAK0043360
+Here, I've got a handkerchief.[nl]Should I wipe the fog off for you?
+@ザクシャるり・小
+RUR/RUR0009590
+No thanks. I've got a special cleaning cloth.
+RAK/RAK0043370
+I see.
+KSK/KSK0010740
+I have a handkerchief, do you want to use it[nl]to clean off your glasses?
+RUR/RUR0009600
+Nah, I've got a special cleaning cloth, so it's fine.
+RUR/RUR0009610
+Oh, I did read this wrong.[nl]I thought that 7 was a 1.
+RAK/RAK0043380
+What the hell.[nl]Must be a real bummer, getting your hopes up like that.
+RUR/RUR0009620
+Yeah. Even though I was just going to save it,[nl]it's still a shame.
+SYU/SYU0007760
+Pardon me....[nl]So I got beaten up for nothing?
+RAK/RAK0043390
+You got what you deserved.
+@イベント終了処理
+common.asb

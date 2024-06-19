@@ -1,0 +1,56 @@
+__main
+@Lclearscreenall
+@rur_302
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0013360
+Okaaaay, that's it for today's scheduled date!
+RAK/RAK0044300
+You never know who's listening or where,[nl]so don't say things like that. It would be especially bad[nl]if Claude had heard that.
+@expose
+CTG/CTG0013370
+Hahaha, sorry, sorry.[nl]I let my guard down for a second there.
+RAK/RAK0044310
+Good grief....[nl]Welp, see you at school.
+CTG/CTG0013380
+Okay, see ya!
+RAK/RAK0044320
+(Alright, I'd better get home too....[nl] What should I make for dinner tonight?)
+KSK/KSK0011030
+Waaaah, Ruri....!?[nl]Kyaaah!?
+@ＢＧＭ停止
+RAK/RAK0044330
+....Huh?
+RAK/RAK0044340
+T-That's....!
+RUR/RUR0010270
+Owww....
+RAK/RAK0044350
+Onodera....and Miyamoto!?
+KSK/KSK0011040
+Gulp!
+@expose
+KSK/KSK0011050
+Uh....H-H-Hello, Ichijo!!
+RAK/RAK0044360
+H-Hey....[nl]What are you two doing here?
+KSK/KSK0011060
+Huh? ....You see....umm....
+RUR/RUR0010280
+Kosaki had an important errand to run,[nl]and I was going with her.
+KSK/KSK0011070
+T-That's right!
+RUR/RUR0010290
+But we just finished that errand, so we don't have[nl]any more business here.
+RAK/RAK0044370
+Is that so?[nl]I'm glad to hear it....
+RUR/RUR0010300
+See you later, Ichijo.[nl]Kosaki, let's go.
+KSK/KSK0011080
+O-Okay! See you, Ichijo!
+RAK/RAK0044380
+Right....
+RAK/RAK0044390
+....What the heck was that?
+@イベント終了処理
+common.asb

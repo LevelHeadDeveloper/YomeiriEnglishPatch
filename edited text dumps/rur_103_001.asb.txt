@@ -1,0 +1,103 @@
+__main
+@Lclearscreenall
+@rur_103
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0006910
+Hey, Raku, let's do our stretches together.
+RAK/RAK0041880
+Sure, whatever....[nl]But why do you look so happy?
+SYU/SYU0006920
+Maaaan, don't the girls look amazingly cute[nl]when they're warming up? I could watch and[nl]watch forever.
+RAK/RAK0041890
+Really? I can't say I relate to that.
+SYU/SYU0006930
+W-What!? You clearly lack a man's sense[nl]of aesthetics!
+RAK/RAK0041900
+Yeah, yeah, sorry.[nl]But if you keep staring like that,[nl]they're gonna catch on sooner or later.
+SYU/SYU0006940
+Mhm, mhm, it would appear as though[nl]Onodera's paired up with Ruri.
+RAK/RAK0041910
+Huh? Onodera!?
+@背景変更
+RUR/RUR0008420
+Here we go, Kosaki.[nl]Upsy-daisy.
+KSK/KSK0010480
+Aaaah![nl]Lifting me up so suddenly like that[nl]is dangerous, Ruri!
+RUR/RUR0008430
+But I told you we were going.[nl]Come on, let's continue.
+KSK/KSK0010490
+O-Okay.....[nl]Be careful, I'm scared to be lifted up[nl]too forcefully!
+RUR/RUR0008440
+Yeah, yeah. Here goes.
+KSK/KSK0010500
+Kyaaaah!?[nl]I-I thought I said not to lift too hard!
+SYU/SYU0006950
+Whaddya think, Raku?
+Cute.....
+Absolutely top-tier!
+RAK/RAK0041920
+.....C-Cute, I think.
+SYU/SYU0006960
+Oho! Now you can clearly see how cute it is[nl]when girls are doing stretches!
+RAK/RAK0041930
+You just spend all your time committing[nl]borderline sexual harassment, huh, dude.
+SYU/SYU0006970
+Kinda sounds like you were saying something terrible[nl]about me just now.
+RAK/RAK0041940
+Yeah, because I was.
+RUR/RUR0008450
+....Hang on, you two.[nl]It would seem you've been staring at us this whole time.
+RAK/RAK0041950
+Oh, sorry about that.[nl]I wasn't watching with any unsavory intentions....
+RUR/RUR0008460
+Hmmmm. Well, that's alright, then.
+@ザクシャるり・小
+@expose2
+RUR/RUR0008470
+Say, Ichijo.[nl]Maybe you'd like to take my place with Kosaki?
+KSK/KSK0010510
+Whaaa!?[nl]Ruri, what are you....!?
+RAK/RAK0041960
+N-No no no no!? I-I-I couldn't!!
+RUR/RUR0008480
+Just kidding.
+RAK/RAK0041970
+....Oh. You were kidding....
+RAK/RAK0041980
+Absolutely top-tier, sir!
+SYU/SYU0006980
+Mhm....
+SYU/SYU0007000
+On a super-fine high school girl,[nl]even an ordinary gym uniform can shine as brightly[nl]as the finest of dresses.
+RAK/RAK0041990
+T-That's deep....
+SYU/SYU0007010
+Now, behold![nl]Look at their skin, dripping with perspiration![nl]Their beatiful joints, being stretched!
+SYU/SYU0007020
+Ahhh, now this is making my appetite grow even more!
+RAK/RAK0042000
+H-Hey....Shuu! Behind you!
+SYU/SYU0007030
+Hm?
+SYU/SYU0007040
+Eeeeek!
+RUR/RUR0008490
+Die.
+@キャラ揺らし
+SYU/SYU0007050
+GAAAAAAAHHHH!!
+RAK/RAK0042010
+Rest in peace, Shuu....!
+RUR/RUR0008500
+You too, Ichijo.
+@expose
+RAK/RAK0042020
+Seriously!?
+@ＨＰ－１００
+RAK/RAK0042030
+Gaaaaaaaahh!
+RUR/RUR0008510
+Jeez, guys are hopeless....
+@イベント終了処理
+common.asb

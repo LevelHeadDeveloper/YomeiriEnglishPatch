@@ -1,0 +1,17 @@
+__main
+@Lclearscreenall
+@rur_203
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0044470
+Good morning, Miyamoto.
+RUR/RUR0010370
+....Good morning.
+RAK/RAK0044480
+....You seem like you're in a bad mood.
+RUR/RUR0010380
+I ran into Maiko just now.
+RAK/RAK0044490
+I-I see....
+@イベント終了処理
+common.asb

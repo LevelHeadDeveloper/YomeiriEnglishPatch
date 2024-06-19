@@ -1,0 +1,18 @@
+__main
+@Lclearscreenall
+@rur_202
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0044440
+Yaaaawn....
+RUR/RUR0010350
+Good morning, Ichijo.[nl]That was a pretty big yawn there.
+RAK/RAK0044450
+Oh, good morning, Miyamoto.[nl]Maaaan, I stayed up sooo late last night....
+RUR/RUR0010360
+I see.
+........
+RAK/RAK0044460
+So cold....
+@イベント終了処理
+common.asb

@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@rur_208
+@イベント開始処理
+@定型ＢＧＭ再生
+RYU/RYU0001270
+Young master, yer friend is here to visit ya!
+RAK/RAK0044760
+O-Okay....[nl]Please let them in.
+RAK/RAK0044770
+Huh....? M-Miyamoto!?[nl]You came to visit me!?
+RUR/RUR0010560
+Yep. Kosaki will be along shortly.
+RAK/RAK0044780
+I-I see....[nl]Thank you, Miyamoto.
+@ザクシャるり・中
+........
+RAK/RAK0044790
+(Nghh.... This silence is so awkward....)
+RAK/RAK0044800
+Uh, Miyamoto?
+RUR/RUR0010570
+It's better for sick people if they keep quiet.
+RAK/RAK0044810
+R-Right then....
+RAK/RAK0044820
+(Onodera! Hurry up and get here!)
+@ＨＰ＋８０
+@イベント終了処理
+common.asb

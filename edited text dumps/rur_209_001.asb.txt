@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@rur_209
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0044830
+Hahh.... I've been feeling so sluggish lately....
+RUR/RUR0010580
+If you get beaten up so regularly,[nl]it only follows you'll end up battered.
+RAK/RAK0044840
+Miyamoto....[nl]Are you worried about me, by any chance?
+RUR/RUR0010590
+Not really.
+RAK/RAK0044850
+Is that right....?
+RUR/RUR0010600
+But I do know of one person who might be.
+RAK/RAK0044860
+Huh? Who?
+RUR/RUR0010610
+Who knows? You'll need to figure it out for yourself.
+RUR/RUR0010620
+Here, take this.
+@ザクシャるり・中
+RAK/RAK0044870
+An energy drink....?
+RAK/RAK0044880
+(Maybe she is a little concerned?)
+@イベント終了処理
+common.asb

@@ -1,0 +1,52 @@
+__main
+@Lclearscreenall
+@rur_118
+@イベント開始処理
+@ＢＧＭ再生
+KYK/KYK0000190
+Alright, that's all for today!
+KYK/KYK0000200
+We're almost to the second half of the year.[nl]There's no rush, but you all might want to start[nl]thinking about your plans for the future.
+KYK/KYK0000210
+Okay, homeroom's done!
+@フェードアウト
+@背景変更
+KSK/KSK0010750
+Hey, so about what the teacher was saying earlier....[nl]Ichijo, do you have any dreams for the future?[nl]Y'know, like "I'd like to live like this".
+RAK/RAK0043640
+Let's see. I don't think I have a "dream" per se,[nl]it's more of a vague goal.
+SYU/SYU0007770
+You wanna be a civil servant, right?
+RAK/RAK0043650
+Well, I'm not a hundred percent sure yet.[nl]I do know I want a stable job, though.
+KSK/KSK0010760
+I see. Hehehe, that's just like you, Ichijo.
+SYU/SYU0007780
+Hey, hey. You got any dreams for the future, Ruri?[nl]To be honest, I'm having trouble seeing that.
+RAK/RAK0043660
+Well, since it's Miyamoto, she's probably[nl]aiming a lot higher than you think.
+@ザクシャるり・小
+@expose
+RUR/RUR0009850
+....Well, I dunno.[nl]I can't say my dreams are anything special.
+KSK/KSK0010770
+I don't have any particularly great dreams myself.
+RUR/RUR0009860
+Well....it's not that I'm putting myself down,[nl]it's more that all my dreams are stupid.
+RUR/RUR0009870
+For example....I want to sink my teeth into a whole cake.[nl]I'd also like to jump into a bath of pudding.
+KSK/KSK0010780
+A whole cake![nl]I'd like to try that, too.
+RAK/RAK0043670
+A pudding bath sounds traumatic, though....
+KSK/KSK0010790
+Hey, you got anything else, Ruri?[nl]Any other dreams?
+@expose2
+RUR/RUR0009880
+....I would very much like to attend[nl]my best friend's wedding.
+KSK/KSK0010800
+....Huh?
+RUR/RUR0009890
+That's about all I have for dreams.
+@イベント終了処理
+common.asb

@@ -1,0 +1,70 @@
+__main
+@Lclearscreenall
+@rur_104
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0007060
+Didja catch the ball game yesterday?[nl]Onihara's batting was simply amazing!
+RAK/RAK0042040
+Yeah! It was super exciting stuff![nl]But personally, I thought the pitcher, Kurita, was great!
+SYU/SYU0007070
+I wonder how he throws pitches like he does.[nl]He throws the ball low, but then it rises mid-air, right?
+RAK/RAK0042050
+I think you're supposed to throw it something like this.[nl]Let's see.... First you swing your arm back like this....
+@expose
+SYU/SYU0007080
+Aah! Raku!
+RAK/RAK0042060
+And then throw it like *whoosh*!
+@ＢＧＭ停止
+RUR/RUR0008520
+Owwwww!
+RAK/RAK0042070
+Huh....?
+RUR/RUR0008530
+----.
+RAK/RAK0042080
+Oh, d-don't tell me....
+@背景変更
+@ＢＧＭ再生
+RUR/RUR0008540
+It's bad enough that you'd grab my head,[nl]but to think you pulled it and tried to throw me as well....
+RAK/RAK0042090
+I-I'm sorry, Miyamoto![nl]I was just imitating a pitcher's throwing motions[nl]and I accidentally grabbed you!
+@expose2
+RUR/RUR0008550
+....Abiticus privileti demonica nector.[nl]Offici timicattus clothos endi collusivus....
+RAK/RAK0042100
+Huh? W-What language is that!?
+SYU/SYU0007090
+Raku. I think you should apologize once more,[nl]sincerely with all your heart.
+RAK/RAK0042110
+Y-Y-Yeah. Ummm....
+Give her your coupon
+Kneel
+RAK/RAK0042120
+I'm really sorry, Miyamoto.[nl]I don't know if this will make up for it, but....
+RUR/RUR0008560
+What are you going to give me....?[nl]If it's something weird, I won't forg--
+RUR/RUR0008570
+H-Here! A coupon for a triple king-sized ice cream[nl]from the very popular "48 Ice Cream" shop near the station!
+RAK/RAK0042130
+You can have it, just forgive me for grabbing your hair![nl]Okay, Miyamoto!?
+@ザクシャるり・大
+RUR/RUR0008580
+I-It can't be helped....[nl]I forgive you, then.
+RAK/RAK0042140
+(Phew. Thank goodness.)
+RAK/RAK0042150
+R-Right!
+@pan
+RAK/RAK0042160
+Miyamoto, it's as I said![nl]I'm really sorryyyy!
+SYU/SYU0007100
+Ooh, Raku, you're kneeling!?
+RUR/RUR0008590
+@ザクシャるり・小
+RUR/RUR0008600
+....Hahh. Fine.[nl]Make sure to be more careful next time.
+@イベント終了処理
+common.asb

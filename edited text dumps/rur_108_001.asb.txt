@@ -1,0 +1,79 @@
+__main
+@Lclearscreenall
+@rur_108
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0007180
+....Hm?[nl]Up ahead....that's Ruri.
+SYU/SYU0007190
+Heh heh heh.[nl]I think I'm gonna go scare her a bit.
+RAK/RAK0042420
+Don't you dare....[nl]If you do that, won't she just retaliate as harshly[nl]as she always does?
+SYU/SYU0007200
+Heh. Remember what they say, Raku.[nl]"Nothing ventured, nothing gained."[nl]You gotta take risks to get anything outta life!
+SYU/SYU0007210
+Alright, here I go!
+RAK/RAK0042430
+H-Hey!?
+@フェードアウト
+@背景変更
+@expose2
+SYU/SYU0007220
+....Boo!
+RUR/RUR0008900
+Hyaaa!
+SYU/SYU0007230
+Hahaha, you were so startled, Ruri![nl]You're so cute, kinda like a small animal!
+RAK/RAK0042440
+(This guy....[nl] He's got the brain of an elementary schooler....)
+RUR/RUR0008910
+Hmph....!
+@キャラ揺らし
+SYU/SYU0007240
+GYAAAAAAAAHHH![nl]MY EYES! MY EYEEEESSS!
+RUR/RUR0008920
+....What a perfect opportunity.[nl]Now to finish you off.
+RAK/RAK0042450
+(A-A stun gun!?)
+SYU/SYU0007250
+E-Eeeek! R-Raku! Help meeee!
+RAK/RAK0042460
+(Ohh, just as I thought....)
+Stop Ruri
+Wait to revive Shuu
+@ザクシャるり・小
+RAK/RAK0042470
+H-H-Hey, Miyamoto!
+RUR/RUR0008930
+....What is it?[nl]I'm busy right now.
+RAK/RAK0042480
+I-I-I was just wondering what all that stuff is?
+RUR/RUR0008940
+What....?[nl]Can't you see? These are for fighting off perverts.
+RUR/RUR0008950
+This is a crowbar, this is a dumbbell,[nl]and this is tear gas. Of course, I also have a personal alarm.
+@expose
+RUR/RUR0008960
+They're all perfectly legal, and I don't intend to use them[nl]unless I have to....but I have them just in case.
+RUR/RUR0008970
+And right now is one of those--
+RUR/RUR0008980
+....Huh? Where'd Maiko go?
+RAK/RAK0042490
+W-Whaat?[nl]He seems to have disappeared.
+RUR/RUR0008990
+....Right.[nl]I guess you'll have to do, Ichijo--
+RAK/RAK0042500
+Waaaaagh! Don't!
+RUR/RUR0009000
+Just kidding.
+RAK/RAK0042510
+(Scaaary![nl] The way she said it, it didn't sound like[nl] a joke at all!)
+RAK/RAK0042520
+(Sorry, Shuu![nl] I value my own life!)
+RUR/RUR0009010
+Have you said your final prayers?
+SYU/SYU0007260
+Y-You're heartleeeessss!
+@イベント終了処理
+common.asb

@@ -1,0 +1,96 @@
+__main
+@Lclearscreenall
+@rur_113
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0007610
+Lately, I've been hearing a lot of talk about our school's[nl]Seven Wonders. How much of that do you think is true?
+RAK/RAK0043020
+I don't think any of it's true.[nl]If ghosts and monsters and stuff were real, wouldn't the[nl]whole world be full of the occult?
+RUR/RUR0009320
+Yeah. I think ghosts and monsters are just figments[nl]of our imaginations. I've never seen one myself.
+SYU/SYU0007620
+But have you heard the phrase "no smoke without fire"?
+RUR/RUR0009330
+Are you familiar with the phrase[nl]"create a problem, sell a solution"?
+SYU/SYU0007630
+Hey, I didn't do anything.
+@expose
+RUR/RUR0009340
+That a fact....?
+KSK/KSK0010580
+But there really have been a lot of rumors floating around.[nl]People are talking about hearing noises or laughter from[nl]empty classrooms after school gets out.
+RUR/RUR0009350
+Just their imaginations.[nl]Nothing to be afraid of.
+KSK/KSK0010590
+Just their imaginations....[nl]T-That has to be it.... Yeah.
+SYU/SYU0007640
+But what if the rumors turn out to be true!?[nl]You could be cursed by a GHOST!
+RUR/RUR0009360
+There's no such thing, I'm telling you.
+SYU/SYU0007650
+How can you be sure?
+RUR/RUR0009370
+Then let me ask you the opposite question:[nl]Why is it that everything we know about them is hearsay, but there[nl]aren't any concrete stories from people who have genuinely had an encounter?
+RUR/RUR0009380
+Have any of you guys ever actually run into one?[nl]A real ghost or monster?
+@expose2
+SYU/SYU0007660
+No, I haven't.[nl]Raku?
+RAK/RAK0043030
+Well, I....
+It's not like I haven't
+....I haven't
+RAK/RAK0043040
+It's not as though I've never seen any....
+RAK/RAK0043050
+(Otama being a perfect example.)
+KSK/KSK0010600
+Whaa!? Really!?
+SYU/SYU0007670
+Hang on, Raku![nl]Why hadn't you told us such an interesting story!?
+RUR/RUR0009390
+What happened, exactly?
+RAK/RAK0043060
+Uhhh, wellll, it's not as though anything[nl]specific happened, okay? W-Well, nothing really worth[nl]talking about, anyway!
+SYU/SYU0007680
+....Hmmm. Sounds kinda fishy to me.
+KSK/KSK0010610
+B-But, if Ichijo doesn't want to talk about it,[nl]we shouldn't force him to, right?
+RUR/RUR0009400
+Well, if you say so, Kosaki.
+RAK/RAK0043070
+(Phew. I didn't spill the beans....)
+RAK/RAK0043080
+(I can't tell them about Otama.)
+RAK/RAK0043090
+I haven't.[nl]....How about you, Onodera?
+KSK/KSK0010620
+I-I haven't as of now....I guess.
+@ザクシャるり・小
+RUR/RUR0009410
+See? A school in and of itself can seem kind of creepy[nl]depending on how you're feeling in the moment, right?[nl]The Seven Wonders are just a product of that fear.
+SYU/SYU0007690
+Using such theories to protect ourselves, are we, Ruri?[nl]Are you sure you're not scaaaared?
+RUR/RUR0009420
+Absolutely positive.
+SYU/SYU0007700
+But, you know....[nl]They say that when you tell scary stories, ghosts show up.
+KSK/KSK0010630
+Waaaaaaaagh!
+RAK/RAK0043100
+C-Calm down, Onodera![nl]That was just the poster behind you falling down!
+KSK/KSK0010640
+Oh, I-I see.[nl]It was just a poster....
+RUR/RUR0009430
+Yes, yes. Don't be scared.
+SYU/SYU0007710
+You really don't seem scared at all, Ruri.
+RUR/RUR0009440
+Like I said, I'm not scared.
+RAK/RAK0043110
+!!
+RAK/RAK0043120
+(Ohh, I see. Miyamoto was just insisting that there[nl] weren't any ghosts because Onodera was scared.)
+@イベント終了処理
+common.asb

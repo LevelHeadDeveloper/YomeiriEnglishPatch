@@ -1,0 +1,109 @@
+__main
+@Lclearscreenall
+@rur_111
+@イベント開始処理
+SYU/SYU0007320
+I wanna break through Ruri's poker face!
+@ＢＧＭ再生
+RAK/RAK0042730
+....What's this, all of a sudden?
+@expose
+SYU/SYU0007330
+No, no, for real.[nl]Don't you wanna see what's behind it?
+@expose2
+SYU/SYU0007340
+Ruri's always got that poker face on, right?[nl]I'd love to see her surprised or laughing for once.
+RAK/RAK0042740
+Don't try it. No matter what you do,[nl]I don't think you're gonna be able to get her.
+SYU/SYU0007350
+You never know 'til you try![nl]Arrright, I'm gonna start by scaring her from behind!
+RAK/RAK0042750
+No, no, seriously, don't do it!
+SYU/SYU0007360
+Boo!
+SYU/SYU0007370
+WAAAAAAAAAGH!
+SYU/SYU0007380
+Owwwwww.....[nl]Maaan, Ruri's punches really do hit like a truck.
+RAK/RAK0042760
+I warned you. You gotta forget about this and give up.
+SYU/SYU0007390
+You think a minor setback like this is gonna[nl]get me to give up? Since startling her didn't work,[nl]it's time for the horror strats!
+RAK/RAK0042770
+Why are you all pumped up all of a sudden....?
+@フェードアウト
+@背景変更
+RAK/RAK0042780
+You really need to stop already.[nl]You can't break Miyamoto's poker face, it's impossible!
+SYU/SYU0007400
+No, no.... I'm not giving up! Ever!
+RAK/RAK0042790
+But you're all battered now.
+RAK/RAK0042800
+(Good grief. What should I do....)
+Encourage him
+Do it for him!
+RAK/RAK0042810
+All right.[nl]Keep on going until you're satisfied!
+@expose2
+SYU/SYU0007410
+Okay!
+@時間経過演出
+SYU/SYU0007420
+Ruriiii!
+RUR/RUR0009170
+....What do you want today?[nl]I've had about enough of this.
+SYU/SYU0007430
+....I have a gift for you, my sweet![nl]I don't have anything in my hands at the moment, but....
+RAK/RAK0042820
+(Oh, he pulled out a flower!)
+RUR/RUR0009180
+I know how that magic trick works.
+SYU/SYU0007440
+Huh?
+RUR/RUR0009190
+See ya.
+@キャラ揺らし
+SYU/SYU0007450
+...Waaaah![nl]I-I'm so frustrateeddd!
+RAK/RAK0042830
+Don't feel so bad, Shuu.[nl]You can try again next time!
+RAK/RAK0042850
+Shuu, you've done enough![nl]I'll take over now!
+SYU/SYU0007480
+R-Raku....
+RAK/RAK0042860
+I'm not so heartless that I could just stand by[nl]and watch my best friend get beaten up!
+SYU/SYU0007490
+Dude....![nl]You're glowing right now....!
+RAK/RAK0042870
+Miyamotoooo!
+RUR/RUR0009220
+Oh, Ichijo. Whatcha need?
+RAK/RAK0042880
+....I have a gift for you, my sweet![nl]I don't have anything in my hands at the moment, but....
+RUR/RUR0009230
+....I think I know this trick already.[nl]You pull out a flower, right?
+......
+@ザクシャるり・小
+RUR/RUR0009240
+That's just too bad.[nl]At least you tried to amuse me with good intentions,[nl]so I'll take it.
+RUR/RUR0009250
+SYU/SYU0007500
+Raku....
+RAK/RAK0042890
+Dammit....[nl]She's absolutely impenetrable....
+KSK/KSK0010560
+Oh, there you are, Ruri![nl]Listen, listen, get this!
+RUR/RUR0009200
+....Huh?[nl]So you.....!
+RUR/RUR0009210
+Hehe. That's funny.
+KSK/KSK0010570
+Y-You weren't supposed to laugh at that![nl]That was super embarrassing for me!
+RAK/RAK0042900
+That's Onodera for you....
+SYU/SYU0007510
+I've lost, haven't I.
+@イベント終了処理
+common.asb

@@ -1,0 +1,78 @@
+__main
+@Lclearscreenall
+@rur_112
+@イベント開始処理
+RAK/RAK0042910
+Hey, hold up, Shuu![nl]Why are you listening at the girls' locker room door!?
+@ＢＧＭ再生
+SYU/SYU0007520
+Shhhh. Why are you even asking?[nl]In this kind of situation, listening in on the conversations[nl]girls have in private....isn't that just common practice?
+RAK/RAK0042920
+It is absolutely not common practice!
+SYU/SYU0007530
+Come on, come on. Don't be so stubborn.[nl]In fact, why don't you have a listen, too?
+RAK/RAK0042930
+No way! Don't drag me into this perverted world of yours![nl]I'm sorry, but I'm gonna go now. Bye!
+SYU/SYU0007540
+Just do it! Come on!
+RAK/RAK0042940
+Waaagh!? Don't force me to listen!
+SSR/SSR0011950
+Waaah!? M-Mistress, please stop![nl]D-Don't touch meee!
+CTG/CTG0013330
+But it feels so gooood to touch you there![nl]I can't help it!
+SSR/SSR0011960
+Noo! Eeek![nl]C-Cut it oouuuut!
+.......
+SYU/SYU0007550
+Mwehehe. Well?[nl]You wanna take a listen?
+RAK/RAK0042950
+Well....
+No way!
+I'd love to take a listen!
+@ザクシャるり・小
+RAK/RAK0042960
+Nope. I'll pass.[nl]I don't wanna end up at the level of degenerate you are!
+@expose2
+SYU/SYU0007560
+Awww.
+RAK/RAK0042970
+Goodbye, Shuu.[nl]I'm not gonna mess around with blatant death flags!
+RAK/RAK0042980
+A listen....I'd love to take a listen!
+SYU/SYU0007570
+You're being honest with me![nl]Come on, they're still going.
+MRK/MRK0010660
+You should make better use of those assets of yours,[nl]Tsugumi. Oh, my, Miyamoto, yours are so small.
+RUR/RUR0009260
+That's just how I was born. Leave me alone.
+MRK/MRK0010670
+No. I've heard shape is more important than size.
+RUR/RUR0009270
+Good to know.[nl]Alright, I'm heading out now.
+SYU/SYU0007580
+Waaaagh! Raku, get outta here!
+@ＢＧＭ停止
+RUR/RUR0009280
+What are you two doing?
+SYU/SYU0007590
+Nothing? By the way, I also think shape is more important.
+RAK/RAK0042990
+Aaagh!? Y- Idiot!
+@背景変更
+RUR/RUR0009290
+....Die, scum.
+@キャラ揺らし
+SYU/SYU0007600
+AAAAAAAAAAAAAAGGHHHH!
+RUR/RUR0009300
+You too, Ichijo.
+@ＨＰ－５０
+RAK/RAK0043000
+GLBTCKHHHHHHH!
+RUR/RUR0009310
+....Jeez.
+RAK/RAK0043010
+(I knew it....[nl] I knew it would turn out like this....)
+@イベント終了処理
+common.asb

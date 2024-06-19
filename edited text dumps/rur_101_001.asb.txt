@@ -1,0 +1,92 @@
+__main
+@Lclearscreenall
+@rur_101
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0006790
+I'm baaack.
+RAK/RAK0041660
+Hm? You went somewhere, Shuu?
+SYU/SYU0006800
+Yeah. Just helping Ms. Kyoko for a bit,[nl]we cleaned out the fridge in the staff room.
+SYU/SYU0006810
+She gave me these cream puffs as thanks.[nl]Anyone want some?
+RUR/RUR0008260
+*twitch*
+RAK/RAK0041670
+No, I'm good.[nl]I just ate lunch, so I'm full.
+KSK/KSK0010290
+I might want some....[nl]Maiko, how big are they?
+@expose2
+SYU/SYU0006820
+Here, have a look![nl]These cream puffs are from that one super-famous store!
+KSK/KSK0010300
+Wow, they look delicious!
+@expose
+KSK/KSK0010310
+Ichijo, are you sure you're full?[nl]You wanna split one of these half-and half?
+RAK/RAK0041680
+Huh!?
+RAK/RAK0041690
+(W-What do I do!?)
+Go halfsies.
+Let her eat it all.
+RAK/RAK0041700
+I-I guess if you insist, we can split it....
+KSK/KSK0010320
+Okay. Hang on a second.[nl]I'll split it in half.
+SYU/SYU0006830
+Hehehe.
+RAK/RAK0041710
+The hell are you laughing about....?
+SYU/SYU0006840
+Nothiiiiing?
+RAK/RAK0041720
+Thanks for offering,[nl]but I think I'm good....
+KSK/KSK0010330
+I see. Well then, I guess I'll eat it myself.
+RAK/RAK0041730
+Enjoy.
+KSK/KSK0010340
+How about this, Ichijo?[nl]I think you could eat something about this size, right?
+RAK/RAK0041740
+Hmmm.....No, I think I'll pass.
+SYU/SYU0006850
+How about you, Ruri? Aren't you hungry?
+RUR/RUR0008270
+I just finished lunch, like Ichijo,[nl]so I'm full.
+SYU/SYU0006870
+I seeeee. It can't be helped, I guess.[nl]We'll just split them three ways with Raku.
+SYU/SYU0006860
+I seeeee. It can't be helped, I guess.[nl]Onodera, let's eat these together.
+RUR/RUR0008280
+What are you talking about?[nl]Give me one of those, too.
+SYU/SYU0006880
+Huh?
+RAK/RAK0041750
+But, Miyamoto, you just said you were full....
+RUR/RUR0008290
+I did say that. So what?
+RAK/RAK0041760
+W-Well. You see....[nl]If you're full, you can't fit any more food, right?
+RUR/RUR0008300
+Hahh.... You really don't understand at all, do you.
+RUR/RUR0008310
+Listen up. Girls have a second stomach for sweets.[nl]I thought that was pretty common knowledge.
+SYU/SYU0006890
+Hahaha! I do hear that quite a lot.[nl]I do apologize.
+SYU/SYU0006900
+Okay, here's one for you, Ruri.
+RUR/RUR0008320
+Thanks. I'll eat it right away.
+RUR/RUR0008330
+Nom.....
+RUR/RUR0008335
+*swallow*
+RUR/RUR0008340
+Oh, that was good.[nl]I could go for another one of those.
+@ザクシャるり・小
+RAK/RAK0041770
+Y-You ate it in one gulp....
+@イベント終了処理
+common.asb

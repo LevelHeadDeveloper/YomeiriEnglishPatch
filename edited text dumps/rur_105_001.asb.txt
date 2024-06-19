@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@rur_105
+@イベント開始処理
+@ＢＧＭ再生
+RUR/RUR0008610
+Mph.... oof....
+RAK/RAK0042170
+(Hm? Is that Miyamoto?[nl] Why is she holding so many papers!?)
+RAK/RAK0042180
+Heeeeey, Miyamoto!
+RUR/RUR0008620
+Oh, Ichijo.
+RAK/RAK0042190
+I'll help you carry those papers.[nl]It'd be a lot of work for you otherwise.
+RUR/RUR0008630
+Really? Then could you take half of them?[nl]We're going to the staff room. Thanks.
+RAK/RAK0042200
+Sure! Leave it to me.
+@時間経過演出
+RUR/RUR0008640
+....You really are kind to everyone.
+RAK/RAK0042210
+Really? I've never really[nl]thought of myself that way before....
+RUR/RUR0008650
+....Kosaki's usually nice to everyone as well.[nl]I don't think she's quite as aware of it as you are, though.
+RUR/RUR0008660
+I guess you two are pretty similar that way....
+RAK/RAK0042220
+I'm not sure about me, but you're right about Onodera being[nl]kind! After all, she has a pure heart, she's humble, and[nl]she's cute. She's also reserved, but reliable to the bone.
+@expose2
+RAK/RAK0042230
+Onodera's, like, a super great person!
+........
+RAK/RAK0042240
+Oh, sorry....[nl]Got a bit carried away there.
+@ザクシャるり・小
+RUR/RUR0008670
+No need to apologize.
+RUR/RUR0008680
+But you're right.[nl]I mostly agree with your opinion on her,[nl]but why don't you tell her instead of telling me?
+RUR/RUR0008690
+After all, there's not many people in this world[nl]who wouldn't feel good about being complimented.
+RAK/RAK0042250
+....I see.[nl]Makes sense when you put it like that.
+RUR/RUR0008700
+Yeah, do your best.
+RAK/RAK0042260
+(Whether or not I'd actually be able to[nl] tell her is a whole other matter....)
+@イベント終了処理
+common.asb

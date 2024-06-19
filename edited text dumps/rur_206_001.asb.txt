@@ -1,0 +1,48 @@
+__main
+@Lclearscreenall
+@rur_206
+@イベント開始処理
+@定型ＢＧＭ再生
+RUR/RUR0010450
+Ichijo. I'd like to talk to you in private.
+RAK/RAK0044560
+....About what?
+RUR/RUR0010460
+....Here.
+RAK/RAK0044570
+This....[nl]Huh!? W-What is this....!?
+@ザクシャるり・小
+RUR/RUR0010470
+You know what this is....
+RUR/RUR0010480
+Hurry up and take it....
+RAK/RAK0044580
+....Huh? N-No....
+RAK/RAK0044590
+....Ah! I get it, Miyamoto![nl]You want me to deliver this love letter to someone[nl]for you, right?
+@expose
+@背景変更
+RUR/RUR0010490
+No.[nl]....I want to give this to you.
+RAK/RAK0044600
+....Huh?
+RUR/RUR0010500
+Please just take it.[nl]I'm embarrassed, too....
+RAK/RAK0044610
+(Miyamoto is Onodera's best friend, though![nl] Is it really okay to accept this!?)
+RAK/RAK0044620
+(But I can't just ignore how Miyamoto feels!)
+RAK/RAK0044630
+W-What should I doooooo!?
+RAK/RAK0044640
+Aaa!?
+KYK/KYK0000220
+What should you do?[nl]Wellll, how about study?
+RAK/RAK0044650
+Ngh! Y-Yes!
+CTG/CTG0013390
+Idiot....
+RAK/RAK0044660
+(I-I just had the weirdest dream....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,69 @@
+__main
+@Lclearscreenall
+@rur_110
+@イベント開始処理
+RAK/RAK0042620
+Chitoge, you about finished with your work over there?[nl]I think it's about time we get these guys back into their houses.
+CTG/CTG0013260
+Houses? Ohh, you mean their cages?
+RAK/RAK0042630
+Don't call them cages! They're houses, houses!
+SNK/SNK0000150
+Hissss!
+@expose
+CTG/CTG0013270
+....Aaah!
+@ＢＧＭ再生
+CTG/CTG0013280
+Oh, sorry! Ta-kun got away!
+RAK/RAK0042640
+What!?
+RAK/RAK0042650
+(Oh, no! With a snake as big as that on the loose,[nl] the whole school's gonna go into a panic!)
+RUR/RUR0009110
+What's going on with you two?
+RAK/RAK0042660
+Oh, Miyamoto![nl]Ta-kun's escaped and he's on the loose!
+RUR/RUR0009120
+Ta-kun....?
+CTG/CTG0013290
+The snake! Sorry, Ruri![nl]He went that way!
+SNK/SNK0000160
+Hisss hisss hisssss!
+CTG/CTG0013300
+Ruri! Get away, he's dangerous!
+RAK/RAK0042670
+(Crap! What do I do!?)
+Protect Ruri
+Let Ruri do her thing
+RAK/RAK0042680
+Miyamoto, look out!
+@ザクシャるり・中
+......
+RAK/RAK0042690
+Please, Miyamoto!
+@ザクシャるり・小
+RUR/RUR0009130
+Please, huh....[nl]Well, I guess it can't be helped.
+@ＢＧＭ停止
+RUR/RUR0009140
+Here.
+CTG/CTG0013310
+....Huh?
+RUR/RUR0009150
+This what you wanted? Here.
+RAK/RAK0042700
+(M-Miyamoto....[nl] You wrangled Ta-kun with your bare hands!?)
+SNK/SNK0000170
+Hiss, hissss?
+@expose2
+CTG/CTG0013320
+T-Thank you, Ruri![nl]You're amazingly fast, even for someone so young![nl]We're so glad you caught him!
+RAK/RAK0042710
+Miyamoto....you don't seem to mind snakes much.
+RUR/RUR0009160
+Not really. They're just another kind of animal.[nl]Welp, I'm off.
+RAK/RAK0042720
+(That's about par for the course....)
+@イベント終了処理
+common.asb

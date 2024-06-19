@@ -20,7 +20,7 @@ RUR/RUR0001790
 I won't know if you don't tell me.
 @rur_002_01_ans01
 @ザクシャるり・１
-RUR/RUR000
+RUR/RUR0001800
 Searching? What for?
 @rur_002_102
 @rur_002_01_ans02

@@ -1,0 +1,64 @@
+__main
+@Lclearscreenall
+@rur_121
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0043960
+Oh, Miyamoto. Swim practice over?
+RUR/RUR0010030
+....Yup.
+RUR/RUR0010040
+Hahhh.
+RAK/RAK0043970
+What? Did I say something strange?
+RUR/RUR0010050
+No, not really.[nl]What, do you think you said something strange?
+RAK/RAK0043980
+No, that's not it![nl]Why are you making that face then? You look really grumpy.
+RUR/RUR0010060
+Oh,. sorry about that.[nl]I've got some water in my ear and I just can't get it out.
+RUR/RUR0010070
+Normally it comes out pretty easily,[nl]but today it's just not budging....
+RAK/RAK0043990
+Oh, so that's it. I'll bet it feels like there's something[nl]in the back of your ears that's making them ring,[nl]and it's making you feel sick.
+RUR/RUR0010080
+It's hard to hear you, too.[nl]Don't worry, you haven't offended me.
+RAK/RAK0044000
+Hey, what is it you do to get the water[nl]out of your ears, usually?
+RUR/RUR0010090
+I shake my head.
+RAK/RAK0044010
+Anything else?
+@expose
+RUR/RUR0010100
+Not that I know of.
+RAK/RAK0044020
+I have this trick I use sometimes.[nl]You take a pocket tissue....
+RAK/RAK0044030
+And you tie a tight knot in one corner.[nl]....Here, put this in your ear slowly.
+RUR/RUR0010110
+Hmmm.
+@ザクシャるり・小
+RAK/RAK0044040
+Hey, Miyamoto, do you have any tissues?
+RUR/RUR0010120
+Yep. Here you go.
+RAK/RAK0044050
+Thank you. Just roll a tissue or two into a kind of a rope....[nl]Then put it *gently* into your ear.
+......
+RUR/RUR0010130
+....Oh, it actually worked.
+RAK/RAK0044060
+Surprisingly easy to get it out that way, right?[nl]You don't even have to shake your head.
+@ザクシャるり・中
+@expose2
+RUR/RUR0010140
+For the first time, I'm actually impressed with you.
+RAK/RAK0044070
+....F-For the first time?
+RUR/RUR0010150
+Yes, for the first time.
+RAK/RAK0044080
+....Oh, okay.[nl]That's great to hear....
+@イベント終了処理
+common.asb

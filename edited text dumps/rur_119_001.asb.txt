@@ -1,0 +1,55 @@
+__main
+@Lclearscreenall
+@rur_119
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0010810
+Now that I think about it, we haven't changed seats[nl]in this class, have we? And I heard other classes do it.
+RAK/RAK0043680
+You're right. It's almost the end of the second semester,[nl]and we haven't even done a single seat change.
+RUR/RUR0009900
+Would you like to change seats, Ichijo?
+RAK/RAK0043690
+Well....I guess. My seat's fine right now,[nl]but it would be nice to change seats every now and then[nl]for a nice change of pace, right?
+RAK/RAK0043700
+L-Look, you and Onodera....[nl]You're not sitting together.
+@expose
+KSK/KSK0010820
+Oh....
+KSK/KSK0010830
+T-That's right....[nl]Ummm....
+@ザクシャるり・小
+......
+RUR/RUR0009910
+Yeah. Kosaki does have someone she wants to[nl]sit next to, so I'm guessing she'd want to change seats.
+KSK/KSK0010840
+!!
+RAK/RAK0043710
+S-She wants to sit next to someone....!?[nl]O-O-Onodera....!?
+KSK/KSK0010850
+J-Jeez.... Ruri!
+@expose2
+RUR/RUR0009920
+Mpgh.
+KSK/KSK0010860
+Why do you always have to say things like that!?[nl]You're embarrassing me!
+RAK/RAK0043720
+U-Um....Onodera?[nl]This guy you want to sit next to....
+KSK/KSK0010870
+N-No! I just want to sit next to Ruri, that's all!
+RAK/RAK0043730
+Oh.... So that's what she meant?
+KSK/KSK0010880
+Y-Yeah! T-That's right. Hahaha....
+RAK/RAK0043740
+Ohh, I see. That's it....
+RAK/RAK0043750
+(Maaaan, I was so scared....)
+RUR/RUR0009930
+....Tch.
+RAK/RAK0043760
+....M-Miyamoto?[nl]Why'd you just click your tongue at me?
+RUR/RUR0009940
+Who knows?[nl]You may just never figure it out.
+@イベント終了処理
+common.asb

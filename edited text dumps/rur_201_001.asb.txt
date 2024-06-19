@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@rur_201
+@イベント開始処理
+@定型ＢＧＭ再生
+RUR/RUR0010310
+Good morning, Ichijo.
+RAK/RAK0044400
+G-Good morning, Miyamoto.[nl]It's rare that we'd run into each other in the morning.
+RUR/RUR0010320
+Yeah, I usually wake up much earlier than I did today,[nl]but none of my alarms went off.
+RAK/RAK0044410
+None of your....[nl]How many alarms do you usually set?
+@expose
+RUR/RUR0010330
+Three. I set them all yesterday.
+RAK/RAK0044420
+....Did you, maybe, snooze all of them?
+........
+RUR/RUR0010340
+....No way, that can't be it.
+RAK/RAK0044430
+O-Of course not!
+@イベント終了処理
+common.asb

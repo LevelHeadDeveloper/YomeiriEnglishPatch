@@ -1,0 +1,80 @@
+__main
+@Lclearscreenall
+@rur_109
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0013200
+Oh, there she is![nl]Ruriiii!
+RUR/RUR0009020
+Huh? You guys?[nl]What are you doing here....?
+KSK/KSK0010520
+We came to cheer you on![nl]Good luck with the practice race, Ruri!
+RUR/RUR0009030
+....Hang on a second.[nl]I only told you about the race, Kosaki.....
+SYU/SYU0007270
+Hey, hey, don't be so shy![nl]We all came to support you, Ruri!
+@expose
+RUR/RUR0009040
+If you cheer for me, you're going to make me[nl]lose at even the things I *can* win at, so can you keep quiet?
+@expose2
+SYU/SYU0007280
+Awww, but that's boooriiing.
+RUR/RUR0009050
+Jeez....
+RAK/RAK0042530
+The others went home already, so we're the only[nl]ones who could come.... Sorry.
+RUR/RUR0009060
+Whatever. The fact that you guys came is enough.
+CTG/CTG0013210
+Go knock 'em dead, Ruri![nl]We're all rooting for you!
+@時間経過演出
+SYU/SYU0007290
+Oh, looks like Ruri's almost up!
+CTG/CTG0013220
+Ooooh! This kinda thing always gets me[nl]super fired up! Go, Ruri, go!
+KSK/KSK0010530
+Hehe. It's always so cool to see Ruri[nl]swimming her hardest.
+RAK/RAK0042540
+Ooh. This seems like it'll be fun!
+RAK/RAK0042550
+Oh, they've started!
+Cheer as hard as you can
+Cheer only as appropriate
+RAK/RAK0042560
+Miyamotooo![nl]You got thisss!
+@ザクシャるり・中
+RAK/RAK0042570
+Let's see what she's got.[nl]Do your best!
+@ザクシャるり・小
+CTG/CTG0013230
+GOOOO! RURIIIII!
+CTG/CTG0013240
+.....Wait, huh?[nl]Ruri's just kinda....swimming slowly.
+RAK/RAK0042580
+Yeah....[nl]She's fallen pretty far behind, will she be okay?
+KSK/KSK0010540
+Hehe. This is the part where[nl]Ruri gets really amazing!
+RAK/RAK0042590
+What do you mean "amazing"....?
+RAK/RAK0042600
+A-Amazing! She's suddenly gotten a[nl]bajillion times faster!
+CTG/CTG0013250
+Kyaaaah!? Amazing![nl]She made it to the lead in the blink of an eye!
+RUR/RUR0009070
+....Phew. I'm exhausted.[nl]That was the only lap I was swimming today,[nl]so you guys can head home now.
+SYU/SYU0007300
+Way to go, Ruri![nl]You keep that cool attitude even when you win!
+RUR/RUR0009080
+----
+SYU/SYU0007310
+Huh? Why are you glaring at me like that?[nl]It was supposed to be a compliment!?
+RAK/RAK0042610
+But you really were that cool out there![nl]Just like Onodera said, you were amazing, Miyamoto!
+KSK/KSK0010550
+....Hehe. Right!?[nl]You are my best friend after all, Ruri!
+RUR/RUR0009090
+I wouldn't go that far....
+RUR/RUR0009100
+....But thanks for the support.
+@イベント終了処理
+common.asb

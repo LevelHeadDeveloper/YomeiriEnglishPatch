@@ -1,0 +1,71 @@
+__main
+@Lclearscreenall
+@rur_102
+@イベント開始処理
+@ＢＧＭ再生
+KSK/KSK0010350
+Hey, Ruri, Ruri.
+KSK/KSK0010360
+Oh....
+RUR/RUR0008350
+Zzzzz.....
+KSK/KSK0010370
+Ruri, are you asleep?
+RAK/RAK0041780
+Ooh. It's rare to see this side of Miyamoto.
+@expose
+KSK/KSK0010380
+That's not true. She may seem super serious most times,[nl]but sometimes she spaces out like this, too.
+RAK/RAK0041790
+I see. But maybe she only shows that side of herself[nl]to people she's comfortable around, like you, Onodera.
+KSK/KSK0010390
+That may be true.[nl]I can't hide things from her sometimes, either.
+RUR/RUR0008360
+.....Mmm....[nl]....Nghhh.....
+RAK/RAK0041800
+Looks like she's having a bad dream?
+KSK/KSK0010400
+Yeah, looks like it....[nl]She doesn't look happy, should I wake her up?
+RAK/RAK0041810
+(What should I do....?)
+Pinch her nose
+Let Onodera wake her up
+RAK/RAK0041820
+I don't want to *just* wake her up,[nl]so how about I hold her nose?
+KSK/KSK0010410
+Huh? That seems a bit cruel.
+KSK/KSK0010420
+I guess I'll wake her up after all.
+KSK/KSK0010430
+Ruri? Ruri?[nl]Wake up, Ruriiiii!
+RUR/RUR0008370
+....Nn.....ggh.....hhh...
+@expose2
+RUR/RUR0008380
+.....Shaddup.
+@ＨＰ－２５
+@ＨＰ－５０
+RAK/RAK0041830
+Glptbckh!?[nl]A....perfectly-executed....gut punch....!!
+RAK/RAK0041840
+(Why'd she even hit me!?)
+KSK/KSK0010440
+Ichijo, are you okay!?
+RAK/RAK0041850
+Y-Yeah....I'm fine.[nl]She just got me off-guard with that punch.
+KSK/KSK0010450
+She still hasn't woken up.
+RUR/RUR0008390
+Nnngggh....[nl]N-No.... Stop.... This isn't....
+RUR/RUR0008400
+I ordered a....triple, how many times[nl]do I need to tell you....
+@ザクシャるり・小
+RAK/RAK0041860G
+....Huh?
+RUR/RUR0008410
+RAK/RAK0041870
+Doesn't really....seem like a bad dream.
+KSK/KSK0010470
+Yeah.
+@イベント終了処理
+common.asb
