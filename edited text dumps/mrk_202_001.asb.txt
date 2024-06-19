@@ -15,7 +15,7 @@ RAK/RAK0081620
 MRK/MRK0018540
 Thank you. Okay then....
 MRK/MRK0018550
-You are standing in front of a white house on a hill.[nl]The white house has large windows, and through them you can see a[nl]happy couple and two children.
+You are standing in front of a white house on a hill.[nl]The white house has large windows, and through them you[nl]can see a happy couple and two children.
 MRK/MRK0018560
 Now, what color curtains do you see on the windows?
 RAK/RAK0081630

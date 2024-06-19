@@ -8,9 +8,9 @@ RAK/RAK0079270
 I know I promised to do this and all, but....[nl]I didn't think we'd actually do a test of courage.
 @expose
 MRK/MRK0016240
-But I'm sure you're curious too, Raku dearest?[nl]You wonder whether or not there really is a moaning Mona Lisa in the school.
+But I'm sure you're curious too, Raku dearest?[nl]You wonder whether or not there really is a[nl]moaning Mona Lisa in the school.
 RAK/RAK0079280
-It's probably just a prank of some kind,[nl]or someone misheard. Let's just check it out quickly and head home.
+It's probably just a prank of some kind,[nl]or someone misheard. Let's just check it out quickly[nl]and head home.
 MRK/MRK0016250
 ....You could certainly be a little bit more excited here.
 MRK/MRK0016260
@@ -136,7 +136,7 @@ MRK/MRK0016510
 RAK/RAK0079550
 Huh!?
 MRK/MRK0016520
-We can't just let something that scary roam unchecked![nl]I'll have Honda call in the national riot police, district riot police,[nl]and the special vehicles unit!
+We can't just let something that scary roam unchecked![nl]I'll have Honda call in the national riot police,[nl]district riot police, and the special vehicles unit!
 MRK/MRK0016530
 I'll make that ghost regret the day it scared me!
 MRK/MRK0016540

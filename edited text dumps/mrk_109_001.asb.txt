@@ -8,7 +8,7 @@ RAK/RAK0076200
 Gah!?[nl]Why the hell are these two facing off!
 @ＢＧＭ再生
 CTG/CTG0022880
-Pardon me, Tachibana.[nl]I think you've been meddling too much with my darling these days.
+Pardon me, Tachibana.[nl]I think you've been meddling too much[nl]with my darling these days.
 MRK/MRK0013110
 Oh, Kirisaki.[nl]I feel so sorry for Raku dearest, what with[nl]you always holding him back.
 MRK/MRK0013120
@@ -21,15 +21,15 @@ O-Ohh. So these looks like humans to you, Marika.[nl]To me, they kinda look like
 MRK/MRK0013140
 That's because they *are* gorillas. ♪[nl]You'd have to be crazy to think those could be humans. ♪
 CTG/CTG0022900
-Hahaha! What a terrible joke.[nl]You're probably so hot for my darling that the heat melted your brain.
+Hahaha! What a terrible joke.[nl]You're probably so hot for my darling that the heat[nl]melted your brain.
 MRK/MRK0013150
-Oh, is it that obvious how passionate Raku dearest and I are for each other?[nl]You can't hide true love, after all.
+Oh, is it that obvious how passionate Raku dearest and I are[nl]for each other? You can't hide true love, after all.
 RAK/RAK0076210
 (Aaaaaah! W-What is going on!?)
 RAK/RAK0076220
 (Why are they doing this in front of the classroom!?)
 RAK/RAK0076230
-(I'd better get outta here and hide on the rooftop[nl] or with the animals until this blows over!
+(I'd better get outta here and hide on the rooftop[nl] or with the animals until this blows over!)
 CTG/CTG0022910
 ....What are you sneaking around for, Darling?
 RAK/RAK0076240
@@ -86,7 +86,7 @@ RAK/RAK0076320
 MRK/MRK0013250
 Now we absolutely must throw a massive party[nl]for the entire school!
 MRK/MRK0013260
-I'm going to go announce everything over the school PA system!
+I'm going to go announce everything[nl]over the school PA system!
 RAK/RAK0076330
 (D-Don't do thaaaat!)
 @ザクシャ千棘・中
@@ -99,7 +99,7 @@ But you should have answered faster.[nl]I feel like an idiot for getting so work
 RAK/RAK0076350
 Huh? Were you nervous, by any chance?
 CTG/CTG0022990
-S-Shut up![nl]I'm your girlfriend, so it would have been embarrassing to lose!
+S-Shut up! I'm your girlfriend,[nl]so it would have been embarrassing to lose!
 CTG/CTG0023000
 W-Well, of course I can't stand you!
 RAK/RAK0076360
@@ -113,7 +113,7 @@ Of course.[nl]We are lovers, after all. ♪
 MRK/MRK0013270
 ....I don't approve.[nl]I don't approve of this!
 MRK/MRK0013280
-....I'm certain Raku dearest is suffering very much[nl]because he can't express his true feelings in front of his terrible girlfriend!
+....I'm certain Raku dearest is suffering very much[nl]because he can't express his true feelings[nl]in front of his terrible girlfriend!
 MRK/MRK0013290
 I do not approve of this!
 @expose2
@@ -135,7 +135,7 @@ I-I can't just make a decision like that so lightly![nl]Enough of this, both of 
 CTG/CTG0023070
 Ngh! W-Why you...!
 MRK/MRK0013300
-Hehehe, you could have just thrown your embarrassment to the wind[nl]and said "I like Marika Tachibana".
+Hehehe, you could have just thrown your embarrassment to[nl]the wind and said "I like Marika Tachibana".
 RAK/RAK0076400
 I just said I'm not saying anything![nl]I'm leaving now!
 CTG/CTG0023080

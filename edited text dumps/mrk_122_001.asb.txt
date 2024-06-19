@@ -10,9 +10,9 @@ Oh, sorry, Raku![nl]I've got some stuff I need to take care of at home today,[nl
 SSR/SSR0021300
 I'll be going with her.
 KSK/KSK0018240
-U-Umm....[nl]I need to help out at the shop today, so I've gotta leave[nl]right away.
+U-Umm....[nl]I need to help out at the shop today,[nl]so I've gotta leave right away.
 RAK/RAK0078280
-Huh? Looks like everyone's busy today....[nl]Shuu went home early, so I guess I'm walking home alone today.
+Huh? Looks like everyone's busy today....[nl]Shuu went home early, so I guess I'm walking[nl]home alone today.
 MRK/MRK0015290
 Come on, Raku dearest![nl]You forgot about me, didn't you?
 MRK/MRK0015300
@@ -32,7 +32,7 @@ Ah! I've got some other things I need to get ready,[nl]so please wait at the sch
 RAK/RAK0078310
 Huh? Other things?[nl]And why do I have to wait at the school gate....?
 MRK/MRK0015340
-Because when you go on an after-school date,[nl]you always meet at the school gates, right?[nl]I've always dreamed of doing something like that with my Raku dearest!
+Because when you go on an after-school date, you always[nl]meet at the school gates, right? I've always dreamed[nl]of doing something like that with my Raku dearest!
 RAK/RAK0078320
 A-A date!?[nl]No, I just wanna go home!
 MRK/MRK0015350
@@ -99,7 +99,7 @@ Ahh....
 RAK/RAK0078510
 (Ghh.... I can't keep this conversation going at all![nl] Isn't there anything we can talk about!?)
 RAK/RAK0078520
-(That's right, we can talk about our common link: Tachibana!)
+(That's right, we can talk about our common link:[nl] Tachibana!)
 RAK/RAK0078530
 So, what is it you usually talk about with Tachibana?[nl]I'm kinda curious.
 RAK/RAK0078540
@@ -123,7 +123,7 @@ Oh, if it isn't Honda.[nl]What are you doing here?
 HND/HND0000820
 I'm here to pick you up.
 HND/HND0000830
-I understand that you promised to walk home with Master Ichijo,[nl]but may I take you home in the car?
+I understand that you promised to walk home with[nl]Master Ichijo, but may I take you home in the car?
 MRK/MRK0015380
 Jeez, you just don't get it, Honda.[nl]If we did that, our date at the school gate[nl]would all have been for nothing.
 MRK/MRK0015390
@@ -131,7 +131,7 @@ Right, Raku dearest? ★
 RAK/RAK0078590
 Whatever, I was itching to see you[nl]as soon as possible, Tachibana!
 MRK/MRK0015400
-W-Whaaaat!?[nl]I never thought I'd hear you say those words, Raku dearest....!
+W-Whaaaat!? I never thought I'd hear you[nl]say those words, Raku dearest....!
 RAK/RAK0078600
 Yeah.... That was the longest wait of my life![nl]I was waiting and waiting for you to come meet me!
 HND/HND0000840

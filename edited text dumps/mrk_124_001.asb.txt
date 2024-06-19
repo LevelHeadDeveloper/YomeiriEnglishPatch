@@ -64,7 +64,7 @@ This city has quite the starry sky at night.[nl]Did you know that?
 RAK/RAK0079040
 Well, I used to look at it practically every night....[nl]These days, I barely ever do.
 MRK/MRK0015810
-Here, please look up there.[nl]That's Cygnus, the Swan. And next to it, that's Lacerta, the Lizard.
+Here, please look up there.[nl]That's Cygnus, the Swan. And next to it,[nl]that's Lacerta, the Lizard.
 RAK/RAK0079050
 Ohh, is that right?[nl]So you know even a minor constellation like Cygnus, huh.[nl]Do you know a lot about constellations?
 MRK/MRK0015820
@@ -76,7 +76,7 @@ Yes....
 MRK/MRK0015840
 Don't you remember?[nl]All that time ago, we looked up at the night sky together....
 MRK/MRK0015850
-That night, you taught me about all the constellations you knew[nl]with the happiest smile on your face....
+That night, you taught me about all the constellations[nl]you knew with the happiest smile on your face....
 I think I remember that....
 Sorry, I don't remember.
 RAK/RAK0079070
@@ -96,11 +96,11 @@ For now, let's just watch the night sky together.[nl]That alone is enough to mak
 RAK/RAK0079090
 Tachibana....
 MRK/MRK0015900
-I forgive you for forgetting what happened back then, but....[nl]Do me a favor and remember every detail about tonight, okay?
+I forgive you for forgetting what happened back then, but....[nl]Do me a favor and remember every detail about tonight,[nl]okay?
 RAK/RAK0079100
 Huh....?
 MRK/MRK0015910
-Please remember all the lovely memories we're making right now.[nl]Me and you, Raku dearest, this is our most precious time.
+Please remember all the lovely memories[nl]we're making right now.[nl]Me and you, Raku dearest, this is our most precious time.
 MRK/MRK0015920
 I won't forget this starry night, either.
 RAK/RAK0079110

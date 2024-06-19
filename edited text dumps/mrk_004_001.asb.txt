@@ -125,7 +125,7 @@ Very well. For every question I asketh,[nl]thou owest me one piece of inari sush
 RAK/RAK0023570
 Bribery....
 RAK/RAK0023580
-Ah, whatever. I'm a little scared of what they'll say,[nl]but can you start by asking if they're satisfied with their life here?
+Ah, whatever. I'm a little scared of what they'll say,[nl]but can you start by asking if they're satisfied[nl]with their life here?
 OTM/OTM0001480
 Verily.
 @ＢＧＭ停止
@@ -220,7 +220,7 @@ Oh! They have all fled, it seems,[nl]in fear of my sheer godly might.
 OTM/OTM0001690
 Mwehehehe.....After all, I'm a great fox goddess!
 RAK/RAK0023690
-This isn't the time to be proud of yourself![nl]I need to get everyone back quickly, before all hell breaks loose!
+This isn't the time to be proud of yourself![nl]I need to get everyone back quickly,[nl]before all hell breaks loose!
 RAK/RAK0023700
 You help too, Otama!
 OTM/OTM0001700

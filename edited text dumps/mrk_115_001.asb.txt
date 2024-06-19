@@ -5,7 +5,7 @@ __main
 MRK/MRK0014000
 Raku dearessst![nl]We've been having a lot of chilly days lately.
 RAK/RAK0077170
-Yeah. The kind with higher temperatures in the west[nl]and lower in the east....right?[nl]I can't stand the cold, but I'm glad we've got a lot of sunny days.
+Yeah. The kind with higher temperatures in the west[nl]and lower in the east....right? I can't stand the cold,[nl]but I'm glad we've got a lot of sunny days.
 ......
 RAK/RAK0077180
 ....?

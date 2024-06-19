@@ -25,7 +25,7 @@ RAK/RAK0076560
 CTG/CTG0023090
 What, you haven't gotten that pendant fixed yet?
 RAK/RAK0076570
-You say that like it isn't your problem.[nl]It's your fault for turning your key so hard.
+You say that like it isn't your fault.[nl]It's your fault for turning your key so hard.
 CTG/CTG0023100
 Ngh.... I-I'm sorry.
 MRK/MRK0013450
@@ -99,7 +99,7 @@ Hmmm, I guess.
 MRK/MRK0013540
 Then how about we fight for all 3 keys, winner-takes-all?
 MRK/MRK0013550
-We'll have a fierce battle royale,[nl]spilling blood all over the ground until someone gets all the keys!
+We'll have a fierce battle royale,[nl]spilling blood all over the ground until[nl]someone gets all the keys!
 KSK/KSK0018160
 Do I have to fight too!?
 RAK/RAK0076660
@@ -109,7 +109,7 @@ Shuu's got a friend who knows how to fix it.[nl]Maybe we can work something out.
 MRK/MRK0013560
 Hehe. That would be fine, then.
 MRK/MRK0013570
-To be honest, whether or not I was the one you made the promise to,[nl]as long as I end up marrying you in the end, I'll be fine!
+To be honest, whether or not I was the one you made the[nl]promise to, as long as I end up marrying you[nl]in the end, I'll be fine!
 RAK/RAK0076680
 How can you say something like that so openly....
 KSK/KSK0018170
