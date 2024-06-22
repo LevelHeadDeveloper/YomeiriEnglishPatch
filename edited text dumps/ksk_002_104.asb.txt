@@ -3,8 +3,7 @@ __main
 @ksk_002_104
 @expose
 KSK/KSK0002220
-W-Well then, I'll try disinfecting it again, OK?
-It'll sting a little, so be patient.
+W-Well then, I'll try disinfecting it again, OK?[nl]It'll sting a little, so be patient.
 KSK/KSK0002230
 Um, I won't fail this time....you can rely on me!
 @ksk_002_ana01_success
@@ -15,8 +14,7 @@ Okay! I'll do my best!
 KSK/KSK0002250
 Ah-!
 KSK/KSK0002260
-Sorry....
-I made a mistake with the medicine....
+Sorry....[nl]I made a mistake with the medicine....
 @ksk_002_104_end
 @ksk_002_201
 common.asb

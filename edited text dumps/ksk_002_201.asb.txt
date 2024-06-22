@@ -40,13 +40,11 @@ Is that so....
 .........
 @ksk_002_201_03
 RAK/RAK0008570
-(W-What?
- I think something's wrong.....)
+(W-What?[nl] I think something's wrong.....)
 RAK/RAK0008580
 (Hey, what should I say....!? Waaaaaahhhhh!![nl] Even with just the two of us,[nl] I can't come up with anything to say!!)
 KSK/KSK0002360
-Ah, um....
-Ichijo, do you like the infirmary!?
+Ah, um....[nl]Ichijo, do you like the infirmary!?
 RAK/RAK0008590
 Huh?
 KSK/KSK0002370
@@ -75,49 +73,40 @@ KSK/KSK0002410
 RAK/RAK0008650
 .....Ah, no.....
 RAK/RAK0008660
-I........
-I love the time we spend talking like this!
+I........[nl]I love the time we spend talking like this!
 KSK/KSK0002420
 .......?
 RAK/RAK0008670
 Er, because....
 RAK/RAK0008680
-Talking with you like this,
-well....I enjoy it.
+Talking with you like this,[nl]well....I enjoy it.
 KSK/KSK0002430
 .......Ichijo....
 @ザクシャ小咲・中
 KSK/KSK0002440
-.......Yes.
-I enjoy it too.
+.......Yes.[nl]I enjoy it too.
 RAK/RAK0008690
 (Onodera likes this as well.....)
 RAK/RAK0008700
-Let's see....
-So, Onodera, are you good at running marathons?
+Let's see....[nl]So, Onodera, are you good at running marathons?
 KSK/KSK0002450
 Mmmmmm......I don't really think so.
 RAK/RAK0008710
 Ah, is that so.
 RAK/RAK0008720
-(That's right!
- I saw how bad you were earlier!)
+(That's right![nl] I saw how bad you were earlier!)
 KSK/KSK0002460
-.....But I have to work pretty hard.
-Everyone else is pretty fast.
+.....But I have to work pretty hard.[nl]Everyone else is pretty fast.
 RAK/RAK0008730
-(By 'everyone', you mean the really fast ones like Chitoge
-and Tsugumi, right? They're really good....)
+(By 'everyone', you mean the really fast ones like Chitoge[nl]and Tsugumi, right? They're really good....)
 KSK/KSK0002470
 Besides, I don't dislike running.
 RAK/RAK0008740
 How come?
 KSK/KSK0002480
-Well....It's like you're steadily working your way to the finish,
-and when you get there, it's an accomplishment, y'know?
+Well....It's like you're steadily working your way to the finish,[nl]and when you get there, it's an accomplishment, y'know?
 RAK/RAK0008750
-....Steadily working your way.
-It's just like you, Onodera.
+....Steadily working your way.[nl]It's just like you, Onodera.
 KSK/KSK0002490
 Hahah, I guess you're right.
 KSK/KSK0002500
@@ -127,30 +116,23 @@ Huh!? W-Why like me!?
 KSK/KSK0002510
 Well, you always look so comfortable running, Ichijo.
 RAK/RAK0008770
-Oh, yeah....?
-I guess I'd never thought about it that way....
+Oh, yeah....[nl]I guess I'd never thought about it that way....
 RAK/RAK0008780
-(Wait....
- That means Onodera's watching me when we run.)
+(Wait....[nl] That means Onodera's watching me when we run.)
 RAK/RAK0008790
 ----------
 RAK/RAK0008800
-Well, for me...
-When I see you running your very hardest, I think to myself,
-"I'll do my best, too."
+Well, for me...[nl]When I see you running your very hardest, I think to myself,[nl]"I'll do my best, too."
 KSK/KSK0002520
-....Eh?
-As I thought, our eyes did meet earlier, then...
+....Huh?[nl]As I thought, our eyes did meet earlier, then...
 RAK/RAK0008810
 .....Oh, that!!
 RAK/RAK0008820
 (Yikes! She knows about it too!)
 RAK/RAK0008830
-Uh-....Uh, yeah.
-That was a c-coincidence!
+Uh-....Uh, yeah.[nl]That was a c-coincidence!
 KSK/KSK0002530
-Ah-....Ahahaha!
-Is that right!!
+Ah-....Ahahaha![nl]Is that right!!
 RAK/RAK0008840
 Ha...haha.....
 ..........
@@ -159,28 +141,23 @@ But, um....
 RAK/RAK0008850
 ......Hm?
 KSK/KSK0002550
-W-Well....
-I'm sorry if I looked unflattering then.
+W-Well....[nl]I'm sorry if I looked unflattering then.
 RAK/RAK0008860
 Unflattering?
 KSK/KSK0002560
-When I'm running, I make kind of a weird face that I don't
-want anyone seeing....
+When I'm running, I make kind of a weird face that I don't[nl]want anyone seeing....
 RAK/RAK0008870
-Y-You didn't look weird....
-I wouldn't call it unflattering if you're trying your best.
+Y-You didn't look weird....[nl]I wouldn't call it unflattering if you're trying your best.
 KSK/KSK0002570
 --------!
 KSK/KSK0002580
-I-I see.... That's right.
-That's the kind of person you are, Ichijo.
+I-I see.... That's right.[nl]That's the kind of person you are, Ichijo.
 @ＢＧＭ停止
 KSK/KSK0002590
 KSK/KSK0002600
 .......I-Ichijo......
 KSK/KSK0002610
-......Ah, well.....
-There's.....something I want to tell you.
+......Uh, well.....[nl]There's.....something I want to tell you.
 RAK/RAK0008880
 Oh, okay. Go ahead!
 KSK/KSK0002620
@@ -198,20 +175,17 @@ I-I......!
 KSK/KSK0002660
 The chimes.....
 RAK/RAK0008910
-Oh....
-They rang....
+Oh....[nl]They rang....
 KSK/KSK0002670
-I...Ichijo!
-I need to get back to the classroom!
+I...Ichijo![nl]We need to get back to the classroom!
 RAK/RAK0008920
 Ah....Eh?
 RAK/RAK0008930
-Uh, um....
-Can you tell me what you were about to say.....?
+Uh, um....[nl]Can you tell me what you were about to say.....?
 KSK/KSK0002680
 Ah-.....N-No![nl]It's fine now, don't worry about it!
 KSK/KSK0002690
-Come on, it's time for class![nl]I need to change out of my gym clothes, and I'll be late!
+Come on, it's time for class![nl]We need to get changed out of our gym clothes,[nl]and we don't want to be late!
 RAK/RAK0008940
 Oh, o--kay.
 RAK/RAK0008950
@@ -219,6 +193,6 @@ RAK/RAK0008950
 RAK/RAK0008960
 (Read the room a little, you stupid chimes!)
 RAK/RAK0008970G
-..Hahhhh~.
+....Hahhhh....
 @イベント終了処理
 common.asb

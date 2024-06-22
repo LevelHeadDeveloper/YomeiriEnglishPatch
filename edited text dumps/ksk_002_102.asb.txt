@@ -8,7 +8,8 @@ Who can help you?
 I want Onodera to heal me
 I can't do it myself
 KSK/KSK0002060
-M-Me?[nl]Are you sure?
+M-Me?
+Are you sure?
 Well, who else is here?
 Yes, you!
 KSK/KSK0002090
