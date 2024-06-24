@@ -1,10 +1,10 @@
 __main
 @Lclearscreenall
-@mrk_003_001
+@mrk_003
 @イベント開始処理
 @ＢＧＭ再生
 SYU/SYU0001530
-Oh, yeah~,[nl]girl's tennis is as good as ever.
+Maaaan,[nl]girl's tennis is as good as ever.
 RAK/RAK0022670
 Hey, Shuu. How long do[nl]you plan on staring at the tennis court?[nl]We should be playing soccer with the boys.
 SYU/SYU0001540
@@ -36,11 +36,11 @@ SSR/SSR0009660
 Your jokes are blatant sexual harrassment![nl]Drop dead, pervert!
 @画面揺らし2
 SYU/SYU0001630
-Gyaaahhhh~~!
+Gyaaaaahhhh!!
 RAK/RAK0022690
 (He still hasn't learned his lesson....)
 MRK/MRK0002290
-Raku dearest~~~~!
+Raku deareeessstt!
 @expose
 RAK/RAK0022700
 Oh, you're here too, Tachibana.[nl]What is it?
@@ -74,7 +74,7 @@ With your support, Raku dearest,[nl]I have a great reason to push myself as hard
 RAK/RAK0022750
 (But I just told you not to do that....)
 MRK/MRK0002390
-So, I'll try my very hardest![nl]The theme is "Love・Effort・Victory・"!
+So, I'll try my very hardest![nl]The theme is "Love・Effort・Victory"![nl]#fs{16}TN: "Friendship, effort, victory" are the guiding principles for many Shonen Jump series.#fs{}
 RAK/RAK0022760
 Um, don't you mean "Friendship"?
 MRK/MRK0002400
@@ -95,7 +95,7 @@ Tch....Well done, Onodera.[nl]But I cannot lose.
 MRK/MRK0002430
 Tahhhhhhhh!
 KSK/KSK0007490
-Waah~![nl]I c-can't keep up~!
+Waaahh![nl]I c-can't keep uuup!
 MRK/MRK0002440
 It's my serve!
 MRK/MRK0002450
@@ -115,7 +115,7 @@ RAK/RAK0022800
 SYU/SYU0001660
 So, which one are you rooting for?[nl]Onodera? Or maybe Marika?
 RAK/RAK0022810
-Well, obviously Onodera....[nl]Well, that's what I'd usually say.[nl]This time I'm rooting for Marika.
+Well, obviously Onodera....[nl]Well, that's what I'd usually say.[nl]This time I'm rooting for Tachibana.
 RAK/RAK0022820
 She said she was gonna try her hardest for me,[nl]so I have to watch her.
 SYU/SYU0001670
@@ -139,7 +139,7 @@ Well, then, Onodera, let's go![nl]With this new Super Deadly Magic Serve[nl]I've
 KSK/KSK0007520
 S-Super Deadly!? That's a thing!?
 MRK/MRK0002480
-Try and block my passionate feelings for Raku dearest![nl]Marika in Loooooooove~!
+Try and block my passionate feelings for Raku dearest![nl]Marika in Loooooooove!
 @画面揺らし
 RAK/RAK0022870
 Stop--!
@@ -169,11 +169,11 @@ Well then, let's continue the game!
 RAK/RAK0022910
 You promised not to push yourself.
 MRK/MRK0002540
-We can still play~~~!
+We can still plaaay!
 RAK/RAK0022920
 (Guh....she's surprisingly stubborn.[nl] I need to convince her to take a rest....)
 MRK/MRK0002550
-Please let go~!
+Please let goooo!
 RAK/RAK0022930
 Alright, come on![nl]We'll talk over here, just the two of us.
 MRK/MRK0002560

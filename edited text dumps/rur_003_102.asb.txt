@@ -4,7 +4,7 @@ __main
 @expose
 RUR/RUR0002560
 How on earth would photos of me[nl]help the swim team?
-How would this help the team?
+How would this help?
 School newspaper
 Club recruitment
 School festival pamphlet
@@ -19,7 +19,7 @@ RUR/RUR0002610
 Don't lie to me.[nl]Most likely, you're getting orders from Maiko.
 @rur_003_201
 RUR/RUR0002620
-We can use them to recruit members for the swim team, huh?
+We can use them to recruit members[nl]for the swim team, huh?
 RUR/RUR0002630
 I mean, while we are a small club and[nl]I wouldn't mind more members....
 @ザクシャるり・１

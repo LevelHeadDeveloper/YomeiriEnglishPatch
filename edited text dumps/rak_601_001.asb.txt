@@ -1,0 +1,96 @@
+__main
+@Lclearscreenall
+@rak_601
+@ヌキアシ終了処理
+@rak_601_success
+@イベント開始処理
+RAK/RAK0038990
+Alright, I think I managed to escape....
+OTM/OTM0004030
+Raku.
+@画面揺らし2
+RAK/RAK0039000
+Gaaaaaah!
+RAK/RAK0039010
+....Oh, i-it's you, Otama.[nl]Don't sneak up on me like that....!
+OTM/OTM0004040
+?[nl]What art thou frightened of?
+@expose
+OTM/OTM0004050
+How was thy day today?[nl]I came here to check on thee.
+CTG/CTG0011130
+Foouuunnnd yooouuu.
+@ＢＧＭ再生
+RAK/RAK0039020
+Eeeeek!
+OTM/OTM0004060
+Hm?
+RAK/RAK0039030
+O-O-O-Otama! Disappear, right now![nl]And run away!
+@キャラ揺らし
+OTM/OTM0004070
+Hyah!!
+@rak_601_failure
+Don't give up
+Give up
+RAK/RAK0039040
+(I'm absolutely....going to make it out alive!)
+@ヌキアシリトライ処理
+@背景変更
+OTM/OTM0004080
+Alright, then. Raku, art thou doing well?
+@expose
+OTM/OTM0004090
+@rak_601_end
+KSK/KSK0009180
+Hehehehe....[nl]I've been looking all over for you, Ichijo....
+MRK/MRK0009700
+How about we tie him up so he can't escape?
+SSR/SSR0010750
+Very well. That sort of thing is my specialty.
+CTG/CTG0011140
+I'm good at it too.[nl]Hehehehehehehe....
+RAK/RAK0039050
+Whaa!? What are you guys doing to me!?[nl]H-H-Help me! This is impossible![nl]It seems impossible for human beings!
+RAK/RAK0039060
+GAAAAAAAAAAAAAAHHHH!![nl]B-B-B-Bring it back to how it waaaaassss!
+OTM/OTM0004100
+----!
+@ＢＧＭ停止
+RAK/RAK0039070
+....Mm.....mph.
+RAK/RAK0039080
+KSK/KSK0009190
+Oh, he's awake!
+RAK/RAK0039090
+Onodera....[nl]Guys....?
+RAK/RAK0039100
+Huh? How'd I end up here?
+CTG/CTG0011150
+Well, we all just collapsed at[nl]the school gates.
+RAK/RAK0039110
+Huh?
+SSR/SSR0010760
+So, since you were the only one who didn't wake up,[nl]we had no choice but to carry you here.
+MRK/MRK0009710
+You don't seem to be hurt, so that's good.
+RAK/RAK0039120
+Is that right....?[nl]My memory's kind of hazy right now....
+CTG/CTG0011160
+Mine too. I remember clearly up until the point[nl]when you and I were taking care of the animals....
+KSK/KSK0009200
+I also kinda feel like I did some crazy things,[nl]but I can't remember any of it.
+SSR/SSR0010770
+It's kinda like a daydream....[nl]One that I can't remember at all.
+MRK/MRK0009720
+None of us can remember it....[nl]That does seem awfully strange, doesn't it.
+@フェードアウト
+OTM/OTM0004110
+*sniffle* *sniffle*[nl]What was that just now....? T-That was scary.....
+CLD/CLD0001880
+....!?
+......
+CLD/CLD0001890
+I had a nightmare!
+@イベント終了処理
+common.asb

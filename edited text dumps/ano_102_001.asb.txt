@@ -1,0 +1,85 @@
+__main
+@Lclearscreenall
+@ano_102
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0009890
+....So, how have you been faring with Kirisaki these days?[nl]Why don'tcha go ahead and fill me in?
+RAK/RAK0060450
+The heck is with that character....
+SYU/SYU0009900
+How does her skin feel?
+SYU/SYU0009910
+Are her lips soft?
+SYU/SYU0009920
+No, maybe it's developed into something[nl]even further than that!?
+@expose2
+SYU/SYU0009930
+Yeaaah, Raku, you're a pervert![nl]A dirty, lecherous pervert! ♪
+RAK/RAK0060460
+S-Shaddup....[nl]I mean, we haven't done anything....
+SYU/SYU0009940
+Well, that sounds right.[nl]You're not really the sort of person to be that proactive.
+RAK/RAK0060470
+The way you said that is pretty annoying....[nl]You do know Chitoge and I are just pretending to[nl]be dating, right?
+SYU/SYU0009950
+From where I stand, there's nothing wrong[nl]with a fake love blossoming into a real one.
+RAK/RAK0060480
+That's ridiculous![nl]First of all, there's Onodera....
+SYU/SYU0009960
+Well then, how are things with Onodera?
+RAK/RAK0060490
+Oogh....
+RAK/RAK0060500
+N-Nothing has particularly happened, as of right now....
+@expose
+SYU/SYU0009980
+....Siggggghhhh.
+RAK/RAK0060510
+Hey! Stop with the exaggerated sighs!
+SYU/SYU0009990
+There's all these wonderful girls, like Marika and Seishiro too,[nl]all around you.... And here you are, doing what exactly....?
+RAK/RAK0060520
+Tsugumi? What does she have to do with anything?
+SYU/SYU0010000
+I'm sure if she heard that, she'd probably cry....[nl]No, she'd probably get angry and wallop you.
+RAK/RAK0060530
+Huh?
+SYU/SYU0010010
+Anyway! You need to start being more[nl]bold and proactive! For sure!
+RAK/RAK0060540
+W-Why do you figure?
+SYU/SYU0010020
+Because I find it amusing!
+RAK/RAK0060550
+....It was stupid of me to ask you a serious question.[nl]See ya.
+SYU/SYU0010030
+Hey, hang on. No matter how things unfold,[nl]I'm always rooting for your love. I'm on your side!
+RAK/RAK0060560
+You're such a smooth-talker....[nl]So, what about you?
+RAK/RAK0060570
+I've never heard you talking about your own love life much,[nl]but do you have a girlfriend?
+SYU/SYU0010040
+Hm? Hmmm....I guess maybe?
+RAK/RAK0060580
+That "I guess maybe" tells me you're making it up.
+SYU/SYU0010050
+Yeah....[nl]Well, I guess for me, it's more of a crush, or a[nl]feeling of admiration.
+RAK/RAK0060590
+Admiration....?
+SYU/SYU0010060
+Yeah, yeah. But let's talk about your strategy for[nl]conquering Onodera! And it's gotta be an interesting strategy, too!
+RAK/RAK0060600
+No way! Nothing good ever comes of[nl]following along with your schemes!
+SYU/SYU0010070
+Tsk, tsk, tsk....[nl]The keys to romance are feelings, timing, and then[nl]happenings....right?
+SYU/SYU0010080
+We just need to keep the happenings coming, as much as possible![nl]There might even be some "lucky accidents"!
+RAK/RAK0060610
+I've had enough of those already![nl]Gimme a break!
+SYU/SYU0010090
+Ughh.... You're so boring.
+RAK/RAK0060620
+(Good grief.[nl] It's not like I live to entertain this guy or anything....)
+@イベント終了処理
+common.asb

@@ -1,0 +1,416 @@
+__main
+@Lclearscreenall
+@rak_301
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0010350
+Woahhh, we're finally *heeeeere*![nl]I'm so freaking excited!
+SSR/SSR0010440
+Yes.... I didn't think I'd have the opportunity to[nl]travel with both Mistress Onodera and you, Mistress,[nl]so I'm very happy.
+KSK/KSK0008830
+And it's all thanks to Ichijo for winning that raffle![nl]Thanks, Ichijo.
+RAK/RAK0036390
+Nah, I just happened to get lucky.
+RUR/RUR0007580
+Thanks for coming to see us off, Maiko.[nl]You're going to walk all the way home from here?
+SYU/SYU0006040
+Ha ha ha.[nl]That joke hurt a bit, Ruri.
+MRK/MRK0009070
+You all took a field trip to a forest not unlike[nl]this one, right?  I daresay I'm jealous.
+RAK/RAK0036400
+Oh, that's right. That was before[nl]you transferred to our school.
+@expose2
+MRK/MRK0009080
+Yes. But this time around, I'm also going to make[nl]all kinds of wonderful memories with my darling Raku![nl]....Just us two, of course.★
+RAK/RAK0036410
+Huh!? H-Hey. Don't get so close!
+CTG/CTG0010360
+Hey....Marika![nl]Why the hell are you always....[nl]Get off of Raku THIS INSTANT!
+@expose
+MRK/MRK0009090
+Aah! Oh my goodness, Kirisaki, you're so forceful.
+CTG/CTG0010370
+I know you're not talking!
+RAK/RAK0036420
+H-Hey, hey....
+RAK/RAK0036430
+Huh? Tsugumi?[nl]Why are you looking at me like that....?
+SSR/SSR0010450
+....I should probably warn you.[nl]Master Claude has given me strict orders to kill you if you[nl]lay so much as a finger on the Mistress during this trip.
+SSR/SSR0010460
+So you'd better not even think about pulling something.
+RAK/RAK0036440
+Y-Yes, ma'am....
+@時間経過演出
+RAK/RAK0036450
+....Alright, we'll be having curry and rice for lunch.[nl]First up, we'll....
+CTG/CTG0010380
+Huhhh? That's the same thing we had on the field trip.[nl]Why don't we have something different?
+RAK/RAK0036460
+N-No.... I just really like curry![nl]I'm sorry, but I really wanna eat curry today.
+CTG/CTG0010390
+Is that right?[nl]Well, I guess that's okay then.
+RAK/RAK0036470
+Anyway, listen up! Chitoge, you cook the rice; Onodera[nl]and Miyamoto, you two gather firewood; and Tachibana and[nl]Tsugumi, you guys chop the vegetables. Let's get to work!
+CTG/CTG0010400G
+Okaaaay!
+SYU/SYU0006050
+You seem desperate, buddy.
+RAK/RAK0036480
+Yeah, you should be grateful.
+RAK/RAK0036490
+(Alright, who should I go check on first?)
+@rak_002_101_sel
+@2ショット開始
+RAK/RAK0036500
+Chitoge, how're you holding up?[nl]I hope you haven't already burned yourself.
+CTG/CTG0010410
+So rude. It's going perfectly![nl]It's only my second time doing this, but I think I'm[nl]getting the hang of it, right?
+RAK/RAK0036510
+Yeah, that's good to hear.
+CTG/CTG0010420
+Heheee. Naturally.
+RAK/RAK0036520
+Seems like you're having fun.
+CTG/CTG0010430
+W-Well, sure.... Is that so bad?[nl]I'm having a good time hanging out with everyone....
+RAK/RAK0036530
+That's great.
+RAK/RAK0036540
+Wait, AAAAAAAGH![nl]There's a column of fire! Put it out, put it oouuuut!
+CTG/CTG0010440
+WAAAAAAAAAAHHHHHH![nl]Water! WAAATEEERRRRR!
+RAK/RAK0036890
+(I already went to check on Chitoge.)
+RAK/RAK0036550
+Onodera, everything going well?
+KSK/KSK0008850
+Yep. We've got a bunch of firewood.
+SDG/SDG0000020
+Grrrrrrr......
+RAK/RAK0036560
+Gah!? A stray dog!?
+RAK/RAK0036570
+Onodera! For your own safety, don't move a muscle!
+KSK/KSK0008860
+Huh? It's okaaay.[nl]Look. Here, girl!
+SDG/SDG0000030
+*pant pant pant*[nl]*whine*
+KSK/KSK0008870
+Awww, how cute.[nl]Hahaha, that tickles!
+RAK/RAK0036580
+(I can't believe she can even tame[nl] a stray dog. Onodera's amazing....)
+RAK/RAK0036900
+(I wouldn't mind going to see Onodera again....[nl] But I don't want to bother her too many times.)
+RAK/RAK0036590
+Tsugumi, you're working fast.[nl]You've already cut all these?
+SSR/SSR0010480
+I'm very good at cutting things.[nl]You can count on me.
+SSR/SSR0010490
+....Oogh.
+RAK/RAK0036600
+Huh? ....What's wrong!?[nl]Why are you crying all of a sudden!?
+SSR/SSR0010500
+It's just....it stings....
+RAK/RAK0036610
+Huh?[nl]Like as in....human kindness stings your heart?
+SSR/SSR0010510
+What are you talking about?[nl]I was talking about the onions making my eyes sting.
+RAK/RAK0036620
+....Oh, so that's it.[nl]Sorry, I got carried away thinking about enka....
+SSR/SSR0010520
+Hmph.
+SSR/SSR0010530
+But, like I mentioned before, I never thought I'd be able[nl]to have an experience like this with the Mistress again.
+SSR/SSR0010540
+Or you, either....
+RAK/RAK0036630
+Huh?
+SSR/SSR0010550
+I-I'm just trying to say I'm grateful![nl]I'm, well....enjoying this as much as possible.
+RAK/RAK0036640
+I see. That's good to hear.
+RAK/RAK0036920
+(I think Tsugumi can handle herself[nl] if I don't check on her again.)
+RAK/RAK0036650
+Tachibana. How's it goi--
+MRK/MRK0009110
+Raku dearessssst!
+RAK/RAK0036660
+Aaagh, careful![nl]Don't hug me when you've got a knife in your hand!
+MRK/MRK0009120
+Oh my, I do apologize.
+RAK/RAK0036670
+Sheesh....
+RAK/RAK0036680
+Though you did as well I thought you would, Tachibana.[nl]You're great at cutting vegetables.
+MRK/MRK0009130
+Hehe, I'm so happy to receive such praise from you,[nl]Raku dearest!
+MRK/MRK0009140
+If you'd like, maybe you could[nl]join me in cutting these?
+RAK/RAK0036690
+Alright. Great.[nl]Okay then, I'll peel these potatoes.
+MRK/MRK0009150
+Yes, thank you very much.[nl]That would be a big help.
+MRK/MRK0009160
+As we're doing this, I can't help but think about[nl]what it will be like once we get married.
+RAK/RAK0036700
+Uh, I don't think I could make such a big leap....
+RAK/RAK0036710
+....Oh.
+RAK/RAK0036720
+Hold still, Tachibana.
+MRK/MRK0009170
+Huh....?
+MRK/MRK0009180
+Raku dearest, why are you getting closer---?
+RAK/RAK0036730
+Don't move.
+MRK/MRK0009190
+H-Huuhhh!?
+MRK/MRK0009200
+Ummm.... T-This ain't no good!
+RAK/RAK0036740
+Alright, got it.
+MRK/MRK0009210
+Huh....?
+RAK/RAK0036750
+There was a leaf on your head.[nl]I got it off for you in one fell swoop.
+MRK/MRK0009220
+Jeez....[nl]That's just plain unfair, Raku dearest....
+RAK/RAK0036910
+(Tachibana, huh....[nl] Knowing her, she's probably fine by herself.)
+RUR/RUR0007590
+Oh, Ichijo. Something wrong?
+RAK/RAK0036760
+No, I'm just here to help.
+RUR/RUR0007600
+Oh, I see.
+RUR/RUR0007610
+Tch. Why aren't you going to see Kosaki instead?
+RAK/RAK0036770
+RUR/RUR0007620
+Nothing at all.[nl]I'm just looking for some edible mushrooms right now.
+RAK/RAK0036780
+Oohh, that's pretty cool.[nl]You can tell them apart from the poisonous ones?
+RUR/RUR0007630
+Yep. Those ones are poisonous,[nl]and those ones safe to eat.
+RUR/RUR0007640
+In fact, you can even eat this kind raw.[nl]Want to taste one?
+RAK/RAK0036790
+Hmmm. Sure, I'll try one.
+RAK/RAK0036800
+Nom....
+RUR/RUR0007650
+Oh, this is bad.[nl]Those ones were actually poisonous after all!
+RAK/RAK0036810
+BLAAAGH!
+RUR/RUR0007660
+Just kidding.[nl]I wouldn't make a mistake like that.
+RAK/RAK0036820
+M-Miyamoto, you stinker....![nl]Why the hell would you do that!?
+RUR/RUR0007670
+RAK/RAK0036930
+(I'm not falling for that again,[nl] and I trust Miyamoto to not do anything dumb.)
+SYU/SYU0006060
+What are you doing, coming to where I am?
+RAK/RAK0036830
+That's my line. What is it you're[nl]doing in this spot?
+SYU/SYU0006070
+Heheh.... There are times when a man must act.[nl]Well, just have a look and see what I'm talking about.
+SYU/SYU0006080
+From where we are right now, we can see every[nl]move the girls are making, right?
+RAK/RAK0036840
+....Well, it seems like it.
+SYU/SYU0006090
+Doesn't it feel like your heart is being washed clean?[nl]Well, comrade....?
+RAK/RAK0036850
+Don't call me comrade. Forget that, help me out....
+RAK/RAK0036940
+(I'd better just leave him to himself.)
+RAK/RAK0036860
+(There's no use just standing here....)
+RAK/RAK0036870
+(Alright, who should I check on next....?)
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+RAK/RAK0036950G
+Thank you for the meal.
+RAK/RAK0036960
+Ahhh, that curry was amazing.[nl]
+SYU/SYU0006110
+It was all thanks to your brilliant leadership.[nl]Good job, Raku!
+RAK/RAK0036970
+Thanks, man.
+CTG/CTG0010460
+Hey, hey, what should we all do for fun now?
+SYU/SYU0006120
+Heheheheheh.... I've been waiting for this moment.[nl]As long as we're here, we should play cards again!
+RAK/RAK0036980
+You've got those with you again....
+SYU/SYU0006130
+Of course! We didn't get to finish last time.[nl]This time, we gotta make sure we play with a good penalty!
+KSK/KSK0008890
+A-A penalty!?
+CTG/CTG0010470
+You don't mean....
+SYU/SYU0006140
+Yes, indeeeeed! Exactly that one!
+RAK/RAK0036990
+(Ghh! Not the one where the loser[nl] has to say their first crush!?)
+SSR/SSR0010570
+W-W-What....did you....
+MRK/MRK0009240
+Heheheh....[nl]I won't lose!
+SYU/SYU0006150
+Alright, let's hurry up and get started![nl]The game is Old Maid, just like last time.
+SYU/SYU0006170
+So, it ended up another showdown between Raku[nl]and Kirisaki. Man, you two are bad at this.
+RAK/RAK0037000G
+Shaddup!
+CTG/CTG0010490
+I'm not going to lose....![nl]Hurry up and take a card!
+Tap the card you want!
+CTG/CTG0010500
+-----!
+RAK/RAK0037010
+(This one must not be the joker....)
+RAK/RAK0037020
+(What do I do? Should I take it?)
+Keep thinking
+Take it
+RAK/RAK0037070
+(Sorry, but I can't lose this![nl] ....Goodbye, Chitoge!)
+CTG/CTG0010510
+----
+RAK/RAK0037030
+(This one must be the joker....)
+RAK/RAK0037040
+(What do I do? Should I take it anyway?)
+RAK/RAK0037050
+(Samurai's mercy. Just this one time.)
+RAK/RAK0037060
+(Alright, bring it![nl] It's a one-on-one fight!)
+CTG/CTG0010520
+GAAAAAAAAAHHHH!
+RAK/RAK0037080
+Phew. I managed to survive somehow!
+CTG/CTG0010530
+Aaaaaaaaaaaa....!![nl]This....this wasn't supposed to happen....!
+SYU/SYU0006180
+Alright then, Kirisaki,[nl]let's get straight to the penalty!
+CTG/CTG0010540
+U-Ummmm.....[nl]Uhhhhhhhh.....!?
+CTG/CTG0010550
+M-My.....
+CTG/CTG0010560
+CTG/CTG0010570
+My....first love was....!
+RAK/RAK0037090
+....Okay, the penalty is that the loser[nl]has to clean up after dinner.
+CTG/CTG0010580
+....Huh?
+RAK/RAK0037100
+Has anyone else already said what the penalty should be?
+RAK/RAK0037110
+I'll help out too, so let's go with that.
+RAK/RAK0037120
+Is that okay, Shuu?
+SYU/SYU0006190
+Nyahahaha. Since it's you, Raku,[nl]I'll let this one slide.
+@ザクシャ千棘・小
+CTG/CTG0010590
+RAK/RAK0037130
+GAAAAAAAAAHHHH!
+@ザクシャ千棘・中
+CTG/CTG0010600
+Alriiiiiight![nl]I wooooooon!
+RAK/RAK0037140
+I-I lost.....!
+SYU/SYU0006200
+Alright then, Raku,[nl]let's get straight to the penalty!
+RAK/RAK0037150
+N-Nggghhh.....[nl]Nggghhghghgh.....
+RAK/RAK0037160
+M-My....
+RAK/RAK0037170
+RAK/RAK0037180
+My....first love was....!
+RAK/RAK0037190
+(Wait, how am I supposed to tell them about it, dammit!?)
+CTG/CTG0010610
+Alright, so the penalty was that you have to[nl]clean up after dinner, right?
+RAK/RAK0037200
+CTG/CTG0010620
+Has anyone else already said what the penalty should be?
+CTG/CTG0010630
+I'll help out too, so....[nl]Is that alright, Maiko?
+SYU/SYU0006210
+Nyahahaha. You're so kind, Kirisaki.
+SYU/SYU0006220
+Well, I'm not really interested in hearing[nl]a guy's love stories anyway. Why don't we listen to Kirisaki[nl]and let this one go?
+CTG/CTG0010640
+Well, that's that, then.[nl]Shall we, Raku?
+RAK/RAK0037210
+Y-Yeah.... Thanks, Chitoge.
+MRK/MRK0009250
+In that case, I'll help you clean up too, Raku dearest!
+CTG/CTG0010650
+You won, so it doesn't matter!
+KSK/KSK0008900
+SSR/SSR0010580
+I won't leave you to do the dishes, Mistress![nl]I suppose I'll help out too....!
+SYU/SYU0006230
+Ahh, this is a bittersweet scene,[nl]but what everyone really looks forward to after dinner is....
+SYU/SYU0006240
+Ta-daaaa! Let's do some fireworks!
+RUR/RUR0007690
+You really are ready for anything.
+CTG/CTG0010660
+Come on, quit dawdling already![nl]This'll go a lot faster if we just throw water on the ashes!
+RAK/RAK0037220
+W-W-W-W-W-Wait![nl]It says here we shouldn't do that!
+CTG/CTG0010670
+Ghh....
+RAK/RAK0037230
+Jeez.... Here, lemme see that.[nl]You're not used to doing this sort of thing, right?
+CTG/CTG0010680
+I-It can't be helped.[nl]I guess I'll let you do it.
+CTG/CTG0010690
+Thanks....
+RAK/RAK0037240
+Yeah, yeah.
+@expose2
+CTG/CTG0010700
+CTG/CTG0010710
+Oh....Hey, Raku![nl]Look up, quick!
+RAK/RAK0037250
+Wowww.... There's stars everywhere.
+CTG/CTG0010720
+Amaaaaazing!
+CTG/CTG0010730
+Hey, Raku. Find me a shooting star or two,[nl]and tell me when you see them.
+RAK/RAK0037260
+Don't be ridiculous. Even if I did that, it'd be gone[nl]by the time I told you it was there. Besides, you've got better[nl]eyesight than me.
+CTG/CTG0010740
+Oh. I guess you're right. Hahaha.
+RAK/RAK0037270
+Haha.
+RAK/RAK0037280
+....You seemed to really enjoy yourself today.
+RAK/RAK0037290
+We should come back sometime.
+CTG/CTG0010750
+We should. And next time it should just be you and....
+CTG/CTG0010760
+RAK/RAK0037300
+....What'dja say?
+CTG/CTG0010770
+....Never mind.
+CTG/CTG0010780
+Oh, a shooting star!
+RAK/RAK0037310
+....Ohh!? Amazing, I see it too!
+@イベント終了処理
+common.asb

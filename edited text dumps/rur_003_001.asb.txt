@@ -5,7 +5,7 @@ __main
 SYU/SYU0003020
 Well, the other day was definitely a mess.
 RAK/RAK0029160
-Yeah, the time we infiltrated Chitoge's house....[nl]Or rather, I did the dangerous part, and you sat outside giving orders.
+Yeah, the time we infiltrated Chitoge's house....[nl]Or rather, I did the dangerous part, and you sat outside[nl]giving orders.
 SYU/SYU0003030
 Yeah, well, Ruri made me go to school with a sign[nl]around my neck that said "I'm a pervert" afterwards.
 SYU/SYU0003040
@@ -111,7 +111,7 @@ You'll just have to wait and see.
 @ＢＧＭ停止
 @時間経過演出
 RAK/RAK0029450
-(Seriously, how are we supposed to get a picture[nl] of Tsugumi in her school swimsuit....?
+(Seriously, how are we supposed to get a picture[nl] of Tsugumi in her school swimsuit....?)
 KSK/KSK0007920
 Huh? Ichijo?
 RAK/RAK0029460
@@ -334,7 +334,7 @@ Yes. After all, swimming starts with a dive, right?
 RAK/RAK0029930
 (Huh, you really....?)
 KSK/KSK0008050
-....Gotta be a good shot.
+....Oof.
 KSK/KSK0008060
 Hehehe. Well, shall we?
 RAK/RAK0029940
@@ -378,7 +378,7 @@ What is it?[nl]I'm cleaning up the lane dividing ropes.
 RAK/RAK0030040
 Well, we can do this while you're cleaning up.[nl]Do you mind if I take some pictures?
 SSR/SSR0009750
-You must be some kind of idiot to want pictures of me just cleaning.[nl]Is it okay if I just clean these normally?
+You must be some kind of idiot to want pictures of me just[nl]cleaning. Is it okay if I just clean these normally?
 RAK/RAK0030050
 Yeah, no problem.[nl]I mean, please do it in the most wholesome way possible.
 @ザクシャ誠士郎・小
@@ -443,7 +443,7 @@ I knew it! So you're trying to keep a picture[nl]of your beloved in her swimsuit
 RAK/RAK0030180
 No, Shuu asked me to take a picture--
 MRK/MRK0008550
-There's no need to be so shy, Raku dearest. Ten years of hard work....[nl]And you're finally ready to accept my feelings!
+There's no need to be so shy, Raku dearest.[nl]Ten years of hard work....[nl]And you're finally ready to accept my feelings!
 MRK/MRK0008560
 Yes. I, Marika Tachibana, am willing to become[nl]anything for my darling Raku....[nl]be it subject, lover, or even bride!
 RAK/RAK0030190
@@ -467,7 +467,7 @@ RAK/RAK0030210
 RAK/RAK0030220
 Oh, well. Let's take a picture.[nl]Alright, say "cheese"!
 MRK/MRK0008630
-Ehehe....Raku dearest, what would you like to shoot next?[nl]Shall we make it a scene where I get intimate with the cameraman?[nl]
+Ehehe....Raku dearest, what would you like to shoot next?[nl]Shall we make it a scene where I get intimate[nl]with the cameraman?[nl]
 RAK/RAK0030230
 W-We've got enough already![nl]Thanks, Tachibana! See you later!
 MRK/MRK0008640
@@ -481,7 +481,7 @@ RAK/RAK0030260
 @フェードアウト
 @背景変更
 SYU/SYU0003600
-Well, we've gathered quite a few photos.[nl]If we can get the other members of the swim team,[nl]we could probably make a photo book out of just swimsuit pictures.
+Well, we've gathered quite a few photos. If we can get[nl]the other members of the swim team, we could[nl]probably make a photo book out of just swimsuit pictures.
 RAK/RAK0030280
 When did you get all those photos?[nl]You're really shrewd....
 SYU/SYU0003610
@@ -489,7 +489,7 @@ Well, this is just another example of[nl]my youth and passion for the camera.[nl
 RAK/RAK0030290
 It's an expression of ulterior motives.
 RAK/RAK0030300
-....Well, anyway, now that you have your pictures,[nl]why don't we stop here and go help out?[nl]You don't wanna get caught and have them confiscated, right?
+....Well, anyway, now that you have your pictures,[nl]why don't we stop here and go help out? You[nl]don't wanna get caught and have them confiscated, right?
 SYU/SYU0003620
 No, it's not done yet.[nl]We have yet to shoot the most important subject.
 RAK/RAK0030310

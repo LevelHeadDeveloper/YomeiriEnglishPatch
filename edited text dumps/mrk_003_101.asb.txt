@@ -2,7 +2,7 @@ __main
 @Lclearscreenall
 @mrk_003_101
 @2ショット開始
-万里花を説得せよ
+Get Marika to rest!
 @ＢＧＭ再生
 @expose
 MRK/MRK0002580

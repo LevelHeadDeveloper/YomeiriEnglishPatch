@@ -24,5 +24,3 @@ Hmph. Radio silence.
 @ctg_001_103
 common.asb
 ctg_001_103.asb
-
-

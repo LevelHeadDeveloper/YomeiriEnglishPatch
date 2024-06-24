@@ -1,0 +1,321 @@
+__main
+@Lclearscreenall
+@rak_004
+@イベント開始処理
+ANA/ANA0000100
+This is today's Kitty of the Day.[nl]Mikke, a three-year old calico.
+ANA/ANA0000110
+While her owner is at work, Mikke stays at home by herself.[nl]When she hears her owner's footsteps, she goes running[nl]to the door to greet him.
+ANA/ANA0000120
+She feels safe and content with her owner around.[nl]Sometimes, she even falls asleep without realizing....
+RAK/RAK0038190
+Ahhh, so cuuute....[nl]It's like a shower for the soul.
+OTM/OTM0004000
+Nom nom nom....
+OTM/OTM0004010
+Thou art already the animal caretaker at thy school, correct?[nl]Dost thou not spend every day surrounded by cute animals?
+RAK/RAK0038200
+Well, that is true.[nl]I can't say they're very fond of me, though....
+RAK/RAK0038210
+Ahhh, I wish I was as popular with animals[nl]as Mikke's master.
+@expose
+.....
+RAK/RAK0038220
+Welp, I'm not Onodera, so that's basically impossible.[nl]Okay, I'm off to school.
+OTM/OTM0004020
+....Mhm.
+@フェードアウト
+@ＢＧＭ再生
+@背景変更
+RAK/RAK0038230
+Come on, Rodriguez IV.[nl]It's time for your long-awaited meal.
+CTG/CTG0010990
+This again. You must be crazy to put in[nl]this much love even though he doesn't love you.
+RAK/RAK0038240
+Don't say that. Maybe one day he'll reciprocate.
+CTG/CTG0011000
+You're too much of a romantic.[nl]We've had him forever and you still haven't grown on him,[nl]so I can't imagine it'll ever happen....
+@ＢＧＭ停止
+RAK/RAK0038250
+Hm? What is it?
+CTG/CTG0011010
+What the....[nl]The animals are all surrounding you.
+RAK/RAK0038260
+....Huh? Whaaa!?[nl]W-What's wrong with all these guys!?
+DOG/DOG0000020
+*whine whine*
+CAT/CAT0000060
+Meowww, meeeooowww....
+RAK/RAK0038270
+W-What's going on....!?[nl]The animals are all....coming towards me!?
+CTG/CTG0011020
+No way!! I can't believe that they'd suddenly[nl]get so friendly after this long being cold to you!
+RAK/RAK0038280
+Has....my hard work finally all paid off....?
+RAK/RAK0038290
+Of course, that must be it....![nl]*sniffle*....
+CTG/CTG0011030
+Hey, dude....![nl]This isn't anything to be crying over.
+RAK/RAK0038300
+I-I'm not crying![nl]I'm just sweating a little around my eyes!
+CTG/CTG0011040
+No, you're definitely crying.[nl]It's super obvious....
+RAK/RAK0038310
+Alright everyone, gather 'round and let me pet you![nl]Good boy, good boy, good boy, good boy!!
+RAK/RAK0038320
+Check it out, Chitoge![nl]I've got them wrapped around my finger...!
+CTG/CTG0011050
+I....see....
+RAK/RAK0038330
+Maaan, this is amazing![nl]I can't believe this is finally happening!
+RAK/RAK0038340
+Right, Chitoge?
+RAK/RAK0038350
+Huh? Chitoge?[nl]Why'd you suddenly go silent?
+RAK/RAK0038360
+Are you not feeling well or something?
+CTG/CTG0011060
+....No. Nothing like that.
+RAK/RAK0038370
+.....Huh? Ch-Chitoge?[nl]Why are you leaning on me? You feel heavy....
+CTG/CTG0011070
+....Because. It makes me feel so good[nl]to be near you....
+RAK/RAK0038380
+....Huh? Uh, w-what?[nl]What's wrong with you?
+CTG/CTG0011080
+Nothiiiing.[nl]Absolutely nooothiiinngg.
+RAK/RAK0038390
+N-No! You've gone crazy!
+CTG/CTG0011090
+Heheh....[nl]Whaddya think *this* is?
+RAK/RAK0038400
+.....Hey!?[nl]Where'd you get that rope from!?
+CTG/CTG0011100
+Heheheheh....[nl]We're boyfriend and girlfriend, so it'll be fine, right?
+RAK/RAK0038410
+Huh? What.... What's that even supposed to mean!?[nl]A rope? Uh, could you maybe put it away.[nl]W-What are you doing with that rope!?
+CTG/CTG0011110
+Hehehehehehehehehe....[nl]Rakuuu, be a doll and come here....
+RAK/RAK0038420
+Eeeek! W-What's going on!?
+CTG/CTG0011120
+Don't run awaaaaay![nl]Wait for me, Rakuuuuuu!
+RAK/RAK0038430
+Hahh, hahh....[nl]I think I managed to escape....maybe....?
+RAK/RAK0038440
+(What was she gonna do to me with that rope?[nl] No, no, first of all, how'd I end up in this situation!?)
+KSK/KSK0009000
+Oh, Ichijo?
+RAK/RAK0038450
+O-Onodera....?
+KSK/KSK0009010
+What's the matter?[nl]You seem out of breath.
+RAK/RAK0038460
+Uh, well.... It's nothing.[nl]You going home now, Onodera?
+KSK/KSK0009020
+Yeah, I was just thinking I should probably get home.[nl]And you have to take care of the animals around now, right?
+RAK/RAK0038470
+Yeah. That's right....
+KSK/KSK0009030
+Um, if you'd like....[nl]Can I help you with that?
+RAK/RAK0038480
+Huh? ....For real?[nl]Wait, no. Not right now!
+KSK/KSK0009040
+Huh? Why not?
+RAK/RAK0038490
+Right now, there's a bit of a....[nl]I wouldn't say it's a huge problem, but it's a problem.
+KSK/KSK0009050
+Problem....?[nl]Is something wrong with the animals?
+RAK/RAK0038500
+No, it's not the animals....[nl]It's Chitoge, she's acting kinda weird. I think she'll stop[nl]at some point, but I'm not sure.
+RAK/RAK0038510
+Onodera?
+RAK/RAK0038520
+Hello, Onodera? Helllooooo?
+@ＢＧＭ再生
+KSK/KSK0009060
+....Ichijo.
+KSK/KSK0009070
+....if I may....[nl]Can I hug you for a little while?
+RAK/RAK0038530
+....Huh?
+RAK/RAK0038540
+(I-I-I-I'm.....!?[nl] Onodera's about to hug me, for real!?!?)
+RAK/RAK0038550
+W-W-W-W-W-What's the matter, Onodera?
+KSK/KSK0009080
+Ahhhh.... So waaaarmm....
+RAK/RAK0038560
+Warm....? Oh![nl]Don't tell me you've caught a cold!
+RAK/RAK0038570
+Of course! Otherwise, she'd never say something like that....[nl]Onodera, I'll bet you have a fever. Let's get you to the[nl]infirmary so we can take your temperature, okay?
+KSK/KSK0009090
+Ichijo, that's not it.[nl]It's not like that at allll....
+KSK/KSK0009100
+It's just....[nl]I wanted to be a little bit closer to you, is all....
+RAK/RAK0038580
+Whaaaaa!?!?[nl]W-What do you mean by that....?
+RAK/RAK0038590
+When you say things like that, I can't help[nl]but get my hopes up-- Or I should say...
+KSK/KSK0009110
+Hehehehe. You wanna know?[nl]Hey, you wanna know the truth?
+RAK/RAK0038600
+(A-Aaah....!?[nl] Onodera's face keep getting closer and closer!)
+RAK/RAK0038610
+(N-N-No! If this keeps up,[nl] I'll lose all sense of rationality....!)
+@ＢＧＭ停止
+MRK/MRK0009510
+RAAAAAKUUUUU DEEEEAAARRRESSST![nl]That is STRICTLY PROHIBITED!
+@画面揺らし2
+RAK/RAK0038620G
+Aaaah!
+RAK/RAK0038630
+T-Tachibana!?[nl]Where'd you come from....?
+MRK/MRK0009520
+I can't believe you'd pull something like this, Onodera![nl]Just what on earth is going on here!?
+KSK/KSK0009130
+Aahhhhh.....?[nl]What is it, Marika?
+MRK/MRK0009530
+??[nl]Huh? Onodera?
+KSK/KSK0009140
+Yesss?
+MRK/MRK0009540
+Pardon me, Raku dearest.[nl]Is something wrong with Onodera today?
+RAK/RAK0038640
+I-I think so. After all,[nl]she's acting pretty weirdly, right?
+KSK/KSK0009150
+It's not weird. Maybe youuu're the one[nl]acting weeiiird, Ichijooo? Hehehehehehehe....
+RAK/RAK0038650
+Definitely weird....[nl]Onodera, what's gotten into you?[nl]Did you hit your head or something?
+MRK/MRK0009550
+Sometimes when *I'm* around you, Raku dearest,[nl]I get swept away and act crazy in spite of myself,[nl]though not in the same way as Onodera....
+RAK/RAK0038660
+Huh? Is that right?
+MRK/MRK0009560
+Yes. Whenever you look at me, my heart goes aflutter,[nl]and I lose control over myself....
+RAK/RAK0038670
+....Tachibana?
+MRK/MRK0009570
+*sniffle*
+RAK/RAK0038680
+Um....Ms. Tachibana?
+MRK/MRK0009580
+*sob*[nl]R-Rakky....
+RAK/RAK0038690
+Huh!? H-Hey! Why do you suddenly look like[nl]you're about to start crying!?
+MRK/MRK0009590
+How am I gonna make Rakky fall for me[nl]when I keep gettin' like this?
+@expose2
+MRK/MRK0009600
+Rakky.... RAAAKKKYYYY!
+RAK/RAK0038700
+T-T-Tachibana! Hang on a second![nl]I don't follow what you're saying at all!
+MRK/MRK0009610
+Oh, that's it![nl]I just had a fantastic idea!
+RAK/RAK0038710
+Huh?
+MRK/MRK0009620
+If I want to stay with my darling Raku,[nl]I just need to lock him in with a "fait accompli"!
+RAK/RAK0038720
+Wha.... Huh?[nl]What do you mean "fait accompli"?
+MRK/MRK0009630
+Hey Raku dearest.[nl]What say we start making ourselves some children?
+RAK/RAK0038730
+WHAAAEAAAAAAA!?
+MRK/MRK0009650
+Well, Raku dearest? Don't you think that's a lovely idea?[nl]Come on, let's get started!
+RAK/RAK0038740
+N-No, no! Wait a minute! There's something[nl]really weird about the direction this is taking!
+MRK/MRK0009660
+No, no, there's nothing strange about this at all. ★
+MRK/MRK0009670
+Come on, Raku dearest! Let's go to my house![nl]Immediately! That's right! Immediately!
+RAK/RAK0038750
+(W-W-What the hell!?[nl] Her eyes are all bloodshot!)
+KSK/KSK0009160
+Ichijoooooo.....
+MRK/MRK0009680
+Rakuuu deeeareessst....
+RAK/RAK0038760
+Both of you![nl]I-I-I'll see you lateeerrr!
+KSK/KSK0009170
+WAAAAAAIIIT!
+MRK/MRK0009690
+WAAAAAAIIIIITT!
+RAK/RAK0038770
+Eeeeeeeeeeek!
+@フェードアウト
+@背景変更
+RAK/RAK0038780
+Hahh, hahh....[nl]W-What just happened?
+RAK/RAK0038790
+Should I just go home?[nl]But I still haven't finished taking care of the animals....![nl]Oh, jeez, what do I do?
+CLD/CLD0001810
+Don't move.
+RAK/RAK0038800
+Hyaaaaaaaaagh!?[nl]I've been caught!
+RAK/RAK0038810
+Wait, huh? Claude!?
+RAK/RAK0038820
+Don't scare me like that....[nl]I've already had far too many weird things happen[nl]to me today.
+RAK/RAK0038830
+Oh, that's right, Claude![nl]At this point, I don't care who I ask for help![nl]Chitoge's been acting really weird!
+CLD/CLD0001820
+I have something I wish to say to you.
+RAK/RAK0038840
+Huh? No, but like, Chitoge's been acting really weird![nl]You can't just ignore that!
+CLD/CLD0001830
+Before that, I have something I'd like to tell you.
+RAK/RAK0038850
+Huh? What is it?
+RAK/RAK0038860
+Uh, well, we can start with your thing if you want,[nl]but don't be so close to me when you say it! What's the[nl]point of telling me this thing while hugging me!?
+CLD/CLD0001840
+Oh, trust me, there's a point.
+RAK/RAK0038870
+Huh....?
+CLD/CLD0001850
+Raku Ichijo.
+RAK/RAK0038880
+Ummm....[nl]Hey, why are you looking at me with sparkling eyes?
+CLD/CLD0001860
+Raku Ichijo. Ever since I laid eyes on you, I've....
+RAK/RAK0038890
+Huh? ....Huuuhhh!?
+CLD/CLD0001870
+Since I saw you, I've lo--
+SSR/SSR0010670
+Are you okay!?
+RAK/RAK0038900
+T-Tsugumiiiii!
+RAK/RAK0038910
+Ohh, you're my savior![nl]Are you normal!? You're normal, right?
+SSR/SSR0010680
+Quick! Come this way!
+SSR/SSR0010690
+They won't find us for a while in here.
+RAK/RAK0038920
+T-Thanks, Tsugumi. You really saved me....
+RAK/RAK0038930
+There's something weird going on with everyone today![nl]I-Is it some kind of prank? If so, that'd be a real shock....
+SSR/SSR0010700
+RAK/RAK0038940
+W-What is it, Tsugumi?
+SSR/SSR0010710
+How do your lips taste?
+RAK/RAK0038950
+Huh?
+SSR/SSR0010720
+For a long, long time....I've been curious about that.
+SSR/SSR0010730
+Would you....show me, perhaps....?
+RAK/RAK0038960
+N-N-N-NOT YOU TOOOOOO!
+SSR/SSR0010740
+Waaaait! I won't let you escape!
+RAK/RAK0038970
+(This isn't normal! Not at all![nl] This is definitely weird!)
+RAK/RAK0038980
+(This isn't the time to be worrying about the animals![nl] I've got to get outta this school ASAP!)
+@ヌキアシ開始処理
+common.asb

@@ -20,7 +20,7 @@ RUR/RUR0002770
 RUR/RUR0002780
 Glasses? I take those off when I'm swimming.
 RUR/RUR0002790
-....I knew it, you're lying to me.[nl]I thought it was suspicious that you'd suddenly be interested[nl]in helping the swim team.
+....I knew it, you're lying to me.[nl]I thought it was suspicious that you'd suddenly be[nl]interested in helping the swim team.
 RUR/RUR0002800
 I'll bet Maiko sent you.
 @expose

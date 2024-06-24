@@ -1,0 +1,78 @@
+__main
+@Lclearscreenall
+@ano_101
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0014520
+Looks like my lunchbox today has steak, and crab,[nl]and spring rolls. Hehehe.... Delishoush!♪
+…………。
+MRK/MRK0010800
+Raku dearessst! I accidentally made an extra lunchbox today![nl]Perhaps you'd like to have it?
+@expose2
+MRK/MRK0010810
+These croquettes are super-sized, because I made them[nl]especially for you with lots of love. Here, say "ahh"! ♪
+RAK/RAK0060300
+You just contradicted what you said at first![nl]At least try to be consistent.
+SYU/SYU0009740
+Siggghhhh....[nl]I feel so empty.
+RAK/RAK0060310
+Huh? That came outta nowhere.
+SYU/SYU0009750
+For me, it's always a sandwich from the cafeteria.[nl]Curry sandwiches, yakisoba sandwiches, and cutlet sandwiches,[nl]all on a repeating rotation, are what I eat every day....
+SYU/SYU0009760
+I don't lack physical satiety, don't get me wrong.[nl]It's more of a sense of emotional satiety....
+RAK/RAK0060320
+I've got no idea what "emotional satiety" means,[nl]but your diet sounds pretty unbalanced.
+SYU/SYU0009770
+That too, that too!
+RAK/RAK0060330
+Stop making such a weird noise.[nl]Jeez....
+Share my lunch with him
+I've got nothing to give him
+RAK/RAK0060340
+Here, have some.
+SYU/SYU0009780
+Huh....? Isn't this your lunch?
+RAK/RAK0060350
+I'll trade it for your sandwich, just for today.
+RAK/RAK0060360
+I gotta say, today's rolled omelet came out great!
+SYU/SYU0009790
+O-Ooooooh! Rakuuu![nl]You'd make a great wife, ya know!
+SYU/SYU0009800
+Or rather, please marry me!
+RAK/RAK0060370
+Give me back my lunch.
+@expose
+SYU/SYU0009810
+Just kidding! ♪[nl]Thank you, Raku!
+RAK/RAK0060380
+Well, you've also helped me out, to an extent.
+SYU/SYU0009820
+Yeah, yeah. Though if I could help it,[nl]I'd have rather had a lunch made by a girl than one made[nl]by a guy!
+RAK/RAK0060390
+Give it back, you idiot!
+SYU/SYU0009830
+I was just joking! ♪[nl]Really, I'm happy with this, Raku.
+SYU/SYU0009840
+This isn't really a token of thanks,[nl]but you can have this, as well as my sandwich.
+RAK/RAK0060400
+A coupon? Where'd you get this?
+SYU/SYU0009850
+I've got a few *connections*.[nl]By the way, that's not just any ordinary coupon.
+RAK/RAK0060410
+Let's see....[nl]An ice cream coupon?
+SYU/SYU0009860
+Yes. That coupon is a rare item.[nl]Use it when you feel the time is right.
+RAK/RAK0060420
+Sorry, I don't have any food to give you.[nl]Though if you put in a bit of effort, I'm sure you could find[nl]a girl or two who'd be willing to make you lunch.
+SYU/SYU0009870
+Dammit, you cold bastard![nl]Easy for you to say, you've got a girlfriend!
+SYU/SYU0009880
+WAAAAAAAAAAH![nl]I'm gonna make sure everyone in class hears about this!
+RAK/RAK0060430
+Oh! Hey, Shuu!
+RAK/RAK0060440
+(Hmmm, maybe I went a bit far....)
+@イベント終了処理
+common.asb

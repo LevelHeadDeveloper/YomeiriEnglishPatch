@@ -290,13 +290,13 @@ rur_003_01
 I chose you for your....
 R_SPIRIT34
 rak_002_01
-誰の様子を見に行く？
-千棘
-小咲
-誠士郎
-万里花
-るり
-集
+Check on whom?
+Chitoge
+Kosaki
+Seishiro
+Marika
+Ruri
+Shuu
 M
 TABLE
 GOP_TYPE

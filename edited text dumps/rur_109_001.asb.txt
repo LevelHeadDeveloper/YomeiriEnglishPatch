@@ -15,7 +15,7 @@ SYU/SYU0007270
 Hey, hey, don't be so shy![nl]We all came to support you, Ruri!
 @expose
 RUR/RUR0009040
-If you cheer for me, you're going to make me[nl]lose at even the things I *can* win at, so can you keep quiet?
+If you cheer for me, you're going to make me[nl]lose at even the things I *can* win at,[nl]so can you keep quiet?
 @expose2
 SYU/SYU0007280
 Awww, but that's boooriiing.
