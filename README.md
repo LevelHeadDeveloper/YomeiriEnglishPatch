@@ -42,10 +42,10 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * Kosaki Onodera route: 100% complete
   * Seishiro Tsugumi route: 100% complete
   * Marika Tachibana route: 100% complete
-  * Ruri Miyamoto route: Around 20% complete (story events only)
-  * ? Events: 0% complete
-  * Miscellaneous Events: ~50% done
-  * Raku Route: 40%
+  * Ruri Miyamoto route: 100% complete
+  * ? Events: 100% complete
+  * Miscellaneous Events: ~100% done
+  * Raku Route: 80%
 * Majikoi+ Mode: 0% complete
 * Majikoi+ DLCs: 0% complete
 * Minigames
@@ -62,11 +62,11 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * Main Menu: 100%
   * Gallery: 100% (some things may be a little wonky)
   * In-game character descriptions: 100%
-  * In-game item descriptions: 50% (translated, but unreadable due to cropping)
+  * In-game item descriptions: 80% (translated, but some may be unreadable due to cropping)
   * In-game tutorials: 100%
   * Screen prompts and notifications: 100%
   * Manual: ~80-85%
-* Anagram puzzles: 90% (complete for all scenes I've finished)
+* Anagram puzzles: 100%
 
 # Screenshots
 ![](screenshots/main_menu.png?raw=true "Main Menu")
