@@ -1,0 +1,94 @@
+__main
+@Lclearscreenall
+@ano_122
+@イベント開始処理
+RAK/RAK0064760
+Hanako-san of the Toilet, the Mona Lisa, the human body[nl]model.... Not counting that "future-partner" thing[nl]Chitoge mentioned, of course....
+RAK/RAK0064770
+I never thought those three ghost stories I thought[nl]were just rumors would actually exist.
+RAK/RAK0064780
+Well, we do have yokai like Otama, too,[nl]so it's not like it was all that surprising.
+@ＢＧＭ再生
+OTM/OTM0006240
+Thou has summoned me, Raku?
+RAK/RAK0064790
+Blrrrf! I-I didn't summon you![nl]I mean, haven't I told you countless times[nl]not to come to school!?
+OTM/OTM0006250
+Yes, but for a mere human such as thyself[nl]to try to order me around is quite cheeky.
+RAK/RAK0064800
+If you don't start listening to me,[nl]I'll never make you inari sushi again.
+@expose
+OTM/OTM0006260
+T-That's not faaiiir!
+RAK/RAK0064810
+Then go home and stay there quietly.[nl]When you come here, I'm scared you'll make trouble.
+OTM/OTM0006270
+So rude! I'm not just here to haveth fun, 'k?[nl]This is part of my training, too!
+RAK/RAK0064820
+Training?
+OTM/OTM0006280
+That is correct![nl]There are a good many girls in this school[nl]who are into horr-or.
+RAK/RAK0064830
+Horror? ....Oh, I know what you mean. You're talking about[nl]the Seven Wonders, they were all the rage until just the[nl]other day. But what does that have to do with trai--
+RAK/RAK0064840
+....Wait just a second, I'm starting do understand.[nl]Don't tell me you....!
+OTM/OTM0006290
+Right, right, everyone wanted to see the Seven Wonders, right?[nl]So I helped that along using my divine powers just in the nick of time.
+OTM/OTM0006300
+Whaaat, there's no need to thanketh me.[nl]'Twas the least I could do!
+RAK/RAK0064850
+....No more inari sushi for you.
+@expose
+OTM/OTM0006310
+Why not!?
+RAK/RAK0064860
+You idiot! Do you not realize[nl]how much trouble you've caused me!?
+RAK/RAK0064870
+Tachibana tried to destroy the whole school[nl]because she heard the Mona Lisa moaning!
+OTM/OTM0006320
+It took a lot of effort to pull off that voice.[nl]But wasn't the performance convincing indeed?
+RAK/RAK0064880
+And Tsugumi tried to destroy the bathrooms,[nl]I'm not even joking!
+OTM/OTM0006330
+Mhm. I do enjoy banging doors as hard as I can.[nl]Maybe I haveth a talent for being a ghost!
+RAK/RAK0064890
+Stop acting smug about it!
+RAK/RAK0064900
+It certainly wasn't cool to move the human body model[nl]around, either! Onodera and I both ended up[nl]shaking in fear!
+@ＢＧＭ停止
+OTM/OTM0006340
+Human body mo-del?[nl]What is that?
+RAK/RAK0064910
+What do you mean?[nl]You were the one moving it, right?
+OTM/OTM0006350
+I knoweth not what thou meaneth....[nl]But I only did Hanako-san and the Mo-na Li-sa, okay?
+RAK/RAK0064920
+Right, right. Quit trying to scare me like that.[nl]If you don't own up to it and apologize, no more[nl]inari sushi for you.
+OTM/OTM0006360
+Honest, honest![nl]I sweareth I knoweth nothing about it!
+RAK/RAK0064930
+Then you're saying the human body model was a real ghost?[nl]Haha, what a terrible joke.
+@ＢＧＭ再生
+RAK/RAK0064940
+You're the one making that noise, right?[nl]It's a good trick, but a bit overkill for a prank.
+OTM/OTM0006370
+R-Raku....'tis not the time for this.[nl]Let us escape post-haste!
+RAK/RAK0064950
+Hey, quit trying to dodge the question![nl]Trying to avoid answering questions like that is just--
+OTM/OTM0006380
+Eeeeeek! It's all over![nl]I'm getting out of here! A-A strange person approacheth!
+RAK/RAK0064960
+Oh, hey! Hey!
+RAK/RAK0064970
+Good grief, what a complicated prank.
+RAK/RAK0064980
+Hey, Otama. I know you're the one behind this![nl]When I get home, we're going to have a long talk about this,[nl]so get ready!
+RAK/RAK0064990
+Jeez!
+.........
+MDL/MDL0000010
+[....COMPLETELY UNAFRAID OF ME....][nl][....WHAT A DOLT....]
+MDL/MDL0000020
+[....HOW BORING. BACK TO THE SCIENCE ROOM WITH ME....]
+@イベント終了処理
+common.asb

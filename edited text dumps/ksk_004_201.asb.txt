@@ -89,7 +89,7 @@ RAK/RAK0010780
 KSK/KSK0004750
 Here it is![nl]I showed you this spot once....[nl]....Remember?
 RAK/RAK0010790
-Oh, yes. That was the day we went shopping[nl]for Chitoge's birthday present, wasn't ti!
+Oh, yes. That was the day we went shopping[nl]for Chitoge's birthday present, wasn't it!
 KSK/KSK0004760
 Yes, yes! You remember!
 RAK/RAK0010800
@@ -117,7 +117,7 @@ You said it before.[nl]I'm the only one you told about this place.
 RAK/RAK0010860
 I'm really happy to be here again...[nl]No, I'm happy you brought me here.
 KSK/KSK0004820
-That's....
+Ummm....
 RAK/RAK0010870
 RAK/RAK0010880
 ...Hey, Onodera.
@@ -194,7 +194,7 @@ RAK/RAK0011030
 RAK/RAK0011040
 (What did she mean, it would be better if we pick it up later?[nl] Did she not want to hear it.....or....)
 RAK/RAK0011050
-(Ah, crap, I'm a moron![nl] I can't even ask her now.....Aaagh~~!
+(Ah, crap, I'm a moron![nl] I can't even ask her now.....Aaaagh!
 RAK/RAK0011060
 I'm going home.....
 @イベント終了処理

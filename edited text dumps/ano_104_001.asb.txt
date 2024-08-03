@@ -1,0 +1,117 @@
+__main
+@Lclearscreenall
+@ano_104
+@イベント開始処理
+SYU/SYU0010340
+Raku....I'd like to ask you for some advice.
+RAK/RAK0060740
+It's rare for you to ask me for advice, Shuu.[nl]What's up?
+SYU/SYU0010350
+This is an extremely important matter. It would be no[nl]exaggeration if I told you I was consulting you on behalf of[nl]every young man in our class....no, in all Japan.
+RAK/RAK0060750
+Alright, bye.[nl]I already know it's gonna be something bad.
+@ＢＧＭ再生
+SYU/SYU0010360
+Hey, hey, hey![nl]Please just stick with me. I look like an idiot[nl]by myself.
+RAK/RAK0060760
+I can't stick with you because[nl]you're *being* an idiot!
+RAK/RAK0060770
+This is probably just about some new cute girl in our class[nl]or some hot new actress, right?
+@expose2
+SYU/SYU0010370
+Heh.... What a child you are.[nl]It's far past the time to be enjoying things[nl]on such a low level as those.
+RAK/RAK0060780
+Huh....?
+SYU/SYU0010380
+By now, we've reached a much higher level.
+SYU/SYU0010390
+Okay, between the track and field club's uniforms,[nl]and the swim team's swimwear.... Which one's cuter!?
+SYU/SYU0010400
+The fetish world is currently on fire over this one topic!
+RAK/RAK0060790
+Hey, are you sure you're okay?
+SYU/SYU0010410
+Are *you* sure *you're* okay!?[nl]A healthy red-blooded male would be all over[nl]something like this!
+SYU/SYU0010420
+Every other boy is divided between Team Track-and-Field[nl]and Team Swimsuits, and they're fighting tooth and nail!
+RAK/RAK0060800
+Whaaat!? They are!?[nl]I had no idea!
+SYU/SYU0010430
+You really can't get left behind in this day and age.[nl]You should start taking these things more seriously.
+RAK/RAK0060810
+Ghh.... When you put it like that,[nl]I feel like I kinda have to start taking it seriously.[nl]Track and field uniforms versus swimsuits, huh....
+SYU/SYU0010440
+Frankly, I love the track and field uniforms.
+SYU/SYU0010450
+The well-toned, healthy arms and legs! The navel,[nl]glistening in the shining sun! On top of that,[nl]the refreshing sight of her flowing sweat is hot to the MAX!
+SYU/SYU0010460
+However! The swim team's swimsuits are also top-tier![nl]With their classic shape, the way the straps dig into the[nl]shoulder, and the way they show off the body shape, they're the best!
+SYU/SYU0010470
+On top of all that, there's something strangely[nl]sexy about a girl who's gotten wet.
+RAK/RAK0060820
+....So you just like wet skin in general?
+@expose
+SYU/SYU0010480
+Hey, don't make me sound like a perv.
+SYU/SYU0010490
+So, Raku, which side are you on?
+RAK/RAK0060830
+Me? Hmmm, let's seeeee....
+Track and field uniforms
+Swimsuits all the way!
+RAK/RAK0060840
+I gotta say I like the track and field uniforms more.[nl]I think the energetic vibe they have is nice.
+@ザクシャ千棘・小
+SYU/SYU0010500
+Hoho. A uniform like one of those[nl]would look simply amazing on Kirisaki....
+RAK/RAK0060850
+Don't say that. It's not like that.
+SYU/SYU0010510
+Yeah, yeah, that's good.[nl]Those toned, muscular legs extending from her bloomers....
+RAK/RAK0060860
+I guess I'll go with the swimsuit.
+@ザクシャ小咲・小
+SYU/SYU0010520
+Hoho. Wouldn't a swim team swimsuit look[nl]absolutely terrific on Onodera?
+RAK/RAK0060870
+What is it you're trying to say....?
+SYU/SYU0010530
+Yeah, yeah, that's good. A fine looking young lady,[nl]with water dripping from her skin....
+SYU/SYU0010540
+Isn't this what youth feels like?
+RAK/RAK0060880
+Uh....
+SYU/SYU0010550
+You may call me a pervert. But I want you to[nl]look at her with pure intentions, and burn her lovely[nl]figure into your eyes....
+@背景変更
+RAK/RAK0060890
+Uh, Shuu?[nl]You *miiiight* wanna shut up for a sec.
+SYU/SYU0010560
+No, no, I'm not quite done yet.
+SYU/SYU0010570
+Swimsuits have an especially deep charm to them. Even[nl]someone with a childesque figure like Ruri's has a unique[nl]charm to her just by wearing a swimsuit that even celebrities--
+RAK/RAK0060900
+Shuu! Zip it already!
+SYU/SYU0010580
+What do you mean!? You zip it and listen!
+RUR/RUR0011780
+It's you who should zip it.
+@キャラ揺らし
+SYU/SYU0010590
+Glbtckhh!?
+RAK/RAK0060910
+(Whoa!?[nl] She got him down with one punch....)
+RUR/RUR0011790
+Sorry, Ichijo. I need to borrow him for a sec.
+RAK/RAK0060920
+O-Okay.... By all means.
+RUR/RUR0011800
+Sure.... I'll be cooking him alive,[nl]so I might not be able to bring him back.
+RUR/RUR0011810
+See ya....
+RAK/RAK0060930
+(Aghhh, she's dragging him along....)
+RAK/RAK0060940
+(Good luck, Shuu.[nl] If you survive, I'll listen to what you have[nl] to say again.)
+@イベント終了処理
+common.asb

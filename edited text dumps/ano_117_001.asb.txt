@@ -1,0 +1,66 @@
+__main
+@Lclearscreenall
+@ano_117
+@イベント開始処理
+@ＢＧＭ再生
+OTM/OTM0006160
+Hm hmhm hmhm hmhmmm.... ♪
+RAK/RAK0063620
+Geh! You....came to visit my school again?
+OTM/OTM0006170
+Mhm. 'Tis a lively and fun place.
+OTM/OTM0006180
+And this time, I hath stayed in the art room[nl]the whole time so as not to cause thee trouble.[nl]Is that not splendid?
+RAK/RAK0063630
+That's very considerate of you,[nl]but what is that you're playing with?
+@expose
+OTM/OTM0006190
+Heheh. ♪[nl]This!
+RAK/RAK0063640
+This is....a love umbrella, right? Me and....who's that?[nl]#fs{12}TN: What Otama has drawn are known in Japan as an 'aiaigasa'.[nl]These represent shared umbrellas and are drawn to show love between two people.#fs{}
+OTM/OTM0006200
+Ah, humans such as thyself cannot read this, huh?[nl]It's read "Otama".
+OTM/OTM0006210
+I saw this on TV this morning.[nl]Drawing names under an umbrella is a sign[nl]of friendship, right?
+OTM/OTM0006220
+Raku, O he who bringeth me fried tofu, and I,[nl]O she who eateth it, are best of friends! Hence we are[nl]holding an umbrella together!
+@ＢＧＭ停止
+CTG/CTG0015070
+Oh, there you are![nl]I've been looking all over for you, Darling!
+OTM/OTM0006230
+Oh, this isn't good.
+RAK/RAK0063650
+Aaaagh, Chitoge!?[nl]And Tachibana, and....also Tsugumi!?
+MRK/MRK0011240
+Oh, this love umbrella....
+RAK/RAK0063660
+Uhh, no, this is....
+SSR/SSR0020200
+"Raku" on one side....and who's this?[nl]I've never seen characters written like these before.
+CTG/CTG0015080
+Dunno. But the fact that it's written on the other side[nl]means that at least it's a woman. What the hell is[nl]the meaning of this, Darling?
+RAK/RAK0063670
+W-Well....the thing is, umm....
+MRK/MRK0011250
+Just who is this nobody?
+CTG/CTG0015090
+Tell us.
+SSR/SSR0020210
+Hurry up.
+MRK/MRK0011260
+Please tell me.
+RAK/RAK0063680
+It's a misunderstanding![nl]There's no deep meaning to this!
+SSR/SSR0020220
+Hey, quit lying already![nl]We have the evidence all right here!
+MRK/MRK0011270
+Kirisaki, Tsugumi, I've called Honda and had her[nl]secure an interrogation chamber for us.[nl]We can talk some more there....
+CTG/CTG0015100
+Heh. Good job, Marika.
+@expose2
+CTG/CTG0015110
+Better prepare yourself, Darling.[nl]I won't forgive you for cheating on me.
+RAK/RAK0063690
+(We're gonna have a long talk about this later, Otama!!)
+@イベント終了処理
+common.asb

@@ -1,0 +1,51 @@
+__main
+@Lclearscreenall
+@ano_112
+@イベント開始処理
+@ＢＧＭ再生
+MRK/MRK0010890
+Raku dearest, Raku dearest![nl]How about a game of Old Maid with me!?
+RAK/RAK0062790
+Old Maid? That came outta nowhere.
+MRK/MRK0010900
+Haven't you heard!?[nl]There's an unprecedented Old Maid craze[nl]sweeping Bonyari High!
+MRK/MRK0010910
+I don't know how it started, but it's at the point[nl]where anyone not carrying a deck of cards is considered[nl]'old-fashioned'.
+RAK/RAK0062800
+Gah, for real!?[nl]I seriously had no idea....
+MRK/MRK0010920
+Anyway, I have a deck of cards with me,[nl]so let's get right into a game.
+CTG/CTG0014710
+Hang on there, Marika. I don't know how many times[nl]I'm gonna have to say this, but stay away from my Darling.
+@expose
+MRK/MRK0010930
+Oh, and here's the old maid now.
+@expose2
+CTG/CTG0014725
+Who are you calling an old maid!?
+SSR/SSR0019830
+Marika Tachibana![nl]You are being far too rude to the Mistress!
+RAK/RAK0062810
+Good grief, everyone please stop fighting,[nl]for goodness sake!
+MRK/MRK0010940
+I don't really have any intention of fighting,[nl]but these old maids here....
+CTG/CTG0014730
+Ghh.... There you go again.[nl]At this point, I won't be satisfied without a sincere apology.
+MRK/MRK0010950
+That's exactly what I wanted to hear. It's about time we[nl]settle once and for all who's more suited to be[nl]Raku dearest's girlfriend!
+SSR/SSR0019840
+This seems interesting....[nl]I'll join in as a witness.
+CTG/CTG0014740G
+Let's play some Old Maid!
+RAK/RAK0062820
+H-Hey....[nl]Simmer down, guys!
+SSR/SSR0019850
+Why are you saying it like you're not part of this!?
+CTG/CTG0014750
+You're joining too, so we have enough people!
+RAK/RAK0062830
+Whaaat!?
+@ＢＧＭ停止
+@ホワイトアウト
+@ババ抜き開始処理
+common.asb

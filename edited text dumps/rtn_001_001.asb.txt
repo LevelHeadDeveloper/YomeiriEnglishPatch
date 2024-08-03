@@ -1,0 +1,53 @@
+__main
+@Lclearscreenall
+@rtn_001
+@rtn_001_01
+@イベント開始処理
+@背景変更
+RAK/RAK0065460
+....Mph.....
+RAK/RAK0065470
+----
+RAK/RAK0065480
+(I feel like I just had a pretty realistic dream....[nl] But I can't remember what it was about....)
+OTM/OTM0006660
+Thou art awake, Raku.
+.........
+RAK/RAK0065490
+(That's right.... Yesterday, this girl[nl] started living here. This self-proclaimed goddess....[nl] This situation is a lot more like a dream.)
+OTM/OTM0006670
+I still have high hopes for thee.[nl]This time, I expecteth more results.
+RAK/RAK0065500
+Huh? Results?
+@expose
+OTM/OTM0006680
+It's nothing. Today is a school day, right?[nl]Better get going.
+@rtn_001_02
+@イベント開始処理
+RAK/RAK0065530
+----Ah!
+@背景変更
+RAK/RAK0065540
+Hahh....hahh....
+RAK/RAK0065550
+(I think I just had a nightmare....[nl] But I can't remember any of it....)
+RAK/RAK0065560
+(Oh, well....[nl] Probably for the best that I can't remember a nightmare....)
+OTM/OTM0006710
+(That's right.... Yesterday, this girl[nl] started living here. This self-proclaimed goddess....[nl] This situation is a lot more like a dream.)
+OTM/OTM0006720
+Sorry, Raku. It seemeth as though I overshot a little.[nl]We're back to my first day here.
+RAK/RAK0065570
+Huh? First day? What are you talking about?
+@expose
+OTM/OTM0006730
+N-No. Never mind.[nl]Today is a school day, right?[nl]Better get going.
+@rtn_001_03
+OTM/OTM0006690
+Per our discussion last night,[nl]I'll be here for the next month.
+RAK/RAK0065510
+Right, right.[nl]Just stay in my room and keep quiet.
+RAK/RAK0065520
+(What's this? It's like deja vu.[nl] Something doesn't feel right.... Well, whatever.)
+@イベント終了処理
+common.asb

@@ -1,0 +1,154 @@
+__main
+@Lclearscreenall
+@ano_110
+@イベント開始処理
+RAK/RAK0061660
+Yo, Shuu! Heading home?[nl]Let's go together and stop somewhere on the way.
+SYU/SYU0011550
+Sorry! I've got some really urgent business to attend to.[nl]I'm leaving now.
+RAK/RAK0061670
+Is that right? Okay, we can go separately today.
+@expose
+@ＢＧＭ再生
+SYU/SYU0011560
+Another thing.... Don't tell anyone I was in[nl]a hurry to leave today, okay? I can't let anyone find out.
+RAK/RAK0061680
+Are you up to something bad?
+SYU/SYU0011570
+That's a secret. ♪[nl]See ya 'round, Raku!
+RAK/RAK0061690
+What could be so bad that he doesn't want[nl]people finding out?
+RAK/RAK0061700
+C-Could it be....he's committing a crime!?[nl]No, no, no, that's ridiculous....
+RUR/RUR0011920
+....How suspicious.
+RAK/RAK0061710
+Waaagh!? M-Miyamoto!?[nl]D-Did you hear that?
+RUR/RUR0011930
+I'm not sure what he usually does after school....[nl]But he must be up to something to be blatantly avoiding you like that.
+RAK/RAK0061720
+I-I guess so....
+RUR/RUR0011940
+I can't tell at all what that imbecile is up to,[nl]so this might be a good opportunity....
+RUR/RUR0011950
+Ichijo, we're gonna tail him.
+RAK/RAK0061730
+T-Tail him!? We are!?
+RUR/RUR0011960
+Aren't you curious at all?[nl]Don't you want to know what he's up to?
+RAK/RAK0061740
+Hmmmm....let's see....
+I'm curious.
+Whatever.
+RAK/RAK0061750
+Come to think of it, I don't know what he[nl]usually does after school, either.
+RAK/RAK0061760
+Of course, I kinda feel like he already knows[nl]everything about me already, ya know?
+RUR/RUR0011970
+Then let's go, Ichijo.[nl]We'll give that guy the usual comeuppance.
+RAK/RAK0061770
+Y-Yeah....
+RAK/RAK0061780
+(Miyamoto's a bit scary and vindictive....)
+@フェードアウト
+@背景変更
+RUR/RUR0011980
+There he is. From here on out, we follow[nl]from a safe distance.
+RAK/RAK0061790
+Okay....
+SYU/SYU0011580
+*humming* ♪
+RUR/RUR0011990
+He's just been going and coming back for a while now....[nl]What the hell is he doing?
+RAK/RAK0061800
+Maybe he's looking for someone?
+RUR/RUR0012000
+He seems to be in a real hurry, too....[nl]But why on earth?
+@expose2
+SYU/SYU0011590
+....Hm?
+RAK/RAK0061810
+(Oh no!)
+SYU/SYU0011600
+....I must have imagined it.[nl]For a second there, it felt like Raku and Ruri were nearby....
+RAK/RAK0061820
+Phew....[nl]Think we're in the clear.
+RUR/RUR0012010
+But that was unexpected.[nl]Why did he think it was us, in particular?
+RAK/RAK0061830
+He's amazingly perceptive. If we don't watch out,[nl]he'll find us.
+@ＢＧＭ停止
+SYU/SYU0011610
+Toooo late. ♪[nl]I found you already.
+RUR/RUR0012020
+....Huh!?
+RAK/RAK0061840
+Dude! How!?
+SYU/SYU0011620
+Hahaha! I guess even the two of you have[nl]a long way to go. It was totally obvious, I should say...[nl]Pfft! 
+RAK/RAK0061850
+When did you see us?
+SYU/SYU0011630
+I think it was around when you were[nl]talking at the school gate.
+RAK/RAK0061860
+That was basically right at the start!
+RUR/RUR0012030
+....So you knew everything right from the beginning?[nl]You sure had me completely fooled.
+SYU/SYU0011640
+Maaan, I'd been hoping if I acted like I really had[nl]something going on, then you'd take an interest in me, Ruri. ♪
+RAK/RAK0061870
+So, you're saying....[nl]That urgent business you had was made up!?
+SYU/SYU0011650
+Had I actually had something like that to do,[nl]I wouldn't have said it when and where I did, especially not[nl]in a way Ruri could have heard it!
+SYU/SYU0011660
+But, Ruri, you've been chasing after me so fervently,[nl]could it be.... Oh no! My heart is starting to pound! ★
+RUR/RUR0012040
+----
+RUR/RUR0012050
+Well....[nl]I will say that I've realized how I feel now.
+SYU/SYU0011670
+Huh....?
+RAK/RAK0061880
+M-Miyamoto, you're not, like, actually....!?
+RUR/RUR0012060
+Yep....I'll admit it, Maiko.[nl]I just can't stop thinking about you.
+SYU/SYU0011680
+Huh? ....For real!?
+RUR/RUR0012070
+Yep. Right now, my awareness of you is sticking around[nl]to the point that I'm not afraid to get my hands dirty[nl]just to get rid of you!
+SYU/SYU0011690
+H-Huh....? Are you angry with me?[nl]Hey, what's that you're taking outta your bag?
+RUR/RUR0012080
+It's an anti-molestation device that can repel even bears.[nl]It's finally time for me to put this to use.
+SYU/SYU0011700
+Gaaah! I can hear it making sparking noises![nl]Please no, Ruri! If you use that on me....![nl]Stop pointing it at me so silently!
+RAK/RAK0061890
+Hahh.... What a waste of time.[nl]I'm going home....
+SYU/SYU0011710
+Raku!? Don't just leave me here!
+RUR/RUR0012090
+Don't worry, this will only hurt for a second.[nl]....Maybe.
+@キャラ揺らし
+SYU/SYU0011720
+I'll do anything! I'm sorry![nl]Please forgive meeee!
+@イベント終了処理
+RAK/RAK0061900
+I don't really care.
+RUR/RUR0012100
+Oh, so you don't want to find this out[nl]about your best friend?
+RAK/RAK0061910
+No, maybe I shouldn't say I don't care.
+RAK/RAK0061920
+But I'm sure he has secrets he'd like to keep even from me,[nl]and it wouldn't exactly be very friendly of me to[nl]expose them.
+@ザクシャるり・中
+RUR/RUR0012110
+....I see. So you do say nice things sometimes.
+RAK/RAK0061930
+That's why I'm not gonna do it.[nl]If you wanna follow him, I'm not stopping you.
+RUR/RUR0012120
+If that's the case, I may as well go home.[nl]See you around, Ichijo.
+RAK/RAK0061940
+See ya, Miyamoto.
+RAK/RAK0061950
+(Shuu's personal life, huh....)
+common.asb

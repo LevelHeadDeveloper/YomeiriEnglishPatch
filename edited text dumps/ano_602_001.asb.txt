@@ -1,0 +1,130 @@
+__main
+@Lclearscreenall
+@ano_602
+@ヌキアシ終了処理
+@ano_602_ctg
+@ano_601_ctg
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0015240
+What's wrong, Raku!?[nl]You're all sweaty again!
+RAK/RAK0064100
+Y-Yeah.... I managed to lose[nl]that bastard Claude again.
+@expose
+@ザクシャ千棘・大
+CTG/CTG0015250
+You went to all that trouble just to[nl]be alone with me....
+RAK/RAK0064110
+No, that's not why I did it.[nl]My pride as a man was on the line.
+CTG/CTG0015260
+....Idiot. Even if it isn't true,[nl]you could have at least *said* you did it for me.
+RAK/RAK0064120
+Huh?
+CTG/CTG0015270
+That is....even if it isn't true, we're supposed to be dating,[nl]so if you can't say things like that on a regular basis,[nl]you'll get caught one day!
+RAK/RAK0064130
+I see. So it's like that.
+CTG/CTG0015280
+So, um.... Even without Claude and the others here,[nl]why don't we put on our act like usual?
+CTG/CTG0015290
+With you as my boyfriend and me as your girlfriend.[nl]Let's make it seem even more real than usual.
+RAK/RAK0064140
+As long as you don't mind, that's fine with me.
+CTG/CTG0015300
+I-I see....
+CTG/CTG0015310
+Alright! It's settled![nl]Let's head home after grabbing some ramen.[nl]Your treat of course, boyfriend.
+RAK/RAK0064150
+Gah, so that's what you meant!
+CTG/CTG0015320
+Hehe.... You are my boyfriend, after all.[nl]One of these days, I'll treat you, too.
+RAK/RAK0064160
+....You can only have one bowl of seconds.
+CTG/CTG0015330
+Awww, you're such a bad boyfriend.
+@イベント終了処理
+@ano_602_ksk
+@ano_601_ksk
+KSK/KSK0017330
+Waah, Ichijo!? You're all sweaty, are you okay!?
+RAK/RAK0064170
+Hahh, hahh, hahh....[nl]Yeah. I can handle this much.
+RAK/RAK0064180
+(Wait, I made it to Onodera all right....[nl] But should I ask her to walk home with me again?)
+KSK/KSK0017340
+Ummm.... Since we've run into each other,[nl]how about we go somewhere on the way home?
+RAK/RAK0064190
+Huh?
+KSK/KSK0017350
+You invited me last time,[nl]so today I figured....I should invite you.
+@expose
+KSK/KSK0017360
+How about it....?
+RAK/RAK0064200
+S-Sure! Anywhere you wanna go, Onodera,[nl]I'll go there with you!
+@ザクシャ小咲・大
+KSK/KSK0017370
+Hehe. We won't be going that far, though.[nl]I also think it would be nice if we talk about[nl]junior high for the first time in a while.
+RAK/RAK0064210
+A-Alright, then. Shall we find a place to hang out?
+KSK/KSK0017380
+Yeah. Let's go, Ichijo. ♪
+@ano_602_ssr
+@ano_601_ssr
+SSR/SSR0020350
+Wha.... Raku Ichijo!?[nl]What are you doing here!?
+SSR/SSR0020360
+Don't tell me you managed to shake Claude again!?
+RAK/RAK0064220
+Hahh, hahh, hahh....[nl]That's right, Tsugumi!
+@ザクシャ誠士郎・大
+SSR/SSR0020370
+You got Claude off your back again....[nl]I honestly can't believe it....
+SSR/SSR0020380
+T-Tell me how you managed to hide from him![nl]I want to use it as reference for the future!
+RAK/RAK0064230
+U-Umm.... I was so caught up in running away[nl]that I can't really remember what I did.
+SSR/SSR0020390
+Don't act so modest! I won't let you go[nl]until you tell me your secret!
+RAK/RAK0064240
+(I don't know how I got into this bizarre situation,[nl] but I never thought Tsugumi would praise me like this....[nl] Maybe all my hard work is paying off now!)
+@ano_602_mrk
+@ano_601_mrk
+MRK/MRK0011370
+Are you alright, Raku dearest?[nl]You look tired again....
+RAK/RAK0064250
+Yeah....[nl]Today's game of hide-and-seek was especially hard.
+MRK/MRK0011380
+Hahh....I see.
+MRK/MRK0011390
+Oh, but hang on![nl]Did you come here to see me again this time?
+RAK/RAK0064260
+That was the plan, anyway.[nl]Do you have time to talk?
+MRK/MRK0011400
+Why, of course! Time with my darling Raku is top-priority![nl]No matter what plans I have to cancel to get it! ♪
+RAK/RAK0064270
+Uh, you don't need to go that far....
+MRK/MRK0011410
+No. I do not want to waste this opportunity to spend[nl]time with you. There's not a lot of chances for me[nl]to be alone with you.
+MRK/MRK0011420
+Let's talk lots today too, Raku dearest!
+@ザクシャ万里花・大
+RAK/RAK0064280
+(If she's this happy, it was worth[nl] all that trouble....right?)
+@ano_602_failure
+@ano_601_failure
+CLD/CLD0002140
+My, ohhh my....?[nl]The Ichijo family's young master. Where are you going?
+RAK/RAK0064290
+Dammit. Cornered again!
+CLD/CLD0002150
+Looks like you miiight have been trying to escape[nl]from us again.... No doubt you were[nl]thinking the usual guilty thoughts, weren't you?
+CLD/CLD0002160
+Seems as though the previous interrogation session[nl]wasn't enough for you. This time, I'll make sure[nl]to really take my time.
+RAK/RAK0064040
+(Goddammit. I should have just gone home today....)
+@フェードアウト
+RAK/RAK0064050
+(After that, Claude put me through the wringer until[nl] Chitoge came to rescue me....)
+common.asb
+ano_601_001.asb

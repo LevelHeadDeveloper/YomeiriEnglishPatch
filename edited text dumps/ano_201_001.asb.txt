@@ -1,0 +1,18 @@
+__main
+@Lclearscreenall
+@ano_201
+@イベント開始処理
+@定型ＢＧＭ再生
+SYU/SYU0011900
+Good morning, Raku![nl]What, you're alone today?
+RAK/RAK0062440
+What, is that so bad?
+SYU/SYU0011910
+No, no. It's nice to be able to spend some passionate[nl]time together, just us guys, good buddy!
+RAK/RAK0062450
+....Don't say it in such a creepy way.
+@expose
+SYU/SYU0011920
+Nyahahaha. Well then, let's have[nl]a good chat this morning, shall we?
+@イベント終了処理
+common.asb

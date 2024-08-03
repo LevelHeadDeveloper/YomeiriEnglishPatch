@@ -6,7 +6,7 @@ __main
 RAK/RAK0065580
 Well, I'm off to school. You stay here and keep quiet.
 OTM/OTM0006740
-But I don't wanna! 'Tis too boring here![nl]I shall goeth with thee!
+But I don't wanna! 'Tis too boring here![nl]I shall go with thee!
 RAK/RAK0065590
 You try it, and you lose a piece of inari sushi[nl]from your dinner tonight, got it?
 @expose

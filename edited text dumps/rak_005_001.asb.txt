@@ -1,0 +1,489 @@
+__main
+@Lclearscreenall
+@rak_005
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0039130
+Alriiiight, I'm done with my homework![nl]Every single answer's been filled in!
+KSK/KSK0009210
+Good work, Ichijo.
+RUR/RUR0007750
+Oh, you're done too, Kosaki?
+@expose
+KSK/KSK0009220
+Yep. I finished quickly because Kosaki helped me with[nl]the parts I didn't understand.
+SSR/SSR0010780
+As per usual, Mistress,[nl]you're the best teacher.
+MRK/MRK0009730
+Raku deareesssst![nl]I don't understand any of these problems!
+CTG/CTG0011170
+Hang on, Marika! I just showed you[nl]how to do these a minute or so ago!
+MRK/MRK0009740
+I'm sorry. I'm afraid I have a bad case of[nl]"Can't-understand-it-unless-Raku-dearest-explains-it-to-me-itis"....
+CTG/CTG0011180
+There's no such verbose illness![nl]Stop complaining and concentrate on your work!
+MRK/MRK0009750
+Oh, I do apologize. But, Kirisaki, aren't you the one[nl]who's letting that fashion magazine distract you[nl]from *your* work?
+CTG/CTG0011190
+Whatever, *I* finished all my work already.[nl]Actually, *you're* the one who brought this magazine in the first place!
+KSK/KSK0009230
+Ooh, this outfit is so cute!
+RUR/RUR0007760
+It is. I think it'd look good on you.
+CTG/CTG0011200
+Right!? That frilliness is *choice*![nl]Whaddya think, Tsugumi?
+SSR/SSR0010790
+I can't say I'm too knowledgable about stuff like this....[nl]But, yes. I think it's very nice.
+CTG/CTG0011210
+Hey, check this out, bean sprout![nl]Don't you also think this outfit is cute?
+RAK/RAK0039140
+Well, I can't really say....[nl]I don't know much about clothing.
+CTG/CTG0011220
+Huuuhh? You really can't even tell[nl]whether clothes are cute or not!?
+RAK/RAK0039150
+N-No....does it matter?
+RUR/RUR0007770
+You really are stupid.[nl]When it comes to things like these, I want people[nl]to say I look cute.
+RAK/RAK0039160
+Huh? Is that how it is?[nl]I had no idea.
+RUR/RUR0007780
+If that's really the case, then you could stand[nl]to learn a lot more about how women's hearts work, Ichijo.
+RAK/RAK0039170
+Hmmmmmm....[nl]W-Women's hearts?
+CTG/CTG0011230
+You tell him, Ruri![nl]Honestly, Raku, you just don't understand women's hearts at all.
+RAK/RAK0039180
+T-That's not true at all![nl]Right....Onodera?
+.......
+RAK/RAK0039190
+Onodera!?
+RUR/RUR0007790
+You just don't get it, do you.
+SSR/SSR0010800
+Yeah, he doesn't.
+MRK/MRK0009760
+You don't need to worry about that at all, though![nl]Even if you don't understand women's hearts in the slightest,[nl]I still think my darling Raku is wonderful!
+RAK/RAK0039200
+Nghhh....I see.[nl]So *all* of you think that, huh.
+RAK/RAK0039210
+Specifically, what is it about women's hearts[nl]I don't understand?
+CTG/CTG0011240
+L-Let's see.... For example, when I get quiet[nl]and you just automatically assume it's because I'm hungry.
+RAK/RAK0039220
+Huh? Was I wrong any of those times!
+CTG/CTG0011250
+Hey, rude! In those types of situations,[nl]I want you to understand what's bothering me without[nl]me telling you.... Jeez.
+RAK/RAK0039230
+But I can't know what's bothering you unless you tell me!
+CTG/CTG0011260
+I get quiet specifically because I don't want to tell you![nl]Gawd, this is the sort of thing that men just don't[nl]get about women, I'm telling you!!
+RAK/RAK0039240
+Ghhh....!
+@フェードアウト
+@背景変更
+RAK/RAK0039250
+Hahh.... Good grief, that Chitoge's[nl]always going off about something.
+OTM/OTM0004120
+Hey, Raku![nl]Thy friends have gone home already?
+RAK/RAK0039260
+No, not yet.[nl]Sorry for kicking you outta the room.
+OTM/OTM0004130
+I don't really careth. However, 'tis nice[nl]to see you having fun.
+RAK/RAK0039270
+Well....I wouldn't say 'fun', so much as 'a hard time'....
+OTM/OTM0004140
+A hard time? With what?
+RAK/RAK0039280
+They all say I don't understand women's hearts,[nl]so they got all riled up....
+RAK/RAK0039290
+I've been accused of not studying that area enough.
+OTM/OTM0004150
+Oh.
+RAK/RAK0039300
+But why should I study women's hearts, anyway?[nl]I'm not even a woman to begin with, so it's[nl]not really possible for me to understand them, anyway.
+OTM/OTM0004160
+....Mhm, mhm. I see, I see.
+RAK/RAK0039310
+You get what I'm saying, Otama?
+OTM/OTM0004170
+Mhm. May I haveth some tea cakes as well?
+RAK/RAK0039320
+....You weren't listening at all, were you....?
+RAK/RAK0039330
+Everyone, I brought some drinks!
+CTG/CTG0011270
+Thanks, Raku....
+@ＢＧＭ停止
+CTG/CTG0011280
+Huh?
+KSK/KSK0009240G
+Huh?
+RAK/RAK0039340
+What, why are you all looking so surprised....?[nl]Something the matter?
+SSR/SSR0010820
+Who are you?
+RAK/RAK0039350
+Who are....huh?[nl]Is this a joke?
+KSK/KSK0009250
+Ummm.... Do you live here?
+MRK/MRK0009780
+D-Don't tell me you live here, with my darling Raku!?
+RAK/RAK0039360
+....Huh?[nl]N-No.... I don't know what you're trying to say....
+RAK/RAK0039370
+(Huh? Whose reflection is that, in the mirror....?)
+CTG/CTG0011290
+W-What are you doing?[nl]You're touching yourself all over.
+RAK/RAK0039380
+(And this unfamiliar chest....[nl] I-Is this a girl's....)
+@ＢＧＭ再生
+RAK/RAK0039390
+GYAAAAAAAAAAAAAAAAAAAAAAAAAHHHH![nl]WHAT IS THIIISSSSSSS!?
+CTG/CTG0011300
+Hey, y-y-y-you![nl]What's the matter!?
+SSR/SSR0010830
+Are you okay? You seem to be profusely sweating.....
+RAK/RAK0039400
+Aaah!? Y-Y-Yeah! I-I-I'm fine![nl]This must be a dream.....uh....or not, I'm not sure!
+KSK/KSK0009260
+You look like you're about to cry....[nl]Are you really okay?
+RAK/RAK0039410
+Yeah, I was just peeling some onions a while ago![nl]Hahaha....
+RUR/RUR0007810
+So, who are you, again?
+RAK/RAK0039420
+Uh....ummmm....[nl]W-Who am I, you ask....
+KSK/KSK0009270
+You look a lot like Ichijo.[nl]Are you a cousin of his?
+RAK/RAK0039430
+....Oh, yes! Of course!
+RAK/RAK0039440
+I'm a distant relative of Raku Ichijo....[nl]Umm....you can call me "Rakuko"!
+CTG/CTG0011310
+Oh, I see. I get it now![nl]Ohh, so your name also starts with "Raku".
+RAK/RAK0039450
+A-Ahahaha. That's right.[nl]Seems we just have very similar names....
+RUR/RUR0007820
+So, where'd Ichijo go?
+RAK/RAK0039460
+W-Well.... His father called him away for something![nl]It seems to have been something very urgent!
+CTG/CTG0011320
+Is that why Raku sent you to us with this tea?[nl]Sorry he made you bring it all the way here.
+RAK/RAK0039470
+N-No, no....[nl]No trouble at all. Hohoho....
+MRK/MRK0009790
+But why are you wearing exactly the same clothing[nl]as Raku dearest?
+RAK/RAK0039480
+Whaaaa!?[nl]N-Noo.... This is a completely different outfit!
+MRK/MRK0009800
+Is that a fact....?
+CTG/CTG0011330
+But I agree. I do think you'd look way better[nl]in something cuter....
+CTG/CTG0011340
+Oh, of course! I just had a great idea.[nl]Hey, why not come shopping with all of us?
+RAK/RAK0039490
+....Huh!?
+SSR/SSR0010840
+Sounds like a good idea.[nl]I'll be there too, of course.
+MRK/MRK0009810
+I'll come too. Since Raku dearest's relatives will be[nl]my relatives in the future, I need to do what I can now[nl]to deepen my relationship with them.
+KSK/KSK0009280
+Okay, I'll come too. How about you, Ruri?
+RUR/RUR0007830
+Whatever, I don't mind.
+CTG/CTG0011350
+Then it's settled! Where should we go shopping?
+CTG/CTG0011360
+....Um, do you mind if I call you 'Rakuko-chan'?
+RAK/RAK0039500
+H-Hahh.... Sure.
+CTG/CTG0011370
+You can call me Chitoge. So, Rakuko-chan,[nl]you have any favorite clothing brands?
+RAK/RAK0039510
+C-Clothing brands!? No, I don't have any particilar preference....
+CTG/CTG0011380
+Really? Well, I think this outfit here in this magazine would[nl]look great on you. Shall we go to the flagship outlet[nl]for this brand?
+RAK/RAK0039520
+F-Flagship outl--? Do they sell flags....?
+RAK/RAK0039530
+Uh....I guess you know best, Chitoge.[nl]H-Hehehe....
+CTG/CTG0011390
+Of course! Just think of it like a big ship!
+@時間経過演出
+CTG/CTG0011400
+Hey, whaddya think of this outfit?
+KSK/KSK0009290
+Oh, that's so cute![nl]I think Rakuko would look amazing in that.
+CTG/CTG0011410
+What do you think, Rakuko-chan?
+RAK/RAK0039540
+H-Hmmmm. I'm not really super familiar with this stuff,[nl]so I don't know.
+SSR/SSR0010850
+You too, Mistress Rakuko? I'm the same way, actually.[nl]I'm terrible with this sort of thing.
+CTG/CTG0011420
+Okay, understood! Tsugumi, why not go over there[nl]and talk to Rakuko-chan? We'll pick something out for both of you!
+SSR/SSR0010860
+Very well.
+CTG/CTG0011430
+Oh....I like this outfit, too!
+RAK/RAK0039550
+Tsugumi....san, you're also not good[nl]at picking out clothing?
+SSR/SSR0010870
+Right. The Mistress chooses all the women's clothing I wear,[nl]but her choices are always a bit....flashy, or I should say, loud....
+RAK/RAK0039560
+But I think that's kind of cute.[nl]I find the way you're dressed very feminine, Tsugumi.
+SSR/SSR0010880
+N-No! I don't look feminine at all....![nl]I don't really like this much at all, and it really doesn't[nl]even suit me.
+SSR/SSR0010890
+....But I'm still happy that they're[nl]taking the time to pick something out for me.
+RAK/RAK0039570
+Well, I guess you're right.[nl]It is nice of them.
+MRK/MRK0009820
+Rakuko dearesssst! I found the perfect outfit for you![nl]Please try it on now!
+RAK/RAK0039580
+D-Did this store really have a dress with this many frills!?[nl]It looks like something Marie Antoinette would wear!
+RAK/RAK0039590
+Ummmm, I'm pretty happy with it,[nl]but it's not exactly my style....
+MRK/MRK0009830
+Oh, is that so?[nl]I think it would suit you perfectly.
+MRK/MRK0009840
+Well then, how about this one?
+RAK/RAK0039600
+(T-That one's also super frilly!)
+RAK/RAK0039610
+No, I think I'm looking for something a bit simpler,[nl]or more normal, even....
+MRK/MRK0009850
+I see, something simple![nl]Wait here just one moment.
+RAK/RAK0039620
+I-I hope it'll be okay....
+SSR/SSR0010900
+I-I hope so too....
+RUR/RUR0007840
+Rakuko, what do you think of this one?
+RAK/RAK0039630
+....Oh! Yes, yes,[nl]those are the sort of normal clothes I like?
+RUR/RUR0007850
+But this outfit seems a little bit too boyish, I think.[nl]Maybe I should look for something more languid.
+RAK/RAK0039640
+N-No, wait, Miyamoto![nl]That's exactly what I was looking for!
+CTG/CTG0011440
+Tsugumiiii! I was looking for a dress for Rakuko-chan[nl]and I found one that would be absolutely perfect on you!
+SSR/SSR0010910
+N-No! I'm not here to look for clothes for me today,[nl]I'm here for Mistress Rakuko....
+RAK/RAK0039650
+Well, this should be okay anyway, right?[nl]As long as we're here, we might as well get some stuff for you, Tsugumi.
+CTG/CTG0011450
+Thanks, Rakuko-chan! Unlike that bean sprout,[nl]you're a reasonable person!
+RAK/RAK0039660
+No, I feel like I would've said that in my old form, too....
+CTG/CTG0011460
+Hm? Did you say something?
+RAK/RAK0039670
+N-No! Nothing at all!
+CTG/CTG0011470
+....It's so weird. Every time I talk to you, Rakuko-chan,[nl]it feels just like I'm talking to Raku.
+RAK/RAK0039680
+Waagh!? O-O-Of course! People always say I look[nl]just like Raku, so that makes sense!
+CTG/CTG0011480
+Ohh, I see, I see!
+CTG/CTG0011490
+Come on, get in here, Tsugumi![nl]I'm closing the curtains!
+SSR/SSR0010920
+--------
+CTG/CTG0011500
+What are you crying for? This is a perfect outfit,[nl]so just leave it all to me!
+RAK/RAK0039690
+Tsugumi....I hope she's gonna be okay
+KSK/KSK0009300
+Hey, Rakuko. What do you think of this outfit?
+RAK/RAK0039700
+Wow, I gotta say it looks very 'you', Onodera....[nl]It's a very cute outfit.
+KSK/KSK0009310
+It's very 'me'?[nl]We just met today....right?
+RAK/RAK0039710
+Huh!? W-Well....[nl]I've heard about you from Raku.
+KSK/KSK0009320
+Huh? Ichijo told you about me!?[nl]I-I see....
+RAK/RAK0039720
+Uh....H-He didn't just tell me about you,[nl]Onodera....san, he told me about everyone!
+KSK/KSK0009330
+Oh, okay. I see....[nl]That makes sense.
+SSR/SSR0010930
+Eep!?
+CTG/CTG0011510
+Oh my, your chest won't fit....![nl]Tsugumi, your breasts have grown again, haven't they?
+SSR/SSR0010940
+T-That isn't what....[nl]GAAAAAAAAAHHHH!
+CTG/CTG0011520
+Alright, Rakuko-chan!
+RAK/RAK0039730
+Y-Y-Y-Y-Y-Yes!? W-What is it!?
+CTG/CTG0011530
+You're up next. Here you go.
+RAK/RAK0039740
+What is this!? The skirt's too short!
+CTG/CTG0011540
+Hehehe. I'm really good at picking out these things.[nl]I promise it'll suit you, so just try it on!
+Try it on
+Straight-up refuse
+RAK/RAK0039750
+(G-Gaaah....![nl] It can't be helped....)
+KSK/KSK0009340
+Wowww.... Yes, I think that looks amazing on you![nl]You've got great taste, Chitoge.
+CTG/CTG0011550
+Hehehe, of course.
+RUR/RUR0007860
+You should also try on the clothes Kosaki picked out for you.[nl]I'd like you to try on the ones I got, too.
+MRK/MRK0009860
+I've picked something out for you too,[nl]so you should totally try that on, too!
+RAK/RAK0039760
+Huh? I'm gonna try on all that!?
+CTG/CTG0011560
+You gotta try on a lot of stuff to know what looks good.
+RAK/RAK0039770
+M-Mghh.....[nl]Very well....
+RAK/RAK0039780
+Wha.... I-I can't wear that....![nl]I want to try on something different....
+KSK/KSK0009350
+But Chitoge picked it out, so it'll definitely look great![nl]Why not give it a try? Okay?
+RAK/RAK0039800
+N-No, really! please don't!
+CTG/CTG0011570
+Yeah, yeah, we're going back into the fitting room.
+RAK/RAK0039810
+Gaaaah!? W-Where do you think you're touching me!?
+CTG/CTG0011580
+It's because you moved so suddenly.[nl]I didn't mean to do that.
+CTG/CTG0011590
+But, Rakuko-chan, your boobs are bigger than I would've thought.
+RAK/RAK0039820
+Gaaaaah! N-Not there!?
+CTG/CTG0011600
+But we're both girls, so what's the problem?
+RAK/RAK0039830
+That's not the iss- GYAAAAAAH![nl]S-Stoppp iiitttt!
+RAK/RAK0039840
+Hahh.... Shopping with girls really is an ordeal....
+RAK/RAK0039850
+Hmmmm.... Huh?[nl]I can't get this on myself! How do I reach this zipper!?
+OTM/OTM0004180
+Let me assist thee, Raku.
+RAK/RAK0039860
+Aaaagh!
+RAK/RAK0039870
+....Wait, it's you, Otama?
+RAK/RAK0039880
+Hang on, you just called me 'Raku'![nl]You know who I am!?
+OTM/OTM0004190
+I do? I know thou art Raku?[nl]Of course I do.
+RAK/RAK0039890
+Thank goodness! You really are a goddess![nl]I'm not even sure what I'm gonna do now....
+RAK/RAK0039910
+Or I should say, I don't understand the situation to begin with![nl]Is this a dream? It's a dream, right, Otama?[nl]Please tell me this is a dream....!
+OTM/OTM0004200
+Hm? What's wrong?[nl]Art thou already finished studying women's hearts?
+RAK/RAK0039920
+I don't care about any of that stuff![nl]Aaagh, I just wanna be a guy again...!
+OTM/OTM0004210
+Hm? Is that right?
+KSK/KSK0009360
+Rakuko, what's going on in there?
+RAK/RAK0039930
+Oh, Otama! Hang on a second! Hey!
+KSK/KSK0009370
+Rakuko?
+RAK/RAK0039940
+Uhh, n-nothing![nl]The zipper in the back isn't going up!
+KSK/KSK0009380
+Oh, you want me to get that for you?[nl]I'll be right in, okay?
+RAK/RAK0039950
+Yeah....t-thanks.
+.....
+RAK/RAK0039960
+It really is hard to change clothes on your own.[nl]I don't know how you all do it.
+RAK/RAK0039970
+Onodera, could you get this zipper for me?
+RAK/RAK0039980
+Onodera....?
+RAK/RAK0039990
+Hm?
+RAK/RAK0040000
+(What's this....?[nl] This familiar feeling....and my chest feels lighter....)
+RAK/RAK0040010
+Don't....tell me....
+@背景変更
+RAK/RAK0040020
+GAAAAAAAAAAAAAAAAHHHHH!
+CTG/CTG0011610
+What's the matter, Rakuko!?
+CTG/CTG0011620G
+Gasp!?
+CTG/CTG0011630
+W...W-W-W-W-W-W-W-W-W-W-W-
+MRK/MRK0009880
+Kyaaaah! Raku dearest, jeez!
+RUR/RUR0007880
+What is this *thing* doing here....?
+SSR/SSR0010960
+----
+CTG/CTG0011640
+Aaaaaah! Pervert![nl]What'd you just do to Kosakiiii!?
+RAK/RAK0040030
+No, w-w-w-wait a sec![nl]I can explain!
+@expose2
+SSR/SSR0010970
+I'll just kill you now, okay?
+RAK/RAK0040040
+Wait! Stop! This is all a misunderstanding![nl]A misunderstanding!
+CTG/CTG0011650
+Ohhh....[nl]What kind of misunderstanding, exactly?
+RUR/RUR0007890
+Mind explaining it to all of us?
+RAK/RAK0040050
+Ghh....!
+KSK/KSK0009390
+Um, Ichijo....[nl]I've been wondering for a while now, but what[nl]happened to Rakuko....?
+RAK/RAK0040060
+R-Rakuko, um....well....
+RAK/RAK0040070
+Right! I was helping her practice her magic tricks![nl]Ya know, like the one where two people magically switch places!
+CTG/CTG0011660
+Huh....?
+RAK/RAK0040080
+Maaaan, she has just been *really* into magic these days![nl]Of course, I didn't ask to be the practice dummy!
+RAK/RAK0040090
+(T-They didn't buy it?)
+CTG/CTG0011670
+Amazing! Rakuko's magic tricks are so cool!
+@expose
+KSK/KSK0009400
+That really was amazing! Although that hardly seemed beginner-level.[nl]Is she a professional, by any chance?
+RAK/RAK0040100
+W-Who knows....[nl]I'm not quite sure myself....
+SSR/SSR0010980
+So where did she go?
+RAK/RAK0040110
+S-She, uh....[nl]She had to go back home, on some kind of urgent business....
+RUR/RUR0007900
+So why did you need to put on her clothes for this?
+RAK/RAK0040120
+H-Huh....? Well, she said it would make[nl]a bigger splash that way.
+RUR/RUR0007910
+I see. You aren't wearing those because[nl]you wanted to, then.
+RAK/RAK0040130
+Of course not! That's hardly my style at all!
+KSK/KSK0009410
+I-I see.... Thank goodness.
+MRK/MRK0009890
+Personally, even if that *was* your style,[nl]I'd still love you, no problem. ★
+RAK/RAK0040140
+(I don't need that kind of promise....!)
+RAK/RAK0040150
+(Aaargh, what the hell is going on here!?[nl] I don't get it!)
+@フェードアウト
+OTM/OTM0004220
+He sayeth that he wanteth to understandeth the hearts of women,[nl]but then he suddenly wisheth to be a man again....
+OTM/OTM0004230
+I understandeth not.
+@イベント終了処理
+common.asb

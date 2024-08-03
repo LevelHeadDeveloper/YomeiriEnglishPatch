@@ -1,0 +1,15 @@
+__main
+@Lclearscreenall
+@all_002
+@2ショット開始
+@背景変更
+@ＢＧＭ再生
+OTM/OTM0008525
+Hoho.... It would seem as though[nl]thou hast attained all possible endings.
+OTM/OTM0008526
+However, this world shall not end.[nl]From this point, thou must continue to enjoy communication[nl]with the young ladies to the fullest extent.
+@expose
+OTM/OTM0008527
+I shall see thee later.[nl]Thanks for playing all the way to the end.
+@イベント終了処理
+common.asb

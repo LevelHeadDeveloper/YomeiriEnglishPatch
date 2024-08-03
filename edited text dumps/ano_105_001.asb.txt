@@ -1,0 +1,66 @@
+__main
+@Lclearscreenall
+@ano_105
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0010600
+Oogh.... Grlbtckh.
+RAK/RAK0060950
+What's wrong, Shuu!?[nl]You look even more beaten up than usual!
+SYU/SYU0010610
+W-Well, let's just say today's beaten me.
+SYU/SYU0010620
+Seishiro beat me up after I made a crack about her,[nl]and when I made a joking advance on Marika, those scary[nl]guys who keep the peace beat me up as well....
+SYU/SYU0010630
+By the way, the reason I'm as beat up as I am now[nl]is because Ruri also beat me up.
+RAK/RAK0060960
+Why the hell do you sound so proud of that?
+SYU/SYU0010640
+Now then, what tricks should I pull on everyone next?[nl]My Raku-related jokes are beginning to run stale....
+RAK/RAK0060970
+Every single time.... You're pretty tough.[nl]You're out of your mind, for going to all this trouble to[nl]get clobbered, and for using me as a joke.
+SYU/SYU0010650
+But everyone's reactions are too funny to stop.
+RAK/RAK0060980
+Are you the kind of guy who picks on the girls he likes?
+SYU/SYU0010660
+Nooooo, not at all![nl]But I do love all of them very much!
+SYU/SYU0010670
+Or rather, I love all kinds of girls.[nl]I want to fall in love with women from all around the world!
+RAK/RAK0060990
+Keep talking like that and all the girls[nl]will beat you up again.
+SYU/SYU0010680
+It's fine, it's fine. ♪[nl]It's actually kind of cute if you think of it as[nl]them just trying to hide their bashfulness.
+RAK/RAK0061000
+I'm pretty sure that's definitely not true....
+@expose2
+SYU/SYU0010690
+Is that right? Well, I can see how Seishiro and Marika[nl]wouldn't be like that, but what about Ruri?
+RAK/RAK0061010
+Out of everyone, you think Miyamoto's the one[nl]trying to hide her bashfulness?
+SYU/SYU0010700
+Precisely! ♪ Maybe Ruri has a secret crush on me, and[nl]that's why she gets as angry as she does. Ruri's heart just[nl]may be the complex heart of a maiden in love!
+@ＢＧＭ停止
+.....
+SYU/SYU0010710
+Oh, speak of the devil, it's Ruri! ★
+@キャラ揺らし
+SYU/SYU0010720
+Glbctkh!?!? Hey![nl]Stop whaling on me without saying anything!
+@背景変更
+RUR/RUR0011820
+....[nl]■■■■■....
+SYU/SYU0010730
+Huh!? What did you say!?[nl]And what are you doing with the fire extinguisher!?
+RUR/RUR0011830
+■■■....!!
+SYU/SYU0010740
+That's dangerous, Ruri![nl]You'll kill me!
+RUR/RUR0011840
+■■■■.....D・I・E....!
+SYU/SYU0010750
+GAAAAAAAAAAAAAAAHHHH![nl]I heard that bit at the end clearlyyyyy!
+RAK/RAK0061020
+(....This isn't even worth my time.)
+@イベント終了処理
+common.asb

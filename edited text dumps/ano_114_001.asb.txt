@@ -1,0 +1,97 @@
+__main
+@Lclearscreenall
+@ano_114
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0063190
+Ugghhhh![nl]I'm so bored....
+SYU/SYU0012560
+Hey, you there. What are you babbling about?
+SYU/SYU0012570
+Take a look. Those lovely maidens yonder[nl]have so much energy.
+RAK/RAK0063200
+Hmm?
+CTG/CTG0014830
+Kosaki, Ruri! Didja see this morning's horoscopes?
+@expose
+KSK/KSK0017090
+Yeah. I did. Hehehe.... Looks like my luck's going to be[nl]perfect. I may make a new discovery on the way home[nl]from school, it said! ♪
+SSR/SSR0019930
+That's pretty good, Mistress Onodera.
+SSR/SSR0019940
+I got a pretty bad horoscope, so I should be careful today[nl]because I may be upset by unexpected occurrences![nl]....That's what it said, anyway.
+RUR/RUR0012440
+Ohhh....[nl]So even you pay attention to horoscopes and stuff, Tsugumi.
+SSR/SSR0019950
+The Mistress finds them interesting, after all.[nl]So by proxy, I found myself becoming interested as well.
+RUR/RUR0012450
+Anyway, my horoscope was pretty normal.[nl]Seems my lucky color is yellow.
+MRK/MRK0011040
+Mine said I'll have good chances to get close[nl]to members of the opposite sex! ★ This is the perfect[nl]opportunity to get closer to Raku dearest!♪
+CTG/CTG0014840
+Yeah, yeah, keep saying that.
+SSR/SSR0019960
+What was your fortune, Mistress?
+CTG/CTG0014850
+My money luck is going to be very good![nl]There's no telling what'll happen, but I may end up[nl]with a little extra spending money. ♪
+CTG/CTG0014860
+Speaking of which, and Ruri's yellow reminded me of this,[nl]but did you guys hear about the new cafe that opened[nl]near the station?
+MRK/MRK0011050
+The one that got popular because of that yellow cake[nl]they make with sweet potatoes? Word has it that[nl]that cake is super sweet and delicious.
+KSK/KSK0017100
+Ahh, sweet potatoes are yellow, aren't they.[nl]Maybe if you go try some, Ruri, something lucky will happen?
+RUR/RUR0012460
+Sounds good. I do like cake.[nl]How about we all go down and explore the area around[nl]that cafe?
+CTG/CTG0014870
+Ooh, I like that![nl]There's still a lot of shops around there I haven't been to.
+MRK/MRK0011060
+In that case, let's also find some clothes for Tsugumi, okay?[nl]It's so boring for her to always be wearing men's clothing.
+SSR/SSR0019970
+Whaa....!?[nl]I-I can't say that sort of thing really....[nl]It's too embarrassing.
+CTG/CTG0014880
+You're so right! Every single time I pick out some clothes[nl]for this girl that I think look good on her,[nl]she never wears them.
+KSK/KSK0017110
+Okay then, so we're going out to find some clothes[nl]for Tsugumi and eat some sweet potato cake today?
+SSR/SSR0019980
+Uuuhh....[nl]Looks like I'm gonna be a dress-up doll for them again....
+CTG/CTG0014890
+This is starting to get interesting. Speaking of cake,[nl]there's another popular cake shop near this one, so[nl]how about we check that one out, too?
+CTG/CTG0014900
+I personally wouldn't mind doing a tour of these places.
+KSK/KSK0017120
+Oh! That sounds fun!
+CTG/CTG0014910
+They say the Mont Blanc and chocolate cake there[nl]are the best ones!
+SSR/SSR0019990
+Mont Blanc....that's a chestnut cake, right?[nl]I've never had that before.
+MRK/MRK0011070
+Well, that won't do at all.[nl]I recommend you try it.
+RUR/RUR0012470
+Sweet potato cake, Mont Blanc, chocolate cake....[nl]They all sound too good to pass up.
+KSK/KSK0017130
+But if I try them all, I'll get fat, right?[nl]Just from sampling sweets at home,[nl]I'm eating too much as it is.
+MRK/MRK0011080
+I feel that. I can't help but eat all the fruits and sweets[nl]that people send to me at home....
+MRK/MRK0011090
+Hahhh.... I really envy you two, Kirisaki and Miyamoto.[nl]You can eat as much as you want and never put on weight.
+CTG/CTG0014920
+Hehe!
+RUR/RUR0012480
+For me, it's because I swim.
+KSK/KSK0017140
+Tachibana, let's lose weight together![nl]Then it won't matter if we overeat a little.
+MRK/MRK0011100
+Sounds good....and while we're at it, how about we[nl]try to ask Tsugumi what the secret is[nl]to maintaining her figure?
+SSR/SSR0020000
+M-Me!? I don't do anything special....
+CTG/CTG0014930
+Ooh, I wanna know, too![nl]Like, how did you get your boobs so big!?
+SSR/SSR0020010
+M-Mistress!?
+........
+SYU/SYU0012580
+....Maaan, I've been eavesdropping on them for a while,[nl]but there's just no end to their conversation in sight.[nl]I wonder if this'll go on forever.....
+RAK/RAK0063210
+So this must be what they call "girls' talk".[nl]I mean, what happened to that part about horoscopes....?
+@イベント終了処理
+common.asb

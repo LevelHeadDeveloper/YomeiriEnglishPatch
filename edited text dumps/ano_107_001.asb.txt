@@ -1,0 +1,86 @@
+__main
+@Lclearscreenall
+@ano_107
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0011010
+*humming* ♪
+RAK/RAK0061250
+What's up? You seem to be in a good mood.
+SYU/SYU0011020
+All the hard work I've been doing is paying off.[nl]I think I'm about to get a lot more connections.
+RAK/RAK0061260
+Ooh.... Your networking skills really are amazing.[nl]We even ended up relying on that network you've got[nl]for the school festival.
+@expose
+SYU/SYU0011030
+Well, duh. ♪ I intend to use these connections[nl]to do something somewhere down the line,[nl]and it can't hurt to start preparing now, right?
+RAK/RAK0061270
+Down the line....[nl]I'm not sure what you mean by that.
+SYU/SYU0011040
+You never know when your life will[nl]reach a turning point, right? You might even end up[nl]suddenly getting married to someone.
+@ano_107_kosaki
+SYU/SYU0011050
+Maybe you still want to marry Onodera?
+RAK/RAK0061280
+Y-You idiot! Don't say her name out loud!
+SYU/SYU0011060
+The wedding of Onodera and Raku.[nl]Hehe.... Just the thought of it makes me laugh.
+RAK/RAK0061290
+I'm gonna punch you....
+SYU/SYU0011070
+No, no, that would be a happy future.[nl]And if I gave the wedding speech, I'm sure it'd be a hit.
+RAK/RAK0061301
+Why would you be doing it!?
+@expose2
+SYU/SYU0011080
+Come on, come on. ♪[nl]I'd make it the best of the best!
+SYU/SYU0011090
+After all, I don't think there's anyone else[nl]who watches you two like I do.
+RAK/RAK0061310
+Ghh....[nl]Well, you might be right.
+RAK/RAK0061320
+But I couldn't ask you to do that....
+SYU/SYU0011100
+Hey, instead of worrying about that, maybe worry about[nl]whether you could get Onodera to marry you.[nl]....Could you do that?
+RAK/RAK0061330
+S-Shaddup![nl]I'm gonna give it my all from here on out, just watch!
+SYU/SYU0011110
+If you don't, I might just be waiting[nl]until we're both old.... I'm gonna live so long.♪
+RAK/RAK0061340
+W-Why you little....![nl]Just you wait and see....
+@イベント終了処理
+@ano_107_chitoge
+SYU/SYU0011120
+Maybe you still want to marry Kirisaki?
+RAK/RAK0061350
+H-Huuhhh!? Why are we bringing up Chitoge!?
+SYU/SYU0011130
+You and Onodera seem to be a lot more friendly these days.
+RAK/RAK0061360
+I-Is that right....?
+SYU/SYU0011140
+The wedding of Kirisaki and Raku.[nl]Hehe.... Just the thought of it makes me laugh.
+SYU/SYU0011150
+Hey, instead of worrying about that, maybe worry about[nl]whether you could get her to marry you.[nl]....Could you do that?
+@ano_107_marika
+SYU/SYU0011160
+Maybe you still want to marry Marika?
+RAK/RAK0061370
+H-Huuhhh!? Why are we bringing up Tachibana!?
+SYU/SYU0011170
+The wedding of Marika and Raku.[nl]Hehe.... Just the thought of it makes me laugh.
+@ano_107_seisirou
+SYU/SYU0011180
+Maybe you still want to marry Seishiro?
+RAK/RAK0061380
+H-Huuhhh!? Why are we bringing up Tsugumi!?
+SYU/SYU0011190
+The wedding of Seishiro and Raku.[nl]Hehe.... Just the thought of it makes me laugh.
+@ano_107_nobody
+SYU/SYU0011200
+....But I can't say that seems likely to happen.[nl]Right now, we should keep being friends, right?
+RAK/RAK0061390
+What do you mean?
+SYU/SYU0011210
+I'm just saying, time is limited.
+common.asb

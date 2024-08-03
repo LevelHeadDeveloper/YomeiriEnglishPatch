@@ -1,0 +1,47 @@
+__main
+@Lclearscreenall
+@bad_001
+@bad_001_002
+@イベント開始処理
+OTM/OTM0007300
+....Boring.
+RAK/RAK0001750
+Huh?
+@ＢＧＭ再生
+@expose
+@叫び揺れ
+OTM/OTM0007310
+Thy life is B・O・R・I・N・G!!
+RAK/RAK0066310
+Waagh!? Don't yell so suddenly![nl]You startled me....
+OTM/OTM0007320
+I'm the one who's surprised, moron![nl]What's with thy pathetic state of life!?
+OTM/OTM0007330
+I hath been watching thee for this whole month,[nl]but I still cannot tell what thou desireth!
+OTM/OTM0007350
+I can't tell what thou wanteth at all!
+RAK/RAK0066320
+Why are you so angry all of a sudden!?
+OTM/OTM0007360
+If we continue like this, with NOOOO RESULTS,[nl]my plan shall be ruined!
+OTM/OTM0007370
+Aaaaargh! We're starting over! From the top!
+OTM/OTM0007380
+Let us start again from the very beginning!
+@ＢＧＭ停止
+@背景変更
+RAK/RAK0066330
+Waaaaaaagh!?
+OTM/OTM0007390
+Listen to me, Raku.
+OTM/OTM0007400
+Thou art surrounded by a number of people[nl]who are always thinking about thee.
+OTM/OTM0007410
+If thou should deepen thy bonds with them,[nl]I shall be able to understand what they want,[nl]and what they hope for.
+OTM/OTM0007420
+And that is when I shall demonstrate my true power[nl]That is when I shall achieve the goal I set out for[nl]when I came here.
+OTM/OTM0007430
+Heheheh....[nl]Later, Raku.
+@イベント終了処理
+bad_001_002.asb
+common.asb

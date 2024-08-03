@@ -1,0 +1,25 @@
+__main
+@Lclearscreenall
+@ano_119
+@イベント開始処理
+RAK/RAK0064060
+(Hm? ....Who's that over there?)
+CLD/CLD0002130
+That stinker Raku Ichijo....[nl]I'll get him today for sure.
+RAK/RAK0064070
+(It's Claude again....[nl] What should I do....?)
+Go home
+I won't lose to Claude!
+RAK/RAK0064080
+(I can't be bothered with him.[nl] I'll sneak out the back and run right home.)
+@イベント終了処理
+RAK/RAK0064090
+(If that's how it's gonna be, I won't lose!)
+RAK/RAK0063800
+(....So, who should I go talk to?)
+Chitoge!
+Onodera!
+Tsugumi!
+Tachibana!
+@ヌキアシ開始処理
+common.asb

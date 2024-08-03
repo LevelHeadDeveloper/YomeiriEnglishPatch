@@ -1,0 +1,26 @@
+__main
+@Lclearscreenall
+@ano_209
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0065630
+Hey, Otama, get outta my way.[nl]I'll be late if I don't hurry!
+OTM/OTM0006780
+I careth not if thou art late. I'm bored.[nl]Raku, please play with me all day.
+RAK/RAK0065640
+I'll play with you on my next day off,[nl]so please be patient!
+OTM/OTM0006790
+But when *is* thy next day off!?[nl]I'll grant thee any wish, so please play with meeee!
+RAK/RAK0065650
+What kind of tantrum is that!?
+@expose
+OTM/OTM0006800
+Hmph.... If thou will not playeth with me,[nl]then I shall enact my own plan. Prepare thyself, dumb Raku!
+OTM/OTM0006810
+Idiot idiot idiot idiot idiot idiot![nl]Idiot idiot idiot idiot idiot idiot!
+OTM/OTM0006820
+WAAAAAAAAAHHHHH!
+RAK/RAK0065660
+You really are a child....
+@イベント終了処理
+common.asb

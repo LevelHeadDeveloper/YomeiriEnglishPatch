@@ -3,11 +3,11 @@ __main
 @ssr_004_103
 @expose2
 SSR/SSR0005220
-Ngh....I'm really bad at this....[nl]Every time I say it I get violent....
+Ngh....I really am hopeless....[nl]Every time I try saying it I get violent....
 @ssr_004_103_01
 @expose
 SSR/SSR0005230
-T-That reminds me![nl]Is there anything I can do to make up for it?
+I-I know!! Is there anything I can do[nl]to make up for what I did?
 SSR/SSR0005240
 I-I'll do anything you want!
 What do you want?
@@ -15,9 +15,9 @@ Help take care of the animals
 Take care of me
 Take care of Shuu
 SSR/SSR0005250
-That's right, you and the mistress[nl]were cleaning the animal's cages just now.
+That's right, you and the Mistress[nl]were cleaning the animal's cages just now.
 SSR/SSR0005260
-And you want me to help with that?
+So you want me to help with that?
 SSR/SSR0005270
 ....Alright. I'll put my heart and soul into it.
 @ザクシャ誠士郎・小

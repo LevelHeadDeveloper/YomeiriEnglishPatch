@@ -1,0 +1,146 @@
+__main
+@Lclearscreenall
+@ano_601
+@ヌキアシ終了処理
+@ano_601_ctg
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0015190
+Dude, you're soaked in sweat![nl]What happened?
+RAK/RAK0063810
+Hahh, hahh, hahh....[nl]I managed to lose Claude and his guys....
+CTG/CTG0015200
+Huh? But if you were coming to see me,[nl]you didn't need to go to all that trouble....
+RAK/RAK0063820
+Well, it's true that they won't suspect anything[nl]if it's the two of us meeting.
+RAK/RAK0063830
+But sometimes it might be nice if we could[nl]have a conversation without being watched.
+@ザクシャ千棘・中
+CTG/CTG0015210
+Raku....
+@expose
+CTG/CTG0015220
+W-Well....I-I guess so.[nl]Sometimes, it might....not be so bad.
+CTG/CTG0015230
+Fine. I'll give you a second to catch your breath.
+RAK/RAK0063840
+Hehe. Thanks.
+@イベント終了処理
+@ano_601_ksk
+KSK/KSK0017260
+Ichijo....
+RAK/RAK0063850
+H-Hey, Onodera.
+KSK/KSK0017270
+What is it? Did you need something from me?
+RAK/RAK0063860
+Ummm.... I was just wondering if you[nl]wanted to walk home together sometime.
+KSK/KSK0017280
+Huh!? Me....?[nl]H-How come?
+RAK/RAK0063870
+Well, no particular reason....[nl]Would that be a problem?
+@ザクシャ小咲・中
+KSK/KSK0017290
+Not at all! No problem at all!
+KSK/KSK0017300
+...W-Well then, will you be so kind as to walk me home?
+RAK/RAK0063880
+Why the polite tone!?
+KSK/KSK0017310
+Aah! Sorry, I'm just nervous.
+KSK/KSK0017320
+Uhh....Shall we?
+RAK/RAK0063890
+Yeah!
+RAK/RAK0063900
+(Let's walk a bit slower today....)
+@ano_601_ssr
+SSR/SSR0020230
+Raku Ichijo. What are you doing here?
+RAK/RAK0063910
+Hahh, hahh, hahh.... I've finally managed[nl]to shake off your boss.
+SSR/SSR0020240
+Master Claude?[nl]Now that you mention it, he did say he was going to increase[nl]personell and strengthen your surveillance today.
+SSR/SSR0020250
+Heh. To think you'd be able to escape Master Claude's eyes.[nl]For you, that's quite the accomplishment.
+RAK/RAK0063920
+You have no idea how much effort that was....[nl]By the way, do you have some time?
+SSR/SSR0020260
+I don't have any immediate plans.... Why?
+RAK/RAK0063930
+I just managed to escape from Claude.[nl]I want to stretch my wings out a bit.
+RAK/RAK0063940
+If you have some time, you wanna go somewhere with me?
+SSR/SSR0020270
+Huh!?
+SSR/SSR0020280
+Y-Y-You want to go with m-m-me!?
+RAK/RAK0063950
+It would be boring alone, okay?
+@expose2
+SSR/SSR0020290
+I-I-I guess that sounds okay....[nl]But are you sure you don't want someone else?
+RAK/RAK0063960
+I want to be able to talk to you properly sometimes.[nl]So if you don't mind, let's get going.
+@ザクシャ誠士郎・中
+SSR/SSR0020300
+I-I-I see....
+SSR/SSR0020310
+Then it can't be helped, I'll go with you.[nl]Now that you've shaken Master Claude, I have to[nl]take his place and keep my eyes on you!
+RAK/RAK0063970
+Thank you, Tsugumi.
+SSR/SSR0020320
+There's no need to be thanking me.[nl]Besides, I....
+RAK/RAK0063980
+Hm? You what?
+SSR/SSR0020330
+Nothing! Let's hurry up if we're[nl]gonna go to a store or something!
+SSR/SSR0020340
+You're the one who invited me out.[nl]So today, I want to hear all about you.
+@ano_601_mrk
+MRK/MRK0011280
+Oh my, Raku dearest!?[nl]You look very tired, is something the matter?
+RAK/RAK0063990
+No.... I was just playing some hide-and-seek.
+MRK/MRK0011290
+Hahh.... Is that so?
+MRK/MRK0011300
+But I'm glad this is where you ended up, Raku dearest.
+RAK/RAK0064000
+I came here because I saw you.
+MRK/MRK0011310
+Huh....?
+RAK/RAK0064010
+Well, I figured it might be nice to have a relaxed[nl]conversation with you occasionally....
+@ザクシャ万里花・中
+MRK/MRK0011320
+....I never thought you'd feel this way about me.
+MRK/MRK0011330
+I knew it, Raku dearest, you're only dating Kirisaki because[nl]she has some kind of leverage over you and you have[nl]no choice! I can't believe it you've finally....
+RAK/RAK0064020
+No, no! That's not it at all!
+MRK/MRK0011340
+Jeez....[nl]I really wish you'd be a bit more upfront with me.
+MRK/MRK0011350
+But it's fine.[nl]I'm happy you came to see me regardless, Raku dearest.[nl]Let's talk a lot today.
+@expose
+MRK/MRK0011360
+We've still got lots to talk about,[nl]both about the past, and the future.
+@イベント終了処理
+@ano_601_failure
+CLD/CLD0002090
+Well, well. If it isn't the Ichijo family's young master Raku.[nl]Where do you think you're going?
+RAK/RAK0064030
+Dammit. I'm cornered.
+CLD/CLD0002100
+Looks to me like you were trying to shake us.[nl]Were you, by some chance, thinking about doing something[nl]you shouldn't?
+CLD/CLD0002110
+Looks like we're going to have to take a few moments[nl]to thoroughly interrogate you.
+CLD/CLD0002120
+While we're at it, we'll also try asking about[nl]your relationship with the Mistress! Ha ha ha ha ha!
+RAK/RAK0064040
+(Goddammit. I should have just gone home today....)
+@フェードアウト
+RAK/RAK0064050
+(After that, Claude put me through the wringer until[nl] Chitoge came to rescue me....)
+common.asb

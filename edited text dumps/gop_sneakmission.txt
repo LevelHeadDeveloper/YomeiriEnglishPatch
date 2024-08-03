@@ -66,7 +66,7 @@ R_SneakMission038
 R_SneakMission039
 R_SneakMission040
 Accusation
-Run and hide from Tsugumi![nl]Be careful, the misunderstanding has made her angry!
+Run and hide from Tsugumi! Be careful,[nl]the misunderstanding has made her angry!
 R_SneakMission041
 R_SneakMission042
 R_SneakMission043
@@ -117,7 +117,7 @@ R_SneakMission078
 R_SneakMission079
 R_SneakMission080
 Love
-Unusual Love for Raku Ichijo:[nl]Why is everyone chasing him? Try to escape!
+Unusual Love for Raku Ichijo:[nl]Why is everyone chasing him? Escape!
 R_SneakMission081
 frm
 R_SneakMission082

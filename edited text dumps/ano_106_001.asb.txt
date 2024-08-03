@@ -1,0 +1,145 @@
+__main
+@Lclearscreenall
+@ano_106
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0010760
+Any of these could be yours for only 500 yen![nl]You know you want a beautiful souvenir photo of our[nl]energetic female students from the Culture Festival!
+MSA/MSA0000200
+Amazing, Shuu! You're a genius!
+MSB/MSB0000160
+How did you get this photo from the dance performance[nl]that the third-years did? Wasn't your class in the middle[nl]of a play or something?
+SYU/SYU0010770
+Heheheheh.... It was an all-out war, getting all my[nl]acquaintances who knew how to use a camera on board.[nl]I got most all the girls from that whole year in my viewfinder.
+SYU/SYU0010780
+Besides that, almost all of these are[nl]the usual "Exquisitely Embarrassing Shots"!
+SYU/SYU0010790
+Could I interest you gentlemen in a photo of[nl]the girl you like?
+MSA/MSA0000210G
+YEAAAAAAAAHHHH!
+RAK/RAK0061030
+W-What's everyone so riled up about!?[nl]I came to take care of the animals, but I can't do that[nl]with this atmosphere!
+@expose
+SYU/SYU0010800
+Ooh, Raku! You came to my photo exhibition, too!?[nl]It's even more popular than the one from the school trip!
+RAK/RAK0061040
+Dude....I can't have you conducting[nl]your shady business in front of my sacred menagerie.
+SYU/SYU0010810
+Hey, come on, gimme a break.[nl]If I did this inside, Ruri and the others would find out.
+SYU/SYU0010820
+Perhaps you could be convinced....[nl]If you let me stay, I'll sell you this "Extra-Special Shot"[nl]of Onodera!
+RAK/RAK0061050
+Whaaat!? Extra-special shot of Onodera!?
+RAK/RAK0061060
+....W-What do you mean "special"?
+SYU/SYU0010830
+Whoops, I can't show you that here.
+@expose2
+SYU/SYU0010840
+But I guarantee you that it's a very rare shot,[nl]one that you normally don't get the opportunity to see.[nl]What say you, good sir?
+RAK/RAK0061070
+(Umm.... S-Should I take it?)
+Think about it for a bit.
+Of course I'll buy it!
+RAK/RAK0061080
+....I think that might be a bad idea....
+SYU/SYU0010850
+If you pass up on this rare opportunity,[nl]you'll never get another like it.[nl]Well, how about it, sir?
+RAK/RAK0061090
+(....Should I take it!?)
+Just take it!
+Think it over longer
+RAK/RAK0061100
+U-Uuummmmmm....
+SYU/SYU0010860
+Are you gonna let this chance slip through[nl]your fingers? Hmmmm?
+I've gotta have it!
+I dunno....
+RAK/RAK0061110
+I dunno, I mean, this is voyeurism....[nl]Gghh....ghhh.....
+RUR/RUR0011850
+You never learn, huh.
+SYU/SYU0010870
+R-Ruri!?
+SSR/SSR0019640
+To take a photo of me without my knowledge....[nl]That was very bold of you.
+RAK/RAK0061120
+A-And Tsugumi!?
+@背景変更
+SSR/SSR0019650
+But I'm not so forgiving as to forgive[nl]a pervert like you.
+RAK/RAK0061130
+H-Hey, Shuu! Apologize as hard as you can, now![nl]I mean, this was all your fault!
+SYU/SYU0010880
+Ghh....[nl]This isn't worth dying for, is it.
+SYU/SYU0010890
+....Do you mind if I kneel?
+SSR/SSR0019660
+Heh. I'll let you off the hook[nl]for this act of contrition.
+SYU/SYU0010900
+F-For real!? You're not gonna punish me!?
+RUR/RUR0011860
+Not a chance.[nl]We're going to burn those photos and you, too.
+SYU/SYU0010910
+Huh!? D-Did you say "burn"!?
+SSR/SSR0019670
+Now, get over here[nl]You know there's no use resisting.
+SYU/SYU0010920
+H-Hang on a second![nl]Where are you taking me!?
+SYU/SYU0010930
+R-Rakuuuu! Don't just give up on meeee!
+RAK/RAK0061140
+(I'm sorry....[nl] I don't think this is worth dying for, either.)
+SYU/SYU0010940
+HELP MEEEE!!!!
+SSR/SSR0019680
+Shut up! Pick up the pace.
+RUR/RUR0011870
+Ichijo, why aren't you more selective[nl]about who your friends are?
+RAK/RAK0061150
+Well, despite appearances, he does have his[nl]good qualities. Please don't be too hard on him.
+RUR/RUR0011880
+....Even without you telling me,[nl]I'll stop short of killing him. Just barely.
+RAK/RAK0061160
+Just barely, huh....
+RAK/RAK0061170
+....I'll take it.
+SYU/SYU0010950
+Huh? What'dja say?
+RAK/RAK0061180
+I have to have it! I'll take it!
+SSR/SSR0019690
+But I'm not so forgiving as to forgive[nl]a pervert like you. You, the pervert who took the photo,[nl]or you, the pervert who bought it.
+SYU/SYU0010960
+I-I'm sorry, Seishiro! It was a sudden impulse![nl]Honest to God, please forgive me!
+RAK/RAK0061190
+I-It's such a relief to see you prostrating yourself[nl]so sincerely! Shuu! Dude, you....
+SYU/SYU0010970
+If prostrating myself can buy me my life,[nl]I'll do it a million times over![nl]Raku, you'd better apologize, too!
+RAK/RAK0061200
+(Crap. Now that I've said I'll buy that photo,[nl] I'm an accomplice....)
+RAK/RAK0061210
+I-I'm sorry, too! I really am!
+SSR/SSR0019700
+Heh. I accept your apology.
+RUR/RUR0011890
+Not a chance.[nl]We're going to burn those photos and you two, too.
+RAK/RAK0061220
+W-What do you mean!?
+SYU/SYU0010980
+H-Hang on a second![nl]Where are you taking us!?
+RUR/RUR0011900
+Quit being stubborn, you two.
+@フェードアウト1000
+RUR/RUR0011910
+Alright, you two, grit your teeth.
+SYU/SYU0010990
+Huh? What's that fuse for?[nl]What does it lead to!?
+SSR/SSR0019710
+Take care.
+RAK/RAK0061230
+N-NOOOOOOO!!!!
+RAK/RAK0061240G
+GAAAAAAAAAAAAAAHHHHHHH!
+@イベント終了処理
+common.asb

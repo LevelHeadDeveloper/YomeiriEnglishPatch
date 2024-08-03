@@ -1,0 +1,74 @@
+__main
+@Lclearscreenall
+@ano_603
+@ババ抜き終了処理
+@ano_603_rak
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0062840
+A-Alright! I won!
+RAK/RAK0062850
+...I mean, how are you all this bad!?[nl]Your poker faces were all terrible!
+@expose
+@ザクシャ千棘・中
+CTG/CTG0014760
+Ghhh....[nl]Can't believe I'd lose to Raku, of all people.
+@ザクシャ誠士郎・中
+SSR/SSR0019860
+Truly a dark horse.
+@ザクシャ万里花・中
+MRK/MRK0010970
+That's just like you, Raku dearest.[nl]You're so strong!
+RAK/RAK0062860
+So will you all stop fighting now?
+CTG/CTG0014770
+Well....it was probably a terrible idea to[nl]decide who your girlfriend would be based on a game of cards.
+@expose2
+MRK/MRK0010980
+Kyaah! ★[nl]Raku dearest, you're wonderful for resolving our disputes!
+SSR/SSR0019870
+Heh.
+@イベント終了処理
+@ano_603_mrk
+MRK/MRK0010990
+Alright! I won!
+MRK/MRK0011000
+From this day forward, I....[nl]I, Marika Tachibana, will henceforth be your girlfriend!
+CTG/CTG0014780
+Ghh.... T-This shouldn't count, not one bit![nl]This isn't something we should be deciding based on a game[nl]of Old Maid!
+SSR/SSR0019880
+That's right! I will never accept you[nl]as Raku Ichijo's lover!
+RAK/RAK0062870
+(Aaargh, jeez![nl] I just knew they'd do this!)
+@ano_603_ctg
+@イベント開始処理
+@ＢＧＭ再生
+CTG/CTG0014790
+Hahaaa! Whaddya say to that, Marika!?[nl]You'd better apologize to me right away! ♪
+SSR/SSR0019890
+That's right. And promise us that from now on,[nl]you'll never meddle with the Mistress or Raku Ichijo ever again!
+MRK/MRK0011010
+Mgghh.... This shouldn't count![nl]This isn't the sort of thing we should be settling[nl]with a game of Old Maid!
+CTG/CTG0014800
+Whaaaat!? That's not fair!
+@ano_603_ssr
+SSR/SSR0019900
+Hehe, I win. Now, Marika Tachibana, promise us that[nl]you'll never meddle with the Mistress or Raku Ichijo[nl]ever again!
+@ano_603_end
+RAK/RAK0062880
+Hey, that's enough, alright?[nl]We shouldn't be deciding who I date by playing Old Maid.
+CTG/CTG0014810
+What are you talking about!? It's your own fault[nl]for being so indecisive! Stupid bean sprout!
+RAK/RAK0062890
+What!? It's my fault!?
+@expose
+SSR/SSR0019910
+That's right! You're always fawning over someone or other!
+MRK/MRK0011020
+Raku dearest, please keep your promise!
+RAK/RAK0062900
+Eeeek! R-Run awaaaay!
+@叫び揺れ
+CTG/CTG0014820G
+WAAAAIIIIT!
+common.asb

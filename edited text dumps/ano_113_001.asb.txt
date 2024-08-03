@@ -1,0 +1,46 @@
+__main
+@Lclearscreenall
+@ano_113
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0012230
+Rakuuu! How about a game of cards?
+RAK/RAK0062910
+Cards....?[nl]Don't tell me you mean Old Maid.
+SYU/SYU0012240
+Yeah, you guessed it.[nl]Well, no surprise there, since it's so popular, I guess.
+RAK/RAK0062920
+Yeah, well....[nl]I got into a real mess with Old Maid the other day.[nl]I'd rather avoid playing it if possible....
+SYU/SYU0012250
+Hmmmm....
+SYU/SYU0012260
+Onodera, Ruri![nl]Raku says he's not gonna play!
+RAK/RAK0062930
+Whaaat!?
+KSK/KSK0016850
+I see, that's a shame....[nl]Okay, should we go find someone else?
+RAK/RAK0062940
+What are you talking about, Shuu?[nl]Get out your cards.
+@expose
+KSK/KSK0016860
+Huh? Y-You do want to play?
+RAK/RAK0062950
+Of course I do, Onodera![nl]I'm always ready for a game!
+SYU/SYU0012270
+Pffft....[nl]It's too easy with you, man!
+RUR/RUR0012170
+If we're gonna play, we'd better hurry.[nl]Break period is almost over.
+SYU/SYU0012280
+I know! Let's make it so that the 1st place winner gets to[nl]tell everyone to do whatever he or she wants!
+KSK/KSK0016870
+H-Huhh!? You can't just spring this on us!
+SYU/SYU0012290
+It's already been decided! Come on, let's get started!
+RUR/RUR0012180
+I....I can't let Maiko win this game.
+RAK/RAK0062960
+Right. If we let him win, he'll almost certainly use[nl]his wish for something sexual-harassment-adjacent.
+RAK/RAK0062970
+(I'll do whatever it takes to stop Shuu from winning[nl]and protect Onodera!)
+@ババ抜き開始処理
+common.asb

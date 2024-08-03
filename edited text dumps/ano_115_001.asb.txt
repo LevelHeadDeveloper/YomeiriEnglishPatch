@@ -1,0 +1,195 @@
+__main
+@Lclearscreenall
+@ano_115
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0012590
+Alright, the polls are nearly closed! Once we've tallied[nl]up the results, we'll broadcast them in code, so make sure[nl]you bring the deciphering key home with you!
+MSA/MSA0000230
+Okay, I've settled on this girl!
+MSB/MSB0000190
+Me too, me too! Come to think of it,[nl]all the top spots are taken by girls from class 1-C!
+RAK/RAK0063220
+....What's with this crowd?
+SYU/SYU0012600
+Ohh. Raku, you should get over here and vote, too.
+RAK/RAK0063230
+Vote?
+@expose2
+SYU/SYU0012610
+"Bonyari High School's[nl]Most Beautiful Girl Contest (Fall Edition)"!
+SYU/SYU0012620
+A huge event just for guys, hosted by yours truly![nl]Of course, it must be kept secret from the girls!
+RAK/RAK0063240
+You're doing something dumb again.[nl]I don't care if they find out.
+@expose
+SYU/SYU0012630
+Heh. You can trust me on this.[nl]You don't see any girls in the corridor right now, right?
+RAK/RAK0063250
+No way....[nl]That was your doing, too?
+SYU/SYU0012640
+Heheheh. It was a snap to handle in 5 minutes.
+RAK/RAK0063260
+You're sure amazing at some weird things....[nl]But the way you use that power is infinitely stupid.
+SYU/SYU0012650
+Well then, allow me to give you an interim report.
+SYU/SYU0012660
+Basically, the most popular people in our class[nl]are Kirisaki, Onodera, Marika, and Seishiro.
+RAK/RAK0063270
+(Ohh, that's about who I expected.)
+SYU/SYU0012670
+Our class really is so blessed.[nl]To think we're home to some of the most[nl]beautiful girls in the school!
+SYU/SYU0012680
+Incidentially, to everyone's surprise, among those who[nl]received votes are Marika's attendant, Honda, and our[nl]homeroom teacher, Ms. Kyoko.
+SYU/SYU0012690
+Ruri also has a fair few supporters. Seems like she's[nl]got quite a lot of fans out there.
+RAK/RAK0063280
+If she finds out, you're seriously toast....
+SYU/SYU0012700
+So, who are you voting for?
+RAK/RAK0063290
+Huh? Me!?
+SYU/SYU0012710
+I've prepared you a ballot and everything, so please[nl]write in your vote! You may vote anonymously if you wish.
+SYU/SYU0012720
+Events like this are a lot more fun[nl]the more people participate, so please vote.
+RAK/RAK0063300
+Hmmmm.... Let's see.[nl]I'll go with....
+Chitoge
+Onodera
+Tsugumi
+Tachibana
+RAK/RAK0063310
+(Well, she would be pretty beautiful if she'd keep[nl] her mouth shut. Besides, we're officially[nl] a couple, so I'll vote for her....)
+RAK/RAK0063320
+Alright. I'm done, Shuu.
+@ＢＧＭ停止
+CTG/CTG0014940
+Hey, what are you doing?
+RAK/RAK0063330G
+Aah!?
+RAK/RAK0063340
+C-Chitoge....!?
+CTG/CTG0014950
+What's that? That paper?[nl]Is that something written on it?
+RAK/RAK0063350
+No, this is, umm....
+SYU/SYU0012740
+All units, fall back, fall back![nl]We're retreating!
+MSA/MSA0000240G
+AAAAAAAAAHHHH!
+RAK/RAK0063360
+Aaah, wait up![nl]I'm retreating too!
+CTG/CTG0014960
+Oh...wait![nl]Hang on a second!
+CTG/CTG0014970
+Jeez....what the hell was with them!?
+CTG/CTG0014980
+And Raku even dropped that paper he was holding....[nl]What's it say....?
+CTG/CTG0014990
+"Most Beautiful Girl Contest"?[nl]Hahh, that's ridiculous.
+CTG/CTG0015000
+....Whaa!?[nl]T-That's my name on there!
+@ザクシャ千棘・大
+CTG/CTG0015010
+Does he see me that way after all?
+CTG/CTG0015020
+No, no! That's not possible![nl]What the hell am I even saying!?
+CTG/CTG0015030
+Maybe it's just....[nl]He wrote this because we're supposed to be lovers?
+CTG/CTG0015040
+T-That must be it, right?
+RAK/RAK0063370
+(No contest, Onodera gets my vote![nl] Honestly, I'd rather not have anyone see this,[nl] but I can't just lie.)
+KSK/KSK0017160
+What are you guys doing?
+RAK/RAK0063380
+O-Onodera....!?
+KSK/KSK0017170
+What's on that paper? Are you all drawing?[nl]Sounds like fun! ♪
+KSK/KSK0017180
+Huh!? W-Why....!?
+KSK/KSK0017190
+Oh....Ichijo dropped his paper.[nl]Is it okay to look at it....?
+KSK/KSK0017200
+Let's see.... Huh!?[nl]"Most Beautiful Girl Contest"!?
+KSK/KSK0017210
+W-Whaaa!? Why is my name written on here!?
+KSK/KSK0017220
+D-Does that mean Ichijo put my name here!?[nl]B-But why....!?
+.......
+@ザクシャ小咲・大
+KSK/KSK0017230
+I'm happy, but it's also kind of embarrassing....[nl]Hehehehe....
+RAK/RAK0063390
+(I guess Tsugumi....[nl] She's probably pretty cute when she dresses like a girl.)
+SSR/SSR0020020
+What's this? Are you boys up to something?
+RAK/RAK0063400
+Tsugumi....!?
+SSR/SSR0020030
+Mgh.... What's that suspicious paper you've got?[nl]Lemme see that for a sec.
+RAK/RAK0063350
+No, the thing is, um....
+SSR/SSR0020040
+Ah, hey! Why are you all running away!?
+SSR/SSR0020050
+....Good grief, I don't understand this.
+SSR/SSR0020060
+Hm? Raku Ichijo dropped that paper he had.
+SSR/SSR0020070
+Hmmm.... "Most Beautiful Girl Contest"?[nl]Just another idiotic--
+SSR/SSR0020080
+Huh....?
+@ザクシャ誠士郎・大
+SSR/SSR0020090
+T-This is my name!?[nl]W-W-W-W-Why'd he do that!?
+SSR/SSR0020100
+W-Wait wait, calm down![nl]This has to be some kind of prank!
+SSR/SSR0020110
+T-T-There's no way Raku Ichijo thinks I'm cute or anything![nl]There's no way that could be true!
+SSR/SSR0020120
+Besides, I don't even care what[nl]Raku Ichijo thinks about me....
+SSR/SSR0020130
+So even if he *does* think I'm cute,[nl]that doesn't matter to me at all....
+SSR/SSR0020140
+....Nghh.
+SSR/SSR0020150
+GAAAAAAAAAAAAAAHHHH!
+SSR/SSR0020160
+Hahh, hahh, hahh....[nl]The next time I see him, I'll confront him about this.
+SSR/SSR0020170
+You'd better be ready, Raku Ichijo!
+RAK/RAK0063410
+(Tachibana's definitely got her fair share of issues,[nl] but if the question is whether or not she's beautiful,[nl] I'd have to say she's pretty cute....)
+RAK/RAK0063420
+(Seems like a pretty good idea to pick Tachibana.)
+MRK/MRK0011110
+I've finally found you, Raku dearest! ★
+RAK/RAK0063430
+T-Tachibana....!?
+MRK/MRK0011120
+Oh? What's everyone gathered up here for?[nl]And what's this little piece of paper for....?
+MRK/MRK0011130
+What? Where's everyone going?
+MRK/MRK0011140
+Oh? Raku dearest dropped his paper.[nl]I must bring it back to him posthaste.
+MRK/MRK0011150
+....But before I do that,[nl]let's see what's on it.
+MRK/MRK0011160
+Let's see. "Most Beautiful Girl Contest"?[nl]Well, this is most interesting.
+MRK/MRK0011170
+Oh? Isn't this....my name?
+@ザクシャ万里花・大
+MRK/MRK0011180
+D-Don't tell me! Raku dearest, you think I'm[nl]the most beautiful girl....!?
+MRK/MRK0011190
+N-No way....[nl]Then why?
+MRK/MRK0011200
+Why aren't you more proactive with me!?
+MRK/MRK0011210
+Raku dearesssst! Where are youuu!?
+MRK/MRK0011220
+Please tell me exactly what it is[nl]about me that you find cuuuuute!
+@イベント終了処理
+common.asb

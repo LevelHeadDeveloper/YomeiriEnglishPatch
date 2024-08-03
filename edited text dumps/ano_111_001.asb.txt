@@ -1,0 +1,230 @@
+__main
+@Lclearscreenall
+@ano_111
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0061960
+Shuu, let's go home together.
+SYU/SYU0011730
+Wanna stop and hang out somewhere on the way?
+RAK/RAK0061970
+Yeah, sounds good.
+@フェードアウト
+@ＢＧＭ停止
+@背景変更
+......
+SYU/SYU0011740
+Not much to do, is there.
+RAK/RAK0061980
+We've been doing stuff together since kindergarten, after all.[nl]We've done all the usual stuff already, and it's not like we[nl]can hit up a game center or karaoke with just us two....
+RAK/RAK0061990
+On the other hand, if we just grab a bite to eat[nl]and talk as usual, that seems like a waste....[nl]Is there anything interesting going on right now....?
+SYU/SYU0011750
+Hmmmm....
+@expose
+@ＢＧＭ再生
+SYU/SYU0011760
+Alright, let's hit on some girls!
+RAK/RAK0062000
+Huh!?
+SYU/SYU0011770
+The only thing we haven't done together is pick up girls,[nl]right? Let's get excited about some new encounters[nl]and add a little spice to our otherwise drab lives!
+RAK/RAK0062010
+I wouldn't say my life is exactly drab....
+SYU/SYU0011780
+You've got a cute girlfriend, right? It also looks[nl]like you're in love with another girl, and of course[nl]your fiancee is also after you.
+@expose2
+SYU/SYU0011790
+Your life may be very fulfilling, I'm sure,[nl]but I don't have any of those kinds of people in mine!
+SYU/SYU0011800
+Do you know how it feels to be alone?[nl]Can you find it in your heart to save me!?
+RAK/RAK0062020
+Ghh.... This is a really weird time to get sulky.
+SYU/SYU0011810
+Alright then, let's give it a shot![nl]If anything goes wrong, I'll take responsibility,[nl]so don't worry. ♪
+SYU/SYU0011820
+Look, there's some girls over there, so pick one[nl]and chat her up! All you really need is a good pickup line!
+RAK/RAK0062030
+Pickup line....[nl]I don't even know what to say to a girl I've never met before.
+SYU/SYU0011830
+All you gotta do is heap on the compliments![nl]Now go on, get moving!
+RAK/RAK0062040
+Damn, you're pushy.[nl]You're taking responsibility for this, right?
+SYU/SYU0011840
+Absolutely! Now, which girl are you gonna talk to?
+RAK/RAK0062050
+(Guess it can't be helped.[nl] Let's see....)
+The blonde one
+The tall one
+Think it over some more.
+RAK/RAK0062060
+H-Hey, there! You, the cutie with the beautiful hair![nl]Wanna go get some tea or something with us?
+CTG/CTG0014580
+....Huh? What are you doing?
+RAK/RAK0062070
+Gaah!? C-Chitoge!?
+CTG/CTG0014590
+Was that supposed to be a pickup line? Pfft....[nl]Aren't we getting a bit cocky for a bean sprout?
+RAK/RAK0062080
+Shaddup! It's kinda complicated....[nl]But there's also a simple explanation for why I'm doing this!
+CTG/CTG0014600
+Hmmm.....I don't care.
+CTG/CTG0014610
+Either way, you're supposed to be dating someone,[nl]so you shouldn't be hitting on other girls, right?
+CTG/CTG0014620
+On top of all that, you didn't even recognize me,[nl]the *person who is supposed to be your girlfriend*, and[nl]you tried to pick me up....
+RAK/RAK0062090
+Wait! I can explain!
+CTG/CTG0014630
+End of discussion![nl]GRIT YOUR TEEEEETH!
+RAK/RAK0062100
+Eeeeek!
+CTG/CTG0014640
+Oh! Stop running away!
+RAK/RAK0062110
+(I-I've got no choice but to run!)
+RAK/RAK0062120
+H-Hey, there! You, the tall, beautiful lady![nl]How'd you like to join us for a fun afternoo--
+SSR/SSR0019720
+Hahh.... Not another one of these guys.
+RAK/RAK0062130
+Gaah!? T-Tsugumi!?
+SSR/SSR0019730
+Whaa!? R-Raku Ichijo!?
+SSR/SSR0019740
+W-W-What do you think you're doing!?[nl]You said I was beautiful or something....
+RAK/RAK0062140
+No, no, it's kinda complicated....[nl]But there's also a simple explanation for why I'm doing this!
+SSR/SSR0019770
+!![nl]Come to think of it, he did say his type was "short black hair,[nl]aggressive, physically fit, but also kind of a scaredy-cat"....
+RAK/RAK0062150
+Huh? What are you muttering about?
+SSR/SSR0019780
+WAAAAAAAAAAAAAGH![nl]I WILL NEVER BECOME YOUR MISTRESS, NO MATTER WHAT!
+RAK/RAK0062160
+What are you talking about!?
+SSR/SSR0019750
+No, come to think of it, what *are* you doing!?[nl]You have the Mistress already, and yet here you are[nl]trying to pick up other girls!?
+RAK/RAK0076240
+Gaah!?
+SSR/SSR0009580
+Wait, Raku Ichijo!
+The quiet-looking one
+The tidy one with colored hair
+I don't want to do this.
+RAK/RAK0062180
+H-Hey, there! You, the cute young lady.[nl]Care to have a chat with us for a while?
+KSK/KSK0016780
+Huh....? C-Cute?
+RAK/RAK0062190
+O-O-O-O-O-Onoderaaaaa!?
+KSK/KSK0016790
+I-Ichijo!?
+RAK/RAK0062200
+Y-You've got it all wrong![nl]Basically, Shuu forced me to come out and hit on girls....![nl]Ummm, uhh....
+@expose
+KSK/KSK0016800
+C-C-Calm down, Ichijo!
+RAK/RAK0062210
+Sorry! I got pretty worked up there....
+RAK/RAK0062220
+(This is the worst! Of all the people I could have picked,[nl] I decided to hit on Onodera.... I'm such an idiot![nl] Die, me!)
+KSK/KSK0016810
+I-I guess you're a healthy, red-blooded male, Ichijo.[nl]Even you try to pick up girls sometimes....
+RAK/RAK0062230
+No, no. This is because Shuu forced me[nl]to pick someone up....
+KSK/KSK0016820
+That's right. It is important to spend quality time[nl]with your friends. I-I'm sorry for making you[nl]talk to me....
+RAK/RAK0062240
+(Aaagh! She's getting further away!)
+KSK/KSK0016830
+I-I'll be going now, okay?[nl]My sister's waiting for me over there....
+KSK/KSK0016840
+....See you later!
+RAK/RAK0062250
+A-Aaaaagh....!
+RAK/RAK0062260
+H-Hey, there! You, the cutie with the hair ornament.[nl]Do you have a moment to spare?
+MRK/MRK0010820
+Oh, my, Raku dearest!?
+RAK/RAK0062270
+Gah, Tachibana!? Is was you!?
+MRK/MRK0010830
+Of course it's meeeee!
+MRK/MRK0010840
+I must say I'm surprised that you're the type to[nl]pick up girls, but I'm even more surprise that you'd[nl]try to pick up me!
+MRK/MRK0010850
+I have however many moments to spare that you need![nl]Because from this moment on, we're gonna be a married couple!
+RAK/RAK0062280
+Blrrrrf![nl]M-Married couple!?
+MRK/MRK0010860
+Now then, let us be off to town hall on the high note[nl]of you picking me up! We must sign the marriage registration and go straight[nl]to the wedding hall before you change your mind!
+RAK/RAK0062290
+Calm down calm down calm down![nl]There's a simple explanation for this, but it's also complicated....!
+@expose2
+MRK/MRK0010870
+No matter the circumstances, the fact is you picked me up.[nl]This must be reported to my father!
+RAK/RAK0062300
+STOOOOPPPP IIIITTTT!
+RAK/RAK0062310
+AAAAAAAAAAAGGH!
+MRK/MRK0010880
+Aah, Raku dearest![nl]Don't run away!
+RAK/RAK0062410
+Uhh, no, I don't think I wanna do this after all.
+SYU/SYU0011880
+Awww, why not!?
+RAK/RAK0062420
+Just listen to me! I don't wanna do this,[nl]so just let me be this time!
+SYU/SYU0011890
+Huh!? Y-Yeah....[nl]W-Well, if you really insist....
+RAK/RAK0062430
+(I can't put my finger on why....[nl] But I feel like no matter which of them I chose,[nl] there would have been an absolute minefield in store for me....)
+@時間経過演出
+RAK/RAK0062320
+(Hahh. What a mess I've gotten myself into.[nl] I shouldn't have tried picking her up....)
+RAK/RAK0062330
+Hey, Shuu. I'm sorry, but today I can't....
+RAK/RAK0062340
+Huh? Shuu? Where'd he go?
+@ＢＧＭ再生
+RUR/RUR0012130
+Maiko's right here. Under my feet.
+SYU/SYU0011850
+Glbctkh....I'd never have....guessed....[nl]that the person I was trying to pick up was....Ruri....[nl]H-How careless of me....
+SYU/SYU0011860
+Gaackh....
+RAK/RAK0062350
+Shuu!? Speak to me, man!
+CTG/CTG0014650
+So, Darling. You're more worried for him than for yourself.
+RAK/RAK0062360
+Eek...!
+CTG/CTG0014660
+You massively stupid bean sprout, going out[nl]and hitting on girls....
+SSR/SSR0019800
+Are you really more worried about him[nl]than you are for yourself, Raku Ichijo?
+SSR/SSR0019810
+I wouldn't have thought you'd have the gall to[nl]try to pick me up.... That was just plain reckless[nl]on your part.
+SSR/SSR0019820
+For that, you're getting sanctions more terrifying than death!
+RUR/RUR0012140
+Can you really afford to be more worried[nl]about him than yourself, Ichijo?
+RAK/RAK0062370
+Huh?
+RUR/RUR0012150
+I heard all about it. You were picking up girls[nl]right along with this scum, weren't you?
+RAK/RAK0062380
+(Aaaaaagh! Shuu, you bastard!)
+RUR/RUR0012160
+Sweet dreams, Ichijo.
+@フェードアウト1000
+@ＨＰ－５０
+RAK/RAK0062390
+GAAAAAAAAAAACCKKHHH!
+SYU/SYU0011870
+So this....this is how it always goes....
+RAK/RAK0062400
+This is how it always goes....[nl]when I go along with your plans....
+@イベント終了処理
+common.asb

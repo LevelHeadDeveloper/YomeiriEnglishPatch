@@ -1,0 +1,206 @@
+__main
+@Lclearscreenall
+@ano_604
+@ババ抜き終了処理
+@ano_604_shu
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0012300
+Heheheh. So it's me who wins in the end, then!
+SYU/SYU0012310
+Now then, I'd better give my orders.[nl]Everyone, you listening?
+RAK/RAK0062980
+....Gaaah, I'm so pathetic!
+SYU/SYU0012320
+Okay....
+@expose2
+SYU/SYU0012330
+Ruri, Onodera, I want you each to kiss me[nl]on the cheek! Raku, you can just watch.
+@expose
+KSK/KSK0016880
+H-Huuuhhh!?
+RAK/RAK0062990
+H-Hey, you can't ask them for that!
+RUR/RUR0012190
+------!!
+@キャラ揺らし
+SYU/SYU0012340
+Glbctkh!
+RUR/RUR0012200
+We decline.
+SYU/SYU0012350
+Ghhh....[nl]Well then, both of you hug in front of me and then--
+SYU/SYU0012360
+Glbctkh!?
+RUR/RUR0012210
+SYU/SYU0012370
+Okay then, here in my lap I want you to--
+SYU/SYU0012380
+Waaaagh!? Why do you have brass knuckles!?[nl]Time out, time out!
+SYU/SYU0012390
+B-Blrffff....
+SYU/SYU0012400
+Dammit.... Then both of you can just shake my hand.
+RUR/RUR0012220
+Tch....[nl]Very well. Me first.
+RUR/RUR0012230
+Come on, Kosaki, hurry up.[nl]It's a direct order from the champion.
+KSK/KSK0016890
+O-Okay....
+KSK/KSK0016900
+Here you go.
+SYU/SYU0012410
+Paaaiiin....
+RAK/RAK0063000
+(Shuu....you might've been better off[nl] if you'd just resigned quietly.)
+@イベント終了処理
+@ano_604_rur
+RUR/RUR0012240
+Looks like I win.
+KSK/KSK0016910
+Good job, Ruri!
+SYU/SYU0012420
+Yeah! That's Ruri for ya![nl]You worked really hard for that victory.
+RAK/RAK0063010
+(I'm a bit disappointed that I didn't win,[nl] but at least we stopped Shuu from winning too, so that's fine....)
+RUR/RUR0012250
+Alright, what should I ask you to do....
+@expose
+RUR/RUR0012260
+I know. How about Kosaki and Ichijo[nl]hug each other for a full minute?
+KSK/KSK0016920
+M-Me!?
+RAK/RAK0063020
+B-But why!?
+RUR/RUR0012270
+I was under the impression you'd do whatever the winner wanted.
+RAK/RAK0063030
+B-But then it would be like a punishment for Onodera....
+KSK/KSK0016930
+T-That's not true....[nl]But maybe Ichijo wouldn't like it too much....
+RAK/RAK0063040
+No no no no no![nl]I wouldn't really....dislike it, but....
+RUR/RUR0012280
+----
+SYU/SYU0012430
+Ruri, Ruri! Who do you want me to hug!?
+RUR/RUR0012290
+How about hugging one of these desks?
+SYU/SYU0012440
+So mean!
+RUR/RUR0012300
+Well? Are you two going to do it?
+KSK/KSK0016940
+........![nl]Ruri, you're so mean....
+RAK/RAK0063050
+E-Even if this is what you asked us to do....
+.......
+RUR/RUR0012310
+Just kidding. The rule about doing what the winner says[nl]was made up by Maiko, so it doesn't count, right?
+KSK/KSK0016950
+Oh, I-I guess it doesn't.[nl]Ha, ha ha ha....
+RUR/RUR0012320
+Sigh....
+RAK/RAK0063060
+(Uuugh....[nl] I'm glad she was joking, but now I feel[nl] a bit lonely....)
+@イベント終了処理
+@ano_604_rak
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0063070
+Alriiight! I win!
+SYU/SYU0012450
+Awww, can't believe I lost....
+KSK/KSK0016960
+Good work, Ichijo!
+RAK/RAK0063080
+(Oohh! That admiring gaze from Onodera....!)
+RUR/RUR0012330
+Now....what will you have us do?
+SYU/SYU0012460
+Anything you like, we could make it happen.[nl]For example, you could have Kosaki change into a swimsuit[nl]of your choice.
+KSK/KSK0016970
+Whaaaat!?
+RUR/RUR0012340
+Or maybe you'd like to pin down Kosaki.
+KSK/KSK0016980
+WHAAAAAA!?
+SYU/SYU0012470
+You could take Onodera to an amusement park.
+RUR/RUR0012350
+Or you could even go home with Kosaki?
+KSK/KSK0016990
+W-Why are these all about me!?
+RAK/RAK0063090
+T-That's right! That seems weird!
+SYU/SYU0012480
+Because *I* don't want to have to do anything[nl]for your wish, Raku. ♪
+RUR/RUR0012360
+I can't say I feel right about agreeing with this,[nl]but I do. I don't want to die either.
+RAK/RAK0063100
+Y-You guys realize you're saying some really[nl]messed up things really casually, right?
+SYU/SYU0012490
+So we're both counting on Onodera to bail us out.
+RUR/RUR0012370
+Good luck, Kosaki!
+KSK/KSK0017000
+W-Why are you doing this!?
+SYU/SYU0012500
+Right then, whaddya want, Raku!?
+RUR/RUR0012380
+Where are you gonna go down on Kosaki!?
+RAK/RAK0063110
+Y-You know I can't do that![nl]Enough, everyone!
+KSK/KSK0017010
+Aaah! Aaah! Aaah! Aaah!
+RUR/RUR0012390
+Hahhh.... I guess it can't be helped.
+RUR/RUR0012400
+Okay then, Kosaki and Ichijo, you go buy us some drinks.[nl]I'll let you off with just that.
+SYU/SYU0012510
+No objections here! Is that alright with you, Onodera?
+KSK/KSK0017020
+Y-Yeah. I mean....is that okay?
+RAK/RAK0063120
+I-I don't really mind, either....
+RAK/RAK0063130
+(Actually, I'm glad it's me and Onodera going together.)
+RUR/RUR0012410
+Okay, off you two go.
+RAK/RAK0063140
+R-Right....[nl]Shall we, Onodera?
+KSK/KSK0017030
+O-Okay....[nl]Let's go, then.
+@expose2
+SYU/SYU0012520
+Pffft....![nl]Nice work there, Raku. ♪
+RAK/RAK0063150
+Shaddup, Shuu!
+RAK/RAK0063160
+(Wait, huh?[nl] Why am I taking orders when I was in first place!?)
+@ano_604_ksk
+KSK/KSK0017040
+....I-I did it.
+KSK/KSK0017050
+I did it, Ruri![nl]I won!
+RUR/RUR0012420
+Nice one, Kosaki.
+SYU/SYU0012530
+Mrghhh....[nl]To think I'd lose to Onodera.
+RAK/RAK0063170
+(I'm with him....[nl] How could she win with such a bad poker face!?)
+SYU/SYU0012540
+So, what are your orders, Onodera?
+KSK/KSK0017060
+Orders....? Hmmm....[nl]I don't really have any.
+KSK/KSK0017070
+Right now I'm happy enough just having won first place.
+RUR/RUR0012430
+....If that's what you want, Kosaki,[nl]I don't have a problem with that.
+SYU/SYU0012550
+Me neither. She said it with such a nice smile,[nl]it would be rude to push her.
+RAK/RAK0063180
+Right. Congratulations, Onodera.
+KSK/KSK0017080
+Thanks, guys!
+common.asb

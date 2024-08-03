@@ -12,16 +12,16 @@ Pocket Tissues
 Some pocket tissues.[nl]It is good etiquette to carry these.
 R_Item02
 Energy Drink
-A drink rumored to give you a half-day's worth of energy[nl]from even one bottle. (Two bottles has the same effect.)
+A drink rumored to give you a half-day's[nl]worth of energy from even one bottle.
 R_Item03
 Coupon
 A voucher for a very popular ice cream shop.[nl]Very popular for those with a sweet tooth!
 R_Item04
 Bandages
-A few adhesive bandages.[nl]Skin-colored, so they blend in when applied.
+A few adhesive bandages.[nl]Skin-colored, so they blend in.
 R_Item05
 Japanese Sweets
-A special sweet from Onodera's sweet shop.[nl]The refreshing sweetness is popular even among men.
+A special sweet from Onodera's sweet shop.[nl]The refreshing sweetness is popular.
 R_Item06
 Marshmallow
 A few marshmallows from Onodera.[nl]Some are plain and some are strawberry.
@@ -33,70 +33,70 @@ Tea
 Paper teabags.[nl]Good to drink when you want to relax.
 R_Item09
 Japanese Dictionary
-A potent weapon![nl]Use this when you find a difficult Japanese word.
+A potent weapon! Use this[nl]when you find a difficult Japanese word.
 R_Item10
 Magazine
 A magazine for the hip youth.[nl]Ideal for gathering information on dating spots.
 R_Item11
 Ningyoyaki
-Ningyoyaki (a kind of cake shaped like a doll).[nl]The vendor is quite proud of it.
+A kind of cake shaped like a doll.[nl]The vendor is quite proud of it.
 R_Item12
 Old Photo
-A faded photo of Raku with Marika Tachibana.[nl]Her innocent smile brightens it up.
+A faded photo of Raku with Marika.[nl]Her innocent smile brightens it up.
 R_Item13
 Body Warmer
-A reliable body warmer that warms up in 5 seconds.[nl]Keeps you snug for about a half day.
+A reliable body warmer.[nl]Keeps you snug for about a half day.
 R_Item14
 Stuffed Tiger
-A stuffed animal used by one class at the Culture Festival.[nl]It's ugly enough to make babies cry.
+A stuffed animal used at the Festival.[nl]It's ugly enough to make babies cry.
 R_Item15
 Pencil
 A seemingly ordinary pencil.[nl]If you're stumped by something, give it a spin.
 R_Item16
 Earrings
-Earrings from a famous brand.[nl]Some say that if a boy gives them to a girl, she will be thrilled.
+Earrings from a famous brand. Some say that if[nl]a boy gives them to a girl, she will be thrilled.
 R_Item17
 Candies
-Assorted candies, the kind you can get for 100 yen per bag.[nl]Some teachers suck these instead of smoking.
+Assorted candies, 100 yen per bag.[nl]Some teachers suck these instead of smoking.
 R_Item18
-Picture Book
-A book on how to raise maniac animals.[nl]Essential reading for all animal lovers
+Illustrated Book
+A book on how to raise maniac animals.[nl]Essential reading for all animal lovers.
 R_Item19
 Handkerchief
-A luxury cloth handkerchief from a high-end clothing store[nl]favored by the Beehive. Sometimes called a "hanky".
+A luxury cloth handkerchief.[nl]Sometimes called a "hanky".
 R_Item20
 Music CD
-A compliation album of healing classics. Soothing enough[nl]to put you to sleep, but be careful not to oversleep!
+A compliation album of healing classics.[nl]Soothing enough to put you to sleep.
 R_Item21
 Chinese Poems
-This particular collection was said to arouse sympathy from[nl]middle and high school boys, shooting it to best-seller status.
+This particular collection was said to arouse[nl]sympathy from middle and high school boys.
 R_Item22
 Waka-Waka World
-A popular retro game known for its memorable characters.[nl]Makes you want to grab some friends and play, right?
+A popular retro game known for its characters.[nl]Makes you want to play with friends, right?
 R_Item23
 Bear Statue
-A souvenir that someone bought for you long ago, and[nl]you don't want to leave at school but don't have room for.
+A souvenir that someone bought for you, and[nl]you don't have room at home for it.
 R_Item24
 Phone Strap
-A strap with a cute fox figurine on it.[nl]The sort of thing you should always have on your phone.
+A strap with a cute fox figurine on it. The sort[nl]of thing you should keep on your phone.
 R_Item25
 Scented Wax
-Assorted packs of scented wax that really lift your mood.
+Assorted packs of scented wax[nl]that really lift your mood.
 R_Item26
 Music Box
-An antique-style music box.[nl]The varnish is peeling, which makes it look even older.
+An antique-style music box. The varnish[nl]is peeling, which makes it look even older.
 R_Item27
 Barette
 A hair clip for fine women.[nl]The design is painstakingly detailed.
 R_Item28
 Bracelet
-A silver and leather bracelet.[nl]Casual and fashionable to increase the wearer's power.
+A silver and leather bracelet. Casual[nl]and fashionable to increase the wearer's power.
 R_Item29
 Power Stone
-A lovely ball of polished green quartz.[nl]Said to bring good luck by just placing it in a room.
+A lovely ball of polished green quartz. Said[nl]to bring good luck by just placing it in a room.
 R_Item30
 Potted Cactus
-A small potted cactus.[nl]Even though it's small, it's still prickly. Be careful.
+A small potted cactus. Even though it's[nl]small, it's still prickly. Be careful.
 M
 TABLE
 GOP_TYPE

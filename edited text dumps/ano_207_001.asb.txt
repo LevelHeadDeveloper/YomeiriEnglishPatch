@@ -1,0 +1,18 @@
+__main
+@Lclearscreenall
+@ano_207
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0062740
+Hm....?[nl]An email from Shuu.
+SYU/SYU0012220
+RAK/RAK0062750
+What the heck is this business-like email....?[nl]Seems too suspicious.
+RAK/RAK0062760
+Hm? Theres a bit more on the bottom....[nl]Let's see....
+RAK/RAK0062770
+"P.S: Delete this email the second you have read it.[nl] If a girl sees this, it will be the end for us both."
+RAK/RAK0062780
+Scary![nl]Don't get me involved in weird stuff like that!
+@イベント終了処理
+common.asb

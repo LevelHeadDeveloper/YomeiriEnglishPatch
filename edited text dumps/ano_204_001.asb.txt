@@ -1,0 +1,27 @@
+__main
+@Lclearscreenall
+@ano_204
+@イベント開始処理
+@定型ＢＧＭ再生
+MSA/MSA0000220
+Good morning, Shuu![nl]Thanks for *that thing*!
+MSB/MSB0000180
+Hey, Maiko. About *that thing*....[nl]Thanks again!
+MSC/MSC0000080
+Maiko.... Thanks again for *that thing*.
+SYU/SYU0012010
+Of course, of course![nl]Maaan, I'm so popular!
+RAK/RAK0062530
+You really do know a lot of people.[nl]But what is *that thing*?
+SYU/SYU0012020
+I've been steadily expanding my network of acquaintances[nl]ever since junior high, so this is just normal routine for me.
+RAK/RAK0062540
+Hmmm....[nl]So, what is *that thing* they were talking about?
+MSD/MSD0000010
+M-Maiko! I need to talk to you about *that thing*!
+SYU/SYU0012030
+Okay. See you later, Raku!
+RAK/RAK0062550
+But, like, what is *that thing* they keep mentioning!?
+@イベント終了処理
+common.asb

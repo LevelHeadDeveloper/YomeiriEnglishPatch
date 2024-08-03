@@ -1,0 +1,39 @@
+__main
+@Lclearscreenall
+@ano_202
+@イベント開始処理
+@定型ＢＧＭ再生
+SYU/SYU0011930
+Hmm.....mhmhmhm....
+RAK/RAK0062460
+Hm? What are you looking at, Shuu?
+@expose
+SYU/SYU0011945
+Well....I'm pretty sure the reason you met Kirisaki[nl]is that she kneed you in the face when she jumped over[nl]that wall, right?
+SYU/SYU0011955
+So! If I stand under a wall like this,[nl]I might have a chance at meeting a fantastic girl, too!
+RAK/RAK0062470
+No way. Even if that were true,[nl]she'd be the sort of girl to jump over walls, right?[nl]She'd have to be someone as outrageous as Chitoge.
+SYU/SYU0011960
+Haha, so she would.
+CTG/CTG0014670
+I'm so sorry I'm outrageous.
+RAK/RAK0062480G
+Geh!?
+@expose2
+CTG/CTG0014680
+What's going on, you....stupid bean sprooouuut!?
+RAK/RAK0062490
+W-Waaaagh!? That was too close!
+CTG/CTG0014690
+Tch! What are you doing!?[nl]You should have just taken the hit like an adult!
+SYU/SYU0011980
+Sorry, Raku.[nl]I'm just gonna go ahead and make my escape now.
+RAK/RAK0062500
+Aah! Shuu, you bastard, don't leave!
+CTG/CTG0014700
+Don't you think about escaping, too![nl]Stupid bean sprout!
+RAK/RAK0062510
+(Aaagh, dammit![nl] It's still morning and I'm already tired!)
+@イベント終了処理
+common.asb

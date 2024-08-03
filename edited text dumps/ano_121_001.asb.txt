@@ -1,6 +1,6 @@
 __main
 @Lclearscreenall
-@hol_004
+@ano_121
 @イベント開始処理
 @ＢＧＭ再生
 SYU/SYU0012800
@@ -125,7 +125,7 @@ N-No, you can just use it normally.[nl]It wasn't that expensive.
 MRK/MRK0011530
 But it's something you gave me, Raku dearest.[nl]It's worth more to me than any expensive gift.
 SSR/SSR0020470
-Hmm... Earrings?[nl]I don't think I've ever worn something like these...
+Hmm.... Earrings?[nl]I don't think I've ever worn something like these...
 RAK/RAK0064680
 Tsugumi, you actually got them!
 SSR/SSR0020480
@@ -159,19 +159,5 @@ RAK/RAK0064740
 Right, right... I get it.[nl]You're angry, probably embarrassed...[nl]You're probably having a tough time.
 RAK/RAK0064750
 (I'm glad she liked the present.)
-@イベント開始処理
-@ＢＧＭ再生
-RAK/RAK0066660
-Is today Sunday....?
-RAK/RAK0067330
-I don't really have any errands,[nl]so I'll do some housework....
-OTM/OTM0007760
-Thou art a real pain.[nl]Thou hast been so carefree all this time,[nl]and the promised month is almost up.
-RAK/RAK0067340
-Hmm.... Well, what will be will be, right?
-OTM/OTM0007780
-Thou art too carefree. Jeez.
-RAK/RAK0067350
-(I was able to do some housework on Sunday.)
 @イベント終了処理
 common.asb

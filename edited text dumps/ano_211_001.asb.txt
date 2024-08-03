@@ -1,0 +1,48 @@
+__main
+@Lclearscreenall
+@ano_211
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0065720
+Good grief....I just can't let down my guard with you.[nl]I should never have brought you shopping with me.
+OTM/OTM0006930
+Stingy, stingy, stingy.[nl]Why couldn't thou not buyeth me a few sweets,[nl]or 10 or 20 packs of fried tofu?
+RAK/RAK0065730
+I'd have spent my family's entire grocery budget[nl]if I did that!
+RAK/RAK0065740
+Good grief, and you put so many sweets and packs of[nl]fried tofu in the basket, it was a pain to put them all[nl]back on the shelf.
+@expose
+OTM/OTM0006940
+But I figured if we buyeth a lot of sweets now,[nl]I might eateth them slowly and comfortably.
+OTM/OTM0006950
+I did this with the best of intentions,[nl]without dreaming I might get punished for it....
+OTM/OTM0006960
+*sniff* *sob*
+RAK/RAK0065750
+H-Hey, hey, don't cry, okay?
+OTM/OTM0006970
+I'm not crying!
+OTM/OTM0006980
+*sniffle*
+RAK/RAK0065760
+(Jeez.... Even though she said she was a fox goddess,[nl] she's really just a child. I could have bought her[nl] just one thing....)
+RAK/RAK0065770
+Hm....?
+RAK/RAK0065780
+What's this?[nl]"'Ultimate' Ukari Tofu"?
+RAK/RAK0065790
+Wait, this is a super-high-grade fried tofu[nl]that costs 500 yen apiece!
+OTM/OTM0006990
+Heheh.... All those sweets and packages of ordinary[nl]fried tofu were just a distraction. I beat you!
+RAK/RAK0065800
+I've been had![nl]So this was your real intention, wasn't it!?
+OTM/OTM0007000
+Whilst thou busied thyself putting the other things back,[nl]I hid this at the bottom of the basket!
+OTM/OTM0007010
+Thou hast been completely tricked, Raku![nl]Hohoho! I'm one step ahead of thee!
+RAK/RAK0065810
+....I'll eat this myself,[nl]and you'll get no dinner.
+OTM/OTM0007020
+That's not fair!
+@イベント終了処理
+common.asb

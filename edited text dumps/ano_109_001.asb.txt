@@ -1,0 +1,42 @@
+__main
+@Lclearscreenall
+@ano_109
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0011460
+Mmph....there we go. Phew....
+RAK/RAK0061580
+Shuu, what's with all those boxes?
+SYU/SYU0011470
+Oh, these? Ms. Kyoko asked me to fetch these for her.[nl]I'm told they're full of documents and stuff.
+RAK/RAK0061590
+Hmmmm.... I know I get asked to do things a lot,[nl]but Ms. Kyoko's always making you do stuff, too.[nl]Isn't that hard?
+SYU/SYU0011480
+Haha, I don't really mind.[nl]All those little points I'm earning really add up.
+RAK/RAK0061600
+Earning points?[nl]Are you trying to get her to raise your test scores?
+RAK/RAK0061610
+It's not like I don't see where you're going with that,[nl]but even though she seems kinda careless, she's actually[nl]very stringent about this sorta thing. It definitely won't work.
+SYU/SYU0011490
+Hahaha, maybe you're right.[nl]Well, I'm going to give it a shot either way.
+SYU/SYU0011500
+Alright, I'm off.
+RAK/RAK0061620
+Okay.... You need a hand with these?
+SYU/SYU0011510
+Thank you.[nl]I'd love some help with this.
+SYU/SYU0011520
+There's no point in doing things like this[nl]if you have to do them alone.
+RAK/RAK0061630
+....Whaddya mean?
+SYU/SYU0011530
+Oh, Onodera's behind you.
+RAK/RAK0061640
+Whaaaat!?
+@expose
+SYU/SYU0011540
+Just kidding! ♪[nl]See ya, Raku!
+RAK/RAK0061650
+....Why would you tell a joke like that!?
+@イベント終了処理
+common.asb

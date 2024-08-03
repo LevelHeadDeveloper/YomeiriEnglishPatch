@@ -206,12 +206,12 @@ Tightly
 Gently
 R_SPIRIT24
 ssr_004_01
-Apology?
-Unusual
+Want an apology?
+Seems out[nl]of character
 Do it cutely
 Smile
 No need
-All good
+It's okay
 Off-key
 R_SPIRIT25
 mrk_001_01

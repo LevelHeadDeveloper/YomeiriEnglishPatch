@@ -4,116 +4,116 @@ __main
 @イベント開始処理
 @ＢＧＭ再生
 SYU/SYU0010100
-ふむふむ……。む！　ううむ……！
+Mhm, mhmm....[nl]Hm!? Mhm....
 RAK/RAK0060630
-なにやってんだ、集？双眼鏡なんか持って。
+What are you up to, Shuu?[nl]What's with those binoculars....?
 SYU/SYU0010110
-すこし、黙っていてくれ。集中したいんだ。
+Be quiet for a sec. I'm trying to concentrate.
 RAK/RAK0060640
-お、おお……？
+O-Okay....?
 SYU/SYU0010120
-――――。
+----
 RAK/RAK0060650
-（集の緊張感がこっちにまで伝わってくるぜ。　あいつがここまで真摯に取り組むことって　いったい……）
+(I can practically feel the tension emanating[nl] from Shuu. I wonder what in the world it is[nl] he could take *this* seriously....)
 @ＢＧＭ停止
 SYU/SYU0010130
-……Ｃ。
+....C.
 SYU/SYU0010140
-Ｄ、あっちはＡ……むっ、あれはＥに限りなく近いＤか！　す、素晴らしいっ！
+D, and that one's A....[nl]Hm! That one's a D, almost an E![nl]E-Exquisite!
 RAK/RAK0060660
-……なにしてんだ？
+....What are you doing?
 SYU/SYU0010150
-見てわからんかね？バストサイズの目測だ！
+Isn't it obvious!?[nl]I'm estimating bust sizes!
 SYU/SYU0010160
-以前は水着の上からしかサイズを図ることができなかったが、いまの私は違うのだよ。
+In the past I was only able to do this for girls[nl]wearing swimsuits, but I've improved.
 SYU/SYU0010170
-日頃から鍛錬を重ねることで、体操着からでもなんとな～く分かる能力を手に入れてしまったのだ！なんとなくだがな！
+Through constant training, I have acquired the ability[nl]to guess a bust size through even gym clothes![nl]Somehow or other, I've done it!
 RAK/RAK0060670
-しょ、しょうもな……。
+S-Seems useless....
 SYU/SYU0010180
-おおっ！？
+Ooh!?
 SYU/SYU0010190
-このサイズは、Ｃ、いやＤ……なっ！　なんだと！Ｅを遙かに超える、お、大型……！　なんという迫力！！
+T-That one has to be a C, no, a D.... What!?[nl]What is this!? They're bigger even than E, they're huge....![nl]What a powerful presense!
 SYU/SYU0010200
-ん？　だけど、このレベルの女子ってクラスにひとりしかいなかったような……
+Hm? But last I knew, there was only one[nl]girl in our class on that level....
 SSR/SSR0019570
-なにをしている、舞子集。
+What do you think you're doing, Shuu Maiko?
 SYU/SYU0010210
-あ……。
+Uh....
 CTG/CTG0014530
-もう、舞子君の変態ぶりったら……一度懲らしめないとダメかしら？
+God, you're such a pervert, Maiko....[nl]I guess we'll have to punish you once and for all,[nl]won't we?
 SYU/SYU0010220
-あ、あれれ～？どうして女子のみなさんがこっちへ来ているのかな～？
+W-Whaaaat?[nl]Why are all those girls coming towards me?
 @expose
 CTG/CTG0014540
-あれだけ大きな声でしゃべってればバレるわよ。
+They're bound to hear when you talk as loudly[nl]as you did back there.
 SSR/SSR0019580
-覚悟はできているんだろうなぁ？　ん？
+Are you ready for what we're gonna do?[nl]Hm?
 SYU/SYU0010230
-ひゃ～！　だ、誰か助けて～！
+Hyaaaaagh! S-Someone help meeee!
 SYU/SYU0010240
-……あ。
+....Oh.
 SYU/SYU0010250
-……Ａ。これは目測するまでも……
+....You're an A cup.[nl]Don't even need to guess....
 @expose2
 RUR/RUR0011730
-ふん！！
+Hmph!
 @キャラ揺らし
 SYU/SYU0010260
-ぐぼぁっはぁ！！
+Glbtckhh!
 RUR/RUR0011740
-なんか知らないけど、すごくバカにされた気がするわ。
+I can't quite put my finger on it,[nl]but I feel like I've been made fun of.
 CTG/CTG0014550
-自業自得ね。
+You get what you deserve.
 SSR/SSR0019590
-女の敵は死ぬがいい。
+Die, enemy of women.
 SYU/SYU0010270
-ヒィ～～～～ッ！ら、楽！　助けて！
-集を助ける。
-集を見送る。
+Eeeeeeeeeeek! R-Raku! Help meeeee!
+Help Shuu
+Leave Shuu
 RAK/RAK0060680
-（ったく、しょうがねぇなぁ……。）
+(Good grief, I guess I have to....)
 RAK/RAK0060690
-タンマタンマ！落ち着け、みんな！！
+Hey, time out![nl]Calm down, everyone!
 CTG/CTG0014560
-なによ、楽。
+Whaddya want, Raku?
 SSR/SSR0019600
-一条楽。止めるということは貴様も……？
+Raku Ichijo.[nl]Don't tell me you're asking us to stop because you're....
 RUR/RUR0011750
-場合によっては、ただでは済まないわよ？
+You know in some cases, something like this[nl]is gonna come with consequenses, right?
 RAK/RAK0060700
-（こ、こええよ、みんな！！）
+(T-They're beyond scary!)
 SYU/SYU0010280
-ひ、ひぃぃ！！ごめんなさい！　ごめんなさい！！
+E-Eeeeek! I'm sorry![nl]I'm soorrrrryyy!
 RAK/RAK0060710
-ほ、ほら。さすがに集も反省してるみたいだし、その辺で勘弁してやれねーか？
+L-Look. Shuu seems to be feeling remorseful now,[nl]so can't you just let him go?
 RUR/RUR0011760
-無理ね。
+No way.
 @画面揺らし
 SYU/SYU0010290
-ぎゃはっ！！そ、そこは楽の顔に免じて許す流れじゃ……。
+GAAAAHH![nl]P-Perhaps you should listen to Raku and let me go....
 SSR/SSR0019610
-まだしゃべる元気があるようだな。
+You still seem to have the energy to talk.
 SYU/SYU0010300
-せ、誠士郎ちゃん……ゆるひて……。
+S-Seishiro....[nl]Why won't you forgive me....
 SSR/SSR0019620
-せめてもの情けだ。安らかに眠れ。
+Not forgiving you is the least I can do.[nl]Rest in peace.
 @フェードアウト1000
 SYU/SYU0010310
-へっ！？　む、むりむり！！　そんなの入らないから！！あのね、るりちゃん！？　それはダメだよ？イヤだって！！！　おねがい、それだけはっ！！
+Huh!? N-No, no! There's no way that's gonna fit![nl]Excuse me, Ruri!? You know it won't, right!? Cut it out![nl]I'm begging you, don't!!
 SYU/SYU0010320
-ひ、ひぎゃあああああああっ！！
+G-GAAAAAAAAAAAAAAHHHHH!
 RAK/RAK0060720
-すまん、集。オレの力で助けられるわけがなかったよ……。
+Sorry, Shuu.[nl]There's nothing I could do with just my strength....
 SYU/SYU0010330
-あれ？　楽は！？オレの親友はどこに！？
+Huh? Where are you, Raku!?[nl]Where's my best buddy gone!?
 SSR/SSR0019630
-うるさいぞ、この変態メガネ！
+Shaddup, you four-eyed pervert!
 RUR/RUR0011770
-こいつにメガネをかける価値はないわ。粉々になるまでぶっ壊す。
+He's not even worthy of his glasses.[nl]I'll smash them to pieces.
 CTG/CTG0014570
-変態は滅殺よ！！
+Exterminate the perverts!
 RAK/RAK0060730
-（自業自得だ、集……。　オレは巻き込まれる前に退散させてもらったぜ）
+(You had it coming, Shuu....[nl] I had to get outta there before I got dragged into it.)
 @イベント終了処理
 common.asb

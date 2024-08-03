@@ -1,0 +1,61 @@
+__main
+@Lclearscreenall
+@ano_206
+@イベント開始処理
+@定型ＢＧＭ再生
+RAK/RAK0062600
+(Uughhh....[nl] My body's in tatters, I can't even move....)
+RAK/RAK0062610
+(....Times like these, you really want[nl] someone to come treat you nicely.[nl] ....Like Onodera, for instance.)
+RAK/RAK0062620
+(I wonder if Onodera will come visit me.[nl] I doubt it, though.... Haha.)
+RAK/RAK0062630
+Huh!? ....With this timing, could it be!?
+RAK/RAK0062640
+Alright, alright, I'm coming![nl]Owowowow....
+@背景変更
+SYU/SYU0012110
+Heya, Raku. You weren't looking too good when you went home,[nl]so I figured I'd drop in and see how you're doing.
+RAK/RAK0062650
+....What the hell, Shuu.[nl]You ran all this way for that?
+SYU/SYU0012120
+You're treating me this badly when I came[nl]all the way over here for you....
+RAK/RAK0062660
+Whoops, sorry.[nl]Thanks for coming to see me.
+SYU/SYU0012130
+Hmph.... Is that really the best you can do?[nl]And after I brought you this truly special thing.
+RAK/RAK0062670
+Thing?
+@expose
+SYU/SYU0012140
+Yup, to help you feel better, I got some cute photos[nl]of Onodera in class, okay?
+RAK/RAK0062680
+W-Whaaat!? How the hell!?
+SYU/SYU0012150
+That's a trade secret,[nl]I can't tell you that.
+SYU/SYU0012160
+....So, you want these or no?
+RAK/RAK0062690
+I do! Thank you, Shuu![nl]It's nice to have a best friend!
+@expose2
+SYU/SYU0012170
+Alright, then. That'll be 1000 yen.
+RAK/RAK0062700
+Huh....?
+SYU/SYU0012180
+1000 yen. ♪
+RAK/RAK0062710
+Wasn't this supposed to be a get-well gift....?
+SYU/SYU0012190
+Thanks!
+SYU/SYU0012200
+Maaaan, you're the only one who'd pay 1000 yen for those.[nl]It's nice to have a best friend!
+RAK/RAK0062720
+Go home already.
+SYU/SYU0012210
+Huh? Hang on a second! Raku!?[nl]You've gotta be kidding meee.
+RAK/RAK0062730
+Hahh.... I think I'm getting a fever....
+@ＨＰ＋１０
+@イベント終了処理
+common.asb

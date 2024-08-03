@@ -1,0 +1,13 @@
+__main
+@Lclearscreenall
+@ano_203
+@イベント開始処理
+@定型ＢＧＭ再生
+SYU/SYU0011990
+Wassup, Raku![nl]I take it you're enjoying your youth?
+SYU/SYU0012000
+I'm looking forward to seeing what fun things[nl]happen to you today!
+RAK/RAK0062520
+....Are you really my friend?
+@イベント終了処理
+common.asb

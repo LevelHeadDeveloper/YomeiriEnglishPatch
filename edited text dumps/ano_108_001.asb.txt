@@ -1,0 +1,126 @@
+__main
+@Lclearscreenall
+@ano_108
+@イベント開始処理
+@ＢＧＭ再生
+SYU/SYU0011220
+Raku, let's walk home together.
+RAK/RAK0061400
+Alright, sure.[nl]Lemme just grab my stuff and I'll be ready in a sec.
+SYU/SYU0011230
+Huh? Kirisaki's not with you today?[nl]And neither are Seishiro and the others....
+RAK/RAK0061410
+They all left when they heard the other girls[nl]were making a stop somewhere on the way home.
+@expose
+SYU/SYU0011240
+I see. So it's just the two of us, huh.[nl]....That's so boring.
+RAK/RAK0061420
+Stop acting so blatantly suddenly disinterested.
+SYU/SYU0011250
+Haha, just kidding.[nl]Let's get going whenever you're ready.
+@背景変更
+KYK/KYK0000470
+Hm? Ichijo, Maiko, you're walking home together today?
+SYU/SYU0011260
+Wassup, Ms. Kyoko? ♪[nl]How about coming with us? That way, with me and Raku,[nl]you could have flowers in both hands.
+KYK/KYK0000480
+Hahaha! Calling yourselves flowers,[nl]you two sure have a lot of self-confidence!
+RAK/RAK0061430
+Um, I didn't say anything....
+KYK/KYK0000490
+I'm sorry I have to refuse,[nl]but I've got a meeting to attend today.
+KYK/KYK0000500
+It's fine by me if you two let loose after school gets out,[nl]but don't go causing me any trouble.
+SYU/SYU0011270
+Okaaay!
+RAK/RAK0061440
+(What kinda teacher is she....?)
+@フェードアウト
+....
+SYU/SYU0011280
+Oooh! There's Marika's attendant, Honda!
+RAK/RAK0061450
+What's she doing here, away from Tachibana?
+SYU/SYU0011290
+I dunno, but she's a hottie and she's right there![nl]Let's go talk to her!
+SYU/SYU0011300
+Heeeey, Honda!
+RAK/RAK0061460
+Oh, hey...!
+RAK/RAK0061470
+(He's always so quick on the draw....)
+HND/HND0000640
+Hello, Master Ichijo. And....[nl]You're Master Maiko, correct?
+SYU/SYU0011310
+Yep! Feel free to affectionately call me "Shuu-kun".
+RAK/RAK0061480
+Uhh, you don't actually have to call him that.
+RAK/RAK0061490
+More importantly, what are you doing here?
+HND/HND0000650
+I left my men to guard the Mistress today,[nl]and I'm out on patrol.
+SYU/SYU0011320
+Wow, you're so dedicated to your work, that's so cool![nl]I kind of admire you.
+HND/HND0000660
+Thank you.
+HND/HND0000670
+Well, I'm off to patrol another district.[nl]Please excuse me.
+HND/HND0000680
+Please continue to take good care of the mistress,[nl]Master Ichijo and Master Maiko.
+SYU/SYU0011330
+Yes, yes, leave it to us!
+RAK/RAK0061500
+She never called you "Shuu-kun".
+SYU/SYU0011340
+What a shame.
+KSM/KSM0000190
+Oh! Good evening, kid.[nl]Heading home?
+RAK/RAK0061510
+Oh, Onodera's mom![nl]I hope you're having a good evening too.
+SYU/SYU0011350
+Whaaat!? This is Onodera's mother!?
+SYU/SYU0011360
+She's such a lovely lady, but she's a mother....
+KSM/KSM0000200
+Oh, that's so sweet of you to say![nl]I can take that to mean I still look good?
+SYU/SYU0011370
+Absolutely great![nl]If you'd like, we can have some tea together....
+RAK/RAK0061520
+Hey! Don't go hitting on women all over the place!
+KSM/KSM0000210
+Hehe.... You've sure got interesting friends, Ichijo.[nl]You should really cherish your friendships with people[nl]like him, right?
+SYU/SYU0011380
+You sure know your stuff, Onodera's mom![nl]Right as per usual.
+SYU/SYU0011390
+You gotta cherish me, Raku.
+RAK/RAK0061530
+(You saying that makes me so angry....)
+KSM/KSM0000220
+I'd appreciate it if you'd also come support our shop.[nl]We're releasing a new line of sweets soon, so please[nl]stop in and try them.
+KSM/KSM0000230
+Ichijo, we could use your help again.
+RAK/RAK0061540
+Of course. I'll come back and help soon.
+SYU/SYU0011400
+And I'll go with him when he does!
+KSM/KSM0000240
+Alright, I'm looking forward to it.[nl]See you then.
+SYU/SYU0011410
+Take care!
+@expose2
+SYU/SYU0011420
+....Maaan! Ms. Kyoko, Ms. Honda and Onodera's mom are[nl]all great! Working women are top-tier!
+RAK/RAK0061550
+You're getting too worked up....[nl]You were so low-energy when it was just the two of us.
+SYU/SYU0011430
+That was then, this is now.[nl]Mature women just have that special charm to them.[nl]Right, Ichijo Boy?
+RAK/RAK0061560
+That's disgusting. Cut it out.
+SYU/SYU0011440
+Don't be so uptight![nl]Let's go home as friends and remain friends!
+SYU/SYU0011450
+Mwehehehe.... My goal is to lead a rosy life,[nl]surrounded by women. What say you, good buddy!?
+RAK/RAK0061570
+(....I wonder if I should really be his friend.)
+@イベント終了処理
+common.asb

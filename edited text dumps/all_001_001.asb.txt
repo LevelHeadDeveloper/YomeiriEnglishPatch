@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@all_001
+@2ショット開始
+@背景変更
+@ＢＧＭ再生
+CTG/CTG0029420G
+Congrats on beating the game!
+RAK/RAK0083340
+Wow! We're all super grateful[nl]you've played this far!
+@expose
+CTG/CTG0029430
+Yaaayyy! I hope you enjoyed it!
+MRK/MRK0024630
+I was super happy with it! I saw Raku dearest like this[nl]and Raku dearest like that.... Aah![nl]I must play this 50 more times!
+SSR/SSR0028840
+Nobody asked what *you* thought....
+@expose2
+SYU/SYU0014670
+Overall it was fun, but I feel like Raku[nl]and I got beaten up a lot.
+RUR/RUR0016090
+For you at least, it was well-deserved.
+KSK/KSK0025240
+A-Alright, everyone, on the count of three.[nl]One, two, three....
+CTG/CTG0029440G
+Thank you so much for playing!
+@イベント終了処理
+common.asb

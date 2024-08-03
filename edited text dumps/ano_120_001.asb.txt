@@ -1,0 +1,120 @@
+__main
+@Lclearscreenall
+@ano_120
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0064300
+Hm? ....A phone call from Ryuu?[nl]That's unusual.
+RYU/RYU0001350
+Thanks for workin' so hard, young master!
+RAK/RAK0064310
+Stop saying that.
+RYU/RYU0001360
+Whoops, 'scuse me.[nl]Ya got rest period right now at yer school?
+RAK/RAK0064320
+Yeah, we do....[nl]Did you need something?
+RYU/RYU0001370
+Yeah, sorry to bother you like dis, but....[nl]Could ya round up some friends and have them meet ya[nl]in front of dat one shrine after school today?
+RYU/RYU0001390
+I'll tell you why later, but fer now,[nl]please get ev'ryone who can come on such short notice![nl]Thanks very much!
+RAK/RAK0064330
+H-Hey![nl]....That was sure one-sided.
+@フェードアウト
+@背景変更
+CTG/CTG0015340
+So.... All the usual suspects again, huh.
+MRK/MRK0011430
+Well, if you didn't want to come,[nl]there's no need to force yourself.
+SSR/SSR0020400
+Marika Tachibana![nl]At it again with your--
+KSK/KSK0017390
+H-Hey, hey. Let's not fight,[nl]and we can go see what Mr. Ryuu wants.
+@時間経過演出2
+RYU/RYU0001400
+Wowww, thanks, young master![nl]Ev'ryone, thanks for coming.
+RAK/RAK0064340
+So, what did you need from us?
+RYU/RYU0001410
+Dere's an autumn flea market goin' on today.[nl]We're helpin' the shrine with dat as a way of[nl]contributin' to our local community....
+RYU/RYU0001420
+Dis year, we decided to hold a costume party[nl]to coincide with Halloween. We bought all these[nl]great costumes, but....
+RAK/RAK0064350
+Don't tell me you're gonna wear these?
+RYU/RYU0001430
+....We were, but then we got complaints dat our[nl]faces were to scary to pull it off in a silly way.
+CTG/CTG0015350
+That tracks....[nl]Our guys don't really do Halloween costumes, either.
+RYU/RYU0001440
+But if we don't do somethin', the whole project's gonna[nl]fall apart. So if y'all don't mind, could you young'uns[nl]take our place and do the costume contest instead?
+@expose
+KSK/KSK0017400
+Huh!? W-We're going to wear these!?
+RYU/RYU0001450
+Yup. You all look like lovely young ladies.[nl]So please! Help us out!
+SYU/SYU0012760
+Everyone says OK, of course!
+@キャラ揺らし
+@expose2
+SYU/SYU0012770
+Glbckth!
+SSR/SSR0020410
+Why are you answering for us!?
+RYU/RYU0001460
+I'm beggin' you![nl]Da children in town were all lookin' forward to it!
+SSR/SSR0020420
+Well, but....
+CTG/CTG0015360
+I'm cool with it.[nl]Seems like fun.
+MRK/MRK0011440
+Me too! How could I refuse a request from[nl]a member of Raku dearest's family!?
+RUR/RUR0012510
+Me too. I don't care either way.[nl]But I'd like to ask Kosaki to choose a sexy costume,[nl]one that'll make Ichijo's heart miss a beat.
+KSK/KSK0017410
+Ruri, why!?
+RAK/RAK0064360
+I'm begging you, Tsugumi.[nl]I can't just leave Ryuu to deal with this himself.
+SSR/SSR0020430
+....Hahh.[nl]Seems like I'm the odd one out here.
+SSR/SSR0020440
+As long as the Mistress and her friends are okay with it,[nl]I have no reason to object.
+RYU/RYU0001470
+Wow! Thanks, ladies![nl]Looks like today's gonna be a great Halloween!
+RYU/RYU0001480
+Arright, everyone![nl]Trick or treat!
+@ＢＧＭ停止
+@時間経過演出
+@ＢＧＭ再生
+CTG/CTG0015370
+Hey, heeey![nl]Gimme candy or I'll play a trick on you!
+SSR/SSR0020450
+W-Why am I the only one wearing[nl]this bandage costume!? Being dressed like this[nl]is too embarrassing....!
+KSK/KSK0017420
+Kyaah!? Don't pull on my tail![nl]It'll make the rest of the costume come off!
+MRK/MRK0011450
+Raku dearessst![nl]Feast your eyes on my sexy costume! ♪
+RUR/RUR0012520
+....Trick or treat....
+RYU/RYU0001490
+Wowww, thanks a bunch, ev'ryone![nl]Thanks to yer help, the event was a success again this year!
+MRK/MRK0011460
+I am very fond of this costume.[nl]May I take it home?
+RYU/RYU0001500
+Sure. I don't think we'll be wearin' it next year anyway,[nl]so be my guest.
+RUR/RUR0012530
+I might want to keep mine, too....
+SYU/SYU0012780
+That outfit was perfect for you, Ruri![nl]The sort of costume where the shape of[nl]your body doesn't ma--
+SYU/SYU0012790
+.....Owblgblgblghh!
+RUR/RUR0012540
+While I'm here, I might as well help you with the trash, too.[nl]I have some trash here I'd like to incinerate.
+RAK/RAK0064370
+Hey, hey, don't go incinerating Shuu!
+RYU/RYU0001510
+Anyway, ev'ryone,[nl]thanks fer yer help today.
+RYU/RYU0001521
+There will be a gift exchange on the last day of[nl]the flea market, so please come join us fer that if ya can.
+RAK/RAK0064381
+(That sounds fun too.)
+@イベント終了処理
+common.asb

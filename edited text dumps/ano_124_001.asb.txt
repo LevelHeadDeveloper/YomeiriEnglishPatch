@@ -1,0 +1,28 @@
+__main
+@Lclearscreenall
+@ano_124
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0065100
+Alright. It was pretty simple,[nl]but all the cleaning's done now.
+OTM/OTM0006390
+Mhm, mhm. 'Tis nice and clean now.[nl]Nom nom nom....
+RAK/RAK0065110
+Oh, hey! Don't go eating inari sushi without asking!
+OTM/OTM0006400
+As I told thee before, this inari sushi was[nl]dedicated to me. So there is no problem with me eating it.
+@expose
+OTM/OTM0006410
+But, Raku. Thou art quite the handsome young man.[nl]Thou art a capable cleaner and good at making inari sushi.
+OTM/OTM0006425
+I could hire thee as my personal offering chef. ♪
+RAK/RAK0065120
+Whaddya mean, "offering chef"?
+OTM/OTM0006430
+A chef who cooks for me, all for me, only for me.[nl]'Tis a very pres-tig-ious position. Accept it with gratitude.
+OTM/OTM0006450
+Another one!
+RAK/RAK0065150
+You're still eating....
+@イベント終了処理
+common.asb

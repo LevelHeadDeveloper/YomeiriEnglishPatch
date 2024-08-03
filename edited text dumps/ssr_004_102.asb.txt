@@ -5,7 +5,7 @@ __main
 SSR/SSR0004760
 I've caused you and the mistress[nl]a lot of trouble this time.
 SSR/SSR0004770
-So, please allow me to apologize.
+So, I'd like to give you a proper apology.
 SSR/SSR0004780
 ------
 .........
@@ -23,7 +23,7 @@ W-What!?
 @expose
 SSR/SSR0004840
 Ghh! I-I'm seriously trying to[nl]apologize here!
-Put the gun away!
+She's got a gun!
 I'm injured!
 You've got some nerve!
 SSR/SSR0004850
@@ -36,14 +36,14 @@ SSR/SSR0004870
 !! Dammit![nl]I did it again....
 @ssr_004_103
 SSR/SSR0004880
-S-Say something!!!
+D-Don't just sit there![nl]Say somethiiiinnnggg!!!
 @expose
 @ssr_004_01_ans02
 SSR/SSR0004890
 C-Cutely?
 For example...
-Put "meow" at the end.
-Do something babyish.
+Put "meow" at the end[nl]of your words.
+Like, baby-talk.
 SSR/SSR0004900
 ....O-Okay. If that's what you want,[nl]I guess I don't have a choice....
 SSR/SSR0004910
@@ -73,18 +73,18 @@ Huh!? Soft!?[nl]What the hell do you mean by that!?
 SSR/SSR0004980
 ! Are you talking about my b-breasts!?[nl]And under these circumstances, no less!
 SSR/SSR0004990
-You're just living your life carelessly!
+You're just living carelessly at this point!
 SSR/SSR0005000
-That doesn't help me settle my feelingssss!
+That doesn't help me feel any better!
 SSR/SSR0005010
-Don't tell me to smile at this situation....[nl]I don't know what you mean!
+I can't be smiling in this situation....[nl]Don't tell me something so meaningless!
 @ssr_004_01_ans04
 SSR/SSR0005020
 Does that mean you won't forgive me....
 SSR/SSR0005030
 I guess it can't be helped.[nl]I did something unforgivable to you.
 You won't forgive?
-That's right
+Not what I meant
 Maybe if you tell me a joke
 SSR/SSR0005040
 I-Is this kind of thing really[nl]OK between friends?
@@ -103,31 +103,31 @@ SSR/SSR0005090
 GAAAAAAAAAAH!
 @ＨＰ－５０
 SSR/SSR0005100
-I know you're very angry with me[nl]in your heart....
+I know just how angry you are with me....
 SSR/SSR0005110
-I'm not asking you to forgive me.[nl]But at least I'll feel better if I apologize.
+I'm not asking you to forgive me.[nl]But I can't just let this go without apologizing.
 SSR/SSR0005120
 So, please allow me to apologize....
 @ssr_004_01_ans05
 SSR/SSR0005130
-What do you mean by "all good"?
+What do you mean by "okay"?
 What did you mean?
 I'm a masochist
 It's better to be yourself.
 SSR/SSR0005140
-Getting hit feels good[nl]because you're a masochist...?
+Because you're a "masochist",[nl]you like being hit....right....?
 SSR/SSR0005150
-Hehhehheh....
+Heheheh....
 SSR/SSR0005160
-You've got to be joking![nl]If that's how it is, I'll give you as much as you wish!
+Don't give me that crap! If that's really[nl]how it is, I'll give you a good beating just like you want!
 SSR/SSR0005170
 Be myself, you say?
 SSR/SSR0005180
 How....do you just laugh off[nl]my violence against you!?
 SSR/SSR0005190
-You just said that at random, huh.
+You just said that to make me[nl]feel better, huh.
 SSR/SSR0005200
-Stop being so damn lax....[nl]while I'm trying to sincerely apologize!
+I'm trying to sincerely apologize here....[nl]Don't say something so damn perfunctory!
 @ssr_004_01_ans06
 SSR/SSR0005210
 Just say something already!

@@ -1,0 +1,57 @@
+__main
+@Lclearscreenall
+@ano_123
+@イベント開始処理
+@ＢＧＭ再生
+RAP/RAP0000560
+Hey, Raku!
+RAK/RAK0065010
+Dad!?
+CTP/CTP0000380
+Hey, Raku. How are you?
+RAK/RAK0065020
+....And Chitoge's dad, too.[nl]What are you two doing here?
+RAP/RAP0000570
+Well, we were both in the neighborhood anyway,[nl]so we decided to get a drink together.
+CTP/CTP0000390
+And I'm doing this behind my subordinate's backs.
+RAK/RAK0065030
+You and my dad really are close.[nl]So why do our gangs end up fighting all the time?
+CTP/CTP0000400
+Hmmmm.... That's a difficult question.[nl]I suppose it's because Claude and the others are still[nl]young and hot-headed.
+RAP/RAP0000580
+And I guess Ryuu doesn't like it when strangers[nl]come into our territory.
+RAP/RAP0000590
+We can easily suppress them with all our strength,[nl]but that'd hardly be fitting of the family's[nl]central provider, right?
+CTP/CTP0000410
+Besides, using such great power can easily[nl]sow the seeds of a new conflict.
+RAK/RAK0065040
+(Ohh....[nl] So our dads really are giving this situation proper thought.)
+RAP/RAP0000600
+Well, that's more or less why this town's peace[nl]will continue to depend on you and Miss Chitoge[nl]for the time being.
+CTP/CTP0000420
+I'm sorry for causing you and my daughter all this trouble,[nl]but we're counting on you to keep helping us.
+RAK/RAK0065050
+Uh, yes....
+RAP/RAP0000610
+Alright, Raku! You're gonna join us here, too![nl]And while we're at it, tell us how far you've gotten[nl]with the young lady!
+RAK/RAK0065060
+Huh....!?
+CTP/CTP0000430
+Sounds good to me. I'd like to hear about what she's[nl]like at school, and to be honest, I'd also like to know[nl]your personal feelings about her.
+RAK/RAK0065070
+D-Dad! You're just gonna use what I tell you[nl]as a conversation over drinks!
+RAP/RAP0000620
+What else is there?[nl]Just join us!
+CTP/CTP0000440
+Of course, you'll need something non-alcoholic.[nl]I'm not letting you leave tonight.
+RAK/RAK0065080
+Aaargh....[nl]Look, I've got dinner to make, and homework to do,[nl]so I need to hurry up and get home.
+RAK/RAK0065090
+So goodbye!
+RAP/RAP0000630
+Tch.... He ran away.
+CTP/CTP0000450
+What a shame. We'll have to wait for some[nl]other time to share a meal with him.
+@イベント終了処理
+common.asb

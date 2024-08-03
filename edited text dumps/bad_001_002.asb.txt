@@ -1,0 +1,176 @@
+__main
+@Lclearscreenall
+@bad_001_002
+@pro_001_000
+@背景変更
+RAK/RAK0066340
+----!
+RAK/RAK0066350
+That dream again....
+RAK/RAK0066360
+(Every time, it ends there.[nl] I wish I could see just a little more....)
+RAK/RAK0066370
+(Then I might be able to remember what the girl I met[nl] 10 years ago looks like....)
+RAK/RAK0066380
+Hahh....
+SYU/SYU0012930
+What's the matter, Raku?[nl]Why are you sighing?
+RAK/RAK0066390
+Nothing, really.[nl]I was just dreaming about that time 10 years ago....
+RAK/RAK0066400
+....Wait, Shuu!?[nl]What are you doing in my room!?
+SYU/SYU0012940
+Well....
+SYU/SYU0012950
+What are you talking about?[nl]We're close like that, right?
+RAK/RAK0066410
+Huh?
+SYU/SYU0012960
+Zawsze in love....[nl]Forever in love....
+RAK/RAK0066420
+!?!?!?
+RAK/RAK0066430
+H-Huuhh!? W-What do you mean!?[nl]How do you know those words!?
+SYU/SYU0012970
+You see, it means....
+@expose
+SYU/SYU0012980
+It means this.
+SYU/SYU0012990
+The girl in your dreams, your promise girl....[nl]That's me.
+......
+RAK/RAK0066440
+....Huh?
+@ＢＧＭ再生
+SYU/SYU0013000
+This key is a very precious posession of mine[nl]that connects the two of us. I've been carrying it[nl]for the past 10 years.
+RAK/RAK0066450
+H-HUUUUUUHHHHHHH!?[nl]W-W-W-What the hellll!?
+RAK/RAK0066460
+No no no no. That's impossible![nl]I mean, I made the promise with a *girl* and all....!
+SYU/SYU0013010
+People tend to embellish memories to fit their liking.[nl]It's no wonder you remembered me as a girl.
+SYU/SYU0013020
+I haven't been able to come out and say it[nl]for a long time, but that ends today.
+SYU/SYU0013030
+Raku.
+RAK/RAK0066470
+Huh!?
+SYU/SYU0013040
+I love you! With this key,[nl]I'll unlock the lock on your heart, and then....
+SYU/SYU0013050
+Let's get married!
+RAK/RAK0066480
+N-NO WAAAAAAAYYY!
+RYU/RYU0001730
+Young master! Watch out!
+@画面揺らし
+SYU/SYU0013060
+Glbtckh!
+RYU/RYU0001740
+Are you alright, young master!?
+RAK/RAK0066490
+R-Ryuu.... Thank goodness.[nl]Shuu's been acting real strange....
+RYU/RYU0001750
+I should say so![nl]His key is fake!
+RAK/RAK0066500
+Huh?
+RYU/RYU0001760
+Look at this!
+RYU/RYU0001770
+I'm the one who made a promise with ya 10 years ago![nl]Young master, I'm yer fiance!
+RAK/RAK0066510
+WHAAAAAAAT!?
+CLD/CLD0002170
+Bullshit!
+RYU/RYU0001780
+Waaagh!?
+CLD/CLD0002180
+Heh.... I remember that day.
+CLD/CLD0002190
+That day, I pledged my eternal love[nl]to a boy by entrusting a pendant to him!
+CLD/CLD0002200
+Je t'aime! Raku Ichijo!
+RAK/RAK0066520
+W-Wait a sec.... Just what....[nl]What the hell are you all talking abo--
+RYU/RYU0001790
+Huhhh!? Are ya tryin' to get in the way[nl]of me and the young master's love for each other?
+CLD/CLD0002210
+Raku Ichijo is mine alone.[nl]I won't let a stupid monkey like you lay a finger on him!
+RYU/RYU0001800
+WHAT'DJA SAY TO ME!?[nl]Are you ready to die!? Huhh!?
+CLD/CLD0002220
+That's my line. I'm going to plant a lead bullet[nl]so deep in your dirty face, you'll be able to keep it as a[nl]souvenir in the afterlife!
+SYU/SYU0013070
+Raku! There's no place for you in their messed-up world![nl]Take my hand and let's get outta here!
+RYU/RYU0001810
+Young master! I'm the one who has[nl]the real key! You gotta believe me!
+CLD/CLD0002230
+No, mine's the real one!
+SYU/SYU0013080
+Raku. You know, right?[nl]You, my best friend, you know I'm the original!
+RYU/RYU0001820
+Take me!
+CLD/CLD0002240
+Take me!
+SYU/SYU0013090G
+LET'S GET MARRIED!
+RAK/RAK0066530
+GYAAAAAAAAAAAAAHHHH!
+SYU/SYU0013100G
+Zawsze in looove!
+@ＢＧＭ停止
+RAK/RAK0066540
+Hahh....! Hahh....! Hahh....![nl]Hahh....! Hahh....! Hahh....!
+RAK/RAK0066550
+Hahh.....[nl]That was a dream, too....
+RAK/RAK0066560
+----
+RAK/RAK0066570
+That was....quite possibly[nl]the worst dream I've had in my life.
+OTM/OTM0007440
+Art thou okay, Raku?[nl]Thou wert tossing and turning in thy sleep.
+RAK/RAK0066580
+Otama....
+RAK/RAK0066590
+Nope, I'm not okay. Even if that was just a dream,[nl]I'm in such a state of shock I don't think I'll be[nl]able to recover for quite a while.
+RAK/RAK0066600
+Mph....[nl]Just thinking about it makes me feel sick!
+RAK/RAK0066610
+AAAAAAAAGH! I'm such an idiot, idiot, idiot![nl]Why'd I have such a weird dream!? Aagh, I wanna forget it![nl]I wanna pretend it never happened!
+OTM/OTM0007450
+....Is that what thou wanteth?
+RAK/RAK0066620
+Huh?
+OTM/OTM0007460
+Dost thou wisheth for me to use my power[nl]to make it as though you never had that dream?
+RAK/RAK0066630
+Y-You can do that!?
+@expose
+OTM/OTM0007470
+Of course. If that's what thou wanteth, I can maketh it sothat thy dream, and thou going to sleep *in the first place*,[nl]never happened.
+RAK/RAK0066640
+Wowww! I don't know how, but do it quick![nl]I wanna forget about that dream as soon as possible!
+OTM/OTM0007480
+I see, I see. Mhm.[nl]I understandeth!
+OTM/OTM0007490
+I'm still in training, so I can't guarantee[nl]it'll be exactly as it was last night. I fear[nl]it might end up a *liiiittle* bit off the mark....
+OTM/OTM0007500
+Well, then we can just starteth over.[nl]Next time, let me grant thee a better wish, alright?
+RAK/RAK0066650
+Huh....?
+@背景変更
+RAK/RAK0066330
+Waaaaaaagh!?
+OTM/OTM0007390
+Listen to me, Raku.
+OTM/OTM0007400
+Thou art surrounded by a number of people[nl]who are always thinking about thee.
+OTM/OTM0007410
+If thou should deepen thy bonds with them,[nl]I shall be able to understand what they want,[nl]and what they hope for.
+OTM/OTM0007420
+And that is when I shall demonstrate my true power.[nl]That is when I shall achieve the goal I set out for[nl]when I came here.
+OTM/OTM0007430
+Heheheh....[nl]Later, Raku.
+@イベント終了処理
+common.asb

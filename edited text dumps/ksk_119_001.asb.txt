@@ -17,7 +17,7 @@ All right, well said![nl]Thanks, and tell Onodera I said thanks, too.
 @時間経過演出
 @ＢＧＭ再生
 BIK/BIK0000010
-Alright, I need your class to move these buckets to the dump.
+Alright, I need your class to move these buckets[nl]to the dump.
 RAK/RAK0048640
 Whoa?[nl]That's a lot of stuff.
 BIK/BIK0000020

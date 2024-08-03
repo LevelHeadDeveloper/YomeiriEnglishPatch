@@ -1,0 +1,38 @@
+__main
+@Lclearscreenall
+@ano_210
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0006830
+Hey, Raku!
+RAK/RAK0065670
+Sorry, Otama. Can it wait?[nl]I'm busy reviewing my lessons right now.
+OTM/OTM0006840
+What dost thou mean "reviewing thy lessons"!?[nl]Day in and day out, thou hast been living thy normal life,[nl]without creating any ripples!
+@expose
+OTM/OTM0006850
+The month is already almost up.[nl]Art thou okay with that?
+RAK/RAK0065690
+If I can live a normal, peaceful life, isn't that enough?[nl]What are you in such a hurry for?
+OTM/OTM0006870
+Mgh.... If thou doth not make requests of me,[nl]I cannot become a senko.
+RAK/RAK0065695
+Senko? What's that?
+OTM/OTM0006880
+Right now I eateth delicious inari sushi,[nl]surfeth the internet, watcheth TV, readeth books....
+@expose2
+OTM/OTM0006890
+What is this life I liveth!?[nl]'Tis almost like heaven!
+RAK/RAK0065700
+First of all, you need to make it more clear[nl]whether you're angry or happy.
+@expose
+OTM/OTM0006900
+Anyway, if I continue on this way,[nl]I'll become what humans call a "neet".
+OTM/OTM0006910
+In order to make the most of the days remaining,[nl]Raku, thou must worketh hard to achieve thy goals!
+OTM/OTM0006920
+If thou understandeth, respond![nl]And then grant me fried tofu!
+RAK/RAK0065710
+Okay, okay, I don't really understand,[nl]but I get it.
+@イベント終了処理
+common.asb

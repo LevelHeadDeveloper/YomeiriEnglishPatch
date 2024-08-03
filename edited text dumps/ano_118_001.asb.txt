@@ -1,0 +1,50 @@
+__main
+@Lclearscreenall
+@ano_118
+@イベント開始処理
+RAK/RAK0063700
+Hm? ....It's from Chitoge.[nl]What does she want?
+CTG/CTG0015120
+Hello, Raku? Where are you right now?
+RAK/RAK0063710
+Still at school. Just thinking about[nl]whether to go straight home or stop somewhere on the way.
+CTG/CTG0015130
+I see.... I guess that's just as well.
+CTG/CTG0015140
+Lately, Claude's been real suspicious about where you go.[nl]You'd better be careful if you're gonna stop somewhere.
+RAK/RAK0063720
+Huh? Really?
+CTG/CTG0015150
+Yep. He's got everyone from the Beehive gathered today,[nl]and they're probably watching you.
+CTG/CTG0015160
+I'm warning you, just as your girlfriend, be careful[nl]if you go talk to someone! Um....especially if it's a girl[nl]other than me!
+CTG/CTG0015170
+I-I don't personally care either way, but Claude and the[nl]others do tend to jump to conclusions a lot.[nl]But I don't care who you talk to, Raku!
+RAK/RAK0063730
+O-Okay....got it. Are you angry about something?
+CTG/CTG0015180
+I'm not angry!
+RAK/RAK0063740
+She's definitely angry....
+........
+RAK/RAK0063750
+....There he is.
+RAK/RAK0063760
+Gahh.... If this keeps up, I won't be able to[nl]even talk to anyone but Chitoge, am I!?
+RAK/RAK0063770
+I'll either need to get rid of Claude somehow,[nl]or just head home....
+Head home
+Don't let Claude win!
+RAK/RAK0063780
+Well, there's no reason for me to go out of my way[nl]to be suspected. I'll just go home quietly today....
+@イベント終了処理
+RAK/RAK0063790
+(My life is my own to live.[nl] And I won't let anyone stand in my way!)
+RAK/RAK0063800
+(....So, who should I go talk to?)
+Chitoge!
+Onodera!
+Tsugumi!
+Tachibana!
+@ヌキアシ開始処理
+common.asb

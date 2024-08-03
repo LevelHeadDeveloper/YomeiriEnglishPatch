@@ -1,0 +1,91 @@
+__main
+@Lclearscreenall
+@ano_116
+@イベント開始処理
+OTM/OTM0006030
+Hey, Raku.
+@ＢＧＭ再生
+RAK/RAK0063440
+O-Otama!? What are you doing here!?
+OTM/OTM0006040
+I wanted to see with mine own eyes[nl]what kind of place this school is that thou attendeth.
+RAK/RAK0063450
+Hahh.... Well, you might as well since you're already here,[nl]but you'd better stay invisible! And don't cause any trouble!
+OTM/OTM0006050
+Very well! Off I goeth to explore, then!
+RAK/RAK0063460
+Oh, hey! Don't wander off by yourself![nl]I'll go with you!
+RAK/RAK0063470
+(....For God's sake!)
+@フェードアウト
+@背景変更
+OTM/OTM0006060
+I smelleth something strange.
+RAK/RAK0063480
+That's the smell of paint.[nl]This is basically a room for drawing pictures.
+@expose
+OTM/OTM0006070
+Drawing pictures, huh.[nl]So even at this age, thou art all still children at heart.
+RAK/RAK0063490
+You maybe, but I dunno about me....
+OTM/OTM0006080
+Gaackh! It smelleth quite bitter here![nl]What is this room!?
+RAK/RAK0063500
+This is a place for sick and injured people to rest.[nl]What you're smelling is probably disinfectant.
+OTM/OTM0006090
+There is an evil spirit of some kind floating around in here!
+RAK/RAK0063510
+Huh? Don't tell me you're intoxicated[nl]from the smell of ethanol!?
+OTM/OTM0006100
+I'm so dizzzzyy![nl]And my head spinneth....
+RAK/RAK0063520
+This place is dangerous for you.[nl]Let's get outta here.
+OTM/OTM0006110
+Mghghgh.... I still feeleth slightly ill,[nl]but I shall pull through it and press on to the next room!
+RAK/RAK0063530
+You're still dizzy? Haven't you had enough?[nl]Just go home already, for goodness' sake.
+OTM/OTM0006120
+Mm.... I smelleth something sweet from over there![nl]Let's goeth, Raku! Follow me!
+RAK/RAK0063540
+I told you not to go wandering off on your own!
+@時間経過演出
+OTM/OTM0006130
+Over here, over here!
+RAK/RAK0063550
+Y-You idiot! Don't open tha--
+@ＢＧＭ停止
+@背景変更
+CTG/CTG0015050
+....Huh?
+KSK/KSK0017240
+I-Ichijo!?
+RAK/RAK0063560
+Waaaaaaaagh![nl]W-Why are you all in there!?
+MRK/MRK0011230
+Well, if it isn't Raku dearest! ♪[nl]If you wanted to see that badly, I'd have been[nl]happy to show you anytime you wanted.
+RUR/RUR0012490
+Pervert. Peeping tom.[nl]Lowest of lowlifes.
+RAK/RAK0063570
+N-No! This is a misunderstanding!
+KSK/KSK0017250
+I-Ichijo! Just close your eyes!
+SSR/SSR0020180
+You lecherous man....[nl]DIIIIEEEEE!
+RAK/RAK0063580
+GAAAAHHHH! I'm sorrryyyy!
+SSR/SSR0020190
+Open up, Raku Ichijo![nl]And die!
+CTG/CTG0015060
+You perverted bean sprout![nl]You'll pay for this later!
+RAK/RAK0063590
+Aaagh, not good....[nl]How am I gonna explain this later....?
+OTM/OTM0006140
+But I'm absolutely certain I smelled something sweet![nl]Raku, let's goeth back in and checketh again!
+RAK/RAK0063600
+Cut it out! You're gonna get me killed![nl]Just go home already!
+OTM/OTM0006150
+Booo. I suppose it can't be helped.[nl]Thou art gonna maketh me some inari sushi later, right?
+RAK/RAK0063610
+(Aaagh....[nl] I should have sent her straight home to begin with.)
+@イベント終了処理
+common.asb

@@ -1,0 +1,47 @@
+__main
+@Lclearscreenall
+@ano_212
+@イベント開始処理
+@定型ＢＧＭ再生
+OTM/OTM0007030
+Rakuuu! Rakuuu!
+RAK/RAK0065820
+What do you want, Otama?[nl]Didn't I just play with you?
+OTM/OTM0007040
+That's not what I want.[nl]Dost thou not have any wishes?
+RAK/RAK0065830
+Wishes? Hmmm, I can't really say there's anything[nl]I need you to do for me....
+@expose
+OTM/OTM0007050
+Art thou certain? Absolutely certain?
+RAK/RAK0065840
+Yep. First of all, you gotta work for your wishes.[nl]I'm not gonna ask a goddess to help me with mine.
+OTM/OTM0007060
+Mghhh.... Then thou art completely denying the[nl]value of my existence! Demon! Fiend! Yokai!
+RAK/RAK0065850
+But you're the yokai here....
+OTM/OTM0007070
+Just make a wish, no matter what it is!
+RAK/RAK0065860
+Aaargh, shut up.[nl]Fine, fine.
+RAK/RAK0065870
+Okay, my shoulders have been pretty stiff lately,[nl]so could you give them a massage?
+@expose2
+OTM/OTM0007080
+What, is that all thou wanteth?[nl]That's nothing, no problem at all. ♪
+OTM/OTM0007090
+Here goes. Tap, tap, tap. ♪
+RAK/RAK0065880
+Huh? You're pretty good at this.
+OTM/OTM0007100
+Heheh. Hast thou now realized the power I hold?[nl]Keep making more wishes like this.
+OTM/OTM0007110
+Tap, tap, tap. ♪
+RAK/RAK0065890
+(Seems like she's cheered up, anyway.)
+RAK/RAK0065900
+(But, what is this....happy feeling?[nl] I guess this is what it feels like when[nl] a child gives you a shoulder massage....)
+OTM/OTM0007120
+Tap, tap, tap! ♪
+@イベント終了処理
+common.asb

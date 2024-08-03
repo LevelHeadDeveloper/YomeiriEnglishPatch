@@ -228,9 +228,9 @@ Looks like I got lucky.
 R_SystemTextOlaMaidResult_rur_2
 Power? No, just luck.
 R_SystemTextOlaMaidResult_syu_1
-Iyaah~, sometimes my talent scares even me!
+Woww, sometimes my talent scares even me!
 R_SystemTextOlaMaidResult_syu_2
-Hey, hey, can we play the king game now? Please?
+Hey, hey, can we play the king game now?[nl]Please?
 R_SystemTextOlaMaidResult_otm_1
 Well? Can you now see the sheer power I possess?
 R_SystemTextOlaMaidResult_otm_2

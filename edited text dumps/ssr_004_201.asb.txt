@@ -9,12 +9,12 @@ You finally smiled.
 @ザクシャ誠士郎・小
 @ssr_004_201_02
 RAK/RAK0017950
-Thank goodness, you seem to be doing better.
+Looks like you've perked up a bit.
 @ssr_004_201_03
 SSR/SSR0005450
 Huh....?
 RAK/RAK0017960
-It's better for you to be angry or smiling sometimes....[nl]than to just act depressed all the time.
+It's better for you to be changing your expression a lot,[nl]like when you look angry or when you're smiling....[nl]rather than just looking depressed.
 @expose
 SSR/SSR0005460
 Hmph....I don't think "angry" should be in there.
@@ -30,16 +30,16 @@ H-Huh!?[nl]Sorry, that was supposed to be a compliment....[nl]Was that bad?
 SSR/SSR0005480
 N-No....[nl]I-I wouldn't say it was....bad.
 SSR/SSR0005490
-....You're kind, in a strange way.
+....You're kind, in a really strange way.
 RAK/RAK0018000
 R-Really?
 SSR/SSR0005500
-Yeah. Really, you're an exasperating man.
+Yeah. You're an absolutely exasperating man.
 @expose
 SSR/SSR0005510
-But I suspect that the mistress was attracted to your kindness.
+But I suspect that that kindness is the reason[nl]the Mistress was attracted to you.
 RAK/RAK0018010
-No, I'm really not sure she was.
+No, I'm sure that's not it.
 SSR/SSR0005520
 Is that so? Well, I....
 RAK/RAK0018020
@@ -47,18 +47,18 @@ Hm?
 SSR/SSR0005530
 ...No, it's nothing.
 SSR/SSR0005540
-now, you'd better close your eyes and rest.[nl]I'll take care of you until the mistress gets back.
+Now, you'd better close your eyes and rest.[nl]I'll take care of you until the Mistress gets back.
 RAK/RAK0018030
 Huh!? Don't just leave me hanging.[nl]I'm curious what---
 @expose2
 SSR/SSR0005550
-S・H・U・T  U・P.[nl]Or else I'll let you rest forever.
+S・H・U・T   U・P.[nl]Or else I'll let you rest forever.
 RAK/RAK0018040
 Sorry. I'll go to sleep.
 SSR/SSR0005560
 Yeah, that would be great.
 RAK/RAK0018050
-(....The way she was talking made me kind of curious,[nl] but for now, she seems like she's cheered up,[nl] so I guess everything's fine....)
+(....I'm curious what she was going to say there,[nl] but for now, she seems like she's cheered up,[nl] so I guess everything's fine....)
 @ＨＰ＋５０
 @イベント終了処理
 common.asb

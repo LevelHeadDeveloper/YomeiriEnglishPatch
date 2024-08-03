@@ -1,0 +1,30 @@
+__main
+@Lclearscreenall
+@ano_205
+@イベント開始処理
+@定型ＢＧＭ再生
+SYU/SYU0012040
+Hahh....
+RAK/RAK0062560
+Morning, Shuu.[nl]What's the matter, sighing like that during the morning?
+SYU/SYU0012050
+You idiot!
+@ＨＰ－１０
+RAK/RAK0062570
+Gaackh!?
+SYU/SYU0012060
+You have Kirisaki, your girlfriend,[nl]and Marika and the others are hitting on you....
+SYU/SYU0012070
+What the hell is up with that!? Don't you ever think[nl]about trying to get to know the girls better!?
+RAK/RAK0062580
+Well, I can't say I have....[nl]But I'm more worried about the fact[nl]that you just hit me.
+SYU/SYU0012080
+The one who hit you is in pain, too!
+SYU/SYU0012090
+Listen up. You have all kinds of chances, whether it's[nl]during class or after school gets out!
+SYU/SYU0012100
+If you want your happy ending, you need to plan[nl]things out and act accordingly![nl]See ya!
+RAK/RAK0062590
+....W-What was that about?[nl]Jeez....
+@イベント終了処理
+common.asb

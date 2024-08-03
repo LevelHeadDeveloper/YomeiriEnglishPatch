@@ -1,0 +1,64 @@
+__main
+@Lclearscreenall
+@ano_125
+@イベント開始処理
+OTM/OTM0006460
+Aaaah! I hath been beaten!
+RAK/RAK0065160
+Hm....? That sounds like....
+@ＢＧＭ再生
+OTM/OTM0006470
+Rakuuuu!
+RAK/RAK0065170
+It *is* you, Otama! I told you not to[nl]come to school without permission!
+@expose
+OTM/OTM0006480
+But, buuut! There is something very important[nl]that I must tell you right away!
+RAK/RAK0065180
+What's that important?
+OTM/OTM0006490
+The neighborhood cat made fun of me....
+RAK/RAK0065190
+Huh?
+OTM/OTM0006500
+The stray cat three doors down just went "hmph" at me![nl]He was treating me as though I was a child!
+RAK/RAK0065200
+Well, you *are* a child.
+OTM/OTM0006510
+So rude! I hath lived dozens of times longer than[nl]that piddly little cat!
+OTM/OTM0006520
+Waaaah! I'm so frustrated![nl]I must venteth this frustration somehow!
+OTM/OTM0006530
+....And that's what I've come to complain about.
+RAK/RAK0065210
+That is incredibly unimportant.
+OTM/OTM0006540
+No good! Dost thou not have a clever plan[nl]to make him eateth his words!?
+RAK/RAK0065220
+Clever plan, huh....[nl]I mean, your appearance being what it is....
+RAK/RAK0065230
+Hm? Appearance?[nl]I know. Hang on a second.
+RAK/RAK0065240
+Here, why don't you try this on?
+OTM/OTM0006550
+Oooh, is this....!?[nl]The skin of a tiger!? Didst thou kill it!?
+RAK/RAK0065250
+No, it's not a real tiger skin....[nl]It's a costume, like a stuffed toy animal you can wear.
+RAK/RAK0065260
+Don't you seem a lot stronger now?[nl]No guarantees it'll work, though....
+OTM/OTM0006560
+Mmhm, this is amazing![nl]I wasn't expecting this at all,[nl]but it seems this surprise item is actually useful!
+RAK/RAK0065270
+Give it back.
+OTM/OTM0006570
+Hahaha, talk not like that.[nl]I shall accept this gratefully.
+OTM/OTM0006580
+....Here, as thanks.
+RAK/RAK0065280
+(Oh, I feel my fatigue disappearing!)
+OTM/OTM0006590
+Roooar! You stray cat! I'm about to eat you![nl]Bwahahaha!
+RAK/RAK0065290
+(She's just a fox acting as mighty as a tiger....)
+@イベント終了処理
+common.asb
