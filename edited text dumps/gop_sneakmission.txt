@@ -25,7 +25,7 @@ R_SneakMission007
 R_SneakMission008
 R_SneakMission009
 R_SneakMission010
-Hallway Escape
+Escape
 Claude's acting even weirder than usual![nl]Get to the other end of the corridor to escape!
 R_SneakMission011
 R_SneakMission012
@@ -65,7 +65,7 @@ R_SneakMission037
 R_SneakMission038
 R_SneakMission039
 R_SneakMission040
-Accusation
+Framed
 Run and hide from Tsugumi! Be careful,[nl]the misunderstanding has made her angry!
 R_SneakMission041
 R_SneakMission042
@@ -89,7 +89,7 @@ R_SneakMission057
 R_SneakMission058
 R_SneakMission059
 R_SneakMission060
-Black Market
+Market
 Track down Shuu's black market![nl]Uncover the garden of evil!!
 R_SneakMission061
 rof
@@ -129,7 +129,7 @@ R_SneakMission087
 R_SneakMission088
 R_SneakMission089
 R_SneakMission090
-Hey, You!
+YOU!
 Wrong place, wrong time...[nl]Escape the seething seniors!
 R_SneakMission091
 R_SneakMission092
@@ -141,7 +141,7 @@ R_SneakMission097
 R_SneakMission098
 R_SneakMission099
 R_SneakMission100
-Training
+Train
 Training from hell![nl]Get through the Beehive training course!
 R_SneakMission101
 R_SneakMission102
@@ -153,7 +153,7 @@ R_SneakMission107
 R_SneakMission108
 R_SneakMission109
 R_SneakMission110
-Showdown
+Clash
 Excessive and overprotective:[nl]Outwit the dangerous Claude!
 R_SneakMission111
 R_SneakMission112
@@ -165,7 +165,7 @@ R_SneakMission117
 R_SneakMission118
 R_SneakMission119
 R_SneakMission150
-Round Two
+Round 2
 Another showdown of persistence![nl]Escape Claude and his goons in style!
 R_SneakMission151
 R_SneakMission152

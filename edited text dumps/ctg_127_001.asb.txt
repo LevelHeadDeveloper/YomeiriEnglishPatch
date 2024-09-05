@@ -6,9 +6,9 @@ CTG/CTG0020560
 Hahh.... It's been too long since we've done anything.[nl]Raku, let's do something fun.
 @ＢＧＭ再生
 RAK/RAK0072150
-That's a bit unreasonable all of a sudden. It's your life,[nl]so why not entertain yourself, instead of relying on others[nl]to do it for you?
+That's a bit unreasonable all of a sudden. It's your life,[nl]so why not entertain yourself, instead of relying on[nl]others to do it for you?
 CTG/CTG0020570
-Mghh....![nl]If it was that simple, we wouldn't be having this conversation!
+Mghh....! If it was that simple,[nl]we wouldn't be having this conversation!
 @expose
 CTG/CTG0020580
 I mean, to begin with, that kind of attitude is the whole[nl]reason no thought or planning goes into our scheduled[nl]dates. You should at least plan dates a little more seriously.
@@ -41,7 +41,7 @@ CTG/CTG0020630
 You really are a--
 @ＢＧＭ停止
 RAK/RAK0072240G
-Gorilla girl!
+Gorilla girl! / Stupid bean sprout!
 .....
 @ザクシャ千棘・小
 CTG/CTG0020650

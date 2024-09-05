@@ -3,7 +3,7 @@ __main
 @ssr_120
 @イベント開始処理
 RAK/RAK0055960
-Hm? I feel like someone's staring at me.)
+(Hm? I feel like someone's staring at me.)
 @フェードアウト
 @背景変更2
 RAK/RAK0055970

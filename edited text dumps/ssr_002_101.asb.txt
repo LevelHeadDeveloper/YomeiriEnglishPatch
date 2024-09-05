@@ -2,7 +2,7 @@ __main
 @Lclearscreenall
 @ssr_002_101
 @2ショット開始
-Make this date a success!
+Let the date succeed!
 @ＢＧＭ再生
 SSR/SSR0002300
 Well, then----[nl]C-Come on!

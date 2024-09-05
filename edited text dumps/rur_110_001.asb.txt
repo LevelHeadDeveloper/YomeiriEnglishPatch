@@ -3,7 +3,7 @@ __main
 @rur_110
 @イベント開始処理
 RAK/RAK0042620
-Chitoge, you about finished with your work over there?[nl]I think it's about time we get these guys back into their houses.
+Chitoge, you about finished with your work over there?[nl]I think it's about time we get these guys[nl]back into their houses.
 CTG/CTG0013260
 Houses? Ohh, you mean their cages?
 RAK/RAK0042630

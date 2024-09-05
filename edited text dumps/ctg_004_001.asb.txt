@@ -8,7 +8,7 @@ Let's see, add the butter, sugar, and eggs to a bowl....[nl]Then stir well, and.
 CTG/CTG0003560
 Then you add the flour mixture and mix it by hand, right?
 SSR/SSR0000010
-Correct, mistress. That will be the cookie dough.[nl]Roll it out thinly, cut it into whatever shape you want,[nl]and you're done.
+Correct, Mistress. That will be the cookie dough.[nl]Roll it out thinly, cut it into whatever shape you want,[nl]and you're done.
 CTG/CTG0003570
 Okay. Thanks, Tsugumi.
 CTG/CTG0003580
@@ -16,7 +16,7 @@ Cookies are surprisingly easy to make.[nl]I think I can handle this.
 SSR/SSR0000020
 Well, after all, it is just a high school cooking class.[nl]It's not intended to require a lot of skill.
 CTG/CTG0003590
-Yeah. Let's take it easy.
+Yeah. I'll be just fine.
 CTG/CTG0003600
 Alright, how should I shape this?
 @expose
@@ -35,17 +35,17 @@ Huh? Just a normal dog shape, why?
 MRK/MRK0000030
 T-That Picasso-painting-esque shape is a dog....
 MRK/MRK0000050
-Hehe....as usual, Kirisaki, your modelling skills[nl]are on par with a professional's.
+Hehe....as usual, Kirisaki, your modelling skills[nl]are strictly professional-quality.
 CTG/CTG0003650
 What, are you saying I'm bad at this?[nl]It doesn't matter if it looks a little weird.[nl]Once you eat it, it's all the same.
 SSR/SSR0000030
-That's another problem all on its own, mistress.
+That's another problem all on its own, Mistress.
 RUR/RUR0000260
 On that note, I'm absolutely smitten with[nl]how good Kosaki's modelling is.
 RUR/RUR0000270
 How any artist could sculpt a three-dimensional rose[nl]out of cookie dough is beyond me.
 KSK/KSK0000360
-Ehehehe......
+Hehehehe......
 RUR/RUR0000280
 Now if only it tasted good....
 ........
@@ -81,7 +81,7 @@ SYU/SYU0000060
 Haha. I'm kind of tempted to eat them now.
 @時間経過演出
 CTG/CTG0003660
-Time to eat~!
+All ready!
 SYU/SYU0000070
 Oho! I've been waiting for this!
 SSR/SSR0000040
@@ -89,13 +89,13 @@ Now, all that's left is to decide who tastes whose cookie.
 MRK/MRK0000060
 Well, if that's the case, then of course[nl]Raku dearest gets my cookies--
 CTG/CTG0003670
-Ah, hang on, Marika![nl]What the hell are you talking about!?
+Oh, hang on, Marika![nl]What the hell are you talking about!?
 MRK/MRK0000070
 There's nothing wrong with the early bird getting the worm.[nl]Besides, I'm sure Raku dearest would much rather[nl]eat my cookies than your weirdly shaped ones!
 CTG/CTG0003680
 What did you say!?
 CTG/CTG0003690
-That's not true at all! Darling!
+That's not true at all! Right, darling!?
 RAK/RAK0002150
 Huh? Umm...well...
 RAK/RAK0002160
@@ -113,7 +113,7 @@ Then let's draw lots one at a time.[nl]Raku Ichijo, you first.
 RAK/RAK0002180
 S-Sure! Me first, huh....
 RAK/RAK0002190
-Out of the seven batches of cookies, one is outstandingly[nl]beautifully shaped, and another that's outstandingly....[nl]avant-garde-ly shaped. 
+Out of the seven batches of cookies, one is outstandingly[nl]beautifully shaped, and another is outstandingly....[nl]avant-garde-ly shaped. 
 KSK/KSK0000370
 Oh, those are mine and Chitoge's.
 RAK/RAK0002200
@@ -121,7 +121,7 @@ Yeah, I figured....
 RAK/RAK0002210
 God, Buddha, whoever's listening....[nl]Please, anyone other than those two....
 OTM/OTM0000010
-It is my turn....!
+'Tis my time to shine....!
 RAK/RAK0002220
 Huh?
 @背景変更
@@ -132,11 +132,11 @@ I hath seen that thou art in trouble,[nl]so I came here to aid thee.
 RAK/RAK0002240
 No, you're just here because you smelled cookies,[nl]not because I'm in trouble!
 OTM/OTM0000030
-Mhm. Thou art not too far off!
+Mhm. Thou art more than half right!
 RAK/RAK0002250
-Jeez, I told you to stay at home and keep quiet!
+Dammit, I told you to stay at home and keep quiet!
 CTG/CTG0003700
-Hey, Raku? Is there someone under the sink?[nl]Do you think it's some kind of weird bug?
+Hey, Raku? Is there something under the sink?[nl]Do you think it's some kind of weird bug?
 RAK/RAK0002260
 Uhh....no, it's fine! I got rid of it already.
 OTM/OTM0000040
@@ -144,7 +144,7 @@ Mgh....it is very rude to treat me like a weird bug.
 RAK/RAK0002270
 It's fine! Stay here and hide.[nl]It would be a huge nuisance if you were found!
 OTM/OTM0000050
-You got it. Well, there is no shortage of powers that[nl]I can use from underneath the sink.
+Very well. There is no shortage of powers that[nl]I can use from underneath the sink, anyway.
 RAK/RAK0002280
 Powers? You're not gonna do something weird, are you?
 OTM/OTM0000060
@@ -198,7 +198,7 @@ So what if it's rare?[nl]We can't judge our own cookies.
 RAK/RAK0002340
 ....Hey, did you do this?
 OTM/OTM0000070
-Of course.[nl]Thou wert trying to avoid those two's cookies, right?
+Of course.[nl]Thou art trying to avoid those two's cookies, right?
 OTM/OTM0000080
 Hehehe....be grateful, alright?
 RAK/RAK0002350
@@ -206,7 +206,7 @@ Well, I guess I don't need to worry about food poisoning[nl]from my own cookies.
 CTG/CTG0003740
 Hey, Raku. Who the hell are you talking to?
 RAK/RAK0002360
-Uh, no, no one....!
+Uh, n-no one....!
 MRK/MRK0000120
 Can't we just not have the lottery, please?[nl]Let everyone eat whoever's cookies they want.
 SSR/SSR0000070
@@ -299,7 +299,7 @@ Ffffffff..........
 RAK/RAK0002520
 (Alright, I'm a man![nl] I'm ready.)
 RAK/RAK0002530
-L-Let's eat....!
+D-Down the hatch....!
 @ザクシャ千棘・小
 CTG/CTG0003860
 Yes! Please enjoy it!
@@ -326,7 +326,7 @@ Umm....perhaps....they weren't quite to your liking?
 RAK/RAK0002600
 "Not to my liking" doesn't even begin to describe them![nl]What the hell did you even put in these cookies!?
 CTG/CTG0003880
-Well, some rock salt, black pepper, some horseradish,[nl]a soda, and a little mustard....
+Well, some rock salt, black pepper, some wasabi,[nl]a soda, and a little mustard....
 RAK/RAK0002610
 HUUUUH!?
 CTG/CTG0003890
@@ -374,7 +374,7 @@ RAK/RAK0002720
 RAK/RAK0002730
 Do you think I hurt her feelings....?
 SSR/SSR0000090
-If you think so, why don't you go see the mistress now?
+If you think so, why don't you go see her now?
 SSR/SSR0000100
 Just like her lover should.
 MRK/MRK0000200
@@ -382,7 +382,7 @@ Well, if you ask me, you should stay here[nl]and drool over my cookies some more
 SSR/SSR0000110
 Hey, don't butt in.
 RAK/RAK0002740
-Alright. Anyway, I'm going to go find Chitoge[nl]and talk this out.
+Alright. I'm going to go find Chitoge[nl]and talk this out.
 KSK/KSK0000450
 Okay. I'll tell the teacher you both had to[nl]go do something urgent.
 RAK/RAK0002750
@@ -395,9 +395,9 @@ Hahhhh. That didn't work after all.
 CTG/CTG0003960
 He likes animals, so I went to the trouble of[nl]making them in the shape of an animal....
 CTG/CTG0003970
-But they were too squishy to be able to tell....
+But they were too squished to be able to tell....
 CTG/CTG0003980
-Jeez, what a stupid bean sprout.[nl]He just doesn't get how I feel about what I make.
+Gawd, what a stupid bean sprout.[nl]He just doesn't get how I feel about what I make.
 CTG/CTG0003990
 ....Hey, Ta-kun. You get how I'm feeling, right?
 SNK/SNK0000060

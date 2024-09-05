@@ -8,11 +8,11 @@ RUR/RUR0002000
 ----
 RUR/RUR0002010
 ....I wonder if maybe it's not "Meowsville 2"[nl]that's in that case.
-What's on that DVD?
+What's on there?
 ....It's "Meowsville 2"
 A boring comedy
 A splatter film
-Something shameful
+Something perverted
 @rur_002_02_ans04
 @rur_002_103_01
 RUR/RUR0002020
@@ -31,7 +31,7 @@ RUR/RUR0002070
 This seems dubious to me.
 RUR/RUR0002080
 ....I'll ask you once more.[nl]What's really on that DVD?
-What's really on the DVD?
+What's really on there?
 ....It is "Meowsville 2"
 @rur_002_01_ans06
 @rur_002_103_03

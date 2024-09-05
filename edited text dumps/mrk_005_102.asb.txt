@@ -4,7 +4,7 @@ __main
 @expose
 MRK/MRK0005890
 Raku dearest, do you believe in[nl]this sort of thing?
-Do you believe in legends?
+Do you believe?
 Trust in only yourself!
 Just a little
 MRK/MRK0005920

@@ -1,6 +1,6 @@
 __main
 @Lclearscreenall
-@デバッグ
+@debug
 key_0.0.0.1
 Game Flow: Undefined
 Game Flow: Normal Prologue Event
@@ -546,26 +546,26 @@ Item 30 lock unstaged.
 Lock control test complete.
 @登録人数オーバー
 CTG/CTG0012290
-Everyone! Come look![nl]There's a lot of inari sushi here!
+Everyone! Look, look![nl]There's a lot of inari sushi here!
 RUR/RUR0008060
-Chitoge.[nl]That's an offering to the Inari-sama....
+Chitoge. I'm pretty sure those are[nl]offerings for the inari-sama....
 SYU/SYU0006560
-But, if we don't eat it, we're all going to starve[nl]to death, and we can't help a little bit of bad luck.
+But if we just leave it, we'll all starve to death,[nl]so a little bad-luck curse can't be helped at this point.
 SSR/SSR0011400
-That's true.[nl]Survival is our top priority.
+That's right. Right now,[nl]our top priority is to survive.
 MRK/MRK0010230
-One, two, three....[nl]There's exactly six of them.
+One, two, three....[nl]There's exactly six of these.
 KSK/KSK0009740
-These look delicious.[nl]Almost as if Ichijo....
+They look delicious.[nl]Almost like Ichijo made them....
 OTM/OTM0004310
 I shan't share my inari sushi with anyone!
 SYU/SYU0006660
-Ahh~, it permeates my whole being.[nl]Otama, give me a double helping!
+Ahhh, it's spreading throughout my whole body.[nl]Otama, get me a refill!
 OTM/OTM0004450
-Too much!
+Right!
 @時間経過演出
 CTG/CTG0012470
-Haha, I'm so full![nl]That was absolutely delicious![nl]Now I know your magic is real.
+Ahhh, I'm so full![nl]That was absolutely delicious![nl]Now I know your magic is for real.
 @ポーズ確認
 @イベント開始処理
 Raku

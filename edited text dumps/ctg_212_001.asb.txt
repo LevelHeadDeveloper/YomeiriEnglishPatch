@@ -14,6 +14,6 @@ Hm? Yeah....maybe.
 CTG/CTG0022580
 If you're not feeling well,[nl]take it easy and try to get some rest, alright?
 RAK/RAK0074550
-Okay, thanks
+Okay, thanks.
 @イベント終了処理
 common.asb

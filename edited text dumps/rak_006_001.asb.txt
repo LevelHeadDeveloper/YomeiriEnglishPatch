@@ -1,0 +1,1529 @@
+__main
+@Lclearscreenall
+@rak_006
+@イベント開始処理
+@ＢＧＭ再生
+RAK/RAK0040160
+I'm home!
+RAP/RAP0000400
+Oh, you're back. That's perfect.[nl]I need to ask you a favor.
+RAK/RAK0040170
+Dad.... You need a favor?
+RAK/RAK0040180
+Don't tell there's gonna be another[nl]girlfriend or fiancee or something.
+RAP/RAP0000410
+Hahaha! No need to be so cautious!
+RAP/RAP0000420
+Actually, the Shuei-Gumi is having a little[nl]get-together with the Beehive executives pretty soon.
+RAP/RAP0000430
+And they'd like you to cook for them.
+RAK/RAK0040190
+Huh? Wait a sec.[nl]Why would they want to eat my cooking?
+RAP/RAP0000440
+Well, the young lady was going on and on about[nl]how good your cooking is. So they figured if it's that good,[nl]why not try it at least once?
+RAK/RAK0040200
+Huh? Chitoge said that?
+RAP/RAP0000450
+Yep. I only asked you to pretend to be dating,[nl]but it sounds like you two are pretty close anyway.
+RAK/RAK0040210
+T-That's not true!
+RAK/RAK0040220
+But, well, if she's gonna say that much,[nl]I guess I could make dinner for them.
+RAP/RAP0000460
+Oh, I see. Well, you'd better get moving,[nl]they'll be here tonight.
+RAK/RAK0040230
+Right, leave it to-
+RAK/RAK0040240
+Wait, tonight!?[nl]Why so soon, Dad!?
+RAP/RAP0000470
+It couldn't be helped.[nl]Today was the only day we could all meet.
+RAP/RAP0000480
+Well, you could think of it as a test of your love[nl]for your girlfriend, and give it your all.
+RAK/RAK0040250
+N-Ngghhh....!
+@ＢＧＭ停止
+@時間経過演出
+RYU/RYU0001160
+Young master, it's finished![nl]Whaddya need me to do next?
+RAK/RAK0040260
+I need you to chop the cabbage.[nl]Remember to cut with the grain, okay?[nl]It's easier to eat that way!
+RYU/RYU0001170
+You got it!
+RAK/RAK0040270
+Goddammit, I'll do it![nl]I'll make them a feast so delicious their eyeballs[nl]will pop out!
+RAK/RAK0040280
+Whaaat!? They're here already!?[nl]They weren't due for another two hours!
+RYU/RYU0001180
+Young master! Some strong allies are here to help you!
+RAK/RAK0040290
+Huh? Allies....?
+RAK/RAK0040300
+Oh, you guys!?
+CTG/CTG0011680
+Hello! We're here to help.
+KSK/KSK0009420
+It was suddenly decided there'd be a party tonight, right?
+RAK/RAK0040310
+Yep, that's right. But....
+@expose
+CTG/CTG0011690
+I heard, I heard.[nl]They said they wanted to eat your cooking, right?
+CTG/CTG0011700
+It's pretty hard to make so much food[nl]on such short notice, so we all came to help.
+SSR/SSR0010990
+Ahem.... Well, it is for the Mistress, after all.[nl]If there's anything we can do, please don't hesitate to ask.
+MRK/MRK0009900
+It's hardly appropriate for a police commisioner's daughter[nl]to be helping out at a meeting between gangsters and[nl]yakuza.... But if it's for Raku dearest, I don't care!
+RAK/RAK0040320
+You guys....for me!?[nl]Thanks, I owe you all one!
+RAK/RAK0040330
+(Battle force analysis:....)
+RAK/RAK0040340
+(Judging from past experience, and from the school trip,[nl] I'd say it's something like this....)
+RAK/RAK0040350
+(Oh no.... It's obvious that the positives[nl] here are outweighed by the negatives....)
+CTG/CTG0011710
+Don't look so scared.[nl]At least we won't get in the way!
+CTG/CTG0011720
+Well, for now, just lighten up and[nl]let us help you!
+RAK/RAK0040360
+O-O-Okay....
+RAK/RAK0040370
+(If the guys from the Beehive get food poisoning,[nl] we can count on a war....[nl] I've gotta be careful how I divide the work....)
+RAK/RAK0040380
+Alright, Chitoge, you and I will bring out the food.[nl]Onodera, Ryuu, you two get the plates. Tachibana,[nl]Tsugumi, you two get your jobs from those guys over there.
+CTG/CTG0011730G
+Okay!
+RAK/RAK0040390
+Alright, Chitoge.[nl]Let's get this over with!
+CTG/CTG0011740
+By the way, this looks absolutely delicious.[nl]*licks lips*
+RAK/RAK0040400
+Don't go tasting anything without permission, okay?
+CTG/CTG0011750
+S-S-So rude![nl]I seriously wouldn't do that....?
+RAK/RAK0040410
+Why'd you end that with a question mark?[nl]Please don't. I'm serious.
+CTG/CTG0011760
+Yeah, yeah, I got it![nl]Mmph....
+RAK/RAK0040420
+Wha.... That's a lot of plates![nl]Hey, aaagh! Stop! Don't put all those on your head!
+CTG/CTG0011770
+Stop screaming. It'll be fine.
+RAK/RAK0040430
+B-Be careful, okay!?
+CTG/CTG0011780
+I know. Jeez!
+RAP/RAP0000490
+Oh, good![nl]You're helping out too, ma'am?
+CTG/CTG0011790
+Uh, y-yeah.
+RAP/RAP0000500
+I guess "wife" in "fruits of a wife's labor"[nl]refers to someone like you, huh?
+RAP/RAP0000510
+Hey, Raku. How about the two of you[nl]just get married already?
+@キャラ揺らし
+CTG/CTG0011800
+----!?
+RAK/RAK0040440
+Gaaaaaaaaah! The fooooooood!
+CTG/CTG0011810
+Gaaah!? S-S-S-Sorry!
+RAP/RAP0000520
+Oh, sorry if I'm in the way.[nl]Let me move back again.
+RAK/RAK0040450
+D-Daaaadddd! We need to make this stuff[nl]all over again, dammit!
+CTG/CTG0011820
+I-I'm sorry....[nl]We can remake it together.
+RAK/RAK0040460
+(That's the one thing I can't let her do!)
+RAK/RAK0040470
+N-N-No, this food's not that hard to make,[nl]so don't worry about it!
+RAK/RAK0040480
+Besides, we've still got a lot of other things to do.[nl]Better busy than depressed! I'm counting on you, okay?
+CTG/CTG0011830
+....O-Okay.
+RAK/RAK0040490
+Alright then! Can you put the chopstick holders out[nl]for me, please? I don't have time to do it myself!
+CTG/CTG0011840
+Okay! Leave it to me!
+RAK/RAK0040500
+....Phew.[nl]Now I'd better remake that food as fast as I--
+RAK/RAK0040510
+Who was it this time!?
+KSK/KSK0009440
+Kyaah! S-S-Sorry!
+RAK/RAK0040520
+Huh? Onodera?
+RYU/RYU0001190
+Sorry, young master![nl]I was standin' behind her, an' I prob'ly startled her[nl]with my loud voice, and then....
+RAK/RAK0040530
+Ohh, I see. I'm sorry I shouted at you[nl]just now, Onodera.
+RAK/RAK0040540
+Also, you could get hurt touching those broken plates,[nl]so you don't have to worry about it. I'll have[nl]our guys clean this up!
+KSK/KSK0009450
+O-Okay.... I really am sorry, Ichijo![nl]And at such a busy time as this, no less....
+RAK/RAK0040550
+It's fine, I'm just glad you weren't hurt.
+KSK/KSK0009460
+Ichijo....
+RYU/RYU0001200
+Young master....!
+RAK/RAK0040560
+....What are you crying for?
+RYU/RYU0001210
+You really are second to no one, young master!
+RYU/RYU0001220
+The way you're always concerned about yer friends' safety[nl]is da absolute best!
+RYU/RYU0001230
+*sniff*.... I'll get these shards of glass cleaned up,[nl]so please find somethin' else for her to do, young master!
+RAK/RAK0040570
+S-Sure....[nl]Okay, Onodera, can you....arrange the food for me?
+KSK/KSK0009470
+Oh....yes![nl]I can do the arranging!
+KSK/KSK0009480
+Thanks, Ichijo.
+RAK/RAK0040580
+No. I should be thanking you.
+@時間経過演出
+RAK/RAK0040590
+Yeah! I've made up for the lost food!
+RAK/RAK0040600
+I should probably check up on the other two now.
+@背景変更
+RAK/RAK0040610
+Tachibana. I was told you were asked to make[nl]some flower arrangements, so how's that goi--
+RAK/RAK0040620
+Wait, w-what is thiiiissss!?
+MRK/MRK0009920
+Raku dearest! Do you like it?
+RAK/RAK0040630
+No....d-dude. This flower arrangement is way too big![nl]It's practically breaking through the ceiling!
+MRK/MRK0009930
+I tried my absolute best to express my love[nl]for my darling Raku, without holding anything back. ★
+MRK/MRK0009940
+Now, it just needs the finishing touch....
+MRK/MRK0009950
+And it's all done!
+RAK/RAK0040640
+(Waaaaagh!? She put a plaque on it that says[nl] "HAPPY WEDDING! Raku ★ Marika"!)
+RAK/RAK0040650
+U-Ummm.... Tachibana?[nl]The bit that says "happy wedding" is just a little too....
+RAK/RAK0040660
+Wait, why are you getting closer to me!?
+MRK/MRK0009960
+Heheh....[nl]It's just the two of us back here, Raku dearest.
+RAK/RAK0040670
+No, everyone else is on the other side[nl]of this sliding door, right?
+RAK/RAK0040680
+(She slid it shut with her foot!)
+MRK/MRK0009970
+I just want a little....
+RAK/RAK0040690
+....Huh?
+MRK/MRK0009980
+Even if it's just for a little while,[nl]Raku dearest, I'd like to be alone with you.
+MRK/MRK0009990
+So, just for a little while,[nl]let me have you all to myself....
+RAK/RAK0040700
+Tachibana....
+@画面揺らし2
+SSR/SSR0011010
+HEY! MARIKA TACHIBANA!
+MRK/MRK0010000
+Kyaaah!
+SSR/SSR0011020
+Stop dilly-dallying when we've got so much to do![nl]I hope you've finished the job you were given!
+MRK/MRK0010010
+Good grief....and we were just about to[nl]get to the good part.
+SSR/SSR0011030
+What are you talking about!?[nl]Raku Ichijo, the Mistress is looking for you.[nl]You'd better go see her.
+RAK/RAK0040710
+R-Right![nl]Tachibana, please make a *very normal*[nl]flower arrangement for me!
+MRK/MRK0010020
+Okay. I'll finish that up right away[nl]and then go to where you are, so please wait up for me!
+RAK/RAK0040720
+So, what does Chitoge need from me?[nl]Don't tell me something else happened?
+SSR/SSR0011040
+No, that was just a pretext.[nl]I was passing by and caught a glimpse of you,[nl]and you looked pretty stressed out.
+RAK/RAK0040730
+I see, you were being considerate.[nl]....Thanks, Tsugumi.
+SSR/SSR0011050
+The reason you get into situations like that so often[nl]is because you're so careless. You could stand to be[nl]a bit more careful every day.
+RAK/RAK0040740
+Oh, sorry....
+SSR/SSR0011060
+Heh. You're such a pain.
+SSR/SSR0011070
+By the way, do you mind if I use your washroom?[nl]I've been doing some pretty heavy work[nl]and now I'm all sweaty.
+RAK/RAK0040750
+Yeah, it's just through that door.[nl]Be my guest.
+SSR/SSR0011080
+Very well.
+RAK/RAK0040760
+Man, I'm sure glad you showed up, Tsugumi.[nl]I don't know what I would've done if it had[nl]just been the other three.
+SSR/SSR0011090
+Heh. Well, just this once,[nl]I'll admit you're in a pretty rough spot.
+RAK/RAK0040770
+Thanks, Tsugumi.[nl]Ya know, someone as skillful as you[nl]would make a really great wife.
+RAK/RAK0040780
+W-What's wrong!?
+SSR/SSR0011100
+....I-I'm sorry! I broke the tap!
+RAK/RAK0040790
+Huh!?
+SSR/SSR0011110
+Ghh! The water....it won't stop!
+RAK/RAK0040800
+Wha.... How did you break the faucet!?
+SSR/SSR0011120
+S-Shut up![nl]It's your own fault for saying those unnecessary things!
+RAK/RAK0040810
+Aaaagh, Tsugumi! You're soaked to the skin![nl]Here, use this towel!
+SSR/SSR0011130
+Oh, thanks....
+SSR/SSR0011140
+Waaaagh!? It's see-through....
+RAK/RAK0040820
+See-through....?[nl]Waaaagh!?
+SSR/SSR0011150
+DON'T LOOK AT MEEEEE!
+@ＨＰ－２０
+RAK/RAK0040830
+Glbctkh!
+RAK/RAK0040840
+W-Why did you have to hit me!?
+SSR/SSR0011160
+I-I-I-I-I'm sorry! But....[nl]Anyway, if you look at me, I'll kill you!
+RAK/RAK0040850
+I know! I won't look at you,[nl]even without that!
+RYU/RYU0001240
+Young master! The Beehive's executives[nl]get here in 20 minutes!
+RAK/RAK0040860
+W-Whaaaaat!?[nl]That's earlier than we planned!
+RAK/RAK0040870
+Tsugumi, I'm sure we have something around here[nl]similar to your clothing, so ask Ryuu if you can wear it![nl]I'm going to go finish up the final touches!
+SSR/SSR0011170
+G-Got it!
+RAK/RAK0040880
+Dammmit![nl]Faster!
+@ＢＧＭ停止
+RAP/RAP0000530
+Woww, well done![nl]I think they'll be pleased with this too, huh?
+RAK/RAK0040890
+----
+RAP/RAP0000540
+....What is it?[nl]You've been looking pretty worn-down[nl]these last few hours....
+RAK/RAK0040900
+Well....I'm just really tired....[nl]Just eat as much as you want. I'm going to go[nl]get myself a little sleep....
+CTG/CTG0011850
+Good work today, Raku.[nl]We're gonna go ahead and leave now.
+RAK/RAK0040910
+Sure.... Everyone, thanks for all your help.[nl]I should at least see you off....
+KSK/KSK0009490
+That's fine, Ichijo.[nl]You must be very tired, so why not go rest now?
+MRK/MRK0010030
+And I shall attend to you....
+SSR/SSR0011180
+Just go home.
+MRK/MRK0010040
+Aah!
+CTG/CTG0011860
+Okay, see you at school.
+KSK/KSK0009500
+See you later.
+RAK/RAK0040920
+Ugghhh....[nl]I'm really tired....
+OTM/OTM0004240
+Raku, thou hast finally returned!
+OTM/OTM0004250
+I hath been awaiting thy return![nl]Make haste and gimme some inari sushi, quick, quick!
+RAK/RAK0040930
+Nghh....[nl]Sorry, I can't....
+OTM/OTM0004260
+I have been waiting for so long! That's just cruel![nl]Inari sushiiii! Inari sushiiii!
+RAK/RAK0040940
+Mmmgh.... Otama, this is the only time I'll ask you for this,[nl]so please don't disturb me....
+RAK/RAK0040950
+I just want to sleep forever....
+OTM/OTM0004270
+....The only time he'll ask me....
+OTM/OTM0004280
+Oh, I get it! Thy wish shall be granted![nl]Thou shalt sleep in peace now.
+RAK/RAK0040960
+Okay....
+RAK/RAK0040970
+........
+RAK/RAK0040980
+Zzz....
+@フェードアウト
+CTG/CTG0011870
+Good morning.
+SSR/SSR0011200
+Good morning, everyone.
+KSK/KSK0009510
+Chitoge. Tsugumi. Good morning.[nl]Good work yesterday.
+CTG/CTG0011880
+I knew it....[nl]My darling's not here, either.
+KSK/KSK0009520
+What? Hey, come to think of it,[nl]you were supposed to walk with Ichijo today, right?
+CTG/CTG0011890
+That's right. He didn't show at our usual rendezvous point.[nl]I tried calling him and everything.
+KSK/KSK0009530
+I see....
+MRK/MRK0010050
+So he's finally tired of going to school with you, Kirisaki.[nl]Raku dearest, you naughty, naughty boy....
+CTG/CTG0011900
+Yeah, yeah, keep telling yourself that.
+CTG/CTG0011910
+Actually, it isn't just Raku,[nl]but there's something strange going on.
+KSK/KSK0009540
+Strange?
+CTG/CTG0011920
+Neither Daddy nor Claude has come back yet,[nl]even though everyone else who attended the[nl]get-together yesterday has.
+KSK/KSK0009550
+Huh!? Really!?
+SSR/SSR0011210
+Yes. I tried contacting Master Claude, but I couldn't[nl]get through to him over the regular phone, much less over[nl]the emergency hotline....
+KSK/KSK0009560
+Could it be that the party is still going?
+CTG/CTG0011930
+I don't think that's likely. And even if it was,[nl]it's still weird that we can't get in touch with them.
+SSR/SSR0011220
+SSR/SSR0011230
+Mistress. I didn't want to even think about[nl]this possibility, but....
+CTG/CTG0011940
+You're saying something might have happened[nl]between the Shuei-Gumi and our guys?[nl]Well, it is possible.
+CTG/CTG0011950
+But if that's the case, then Darling....
+SSR/SSR0011240
+Yes. It's possible he got caught in the conflict....
+MRK/MRK0010060
+It's considered poor taste[nl]to whisper directly in front of someone.
+CTG/CTG0011960
+!
+MRK/MRK0010070
+If you have some idea what's going on,[nl]please say clearly what it is.
+MRK/MRK0010080
+And if Raku dearest is involved,[nl]all the more reason.
+CTG/CTG0011970
+Marika....
+SYU/SYU0006410
+What's wrong with Raku?
+KSK/KSK0009570
+Ruri. Maiko....
+RUR/RUR0007920
+Is something the matter?[nl]You all look so serious.
+KSK/KSK0009580
+Yeah, actually....
+TLP/TLP0000010
+The phone you are attempting to call is either out of range[nl]or is powered off, so it cannot be reached.
+SYU/SYU0006420
+How'd it go?
+CTG/CTG0011980
+No good. Out of range.
+SSR/SSR0011250
+Same with Master Claude's.[nl]There shouldn't even be anywhere where[nl]his phone wouldn't get signal.
+MRK/MRK0010090G
+KYK/KYK0000070
+Alriiiight, everyone, get in your seats!
+KYK/KYK0000080
+Oh, that's unusual. Is Ichijo absent today?[nl]I haven't heard anything from him.
+CTG/CTG0011990
+CTG/CTG0012000
+Teacher! I don't feel too well,[nl]can I leave early?
+KYK/KYK0000090
+Huh?
+SSR/SSR0011260
+Mistress!?
+MRK/MRK0010100
+I don't feel well either,[nl]I feel like I could collapse at any second!
+SSR/SSR0011270
+Ghhh! M-Me too!
+SYU/SYU0006430
+I've been feeling a bit feverish, too.[nl]I think I might have the flu.
+RUR/RUR0007940
+So obvious....
+RUR/RUR0007950
+Well, Kosaki? What about you?
+KSK/KSK0009600
+Huh!? U-Ummm....well....
+KSK/KSK0009610
+KSK/KSK0009620
+Yes. I....I also think I have[nl]a pretty throbbing headache!
+RUR/RUR0007960
+Well, so do I.[nl]I'll be leaving, too.
+KYK/KYK0000100
+Hang on, you guys....
+CTG/CTG0012010
+Teacher!
+KYK/KYK0000110
+CTG/CTG0012020
+Please....teacher!
+KYK/KYK0000120
+Hmmmm....
+KYK/KYK0000130
+I see.... Good grief.
+KYK/KYK0000140
+The third-period exam.
+CTG/CTG0012030
+Huh?
+KYK/KYK0000150
+It's not exactly easy for the people[nl]who make the make-up exams, either.
+@expose
+CTG/CTG0012040G
+----!
+KYK/KYK0000160
+This time of year is really bad for colds.[nl]You'd all better go straight home and rest.
+KYK/KYK0000170
+Okay, let's get class started.
+CTG/CTG0012050
+Thanks a million, teacher!
+KYK/KYK0000180
+Of course. Give my regards to Ichijo.
+CTG/CTG0012060
+There's....no one coming out.
+SSR/SSR0011290
+It's still strange.
+CTG/CTG0012070
+SSR/SSR0011300
+Mistress.
+CTG/CTG0012080
+....Yeah.
+CTG/CTG0012090
+Hey, everyone, listen up.
+CTG/CTG0012100
+It's possible there's been some kind of terrible situation[nl]between the Shuei-Gumi and the Beehive.
+CTG/CTG0012110
+Worst case....there may have been[nl]a gunfight in here....
+CTG/CTG0012120
+We don't know what kind of danger could be[nl]waiting from here on out. That's why, starting now,[nl]it'll be just me and Tsugumi....
+MRK/MRK0010120
+....Oh, it looks like the door's unlocked.
+CTG/CTG0012130
+Wha!? Marika!!
+MRK/MRK0010130
+Please don't underestimate me.[nl]Raku dearest may be in grave danger.
+MRK/MRK0010140
+If that's the case, we can't just sit around[nl]and hope the two of you sort this out.
+KSK/KSK0009640
+That's right! We can't let Chitoge and Tsugumi[nl]walk into danger alone.
+CTG/CTG0012140
+Kosaki....
+SYU/SYU0006450
+Alright then, let's get in there quickly.[nl]I'm worried about my best buddy, too.
+RUR/RUR0007980
+Then, Maiko, you can have the honor of going first.[nl]If anything happens, we can use you as a human shield.
+SYU/SYU0006460
+Aww, that's mean.
+RUR/RUR0007990
+Let's go.
+KSK/KSK0009650
+Yeah!
+CTG/CTG0012150
+You guys....
+SSR/SSR0011310
+I'll protect all of them.[nl]Let's get moving, Mistress.
+CTG/CTG0012160
+Yeah....
+SYU/SYU0006470
+Please pardon the intrusion.[nl]Is anyone at home?
+KSK/KSK0009660
+As we thought, there's no one[nl]coming to greet us.
+RUR/RUR0008000
+It's far to quiet for anyone to even be here.
+SSR/SSR0011320
+I can't smell any gunsmoke or blood, either.[nl]Doesn't seem like there was a fight....
+CTG/CTG0012170
+Then, what the hell happened?
+MRK/MRK0010150
+There's no point standing here thinking about that.[nl]We need to go investigate, right?
+SYU/SYU0006480
+That's right.[nl]To start with, let's go to Raku's room.
+SYU/SYU0006490
+....Huh?
+SYU/SYU0006500
+That's weird.[nl]Was Raku's room always this far of a walk?
+CTG/CTG0012180
+You're right....[nl]It *was* around here, wasn't it?
+CTG/CTG0012190
+It's a different room, after all.
+SSR/SSR0011330
+I don't understand.[nl]I also remember his room being somewhere around here....
+KSK/KSK0009670
+Hmmmm, was it this way?
+MRK/MRK0010160
+Huh? There's another hallway[nl]leading out from this one?
+SSR/SSR0011340
+This one looks like a study.
+CTG/CTG0012200
+Oh, in here! This is Raku's father's room![nl]But I thought this was further in....
+RUR/RUR0008010
+What is this....? What does this mean?
+KSK/KSK0009680
+The rooms are in a different order than usual?
+MRK/MRK0010170
+It's as though we wandered into a labryinth.
+SYU/SYU0006510
+Hmmm....this *is* pretty bad.[nl]Shall we go back the way we came?
+SSR/SSR0011350
+No, it doesn't look like it'll be that simple.[nl]The room behind us is already different than before....
+SYU/SYU0006520
+Eek!?
+RUR/RUR0008020
+That's impossible!
+SSR/SSR0011360
+Yep. Something like this just doesn't happen normally....![nl]It could be a mass hallucination....or maybe real magic....
+KSK/KSK0009690
+Anyway, does that mean we can't go home anymore?
+SYU/SYU0006530
+Hmmm.... This is a problem....
+CTG/CTG0012210
+In any case, let's try to find Raku and the others first, okay?[nl]Maybe they're also wandering around in here,[nl]trying to get out.
+KSK/KSK0009700
+....Yeah, sounds good.[nl]If we keep walking around, we might run across[nl]Ichijo's room at some point.
+MRK/MRK0010180
+Of course we should.[nl]Otherwise, there won't have been a point in coming here.
+SSR/SSR0011370
+Then everyone, stick close to me.[nl]If we get separated in here, it's very possible[nl]we might never meet up again.
+CTG/CTG0012220
+Got it. Everyone![nl]Let's move as a group!
+KSK/KSK0009710G
+Okay.
+CTG/CTG0012230
+Aaargh, goddamn it all![nl]No matter how much we walk,[nl]we can't find my darling's room!
+SSR/SSR0011380
+My cell phone's been out of service range[nl]for a while now, and I'm feeling weak....
+CTG/CTG0012240
+Dammit! I'm so hungry![nl]I don't even care about getting to Raku's room now,[nl]I just want to get to the kitchen!
+KSK/KSK0009720
+Chitoge....
+MRK/MRK0010200
+That goes to show just how little you really love[nl]Raku dearest. I'm honestly disappointed.
+CTG/CTG0012250
+Shaddup! We can't do battle on an empty stomach!
+RUR/RUR0008040
+Okay, so let's take a break when we get to the next room.[nl]I'm tired from all this walking.
+SYU/SYU0006550
+Sounds good. Alright, I'm opening the door.
+RUR/RUR0008050
+Oh. This is....
+KSK/KSK0009730
+This is that inari shrine we visited that one time....right?
+CTG/CTG0012260
+Oh. Where are we....?
+SSR/SSR0011390
+This is the neighborhood inari shrine.[nl]I've seen it while patrolling the town.
+CTG/CTG0012270
+Yeeeeeaaaaahh!
+MRK/MRK0010210
+Kyaaah! W-What's this!?[nl]Why did you suddenly yell so loudly....?
+CTG/CTG0012280
+FOOOOOOD!
+MRK/MRK0010220
+Huh!?
+CTG/CTG0012290
+Everyone! Look, look![nl]There's a lot of inari sushi here!
+RUR/RUR0008060
+Chitoge. I'm pretty sure those are[nl]offerings for the inari-sama....
+SYU/SYU0006560
+But if we just leave it, we'll all starve to death,[nl]so a little bad-luck curse can't be helped at this point.
+SSR/SSR0011400
+That's right. Right now,[nl]our top priority is to survive.
+MRK/MRK0010230
+One, two, three....[nl]There's exactly six of these.
+KSK/KSK0009740
+They look delicious.[nl]Almost like Ichijo made them....
+CTG/CTG0012300
+Then, with thanks to the gods....
+CTG/CTG0012310G
+Let's eat!
+OTM/OTM0004290
+STOOOOOOPPPPP!
+CTG/CTG0012320G
+Aaagh!
+OTM/OTM0004310
+I shan't share my inari sushi with anyone!
+OTM/OTM0004300
+Hahh! Hahh! Hahhhh!
+CTG/CTG0012330
+W-W-W-Whaaat!?
+SYU/SYU0006590
+A child!?
+RUR/RUR0008090
+So there's other people here besides us.
+SSR/SSR0011430
+But I've never seen this child before,[nl]in either the Beehive or the Shuei-Gumi.
+MRK/MRK0010260
+It's strange that there's a child here[nl]to begin with. And are those....cat ears?
+OTM/OTM0004320
+I am NOT A CHILD! And these are not cat ears![nl]They're FOX EARS!
+SYU/SYU0006600
+Ooh, you're so cute, and you've even got a tail![nl]You're good at cosplaying, aren't you.
+RUR/RUR0008100
+Don't go touching that little girl, Maiko.
+SYU/SYU0006610
+I wasn't going to.[nl]You really don't have any faith in me at all.
+OTM/OTM0004330
+Hey, listen to me![nl]My name is Otama. What art thou all doing here?
+CTG/CTG0012340
+Well.... We were just looking for Raku....[nl]Er, looking for *someone*....
+OTM/OTM0004340
+So thou art looking for Raku?
+CTG/CTG0012350
+Huh!? So you know who he is!?
+OTM/OTM0004350
+Mhm, of course I knoweth of him![nl]Right now, Raku is fast asleep.
+MRK/MRK0010270
+Asleep....what does that mean?[nl]Is there something the matter with his health?
+KSK/KSK0009770
+And Ichijo's house is like a maze now....[nl]What on earth is going on here?
+KSK/KSK0009780
+....This is all just so confusing.[nl]I'm sorry for asking such a confusing question, big sister.
+OTM/OTM0004360
+There isn't anything wrong with his health.[nl]He told me that he was tired and wanted to sleep,[nl]so I made it so that he could sleepeth forever.
+OTM/OTM0004370
+Also, the reason his house is like a maze[nl]is so that those who could disturb his sleep[nl]cannot reacheth him very easily.
+CTG/CTG0012360
+....H-Hmm? What does that mean, exactly?[nl]I don't really understand.
+OTM/OTM0004380
+As a senko, I useth magic that humans cannot![nl]That is how I am making him sleep.
+CTG/CTG0012370
+...Huh? Senko?
+OTM/OTM0004390
+It's the character "sen" from "sennin (hermit)", with the[nl]kanji for "fox" (read "ko")! It's an existence above that[nl]of a youko (fox spirit).... Doth thou yet understand?
+SSR/SSR0011440
+So you're saying you're not a human.
+CTG/CTG0012380
+What the hell? That's kinda suspicious.[nl]Are you really using powers that humans can't?
+OTM/OTM0004400
+I-It is sacreligious to say it's suspicious![nl]Go on, make a wish and I'll grant it for thee!
+SYU/SYU0006620
+Well, could you summon a super-cute girl right here? ★
+OTM/OTM0004410
+Yeah, of course. Leave it to me!
+CTG/CTG0012390
+Wait just a minute.[nl]What exactly are you gonna do with that?
+SYU/SYU0006630
+Huh? No good?[nl]I thought it would be a pretty simple wish.
+CTG/CTG0012400
+What's simple about that?[nl]Alright, how about this one:
+CTG/CTG0012410
+I want you to serve me the best ramen ever made!
+KSK/KSK0009790
+Huh!?
+SYU/SYU0006640
+Maaan, Kirisaki, I gotta say your wish is[nl]also pretty close to your base desires....
+MRK/MRK0010280
+I have to agree with that statement.
+CTG/CTG0012420
+Shut up!
+OTM/OTM0004420
+Thou art sure about wanting ramen?[nl]Or perhaps thou wouldst prefer the beautiful woman[nl]after all?
+CTG/CTG0012430
+The ramen! Everyone's hungry, right?[nl]Please make enough for everyone!
+OTM/OTM0004430
+Yes, of course!
+@画面揺らし
+CTG/CTG0012440G
+CTG/CTG0012450
+Huh!? Ramen actually appeared!
+CTG/CTG0012460
+*slurp* *slurp* ....D-Delicious![nl]Hey, guys! You gotta try this!
+SSR/SSR0011460
+Huh!? M-M-M-Mistress![nl]At least let me check it for poison first....
+RUR/RUR0008120
+Let's eat.[nl]*slurp* *slurp*
+RUR/RUR0008130
+----!!
+SSR/SSR0011470
+Y-You too, Miyamoto....!?
+OTM/OTM0004440
+Come on, try some![nl]Delicious, isn't it?
+SSR/SSR0011480
+....[nl]Gulp.....
+SSR/SSR0011490
+*slp*
+SSR/SSR0011500
+----!![nl]T-This is so good!
+KSK/KSK0009810
+*slurp* *chew chew*[nl]I wouldn't have thought you could[nl]make ramen this good, Otama!
+MRK/MRK0010300
+I suppose if I want to find Raku dearest[nl]I'll have to eat.
+MRK/MRK0010310
+Fffff.... *nom nom*[nl]Oh my, this really is delicious! ♪
+SYU/SYU0006660
+Ahhh, it's spreading throughout my whole body.[nl]Otama, get me a refill!
+OTM/OTM0004450
+Right!
+@時間経過演出
+CTG/CTG0012470
+Ahhh, I'm so full![nl]That was absolutely delicious![nl]Now I know your magic is for real.
+OTM/OTM0004460
+Hehehe. I'm glad thou enjoyed it.[nl]That makes me happy.★
+KSK/KSK0009820
+Ummm.... So, Ichijo's sleeping right now?[nl]Will he be coming to school tomorrow?
+OTM/OTM0004470
+No, that is impossible.[nl]Raku's wish was to "sleep forever,[nl]without being disturbed by anyone".
+SSR/SSR0011510
+Huh? So you mean he'll just keep sleeping forever....?
+OTM/OTM0004480
+Mhm.
+RUR/RUR0008140
+He'll never wake up for the rest of his life?
+OTM/OTM0004490
+Correct.
+MRK/MRK0010320
+No....![nl]If Raku dearest doesn't wake up, that's a big problem!
+CTG/CTG0012480
+T-That's right. And it's totally obvious[nl]he was speaking figuratively when he said "forever"!
+CTG/CTG0012490
+How do we wake up Raku!?[nl]Tell me, you STUPID FOX!
+@キャラ揺らし
+OTM/OTM0004500
+S-Stopppp![nl]Don't shaketh me so roughly!
+OTM/OTM0004510
+H-Hmmmm.... How to wake up Raku....
+KSK/KSK0009830
+Otama, you're a goddess who grants wishes, right?[nl]Wouldn't it be enough to just wish that he'd wake up?
+OTM/OTM0004520
+'Tis complicated. Basically, wishes made earlier[nl]taketh precedence, unless it was the same person[nl]who made the other wish.
+OTM/OTM0004530
+However, if thou truly wanteth this,[nl]it isn't impossible. Thou must go through the[nl]appropriate rituals and be prepared for the risks.
+CTG/CTG0012500
+What rituals, exactly?
+OTM/OTM0004540
+There's no specific ritual for this.[nl]As long as it involves someone who truly loves Raku[nl]pouring their feelings into his body, anything is fine....
+SYU/SYU0006670
+Then how about a kiss?[nl]Raku seems like Sleeping Beauty right now, after all.
+CTG/CTG0012510
+Huh? What are you--
+OTM/OTM0004550
+Ooh! Good idea![nl]That's perfect!
+CTG/CTG0012520G
+OTM/OTM0004560
+The shrine's door doth lead to Raku's room.[nl]Thou may open it and go through at thy leisure.
+CTG/CTG0012530
+I-It's been settled just like that!?
+CTG/CTG0012540
+Hey....Maiko!!
+SSR/SSR0011530
+Yeah! Why are you always[nl]doing these unnecessary things!?
+@expose2
+SYU/SYU0006680
+Yaaaaaaargh!?
+RUR/RUR0008150
+He really is a hopeless man....
+KSK/KSK0009850
+Hey, Otama.[nl]There really isn't any other way?
+OTM/OTM0004570
+The ritual has already been decided.[nl]It cannot be changed now.
+SSR/SSR0011540
+Dammit....![nl]What an annoying decision this--
+SSR/SSR0011550
+Wait, Marika Tachibana!?
+KSK/KSK0009860
+She's gone through the door already!
+CTG/CTG0012550
+Hey, Marika![nl]Wait up!
+SSR/SSR0011560
+M-Mistress! Please wait!
+KSK/KSK0009870
+Huh? G-Guys!?[nl]W-What should I do!?
+RUR/RUR0008160
+Go on, you get in there, too![nl]If you don't hurry up, you'll regret it later!
+KSK/KSK0009880
+Ruri....
+KSK/KSK0009890
+....Okay, I will.[nl]I'll go!!
+RUR/RUR0008170
+Jeez, she's such a pain.
+SYU/SYU0006690
+"Raku will be awakened by a kiss from someone who truly[nl]loves him." ....That's what Otama said, and if it's true,[nl]then we have no business going in there, huh.
+SYU/SYU0006700
+Ruri, shall we wait out here together?
+RUR/RUR0008180
+----
+SYU/SYU0006710
+Huh? Am I just imagining it,[nl]or do you look really unhappy right now?
+RUR/RUR0008190
+You're not imagining it, I really am.
+SYU/SYU0006720
+Aww, that's mean.
+RUR/RUR0008200
+And whose fault is it?
+OTM/OTM0004580
+Well then, I suppose I'll be going, too.
+SYU/SYU0006730
+Where are you going?
+OTM/OTM0004590
+To give the four of them a test.
+RUR/RUR0008210
+A test!? You never mentioned anything like that!
+OTM/OTM0004600
+No, did I not tell thee?[nl]There is a certain amount of danger involved[nl]in undoing someone else's wish.
+OTM/OTM0004610
+The test itself shall be over soon.[nl]Please wait out here for the results.
+SYU/SYU0006740
+RUR/RUR0008220
+Kosaki....[nl]Everyone....
+@背景変更
+MRK/MRK0010330
+Huh? Where am I....?
+CTG/CTG0012560
+Where am I!?[nl]Wasn't this supposed to go to Raku's room!?
+SSR/SSR0011570
+What's going on....?
+KSK/KSK0009900
+Ichijo! Guys![nl]Where are you all!?
+OTM/OTM0004620
+Well then, let the test begin.
+CTG/CTG0012570G
+@rak_006_010
+OTM/OTM0004630
+I am the divine fox spirit[nl]who granteth wishes....
+OTM/OTM0004640
+Thou must all prove that thy wish to wake up Raku[nl]is stronger than his wish to sleep forever[nl]without disturbance.
+OTM/OTM0004650
+Those who fail this test....will also succumb to[nl]Raku's wish, and shall sleep forever with him.
+OTM/OTM0004660
+No one else can hear what thou sayeth here.[nl]So face these trials with confidence and sincerity.
+OTM/OTM0004670
+Alright, let us begin!
+OTM/OTM0004680
+A question for thee, Chitoge Kirisaki.
+OTM/OTM0004690
+Why dost thou want to wake up Raku?
+Why wake up Raku?
+For Raku's own sake
+Because I want him awake
+CTG/CTG0012580
+Well, because I'm sure Raku would also want to[nl]be awake right now.
+CTG/CTG0012590
+There's no way he'd seriously wish[nl]to sleep forever.
+OTM/OTM0004700
+That's a lot of confidence in thy words.
+OTM/OTM0004710
+But isn't it also largely thy fault[nl]that Raku is so tired?
+OTM/OTM0004720
+Thou art often hitting and abusing him, correct?
+You often hit him?
+How'd you know that!?
+That's not true!
+OTM/OTM0004730
+I told thee. I'm a fox spirit.
+OTM/OTM0004740
+It probably escaped thy notice,[nl]but I have been watching thee for some time.
+OTM/OTM0004750
+Well, from a normal standpoint, it is pretty stressful[nl]to be with someone so violent.
+OTM/OTM0004760
+Would it not be a greater service[nl]to simply let him sleep?
+Why not let him sleep?
+You've got a point....
+That's up to Raku.
+CTG/CTG0012600
+That's....not something we can decide.
+CTG/CTG0012610
+Only he knows how he really feels about any of this.[nl]I don't even know for sure if being with me[nl]causes him stress....
+CTG/CTG0012620
+So it's just not right to assume[nl]he wants to stay asleep.
+OTM/OTM0004770
+Then how is it right to assume he wanteth to wake up?
+CTG/CTG0012630
+Hehe.... You're right.[nl]Let's stop playing with words.
+CTG/CTG0012640
+Maybe I don't know how Raku feels about this.
+CTG/CTG0012650
+But I do know how I feel about it.
+CTG/CTG0012660
+I want Raku to wake back up!
+OTM/OTM0004780
+I understandeth well thy wish.
+OTM/OTM0004790
+A question for thee, Kosaki Onodera.
+OTM/OTM0004800
+I'm lonely without Ichijo
+It's natural as a friend
+KSK/KSK0009920
+Without Ichijo....I'm lonely.
+KSK/KSK0009930
+If I were to lose all contact with him....[nl]I don't....want to....
+OTM/OTM0004810
+I agree. I feeleth the same way.
+OTM/OTM0004820
+It saddens me that I shall never again[nl]eat the inari sushi he makes.
+OTM/OTM0004830
+What food does he maketh that thou shalt miss?[nl]Japanese food? Dessert of some kind?
+What is it?
+That's not what I meant
+Japanese sweets
+OTM/OTM0004840
+Hmm? It wasn't his food?
+OTM/OTM0004850
+Then why dost thou not want to lose contact with him?
+KSK/KSK0009940
+Um, well....
+KSK/KSK0009950
+Meeting him, and talking with him....[nl]That alone made me so happy....
+OTM/OTM0004860
+Hmmm, I'm not sure I understand....
+OTM/OTM0004870
+In short, thou art happy simply from[nl]being in contact with him.
+OTM/OTM0004880
+But....that feeling is one-sided.
+KSK/KSK0009960
+OTM/OTM0004890
+Thou hast not noticed?[nl]Then let me tell thee.
+OTM/OTM0004900
+I hath seen thou speaking with Raku a few times....
+OTM/OTM0004910
+And Raku kept looking away from thee.
+OTM/OTM0004920
+That means he doesn't want to look at thee too much.[nl]Is that not correct?
+Is Raku avoiding you?
+That's not true
+W-Well....
+KSK/KSK0009970
+Otama. That's not true.
+KSK/KSK0009980
+Maybe I don't know what Ichijo[nl]thinks of me personally. But....
+KSK/KSK0009990
+Ichijo is really kind to me regardless.
+KSK/KSK0010000
+At the Culture Festival, he did Romeo and Juliet[nl]with me, even though I couldn't be in the official play....
+KSK/KSK0010010
+And when I passed my high school entrance exam,[nl]he was really happy for me.
+KSK/KSK0010020
+No matter how good a person someone is, I don't think[nl]they'd be that nice to someone they don't even want to see.
+KSK/KSK0010030
+So I trust in Ichijo.
+KSK/KSK0010040
+And because I trust in him....[nl]I want to meet with him so much more,[nl]and talk with him a lot!
+OTM/OTM0004930
+OTM/OTM0004940
+A question for thee, Seishiro Tsugumi.
+OTM/OTM0004950
+Why dost thou want to wake up Raku?
+I made a promise
+I'm on a mission
+SSR/SSR0011590
+You see....I made a promise to the Mistress.
+SSR/SSR0011600
+Ten years ago, I swore to her that I would[nl]become a strong person, capable of protecting her.
+SSR/SSR0011610
+Raku Ichijo is her boyfriend.[nl]How can I be called someone who can protect her[nl]if I can't even save her lover?
+OTM/OTM0004960
+Mhm, mhm. But that's just logic.
+SSR/SSR0011620
+What?
+OTM/OTM0004970
+What about thine own feelings?[nl]Dost thou want to wake him up?
+How do you feel?
+I want to wake him up
+That doesn't matter
+SSR/SSR0011630
+I....want to wake him up.
+SSR/SSR0011640
+Raku Ichijo, um.... He isn't a bad guy.[nl]Over the course of my mission, I came to realize that.
+SSR/SSR0011650
+If I just left him like this,[nl]it would weigh on my conscience....
+SSR/SSR0011660
+And that's, well....umm....the truth.
+OTM/OTM0004980
+Thou art not making thyself clear.[nl]Art thou hiding something?
+SSR/SSR0011670
+I-I'm not hiding anything....![nl]I definitely don't have any special feelings for him!
+OTM/OTM0004990
+How suspicious.
+OTM/OTM0005000
+This is a very important test.[nl]If thou liest, thou shalt be disqualified.
+SSR/SSR0011680
+....!?
+OTM/OTM0005010
+I shall ask once more.
+OTM/OTM0005020
+Thou hath told me that thou hath no[nl]special feelings for him, is that true?
+SSR/SSR0011690
+OTM/OTM0005030
+Art thou in love with Raku Ichijo thyself?
+SSR/SSR0011700
+W-Well....
+Do you love Raku?
+I love him
+I don't love him
+OTM/OTM0005040
+Thy silence is thy answer.
+SSR/SSR0011710
+Huh?
+OTM/OTM0005050
+Thou hast endured well without lying.
+OTM/OTM0005060
+Thy feelings have been well conveyed to me.
+SSR/SSR0011720
+OTM/OTM0005070
+A question for thee, Marika Tachibana.
+OTM/OTM0005080
+Why doth thou want to wake up Raku?
+Because I love Raku dearest
+MRK/MRK0010350
+There's no reason to even ask![nl]It's because I love Raku dearest!
+MRK/MRK0010360
+It's only natural to want to be[nl]with the person you love!
+OTM/OTM0005090
+I see. What a clear answer.
+OTM/OTM0005100
+However, it is also true that Raku wished[nl]to sleep forever.
+OTM/OTM0005110
+Would it not be more loving of thee[nl]to let him have his wish?
+MRK/MRK0010370
+It would be. That is, if that's what he really wants.
+OTM/OTM0005120
+How about this? I'll put the two of you[nl]alone in a dream world.
+OTM/OTM0005130
+You could be alone with Raku forever,[nl]with no one to disturb you.
+You want that?
+That sounds wonderful!
+It would be meaningless
+MRK/MRK0010380
+No, thank you. It would all be meaningless[nl]in a dream world.
+OTM/OTM0005140
+Is that right? I don't think there's much difference[nl]between a dream world and reality....
+MRK/MRK0010400
+I don't want to just indulge in happy fantasies.[nl]I want to be united with Raku dearest in the real world.
+OTM/OTM0005150
+Hmmm. Why art thou so obsessed with reality?
+Why indeed?
+Because reality is fun
+I want to use my own power[nl]to make Raku dearest mine
+MRK/MRK0010410
+Right now, Raku dearest has his own lover.
+MRK/MRK0010420
+But I have decided to steal Raku dearest from her,[nl]without running away from the situation.
+MRK/MRK0010430
+If I used your power to help me with that....
+MRK/MRK0010440
+I'm sure I'd feel guilty for what I did to both[nl]Raku dearest and myself.
+MRK/MRK0010450
+So I refuse.[nl]I'll win Raku's heart myself, with my own power!
+OTM/OTM0005160
+OTM/OTM0005170
+One last question, for all of thee.
+OTM/OTM0005185
+What kind of person is Raku Ichijo to you?
+OTM/OTM0005190
+I understand.
+MRK/MRK0010460
+Huh?
+CTG/CTG0012670
+We're in Raku's room....!?
+KSK/KSK0010050
+Does that mean the test is over?
+SSR/SSR0011730
+!![nl]Mistress! Over there!
+CTG/CTG0012680G
+Raku!
+KSK/KSK0010070
+Thank goodness....[nl]We finally found him....
+MRK/MRK0010480
+He looks well, I'm so relieved.
+CTG/CTG0012690
+You have no idea how worried I was....
+CTG/CTG0012700
+HEEYYY! Sleepyhead![nl]Wake up already!
+CTG/CTG0012710
+Huh?
+SSR/SSR0011740
+Hey! Raku Ichijo![nl]How dare you not respond to the Mistress's call!?[nl]Get up at once!
+SSR/SSR0011750
+Hm....!?
+MRK/MRK0010490
+Raku dearest. You can get up now, okay?[nl]Raku dearest?
+KSK/KSK0010080
+That's strange. We've tried so many times,[nl]but he still won't wake up.
+CTG/CTG0012720
+Does that mean he's still under Otama's spell?
+MRK/MRK0010500
+Oh! That's right![nl]Raku dearest still needs the kiss from someone[nl]who truly loves him!
+CTG/CTG0012730
+....Oh, you're right.[nl]I remember hearing something like that.
+MRK/MRK0010510
+In that case, I'll just go ahead[nl]and give him his kiss!
+CTG/CTG0012740
+Whaa!? Marika, stop!
+MRK/MRK0010520
+Please let me do it![nl]Don't try to stop me!
+OTM/OTM0005200
+What art thou arguing for?[nl]Just do it already.
+KSK/KSK0010090
+Otama!
+OTM/OTM0005210
+I can see now that thou all have genuine feelings for him.[nl]Any one of you will do. Just kiss him.
+KSK/KSK0010100
+Any of us, you say....
+MRK/MRK0010530
+Then why can't it be me!?
+CTG/CTG0012750
+Shut up! Just be quiet for a minute!
+SSR/SSR0011760
+T-Then, why don't you do it, Mistress?[nl]Umm....you are his....girlfriend, after all....
+CTG/CTG0012760
+Huh!? Me!?[nl]Uh, um, WHAAAAAAAAT!?
+CTG/CTG0012770
+N-N-N-No way!?[nl]Not with so many people here!
+MRK/MRK0010540
+Let me, let meeee!
+CTG/CTG0012780
+OTM/OTM0005220
+Thou may kiss him anywhere, so hurry up.
+CTG/CTG0012790G
+CTG/CTG0012800
+Anywhere?
+OTM/OTM0005230
+Of course. Whatever thy fancy.[nl]His hands, his buttocks, his stomach, whatever.
+OTM/OTM0005240
+And while we're at it, thou may all do it at the same time.[nl]The important thing is to put thy feelings for him into it.
+CTG/CTG0012810
+Alright, everyone, let's get to it.
+KSK/KSK0010120
+....Right.
+MRK/MRK0010550
+It can't be helped.
+SSR/SSR0011780
+CTG/CTG0012820
+One, two, three....!
+RAK/RAK0040990
+....Mmph....
+CTG/CTG0012830G
+RAK/RAK0041000
+Yaaaaaawnnn....[nl]What an amazing sleep....
+RAK/RAK0041010
+....Wait, aaagh![nl]What are you all doing in here!?
+CTG/CTG0012840
+R-Raku....[nl]You're awake?
+RAK/RAK0041020
+?[nl]Well....obviously.
+CTG/CTG0012850
+Hahhh.....[nl]Don't ever make me worry like that again,[nl]stupid bean sprout!
+KSK/KSK0010140
+I'm so relieved....[nl]I thought you were never going to wake up.
+RAK/RAK0041030
+....Huh?
+MRK/MRK0010570
+Raku dearesssstt![nl]I've woken you up with my love!
+RAK/RAK0041040
+Gaaaah!? T-Tachibana!? Get away!
+SSR/SSR0011800
+RAK/RAK0041050
+Hm? What's wrong, Tsugumi?[nl]Your face is all red....
+SSR/SSR0011810
+S-S-S-S-Shut up![nl]It's your fault to begin with....
+SYU/SYU0006750
+Yoo-hoo![nl]Is Sleeping Beauty awake yet?
+RAK/RAK0041060
+Shuu!? And Miyamoto, too!?
+RUR/RUR0008230
+Seems like everything's worked out.
+RUR/RUR0008240
+We passed by the others on our way here.[nl]Seems like the spell on the house has been completely lifted.
+SYU/SYU0006760
+Hey, hey, now spill![nl]Who ended up doing the kissing!?
+CTG/CTG0012860G
+RAK/RAK0041070
+Spell? Kissing?
+CTG/CTG0012870
+RAAAAAAAAAAAAAGGGGHHHH!
+SYU/SYU0006770
+Glbctkhlbctkh!
+SSR/SSR0011830
+TAKE THISSSSS!
+SYU/SYU0006780
+Gackkhh!
+RAK/RAK0041080
+Waaagh!? Shuu!?
+CTG/CTG0012880
+You! This is your fault!!
+SSR/SSR0011840
+You! This is your fault!!
+KSK/KSK0010160
+H-Hey! You two!
+RUR/RUR0008250
+Leave it alone, Kosaki.[nl]He got what he deserved.
+MRK/MRK0010580
+Hehehe. I'm grateful to Maiko.
+RAK/RAK0041090
+Uhhh....
+RAK/RAK0041100
+Hey, Otama. I have no idea what's going on here....[nl]What the hell happened?
+OTM/OTM0005250
+Mhm. For starters--
+@rak_006_020
+RAK/RAK0041110
+Thank you so much for today. If it hadn't been[nl]for you guys, I don't know what I would've done.
+CTG/CTG0012890
+....Well, I guess that's good, right?[nl]After school tomorrow, we're getting ramen, your treat!
+RAK/RAK0041120
+Alright, leave it to me!
+KSK/KSK0010170
+See you later, Ichijo.
+MRK/MRK0010590
+See you at school.
+SSR/SSR0011850
+Try not to oversleep this time.
+RAK/RAK0041130
+Right. See you all at school!
+RAK/RAK0041140
+Hahh.... You've really messed up this time.[nl]And was it really okay to show yourself in front of[nl]all of them?
+OTM/OTM0005260
+'Tis fine. I hath cast a spell on them such that[nl]they will forget everything by the time they get home.
+RAK/RAK0041150
+You can do that, too....?
+OTM/OTM0005270
+Still, thou art quite the playboy.[nl]To have that many young ladies at thine age....
+RAK/RAK0041160
+Don't make fun of me.[nl]Anyway, the only one who actually said she likes me[nl]is Tachibana.
+OTM/OTM0005280
+Is that really what thou believeth?
+RAK/RAK0041170
+Huh? What do you mean?
+OTM/OTM0005290
+OTM/OTM0005300
+Well, well, it seems as though even without my sleep spell,[nl]thine eyes are still not open.
+RAK/RAK0041180
+What are you talking about?[nl]Say it in a way I can understand.
+OTM/OTM0005310
+Hey, Raku....no matter what thou believeth, in the future,[nl]thou canst only choose one woman.[nl]That's how it normally goes.
+OTM/OTM0005320
+However, if thou so chooseth, I can make it[nl]so that thou doth not have to choose between them.
+RAK/RAK0041190
+OTM/OTM0005330
+Thou hast been a great help to me.[nl]I have eaten countless inari sushi.[nl]So I would be more than happy to return that favor.
+OTM/OTM0005340
+How about it? Everyone will love thee,[nl]and everyone will be with thee. Thou will not have to choose[nl]just one.
+OTM/OTM0005350
+Wouldst thou like to have such a future?
+RAK/RAK0041200
+Well....
+I don't want that.
+Sounds good to me!
+@rak_006_true
+RAK/RAK0041210
+Thanks for offering,[nl]but I'd rather not do that.
+RAK/RAK0041220
+This is a choice I need to make for myself.[nl]I won't be needing your power.
+OTM/OTM0005360
+I see. So it's not as though[nl]thou doth not need my power.
+OTM/OTM0005370
+But to choose thine own future....[nl]Is that thy wish?
+RAK/RAK0041230
+Yep. That's right.
+OTM/OTM0005380
+I see....
+OTM/OTM0005390
+Then thy wish shall be granted.
+RAK/RAK0041240
+Huh....?
+RAK/RAK0041250
+Otama....![nl]Your tails....!
+OTM/OTM0005400
+Ooh!
+OTM/OTM0005410
+I see, Raku.[nl]So this wish was made from thy heart....
+OTM/OTM0005420
+And it was a truly noble wish,[nl]one that would not cause harm to anyone....
+OTM/OTM0005430
+I am grateful. Thanks to thee,[nl]I was able to achieve my goal.
+OTM/OTM0005440
+Therefore, I must leave now.
+RAK/RAK0041260
+Huh!? Why so suddenly!?[nl]You're really gonna leave?
+OTM/OTM0005450
+Mhm. When a wish is granted, one that bringeth[nl]everybody happiness, the youko who granted it[nl]will grow and be closer to becoming a senko.
+OTM/OTM0005460
+However, only one such wish counteth per person.[nl]I must search for another person with a wish.
+OTM/OTM0005470
+So, I must bid thee farewell.
+RAK/RAK0041270
+I-Is that right?[nl]This is all rather sudden....
+RAK/RAK0041280
+But, take care out there.
+OTM/OTM0005480
+Mm. Same to thee.
+OTM/OTM0005490
+Thy inari sushi truly was delicious.[nl]It makes me sad that I shall never again[nl]taste it.
+RAK/RAK0041290
+Don't worry. I'll make lots more[nl]and bring them to the shrine as offerings.
+OTM/OTM0005500
+Hehe. That's great.[nl]By all means.
+RAK/RAK0041300
+OTM/OTM0005510
+But that is a wish that may never be granted.
+OTM/OTM0005520
+Once this conversation is over, thou shalt loseth[nl]all memories of me, just like the girls.
+OTM/OTM0005530
+It is, well, kind of the rule.[nl]But for thee, O he who maketh his own way in this world,[nl]there should be no problem with that.
+OTM/OTM0005540
+Well then, Raku, please take care.[nl]'Twas fun, even if only for a short while.
+RAK/RAK0034160
+Mm.....mph....
+@pro_001_01
+RAK/RAK0041310
+Well, whatever.[nl]I don't really understand, but....
+RAK/RAK0041320
+I wish we can all continue to have a fun[nl]and fulfilling high school life.
+RAK/RAK0041330
+Alright, I'd better go. If I'm late to meet[nl]Chitoge, she'll knock me into lower orbit. 
+RAK/RAK0041340
+See you around, gods.
+@エンディング楽
+@rak_006_true2
+@背景変更2
+STM/STM0000010
+The person you are trying to reach is not available.[nl]At the tone, please state your name and reason for calling.
+KSK/KSK0010180
+Hello, Haru? It's your big sister....
+KSK/KSK0010190
+Are you going to be home for the holidays?[nl]Mom wants us to go to the department store[nl]in front of the station.
+KSK/KSK0010200
+Please call me back and let us know when you can.[nl]Bye.
+@イベント終了処理
+@rak_006_another
+RAK/RAK0041350
+Sounds good to me! I don't need to make[nl]any difficult decisions, and it sounds fun!
+OTM/OTM0005550
+Ooh, awesome![nl]Prithee leave it to me!
+OTM/OTM0005560
+Ding, ding, boom, boom, boom!
+RAK/RAK0041360
+W-What's this!? It's so bright!
+@叫び揺れ
+RAK/RAK0041370
+Waaaaaaaaaaaaagh!?
+Mmm....mph....
+RAK/RAK0041380
+Yaaaaawn....
+RAK/RAK0041390
+...Hahh, it's morning already....
+RAK/RAK0041400
+I feel like I had a strange dream....[nl]What was it about....
+RAK/RAK0041410
+Mmmphh....
+RAK/RAK0041420
+....Hm?
+RAK/RAK0041430
+What's this? There's something moving around[nl]in my futon....
+MRK/MRK0010600
+Hehehe. Good morning, Raku dearest. ★
+RAK/RAK0041440
+Marika? What are you doing in there?
+MRK/MRK0010610
+I came to ask if I could eat breakfast with you[nl]every day from now on. ★
+RAK/RAK0041450
+Hmmmm. Well, that's okay with me.
+MRK/MRK0010620
+Thank you so much!
+MRK/MRK0010630
+Okay, Raku dearest, say "aah". ★
+RAK/RAK0041460
+Aaaah. ★
+RYU/RYU0001250
+Woweee, young master, yer not to be underestimated![nl]Havin' a mistress at his young age,[nl]I can't wait to see what happens in the future!
+RAK/RAK0041470
+Well, I am in high school already, after all.[nl]I do have to keep improving myself as a man.
+RYU/RYU0001260
+Yeah, young master, yer so right![nl]Hooray! Young master! Whatta stud!
+MRK/MRK0010640
+Well, Raku dearest? Did that taste good?
+RAK/RAK0041480
+Yeah, it was delicious.[nl]Your cooking is the best, Mari.
+MRK/MRK0010650
+Yaaay! I'm so happy!
+RAK/RAK0041490
+Hahaha.
+KSK/KSK0010210
+Hey, Ichijo.
+RAK/RAK0041500
+Oh, what is it, Kosaki?
+KSK/KSK0010220
+Umm.... If you're okay with it,[nl]would you like to work part-time at the shop again?
+RAK/RAK0041510
+Of course. There's no way I can say no[nl]when you ask me for something, Kosaki.
+KSK/KSK0010230
+Thanks!
+@expose
+KSK/KSK0010240
+So, that day....actually, my mom[nl]won't be home that day.
+RAK/RAK0041520
+Huh?
+KSK/KSK0010250
+I was thinking....it might be nice[nl]if you could stay over in my room that day.
+RAK/RAK0041530
+Oooh....
+RAK/RAK0041540
+Sounds good. I'm looking forward to it.
+SSR/SSR0011860
+Good morning, Raku Ichijo.
+RAK/RAK0041550
+Oh, Tsugumi. Good morning.
+SSR/SSR0011870
+Actually, ummm....[nl]I'd like to give you this, if you don't mind.
+RAK/RAK0041560
+Hey, are you summoning me for a duel?[nl]Gimme a break, would ya?
+SSR/SSR0011880
+Of course I'm not![nl]Ghh.... You know what this is.
+SSR/SSR0011890
+....This is a love letter I wrote for you.
+RAK/RAK0041570
+Ohhh, I love it![nl]Thank you, Tsugumi.
+SSR/SSR0011900
+You love it....
+SSR/SSR0011910
+I-I see. Then I'll write one for you every day.[nl]Of course, you shouldn't feel obligated to write back.
+KSK/KSK0010260
+Wowww, that sounds great![nl]Maybe I can write some for you too, Raku?
+SSR/SSR0011920
+Mistress Onodera....
+SSR/SSR0011930
+Sounds good. Then let's write love letters[nl]to Raku Ichijo together, then give them to him.
+KSK/KSK0010270
+Hey, why don't we ask Chitoge and Tachibana to join us?[nl]I'm sure they'd love to write some, too!
+SSR/SSR0011940
+Yes, that's a great idea!
+RAK/RAK0041580
+(They're all going to write me love letters.[nl] Wow, I'm in heaven!)
+CTG/CTG0012900
+Kosaki told me about the love letters.[nl]I'll be writing you starting tomorrow,[nl]so look forward to it, okay?
+RAK/RAK0041590
+Right. Thanks, Chitoge.
+CTG/CTG0012910
+H-Hey....Raku.
+RAK/RAK0041600
+Hm?
+CTG/CTG0012920
+Can I hold your hand?
+RAK/RAK0041610
+Oh, sure. Here, hold it as long as you like.
+CTG/CTG0012930
+Thanks....
+CTG/CTG0012940
+Listen, so me, Kosaki, and Tsugumi are all[nl]gonna wake you up tomorrow, like Tachibana did.
+CTG/CTG0012950
+So let's all have breakfast together then.[nl]Everyone, as friends.
+RAK/RAK0041620
+I see. Sounds like fun.
+CTG/CTG0012960
+Hey, Darling.
+RAK/RAK0041630
+CTG/CTG0012970
+I....I want it to stay like this forever.
+RAK/RAK0041640
+Yes, of course, Honey.
+RAK/RAK0041650
+Let's stay like this forever and ever.
+CTG/CTG0012980
+Yes.
+OTM/OTM0005570
+Mhm.... good, good.[nl]Seems like they are doing well.
+OTM/OTM0005580
+Then everything's settled!
+@ＴＨＥＥＮＤ
+common.asb

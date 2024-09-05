@@ -76,17 +76,17 @@ First of all, it's bad that you're dating the mistress.
 RAK/RAK0034700
 Complete denial....
 MRK/MRK0008830
-Ra・ku・dear・est ~ ~ ~ ~ ★
+RA・KU・DEAR・ESSSST★
 RAK/RAK0034710
 Whaa, Tachibana!?
 MRK/MRK0008840
-Good morning, Raku dearest![nl]You look so manly and interesting today~~~!                        
+Good morning, Raku dearest![nl]You look so manly and interesting todaaaay!                        
 RAK/RAK0034720
 Hey, hey![nl]Stop jumping me like that!
 MRK/MRK0008850
 But I haven't seen you for a whole day![nl]Please, let me see your face up close.
 RAK/RAK0034730
-Too close! You're too close!~
+Too close! You're too clooose!
 SSR/SSR0010120
 Hey, what are you doing, Raku Ichijo?[nl]Push her off of you this instant!
 CTG/CTG0010150
@@ -108,7 +108,7 @@ I mean, why am I getting so damn worked up[nl]over a guy like you!?!?
 RAK/RAK0034760
 I have no clue....
 KSK/KSK0008590
-Good morning~.[nl]How is everyone doing~?
+Good morning.[nl]How is everyone doing?
 RAK/RAK0034770
 (Huh....that voice...!)
 @expose
@@ -130,27 +130,27 @@ RAK/RAK0034810
 (Aaa, I'm so glad I got hurt....[nl]Her mere presence is healing me...! Really!)
 @ＨＰ＋１００
 SYU/SYU0005940
-Gooood morning, Raku![nl]What, you've got the most beautiful girls in the class all[nl]walking to school with you this morning? I'm so jealous~!
+Gooood morning, Raku![nl]What, you've got the most beautiful girls in the class all[nl]walking to school with you this morning? I'm so jealous!
 SYU/SYU0005950
 Well, at least I'm walking with Ruri.[nl]I have no regrets. ♪
 RUR/RUR0007550
 You ran into me halfway and started following me.
 SYU/SYU0005960
-Ouch~, you're as terrible as ever, Ruri.
+Ouch, you're as terrible as ever, Ruri.
 RUR/RUR0007560
 Sorry to interrupt your talking, but if you don't hurry up,[nl]you'll be late.
 SSR/SSR0010160
 Hmm... she's right.[nl]Mistress, let's move!
 MRK/MRK0008880
-Raku dearest, would you like to walk slowly with me~?
+Raku dearest, would you like to walk slowly with me?
 SSR/SSR0010170
 Weren't you listening? We're going to be late!
 CTG/CTG0010160
 Not to repeat what she said,[nl]but you're practically stuck to Raku![nl]You'd better move right now!
 MRK/MRK0008890
-Okay, Kirisaki--! I'll concede the morning commute,[nl]for I shall sit next to Raku dearest in class~!
+Okay, Kirisaki--! I'll concede the morning commute,[nl]for I shall sit next to Raku dearest in class!
 SYU/SYU0005970
-Haha~, as usual, buddy, you've got flowers in both hands.
+Haha, as usual, buddy, you've got flowers in both hands.
 RUR/RUR0007570
 Totally... I wonder why Kosaki doesn't just jump in.
 KSK/KSK0008640
@@ -175,17 +175,17 @@ RAK/RAK0034860
 ....Huh?
 @ＢＧＭ再生
 CLD/CLD0001710
-Finally found you.
+Finally found thee.
 RAK/RAK0034870
 Gack...![nl]Y-You!?     
 RAK/RAK0034880
-(Claude Ringheart, the Beehive's top agent![nl]He's the one who most suspects that me and[nl]Chitoge aren't really dating!)
+(Claude Ringheart, the Beehive's top agent![nl] He's the one who most suspects that me and[nl] Chitoge aren't really dating!)
 RAK/RAK0034890
 Why the hell are you inside the school[nl]to begin with!?
 CLD/CLD0001720
 I hath been looking for thee.[nl]I have a small question for thee.
 RAK/RAK0034900
-(Tch, it's about my relationship with Chitoge, isn't it?[nl]To be caught here and asked strange questions,[nl]it can't be good...)
+(Tch, it's about my relationship with Chitoge, isn't it?[nl] To be caught here and asked strange questions,[nl] it can't be good...)
 CLD/CLD0001730
 Now, come over here.[nl]Quietly.
 RAK/RAK0034910
@@ -194,8 +194,8 @@ CLD/CLD0001740
 Wh-what?[nl]Wait! Cometh back!
 @フェードアウト
 RAK/RAK0034920
-(He's acting way weirder than usual...[nl]Was it something he ate?)
+("Cometh back"...? Did that guy eat something weird?)
 RAK/RAK0034930
-(Hell, forget that![nl]It would totally suck if that bastard got too nosy here![nl]I'll have to shake him and take off!)
+(Hell, forget that![nl] It would totally suck if that bastard got too nosy here![nl] I'll have to shake him and take off!)
 @ヌキアシ開始処理
 common.asb

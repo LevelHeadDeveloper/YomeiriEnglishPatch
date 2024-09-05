@@ -56,7 +56,7 @@ If you do that, not all of them might get food, right?[nl]You have to make sure 
 RAK/RAK0000140
 You have to be careful about touching them too much, too.[nl]You could cause them to build up stress.
 RAK/RAK0000150
-Plus, you need to—
+Plus, you need to--
 CTG/CTG0000120
 Alright, I got it, I got it! Un-der-stood!
 CTG/CTG0000130
@@ -86,7 +86,7 @@ Caring for a hundred animals every day.....[nl]I mean, we have less time for dat
 RAK/RAK0000190
 Huh? Dates?
 CTG/CTG0000230
-Uh—  I-it's not what you think!? It's not like,[nl]I really want to go on dates that badly.....!
+Uh--  I-it's not what you think!? It's not like,[nl]I really want to go on dates that badly.....!
 CTG/CTG0000240
 It's just that, if we don't set time for that, Claude will[nl]probably start to get suspicious, no?
 RAK/RAK0000200

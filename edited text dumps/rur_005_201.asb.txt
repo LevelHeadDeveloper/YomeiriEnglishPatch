@@ -72,7 +72,7 @@ You're somewhat responsible for this.[nl]You won't refuse.
 RAK/RAK0031320
 Right, right, got it.
 RAK/RAK0031330
-But even if I say I'll help you....[nl]He's been disappearing off to who-knows-where after school,[nl]so I have no idea where he is.
+But even if I say I'll help you....[nl]He's been disappearing off to who-knows-where[nl]after school, so I have no idea where he is.
 RUR/RUR0005090
 Most likely, he's holding his black market[nl]somewhere inside the school.[nl]Maybe even at this very moment.
 RAK/RAK0031340

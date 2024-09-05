@@ -15,7 +15,7 @@ Energy Drink
 A drink rumored to give you a half-day's[nl]worth of energy from even one bottle.
 R_Item03
 Coupon
-A voucher for a very popular ice cream shop.[nl]Very popular for those with a sweet tooth!
+A voucher for an ice cream shop.[nl]Good for those with a sweet tooth!
 R_Item04
 Bandages
 A few adhesive bandages.[nl]Skin-colored, so they blend in.
@@ -27,10 +27,10 @@ Marshmallow
 A few marshmallows from Onodera.[nl]Some are plain and some are strawberry.
 R_Item07
 Sports Drink
-A drink with a lot of Vitamin C.[nl]Give this to someone to start a conversation after a workout.
+A drink with a lot of Vitamin C.[nl]Give this to someone after a workout.
 R_Item08
 Tea
-Paper teabags.[nl]Good to drink when you want to relax.
+A green tea box.[nl]Good to drink when you want to relax.
 R_Item09
 Japanese Dictionary
 A potent weapon! Use this[nl]when you find a difficult Japanese word.
@@ -51,7 +51,7 @@ Stuffed Tiger
 A stuffed animal used at the Festival.[nl]It's ugly enough to make babies cry.
 R_Item15
 Pencil
-A seemingly ordinary pencil.[nl]If you're stumped by something, give it a spin.
+A seemingly ordinary pencil.[nl]If you're stumped, give it a spin.
 R_Item16
 Earrings
 Earrings from a famous brand. Some say that if[nl]a boy gives them to a girl, she will be thrilled.

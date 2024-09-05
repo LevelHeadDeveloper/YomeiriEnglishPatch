@@ -5,7 +5,7 @@ __main
 KSK/KSK0005440
 ....God.
 KSK/KSK0005450
-I'm trying my very hardest.[nl]Please....!
+I'm trying my very hardest.[nl]So please....!
 @フェードアウト
 @背景変更
 RAK/RAK0011800
@@ -18,7 +18,7 @@ RAK/RAK0011830
 Aaaah~~~~![nl]Why am I being put through this....!?
 @clearscreenall
 KSK/KSK0005460
-This time, please let it be this time![nl]I want to tell Ichijo how I really feel....!
+Let it be this time![nl]I want to tell Ichijo how I really feel....!
 @フェードアウト
 RAK/RAK0011840
 I just want to go out with Onodera[nl]without anything getting in our way!

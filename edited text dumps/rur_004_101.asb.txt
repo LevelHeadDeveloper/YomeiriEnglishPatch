@@ -5,7 +5,7 @@ __main
 Keep Ruri's interest!
 RUR/RUR0003330
 So, what do you want to talk about?
-What do you want to talk about?
+Choose a topic!
 Hobbies
 RUR/RUR0003470
 You should at least answer me.
@@ -19,9 +19,9 @@ RUR/RUR0003350
 Well, I am making slightly better grades than you,[nl]but I don't think I could tell you anything really useful....
 RUR/RUR0003360
 But you still want to ask me something?
-What do you  ask?
+What do you ask?
 What's your typical study method?
-Does wearing glasses make you smarter?
+Does wearing glasses[nl]make you smarter?
 RUR/RUR0003370
 I pay attention in class and[nl]review the lessons....something like that.
 RUR/RUR0003380
@@ -47,7 +47,7 @@ In the end, you'll need to study hard.
 RUR/RUR0003480
 They do not....is what I'd like to say,[nl]but they do make you look intelligent.
 RUR/RUR0003490
-Frankly, I think you'd look good with glasses.[nl]And there's quite some demand for men with glasses, right?
+Frankly, I think you'd look good with glasses. And[nl]there's quite some demand for men with glasses, right?
 RUR/RUR0003500
 Why not try wearing some fake glasses?
 Try wearing glasses?

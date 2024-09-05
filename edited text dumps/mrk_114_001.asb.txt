@@ -6,15 +6,15 @@ __main
 RAK/RAK0077030
 Hahh....
 RAK/RAK0077040
-....It's been more than half a year now since we started high school.[nl]It sounds like a long time, but it flew by....
+....It's been more than half a year now[nl]since we started high school.[nl]It sounds like a long time, but it flew by....
 SYU/SYU0014120
 Come on, Raku![nl]Aren't you a little young to be reminiscing?
 RAK/RAK0077050
 I guess maybe I am....
 RAK/RAK0077060
-But at this rate, the rest of high school,[nl]college, and even employment will be over in the blink of[nl]an eye, and that's kinda got me down.
+But at this rate, the rest of high school,[nl]college, and even employment will be over in the [nl]of an eye, and that's kinda got me down.
 CTG/CTG0023280
-You old man....is what I'd like to call you,[nl]but I think you're right. I've also been thinking a lot lately[nl]about how time flies.
+You old man....is what I'd like to call you,[nl]but I think you're right. I've also been thinking a lot[nl]lately about how time flies.
 @expose
 SSR/SSR0021190
 Time flies like an arrow, they say.[nl]I feel the same way.
