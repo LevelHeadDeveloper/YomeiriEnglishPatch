@@ -45,8 +45,8 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * Ruri Miyamoto route: 100% complete
   * ? Events: 100% complete
   * Miscellaneous Events: ~100% done
-  * Raku Route: 80%
-* Majikoi+ Mode: 0% complete
+  * Raku Route: 100%
+* Majikoi+ Mode: 20% complete
 * Majikoi+ DLCs: 0% complete
 * Minigames
   * Old Maid character descriptions: 100%
@@ -62,10 +62,10 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * Main Menu: 100%
   * Gallery: 100% (some things may be a little wonky)
   * In-game character descriptions: 100%
-  * In-game item descriptions: 80% (translated, but some may be unreadable due to cropping)
+  * In-game item descriptions: 90% (translated, but some may be unreadable due to cropping)
   * In-game tutorials: 100%
   * Screen prompts and notifications: 100%
-  * Manual: ~80-85%
+  * Manual: ~90-95%
 * Anagram puzzles: 100%
 
 # Screenshots
