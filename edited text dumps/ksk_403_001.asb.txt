@@ -1,0 +1,82 @@
+__main
+@Lclearscreenall
+@ksk_403
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK1_KSK/KSK0024840
+You're here....
+MJK1_KSK/KSK0024850
+....Yes, of course.[nl]I'm a bit surprised we're graduating already.
+MJK1_KSK/KSK0024860
+It was all over in the blink of an eye, but....[nl]I'm really glad I got to spend that time with you.
+MJK1_KSK/KSK0024870
+For real. Every day was[nl]so much fun!
+MJK1_KSK/KSK0024880
+These past three years, I've discovered[nl]so many wonderful things about you.
+MJK1_KSK/KSK0024890
+You're kind, dependable,[nl]and you're always looking out for others....
+MJK1_KSK/KSK0024900
+And that's why.....[nl]That's why I love you!
+@背景変更
+MJK1_KSK/KSK0024910
+With that in mind....[nl]I have a request.
+MJK1_KSK/KSK0024920
+Even after we graduate,[nl]forever and ever and ever....
+MJK1_KSK/KSK0024930
+....Will you stay by my side?
+MJK1_KSK/KSK0024940
+I-In other words....[nl]I'd be really happy if you married me....
+@ksk_403_002
+Decline
+Accept
+@ksk_403_319
+MJK1_KSK/KSK0024950
+!!!!![nl]W-What a surprise....
+MJK1_KSK/KSK0024960
+I-I'm sorry. Can you say that one more time?[nl]I don't think I heard you right.
+@ksk_403_320
+MJK1_KSK/KSK0024970
+-----!
+@expose
+MJK1_KSK/KSK0024980
+I'm so happy,[nl]I'm so, so, so happy....
+MJK1_KSK/KSK0024990
+I love you....[nl]I love you so much!
+@ホワイトアウト
+@フェードアウト
+@背景変更2
+MJK1_KSK/KSK0025000
+....Oh, you're awake.
+MJK1_KSK/KSK0025010
+Hehe. You were sleeping very soundly.
+MJK1_KSK/KSK0025020
+What were you dreaming about?[nl]You were smiling in your sleep.
+Dreaming about Kosaki
+Just messing with you
+@ksk_403_321
+MJK1_KSK/KSK0025030
+Huh....!? R-Really!?
+MJK1_KSK/KSK0025040
+It's a little bit embarrassing to be in the dreams[nl]of the one you love....
+MJK1_KSK/KSK0025050
+If you're still sleepy....[nl]Would you like to use my lap as a pillow?
+MJK1_KSK/KSK0025060
+B-Be my guest....
+@pan
+MJK1_KSK/KSK0025070
+....Hehe.[nl]This is pretty embarrassing after all.
+MJK1_KSK/KSK0025080
+But, you know, I'm still glad[nl]we're together like this.
+@ksk_403_322
+MJK1_KSK/KSK0025090
+Huh? You didn't dream about anything!?[nl]Then why were you smiling?
+MJK1_KSK/KSK0025100
+Is it because the weather[nl]is so nice today, then?
+MJK1_KSK/KSK0025110
+I'm just happy to be by your side like this.
+@ksk_403_323
+MJK1_KSK/KSK0025120
+From now on, let's stay together[nl]forever and ever.
+@マジコイ終了処理
+common.asb

@@ -1,0 +1,269 @@
+__main
+@Lclearscreenall
+@ksk_401
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+KSK/KSK0018360
+....Pardon me!
+KSK/KSK0018370
+I was just wondering if maybe we could[nl]walk home together today....
+KSK/KSK0018380
+How about it?
+@ksk_401_088
+@ksk_401_002
+KSK/KSK0018390
+Oh, I see. You have to take care[nl]of the animals today, huh.
+@ksk_401_003
+@expose
+KSK/KSK0018400
+In that case, would you like[nl]me to help you?
+@ksk_401_003_1
+Let's go
+I'll be right there
+@ksk_401_043
+@ksk_401_004
+KSK/KSK0018410
+I've gotta get ready to go home,[nl]so you can go on ahead.
+KSK/KSK0018420
+Oh....you don't need to wait for me![nl]I'll catch up soon, so see you later.
+@フェードアウト
+@背景変更
+KSK/KSK0018430
+Sorry I took so long![nl]Let's see, what else is there to do....
+KSK/KSK0018440
+I guess I should probably get everyone fed.[nl]Okay, I'm on it.
+KSK/KSK0018450
+Everyone, it's dinnertime!
+KSK/KSK0018460
+Hehe, they're all so cute.
+You're cuter than all of them
+They're so precious to me
+@ksk_401_005
+.........
+KSK/KSK0018470
+Huh?[nl]Huuuuhhhh!?
+KSK/KSK0018480
+J-Jeez![nl]D-Don't joke like that with such a straight face!
+KSK/KSK0018490
+Ooogh....[nl]My heart was pounding....
+@ksk_401_006
+KSK/KSK0018500
+You certainly take great care of them.
+KSK/KSK0018510
+Mmmh~[nl]They're so CUUUTE!
+@ksk_401_007
+KSK/KSK0018520
+The animals are always so[nl]full of energy, aren't they?
+KSK/KSK0018530
+Watching them makes me feel energized as well.
+I agree.
+Sometimes a bit *too* energetic
+@ksk_401_008
+@expose
+KSK/KSK0018540
+Hehe. You sound like a father[nl]when you put it that way.
+KSK/KSK0018550
+It's got a nice ring to it.
+KSK/KSK0018560
+Oh, I-I didn't mean that in a weird way!
+@ksk_401_009
+KSK/KSK0018570
+Hahaha.[nl]I guess you're right.
+KSK/KSK0018580
+But I'm sure it's because their caretaker[nl]is so good at what he does.
+KSK/KSK0018590
+It's proof that they're able to live[nl]as freely as they do.
+@ksk_401_010
+KSK/KSK0018600
+....I'll help you out with the animals anytime,[nl]so just say the word.
+KSK/KSK0018610
+I like animals too, and....[nl]And I'm happy to spend time with you.
+Of course!
+I'm happy to be with you too.
+@ksk_401_011
+KSK/KSK0018620
+....I'm glad.
+KSK/KSK0018630
+Okay....it's a promise?
+@ksk_401_012
+KSK/KSK0018640
+Huh....?
+@expose2
+KSK/KSK0018650
+I-I see....[nl]I-I'm kind of embarrassed now....
+@ksk_401_013
+KSK/KSK0018660
+Oh....we're already here.
+KSK/KSK0018670
+Time really does fly when we're together.
+KSK/KSK0018680
+I had a great time today. Thanks!
+KSK/KSK0018690
+Okay, see you soon.
+@マジコイ終了処理
+@ksk_401_014
+@フェードアウト
+@背景変更2
+KSK/KSK0018700
+Actually, I was just getting ready to leave for home[nl]when the teacher asked me to do something for her.
+KSK/KSK0018710
+If you don't mind,[nl]could you help me out for a little longer?
+KSK/KSK0018720
+Besides....I want to stay with you[nl]for just a little longer....
+Of course.
+I'd love to!
+@ksk_401_015
+KSK/KSK0018730
+I'm really sorry.
+KSK/KSK0018740
+Of course you couldn't say no[nl]because it seems this is a real problem....
+KSK/KSK0018750
+But I think this will be quick.
+@ksk_401_016
+KSK/KSK0018760
+Hehe. Thanks!
+KSK/KSK0018770
+....You really are so reliable.
+KSK/KSK0018780
+....Huh?[nl]No, it was nothing.
+@ksk_401_017
+@背景変更
+KSK/KSK0018790
+....Okay. That's everything[nl]all printed and stapled.
+KSK/KSK0018800
+That was fast thanks to you.[nl]Thank you!
+KSK/KSK0004960
+----
+KSK/KSK0018810
+....I-I just noticed....[nl]We're all alone right now....
+School's over, after all
+Is that bad?
+@ksk_401_018
+KSK/KSK0018820
+T-That is true.
+@ksk_401_019
+KSK/KSK0018830
+N-Not at all!
+@ksk_401_020
+KSK/KSK0018840
+....Do you boys also get nervous[nl]in these kinds of situations?
+We do not
+We do
+@ksk_401_021
+KSK/KSK0018850
+I see....
+@ksk_401_022
+KSK/KSK0018860
+Same as me, then....
+KSK/KSK0018870
+That's strange.[nl]I think my nerves have settled down a little.
+@ksk_401_023
+KSK/KSK0018880
+Ummmm....[nl]Shall we be off, then?
+@ksk_401_023_1
+Let's go home
+I want to talk more
+@ksk_401_024
+KSK/KSK0018890
+Yeah....sounds good.
+@ksk_401_025
+KSK/KSK0018900
+I'm kind of reluctant to let us part....
+KSK/KSK0018910
+Hahaha, even though we see each other every day....[nl]Does that make me weird?
+Not at all.
+You're cute.
+@ksk_401_026
+KSK/KSK0018920
+....Oh, thanks.
+@ksk_401_027
+KSK/KSK0018930
+Jeez....[nl]You're so mean.
+@ksk_401_028
+KSK/KSK0018940
+Thanks for walking me home.
+KSK/KSK0018950
+I'm glad we got to talk so much today.
+KSK/KSK0018960
+Okay, see you tomorrow!
+@マジコイ終了処理
+@ksk_401_029
+KSK/KSK0018970
+Huh!? Really!?
+KSK/KSK0018980
+Hehe....you know what?[nl]I wanted to talk with you a bit longer, too.
+@ksk_401_030
+KSK/KSK0018990
+Then, how about we take[nl]a slightly longer way home?
+Where to, then?
+@ksk_401_031
+KSK/KSK0019000
+Thanks!
+@ksk_401_032
+KSK/KSK0019010
+The sunset's so beautiful tonight, I figured[nl]we could just walk for a while and then go home.
+@ksk_401_033
+KSK/KSK0019020
+Shall we walk slowly?
+@ksk_401_034
+KSK/KSK0019030
+Anywhere in particular you want to go?
+The park
+A cafe
+@ksk_401_035
+KSK/KSK0019040
+Okay, then.[nl]Let's go to the park.
+KSK/KSK0019050
+Brrr....[nl]It's starting to get a bit chilly.
+Want my jacket?
+Shall we hold hands?
+@ksk_401_036
+KSK/KSK0019060
+Huh....? S-Sure![nl]It is cold, isn't it?
+@ksk_401_037
+KSK/KSK0019070
+Huh....?
+KSK/KSK0019080
+....Okay.
+@ksk_401_038
+@フェードアウト
+KSK/KSK0019090
+KSK/KSK0019100
+Alright....I'm warmed up now.[nl]Thanks!
+KSK/KSK0019110
+Okay, take care on your way home.
+@ksk_401_039
+KSK/KSK0019120
+Okay, then.[nl]Let's go to a cafe.
+KSK/KSK0019130
+Aahhh....[nl]This latte is delicious!
+KSK/KSK0019140
+Oh....you want a sip?
+Sure!
+Wouldn't that be....
+@ksk_401_040
+KSK/KSK0019150
+Okay, here you go.
+KSK/KSK0019160
+....Aah!?
+KSK/KSK0019170
+H-Hang on a second!
+KSK/KSK0019180
+Oh....you already drank some?
+KSK/KSK0019190
+N-No! It's nothing![nl]It's not....really....
+@ksk_401_041
+KSK/KSK0019200
+....Huh?
+KSK/KSK0019210
+Uh, n-no![nl]That wasn't my intention at all!
+KSK/KSK0019220
+----
+KSK/KSK0019230
+N-Never mind all that....
+@ksk_401_042
+@背景変更
+common.asb
+ksk_401_088.asb
+ksk_401_043.asb

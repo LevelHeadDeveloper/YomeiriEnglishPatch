@@ -1,0 +1,258 @@
+__main
+@Lclearscreenall
+@ksk_401_043
+KSK/KSK0019240
+That's right, didn't the teacher ask you[nl]to do something as well?
+@expose
+KSK/KSK0019250
+Okay, I'll go ahead and get started[nl]with the animals.
+KSK/KSK0019260
+No need to rush, take your time.
+@フェードアウト
+@背景変更
+KSK/KSK0019270
+Oh, thanks for your hard work.
+KSK/KSK0019280
+I've just finished up with all the animals.
+Really!? That was fast....
+I'm sorry
+@ksk_401_044
+KSK/KSK0019290
+It was so much fun,[nl]it went by in a flash.
+@ksk_401_045
+KSK/KSK0019300
+You don't need to worry about it.
+@ksk_401_046
+KSK/KSK0019310
+The animals were all in such[nl]good spirits today.
+KSK/KSK0019320
+Oh....but something seemed different[nl]about the snake today.
+What exactly?
+Is he sick?
+@ksk_401_047
+KSK/KSK0019330
+He was very fidgety.
+@ksk_401_048
+KSK/KSK0019340
+I don't think he was sick.[nl]He's eating very well.
+@ksk_401_049
+KSK/KSK0019350
+It's possible he's caught a case of lovesickness.
+How can you tell!?
+For who!?
+@ksk_401_050
+KSK/KSK0019360
+Well, because he's the[nl]same way I am....I guess?
+@ksk_401_051
+KSK/KSK0019370
+Maybe it's you?
+@ksk_401_052
+KSK/KSK0019380
+Hehehe, I'm kidding.
+@ksk_401_053
+KSK/KSK0019390
+We finished earlier than I expected.
+That's because of your help
+Now we can spend time together
+@ksk_401_054
+KSK/KSK0019400
+No....I didn't really do anything.
+KSK/KSK0019410
+Besides, the animals are all such[nl]wonderful little children....
+@ksk_401_055
+KSK/KSK0019420
+Together....
+KSK/KSK0019430
+Yep. Sounds good.
+@ksk_401_056
+KSK/KSK0019440
+Alright then....[nl]Why don't we walk home together?
+I'll walk you home
+#fs{16}It's my duty to walk my girlfriend home!#fs{}
+@ksk_401_057
+KSK/KSK0019450
+Huh....? Are you sure?
+KSK/KSK0019460
+Well then, I'll take you up on that....[nl]Thanks!
+@ksk_401_058
+KSK/KSK0019470
+G-Girlfriend....
+KSK/KSK0019480
+Uh, yes!
+KSK/KSK0019490
+Then....[nl]S-Shall we....?
+@ksk_401_059
+KSK/KSK0019500
+Thanks for walking me home,[nl]even though it was such a long way.
+KSK/KSK0019510
+I really had lots of fun....[nl]You made me happy.
+KSK/KSK0019520
+Alright, I'll see you at school.
+KSK/KSK0019530
+Ummm....if you'd like,[nl]we can walk home together tomorrow.
+@マジコイ終了処理
+@ksk_401_060
+@フェードアウト
+@背景変更
+KSK/KSK0019540
+What should we do now?
+Take her home
+Drop by somewhere else
+@ksk_401_061
+KSK/KSK0019550
+KSK/KSK0019560
+Alright then, shall we....?
+@ksk_401_062
+KSK/KSK0019570
+Huh....? A-Are you sure!?[nl]Wow, that'd make me so happy!
+KSK/KSK0019580
+....Huh?
+KSK/KSK0019590
+It's raining?
+Head back to school for a bit
+I've got an umbrella!
+@ksk_401_063
+KSK/KSK0011290
+O-Okay.
+KSK/KSK0019620
+Phew....[nl]I got a bit wet back there.
+Aren't you cold?
+I'll dry you off
+@ksk_401_064
+KSK/KSK0019630
+I'm fine, I'm not cold.[nl]Are you okay?
+KSK/KSK0019640
+Oh, I've got a towel.[nl]Here you go.
+@ksk_401_065
+KSK/KSK0019650
+H-Huuhhh!?[nl]I'm okay, thanks!
+KSK/KSK0019660
+U-U-U-U-Ummmm....[nl]Just dry me off a little bit!
+KSK/KSK0019670
+Oogh....[nl]T-Thanks....
+@ksk_401_066
+KSK/KSK0019680
+Huh? Really?[nl]You're the best!
+KSK/KSK0019690
+You're going to let me under there too, right?[nl]....Thanks!
+KSK/KSK0019700
+But....isn't your shoulder getting wet?[nl]Don't worry so much about me!
+It's not wet.
+That's my line!
+@ksk_401_067
+KSK/KSK0019710
+....No.[nl]Look, it's definitely wet.
+@ksk_401_068
+KSK/KSK0019720
+....Oh.[nl]U-Understood.
+KSK/KSK0019730
+Jeez....[nl]You're just too cool.
+@ksk_401_069
+KSK/KSK0019740
+Then, can I at least dry you off[nl]with my handkerchief?
+KSK/KSK0019750
+....Yep, that's good.
+@ksk_401_070
+KSK/KSK0019760
+Looks like it's stopped raining.[nl]Thank goodness, it was just a passing shower.
+@ksk_401_071
+KSK/KSK0019770
+Let's slowly walk somewhere[nl]we can talk some more.
+@ksk_401_072
+KSK/KSK0019780
+Alright, let's go somewhere else....[nl]Where should we go?
+The park
+A cafe
+@ksk_401_073
+KSK/KSK0019790
+Sounds good.[nl]We can have a nice leisurely talk.
+@ksk_401_074
+KSK/KSK0019800
+....Oh.[nl]The bench is still wet from the rain.
+(Wipe it with a towel)
+I don't mind
+@ksk_401_075
+KSK/KSK0019810
+Oh....[nl]Thanks.
+KSK/KSK0019820
+You're so kind, honestly.
+@ksk_401_076
+KSK/KSK0019830
+Huh!? W-Wait![nl]I can wipe that off!
+KSK/KSK0019840
+You don't want to catch cold, right?[nl]....Here, it's all set now!
+@ksk_401_077
+KSK/KSK0019850
+When the sun sets after it rains,[nl]everything looks so beautiful
+Agreed
+Not as beautiful as you
+@ksk_401_078
+KSK/KSK0019860
+From now on, I want us to[nl]do more things like this....
+KSK/KSK0019870
+I hope we can see lots more[nl]beautiful things together.
+@ksk_401_079
+KSK/KSK0019880
+J-Jeez.... You always do this.[nl]I knew you'd say something like that....
+KSK/KSK0019890
+I know what you look like[nl]when you're joking....
+KSK/KSK0019900
+But I'm happy anyway....
+@ksk_401_080
+KSK/KSK0019910
+Thanks for walking me home.
+KSK/KSK0019920
+I....had fun today.
+KSK/KSK0019930
+Let's do this again sometime, okay?
+@マジコイ終了処理
+@ksk_401_081
+KSK/KSK0019940
+Sounds good.[nl]A cafe would be warm.
+@ksk_401_082
+KSK/KSK0019950
+Ahhh....[nl]This hot chocolate is delicious.
+KSK/KSK0019960
+That reminds me....[nl]Have you heard this story?
+KSK/KSK0019970
+Long ago, there was a princess[nl]in France who loved chocolate.
+KSK/KSK0019980
+And she said[nl]"My favorite things are the king and chocolate".
+On the same level, huh....
+She must love chocolate
+@ksk_401_083
+KSK/KSK0019990
+Hahaha.
+KSK/KSK0020000
+Maybe the king wanted to be told[nl]that she liked him best.
+#fs{16}You can't help what you like#fs{}
+#fs{16}Do you like me or chocolate more?#fs{}
+@ksk_401_084
+KSK/KSK0020010
+That's honestly true.
+@ksk_401_085
+KSK/KSK0020020
+That's true.
+KSK/KSK0020030
+But doesn't that sound like a wonderful[nl]way to make a love confession?
+KSK/KSK0020040
+More than anything else in the world,[nl]she loves the king and chocolate.
+KSK/KSK0020050
+I'd like to make a confession like that someday.
+KSK/KSK0020060
+Hehehe....
+@ksk_401_086
+KSK/KSK0020070
+M-Me!?
+KSK/KSK0020080
+Well, of course I....
+.........
+KSK/KSK0020090
+That's a secret. ★
+@ksk_401_087
+@フェードアウト
+@背景変更
+KSK/KSK0020100
+KSK/KSK0020110
+Let's have another talk sometime!
+common.asb

@@ -147,7 +147,7 @@ Return to title screen without saving settings?
 R_SystemTextMajikoiReturnTitle
 Return to title screen?
 R_SystemTextMajikoiGoConfirm
-Are you sure you want to start?
+Begin with this scenario?[nl]NOTE: Only Kosaki's non-Yumekoi events are translated.
 R_SystemTextMajikoiCtgOpen
 Chitoge unlocked.
 R_SystemTextMajikoiKskOpen
@@ -159,35 +159,35 @@ Marika unlocked.
 R_SystemTextMajikoiRurOpen
 Ruri unlocked.
 R_SystemTextMajikoiCtgNormal
-Chitoge's "School" and "Date" events are now available.
+Chitoge's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiCtgDlc1
-Chitoge's "Marriage" events are now available.
+Chitoge's "Marriage" event is now available.
 R_SystemTextMajikoiCtgDlc2
-Chitoge's "Yumekoi" events are now available.
+Chitoge's "Yumekoi" event is now available.
 R_SystemTextMajikoiKskNormal
-Kosaki's "School" and "Date" events are now available.
+Kosaki's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiKskDlc1
-Kosaki's "Marriage" events are now available.
+Kosaki's "Marriage" event is now available.
 R_SystemTextMajikoiKskDlc2
-Kosaki's "Yumekoi" events are now available.
+Kosaki's "Yumekoi" event is now available.
 R_SystemTextMajikoiSsrNormal
-Seishiro's "School" and "Date" events are now available.
+Seishiro's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiSsrDlc1
-Seishiro's "Marriage" events are now available.
+Seishiro's "Marriage" event is now available.
 R_SystemTextMajikoiSsrDlc2
-Seishiro's "Yumekoi" events are now available.
+Seishiro's "Yumekoi" event is now available.
 R_SystemTextMajikoiMrkNormal
-Marika's "School" and "Date" events are now available.
+Marika's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiMrkDlc1
 Marika's "Marriage" events are now available.
 R_SystemTextMajikoiMrkDlc2
-Marika's "Yumekoi" events are now available.
+Marika's "Yumekoi" event is now available.
 R_SystemTextMajikoiRurNormal
-Ruri's "School" and "Date" events are now available.
+Ruri's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiRurDlc1
-Ruri's "Marriage" events are now available.
+Ruri's "Marriage" event is now available.
 R_SystemTextMajikoiRurDlc2
-Ruri's "Yumekoi" events are now available.
+Ruri's "Yumekoi" event is now available.
 R_SystemTextMajikoiExitConfirm
 Would you like to exit Majikoi+?
 R_SystemTextSneakGiveup

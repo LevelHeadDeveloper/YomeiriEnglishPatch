@@ -1,0 +1,275 @@
+__main
+@Lclearscreenall
+@ksk_402
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+KSK/KSK0020890
+Oh....you're already here!
+KSK/KSK0020900
+I wanted to get here 10 minutes ago,[nl]but it didn't work out....
+I just got here too
+I didn't want to make you wait
+@ksk_402_122
+KSK/KSK0020910
+Hehe.[nl]This kind of exchange is always nice.
+@ksk_402_123
+KSK/KSK0020920
+I don't really mind waiting at all,[nl]so don't push yourself!
+KSK/KSK0020930
+But....thanks!
+@ksk_402_124
+@expose
+KSK/KSK0020940
+So, where should we go today?
+@ksk_402_124_1
+The pool
+The aquarium
+@ksk_402_165
+@ksk_402_124_2
+Amusement park
+@ksk_402_226
+@ksk_402_125
+KSK/KSK0020950
+Okay, sounds good.
+KSK/KSK0020960
+Oh, but....[nl]That means I'll need to go back and get my swimsuit.
+@ksk_402_126
+KSK/KSK0020970
+I look forward to[nl]when we get to the pool.
+KSK/KSK0020980
+This is the swimsuit I picked out with Ruri.
+@ksk_402_127
+@フェードアウト
+@背景変更
+KSK/KSK0020990
+....Thanks for waiting.
+KSK/KSK0021000
+Um....what do you think[nl]of my swimsuit?
+Looks good on you.
+It's too cute....!
+@ksk_402_128
+KSK/KSK0021010
+....Really?[nl]Thank goodness!
+KSK/KSK0021020
+Alright, let's do our stretches[nl]before we get into the pool.
+@ksk_402_128_1
+What a pain....
+Okay
+@ksk_402_129
+@expose2
+KSK/KSK0021030
+Huh!?[nl]T-T-That's not true at all!
+KSK/KSK0021040
+I think you're a lot cooler[nl]than I am.
+KSK/KSK0021050
+A-All right then![nl]Shall we do some stretches before we swim!?
+@ksk_402_129_1
+@ksk_402_130
+KSK/KSK0021060
+Hehe, we can't skip them.[nl]We need to do this right.
+KSK/KSK0021070
+Just don't stretch too hard, okay?[nl]You don't want to get leg cramps.
+@ksk_402_131
+KSK/KSK0021080
+I'm just copying what Ruri does....
+KSK/KSK0021090
+Straighten your elbow like this....[nl]Yeah, exactly.
+KSK/KSK0021100
+Okay, can you push on my back[nl]for this next one?
+Sure thing
+Is that okay?
+@ksk_402_132
+KSK/KSK0021110
+Yeah, nice and firmly.[nl]Give it a push.
+@ksk_402_133
+KSK/KSK0021120
+I-It's just for a stretch!
+@ksk_402_134
+KSK/KSK0021130
+The deep end of the pool always sneaks up on you,[nl]you never know where it is.
+KSK/KSK0021140
+So be careful not to....
+KSK/KSK0021150
+....Waaagh!?[nl]Brblblblbl....
+Help her
+Be confused
+@ksk_402_135
+KSK/KSK0021160
+Gaaasp....!
+KSK/KSK0021170
+Thanks![nl]I-I thought I was going to drown....
+@ksk_402_136
+KSK/KSK0021180
+H-Help....!
+KSK/KSK0021190
+....Oh, I can stand up here![nl]I'm glad I was able to get up on my own....
+@ksk_402_137
+KSK/KSK0021200
+The pool really is scary....
+KSK/KSK0021210
+Umm....before we get started,[nl]can we go over my swimming technique?
+Sure thing!
+It can't be helped.
+@ksk_402_138
+KSK/KSK0021220
+Teach me, Sensei!
+I'll teach you step by step
+The key is to relax
+@ksk_402_139
+KSK/KSK0021230
+Sorry, I'm not a good swimmer....
+@ksk_402_140
+KSK/KSK0021240
+Hyaaaaagh! Hands![nl]Our hands!
+KSK/KSK0021250
+Oh....you're showing me[nl]how to butterfly kick.
+KSK/KSK0021260
+Ooogh, I'm sorry for making[nl]such weird noises!
+@ksk_402_141
+KSK/KSK0021270
+Umm....so like this?
+KSK/KSK0021280
+I'm doing my best to relax, but....
+KSK/KSK0021290
+Hmmmm....[nl]I'm still sinking.
+@ksk_402_142
+KSK/KSK0021300
+Thanks. I've got the hang of it now,[nl]so I should be okay....I think!
+KSK/KSK0021310
+Alright then, let's play.
+@ksk_402_142_1
+(Give floaters)
+(Hold hands)
+@ksk_402_143
+KSK/KSK0021320
+Oh, they *do* have floaters here.
+KSK/KSK0021330
+With these, I can feel safe!
+@ksk_402_144
+@背景変更
+KSK/KSK0021340
+Mmmhhh....![nl]I'm exhausted, but that was so refreshing!
+KSK/KSK0021350
+I had so much fun today.[nl]Let's hang out again sometime!
+@マジコイ終了処理
+@ksk_402_145
+KSK/KSK0021370
+!![nl]T-Thanks....
+KSK/KSK0021380
+Phew....I'm so tired from swimming.[nl]Let's stop and take a break for a bit.
+KSK/KSK0021390
+It's like when we do swimming lessons,[nl]I get so sleepy from swimming.
+Me too
+Are you sleepy now?
+@ksk_402_146
+KSK/KSK0021400
+Yeah, it's mostly because it's[nl]a full-body workout....
+KSK/KSK0021410
+It's even worse for me,[nl]because I get so nervous when I swim.
+You can take a nap
+I'm sleepy too.
+@ksk_402_147
+KSK/KSK0021420
+A little bit....
+KSK/KSK0021430
+But I'm okay.
+@ksk_402_148
+KSK/KSK0021440
+Hahahaha, I couldn't do that.
+KSK/KSK0021450
+It would be a waste of our time together....
+KSK/KSK0021460
+....Besides, it would be embarrassing[nl]to be seen sleeping....
+I wanna see that....
+Of course it would!
+@ksk_402_149
+KSK/KSK0021470
+N-No way!
+KSK/KSK0021480
+It's not something I can show you,[nl]really....!
+@ksk_402_150
+KSK/KSK0021490
+R-Right!
+KSK/KSK0021500
+Right now, anyway....[nl]That's a bit much....
+@ksk_402_151
+KSK/KSK0021510
+....Hehe.[nl]You certainly *look* tired.
+KSK/KSK0021520
+You don't need to force yourself[nl]to stay awake, you know.
+I can't just go to sleep!
+Maybe a quick nap....
+@ksk_402_152
+KSK/KSK0021530
+You don't need to be so polite.
+KSK/KSK0021540
+I just wanted to....[nl]catch a quick glimpse of you sleeping....
+@ksk_402_153
+KSK/KSK0021550
+Huh?[nl]R-Really!?
+KSK/KSK0021560
+W-Well then, I hope you sleep well?
+KSK/KSK0021570
+G-Good....night.
+@ksk_402_154
+@背景変更
+KSK/KSK0021580
+Today was fun.
+KSK/KSK0021590
+Look, my fingers are all wrinkled now.
+Mine too.
+Can I hold your hands?
+@ksk_402_155
+KSK/KSK0021600
+....Oh, so they are.
+KSK/KSK0021610
+May I touch them?
+Sure.
+Why?
+@ksk_402_156
+KSK/KSK0021620
+Hehe.[nl]They're so wrinkly.
+KSK/KSK0021630
+....Your hands are so big.
+@ksk_402_157
+KSK/KSK0021640
+I-I just kind of wanted[nl]to touch your hands, no particular reason....
+KSK/KSK0021650
+I-I'm sorry.[nl]I might've been a little too bold....
+@ksk_402_158
+KSK/KSK0021660
+....?[nl]Sure?
+They're so wrinkly
+Your hands are so small
+@ksk_402_159
+KSK/KSK0021670
+So we match.
+KSK/KSK0021680
+....They're so warm.
+@ksk_402_160
+KSK/KSK0021690
+....I-I see.
+KSK/KSK0021700
+Yours are so big by contrast.
+@ksk_402_161
+KSK/KSK0021710
+U-Um....
+KSK/KSK0021720
+I want....to hold your hand[nl]on the way home, too....is that okay?
+Of course we can!
+Okay, let's do that
+@ksk_402_162
+KSK/KSK0021730
+....Yes, thanks!
+@ksk_402_163
+KSK/KSK0021740
+....I'm so happy.
+@ksk_402_164
+KSK/KSK0021760
+Today was amazing, I laughed a lot[nl]and had lots of fun.
+KSK/KSK0021770
+Let's go out together again sometime!
+common.asb
+ksk_402_165.asb
+ksk_402_226.asb

@@ -1,0 +1,392 @@
+__main
+@Lclearscreenall
+@ksk_402_165
+KSK/KSK0021780
+The aquarium....!
+KSK/KSK0021790
+Seems like a great place to relax.[nl]Let's get going.
+@フェードアウト
+@背景変更
+KSK/KSK0021800
+Whoa....![nl]This place is pretty massive.
+@ksk_402_166
+@expose
+KSK/KSK0021810
+Oh....[nl]Looks like the dolphin show is starting soon.
+KSK/KSK0021820
+As long as we're here,[nl]why don't we go see it?
+KSK/KSK0021830
+Wow....![nl]They're jumping in time with the music!
+KSK/KSK0021840
+Hehe, they look so happy[nl]to be getting their rewards.
+KSK/KSK0021850
+Oh....[nl]They're letting people shake flippers with the dolphins!
+Wonder how that feels?
+Wanna go do that?
+@ksk_402_167
+KSK/KSK0021860
+Right? I don't know either.
+KSK/KSK0021870
+W-Want to go try it....?
+@ksk_402_168
+KSK/KSK0021880
+Huh!?
+KSK/KSK0021890
+Y-Yes.[nl]I do want to....
+@ksk_402_169
+KSK/KSK0021900
+Wow.... This feels like rubber.[nl]Kind of feels nice....
+KSK/KSK0021910
+Huh....? Kyaaah!?
+KSK/KSK0021920
+W-What a shock....[nl]I didn't expect it to kiss my cheek....
+I'm jealous of that dolphin
+Even dolphins love you....
+@ksk_402_170
+@expose
+KSK/KSK0021930
+....H-Huuhhh!?
+KSK/KSK0021940
+T-There's no need to be jealous here!
+KSK/KSK0021950
+After all....[nl]You are my boyfriend....
+@ksk_402_171
+KSK/KSK0021960
+It's just being nice,[nl]it's such a good little dolphin, after all.
+KSK/KSK0021970
+They're seriously CUTE!
+@ksk_402_172
+KSK/KSK0021980
+Where to now?
+Migratory fish
+Deep-sea fish
+Dolphin show
+@ksk_402_173
+KSK/KSK0021990
+Okay, let's go.
+KSK/KSK0022000
+Woah....[nl]There's so many different kinds of fish here!
+KSK/KSK0022010
+....W-What!?
+KSK/KSK0022020
+It looks like all the fish[nl]are swimming over towards me....!?
+Even fish love you....
+Do they think you're food?
+@ksk_402_174
+KSK/KSK0022030
+N-No way....[nl]That was just a coincidence.
+@ksk_402_175
+KSK/KSK0022040
+T-That seems like kind of a stretch....
+@ksk_402_176
+KSK/KSK0022050
+I know I'm not very good at swimming....
+KSK/KSK0022060
+But one day, I'd like to swim[nl]in a beautiful sea surrounded by fish like these.
+That sounds wonderful!
+That will happen someday
+@ksk_402_177
+KSK/KSK0022070
+Right?
+KSK/KSK0022080
+For example, it would be amazing[nl]to swim with dolphins.
+KSK/KSK0022090
+And if you were with me, too....[nl]I'd be even happier.
+........
+@expose2
+KSK/KSK0022100
+J-Just kidding!
+@ksk_402_178
+KSK/KSK0022110
+That's right. I'm not too confident of that, though,[nl]because even swimming in the pool takes everything I've got....
+KSK/KSK0022120
+But I guess the only way to get[nl]better is to practice!
+KSK/KSK0022130
+So when I practice....[nl]Would you like to join me?
+@ksk_402_179
+KSK/KSK0022140
+Deep sea fish, huh....[nl]I wonder what kind of fish there are.
+KSK/KSK0022150
+It's dark. I'll bet that's because[nl]they made this as close to the deep sea as possible.
+KSK/KSK0022160
+The fish in these tanks[nl]are all moving so slowly....
+KSK/KSK0022170
+....Woah. This fish here[nl]hasn't eaten anything for three years.
+Amazing.
+On a diet....?
+@ksk_402_180
+KSK/KSK0022180
+Their bodies work a lot differently[nl]from ours.
+@ksk_402_181
+KSK/KSK0022190
+Hehe. Maybe she's a girl.
+@ksk_402_182
+KSK/KSK0022200
+I keep comparing them to humans,[nl]and now I'm worried for them....
+You're so kind.
+It is worrisome
+@ksk_402_183
+KSK/KSK0022210
+That's not true.
+KSK/KSK0022220
+There's nothing I can do[nl]by just worrying about it.
+KSK/KSK0022230
+I think the ones who are really kind[nl]are the keepers who take care of them.
+@ksk_402_184
+KSK/KSK0022240
+Yeah....
+KSK/KSK0022250
+I hope this one eats its food[nl]when it needs to.
+@ksk_402_185
+KSK/KSK0022260
+Sounds like fun.[nl]I'll bet the dolphins are cute.
+KSK/KSK0022270
+Wowww! I've never seen them[nl]from this close before!
+KSK/KSK0022280
+Kyaaah!?
+KSK/KSK0022290
+....Hahaha![nl]The dolphins jumped up and splashed us.
+KSK/KSK0022300
+Now we're both soaked to the skin.[nl]Would you like my handkerchief to dry off with?
+You go first, Kosaki
+I'll be fine
+@ksk_402_186
+KSK/KSK0022310
+Thanks. But you're a lot[nl]wetter than I am.
+@ksk_402_187
+KSK/KSK0022320
+Come on, no you won't![nl]What if you catch a cold!?
+@ksk_402_188
+KSK/KSK0022330
+Oh, I know.[nl]I'll dry you off.
+KSK/KSK0022340
+Hehe. You're absolutely drenched.
+KSK/KSK0022350
+....Okay, I'm all done![nl]I think I've gotten a lot of water off of you.
+Thanks
+Now I can dry you off
+@ksk_402_189
+KSK/KSK0022360
+Yes, of course!
+@ksk_402_190
+KSK/KSK0022370
+Huh....? A-Are you okay with that?
+KSK/KSK0022380
+T-Thanks....
+@ksk_402_191
+KSK/KSK0022390
+I think we've seen everything now.
+KSK/KSK0022400
+The sea creatures were all wonderful.
+My feet are killing me
+Yeah, that was fun!
+@ksk_402_192
+KSK/KSK0022410
+Oh....are you okay?
+KSK/KSK0022420
+This aquarium *is* pretty big, isn't it.
+KSK/KSK0022430
+Y-You know what? I hate to[nl]bother you when you're tired, but....
+@ksk_402_193
+KSK/KSK0022440
+Yeah, it really was!
+KSK/KSK0022450
+I can't swim, but I enjoyed this so much[nl]that now I want to go to the sea!
+@ksk_402_194
+KSK/KSK0022460
+Would you mind if we stop by the gift shop[nl]before we leave?
+KSK/KSK0022470
+These cell phone straps are cute.
+KSK/KSK0022480
+Umm.... If you don't mind,[nl]would you like to get matching straps?
+Of course!
+Sounds embarrassing....
+@ksk_402_195
+KSK/KSK0022490
+Thank goodness....
+KSK/KSK0022500
+So, what should we get?
+You pick.
+The dolphin ones!
+@ksk_402_196
+KSK/KSK0022510
+I see. You are a boy, after all.[nl]You don't have to wear it if you don't want to.
+KSK/KSK0022520
+Okay, let's get something no one will notice.
+@ksk_402_197
+KSK/KSK0022530
+Really?
+KSK/KSK0022540
+Okay, we'll take these dolphin straps.
+@ksk_402_198
+KSK/KSK0022550
+....Woah, what a surprise!
+KSK/KSK0022560
+I was just thinking this one[nl]would be perfect, too!
+@ksk_402_199
+KSK/KSK0022570
+Ahhh, today was so fun.
+KSK/KSK0022580
+I'll treasure this dolphin[nl]cellphone strap.
+KSK/KSK0022590
+Thanks for coming with me.[nl]Let's go out together again sometime!
+@マジコイ終了処理
+@ksk_402_200
+KSK/KSK0022600
+....Oh, it looks like they're[nl]having an event of some kind.
+KSK/KSK0022610
+And they're saying any couple who participates[nl]will receive a limited-edition stuffed toy!
+Wanna participate?
+Do you want the toy?
+@ksk_402_201
+KSK/KSK0022620
+----
+KSK/KSK0022630
+....Yes.
+@ksk_402_202
+KSK/KSK0022640
+....I do, kind of.
+KSK/KSK0022650
+It would be something nice to remember this day by.[nl]So, if you wouldn't mind....
+I wouldn't mind at all!
+Might as well
+@ksk_402_203
+KSK/KSK0022660
+Thanks!
+@ksk_402_204
+KSK/KSK0022670
+I'm sorry for asking so much of you.[nl]But thank you!
+@ksk_402_205
+@時間経過演出
+KSK/KSK0022680
+Let's see, our next mission is....
+KSK/KSK0022690
+We need to high-five these sea lions.
+KSK/KSK0022700
+Alright, up high![nl]....Hehe, they're so cute!
+KSK/KSK0022710
+Okay, it's your turn.
+KSK/KSK0022720
+H-Huh!?[nl]The sea lions ran away....!?
+CHASE THE SEA LIONS
+Get Kosaki to lure them
+@ksk_402_206
+KSK/KSK0022730
+Aah!? The sea lion kicked you....!?
+KSK/KSK0022740
+A-Are you okay!?[nl]You just got kicked really hard in the stomach!
+KSK/KSK0022750
+Oh....I guess the staff just gave you[nl]the "High Five Seal of Approval" anyway....
+That doesn't count....
+Huh!? For real!?
+@ksk_402_207
+KSK/KSK0022760
+Uh, hey, at least you did your best,[nl]so that counts....okay?
+@ksk_402_208
+KSK/KSK0022770
+Looks like they're being lenient.[nl]That's good!
+@ksk_402_209
+KSK/KSK0022780
+Okay, got it!
+KSK/KSK0022790
+Come here![nl]Yes, yes, good boy....
+KSK/KSK0022800
+Now!
+(Get a high five)
+....Huh?
+@ksk_402_210
+KSK/KSK0022810
+Oh, you got a high five!
+KSK/KSK0022820
+Thank goodness, we cleared it!
+@ksk_402_211
+KSK/KSK0022830
+Oh....Oh no,[nl]it ran away.
+KSK/KSK0022840
+I guess we'll keep working together[nl]until we can get you a high five!
+@ksk_402_212
+KSK/KSK0022850
+Next up is our final mission!
+KSK/KSK0022860
+Huh....? The final mission[nl]is for couples to hug each other....
+KSK/KSK0022870
+W-What do we do?
+Hug her
+Hesitate
+@ksk_402_213
+KSK/KSK0022880
+Huh!? U-Um....!?
+........
+KSK/KSK0022890
+....Huh?[nl]We have to hug for a whole 5 minutes!?
+@ksk_402_214
+KSK/KSK0022900
+The staff are saying we need to hug soon....
+KSK/KSK0022910
+What do we do....?
+It can't be helped....!
+I got this, here goes!
+@ksk_402_215
+KSK/KSK0022920
+Waaagh....!?
+KSK/KSK0022930
+T-That hurts![nl]You're hugging me too tight....!
+KSK/KSK0022940
+Gaaasp![nl]Phew....I-I'm okay now.
+@ksk_402_216
+KSK/KSK0022950
+O-Okay! Go ahead!
+KSK/KSK0022960
+This is....a little....[nl]embarrassing....
+@ksk_402_217
+KSK/KSK0022970
+I feel....a little strange....
+KSK/KSK0022980
+Ahhh, I had fun today.[nl]And we got the stuffed too, too....
+KSK/KSK0022990
+But that last mission....[nl]That was really embarrassing.
+So embarrassing....
+It wasn't so bad
+What if no one was around?
+@ksk_402_218
+KSK/KSK0023000
+Yeah....[nl]That's true.
+@ksk_402_219
+KSK/KSK0023010
+It's embarrassing enough[nl]to be doing that in public....
+@ksk_402_220
+KSK/KSK0023020
+Really?[nl]I envy that kind of strength....
+@ksk_402_221
+KSK/KSK0023030
+I guess so....[nl]It would be fine if there wasn't anyone around....
+KSK/KSK0023040
+Wait, w-w-w-what am I saying!?[nl]I-I'm sorry!
+@ksk_402_222
+KSK/KSK0023050
+But I'm happy we were able to[nl]so something together that couples do....
+KSK/KSK0023070
+I don't....want you[nl]to leave just yet....
+Hold her hand
+Hug her
+@ksk_402_223
+KSK/KSK0023080
+----
+KSK/KSK0023090
+Your hands are so big....
+@ksk_402_224
+KSK/KSK0023100
+Huh....?
+KSK/KSK0023110
+N-No....
+KSK/KSK0023120
+....If you keep this up,[nl]you'll just make me want to leave even less....
+KSK/KSK0023130
+@ksk_402_225
+KSK/KSK0023140
+Thanks. I'm okay now.
+KSK/KSK0023150
+The cellphone strap and the stuffed toy....[nl]I'll treasure them.
+KSK/KSK0023160
+Well then, later....[nl]See you at school.
+common.asb

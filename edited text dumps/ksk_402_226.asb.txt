@@ -1,0 +1,389 @@
+__main
+@Lclearscreenall
+@ksk_402_226
+@expose
+KSK/KSK0023170
+An amusement park![nl]Wow, amazing idea!
+KSK/KSK0023180
+This really feels like a real date!
+@フェードアウト
+@背景変更
+@ksk_402_227
+KSK/KSK0023190
+We're heeeere![nl]I'm so excited.
+KSK/KSK0023200
+....Oh, that reminds me....
+@expose2
+KSK/KSK0023210
+I've heard the Ferris wheel here[nl]has an amazing view.
+KSK/KSK0023220
+Maybe we could go check that out first....?
+KSK/KSK0023230
+Wowwww![nl]This view is great!
+KSK/KSK0023240
+But our car is swinging a bit.[nl]The wind seems a bit strong....
+(Swing the car more)
+(Hold still)
+@ksk_402_228
+KSK/KSK0023250
+Kyaaaah! H-Hey, stop that![nl]Don't rock our car on purpose!
+KSK/KSK0023260
+Hahhh....[nl]God, you're so mean....
+@ksk_402_229
+KSK/KSK0023270
+....? What's wrong?
+@expose
+KSK/KSK0023280
+Oh, are you trying not[nl]to rock our car?
+KSK/KSK0023290
+....Hehe.[nl]You're really nice.
+@フェードアウト
+@ksk_402_230
+KSK/KSK0023300
+We're here! Where should we go first?
+Ferris wheel
+Roller coaster
+Teacups
+@ksk_402_231
+KSK/KSK0023310
+Okay, let's go!
+@背景変更
+KSK/KSK0023320
+Wowww, what a great view!
+KSK/KSK0023330
+Oh, look over there![nl]There's a parade!
+KSK/KSK0023340
+Amazing! This is such a great[nl]place for a date!
+You seem more excited than usual
+This does feel like a date
+@ksk_402_232
+KSK/KSK0023350
+Well, sure....[nl]I'm happy to be alone with you.
+@ksk_402_233
+KSK/KSK0023360
+Yeah. It's kind of cliche,[nl]but it's still nice!
+@ksk_402_234
+KSK/KSK0023370
+You know....[nl]We're the only ones in here....
+KSK/KSK0023380
+J-Just saying![nl]Um....can I squeeze you?
+Hold her hand
+Hug her!
+@ksk_402_235
+KSK/KSK0023390
+Uh, umm....[nl]I didn't mean your hand....
+KSK/KSK0023400
+....N-No![nl]Never mind, thank you!
+@ksk_402_236
+KSK/KSK0023410
+....Hehe.[nl]I'm so excited....
+KSK/KSK0023420
+Thank you for indulging my selfishness....
+@ksk_402_237
+KSK/KSK0023430
+Huh? A rollercoaster!?
+KSK/KSK0023440
+Uh....N-Nothing.[nl]It's fine, I think....
+KSK/KSK0023450
+I-I wonder why it's taking so long[nl]to climb this hill.
+It's a roller coaster, duh
+Now I'm scared....
+@ksk_402_238
+KSK/KSK0023460
+Y-You're right.[nl]Ha, haha, hahahaha....
+@ksk_402_239
+KSK/KSK0023470
+....S-Sorry. I-It's true though![nl]Hands, let's hold hands!
+@ksk_402_240
+KSK/KSK0023480
+Kyaaaah![nl]W-W-We're falling!
+Pull it together!
+I've got you!
+@ksk_402_241
+KSK/KSK0023490
+I CAAAAAAAN'T!
+@ksk_402_242
+KSK/KSK0023500
+I-I'll tryyyyyy!
+@ksk_402_243
+KSK/KSK0023510
+Yaaaaaaaaagh!
+@ksk_402_244
+KSK/KSK0023520
+Okay, let's go!
+KSK/KSK0023530
+Woaaah.[nl]The teacups are all so cute!
+KSK/KSK0023540
+Hey, which one should we ride in?
+You pick
+Doesn't matter to me
+@ksk_402_245
+KSK/KSK0023550
+Thanks.[nl]Okay, let's take the pink one!
+@ksk_402_246
+KSK/KSK0023560
+Let's see....[nl]Then, how about that pink one?
+@ksk_402_247
+KSK/KSK0023570
+Oh, it's starting.[nl]Wow, we're really starting to spin!
+I'll spin us faster!
+Is the speed okay?
+@ksk_402_248
+KSK/KSK0023580
+Huh!?[nl]H-Hang on a s--
+@ksk_402_249
+KSK/KSK0023590
+Yep, it's perfect.[nl]Thanks for being so considerate of me.
+@ksk_402_250
+KSK/KSK0023600
+All the lines are so long....
+KSK/KSK0023610
+But when we're waiting in line together,[nl]it's kind of fun.
+KSK/KSK0023620
+....It's kind of strange.
+I'm tired....
+Talking together makes time fly
+@ksk_402_251
+KSK/KSK0023630
+I-I'm sorry....
+KSK/KSK0023640
+I got kind of carried away....[nl]I didn't even notice.
+KSK/KSK0023650
+Well then, let's break for lunch.
+@ksk_402_252
+KSK/KSK0023660
+Right, right!
+KSK/KSK0023670
+Even though we're always together,[nl]I never get bored of it.
+KSK/KSK0023680
+But I'm getting kind of hungry,[nl]so let's break for lunch soon.
+@ksk_402_253
+KSK/KSK0023690
+....Let's eat!
+KSK/KSK0023700
+This food tastes amazing[nl]after being on your feet for so long!
+KSK/KSK0023710
+Oh, you've got a grain of rice on your cheek.
+Huh? Where!?
+Can you get it?
+@ksk_402_254
+KSK/KSK0023720
+Um, right there....
+@ksk_402_255
+KSK/KSK0023730
+Alright, sure.
+@ksk_402_256
+KSK/KSK0023740
+....Okay, got it!
+Thank you
+You've got one, too
+@ksk_402_257
+KSK/KSK0023750
+You're welcome.
+KSK/KSK0023760
+That was kind of cute....
+@ksk_402_258
+KSK/KSK0023770
+Huh? Really!?[nl]Where is it....?
+KSK/KSK0023780
+Huh? You were kidding?
+KSK/KSK0023790
+Jeez, you got me.
+@ksk_402_259
+KSK/KSK0023800
+Today really flew by in an instant.
+KSK/KSK0023810
+It was so fun, it was like a dream.[nl]Let's come back here sometime.
+@マジコイ終了処理
+@ksk_402_260
+KSK/KSK0023830
+...Huh? What does that sign say?[nl]Let's see....
+KSK/KSK0023840
+"If a couple kisses where they can see[nl]the Ferris wheel...."
+KSK/KSK0023850
+"....and if no one sees them,[nl]then they will be happy together forever"....
+KSK/KSK0023860
+----
+Wanna try it?
+Okay, let's do that!
+@ksk_402_261
+KSK/KSK0023870
+But it might be hard with[nl]so many people around....
+KSK/KSK0023880
+Also, doing it here....um....
+@ksk_402_262
+KSK/KSK0023890
+Huh? Y-You want to do that!?
+@ksk_402_263
+KSK/KSK0023900
+Uh....But I guess it would be okay[nl]if it was on the cheek or something.
+KSK/KSK0023910
+I'm sure it'll count.[nl]W-While we're here, we might as well....
+@ksk_402_264
+KSK/KSK0023920
+....Okay, there's no one looking now!
+Okay, here goes!
+I can't decide where to kiss....
+@ksk_402_265
+KSK/KSK0023930
+....Oh no![nl]Someone's coming....
+@ksk_402_266
+KSK/KSK0023940
+Oh, someone's coming....
+@ksk_402_267
+KSK/KSK0023950
+Hmmmm, this really is difficult.
+KSK/KSK0023960
+There aren't any blind spots, it would seem.
+Why not get on the Ferris wheel?
+Let's wait for everyone to leave
+@ksk_402_267_1
+@ksk_402_268
+KSK/KSK0023970
+Huh? Didn't we do that earlier?
+KSK/KSK0023980
+....Oh, I see! It's hard to be seen[nl]from inside the car....
+KSK/KSK0023990
+And you can see it from inside it,[nl]so it meets the conditions! Of course!
+@ksk_402_269
+KSK/KSK0024000
+But what's a good spot where[nl]we'd be able to see the Ferris wheel?
+KSK/KSK0024010
+I know! We can see the Ferris wheel[nl]from *inside* the Ferris wheel, so it meets the conditions!
+KSK/KSK0024020
+That'll work, let's do it!
+@ksk_402_270
+@ＢＧＭ停止
+@フェードアウト
+@背景変更
+.......
+Should we do it?
+Are you embarrassed?
+@ksk_402_271
+KSK/KSK0024030
+S-Sure, yeah....
+@ksk_402_272
+KSK/KSK0024040
+Yeah....a little.
+@ksk_402_273
+KSK/KSK0024050
+There are people in the other cars, too,[nl]so it would be a good idea to wait until we're on top.
+KSK/KSK0024060
+We're almost at the top....
+@ksk_402_273_2
+Kiss her cheek
+Kiss her hand
+@ksk_402_274
+@ＢＧＭ再生
+KSK/KSK0024070
+....Hehe. That tickles.
+@ksk_402_275
+KSK/KSK0024080
+....Hehe.[nl]It's almost like I'm a princess.
+@ksk_402_276
+KSK/KSK0024090
+KSK/KSK0024100
+....Let's stay together[nl]forever and ever.
+@ksk_402_277
+@タッチパート開始処理
+@ホワイトアウト
+KSK/KSK0024110
+Oh....!
+KSK/KSK0024120
+.....Mmm.....
+KSK/KSK0024130
+....I'm so embarrassed,[nl]I think I'm gonna die....
+@ksk_402_278
+KSK/KSK0024140
+I was right.... If I wait long enough,[nl]I really do get a chance to be alone with you....
+KSK/KSK0024150
+....It's already been an hour....
+KSK/KSK0024160
+Should we go somewhere else?[nl]We can find a new spot if you want....
+No, give it a bit more!
+Yeah, we should....
+@ksk_402_279
+KSK/KSK0024170
+Okay, we can stay here, then.
+@ksk_402_280
+KSK/KSK0024180
+Okay, let's go....
+@ksk_402_281
+@背景変更2
+KSK/KSK0024190
+.....Oh, there's no one looking right now!
+@ksk_402_281_2
+Wait for her to kiss you
+Kiss her cheek
+Kiss her hand
+@ksk_402_282
+KSK/KSK0024200
+*Smooch*
+KSK/KSK0024210
+....W-Was that okay?[nl]It was on your cheek....
+@ksk_402_283
+KSK/KSK0024220
+....!
+KSK/KSK0024230
+T-That tickled....
+@ksk_402_284
+@ksk_402_285
+KSK/KSK0024240
+But we've finally done it....
+KSK/KSK0024250
+I'm glad we were finally able to do that....
+@ksk_402_287
+KSK/KSK0024260
+I really....h-had fun today.
+KSK/KSK0024270
+Um....a-and that other thing[nl]turned out well too....
+You're blushing.
+It was super embarrassing.
+@ksk_402_288
+KSK/KSK0024280
+Ooogh....[nl]I know that....
+KSK/KSK0024290
+I'm still a little embarrassed[nl]because my heart is still pounding....
+@ksk_402_289
+KSK/KSK0024300
+Thank goodness,[nl]I'm not the only one....
+KSK/KSK0024310
+But....I really did enjoy this.
+@ksk_402_290
+KSK/KSK0024320
+I'll have to see to it that my mom[nl]doesn't notice my face is red.
+@ksk_402_291
+KSK/KSK0024340
+Okay, see you around....[nl]Let's go out again sometime!
+@ksk_402_292
+KSK/KSK0024350
+Um....don't leave just yet.[nl]Can I tell you something?
+KSK/KSK0024360
+I had a thought today.
+KSK/KSK0024370
+I want to be with you forever....
+KSK/KSK0024380
+Really and truly, cross my heart,[nl]forever, together forever and ever....
+Me too
+T-The thing is....
+@ksk_402_293
+KSK/KSK0024390
+!!![nl]....Really?
+KSK/KSK0024400
+....I'm so happy....[nl]....I'm so, so happy....
+KSK/KSK0024430
+And just to make sure we stay together forever,[nl]here's a little charm....
+KSK/KSK0024435
+....*smooch*
+KSK/KSK0024410
+....I have to be going now.[nl]Thank you so much for today.
+KSK/KSK0024440
+....Okay, see you around!
+@ksk_402_294
+KSK/KSK0024450
+....I'm sorry. I guess you can't[nl]make up your mind on that so quickly.
+KSK/KSK0024460
+No, it's fine.[nl]For now, anyway.
+KSK/KSK0024470
+Thanks again for today.[nl]Let's go out again next week!
+common.asb

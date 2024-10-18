@@ -1,0 +1,231 @@
+__main
+@Lclearscreenall
+@ksk_401_088
+I have to take care of the animals
+The teacher needs a favor from me
+@ksk_401_003
+@ksk_401_088_01
+KSK/KSK0020120
+Oh, I see.
+KSK/KSK0020130
+Then, should I wait for you to finish?
+It'll take a while....
+Of course!
+@ksk_401_089
+KSK/KSK0020140
+That's okay, I'll find a way[nl]to kill time.
+@ksk_401_090
+KSK/KSK0020150
+Okay. I'll be waiting!
+@ksk_401_091
+@フェードアウト
+@時間経過演出
+KSK/KSK0020160
+Oh.... Are you done with[nl]what she asked you to do?
+Yep, all done!
+Sorry to make you wait.
+@ksk_401_092
+@expose
+KSK/KSK0020170
+Thanks for working hard!
+@ksk_401_093
+KSK/KSK0020180
+No, it's totally fine.
+@ksk_401_094
+@背景変更
+KSK/KSK0020190
+We wrapped up earlier than I thought.
+KSK/KSK0020200
+So, if it's alright with you....[nl]Would you like to take a little detour on our way home?
+Sure.
+A date....!?
+@ksk_401_095
+KSK/KSK0020210
+Okay, then let's go.
+@ksk_401_096
+KSK/KSK0020220
+....!
+KSK/KSK0020230
+Right....yeah.[nl]I guess it is a date.
+@ksk_401_097
+KSK/KSK0020240
+Oh.... Or maybe you'd like[nl]to stop by my place?
+KSK/KSK0020250
+We've got a new lineup of Japanese sweets.[nl]....How about it?
+Go somewhere else
+Go to Kosaki's house
+@ksk_401_098
+KSK/KSK0020260
+Okay, sure!
+KSK/KSK0020270
+Then, where should we go?
+I'm fine with whatever
+Where do you want to go, Kosaki?
+@ksk_401_099
+KSK/KSK0020280
+Hmmmmm.....[nl]I can't really think of anywhere to go....
+KSK/KSK0020290
+Why don't we just wander around for a while?
+@ksk_401_082
+@ksk_401_100
+KSK/KSK0020300
+Let's see....
+KSK/KSK0020310
+Well, why don't we go somewhere[nl]we don't usually go?
+KSK/KSK0020320
+I've always wanted to come to an arcade.
+KSK/KSK0020330
+Do you have any recommendations[nl]for good games?
+Let's play a racing game!
+Let's play a shooting game
+@ksk_401_101
+KSK/KSK0020340
+Ummm....[nl]I just need to shoot the ghosts, right?
+KSK/KSK0020350
+I'll try my hardest not to[nl]get in the way!
+KSK/KSK0020360
+....!
+KSK/KSK0020370
+Huh....?[nl]Did we just win?
+KSK/KSK0020380
+Yaaaay![nl]We were able to win together!
+Hooray!
+You're good at this!
+@ksk_401_102
+KSK/KSK0020390
+Yeah, I'm happy!
+KSK/KSK0020400
+This is so much fun![nl]I've never done anything like this before!
+@ksk_401_103
+KSK/KSK0020410
+T-That's not true!
+KSK/KSK0020420
+But I do think we worked well together.
+@ksk_401_104
+KSK/KSK0020430
+I've never driven a car before....
+KSK/KSK0020440
+And this is a race....!?
+KSK/KSK0020450
+I don't know how well I can do this,[nl]but I'll try my best!
+KSK/KSK0020460
+Kyaaah!? W-Wait![nl]....Aagh, that guy bumped me!
+KSK/KSK0020470
+Waaah! You've already reached[nl]the finish line!?
+KSK/KSK0020480
+Even though you had a handicap,[nl]I still lost....
+I won!
+You are a beginner, after all
+@ksk_401_105
+KSK/KSK0020490
+....Hehe, of course you did![nl]I couldn't keep up at all.
+KSK/KSK0020500
+But it was still really fun.
+@ksk_401_106
+KSK/KSK0020510
+That's true.
+KSK/KSK0020520
+But, even if this wasn't my first time,[nl]I don't think I'd have been able to do it.
+@ksk_401_107
+KSK/KSK0020530
+....And even though it was just a game,[nl]it was nice to watch you driving.
+KSK/KSK0020540
+....T-That is....
+KSK/KSK0020550
+You really looked....cool back there.
+@ksk_401_108
+KSK/KSK0020560
+Time really does fly when[nl]we're having fun together.
+KSK/KSK0020570
+Um....
+KSK/KSK0020580
+Do you think we could do this again....maybe?
+KSK/KSK0020590
+Uhh....see you around![nl]Let's talk a lot again sometime!
+@マジコイ終了処理
+@ksk_401_109
+KSK/KSK0020600
+....Alright![nl]If that's okay with you, of course.
+KSK/KSK0020610
+It's a new kind of Japanese sweet,[nl]and I even helped make it.
+You helped make it, huh....
+Sounds amazing!
+@ksk_401_110
+KSK/KSK0020620
+Oh....[nl]Were you concerned about the taste?
+That's not it at all
+....A little
+@ksk_401_111
+KSK/KSK0020630
+Hehe, don't worry about it.
+KSK/KSK0020640
+I've been practicing a little bit,[nl]but my mom handles all the flavors, okay?
+@ksk_401_112
+KSK/KSK0020650
+Hahaha....[nl]I see.
+KSK/KSK0020660
+But don't worry, okay?[nl]My mom does all the flavoring properly.
+@ksk_401_113
+KSK/KSK0020670
+Hehe. I'm glad you're looking forward[nl]to them that much.
+@ksk_401_114
+KSK/KSK0020680
+Here's some tea and the new sweets.
+KSK/KSK0020690
+Here, give them a try.
+Delicious!
+These are so cute!
+@ksk_401_115
+KSK/KSK0020700
+That's good!
+KSK/KSK0020710
+My sister helped out with these, too.
+Your sister is amazing
+I want to try making some
+@ksk_401_116
+KSK/KSK0020720
+She's been doing this since she was little,[nl]and she's gotten really good at it.
+KSK/KSK0020730
+Oh, by the way, she said she was interested[nl]in meeting my new boyfriend.
+KSK/KSK0020740
+She's still living in her dorm at her school....[nl]But when we get the chance, I'll introduce you, okay?
+@ksk_401_117
+@expose2
+KSK/KSK0020750
+Really!?
+KSK/KSK0020760
+I want to put the sweets we make together[nl]on display in the shop!
+KSK/KSK0020770
+Hey, let's go do some research!
+KSK/KSK0020780
+What kind of sweets should we make?[nl]....Hehe, this is fun.
+@ksk_401_118
+KSK/KSK0020790
+R-Really!?
+KSK/KSK0020800
+That's right, I came up with the designs!
+They're as cute as you
+I thought so
+@ksk_401_119
+KSK/KSK0020810
+....Huh!?[nl]W-W-W-What are you saying!?
+KSK/KSK0020820
+That's not true at all![nl]It really isn't!
+KSK/KSK0020830
+I thought my sweets turned out a lot cuter[nl]than I am.
+@ksk_401_120
+KSK/KSK0020840
+Hehehe.... They were a collaborative effort[nl]between my mom, my sister and me.
+KSK/KSK0020850
+And I'm so happy you like what we all made!
+KSK/KSK0020860
+We have a lot of other prototype sweets too,[nl]so please give them a try too!
+@ksk_401_121
+KSK/KSK0020870
+It was fun talking with you[nl]about Japanese sweets today.
+KSK/KSK0020880
+And....I'm also happy you came[nl]by to visit my house.
+Uhh....see you around![nl]Let's talk a lot again sometime!
+ksk_401_001.asb
+common.asb
+ksk_401_043.asb
