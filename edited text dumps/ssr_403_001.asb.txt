@@ -1,0 +1,138 @@
+__main
+@Lclearscreenall
+@ssr_403
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK1_SSR/SSR0028250
+Come in.
+@背景変更
+MJK1_SSR/SSR0028260
+You're finally home.
+MJK1_SSR/SSR0028270
+Ummmm....welcome home, Darling.
+MJK1_SSR/SSR0028280
+I'm still not used to calling you that.[nl]Should we stick to what we're used to for now?
+MJK1_SSR/SSR0028290
+Oh, you're probably tired since you[nl]just got back. Sorry.
+MJK1_SSR/SSR0028300
+Well then, would you like your dinner?[nl]Or maybe your bath first?
+MJK1_SSR/SSR0028310
+Or would you like....
+MJK1_SSR/SSR0028320
+....me....
+@ssr_403_002
+Dinner
+A bath
+Sleep
+@ssr_403_003
+Let's go to bed together.
+@ssr_403_004
+Let's take a bath together.
+@ssr_403_005
+@ssr_403_006
+Let's eat together.
+@ssr_403_007
+@ssr_403_008
+@ssr_403_213
+MJK1_SSR/SSR0028330
+G-Got it.
+MJK1_SSR/SSR0028340
+Don't worry. The Mistress filled me in on[nl]what's customary for a wedding night.
+MJK1_SSR/SSR0028350
+Umm....Would you like me to hand-feed you[nl]some of my specialty dish?
+........
+MJK1_SSR/SSR0028360
+N-N-N-N-N-N-N-No way![nl]Absolutely not!
+MJK1_SSR/SSR0028370
+Ghhh....[nl]Just thinking about it makes my hands shake.
+@ssr_403_214
+MJK1_SSR/SSR0028380
+Huh!?[nl]Y-You want to take a bath with me!?
+MJK1_SSR/SSR0028390
+I guess that's normal for a married couple....
+MJK1_SSR/SSR0028400
+-----
+MJK1_SSR/SSR0028410
+I feel like I'm boiling alive[nl]even though we're not in the bath yet....
+MJK1_SSR/SSR0028420
+Heeey! Don't take off your clothes there!
+MJK1_SSR/SSR0028430
+No way![nl]We absolutely can't do a bath!
+@ssr_403_215
+MJK1_SSR/SSR0028440
+Whaaa!? A-Are you serious!?
+MJK1_SSR/SSR0028450
+H-Hey! Your breathing is so heavy![nl]You're too close!
+MJK1_SSR/SSR0028460
+Ummm, well, uhh....
+MJK1_SSR/SSR0028470
+I don't think I'm ready for this yet....
+MJK1_SSR/SSR0028480
+I can't do this!!!
+@ssr_403_216
+MJK1_SSR/SSR0028490
+Ghhh....[nl]Being newlyweds is really tough.
+MJK1_SSR/SSR0028500
+There's so much embarrassment,[nl]I feel like I'm going to boil over.
+MJK1_SSR/SSR0028510
+....Huh? I haven't given you[nl]a welcome-home kiss yet?
+MJK1_SSR/SSR0028520
+Hmm.....
+MJK1_SSR/SSR0028530
+W-Well, I guess I could at least do that.
+MJK1_SSR/SSR0028540
+Kissing is something we always do, after all.
+MJK1_SSR/SSR0028550
+Alright, close your eyes and look at me.
+@背景変更
+MJK1_SSR/SSR0028560
+Here goes....
+SSR/SSR0024620
+*smooch*
+@ＢＧＭ停止
+MJK1_SSR/SSR0028570
+....Open your eyes.
+MJK1_SSR/SSR0028580
+....Just wake up already!
+@ＢＧＭ再生
+MJK1_SSR/SSR0028590
+What are you doing,[nl]puckering your lips in your sleep?
+MJK1_SSR/SSR0028600
+You asked me to come over after school to help[nl]you study, and you have the nerve to fall asleep?
+MJK1_SSR/SSR0028610
+What kind of dream were you having just now?[nl]Huh?
+Tell the truth
+Cover it up
+@ssr_403_217
+MJK1_SSR/SSR0028620
+Huh....?[nl]A-A dream where we were newlyweds?
+MJK1_SSR/SSR0028630
+And we were kissing each other every day!?
+@ssr_403_218
+@expose
+MJK1_SSR/SSR0028640
+Heh, you really think you can keep secrets from me?
+MJK1_SSR/SSR0028650
+Come on, the truth!
+MJK1_SSR/SSR0028660
+....?[nl]What're you blushing for?
+MJK1_SSR/SSR0028670
+Huh....!?
+MJK1_SSR/SSR0028680
+Y-You were dreaming about kissing me!?
+MJK1_SSR/SSR0028690
+A-A-A-And we were kissing every day!?
+@ssr_403_219
+@expose2
+MJK1_SSR/SSR0028700
+I-If you've got time for dreams like that,[nl]spend that time STUDYIIIING!
+@pan
+MJK1_SSR/SSR0028710
+Hahh, hahh, hahh....[nl]I hit him so hard I knocked him out.
+MJK1_SSR/SSR0028720
+But....if we do get married, we'll kiss ever day.[nl]Is that what marriage is like?
+MJK1_SSR/SSR0028730
+I'll have to try not to hit him[nl]when it comes to that....
+@マジコイ終了処理
+common.asb

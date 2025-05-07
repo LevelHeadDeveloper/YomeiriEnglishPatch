@@ -1,0 +1,83 @@
+__main
+@Lclearscreenall
+@ssr_401
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+SSR/SSR0021660
+L-Listen....it's lunchtime now,[nl]did you have any particular plans?
+SSR/SSR0021670
+If you don't, well....[nl]Would you like to have lunch with me?
+SSR/SSR0021680
+Of course, only if you're[nl]okay with it.....
+@ssr_401_020
+@ssr_401_002
+@expose
+SSR/SSR0021690
+Are you sure?[nl]Okay, where shall we eat?
+@ssr_401_002_1
+In the classroom
+Let's find a spot
+@ssr_401_010
+@ssr_401_003
+SSR/SSR0021700
+Huh? Right here in the classroom?[nl]I'm okay with that, but....
+SSR/SSR0021710
+I would really have preferred somewhere[nl]we could be alone together.
+You gonna kill me?
+How come?
+@ssr_401_004
+SSR/SSR0021720
+There's no way I can do that[nl]to you now, idiot.
+@ssr_401_005
+SSR/SSR0021730
+Urk....[nl]You really want to make me say it outright?
+SSR/SSR0021740
+Of course it would be better if just[nl]the two of us....idiot.
+@ssr_401_006
+@フェードアウト
+@背景変更
+SSR/SSR0021750
+Incidentally....[nl]Your lunch looks as tasty as always.
+SSR/SSR0021760
+What?[nl]You'll teach me the recipe?
+SSR/SSR0021770
+In that case, I'll teach you *my* best recipe.[nl]We'll be even.
+Looking forward to it
+When should we meet?
+@ssr_401_007
+SSR/SSR0021780
+Hehehe....[nl]We get to cook together, huh.
+........
+SSR/SSR0021790
+Huh!?
+SSR/SSR0021800
+I-I'm not thinking about us being newlyweds[nl]or anything like that!
+@ssr_401_008
+SSR/SSR0021810
+I'm fine if we do it[nl]after school today.
+SSR/SSR0021820
+What I mean is....[nl]Whenever you want to meet up, I'm fine with it.
+SSR/SSR0021830
+Ghh.... Shaddup and stop staring at me![nl]I'm embarrassed about that too!
+@ssr_401_009
+SSR/SSR0021840
+....Thank you for the meal.
+SSR/SSR0021850
+Hm?[nl]You have a grain of rice on your cheek.
+SSR/SSR0021860
+I'll get it for you,[nl]so just hold still.
+SSR/SSR0021870
+Alright, I got it.[nl]God, you're so messy.
+SSR/SSR0021880
+....Quit blushing![nl]You're making *me* embarrassed!
+SSR/SSR0021890
+I-It's your fault my face is all hot now![nl]I'm going to go cool it off with some cold water.
+SSR/SSR0021900
+....It wasn't that much time,[nl]but I enjoyed it.
+SSR/SSR0021910
+Next time, let's eat somewhere quieter.[nl]Until then.
+@マジコイ終了処理
+common.asb
+ssr_401_020.asb
+ssr_401_010.asb

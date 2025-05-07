@@ -1,0 +1,316 @@
+__main
+@Lclearscreenall
+@ssr_402
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+SSR/SSR0023870
+Hahh, hahh, hahh....[nl]Sorry I'm so late.
+What held you up?
+I just got here myself
+@ssr_402_070
+@expose
+SSR/SSR0023880
+Huh? Why was I late?[nl]Y-You see, umm....
+SSR/SSR0023890
+I got really nervous thinking about today.[nl]I couldn't get to sleep, but then I overslept....
+SSR/SSR0023900
+Hey, stop making me say weird stuff!
+@ssr_402_071
+SSR/SSR0023910
+There's no need to say that for my sake.
+SSR/SSR0023920
+I can tell that's not true[nl]just from a brief listen to your heartbeat and pulse.
+SSR/SSR0023930
+But I do appreciate your thoughtfulness.[nl]Thank you.
+@ssr_402_072
+SSR/SSR0023940
+So, did you have any[nl]particular plans for today?
+[Let Tsugumi choose]
+Go to the arcade
+Go to the amusement park
+Go shopping
+@ssr_402_108
+@ssr_402_109
+@ssr_402_155
+@ssr_402_140
+@ssr_402_073
+@expose
+SSR/SSR0023950
+Okay then, how about we....[nl]go to the pool today, if you want?
+@ssr_402_074
+SSR/SSR0023960
+I've heard about this one indoor[nl]pool in the neighborhood.[nl]I've been wanting to go there with you.
+SSR/SSR0023970
+Oh, and don't worry about not having a swimsuit.[nl]I'll rent one for you.
+SSR/SSR0023980
+Alright then, let's go.
+@フェードアウト
+@背景変更
+SSR/SSR0023990
+It makes sense that it would[nl]be this empty during the off-season.
+SSR/SSR0024000
+....Hm? What's wrong?[nl]You've been staring at me for a while now.
+Your swimsuit is cute
+Could ya wear something sexier?
+@ssr_402_075
+SSR/SSR0024010
+R-Really?
+SSR/SSR0024020
+If you say so, then it was worth[nl]the effort I put into picking it out.
+SSR/SSR0024030
+But don't stare too much, okay?[nl]This is embarrassing for me, too....
+@ssr_402_076
+SSR/SSR0024040
+W-What are you saying, you idiot!?!?
+SSR/SSR0024050
+It took courage to wear even this swimsuit in front of you,[nl]and something sexier....
+.......
+SSR/SSR0024060
+....If that's what you want,[nl]I'll see what I can do next time....
+@ssr_402_077
+SSR/SSR0024070
+C-Can we stop talking about swimsuits now?[nl]Come on, let's get stretching!
+@ssr_402_078
+SSR/SSR0024080
+Alright. Sit down with your back facing me.[nl]I'll give it a push.
+SSR/SSR0024090
+....You really are a boy, huh.[nl]Your back is so much more firm than mine.
+SSR/SSR0024100
+But the rest of you body seems firm, too.[nl]In a different way.
+SSR/SSR0024110
+Take a deep breath out and bend over more.[nl]It's too early to give up.
+SSR/SSR0024120
+Now that I've got control of your back,[nl]I'll put everything I've got into limbering you up.
+I give up!
+Turn the tables!
+@ssr_402_079
+SSR/SSR0024130
+Hehe, maybe I teased you a bit much there.
+SSR/SSR0024140
+No need to force yourself.[nl]Stretch at your own pace.
+@ssr_402_080
+SSR/SSR0024150
+Waaagh!?[nl]Don't stand up so suddenly!
+SSR/SSR0024160
+You want to switch places?[nl]That's fine, but....why are your hands twitching?
+SSR/SSR0024170
+....You're such a pervert.[nl]Just get back to your own stretching.
+@ssr_402_081
+SSR/SSR0024180
+Okay, now that we've finished our stretches,[nl]we can finally get into the water.
+SSR/SSR0024190
+Speaking of which,[nl]how well would you say you can swim?
+Well enough to teach, I hope
+Not too well
+@ssr_402_082
+SSR/SSR0024200
+Ohh....not what I expected.
+SSR/SSR0024210
+Then try to teach me.[nl]Let's see how good you are.
+SSR/SSR0024220
+Right, what should we practice first?
+Flutter kick
+Floating on the water
+@ssr_402_083
+SSR/SSR0024230
+The flutter kick, huh....[nl]For that, you'll need to take my hands.
+SSR/SSR0024240
+....It's kind of embarrassing to be[nl]holding hands with you again....
+@ssr_402_084
+SSR/SSR0024250
+Mhm. It's always important to go over the basics.
+SSR/SSR0024260
+So I start with a deep breath, like so, right?
+SSR/SSR0024270
+Like this?[nl]*inhaling*
+SSR/SSR0024280
+Hey, what are you looking at!?[nl]Quit ogling me, you perv!
+@ssr_402_085
+SSR/SSR0024290
+Hmm. It was a nice and interesting[nl]change of pace for you to teach me.
+SSR/SSR0024300
+Not that it was really necessary....[nl]But once in a while it's not so bad to lean on you.
+SSR/SSR0024310
+Can we do this again sometime?
+Sure
+Can you teach me next?
+@ssr_402_086
+SSR/SSR0024320
+Hehe....[nl]Then next time, you can teach me again.
+SSR/SSR0024330
+Make sure you do a good job for me.
+@ssr_402_087
+SSR/SSR0024340
+Ohh?[nl]Then how about we get started on that now?
+SSR/SSR0024350
+I'll coach you rigorously. You'll be the fastest[nl]swimmer in the class when I'm through with you.
+SSR/SSR0024360
+Oh, hey! Don't think you can escape me[nl]by swimming away with form like *that*!
+@ssr_402_088
+SSR/SSR0024370
+What? For real?
+SSR/SSR0024380
+Um.... Then if it wouldn't bother you,[nl]I could teach you....
+Just kidding, I can swim
+Please teach me!
+@ssr_402_089
+SSR/SSR0024390
+Heh.... Very well.[nl]Leave it to me.
+SSR/SSR0024400
+Whenever you're ready, take my hands.[nl]I'll walk you through this step by step.
+SSR/SSR0024410
+Get yourself ready to swim.[nl]Heheheh....
+@ssr_402_090
+SSR/SSR0024420
+Why would you tell such a stupid lie!?
+SSR/SSR0024430
+Good grief....[nl]Let's just swim around.
+SSR/SSR0024440
+How about we have a 25-meter swim race?[nl]If you win, you can make any one request of me.
+Sound like fun
+I'm not sure I could win
+@ssr_402_091
+SSR/SSR0024450
+Hehe....[nl]You understand quite well.
+SSR/SSR0024460
+Then you should just accept my guidance graciously.[nl]I can teach you how to swim faster.
+@ssr_402_092
+SSR/SSR0024470
+Hehehe....you've got nerve![nl]It's on, then!
+@ssr_402_093
+SSR/SSR0024480
+Hahaha! Looks like I win after all!
+SSR/SSR0024490
+Hey, no need to feel so bad.[nl]It's because of all my combat experience.
+SSR/SSR0024500
+Well then, since we're here,[nl]I might as well teach you how to swim faster.
+SSR/SSR0024510
+Oop, don't do thinking you can escape from me.[nl]You lost, you don't get a choice.
+SSR/SSR0024520
+Now, take my hands.[nl]I'll walk you through this step by step.
+SSR/SSR0024530
+@ssr_402_094
+SSR/SSR0024540
+N-No way![nl]How could *I* have lost!?
+@expose2
+SSR/SSR0024550
+Or rather....are you okay!?[nl]Your face is pale as a ghost!
+SSR/SSR0024560
+So you were really swimming that hard.[nl]....I guess I have to admit defeat.
+SSR/SSR0024570
+Is there anything you'd like for me to do,[nl]as your prize?
+A kiss
+Talk like a maid
+@ssr_402_095
+SSR/SSR0024580
+W-Whaaat!?
+SSR/SSR0024590
+What the hell are you thinking!?[nl]Are you insane!? You must be!
+SSR/SSR0024600
+Ghh.... Stop giving me that look![nl]I can't believe you even thought about doing this....
+SSR/SSR0024610
+....Aaargh! Fine![nl]Close your eyes!
+SSR/SSR0024620
+*smooch*
+SSR/SSR0024630
+T-T-There we go![nl]It's not a problem if the kiss was on your hand, right!?
+SSR/SSR0024640
+W-What....?[nl]You were....joking!?
+SSR/SSR0024650
+TELL ME THIS STUFF SOONER, YOU IDIOOOTTTTT!
+@ssr_402_096
+SSR/SSR0024660
+SSR/SSR0024670
+Ghhh.... I want to punch you right now,[nl]but a loss is a loss.
+SSR/SSR0024680
+V....very well, Master....
+SSR/SSR0024690
+Hey, quit laughing, this was your idea!
+@ssr_402_097
+@フェードアウト
+SSR/SSR0024700
+I had fun today.
+SSR/SSR0024710
+It's certainly been a while[nl]since I had a swim this nice.
+SSR/SSR0024720
+But I have to go home now....
+@ssr_402_097_1
+Let's go to the beach next time
+I had fun too
+@ssr_402_098
+@expose
+SSR/SSR0024730
+The beach, huh....[nl]Not a bad idea.
+SSR/SSR0024740
+We can take a beach ball[nl]and a watermelon when we go, as well.
+SSR/SSR0024750
+I'd like to play like a normal girl would,[nl]like the Mistress or Mistress Onodera.
+SSR/SSR0024760
+Of course....with just us two.
+@ssr_402_099
+SSR/SSR0024770
+I see. That's good.
+SSR/SSR0024780
+When summer rolls around, I want to go[nl]to a bigger pool.
+SSR/SSR0024790
+I've heard the Lazy River and waterslides[nl]at those pools are fun.
+SSR/SSR0024800
+Let's go together sometime.
+SSR/SSR0024810
+I want to make more memories with you.
+@ssr_402_100
+SSR/SSR0024820
+It looks like we're going the same way for now.
+SSR/SSR0024830
+As long as we're both here, walk next to me.[nl]That would me more....d-date-like, right?
+@ssr_402_101
+@背景変更
+SSR/SSR0024840
+Today was a lot of fun.[nl]Thanks for going out with me.
+@ssr_402_102
+SSR/SSR0024850
+Next time, let's go somewhere *you* want to go.[nl]I'm looking forward to it.
+SSR/SSR0024860
+Well then....see you later.
+@マジコイ終了処理
+@ssr_402_103
+SSR/SSR0024870
+Well then....
+See ya round!
+I'll walk you home.
+@ssr_402_104
+SSR/SSR0024880
+Yup, see you around.
+SSR/SSR0024890
+Next time, let's go somewhere *you* want to go.[nl]I'm looking forward to it.
+@ssr_402_105
+SSR/SSR0024900
+Huh!?
+SSR/SSR0024910
+No, I appreciate the thought, but....
+SSR/SSR0024920
+If Claude found out, there could be trouble.[nl]I'll be fine for today.
+SSR/SSR0024930
+Thank you.[nl]This is exactly the sort of reason I....
+SSR/SSR0024940
+....l-like....you.
+Thank you
+Didn't quite catch that
+@ssr_402_106
+SSR/SSR0024950
+I-It's not like you need to thank me.
+SSR/SSR0024960
+Okay, see you later!
+@ssr_402_107
+SSR/SSR0024970
+I said I l-li....
+SSR/SSR0024980
+Aaaaargh! I can only say something[nl]that embarrassing so many times!
+SSR/SSR0024990
+You're pretending not to hear me on purpose![nl]You're so mean!
+SSR/SSR0025000
+Ghh.... If I stay around you for another second[nl]I'm afraid I'll say something *else* weird.
+SSR/SSR0025010
+common.asb
+ssr_402_108.asb

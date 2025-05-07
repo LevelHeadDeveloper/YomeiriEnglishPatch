@@ -1,0 +1,665 @@
+__main
+@Lclearscreenall
+@ssr_402_108
+SSR/SSR0025020
+Oh my, so you don't have a particular plan?[nl]I figured that might be the case....
+@expose
+SSR/SSR0025030
+Then how about we go to the pool?
+@ssr_402_074
+@ssr_402_109
+SSR/SSR0025040
+Mhm, that's not a bad idea.
+SSR/SSR0025050
+Alright, let's go.
+@フェードアウト
+@背景変更
+SSR/SSR0025060
+They've got so many games here,[nl]of so many different kinds.
+SSR/SSR0025070
+This is one of those crane games where[nl]you can win a stuffed toy, right?
+SSR/SSR0025080
+T-That big teddy bear there,[nl]it's so cute....
+@ssr_402_110
+SSR/SSR0025090
+Huh? You're saying I should[nl]give it a try if I'm interested....?
+SSR/SSR0025100
+Alright. I'll give it a shot!
+@ssr_402_111
+SSR/SSR0025110
+Should I....give this a try?
+Go for it
+How about something else?
+@ssr_402_112
+SSR/SSR0025120
+Okay, watch this!
+@ssr_402_113
+SSR/SSR0025130
+Compared to the Beehive's training,[nl]this is a walk in the park....
+SSR/SSR0025140
+Huh? T-That's weird....[nl]I mis-estimated!?
+SSR/SSR0025150
+O-One more try!
+SSR/SSR0025160
+Ghhh....[nl]Dammit! Dammit!
+@expose2
+SSR/SSR0025170
+GAHHHHH![nl]DAMMIT, ONCE MORE!
+Let me do it
+Lemme show you the trick
+@ssr_402_114
+SSR/SSR0025180
+But look how hard it is![nl]Are you *sure* you can do it!
+SSR/SSR0025190
+....Very well.[nl]If you say so, I believe you.
+@ssr_402_115
+@フェードアウト
+@背景変更
+SSR/SSR0025200
+Hey! That didn't work at all!
+SSR/SSR0025210
+But I guess there's no sense blaming you.[nl]We'll get that toy some other day.
+@ssr_402_116
+SSR/SSR0025220
+Ooh! Amazing![nl]You really got it!
+SSR/SSR0025230
+Ahhh.... It's so fluffy and cuuuute.
+SSR/SSR0025240
+Huh? You're letting me have it?[nl]But you're the one who won it, right?
+I won it for you
+You don't want it?
+@ssr_402_117
+SSR/SSR0025250
+....I see. Thanks, then.[nl]I'll take good care of it.
+@ssr_402_118
+SSR/SSR0025260
+I-I do want it!
+SSR/SSR0025270
+Um....thank you....[nl]I'll take good care of it.
+@ssr_402_119
+SSR/SSR0025280
+Alright. Let's look for a game[nl]we can both play together next.
+@ssr_402_120
+SSR/SSR0025290
+Huh? You're gonna tell me[nl]when and where to move?
+SSR/SSR0025300
+O-Okay. I'll move the crane however you say,[nl]so please begin.
+SSR/SSR0025310
+I trust in you. Let's do it.
+@ssr_402_121
+SSR/SSR0025320
+No good....[nl]We just can't get it.
+SSR/SSR0025330
+No, it's not your fault at all.[nl]It's my own fault for not following your instructions well enough.
+SSR/SSR0025340
+It can't be helped.[nl]We'll get that toy some other day....
+SSR/SSR0025350
+This time, let's look for a game[nl]we can both play together.
+@ssr_402_122
+SSR/SSR0025360
+Alright! I got it![nl]Did you see that!?
+SSR/SSR0025370
+Hahaa....[nl]It's soooo fluffy and cute....
+SSR/SSR0025380
+Thank you so much.[nl]I'll take good care of it.
+@ssr_402_123
+SSR/SSR0025390
+Hm? Did you have another game in mind[nl]for us to try?
+A fighting game
+Let's take some photos
+@ssr_402_125
+SSR/SSR0025410
+Fine by me. I've actually played this sort of game[nl]with the Mistress on a few occasions.
+SSR/SSR0025420
+Heh heh heh....[nl]My skills are itching to be tested.
+Let's fight one-on-one!
+How about a co-op game?
+@ssr_402_126
+SSR/SSR0025430
+Sounds like fun.[nl]Okay, let's have a good match!
+SSR/SSR0025440
+....Ghh.[nl]To think I would lose so quickly.
+SSR/SSR0025450
+I'd have done better if this had been[nl]a real fight....
+SSR/SSR0025460
+Alright, one more round![nl]I can't just leave it like this!
+@ssr_402_127
+SSR/SSR0025470
+Ohh, you wanna try a co-op round?
+SSR/SSR0025480
+Sounds like fun.[nl]With you around I don't think I can lose.
+SSR/SSR0025490
+Alright. I'm counting on you[nl]to have my back.
+SSR/SSR0025500
+Alright! Another win!
+SSR/SSR0025510
+Heheh.... No one can match our[nl]combined power.
+SSR/SSR0025520
+We can just rack up the wins at this rate!
+@ssr_402_128
+SSR/SSR0025530
+Photos!?[nl]So that *is* a thing they do here....
+SSR/SSR0025540
+I've taken pictures with the Mistress before,[nl]but, um, you know....
+SSR/SSR0025550
+We probably have to have our faces as close together[nl]as possible for the photo, right?
+SSR/SSR0025560
+Um....are you okay with that?
+We don't have to
+Do you not want to?
+@ssr_402_129
+SSR/SSR0025570
+Huh? I-Is that right?
+SSR/SSR0025580
+When the Mistress and I did it,[nl]our faces were so close our cheeks were practically touching.
+SSR/SSR0025590
+I see, so we don't actually need to go that far.
+SSR/SSR0025600
+I feel relieved....[nl]but also a bit disappointed.
+SSR/SSR0025610
+I-I didn't say anything![nl]If we're gonna take pictures, we should do it quickly.
+SSR/SSR0025620
+Hahh....I-I'm so nervous.
+SSR/SSR0025630
+Here, the photos came out.[nl]This set is yours.
+SSR/SSR0025640
+....I cannot let the Mistress or Master Claude[nl]see that I made this face.
+SSR/SSR0025650
+This will be my secret treasure.[nl]....Hehe.
+@ssr_402_130
+SSR/SSR0025660
+It's not that I don't want to....
+SSR/SSR0025670
+----
+SSR/SSR0025680
+....Very well.[nl]I'll steel myself.
+SSR/SSR0025690
+Alright then, come closer!
+SSR/SSR0025700
+Goodness gracious....[nl]You could have told me sooner we didn't need[nl]to get so close.
+SSR/SSR0025710
+Don't you tell a soul about this.[nl]Keep the photos secret, too.
+SSR/SSR0025720
+Hahh.... My cheeks are still burning.
+@ssr_402_131
+SSR/SSR0025730
+Can't believe it's this late already.[nl]Time flies when you're having fun, it seems....
+I wish we could do more
+Time flies with you around
+@ssr_402_132
+SSR/SSR0025740
+I was just thinking the same thing.
+SSR/SSR0025750
+I just wish I had more time[nl]I could spend with you....
+@ssr_402_133
+SSR/SSR0025760
+I-Is that so?
+SSR/SSR0025770
+Can't say it feels bad to hear that.
+@ssr_402_134
+SSR/SSR0025780
+Nevertheless, I need to get going now....
+@ssr_402_134_2
+Let's go out again sometime
+I'll walk you home
+@ssr_402_105
+@ssr_402_135
+SSR/SSR0025790
+Yeah, let's.
+SSR/SSR0025800
+It's not like today was the last time.[nl]We can go out again whenever.
+SSR/SSR0025810
+Alright then, I'll be going now.
+@ssr_402_136
+SSR/SSR0024820
+But we're both going the same way.
+SSR/SSR0024830
+As long as we're both here, walk next to me.[nl]That would me more....d-date-like, right?
+@ssr_402_137
+SSR/SSR0025820
+This is far enough.
+@ssr_402_138
+SSR/SSR0025830
+I really had fun today.[nl]Ask me out again soon, okay?
+SSR/SSR0025840
+Definitely.
+@マジコイ終了処理
+@ssr_402_139
+SSR/SSR0025850
+I really had fun today.[nl]I hope we can do this again.
+@ssr_402_140
+SSR/SSR0025860
+Shopping....? Do you have something[nl]in particular you want to buy?
+SSR/SSR0025870
+Huh? A present?[nl]....For who?
+SSR/SSR0025880
+It's a secret?[nl]....Kinda suspicious.
+SSR/SSR0025890
+So, what are you buying?
+A ribbon
+A hairpin
+@ssr_402_141
+SSR/SSR0025900
+A hairpin?
+SSR/SSR0025910
+Who on earth are you planning[nl]to give that to?
+SSR/SSR0025920
+....Well, never mind.[nl]Come on. Follow me.
+@フェードアウト
+SSR/SSR0025930
+Mhm....[nl]There's all kinds of hairpins here.
+SSR/SSR0025940
+Ah! How about this one?[nl]It's got a really stylish and cute feather motif.
+It would look great on you
+Can you try it on?
+@ssr_402_142
+SSR/SSR0025950
+Hahaha.... I thought it might[nl]look good on me if I wore it.
+@ssr_402_143
+SSR/SSR0025960
+Huh....? Me?
+SSR/SSR0025970
+I don't usually wear hairpins,[nl]but I guess I'd like to give this one a try....
+@ssr_402_144
+SSR/SSR0025980
+But who is this even for?[nl]It doesn't mean anything if it suits m--
+SSR/SSR0025990
+Wait.... If you're giving a hairpin as a gift,[nl]does that mean it's for a woman!?
+@ssr_402_145
+SSR/SSR0026000
+Leave it to me, then.
+SSR/SSR0026010
+Ever since I got this ribbon from the Mistress,[nl]I've read up on this kind of stuff.
+SSR/SSR0026020
+And I am very particular about my ribbons.
+SSR/SSR0026030
+This store has the best selection of them.[nl]Follow me.
+@背景変更
+SSR/SSR0026040
+Hmmm....[nl]What do you think of this ribbon?
+Cute!
+Do you like these?
+@ssr_402_146
+SSR/SSR0026060
+R-Really? To be honest, I just[nl]picked out one that I'd want personally.
+SSR/SSR0026070
+I've got a couple more I'd like to show you.[nl]This way.
+@ssr_402_147
+SSR/SSR0026080
+Y-Yeah....[nl]I guess.
+SSR/SSR0026090
+Would it be weird if I wore[nl]something as cute as this?
+Not at all!
+I think it suits you
+@ssr_402_148
+SSR/SSR0026100
+I-Is that right?[nl]Then I'm happy....
+SSR/SSR0026110
+If you like these sorts of ribbons,[nl]then I'll wear them starting now.
+@ssr_402_149
+SSR/SSR0026120
+It suits me?
+SSR/SSR0026130
+If you think so, then I'll wear one of these[nl]next time I see you....
+@ssr_402_150
+SSR/SSR0026140
+Mhm. Looks like we picked out a good ribbon.
+SSR/SSR0026150
+Honestly I'd like one of these, too.
+SSR/SSR0026160
+Wait.... If you're giving a ribbon as a gift,[nl]does that mean it's for a woman!?
+@ssr_402_151
+SSR/SSR0026170
+Other than me....
+SSR/SSR0026180
+SSR/SSR0026190
+N-Not that I care, anyway.[nl]....Hmph!
+It's for you
+Calm down or I don't give it
+@ssr_402_152
+SSR/SSR0026200
+Huh!?
+SSR/SSR0026210
+W-We were picking this out for me!?
+SSR/SSR0026220
+T-Then you should have said so from the beginning....
+@ssr_402_153
+SSR/SSR0026230
+I-I'm not angry!
+SSR/SSR0026240
+Hm? Won't give me what?
+SSR/SSR0026250
+Huh? Is....is that for me?
+SSR/SSR0026260
+Ghh....[nl]Then you should have said so from the beginning....
+@ssr_402_154
+SSR/SSR0026270
+Huh....? It was a surprise?
+SSR/SSR0026280
+You moron....[nl]Don't try pulling something like this unless you're confident.
+SSR/SSR0026290
+But I'm happy anyway.
+SSR/SSR0026300
+Thanks for getting this for me....
+SSR/SSR0026310
+Today was a fun day.
+SSR/SSR0026330
+But I have to go home now.[nl]I don't want the Mistress to worry.
+SSR/SSR0026340
+I'll keep the gift you gave me safe.
+SSR/SSR0026350
+And I'll wear it in front of you[nl]one of these days....
+SSR/SSR0026360
+Make sure to tell me I look good[nl]when I do, okay?
+SSR/SSR0026370
+Alright then, see you tomorrow.
+@マジコイ終了処理
+@ssr_402_155
+SSR/SSR0026380
+An amusement park, huh.[nl]Come to think of it, I've never been to one.
+SSR/SSR0026390
+Mhm. Sounds like fun![nl]Let's get going!
+SSR/SSR0026400
+Oooh! An amusement park![nl]I've never visited one of these as a customer!
+SSR/SSR0026410
+This is amazing![nl]Everything is sparkling!
+SSR/SSR0026420
+H-Hey![nl]Which ride should we go on first!?
+@ssr_402_155_1
+Ferris wheel
+Jet coaster
+Haunted house
+@ssr_402_156
+SSR/SSR0026430
+Huh? The ferris wheel?
+SSR/SSR0026440
+Alright, sounds good to me![nl]We'll be able to see the whole park up there.
+SSR/SSR0026450
+Now that it's settled, let's hurry up![nl]If we don't hurry, the sun will set before we finish!
+SSR/SSR0026460
+Ahhh....[nl]What a great view that was.
+SSR/SSR0026470
+But I'm pretty sure most of the other[nl]passengers were couples....
+Classic date spot
+They can be alone
+@ssr_402_157
+SSR/SSR0026480
+I-I see.
+SSR/SSR0026490
+....Do you think anyone could figure out[nl]that we were on a date?
+Most likely
+Hold hands to be sure?
+@ssr_402_158
+SSR/SSR0026500
+I see....
+SSR/SSR0026510
+On the one hand it's embarrassing,[nl]but on the other, I'm happy....
+SSR/SSR0026520
+Being able to do this stuff with you[nl]is a dream come true for me.
+SSR/SSR0026530
+But I shouldn't be getting all mushy!
+SSR/SSR0026540
+We came all the way to this amusement park.[nl]We should go on some other rides!
+@ssr_402_159
+SSR/SSR0026550
+Huh....!?
+SSR/SSR0026560
+O-Okay....[nl]Sounds good to me.
+SSR/SSR0026570
+Alright, give me your hand.
+SSR/SSR0026580
+Um....I'm sorry if I'm squeezing your hand[nl]a bit too hard, I'm just nervous.
+@expose2
+SSR/SSR0026590
+Oh, no, no need to pull away![nl]It's fine! It's all fine!
+@ssr_402_160
+SSR/SSR0026600
+Huh....?
+SSR/SSR0026610
+W-What exactly do they plan to do[nl]with that solitude!?
+Kiss, maybe....?
+Look at each other.
+@ssr_402_161
+SSR/SSR0026620
+Whaa!?[nl]K-Kiss!?
+SSR/SSR0026630
+E-Even in a closed room,[nl]where no one can see it, that's....
+SSR/SSR0026640
+....Huh!?
+SSR/SSR0026650
+T-That's not what I meant!?[nl]I didn't mean it that way at all!
+@ssr_402_162
+SSR/SSR0026660
+They look at each other?[nl]Is that all they need to do?
+SSR/SSR0026670
+We could do that, then.[nl]Here.
+........
+SSR/SSR0026680
+Sorry. I thought this would be easier.[nl]It's more embarrassing than I was expecting....
+@ssr_402_163
+SSR/SSR0026690
+A jet coaster?[nl]I believe you mean "rollercoaster".
+SSR/SSR0026700
+Heh....very well, but don't go thinking[nl]it'll make me scream at such a low speed.
+SSR/SSR0026710
+Okay, let's go![nl]Follow me!
+SSR/SSR0026720
+WAAAAAAAAAAAAAAAGH!!
+SSR/SSR0026730
+Y-You're good at this.
+SSR/SSR0026740
+Well, you were screaming, too,[nl]so I guess we're even
+You clung to me
+You were louder
+@ssr_402_164
+SSR/SSR0026750
+Mghh....! D-Don't say thaaat!
+SSR/SSR0026760
+Whatever! We're done with the coaster![nl]Let's go to the next one!
+@ssr_402_165
+SSR/SSR0026770
+Y-Yeah. To a degree, anyway.
+SSR/SSR0026780
+It caught me off guard, but since I know the rollercoaster[nl]is completely safe, I could see myself enjoying it.
+SSR/SSR0026790
+If you want to go again,[nl]I'll go too.
+@ssr_402_166
+SSR/SSR0026800
+W-Wait![nl]Are you serious!?
+Of course
+You scared?
+@ssr_402_167
+SSR/SSR0026810
+Mggghhh....[nl]V-Very well.
+SSR/SSR0026820
+I-I'll keep guard from the back,[nl]so you go on ahead!
+SSR/SSR0026830
+Oh! But don't you get too far ahead![nl]I mean it!
+@ssr_402_168
+SSR/SSR0026840
+......
+SSR/SSR0026850
+To be honest, I'm a little scared....
+SSR/SSR0026860
+But if you're going, I'll go too.
+SSR/SSR0026870
+....Make sure you stay next to me, okay?
+@ssr_402_169
+SSR/SSR0026880
+GYAAAAAAAAAAAAAAAHHHH!!!
+SSR/SSR0026890
+H-Hey! Don't go ahead without me![nl]Don't leave me behiiiiiiind!
+SSR/SSR0026900
+Ghhh....[nl]That was terrible.
+I enjoyed it!
+Loved that hug back there
+@ssr_402_170
+SSR/SSR0026910
+I see....[nl]So you found that enjoyable, did you.
+SSR/SSR0026920
+But I'm not going with you next time![nl]I'm done with this scary stuff!
+@ssr_402_171
+SSR/SSR0026930
+W-What was I supposed to do!?[nl]I'm not good with this stuff!
+SSR/SSR0026940
+.....Wait a second.[nl]Was that your whole goal with this?
+SSR/SSR0026950
+N-No, no![nl]Of course not....no way.
+@pan
+SSR/SSR0026960
+H-Hey! Quit looking away!
+@ssr_402_172
+SSR/SSR0026970
+Oh....it's already this late.[nl]We spent too much time here.
+@ssr_402_172_2
+I want to do more
+I'm exhausted
+@ssr_402_173
+SSR/SSR0026980
+I should be heading home soon.[nl]I don't want to worry the Mistress.
+SSR/SSR0026990
+SSR/SSR0027000
+Today was a lot of fun.[nl]Let's do this again sometime.
+@ssr_402_174
+SSR/SSR0027010
+Then can we stay a little longer?
+SSR/SSR0027020
+I'll be late getting home....[nl]but I want to spend more time with you.
+@ssr_402_175
+SSR/SSR0027030
+Hahaha....okay, then.
+SSR/SSR0027040
+Then let's stop and rest a bit.
+@ssr_402_176
+SSR/SSR0027050
+Hm? There's something written on that sign.[nl]What does it say....?
+SSR/SSR0027060
+"If a couple kisses where they can see[nl]the Ferris wheel...."
+SSR/SSR0027070
+"....and if no one sees them,[nl]then they will be happy together forever"....
+SSR/SSR0027080
+SSR/SSR0027090
+W-W-What a childish and contrived[nl]fairy tale! Hahaha!
+Wanna try it?
+I like it....
+@ssr_402_177
+SSR/SSR0027100
+Wh-wh-wh-wh-wh...
+SSR/SSR0027110
+H-H-Hang on just a second![nl]I-I-I need a second to prepare myself....!
+SSR/SSR0027120
+*inhale*
+SSR/SSR0027130
+Hahhh.....
+@ＢＧＭ停止
+SSR/SSR0027140
+SSR/SSR0027150
+SSR/SSR0027160
+A-Alright! Let's do this!
+@ssr_402_177_1
+Kiss her cheek
+Kiss her hand
+Kiss her lips
+@ssr_402_177_2
+@ssr_402_178
+SSR/SSR0027170
+I-I see....[nl]So that's what you think....?
+SSR/SSR0027180
+W-Well, if you're really that interested....
+SSR/SSR0027190
+W-We could try it ourselves....
+SSR/SSR0027200
+That is, we could k-kiss....
+@ssr_402_178_2
+@ssr_402_179
+SSR/SSR0027210
+!!
+@ＢＧＭ再生
+SSR/SSR0027220
+T-That tickles....!
+SSR/SSR0027230
+And my heart is pounding so much it hurts....
+SSR/SSR0027240
+Also, ummm....[nl]My inside.....
+SSR/SSR0027250
+N-No! ....Never mind!
+@ssr_402_180
+SSR/SSR0027260
+Oh....
+SSR/SSR0027270
+A kiss....I-I see....[nl]I guess that counts as a kiss....
+SSR/SSR0027280
+Huh? Oh, no! I'm not disappointed!
+SSR/SSR0027290
+It kind of feels like I'm under[nl]the protection of a knight.
+SSR/SSR0027300
+I never thought that someone[nl]like me would ever experience this feeling....
+@ssr_402_181
+@タッチパート開始処理
+@ホワイトアウト
+SSR/SSR0027310
+Mm.....!
+SSR/SSR0027320
+.....Mmmm.....
+SSR/SSR0027330
+Gaaasp....!
+SSR/SSR0027340
+What is this....[nl]My heart is pounding so much it hearts.
+SSR/SSR0027350
+And my body feels so hot.
+SSR/SSR0027360
+Such a strange feeling....[nl]I've never felt this way before.
+@ssr_402_182
+SSR/SSR0027370
+Today was a lot of fun.
+@ssr_402_183
+SSR/SSR0027380
+I want to talk to you some more,[nl]but I guess we should both be going.
+SSR/SSR0027390
+It's hard saying goodbye,[nl]but we must part for now.
+@ssr_402_184
+SSR/SSR0027400
+Goodbye. Catch you later....[nl]I'll see you at school.
+@ssr_402_185
+SSR/SSR0027410
+I've never been happier than today....[nl]Thank you so, so much.
+@ssr_402_186
+SSR/SSR0027420
+SSR/SSR0027430
+Before I leave, ummm....[nl]I have something to say, and please don't laugh....
+SSR/SSR0027440
+The legend on that sign....[nl]I laughed it off as a childish fantasy....
+SSR/SSR0027450
+Now I truly hope it comes true.
+SSR/SSR0027460
+I want to be with you forever.[nl]Forever and ever.
+SSR/SSR0027470
+That isn't a metaphor or a simile.[nl]This is how I really feel, without any pretenses.
+SSR/SSR0027480
+I didn't decide this lightly.[nl]But will you accept me?
+Of course!
+Give me some time
+@ssr_402_187
+SSR/SSR0027490
+-----!!
+SSR/SSR0027500
+R-Really....?
+SSR/SSR0027510
+Uhhh.... W-What should I say....?
+SSR/SSR0027520
+I can't find the words....[nl]But I'm so....
+SSR/SSR0027530
+So....happy.
+SSR/SSR0027540
+*smooch*
+SSR/SSR0027550
+I-It's a promise.
+SSR/SSR0027560
+....Thank you.[nl]Please stay by my side forever.
+@ssr_402_188
+SSR/SSR0027570
+I-I see.[nl]Of course you'll need some time to think it over.
+SSR/SSR0027580
+But just remember that this is[nl]how I feel about you right now.
+common.asb
+ssr_402_001.asb

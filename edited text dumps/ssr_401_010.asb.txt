@@ -1,0 +1,109 @@
+__main
+@Lclearscreenall
+@ssr_401_010
+SSR/SSR0021920
+Heheh.... Now let's see[nl]how good you are at escorting a woman.
+SSR/SSR0021930
+Pick somewhere for us to eat.
+@ssr_401_010_1
+The school grounds
+How about the roof?
+@ssr_401_011
+@フェードアウト
+@背景変更
+SSR/SSR0021940
+The school grounds, huh....[nl]The weather is pretty good, so that doesn't sound bad....
+SSR/SSR0021950
+But we'd be completely visible[nl]from every classroom, so it's a little embarrassing....
+We'll leave the school
+Then how about the roof?
+@ssr_401_012
+SSR/SSR0021960
+That sounds like a bad idea.
+SSR/SSR0021970
+If we're going to eat outside the school,[nl]let's pick a day we're not here.
+SSR/SSR0021980
+I-It's not like I'm asking you to[nl]go on a date with me or anything!
+SSR/SSR0021990
+No, I do want to go out with you, but....[nl]W-What the hell am I SAYIIINGGG!?
+Back to the classroom
+To the roof!
+@ssr_401_013
+SSR/SSR0022000
+Oh well, I guess we go back to the classroom after all.[nl]It can't be helped, we don't have time for anything else.
+SSR/SSR0022010
+Actually, I don't really care where we sit.[nl]As long as you're with me....
+@expose
+SSR/SSR0022020
+Hm....I guess we spent too much time looking[nl]for a spot. We'll just have to eat quickly.
+SSR/SSR0022030
+Next time, you should choose somewhere quieter.[nl]I want to be able to have a nice, slow chat with you.
+@マジコイ終了処理
+@ssr_401_014
+SSR/SSR0022040
+Mhm. The weather's nice and sunny.
+SSR/SSR0022050
+There's no one else around,[nl]so I guess we can eat in peace.
+SSR/SSR0022080
+Hehe, today I made simmered pumpkin.[nl]It's the perfect time of year for it, don't you think?
+SSR/SSR0022090
+Hehe....don't look so greedy.[nl]I brought this intending to share it with you.
+SSR/SSR0022100
+Here, open your mouth.[nl]....Say "ah"!
+I can eat it myself!
+A-Ahhh....
+@ssr_401_015
+SSR/SSR0022110
+Hey, stop![nl]Don't go putting your chopsticks into my food!
+SSR/SSR0022120
+Good grief....[nl]And when I offered to feed you, no less.
+SSR/SSR0022130
+....I was nervous too, ya know.
+.........
+@ssr_401_006
+@ssr_401_016
+SSR/SSR0022140
+H-How is it? Good?
+SSR/SSR0022150
+If you like it,[nl]you can have all of it.
+@フェードアウト
+@背景変更
+SSR/SSR0022160
+By the way, that stewed konjac in your lunch[nl]also looks amazing.
+Give her some
+Teach her the recipe
+@ssr_401_017
+SSR/SSR0022170
+Huh? A-Are you sure?
+SSR/SSR0022180
+O-Okay then....[nl]Ahhhh.
+SSR/SSR0022190
+What are you doing?[nl]It's your turn to feed *me*.
+SSR/SSR0022200
+I was embarrassed, too.[nl]So now I'm going to make you go through the same thing.
+SSR/SSR0022210
+So now, *aahhh*.
+SSR/SSR0022220
+....Mmm.[nl]It's delicious....
+SSR/SSR0022230
+....I think, anyway.[nl]I'm so nervous I can't even tell.
+@ssr_401_018
+SSR/SSR0022240
+What?[nl]You want to teach me how to make it?
+SSR/SSR0022250
+In that case, I can show you[nl]how to make my simmered pumpkin.
+SSR/SSR0022260
+That way, we'll be even.
+@ssr_401_019
+SSR/SSR0022270
+Mgh....Lunch break is almost done already, huh.[nl]Seems like it went by in the blink of an eye.
+SSR/SSR0022280
+I had a great time.[nl]Let's eat together again sometime.
+SSR/SSR0022290
+If you let me know a little bit in advance, ummm....[nl]I could even make you a lunch.
+SSR/SSR0022300
+Wouldn't it be nice to do that[nl]once in a while?
+SSR/SSR0022310
+Hehe....[nl]Look forward to it.
+common.asb
+ssr_401_001.asb

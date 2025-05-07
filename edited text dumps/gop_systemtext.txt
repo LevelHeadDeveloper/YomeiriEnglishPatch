@@ -18,7 +18,7 @@ Creating save data...
 R_SystemTextSaveLoadSysCreated
 Save data created.
 R_SystemTextSaveLoadAskCreate
-No save data exists for this game.[nl]Would you like to create one?
+No save data exists for this game.[nl]Would you like to create it?
 R_SystemTextSaveLoadAskNoData
 Are you sure you wish to proceed without[nl]creating save data?[nl](Save data can also be created later.)
 R_SystemTextSaveLoadAskBroken
@@ -51,7 +51,7 @@ Creating autosave data...
 R_SystemTextAutoSaveCreated
 Autosave data created.
 R_SystemTextAutoSaveAskCreate
-Autosave data for this game does not exist.[nl]Would you like to create one?
+Autosave data for this game does not exist.[nl]Would you like to create it?
 R_SystemTextAutoSaveAskNoData
 Are you sure you wish to proceed without[nl]creating autosave data?[nl](Autosave data can be created later.)
 R_SystemTextAutoSaveAskBroken
@@ -147,7 +147,7 @@ Return to title screen without saving settings?
 R_SystemTextMajikoiReturnTitle
 Return to title screen?
 R_SystemTextMajikoiGoConfirm
-Begin with this scenario?[nl]NOTE: Only Kosaki's non-Yumekoi events are translated.
+Begin with this scenario?[nl]NOTE: Seishiro and Kosaki are the only[nl]ones with translated events.
 R_SystemTextMajikoiCtgOpen
 Chitoge unlocked.
 R_SystemTextMajikoiKskOpen

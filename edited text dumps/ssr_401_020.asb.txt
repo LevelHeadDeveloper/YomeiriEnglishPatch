@@ -1,0 +1,414 @@
+__main
+@Lclearscreenall
+@ssr_401_020
+Sounds good
+We'll hang out after school
+@ssr_401_002
+@ssr_401_020_1
+@expose
+SSR/SSR0022320
+After school?
+SSR/SSR0022330
+So like, that would, um....[nl]that would be like a date?
+SSR/SSR0022340
+....Very well.[nl]I'll be looking forward to it.
+@フェードアウト
+@背景変更
+SSR/SSR0022350
+Sorry to keep you waiting.
+SSR/SSR0022360
+It took me a while to convince Claude[nl]to take over looking after the Mistress....
+SSR/SSR0022370
+I had some trouble coming up with an excuse,[nl]because I couldn't tell him what we're doing.
+SSR/SSR0022380
+You need to make sure this[nl]stays a secret too, okay?
+Of course
+Why keep it a secret?
+@ssr_401_021
+SSR/SSR0022390
+This'll be our secret, huh.[nl]Hehe.... My heart is pounding.
+@ssr_401_022
+SSR/SSR0022400
+Are you saying you're okay with[nl]Master Claude coming to kill you when he finds out?
+SSR/SSR0022410
+Haha, no need to get so flustered.[nl]I was just trying to scare you a little.
+@expose
+SSR/SSR0022420
+And even if that does happen,[nl]don't worry. I'll keep you safe.
+@ssr_401_023
+SSR/SSR0022430
+But I do want to tell everyone someday.[nl]The Mistress, Master Claude....
+SSR/SSR0022440
+Of course, when I heard you weren't really[nl]dating the Mistress, you can imagine I was surprised.
+SSR/SSR0022450
+But I also felt a sense of relief....
+SSR/SSR0022460
+Whoops....[nl]Time really flies during long conversations like this.
+SSR/SSR0022470
+So, where shall we go today?
+Let's just wander around
+I can feel Claude's presence!
+@ssr_401_024
+SSR/SSR0022480
+Sounds good. Sometimes it's not so bad[nl]to just walk around aimlessly.
+@フェードアウト
+@背景変更
+SSR/SSR0022490
+Look. A stall selling cream puffs!
+SSR/SSR0022500
+Their outsides are cooked to a perfect golden brown,[nl]surrounding a creamy filling.... They look delicious.
+@ssr_401_024_1
+Get some cream puffs
+Go to the arcade
+@ssr_401_025
+SSR/SSR0022510
+Oh, you want some, too?
+SSR/SSR0022520
+Then let's get in line, quickly.[nl]Hurry!
+SSR/SSR0022530
+Nom.... Ohh, that's good![nl]It's so sweet and tasty!
+SSR/SSR0022540
+Hm? What are you staring at?
+There's some cream on your cheek
+Your eating face is cute
+@ssr_401_026
+SSR/SSR0022550
+Huh? Oh....s-sorry.[nl]Is it gone now?
+@expose2
+SSR/SSR0022560
+H-Hey![nl]Stop trying to lick it off!
+SSR/SSR0022570
+Even if it doesn't bother you, you're embarrassing me[nl]to death, so cut it out!
+@ssr_401_027
+SSR/SSR0022580
+That's probably because you're with me.
+SSR/SSR0022590
+If I were alone, I probably wouldn't be[nl]buying snacks at all.... Hehe.
+@ssr_401_028
+SSR/SSR0022600
+Ahhh.... That was delicious.
+SSR/SSR0022610
+Is this the kind of place you usually go?
+SSR/SSR0022620
+If you could, I'd like you to take me[nl]to some of the places you frequent.
+My house
+A bookstore, maybe?
+@ssr_401_029
+SSR/SSR0022630
+Y-Your house!?
+SSR/SSR0022640
+It's, um....[nl]It's too early for that!
+SSR/SSR0022650
+Why are you in such a hurry....[nl]To be in your room together, alone....
+SSR/SSR0022660
+A-Anyway, we can wait to go to your house![nl]....At least until I'm ready!
+SSR/SSR0022670
+For today, we can go to your favorit bookstore.[nl]Just to be safe!
+@ssr_401_030
+SSR/SSR0022680
+A bookstore, huh.[nl]Good idea.
+SSR/SSR0022690
+Hm. I'm curious to see what kinds of books[nl]a normal high school student would read.
+SSR/SSR0022700
+If it's okay, I'd like to see[nl]what kinds of books you'd recommend.
+SSR/SSR0022710
+That way, we can have one more thing in common.
+@ssr_401_031
+SSR/SSR0022720
+Mgh.... It's already this late, huh.[nl]I guess we have been talking for a while.
+SSR/SSR0022730
+Today was fun.[nl]I was even able to buy the manga you recommended.
+SSR/SSR0022740
+Let's go out again together sometime.[nl]I'll let you know what I think of that manga.
+SSR/SSR0022750
+In the meantime, you should[nl]read the book I recommended.
+@マジコイ終了処理
+@ssr_401_032
+SSR/SSR0022760
+Hehe, if you really want to play video games,[nl]you're actually a child.
+SSR/SSR0022770
+But that's okay.[nl]I still owe you after those shooting games we played.
+SSR/SSR0022780
+This time, I'll really work with you[nl]to kill those zombies!
+SSR/SSR0022790
+Alright, we've cleared that stage!
+SSR/SSR0022800
+I think we're starting to work together[nl]somewhat better than before.
+SSR/SSR0022810
+Maybe we can clear all the stages together!
+@ssr_401_033
+SSR/SSR0022820
+Aaaargh![nl]We've lost....
+SSR/SSR0022830
+And we were so close, too....[nl]Even though it's just a game, it's still frustrating.
+SSR/SSR0022840
+Today was a lot of fun.[nl]Let's go out together again sometime.
+SSR/SSR0022850
+Next time, I want to kill *all* the zombies.[nl]Heheh.
+@ssr_401_034
+SSR/SSR0022860
+Alright, that's all of 'em!
+SSR/SSR0022870
+You're pretty good with that gun.[nl]You'd be a welcome addition to the Beehive.
+SSR/SSR0022880
+It wouldn't be so bad to have you with me[nl]on a mission like this.
+SSR/SSR0022890
+Oh, looks like the final round's started.[nl]Cover me!
+SSR/SSR0022900
+Hahh, hahh, hahh....[nl]We managed to win.
+SSR/SSR0022910
+Haha.... I never thought a game like this[nl]would get me so heated.
+SSR/SSR0022920
+It's getting pretty late,[nl]so I should be going now.
+SSR/SSR0022930
+Returning home safely[nl]after a long battle with the zombies, so to speak.
+@フェードアウト
+@背景変更
+SSR/SSR0022940
+I had a lot of fun today. Um....[nl]If you want, feel free to ask me out again sometime.
+SSR/SSR0022950
+Later.[nl]See you at school.
+@ssr_401_035
+SSR/SSR0022960
+What? You think Master Claude is nearby?
+SSR/SSR0022970
+Aaah, don't grab my hand so suddenly![nl]What are you doing!?
+SSR/SSR0022980
+You're trying to escape Master Claude?[nl]But where would we go....?
+@ssr_401_035_1
+Somewhere with not many people!
+Somewhere crowded!
+@ssr_401_036
+SSR/SSR0022990
+Seems like we've lost him.[nl]Good grief, Master Claude is such a nuisance.
+SSR/SSR0023000
+That being said....[nl]There really aren't a lot of people here.
+SSR/SSR0023010
+Well, there are people, but....[nl]It looks like they're all couples.
+SSR/SSR0023020
+----[nl]When I see people hugging and kissing all around me like this....
+Feeling self-conscious?
+Excited, are we?
+@ssr_401_037
+SSR/SSR0023030
+Yep....[nl]I'm really at a loss for where to look....
+SSR/SSR0023040
+Even so....they're amazing. Their feelings are[nl]so strong that we and everyone else do not exist to them.
+SSR/SSR0023050
+H-How can they do this in a public place?[nl]God, it's just....not something we need to see.
+@ssr_401_038
+SSR/SSR0023060
+W-Who would get excited over something like this!?
+SSR/SSR0023070
+I'm getting embarrassed just watching them!
+@ssr_401_039
+SSR/SSR0023080
+....Do you also, umm....[nl]You really want to do something like this, too?
+@ssr_401_039_1
+........
+Not really
+@ssr_401_040
+SSR/SSR0023090
+W-Why aren't you saying anything!?
+SSR/SSR0023100
+S-So you *do* want to do that....
+SSR/SSR0023110
+....And do you want to do it with *me*?
+SSR/SSR0023120
+Wait, what am I saying!?
+SSR/SSR0023130
+Never mind! Forget everything I just said!
+SSR/SSR0023140
+Hey, quit staring at me like that![nl]We're leaving!
+@ssr_401_041
+SSR/SSR0023150
+Oogh, if I stick around too much longer,[nl]my heart will pound out of my chest.
+SSR/SSR0023160
+Let's go out again properly sometime.
+SSR/SSR0023170
+Well then....[nl]S-See you later.
+@ssr_401_042
+SSR/SSR0023180
+I-I see....
+SSR/SSR0023190
+I-It's just me, then?[nl]Does that....make me a bit strange?
+SSR/SSR0023200
+I didn't think I'd want to[nl]do that with you....
+Do what?
+You're not strange
+@ssr_401_043
+SSR/SSR0023210
+Y-You know, um....
+SSR/SSR0023220
+Ki....
+SSR/SSR0023230
+K....ki....
+SSR/SSR0023240
+HOW AM I SUPPOSED TO SAY *THAT*!?
+SSR/SSR0023250
+God, you're so insensitive.[nl]....Idiot.
+@ssr_401_044
+SSR/SSR0023260
+Huh....?
+SSR/SSR0023270
+Now that I'm looking,[nl]I'm noticing your face is also red.
+SSR/SSR0023280
+....You weren't thinking the exact[nl]same thing, were you?
+SSR/SSR0023290
+....I-I see.
+SSR/SSR0023300
+So you have such thoughts as well....
+@ssr_401_045
+SSR/SSR0023310
+Well, okay.[nl]We've come all this way, let's stop somewhere.
+SSR/SSR0023320
+Oh....[nl]Um, you don't need to let go of my hand....
+@ssr_401_045_1
+But I'm embarrassed!
+Got it. I won't let go
+@ssr_401_046
+SSR/SSR0023330
+You don't want to hold hands because[nl]it's embarrassing?
+@ssr_401_047
+SSR/SSR0023340
+You're the one who took my hand in the first place,[nl]you selfish bastard....
+@ssr_401_048
+SSR/SSR0023350
+T-Thanks.[nl]Then, let's continue as we have been.
+SSR/SSR0023360
+Haha.... This isn't the first time we've held hands,[nl]but it's embarrassing looking at it again like this.
+SSR/SSR0023370
+....Your hands are warm.
+@ssr_401_049
+SSR/SSR0023380
+Okay, where should we go now?
+Let's just wander around
+Let's look at appliances
+@ssr_401_050
+SSR/SSR0023390
+Appliances?[nl]Stuff like refrigerators and computers?
+SSR/SSR0023400
+I can't say I know a lot about that[nl]sort of thing.
+SSR/SSR0023410
+For some reason, machines always give me trouble.[nl]Like lie detectors.
+That's true
+You're overthinking
+@ssr_401_051
+SSR/SSR0023420
+You agree with me?
+SSR/SSR0023430
+It's not as though I'm *bad* at using these things,[nl]but I'll avoid operating them if I can....
+SSR/SSR0023440
+And that's why I don't like[nl]household appliances.
+@ssr_401_052
+SSR/SSR0023450
+No, that's not true.
+SSR/SSR0023460
+It's possible I'll run into some trouble[nl]if we do this, is that okay?
+@ssr_401_052_1
+Uhhhh.....
+Sounds great
+@ssr_401_053
+SSR/SSR0023470
+Hey![nl]Stop looking so obviously disgusted!
+SSR/SSR0023480
+....Well, anyway, I'm not really[nl]in the mood to shop for home appliances.
+@ssr_401_054
+SSR/SSR0023490
+Heh....[nl]You seem awfully relaxed about it.
+SSR/SSR0023500
+With that kind of composure,[nl]you could probably handle any problems....
+SSR/SSR0023510
+Nevertheless, we probably shouldn't[nl]take that kind of risk.
+@ssr_401_055
+SSR/SSR0023520
+Why don't we just walk around looking at[nl]a bunch of stores today?
+SSR/SSR0023530
+It's called window shopping.[nl]Sometimes I do it with the Mistress....
+SSR/SSR0023540
+And today, I want to do it with you.
+Not like I have a choice
+I'll go wherever you want
+@ssr_401_056
+SSR/SSR0023550
+The hell do you mean,[nl]you don't have a choice!?
+SSR/SSR0023560
+Times like these,[nl]you should just say yes and move on.
+SSR/SSR0023570
+Now let's go![nl]Look sharp.
+@ssr_401_057
+SSR/SSR0023580
+Hehe.... Well said.
+SSR/SSR0023590
+Then let's go have a nice, thorough walk around.[nl]We'll be doing a lot of walking, so are you ready?
+@ssr_401_058
+SSR/SSR0023600
+I see.[nl]Sometimes it's not so bad to just wander aimlessly.
+SSR/SSR0023610
+What's important sometimes isn't *where* you go,[nl]but *who* you go with....
+@ssr_401_059
+SSR/SSR0023620
+Hmm.[nl]So they've already got winter clothes on sale.
+SSR/SSR0023630
+But what is it, exactly, that women find appealing[nl]about wearing this sort of frilly clothing?
+SSR/SSR0023640
+Going to the trouble to wear something so uncomfortable....[nl]I don't understand it.
+They'd look great on you
+Guys think they're cute, right?
+@ssr_401_060
+SSR/SSR0023650
+T-There's no way I could pull off[nl]a skirt like that!
+SSR/SSR0023660
+I've worn something like this before,[nl]but people just stared at me....
+SSR/SSR0023670
+I guess I didn't look good in it,[nl]so I stood out like a sore thumb....
+I doubt that
+Because you were cute!
+@ssr_401_061
+SSR/SSR0023680
+Is that right....[nl]It's kind of hard to believe, but....
+SSR/SSR0023690
+But if you say it's true....[nl]Maybe I can see myself humoring the idea a little.
+@ssr_401_062
+SSR/SSR0023700
+Ghhh.... How on earth can you[nl]say something like that so nonchalantly?
+SSR/SSR0023710
+If you keep saying those things....[nl]I might find myself believing them....
+@ssr_401_063
+SSR/SSR0023720
+Is that a fact?
+SSR/SSR0023730
+Hm?[nl]....So then you'd like how it looks, too.
+SSR/SSR0023740
+Maybe I'll try wearing some girly clothing[nl]once in a while....
+SSR/SSR0023750
+No, not for you or anything.[nl]Just as training to infiltrate society.
+@ssr_401_064
+SSR/SSR0023760
+I think it's been long enough now.
+SSR/SSR0023770
+If Master Claude hadn't been chasing us around,[nl]I feel like we could've stuck together a bit longer.
+SSR/SSR0023780
+Well, it's fine.[nl]I'll still be seeing you from here on out.
+SSR/SSR0023790
+Well then, I guess I'll be going.
+@ssr_401_065
+SSR/SSR0023800
+Hm? Is something the matter?
+I'll walk you home!
+Nothing
+@ssr_401_066
+SSR/SSR0023810
+Could I actually just walk by myself?
+SSR/SSR0023820
+Hehe, just messing with you.[nl]I'll humor your request this time.
+SSR/SSR0023830
+Lead the way, then.
+@ssr_401_067
+SSR/SSR0023840
+I see. Never mind, then.
+@ssr_401_069
+SSR/SSR0023860
+Today was lots of fun.[nl]Let's do this again sometime.
+ssr_401_001.asb
+common.asb
