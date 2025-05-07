@@ -46,14 +46,14 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * ? Events: 100% complete
   * Miscellaneous Events: ~100% done
   * Raku Route: 100%
-* Majikoi+ Mode: 20% complete
+* Majikoi+ Mode: 40% complete
 * Majikoi+ DLCs: 0% complete
 * Minigames
   * Old Maid character descriptions: 100%
   * Old Maid victory phrases: 100%
   * Old Maid dialogue: 0% (game doesn't subtitle it)
   * Stealth Minigame level names: 80% (gets cut off in menus)
-  * Stealth Minigame level descriptions: ~80% (Everything has at least a tentative translation)
+  * Stealth Minigame level descriptions: 100%
   * Stealth Minigame item names: 100%
   * Minigame UI: 100% (may look a little wonky in menus)
 * Gallery
@@ -65,7 +65,7 @@ Use the patcher you downloaded to apply all.xdelta to all.apk, and fs.xdelta to 
   * In-game item descriptions: 90% (translated, but some may be unreadable due to cropping)
   * In-game tutorials: 100%
   * Screen prompts and notifications: 100%
-  * Manual: ~90-95%
+  * Manual: 100%
 * Anagram puzzles: 100%
 
 # Screenshots
