@@ -6,6 +6,8 @@ This is an **unofficial** patch for Nisekoi: Yomeiri!? to translate it into Engl
 
 # Installation
 
+If you want to play this without reading arcane documentation (and I would not blame you), skip to the FAQ. For more detailed instructions, read on.
+
 This is a romhack of the orignal game for the PlayStation Vita. To play it, you will either need a PlayStation Vita (with the original game, physical or digital should work) or Vita3K (a PS Vita emulator, found here: https://vita3k.org/)
 
 ## To play in Vita3K:
@@ -56,7 +58,7 @@ This is a romhack of the orignal game for the PlayStation Vita. To play it, you 
         * And that's it! The game will show up in the list under its Japanese name, but it should be pretty easy to find it.
     * If you have a PS Vita:
         * Make sure your Vita can run custom plugins and has firmware 3.60-3.68.
-        * Make sure you have the game card inserted, if you have it. Otherwise, make sure the digital version of the game is installed (not found here)
+        * Make sure you have the game card inserted, if you have it. Otherwise, make sure the digital version of the game is installed (not found here).
         * Install the rePatch plugin onto your PS Vita.
         * Follow these instructions to set up: https://github.com/dots-tb/rePatch-reDux0/wiki/Usage-(GENERAL)
           *  The Title ID is PCSG00397
