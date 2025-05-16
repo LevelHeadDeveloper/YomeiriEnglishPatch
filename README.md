@@ -6,6 +6,12 @@ This is an **unofficial** patch for Nisekoi: Yomeiri!? to translate it into Engl
 
 # Installation
 
+IF YOU ARE ON A PS VITA, you can use the RePatch patch (link in latest release, see releases tab).
+
+IF YOU ARE USING VITA3K, I highly recommend you use the pre-patched version of the game (also linked in the releases tab).
+
+IF THE PRE-PATCHED AND REPATCH VERSIONS OF THE PATCH GET TAKEN DOWN, THE INSTRUCTIONS FOR MANUALLY PATCHING ARE BELOW:
+
 To install this patch, you will need an **unencrypted** dump of the original game. If you have an encrypted dump (e.g. a NoNpDrm dump), put it in a .zip or a .vpk and install it into Vita3K. Then find Vita3k's data directory and navigate to ux0/app/PCSG00397. The decrypted game will be found here.
 
 This patch has been distributed as two xdelta binary patches. Grab them from the Releases tab and get the patching tool here: https://www.romhacking.net/utilities/704/.
