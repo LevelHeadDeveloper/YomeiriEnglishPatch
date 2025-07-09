@@ -1,0 +1,128 @@
+__main
+@Lclearscreenall
+@ctg_401_029
+CTG/CTG0024280
+Oh, really?[nl]Well, I can live with that.
+CTG/CTG0024290
+Let me just push our desks together.
+@フェードアウト
+@背景変更
+CTG/CTG0023800
+Let's eat!
+@ctg_401_030
+@expose
+CTG/CTG0023810
+Oh, that's right, we have to trade some stuff!
+CTG/CTG0023820
+That fried chicken looks delicious![nl]Gimme a piece!
+CTG/CTG0023830
+I'll trade you....
+CTG/CTG0023840
+Here! Some hijiki seaweed stew.
+CTG/CTG0023850
+Hm? What is it?
+Heard of equal trade?
+Thank you
+@ctg_401_031
+CTG/CTG0023860
+No, I haven't.
+@ctg_401_032
+CTG/CTG0023870
+Man, hijiki is so good.[nl]It's kinda black and weirdly-shaped, though.
+@ctg_401_033
+CTG/CTG0023880
+Nom!
+CTG/CTG0023890
+Mmmmmmm![nl]It's cold, but still so juicy!
+@ctg_401_034
+CTG/CTG0023900
+Oh, lunch is already over.
+CTG/CTG0024300
+Let's eat together again sometime.
+@マジコイ終了処理
+@ctg_401_035
+CTG/CTG0023930
+Mmmm, this stewed hamburger is amazing![nl]It's so amazingly juicy!
+CTG/CTG0023940
+....Hm? What is it?[nl]Did you want some?
+Yes please
+Do the "ah" thing!
+@ctg_401_036
+CTG/CTG0024310
+Hehe, it can't be helped then.[nl]Okay then....here!
+@ctg_401_037
+@expose2
+CTG/CTG0024320
+Y-You idiot![nl]We can't do that with all these people here!
+CTG/CTG0024330
+This is why I said we should[nl]eat on the roof.
+CTG/CTG0024340
+Here. Take some yourself and eat it.
+@ctg_401_038
+......
+CTG/CTG0024350
+W-Well? Is it good?
+It's alright
+It's good
+@ctg_401_039
+CTG/CTG0024020
+Wow. Aren't we stuck up today.
+@ctg_401_040
+CTG/CTG0024030
+Isn't it!?
+@ctg_401_041
+CTG/CTG0024040
+Oh, that's right.[nl]We have to trade some stuff!
+CTG/CTG0024050
+Let's see.[nl]Can I have some of your fried chicken?
+CTG/CTG0024120
+....I was gonna take some[nl]even if you said no. ♪
+CTG/CTG0024130
+Okay, I'll give you....[nl]Here! Some hijiki stew.
+@ctg_401_041_1
+@ctg_401_042
+@ctg_401_043
+CTG/CTG0024140
+Ehh, hijiki is so good.[nl]It's kinda black and weirdly-shaped, though.
+@ctg_401_044
+CTG/CTG0024150
+@ctg_401_045
+CTG/CTG0024160
+Thank you for the food.[nl]Maaan, that was awesome!
+CTG/CTG0024360
+Ah, that's right, I have some tea, too.[nl]Do you want some?
+Sure
+No, thanks
+@ctg_401_046
+CTG/CTG0024370
+Okay. Whatever.[nl]I'll just drink it myself.
+CTG/CTG0024380
+I won't give you any[nl]if you change your mind, either.
+@ctg_401_047
+CTG/CTG0024390
+Alright, gimme a sec.[nl]I gotta pour it out.
+CTG/CTG0024400
+Here ya go.
+Did you make this?
+Down the hatch!
+@ctg_401_048
+CTG/CTG0024410
+Don't worry....[nl]This is our family chef's special tea.
+@ctg_401_049
+CTG/CTG0024420
+I want some more.
+@ctg_401_050
+CTG/CTG0024430
+Ahh, that hit the spot!
+CTG/CTG0024440
+A drink after a meal is always special.
+CTG/CTG0024450
+Of course, it's just that much better[nl]because you're the one I'm sharing it with.
+CTG/CTG0024460
+J-Just say something, anything![nl]You're making me embarrassed!
+CTG/CTG0023900
+Oh, lunch is already over.
+@expose
+CTG/CTG0024470
+Time flies when you're having fun, I guess.[nl]Let's eat together again tomorrow.
+common.asb

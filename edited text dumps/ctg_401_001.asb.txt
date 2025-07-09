@@ -1,0 +1,174 @@
+__main
+@Lclearscreenall
+@ctg_401
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+CTG/CTG0023740
+Mmmmmmh![nl]It's finally lunchtime!
+CTG/CTG0023750
+Hey, wanna eat lunch together?
+@ctg_401_001_1
+Okay
+After school instead
+@ctg_401_051
+@ctg_401_002
+@expose
+CTG/CTG0023760
+Hehehe, I brought all kinds of[nl]different foods today! ♪
+CTG/CTG0023770
+The classroom's alright,[nl]but we should eat on the roof[nl]for a change of pace!
+@ctg_401_002_1
+Got it
+I want to eat here
+@ctg_401_029
+@ctg_401_003
+@フェードアウト
+@背景変更
+CTG/CTG0023780
+The weather's so niiice.[nl]There's no one up here, so we have it to ourselves.
+CTG/CTG0023790
+Come on, how about you sit down?
+CTG/CTG0023800
+Let's eat!
+@ctg_401_004
+@expose
+CTG/CTG0023810
+Oh, right, let's trade some food!
+CTG/CTG0023820
+That fried chicken looks delicious![nl]Gimme a piece!
+CTG/CTG0023830
+I'll trade you....
+CTG/CTG0023840
+Here! Some hijiki seaweed stew.
+CTG/CTG0023850
+Hm? What is it?
+Heard of equal trade?
+Thank you
+@ctg_401_005
+CTG/CTG0023860
+No, I haven't.
+@ctg_401_006
+CTG/CTG0023870
+Man, hijiki is so good.[nl]It's kinda black and weirdly-shaped, though.
+@ctg_401_007
+CTG/CTG0023880
+Nom!
+CTG/CTG0023890
+Mmmmmmm![nl]It's cold, but still so juicy!
+@ctg_401_008
+CTG/CTG0023900
+Oh, lunch is already over.
+CTG/CTG0023910
+This was pretty fun.[nl]It's not so bad to eat on the roof sometimes!
+CTG/CTG0023920
+Now let's get back to class!
+@マジコイ終了処理
+@ctg_401_009
+CTG/CTG0023930
+Mmmm, this stewed hamburger is amazing![nl]It's so amazingly juicy!
+CTG/CTG0023940
+....Hm? What is it?[nl]Did you want some?
+CTG/CTG0023950
+----
+CTG/CTG0023960
+H-Here....[nl]Say "ah".
+.....
+(Say "ah")
+@ctg_401_010
+CTG/CTG0023970
+N-No one's looking, don't be afraid!
+CTG/CTG0023980
+C'mon. Now *I'm* embarrassed!
+CTG/CTG0023990
+As punishment, I'll be taking[nl]your fried chicken away.
+@ctg_401_011
+CTG/CTG0024000
+CTG/CTG0024010
+W-Well? Is it good?
+It's alright
+It's good
+@ctg_401_012
+CTG/CTG0024020
+Wow. Aren't we stuck up today.
+@ctg_401_013
+CTG/CTG0024030
+Isn't it!?
+@ctg_401_014
+CTG/CTG0024040
+Oh, that's right.[nl]We have to trade some stuff!
+CTG/CTG0024050
+Let's see.[nl]Can I have some of your fried chicken?
+@ctg_401_014_1
+Here, say "ah"
+Help yourself
+@ctg_401_015
+CTG/CTG0024060
+....F-For real?
+For real
+Hurry up!
+@ctg_401_016
+CTG/CTG0024070
+Uhh, ummm....
+@ctg_401_017
+CTG/CTG0024080
+F-Fine....
+@ctg_401_018
+CTG/CTG0024090
+Okay then....[nl]Ahhh....
+CTG/CTG0024100
+Mmm, that's good....
+CTG/CTG0024110
+....This really is lovely weather.[nl]It complements the lunch perfectly!
+@ctg_401_019
+CTG/CTG0024120
+....I was gonna take some[nl]even if you said no. ♪
+@ctg_401_020
+CTG/CTG0024130
+Okay, I'll give you....[nl]Here! Some hijiki stew.
+@ctg_401_021
+CTG/CTG0024140
+Ehh, hijiki is so good.[nl]It's kinda black and weirdly-shaped, though.
+@ctg_401_022
+CTG/CTG0024150
+@ctg_401_023
+CTG/CTG0024160
+Thank you for the food.[nl]Maaan, that was awesome!
+CTG/CTG0024170
+Hey, are you sleepy after eating[nl]all that food?
+Nope
+Of course
+@ctg_401_024
+CTG/CTG0024180
+Okay then.
+CTG/CTG0024190
+Guess it's just meeeee.
+@ctg_401_025
+CTG/CTG0024200
+Well then,[nl]I'll let you ■■■■■■■ today.
+Sorry?
+Come again?
+@ctg_401_026
+@expose2
+CTG/CTG0024210
+USE・MY・LAP[nl]AS・A・PILLOW!
+@ctg_401_027
+CTG/CTG0024220
+....I'm letting you use my lap[nl]as a pillow!
+@ctg_401_028
+CTG/CTG0024230
+Come on, lie down, I said!
+@pan
+CTG/CTG0024240
+I'll wake you up[nl]at the end of lunch.
+@expose
+CTG/CTG0024250
+....Lunch is over.[nl]You awake?
+CTG/CTG0024260
+Hahaha. I've never done this so my legs[nl]went numb. Maybe you should do it next time.
+CTG/CTG0024270
+Now let's get back to the classroom!
+@汎用フラグ・変数をすべてクリア
+common.asb
+ctg_401_051.asb
+ctg_401_029.asb

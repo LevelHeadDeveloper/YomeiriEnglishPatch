@@ -1,0 +1,454 @@
+__main
+@Lclearscreenall
+@ctg_402_127
+CTG/CTG0026290
+So? Where are we going today?
+@ctg_402_127_1
+Movie theater
+Amusement park
+Shopping
+The pool
+@ctg_402_127_2
+@ctg_402_127_3
+@ctg_402_127_4
+@ctg_402_128
+CTG/CTG0026300
+Sounds good.[nl]Anything good playing now?
+@ctg_402_095
+@ctg_402_129
+CTG/CTG0026310
+Hehe, that's textbook date material!
+CTG/CTG0026320
+Alright, let's get going!
+@フェードアウト
+@背景変更
+CTG/CTG0026330
+Mmmm! Today's the perfect day[nl]for a visit to the amusement park!
+CTG/CTG0026340
+Okay, where should we start?
+Roller coasters
+Haunted house
+@ctg_402_130
+CTG/CTG0026350
+That's, like, *the* thing to do[nl]at an amusement park!
+CTG/CTG0026360
+Alright then![nl]Let's get in line before the line gets long!
+@時間経過演出
+CTG/CTG0026370
+Ahhh, that was amazing![nl]Hey, hey, let's go again!
+CTG/CTG0026380
+Let's go on that one next!
+CTG/CTG0026390
+Yeeaaaaaaahh!
+CTG/CTG0026400
+Aah, that was so much fun!
+CTG/CTG0026410
+....Huh?[nl]What's the matter?
+Trying to kill me?
+I surrender....
+@ctg_402_131
+@expose
+CTG/CTG0026420
+What, you're giving up already?[nl]What a wimp.
+@ctg_402_132
+CTG/CTG0026430
+Oh....sorry, sorry.[nl]I got a bit too excited there.
+@ctg_402_133
+CTG/CTG0026440
+Well, whatever.[nl]We'll go on something a bit easier next time.
+@ctg_402_134
+CTG/CTG0026450
+....Seriously?
+Seriously
+Quit spacing out
+@ctg_402_135
+CTG/CTG0026460
+NOOOOOOOO! No way, no how![nl]You know how much I hate the dark!
+@ctg_402_136
+CTG/CTG0026470
+H-Hang on![nl]Why are you getting so pushy now of all times!?
+@フェードアウト
+CTG/CTG0026480
+AAAAAAAAAAAAAHHHHHH!!
+CTG/CTG0026490
+Kyaaaaaah!
+CTG/CTG0026500
+It's daaaaaaaaaark![nl]I'm so scaaaaaaared!
+@背景変更
+CTG/CTG0026510
+----
+That was fun
+....You okay?
+@ctg_402_137
+@expose2
+CTG/CTG0026520
+Yeah, yeah! I'm sure you had a blast!
+@ctg_402_138
+CTG/CTG0026530
+....Do I look okay to you?
+@ctg_402_139
+CTG/CTG0026540
+Ghhh....I'm probably scarred for life now....[nl]I told you I didn't want to do this....
+CTG/CTG0026550
+Let's go get some tea[nl]and clear our heads....
+(Apology) My treat
+What was so scary?
+@ctg_402_140
+CTG/CTG0026560
+Hmmm, so you feel at least[nl]a little bad about it.
+CTG/CTG0026570
+....But you have to buy me a cake set too.[nl]Then I'll forgive you.
+@ctg_402_141
+CTG/CTG0026580
+Scary things are scary!
+CTG/CTG0026590
+Fine! In return we're riding that[nl]roller coaster ten times in a row!
+CTG/CTG0026600
+What?[nl]You'll buy me tea if I forgive you?
+CTG/CTG0026610
+CTG/CTG0026620
+Okay, but add on a parfait set.[nl]Then I'll forgive you.
+@ctg_402_142
+CTG/CTG0026630
+That's perfect.[nl]There's something I want to buy.
+CTG/CTG0026640
+And I'd like your opinion on it, too.
+CTG/CTG0026650
+It's as crowded in here[nl]as I'd expect on a weekend.
+CTG/CTG0026660
+Oh, are you okay if we go[nl]into this store?
+Whatcha buying?
+Gift shopping?
+@ctg_402_143
+CTG/CTG0026670
+That's・my・secret! ♪
+CTG/CTG0026680
+Come with me.
+@ctg_402_144
+CTG/CTG0026690
+Hmmm, yeah, I guess so.
+CTG/CTG0026700
+Just come with me.
+@ctg_402_145
+CTG/CTG0026710
+Hey, check out these chopsticks.[nl]They're triangular so they're easier to grip.
+CTG/CTG0026720
+But these chopsticks are lacquered....[nl]They look pretty fancy.
+CTG/CTG0026730
+Which ones do you like more?
+Triangular
+Lacquered
+@ctg_402_146
+CTG/CTG0026740
+Yeah, it's better to use something[nl]that's easy to use.
+@ctg_402_147
+CTG/CTG0026750
+Got it. The food looks better[nl]with better-looking chopsticks after all.
+@ctg_402_148
+CTG/CTG0026760
+Alright, I'm buying this one.
+CTG/CTG0026770
+I'm looking for a mug next....[nl]You got any preference when it comes to those?
+Style
+Function
+@ctg_402_149
+CTG/CTG0026780
+Ohh, that's surprising.
+CTG/CTG0026790
+Then I'll go with this one.[nl]It looks cool.
+Why buy what I like?
+Isn't this for you?
+@ctg_402_150
+CTG/CTG0026800
+That's about what I expected.
+CTG/CTG0026810
+....This one seems good, then.[nl]It's made of a material that holds warmth.
+@ctg_402_151
+CTG/CTG0026820
+W-Well....I figured maybe you'd[nl]want one too....
+@ctg_402_152
+CTG/CTG0026830
+I'm good.[nl]I've got one already.
+CTG/CTG0026840
+That said....[nl]You should probably have one, right?
+@ctg_402_153
+CTG/CTG0026850
+That is....for when you're visiting,[nl]or something.
+Let's get a pair
+Let's get one for you
+@ctg_402_154
+CTG/CTG0026860
+Huh?[nl]You want to get a pair of mugs!?
+CTG/CTG0026870
+Uh....sure! Sounds good![nl]Now you pick one out for me!
+@ctg_402_155
+CTG/CTG0026880
+Huh!? For me when I'm visiting!?[nl]At your place....!?
+CTG/CTG0026890
+Yeah! Let's get that![nl]Let's do that!
+@ctg_402_156
+CTG/CTG0026900
+Speaking of which,[nl]isn't the school pool open?
+CTG/CTG0026910
+Jeez, if I'd known in advance,[nl]I'd have brought my swimsuit.[nl]Wait here, I'll go back and get it.
+@時間経過演出
+CTG/CTG0026940
+Sorry, it took longer than I thought!
+I just finished changing
+Wow, you're late
+@ctg_402_157
+CTG/CTG0026950
+Okay. That's a relief.
+@ctg_402_158
+CTG/CTG0026960
+What could I do? Girls have all kinds[nl]of things they need to do to prepare.
+@ctg_402_159
+CTG/CTG0026970
+Anyway, don't you have anything to say[nl]about my swimsuit?
+It's beautiful
+It's cute
+@ctg_402_160
+CTG/CTG0026980
+Ehehehe.[nl]Right? Right?
+CTG/CTG0026990
+I picked this one out with Tsugumi.
+@ctg_402_161
+CTG/CTG0027000
+!!
+CTG/CTG0027010
+Well, when you say it with such a serious face,[nl]it's a little embarrassing....
+CTG/CTG0027020
+By the way, what exactly do you think[nl]is the *most* beautiful?
+@タッチパート開始処理
+@ctg_402_162
+CTG/CTG0027030
+....Does the swimsuit even affect that?
+CTG/CTG0027040
+Well, not that I mind being complimented.
+@ctg_402_163
+CTG/CTG0027050
+T-That's gotta be sexual harrassment,[nl]but it could also be a compliment....?
+@ctg_402_164
+CTG/CTG0027060
+Heheh. I am *very* happy[nl]with this waistline.
+@ctg_402_165
+CTG/CTG0027070
+My back?
+CTG/CTG0027080
+That's a very obscure spot you're looking at.[nl]Well, not that I mind being complimented.
+@ctg_402_166
+CTG/CTG0027090
+Anyways, you're still pretty scrawny....
+CTG/CTG0027100
+Why don't you try working out sometime?
+I'll try
+This is my peak
+@ctg_402_167
+CTG/CTG0027110
+Good, good. If you want,[nl]we can go running together sometime.
+CTG/CTG0027120
+But for today,[nl]let's stick with swimming.
+@ctg_402_168
+CTG/CTG0027130
+Quit being so pathetic.[nl]You're a man, so get your act together.
+CTG/CTG0027140
+And how perfect. We can start[nl]with some swimming to test your stamina.
+@ctg_402_169
+CTG/CTG0027150
+Now let's get in and swim our hearts out!
+@ctg_402_170
+CTG/CTG0027160
+Oh, it's already this late.[nl]Time flies when you're having fun.
+You made it more fun
+You had fun?
+@ctg_402_171
+CTG/CTG0027170
+Ehehe....
+CTG/CTG0027180
+Right back at you.[nl]You made today....fun.
+@ctg_402_172
+CTG/CTG0027190
+Yep!
+@ctg_402_173
+CTG/CTG0027200
+....Except for the haunted house,[nl]that is.
+@ctg_402_174
+CTG/CTG0027210
+Oh. This is a good spot[nl]for us to head our separate ways.
+@ctg_402_174_1
+I'll walk you home
+Later!
+@ctg_402_175
+CTG/CTG0027220
+Huh? Really?
+CTG/CTG0027230
+Okay, then....[nl]Please do.
+CTG/CTG0027240
+....We're here.
+@expose
+CTG/CTG0027250
+I had a lot of fun today.[nl]What about you?
+It was the best
+Can't wait for next time
+@ctg_402_176
+CTG/CTG0027260
+Yep.
+@ctg_402_177
+CTG/CTG0027270
+Thanks for today. Make sure you think[nl]about what we'll do next time, okay?
+CTG/CTG0027280
+Alright, see ya!
+@マジコイ終了処理
+@ctg_402_178
+CTG/CTG0027290
+Y-Yeah....
+CTG/CTG0027300
+W-We got to spend a whole day together,[nl]so of course it was fun!
+CTG/CTG0027310
+....See ya, I'm heading home.
+@ctg_402_179
+CTG/CTG0027320
+Yeah. What should we do next time?
+CTG/CTG0027330
+Okay, that'll be your homework![nl]Think about where we should go next.
+@ctg_402_180
+CTG/CTG0027340
+Alright then, see you around.[nl]....Let's go out again next week! ♪
+@ctg_402_181
+CTG/CTG0027350
+CTG/CTG0027360
+Hey....
+CTG/CTG0027370
+Did you know this amusement park[nl]has a legend people are telling about it....?
+I've heard it
+Nope.
+@ctg_402_182
+CTG/CTG0027380
+Huh?[nl]Really?
+CTG/CTG0027390
+Hmmm, I see....[nl]You've heard it....
+.........
+CTG/CTG0027400
+Uh.hh...
+@ctg_402_183
+CTG/CTG0027410
+Well, you wouldn't have known.
+CTG/CTG0027420
+Here's what the legend is:
+CTG/CTG0027430
+If a couple kisses in a place no one can[nl]see them, but they can see the Ferris Wheel....
+CTG/CTG0027440
+....then they'll live happily ever after....
+@ctg_402_184
+CTG/CTG0027450
+I-I-I, um....I personally think[nl]that legend is silly, but....
+@ＢＧＭ停止
+CTG/CTG0027460
+If you, maybe, um....[nl]If you really wanted to try it, then....
+CTG/CTG0027470
+....I suppose I'll let you.[nl]....K-Kiss me, that is.
+@ctg_402_184_2
+Kiss her forehead
+Kiss her hand
+@ctg_402_185
+CTG/CTG0027480
+Kyaah....!?
+@ＢＧＭ再生
+CTG/CTG0027490
+Y-You surprised me....[nl]I thought you were going to kiss me on my....
+CTG/CTG0027500
+Uhh, no! Never mind!
+CTG/CTG0027510
+That's right, yeah....[nl]It's probably better like this for now....
+@ctg_402_186
+CTG/CTG0027520
+Was that it?
+CTG/CTG0027530
+....Well, whatever. You wouldn't have[nl]the guts to do it anyway....
+CTG/CTG0027540
+After all, legends are just legends.
+CTG/CTG0027550
+....You coward.
+@ctg_402_187
+CTG/CTG0027560
+Huh!? You're kidding![nl]You really--
+@ホワイトアウト
+CTG/CTG0027570
+Hm!?
+CTG/CTG0027580
+CTG/CTG0027590
+....It feels strange.
+CTG/CTG0027600
+To be doing this with you....[nl]It kinda feels like I'm dreaming....
+CTG/CTG0027610
+....Hey. Let's do it again....
+@ctg_402_188
+CTG/CTG0027620
+Thanks for this.
+@ctg_402_189
+CTG/CTG0027630
+Today, um....made me[nl]really happy.
+CTG/CTG0027640
+Now that I think about it,[nl]I guess we're really a couple now....
+CTG/CTG0027650
+CTG/CTG0027660
+Hey, hear me out for a second.
+CTG/CTG0027670
+If I said I wanted us to be together forever,[nl]like forever and ever, just the two of us....
+CTG/CTG0027680
+What would your thoughts be?
+I'd be really happy
+I'd need to think
+@ctg_402_190
+CTG/CTG0027690
+....![nl]R-Really....!?
+CTG/CTG0027700
+....*sob*....
+CTG/CTG0027710
+....*sob*....*sniff*....
+CTG/CTG0027720
+I'm so happy....!
+CTG/CTG0027730
+Me and you....[nl]Forever and ever....
+CTG/CTG0027740
+You mean it....[nl]You really mean it!?
+CTG/CTG0027750
+*smooch*
+CTG/CTG0027760
+....Thank you.
+CTG/CTG0027770
+Hehe....the legend came true....
+CTG/CTG0027780
+Let's be together forever!
+@ctg_402_191
+CTG/CTG0027790
+What....!?[nl]You're not gonna take responsibility[nl]after you kissed me!?
+CTG/CTG0027800
+Hehe, just kidding.
+CTG/CTG0027810
+This is a lifetime commitment we're talking about,[nl]so it's not the sort of thing you'd decide lightly.
+CTG/CTG0027820
+But my feelings *are* very real.[nl]So please....think about it.
+@ctg_402_192
+CTG/CTG0027830
+I kinda don't want us to head home yet....
+CTG/CTG0027840
+It's strange. We see each other all the time,[nl]but I already miss you and want to see you again....
+@expose2
+CTG/CTG0027850
+Aaargh, dammmit!
+CTG/CTG0027860
+It's really embarrassing telling you this....
+I feel the same way
+We'll meet again soon
+@ctg_402_193
+CTG/CTG0027870
+Hehehe....
+@ctg_402_194
+CTG/CTG0027880
+Yeah, thanks.
+@ctg_402_195
+CTG/CTG0027890
+Well then, I'll see you later.[nl]Good night.
+ctg_402_001.asb
+common.asb

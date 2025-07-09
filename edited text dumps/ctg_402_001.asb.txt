@@ -1,0 +1,239 @@
+__main
+@Lclearscreenall
+@ctg_402
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+CTG/CTG0025490
+You're late.[nl]Do you have any idea how long I waited?
+CTG/CTG0025500
+And after everything I did[nl]to get ready for this date....
+Getting ready ran long
+Got nervous, no sleep
+@ctg_402_092
+CTG/CTG0025510
+Hmmmm....
+CTG/CTG0025520
+Well, I guess it can't be helped,[nl]if that's the case.
+@ctg_402_093
+CTG/CTG0025530
+Don't sugarcoat it, jeez!
+CTG/CTG0025540
+But, well, I guess I'll[nl]let you off for today.
+@ctg_402_094
+CTG/CTG0025550
+Let's get going, then.[nl]We were supposed to go see a movie today, right?
+@ctg_402_127
+@ctg_402_095
+@フェードアウト
+@背景変更
+CTG/CTG0025560
+There's something special about[nl]the atmosphere inside a movie theater.
+That exciting feeling?
+The sweet smell.
+@ctg_402_096
+CTG/CTG0025570
+All the moviegoers look like[nl]they're having a good time.
+CTG/CTG0025580
+And the dim lighting makes my mood even better.
+@expose
+@ctg_402_097
+CTG/CTG0025590
+It's coming from over there....
+CTG/CTG0025600
+It smells like caramel corn.
+CTG/CTG0025610
+Should I have you buy some for me?[nl]Of course, the largest size!
+@ctg_402_098
+@ctg_402_098_1
+CTG/CTG0025620
+Ah! I wanna see[nl]that action movie!
+Me too
+No
+@ctg_402_099
+CTG/CTG0025630
+Right!? I've been itching to see it[nl]ever since I saw the trailer!
+CTG/CTG0025640
+It's coming out soon.[nl]Let's get our tickets early!
+@ctg_402_100
+CTG/CTG0025650
+Uh-uh-uhh! You don't get a say in this.[nl]We're going to see it and that's final.
+CTG/CTG0025660
+It's fine.[nl]I'm positive you'll like it.
+@ctg_402_101
+@時間経過演出
+CTG/CTG0025670
+Ahhhh! That was so good!
+What an interesting movie
+I'm all hyped now
+@ctg_402_102
+CTG/CTG0025680
+Interesting doesn't even[nl]begin to describe it!
+CTG/CTG0025690
+It would not be an exaggeration[nl]to call that the movie of the century!
+@ctg_402_103
+CTG/CTG0025700
+Seriously![nl]I never expected that twist at the end!
+CTG/CTG0025710
+The action scenes were amazing too.[nl]I'm not exaggerating when I say that was Movie of The Century!
+@ctg_402_104
+CTG/CTG0025720
+Mmmmm....[nl]Words can't describe how pumped I am now!
+CTG/CTG0025730
+Let's go to that cafe over there!
+@ctg_402_105
+CTG/CTG0025740
+So, what kind of movie[nl]were you planning on seeing?
+Action
+Romance
+Horror
+@ctg_402_106
+CTG/CTG0025750
+Awesome! That's the one[nl]I've been wanting to see, too!
+CTG/CTG0025760
+Well then, let's get going!
+@ctg_402_107
+@expose2
+CTG/CTG0025770
+Hoho. So even a simpleton like yourself[nl]is willing to do his research by watching that?
+CTG/CTG0025780
+Yep, I like that attitude.[nl]Let's get going, then!
+CTG/CTG0025790
+Yaaaaawn....
+CTG/CTG0025800
+Ahh, what a nice nap....
+Don't sleep!
+That *was* boring.
+@ctg_402_108
+CTG/CTG0025810
+I couldn't help it....
+CTG/CTG0025820
+I mean, the main character just starts going[nl]"I'm an angel" and they just roll with that?
+@ctg_402_109
+CTG/CTG0025830
+For real, though. I wasn't expecting[nl]the dead heroine to come back to life....
+CTG/CTG0025840
+If you wanted to make a fantasy movie,[nl]you should have made that clear from the beginning.
+@ctg_402_110
+CTG/CTG0025850
+Romance stories without any realism[nl]feel weirdly cold to me.
+CTG/CTG0025860
+Well, even if the movie was kind of weird,[nl]I still enjoyed it because I saw it with you.
+CTG/CTG0025870
+Alright, let's get outta here.
+@ctg_402_111
+CTG/CTG0025880
+Huh....? Horror?
+CTG/CTG0025890
+You *must* have some kind of ulterior motive[nl]to be choosing a horror movie on a date....
+CTG/CTG0025900
+I'll still go with you,[nl]but *you're* buying the tickets.
+.........
+CTG/CTG0025910
+Hahh....
+What's wrong?
+@ctg_402_112
+CTG/CTG0025920
+It was a lot gorier than I expected....
+CTG/CTG0025930
+Gghh....[nl]I might not be able to eat meat for a while....
+CTG/CTG0025940
+You have terrible taste in movies!
+My bad
+I'll buy you dinner
+@ctg_402_113
+CTG/CTG0025950
+You really don't think that's a bad[nl]way to apologize, do you.
+CTG/CTG0025960
+I'm thirsty, so go get me some juice.[nl]I'll forgive you if you do that.
+@ctg_402_114
+CTG/CTG0025970
+Nothing with meat, okay?[nl]That would remind me of that movie....
+CTG/CTG0025980
+Oh, but ramen should be okay.
+@ctg_402_115
+CTG/CTG0025990
+Huh, really? I guess we don't[nl]have the same taste in movies after all.
+CTG/CTG0026000
+I'm picking the movie, okay!?
+Sorry
+I want to see an action movie
+@ctg_402_116
+CTG/CTG0026010
+I-It's not like it's *that* big a deal....
+CTG/CTG0026020
+If you're feeling guilty, get me some juice.[nl]....I'll forgive you.
+@ctg_402_117
+CTG/CTG0026030
+I don't care what you want to see![nl]I'm gonna see the movie *I* wanna watch!
+CTG/CTG0026040
+Anyway, let's just go have some tea somewhere.
+@ctg_402_118
+@フェードアウト
+@背景変更
+CTG/CTG0026050
+It's this late aleady....[nl]Time flies when I'm with you.
+CTG/CTG0026060
+But I've gotta head home now.
+@ctg_402_118_2
+I'll walk you home
+Okay
+@ctg_402_119
+CTG/CTG0026070
+Huh....?[nl]Y-You will....?
+CTG/CTG0026080
+Alright then....[nl]Let's go.
+CTG/CTG0026090
+Wow, it's late.
+CTG/CTG0026100
+Today was fun....
+CTG/CTG0026110
+Did you have fun?
+Yes
+Next date soon?
+@ctg_402_120
+CTG/CTG0026120
+We should probably finish up for today.[nl]Make sure to think about what we do next time, okay?
+CTG/CTG0026130
+Okay, see ya!
+@マジコイ終了処理
+@ctg_402_121
+CTG/CTG0026140
+Hehe, I knew it!
+CTG/CTG0026150
+It was so much fun spending the whole day with you!
+@ctg_402_122
+CTG/CTG0026160
+That's right.[nl]What should we do that day?
+CTG/CTG0026170
+Maybe we should go somewhere[nl]further away for a change of pace.
+@ctg_402_123
+CTG/CTG0026180
+Hey....
+CTG/CTG0026190
+....I want you to hold me....
+Hold her
+Hold her hand
+@ctg_402_124
+CTG/CTG0026200
+!!
+CTG/CTG0026210
+Just a little longer....[nl]Let's stay like this just a little longer....
+@ctg_402_125
+CTG/CTG0026220
+No. Not like....
+CTG/CTG0026230
+....Nah.[nl]That's fine, thanks.
+CTG/CTG0026240
+Your hand is so warm.
+CTG/CTG0026250
+Let's keep doing this a bit longer....
+@ctg_402_126
+CTG/CTG0026260
+Well then, as much as I hate[nl]to have to part....
+CTG/CTG0026270
+Let's get in touch soon.[nl]I'll be waiting.
+CTG/CTG0026280
+Alright then, good night.
+common.asb
+ctg_402_127.asb

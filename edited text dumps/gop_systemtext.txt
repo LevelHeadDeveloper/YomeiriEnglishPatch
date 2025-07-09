@@ -147,7 +147,7 @@ Return to title screen without saving settings?
 R_SystemTextMajikoiReturnTitle
 Return to title screen?
 R_SystemTextMajikoiGoConfirm
-Begin with this scenario?[nl]NOTE: Seishiro and Kosaki are the only[nl]ones with translated events.
+Begin with this scenario?[nl]NOTE: Ruri and Marika are not[nl]yet translated.
 R_SystemTextMajikoiCtgOpen
 Chitoge unlocked.
 R_SystemTextMajikoiKskOpen

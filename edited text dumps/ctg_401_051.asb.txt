@@ -1,0 +1,290 @@
+__main
+@Lclearscreenall
+@ctg_401_051
+CTG/CTG0024480
+Like an after school date?
+CTG/CTG0024490
+Alright, sounds good.
+@expose
+CTG/CTG0024500
+Oh, but we're still[nl]having lunch together, right?
+@フェードアウト
+@時間経過演出
+CTG/CTG0024510
+Sorry I'm late.
+CTG/CTG0024520
+Tsugumi caught me on my way out.[nl]It took a bit to get away from her.
+CTG/CTG0024530
+So, where are we going today?
+@ctg_401_051_1
+The arcade
+The park
+@ctg_401_052
+CTG/CTG0024540
+I'd rather go to the arcade though....
+CTG/CTG0024550
+Alright, it's settled.[nl]We're off to the arcade today!
+CTG/CTG0024560
+Come on, quit spacing out and let's go!
+@ctg_401_053
+CTG/CTG0024570
+What a coincidence.[nl]I was thinking the exact same thing.
+CTG/CTG0024580
+Okay, let's get going!
+@ctg_401_054
+@背景変更
+@ctg_401_055
+CTG/CTG0024600
+Yes, that one!
+@ctg_401_056
+CTG/CTG0024610
+No, no! The next one over,[nl]the stuffed gorilla!
+@ctg_401_057
+@expose2
+CTG/CTG0024620
+Hmmmmm....[nl]I really like that one's facial expression.
+CTG/CTG0024630
+Hey, hey, try to get[nl]that one for me, please.
+CTG/CTG0024640
+Sorry, but I'm not very good at[nl]the crane games myself.
+Leave it to me
+Let's do it together
+@ctg_401_058
+CTG/CTG0024650
+If you don't get it,[nl]you're not getting out of this.
+CTG/CTG0024660
+....Just kidding. ★
+.........
+CTG/CTG0024670
+I'd never have thought it would[nl]be impossible to get that prize....
+CTG/CTG0024680
+Oh well, some days are like that.[nl]Let's try again next time!
+@マジコイ終了処理
+@ctg_401_059
+CTG/CTG0024690
+Huh?[nl]You're not too confident either?
+CTG/CTG0024700
+Can't be helped, then.[nl]Let's do it together.
+CTG/CTG0024710
+Alriiiiight![nl]We won, we won!
+CTG/CTG0024720
+Look at those big eyes and tiny nose![nl]It's so CUTE!
+CTG/CTG0024730
+Alright, let's go get some photo stickers[nl]to commemorate our victory here!
+@ctg_401_060
+CTG/CTG0024740
+Time sure flies when we're[nl]having fun like this.
+CTG/CTG0024750
+Let's head back soon. If I'm out too long,[nl]Claude and the others will worry.
+@ctg_401_061
+CTG/CTG0024760
+Hm? What is it?
+I'll walk you home
+Nothing
+@ctg_401_062
+CTG/CTG0024770
+Ahaaa. So you don't want to be[nl]away from me, do you?
+CTG/CTG0024780
+Huh? That was actually it!?
+CTG/CTG0024790
+I-I don't....[nl]I mean, I feel the same way....
+.........
+CTG/CTG0024800
+Your hand.
+CTG/CTG0024810
+C'mon, gimme your hand.
+CTG/CTG0024820
+....Your hand is so warm.
+CTG/CTG0024830
+Yep.[nl]Let's go home hand in hand, like this.
+@ctg_401_063
+CTG/CTG0024840
+You should invite me out again sometime.
+CTG/CTG0024850
+I want to hang out even more[nl]outside of our scheduled dates....
+CTG/CTG0024860
+Well then, shall we head home?
+@ctg_401_064
+CTG/CTG0024870
+There's so many games, I can't[nl]decide on one to play....
+CTG/CTG0024880
+I'll let you pick.
+Crane game
+Trivia game
+@ctg_401_065
+CTG/CTG0024890
+Ehh, okay.
+CTG/CTG0024900
+....Hm?
+@ctg_401_066
+CTG/CTG0024910
+Hoho. You want to meet once again[nl]on the battlefield of knowledge?
+CTG/CTG0024920
+And you're challenging me despite the[nl]obvious gap between our academic prowesses, no less.
+CTG/CTG0024930
+Well, I'll give you a chance.
+CTG/CTG0024940
+I know. Since we're at it,[nl]wanna bet something on this, too?
+A bottle of juice
+One request
+@ctg_401_067
+CTG/CTG0024950
+Cheap!
+CTG/CTG0024960
+Not so confident after all?[nl]....Well, okay.
+CTG/CTG0024970
+I-I lost....
+CTG/CTG0024980
+But doesn't it seem unfair that so many[nl]questions were about household chores!?
+CTG/CTG0024990
+Wait, you CHEATED, didn't you!?[nl]I'm sure you did!
+Sore loser much?
+Get me some juice
+@ctg_401_068
+@expose2
+CTG/CTG0025000
+Ghhhhhh!
+@ctg_401_069
+CTG/CTG0025010
+So annoying!
+@ctg_401_070
+CTG/CTG0025020
+Once you finish your juice,[nl]we'll play another round! Okay!?
+@ctg_401_071
+CTG/CTG0025030
+....The winner makes a request of the loser?[nl]You're serious?
+CTG/CTG0025040
+Alright, I can take you!
+CTG/CTG0025050
+Hohoho! Victoryyy!
+CTG/CTG0025060
+You can't outsmart me in a quiz!
+CTG/CTG0025070
+Let's seeeee.[nl]What should I have you do?
+Go easy....
+I'll remember this
+@ctg_401_072
+CTG/CTG0025080
+Don't worry, I'm not a monster.
+@ctg_401_073
+CTG/CTG0025090
+You know what you should really remember?[nl]Your lack of ability.
+@ctg_401_074
+CTG/CTG0025100
+Mmmm, delicious!
+CTG/CTG0025110
+Why is it that crepes[nl]smell so good, anyway?
+You sure about this?
+Vanilla extract
+@ctg_401_075
+CTG/CTG0025120
+Yeah.[nl]I was just getting hungry.
+CTG/CTG0025130
+And if I had you do something unreasonable,[nl]it would have been too much trouble for you.
+@ctg_401_076
+CTG/CTG0025140
+I know that much.[nl]I've just never used it myself.
+CTG/CTG0025150
+But from the name I can tell it's a very[nl]sweet and delicious seasoning!
+@ctg_401_077
+CTG/CTG0025160
+The park?
+CTG/CTG0025170
+That's fine, but are you free[nl]to do that right now?
+CTG/CTG0025180
+Walking like this, it's really apparent[nl]that winter is coming soon.
+@ctg_401_077_1
+Leisurely stroll
+There's a food stall!
+@ctg_401_078
+CTG/CTG0025190
+The air's getting chilly,[nl]and pretty soon leaves will start falling.
+CTG/CTG0025200
+It's nice to take a peaceful walk[nl]like this once in a while.
+Life's stressful
+Peace is the best
+@ctg_401_079
+CTG/CTG0025210
+Yup.
+CTG/CTG0025220
+Between Tsugumi, Marika, and Claude, right?[nl]Not to mention Maiko's constant shenanigans.
+@ctg_401_080
+CTG/CTG0025230
+Yup. That hits close to home,[nl]especially with everything that happens to us....
+CTG/CTG0025240
+But even without all that,[nl]everything's so stressful....
+@ctg_401_081
+CTG/CTG0025250
+Not that it isn't fun,[nl]but I'd just like to settle down a bit.
+Look who's talking
+For real though....
+@ctg_401_082
+CTG/CTG0025260
+What? Are you saying it's my fault[nl]nothing's settling down?
+..........
+CTG/CTG0025270
+Sorry. You might be right....
+@ctg_401_083
+CTG/CTG0025280
+That's an awfully emotional response.[nl]Just how tired *are* you?
+CTG/CTG0025290
+Hey. By any chance.....
+CTG/CTG0025300
+From your perspective,[nl]do I seem, like, unstable?
+@ctg_401_084
+CTG/CTG0025310
+I should maybe try to be more grown-up, huh?
+You're OK as you are
+You should try
+@ctg_401_085
+CTG/CTG0025320
+Really....?
+CTG/CTG0025330
+....If you say so,[nl]then okay. I trust you.
+@ctg_401_086
+CTG/CTG0025340
+That sounded a bit condescending.
+CTG/CTG0025350
+But you're right....[nl]Maybe I'll try harder....
+@ctg_401_087
+CTG/CTG0025360
+Looks like it's an ice cream stand.[nl]Let's go!
+CTG/CTG0025370
+Mmmm, delicious![nl]Mint chocolate chip is the best!
+CTG/CTG0025380
+What kind did you get?
+Vanilla
+Passionfruit
+@ctg_401_088
+CTG/CTG0025390
+Wow, that's plain....
+CTG/CTG0025400
+A really "vanilla", or safe, choice there.[nl]It really shows your personality.
+CTG/CTG0025410
+So, is vanilla any good?
+Wanna try some?
+It's delish!
+@ctg_401_089
+CTG/CTG0025420
+Aren't you feeling reckless today.
+CTG/CTG0025430
+But like, is it any good?
+@ctg_401_090
+CTG/CTG0025440
+Gimme a bite.
+CTG/CTG0025450
+Mmm....you're right.[nl]That *is* pretty good.
+CTG/CTG0025460
+But....here! Try some of mine![nl]The mint chocolate chip is miles better!
+@ctg_401_091
+CTG/CTG0025470
+Hmmmm.
+CTG/CTG0025480
+Gotta say I think mint chocolate chip[nl]is the better flavor, though.
+@ctg_401_954
+@ctg_401_954_01
+CTG/CTG0024590
+Ah! That plushie is so cute!
+A gorilla plush?
+A girl plush?
+common.asb

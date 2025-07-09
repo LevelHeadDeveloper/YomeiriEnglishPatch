@@ -1,0 +1,211 @@
+__main
+@Lclearscreenall
+@ctg_403
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK1_CTG/CTG0027900
+Welcome home.[nl]You're back pretty late, huh.
+MJK1_CTG/CTG0027910
+Bold of you to leave your new wife waiting.[nl]I've been waiting all this time for you....
+@expose
+MJK1_CTG/CTG0027920
+Hehe....just kidding.[nl]I'm not angry at all.
+MJK1_CTG/CTG0027930
+Thank you for your hard work.[nl]Dinner is ready.
+MJK1_CTG/CTG0027940
+Oh, or maybe you want to take[nl]your bath first?
+MJK1_CTG/CTG0027950
+Or maybe....you'd like *that*?
+Dinner
+Bath
+*That*
+@ctg_403_197
+MJK1_CTG/CTG0027960
+I knew you'd say that.
+MJK1_CTG/CTG0027970
+Heheheh. You might say tonight's dinner[nl]will surprise you.
+MJK1_CTG/CTG0027990
+Huh? What's on the menu?[nl]That's a surprise.
+MJK1_CTG/CTG0028000
+After dinner....[nl]Let's take a bath together. ♪
+MJK1_CTG/CTG0028010
+It's been a while since we last did that.[nl]....Right?
+@ctg_403_198
+MJK1_CTG/CTG0028020
+Of course. It would be a good idea[nl]to de-stress first.
+MJK1_CTG/CTG0028030
+Um....if you want, could I join you in there?[nl]It's been a while since we bathed together....
+.........
+MJK1_CTG/CTG0028040
+H-Hey, say something![nl]I'm all embarrassed now!
+@フェードアウト
+MJK1_CTG/CTG0028050
+Huh? The tub isn't filling at all....[nl]Why not?
+MJK1_CTG/CTG0028060
+Gaah! I forgot to put in the drain plug!
+@背景変更
+MJK1_CTG/CTG0028070
+....Sorry.[nl]I couldn't get the bath ready.
+MJK1_CTG/CTG0028080
+Would you be okay with doing dinner first?
+MJK1_CTG/CTG0028090
+We can take our bath together....later, okay?
+@ctg_403_199
+MJK1_CTG/CTG0028100
+Huh? ....You want to do *that*?[nl]Like, all of a sudden....!?
+MJK1_CTG/CTG0028110
+Actually, when you're just waiting for[nl]me to do something, that makes me embarrassed!
+MJK1_CTG/CTG0028120
+Well, I guess I *was* the one[nl]who brought it up.
+MJK1_CTG/CTG0028130
+Close your eyes.
+MJK1_CTG/CTG0028140
+Quit dawdling!
+MJK1_CTG/CTG0028150
+....*smooch*
+MJK1_CTG/CTG0028160
+I'm too embarrassed,[nl]let's stop here!
+MJK1_CTG/CTG0028170
+Alright, let's go eat.[nl]I'm really proud of what I've made today!
+@ctg_403_200
+MJK1_CTG/CTG0028180
+Ta-daaa! Tonight's dinner[nl]is rice porridge and stir-fried bean sprouts!
+MJK1_CTG/CTG0028190
+I was trying to make curry[nl]but it ended up looking more like porridge.
+MJK1_CTG/CTG0028200
+Well? It looks pretty good, huh?
+MJK1_CTG/CTG0028210
+....What's with that face? If you[nl]don't like it, you don't have to eat it.
+MJK1_CTG/CTG0028220
+On second thought, I guess it looks more[nl]like a bottomless swamp than rice porridge.
+MJK1_CTG/CTG0028230
+But I think it tastes fine.[nl]I even tasted it halfway through!
+MJK1_CTG/CTG0028240
+Incidentally, it tasted like[nl]consomme soup at the time.
+MJK1_CTG/CTG0028250
+....Oh, you want to try some?[nl]Then by all means, go ahead! ♪
+MJK1_CTG/CTG0028260
+Here, go on.
+MJK1_CTG/CTG0028270
+Ah. Your face is all pale.[nl]Is it that good?
+MJK1_CTG/CTG0028280
+I think I'll have some too.[nl]Down the hatch!
+MJK1_CTG/CTG0028290
+*nom*[nl]*chew chew*....
+@叫び揺れ
+MJK1_CTG/CTG0028300
+Aaaaaaaiieeeeee![nl]W-What is thiiiis!?
+MJK1_CTG/CTG0028310
+That's so weird....I made porridge,[nl]so why does it taste like sand!?
+MJK1_CTG/CTG0028320
+I mean, I've never eaten sand,[nl]but still....
+MJK1_CTG/CTG0028330
+And after just one bite,[nl]I feel like I'm losing consciousness....
+@expose
+MJK1_CTG/CTG0028340
+This porridge is dangerous.[nl]It's no good, don't eat it. Okay?
+Sorry
+Nope, I'm eating it!
+@ctg_403_201
+MJK1_CTG/CTG0028350
+No....you don't have to eat[nl]something this bad.
+MJK1_CTG/CTG0028360
+Besides....I'd feel bad[nl]if you got sick on account of me....
+@ctg_403_202
+MJK1_CTG/CTG0028370
+No, it's fine, really![nl]You will *ruin your health* if you eat this!
+MJK1_CTG/CTG0028380
+So please,[nl]STOP EATING THAT!
+@ctg_403_203
+MJK1_CTG/CTG0028390
+Ghh....I'm such a failure.[nl]I haven't improved at all since high school.
+MJK1_CTG/CTG0028400
+I wanted to treat you to a nice meal[nl]after a hard day of work....
+MJK1_CTG/CTG0028410
+But I can't even do something[nl]as simple as that....
+Glad you feel that way
+Let's redo together
+@ctg_403_204
+MJK1_CTG/CTG0028420
+W-Well....it's not like I'm coming[nl]second to anyone in terms of feelings.
+MJK1_CTG/CTG0028430
+I care more about you[nl]than anyone else....
+MJK1_CTG/CTG0028440
+----
+MJK1_CTG/CTG0028450
+Ghh, you already know[nl]what I'm trying to say, don't you?
+MJK1_CTG/CTG0028460
+Just how much I care about you[nl]and so forth....
+@ctg_403_205
+MJK1_CTG/CTG0028470
+Huh? Together....?[nl]But....
+MJK1_CTG/CTG0028480
+You're tired from work, right?[nl]I can't let you do that.
+MJK1_CTG/CTG0028490
+Huh? Cooking with me is actually fun?
+MJK1_CTG/CTG0028500
+....Thank you.
+MJK1_CTG/CTG0028510
+I think I can make a delicious meal[nl]with you by my side.
+@ctg_403_206
+MJK1_CTG/CTG0028520
+Hey, after we finish eating,[nl]can we take a bath together?
+MJK1_CTG/CTG0028530
+And then after that....
+@ＢＧＭ停止
+MJK1_CTG/CTG0028540
+Fifth period is starting?
+MJK1_CTG/CTG0028550
+....Darling? Darling!
+MJK1_CTG/CTG0028560
+Hey, listen to me, Darling!
+MJK1_CTG/CTG0028570
+Hey, come on![nl]Get up already!
+@pan
+MJK1_CTG/CTG0028580
+Jeez louise....[nl]Class is about to start!
+MJK1_CTG/CTG0028590
+You were saying something about a bath,[nl]what exactly was happening in that dream of yours?
+We took a bath
+We cooked dinner
+It's a secret
+@ctg_403_207
+@ＢＧＭ再生
+MJK1_CTG/CTG0028600
+Huh!? We were taking a bath!?[nl]Like, together?
+MJK1_CTG/CTG0028610
+W-W-Wha....!?
+@ctg_403_208
+MJK1_CTG/CTG0028620
+We cooked dinner?[nl]Like, together?
+MJK1_CTG/CTG0028630
+Ohh. You have really weird dreams.
+MJK1_CTG/CTG0028640
+But what does the bath have[nl]to do with that?
+.........
+MJK1_CTG/CTG0028650
+H-Hey, why aren't you saying anything?
+MJK1_CTG/CTG0028660
+!!![nl]D-Don't tell me....!
+@ctg_403_209
+MJK1_CTG/CTG0028670
+Why, you miser?[nl]Is it the kind of dream you can't tell anyone about?
+MJK1_CTG/CTG0028680
+Oh, maybe I was in it or something?
+MJK1_CTG/CTG0028690
+Hm? Why aren't you saying anything?
+MJK1_CTG/CTG0028700
+Oh, why are you blushing?[nl]What exactly did you--
+MJK1_CTG/CTG0028710
+!!!
+MJK1_CTG/CTG0028720
+The bath....[nl]D-D-Don't tell me....!
+@ctg_403_210
+@expose2
+MJK1_CTG/CTG0028730
+What kind of dream were you[nl]having exactly, you idiot!?
+MJK1_CTG/CTG0028740
+Gawd! If you have that dream again,[nl]I won't let you off this easily!
+@マジコイ終了処理
+common.asb
