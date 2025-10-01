@@ -1,0 +1,168 @@
+__main
+@Lclearscreenall
+@mrk_403
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK1_MRK/MRK0023300
+Dar・ling! ★[nl]Dinner's ready.
+MJK1_MRK/MRK0023310
+On tonight's menu,[nl]we have plain miso soup with salt.
+MJK1_MRK/MRK0023320
+My apologies. I couldn't manage[nl]anything special. This month, I've completely[nl]run out of living expenses.
+MJK1_MRK/MRK0023330
+There's no rice either,[nl]so we'll have to survive the month on[nl]just miso and salt.
+@expose
+MJK1_MRK/MRK0023340
+Oh, what's the matter?[nl]You look a bit dazed.
+MJK1_MRK/MRK0023350
+You have an expression that seems to say[nl]you don't have a grasp on the current situation.
+We eloped?
+Hallucinating?
+April fools?
+@mrk_403_149
+MJK1_MRK/MRK0023380
+Yes, that is correct.[nl]And this is our modest new home. ♪
+MJK1_MRK/MRK0023390
+After high school, some stuff happened,[nl]and we chose to elope.
+@mrk_403_150
+MJK1_MRK/MRK0023400
+Surely you're joking. ♪
+@mrk_403_151
+MJK1_MRK/MRK0023410
+No, that is incorrect.
+@mrk_403_152
+MJK1_MRK/MRK0023420
+Come on, what's the matter?[nl]This is the real deal,[nl]the genuine reality....
+MJK1_MRK/MRK0023430
+After high school, some stuff happened,[nl]and we decided to elope, right?
+@mrk_403_153
+MJK1_MRK/MRK0023440
+Really, so much has happened[nl]since high school....
+MJK1_MRK/MRK0023450
+After graduation, [nl]Onodera went on that journey of self-discovery[nl]to Africa, as I recall....
+MJK1_MRK/MRK0023460
+I heard Tsugumi joined the Buddhist order[nl]and now spends her days carving Buddha[nl]statues deep in the mountains at a temple.
+MJK1_MRK/MRK0023470
+And then Miyamoto became a comedian....[nl]Who would have guessed that?
+MJK1_MRK/MRK0023480
+And then....[nl]I feel like I'm forgetting someone,[nl]but moving right along.
+MJK1_MRK/MRK0023490
+In any case, even though both our[nl]families approved of our marriage,[nl]after overcoming various obstacles....
+MJK1_MRK/MRK0023500
+....we ultimately decided to leave home[nl]and make our own path through life.
+MJK1_MRK/MRK0023510
+Do you remember[nl]what our current situation is like?
+#fs{12}Don't put us through[nl]hardship#fs{}
+#fs{12}If only we[nl]hadn't eloped....#fs{}
+How's your health?
+@mrk_403_154
+MJK1_MRK/MRK0023520
+Please stop, dear.[nl]I've never considered any[nl]of this hardship.
+MJK1_MRK/MRK0023530
+Borrowing soy sauce from next door,[nl]or rice from the neighbors across the street....
+MJK1_MRK/MRK0023540
+Holding my breath so the debt collectors[nl]don't know we're home, walking three stations[nl]to save on train fare....
+MJK1_MRK/MRK0023550
+None of it troubles me.[nl]If I can be with you, that is[nl]happiness enough for me.
+@mrk_403_155
+MJK1_MRK/MRK0023560
+No! Please don't talk like that.
+MJK1_MRK/MRK0023570
+This was the only way[nl]we could be together.
+MJK1_MRK/MRK0023580
+So there are no regrets.[nl]At least, not for me.
+@mrk_403_156
+MJK1_MRK/MRK0023590
+Wow! ★[nl]You really are so kind.[nl]....I'm falling for you all over again! ★
+MJK1_MRK/MRK0023600
+I'm in tip-top shape![nl]Well, not quite tip-top,[nl]but I'm holding together okay.
+MJK1_MRK/MRK0023610
+Being here by your side[nl]is the best medicine for me.
+@mrk_403_157
+MJK1_MRK/MRK0023620
+It's alright, we can manage[nl]without money if we're resourceful.
+MJK1_MRK/MRK0023630
+As long as we know in what order[nl]the utilities will get cut,[nl]we can survive.
+MJK1_MRK/MRK0023640
+If we get friendly with the local baker[nl]and they give us some scraps,[nl]that will be our meal for the day.
+You've grown strong.
+Money is still good
+@mrk_403_158
+MJK1_MRK/MRK0023650
+Hehehe, thank you.
+MJK1_MRK/MRK0023660
+Indeed, I may be a little bit[nl]stronger compared to where I was.
+@mrk_403_159
+MJK1_MRK/MRK0023670
+A baseline amount of money[nl]is absolutely necessary.[nl]But that's quite enough.
+MJK1_MRK/MRK0023680
+After all, your presence is[nl]something that money absolutely[nl]cannot replace.
+@mrk_403_160
+MJK1_MRK/MRK0023690
+....Achoo!
+MJK1_MRK/MRK0023700
+Still, it's a bitter cold night.
+MJK1_MRK/MRK0023710
+Hey, darling.
+MJK1_MRK/MRK0023720
+Can I come in[nl]a little closer?
+@背景変更
+MJK1_MRK/MRK0023730
+Hehe, you're so warm....
+MJK1_MRK/MRK0023740
+I just adore the moments we spend[nl]together, snuggled up like this.
+MJK1_MRK/MRK0023750
+Those with home heating will[nl]probably never understand such joys.
+MJK1_MRK/MRK0023760
+To know the pleasure of sharing warmth[nl]with someone so dear....
+MJK1_MRK/MRK0023770
+I am really a fortunate soul....
+@ＢＧＭ停止
+@ホワイトアウト
+@フェードアウト
+@ＢＧＭ再生
+MJK1_MRK/MRK0023780
+Oh....have you woken up?
+MJK1_MRK/MRK0023790
+You were sleeping quite soundly.[nl]I trust my lap was a comfortable pillow?
+MJK1_MRK/MRK0023800
+We're in school, you know.[nl]We were having lunch together during the break.
+MJK1_MRK/MRK0023810
+And then you fell asleep[nl]in my lap....
+MJK1_MRK/MRK0023820
+It seems you were having a dream[nl]of some kind. What was it about?
+We eloped together
+We were very poor
+@mrk_403_161
+MJK1_MRK/MRK0023830
+Huh!? You ran away with me[nl]to pursue our love!?
+MJK1_MRK/MRK0023840
+Well now! I'm absolutely delighted[nl]that you had a dream like that!
+MJK1_MRK/MRK0023850
+Overcoming shared troubles through[nl]the power of love. What a nice dream!
+MJK1_MRK/MRK0023860
+But surely it's not *just* a dream.[nl]It's a prophetic dream, and it's[nl]predicting our future!
+MJK1_MRK/MRK0023870
+In fact, why don't we *make* it[nl]a prophetic dream? We can get[nl]started right now!
+@expose2
+MJK1_MRK/MRK0023880
+Well then, how about we skip our[nl]afternoon classes and run away together?[nl]Huh?
+@マジコイ終了処理
+@mrk_403_162
+MJK1_MRK/MRK0023890
+Huh!? A dream where we were[nl]living a simple and modest life together,[nl]just the two of us!?
+MJK1_MRK/MRK0023900
+Overcoming shared troubles through[nl]the power of love. What a nice dream.
+MJK1_MRK/MRK0023910
+Huh? You still didn't[nl]like being poor?
+MJK1_MRK/MRK0023920
+Hehehe. Don't worry.
+MJK1_MRK/MRK0023930
+I'll save not just for our wedding,[nl]but also for our future[nl]living expenses.
+MJK1_MRK/MRK0023940
+I just couldn't bear to let[nl]my beloved suffer any hardship.
+@expose
+MJK1_MRK/MRK0023950
+*That* part of your dream[nl]shall not come true.
+common.asb

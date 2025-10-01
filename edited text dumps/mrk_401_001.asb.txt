@@ -1,0 +1,217 @@
+__main
+@Lclearscreenall
+@mrk_401
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MRK/MRK0019310
+It's lunchtime, finally.
+MRK/MRK0019320
+I wanted you to eat lunch with me,[nl]so today I made you the best bento I could.
+MRK/MRK0019330
+Please do try it.[nl]Don't be shy, dig right in!
+@expose
+MRK/MRK0019340
+And after you have this lunch,[nl]you・can・have・me....★
+@expose2
+MRK/MRK0019350
+Okay then, let's eat lunch together!
+@mrk_401_002
+MRK/MRK0019360
+I didn't expect you to agree so readily.[nl]Could this be....the power of love!?
+MRK/MRK0019370
+I'm so happy. Everything is all ready.[nl]Here, help yourself.
+@mrk_401_003
+MRK/MRK0019380
+Huh? You're embarrassed about[nl]doing this in front of everyone?
+MRK/MRK0019390
+Hehehe. There is no love[nl]without its obstacles.
+MRK/MRK0019400
+Besides, don't forget that two people[nl]who are in love can't be apart[nl]for even a moment.
+MRK/MRK0019410
+So I really hope you will savor[nl]the delicious lunch I have made for you.
+@mrk_401_004
+MRK/MRK0019420
+Incidentally, today's menu features[nl]a rolled omelet infused with love,[nl]and juicy twice-fried chicken.
+MRK/MRK0019430
+Now, say "ahh". ♪
+@mrk_401_005
+MRK/MRK0019440
+Ah, where are you going!?[nl]Wait uupppp!
+@mrk_401_006
+MRK/MRK0019450
+Huh? You find that embarrassing too?
+MRK/MRK0019460
+You're blushing. I find that[nl]quite lovely and charming, I must say.[nl]
+MRK/MRK0019470
+There's no helping that.[nl]Here, please have some.
+@mrk_401_007
+MRK/MRK0019480
+----
+MRK/MRK0019490
+How is it?[nl]Are the eggs to your liking?
+MRK/MRK0019500
+Next, please do try some of the chicken,[nl]twice-fried with love.
+@mrk_401_008
+MRK/MRK0019510
+Here, try it.
+@mrk_401_009
+MRK/MRK0019520
+MRK/MRK0019530
+How is it?
+MRK/MRK0019540
+I know I spent as much time as possible tailoring this[nl]to your preferences, but how did I do?
+It's okay
+The best!
+@mrk_401_010
+MRK/MRK0019550
+W-Whaaaaa!?!?
+MRK/MRK0019560
+W-W-What do I do....[nl]I didn't think you'd go along with this....
+MRK/MRK0019570
+....I'm embarrassed, but happy....
+@mrk_401_011
+MRK/MRK0019580
+A-Ahhhh....
+@mrk_401_012
+MRK/MRK0019590
+....Ahem.[nl]S-So, moving right along....
+MRK/MRK0019600
+Here. Say "ahh"....
+@mrk_401_013
+MRK/MRK0019610
+I guess next time I'll need to use[nl]a more powerful spell.
+MRK/MRK0019620
+Huh? [nl]What was I talking about, you ask?
+MRK/MRK0019630
+I wove a magic incantation[nl]into this very chicken.
+MRK/MRK0019640
+It goes "Become delicious,[nl]become to his liking...."
+MRK/MRK0019650
+I thought I'd done a good job casting it,[nl]but it seems like I fell just short.
+@mrk_401_014
+MRK/MRK0019660
+Well, that's a relief!
+MRK/MRK0019670
+Just seeing your smile makes me see[nl]like I'm floating on air.
+MRK/MRK0019680
+Ahh....getting up this early to make[nl]your lunch was WORTH IT!
+MRK/MRK0019690
+Oh, right! I went and forgot[nl]the ever-important tea!
+MRK/MRK0019700
+I'll make some now.
+MRK/MRK0019710
+Oh....
+MRK/MRK0019720
+My apologies. I'm feeling a touch light-headed....[nl]I suppose I went a little overboard.
+MRK/MRK0019730
+Terribly sorry to worry you.[nl]Shall I make the tea now?
+Yes, please.
+I'm worried
+@mrk_401_015
+@フェードアウト
+@背景変更
+MRK/MRK0019740
+@mrk_401_016
+MRK/MRK0019750
+I appreciate your concern.[nl]But I assure you I'm quite alright.
+Good to hear
+Rest your head on my lap
+@mrk_401_017
+MRK/MRK0019760
+Yes, thank you.[nl]Here, have some tea.
+@mrk_401_018
+MRK/MRK0019770
+Hehe, this is so peaceful.[nl]It's like we're the only ones in this world.
+MRK/MRK0019780
+Um....
+@mrk_401_019
+MRK/MRK0019790
+If I were to make you lunch tomorrow,[nl]would you eat it?
+MRK/MRK0019800
+I wanna serve you something that will[nl]really make you squeal with delight....[nl]And then....
+MRK/MRK0019810
+I'd be so happy if we could have[nl]another moment like this together. ♪
+@汎用フラグ・変数をすべてクリア
+@マジコイ終了処理
+@mrk_401_020
+MRK/MRK0019820
+W-Whaaaaa!?
+MRK/MRK0019830
+N-No way....I never thought that making[nl]you a lunch would lead to *this* kind[nl]of development!
+MRK/MRK0019840
+Oohhh....I think I'm going to faint,[nl]not from dizziness but from happiness....
+@mrk_401_021
+MRK/MRK0019850
+Hehehe, you're so sweet.
+MRK/MRK0019860
+I figured you might head for the rooftop[nl]to avoid prying eyes.
+MRK/MRK0019870
+We can be as lovey-dovey as we want here[nl]without worrying about being seen.
+MRK/MRK0019880
+Ehehe. Bedazzling time, Round 2 begins.
+@mrk_401_021_1
+@mrk_401_022
+MRK/MRK0019890
+Today's menu features[nl]a rolled omelet infused with love,[nl]and juicy twice-fried chicken.
+@mrk_401_023
+MRK/MRK0019900
+As I was saying earlier....
+MRK/MRK0019910
+....today's menu features[nl]a rolled omelet infused with love,[nl]and juicy twice-fried chicken.
+@mrk_401_024
+MRK/MRK0019920
+First, the rolled omelet....
+MRK/MRK0019930
+Okay, say "ahhh". ♪
+.........
+MRK/MRK0019940
+Why aren't you saying "ahhh"?
+MRK/MRK0019950
+Oh, I bet you're feeling shy.[nl]That's so cute.
+MRK/MRK0019960
+But please, rest assured.[nl]No one can see us here.
+MRK/MRK0019970
+So, please.[nl]Say "ahhh". ♪
+MRK/MRK0019980
+Jeez, I guess I don't have a choice.[nl]I'll have to show you how it's done.
+MRK/MRK0019990
+Ahhhh..... ★
+MRK/MRK0020000
+....With that look you're giving me,[nl]even I'm compelled to stop.
+MRK/MRK0020010
+Hey? Please?[nl]Come on, say "ahhh ★".
+Ahhh....★
+"Aaaa?"
+@mrk_401_025
+MRK/MRK0020020
+....!!
+MRK/MRK0020030
+I-It's more embarrassing than I expected[nl]now that you're going along with this....
+MRK/MRK0020040
+@mrk_401_026
+MRK/MRK0020050
+Hehehe. No use trying[nl]to bluff your way out of this.
+MRK/MRK0020060
+But....that is fine.
+MRK/MRK0020070
+If you're this hesitant,[nl]we'll save the "ahhhh" for another time.
+MRK/MRK0020080
+For now, I would like you to[nl]simply enjoy your lunch.
+MRK/MRK0020090
+Okay, here you go.[nl]Will you take some?
+@mrk_401_901
+Eat together
+Eat alone
+Ask to hang out
+@mrk_401_027
+@mrk_401_902
+@mrk_401_903
+Ahhh...♪
+@mrk_401_904
+MRK/MRK0019420
+Incidentally, today's menu features[nl]a rolled omelet infused with love,[nl]and juicy twice-fried chicken.
+MRK/MRK0019430
+Now then, please say "ahhh". ♪
+common.asb
+mrk_401_027.asb

@@ -8,7 +8,7 @@ MRK/MRK0004570
 Raku dearest, why don't the animals like you?
 @mrk_004_02_ans01
 MRK/MRK0004580
-Please don't say that so sadly
+Please don't say that so sadly.
 MRK/MRK0004590
 Besides, Raku dearest, you're loved plenty.
 MRK/MRK0004600
@@ -37,7 +37,7 @@ Uegh....you look like you're about to cry....
 MRK/MRK0004680
 But there's no way the animals wouldn't be grateful[nl]to you for working so hard to care for them every day.
 MRK/MRK0004690
-There must be some[nl]other reason they don't like you.
+There must be some other reason[nl]they don't like you.
 @mrk_004_02_ans06
 MRK/MRK0004700
 I'm sorry. I guess I shouldn't have asked....

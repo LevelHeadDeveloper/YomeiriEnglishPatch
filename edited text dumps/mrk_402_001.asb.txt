@@ -1,0 +1,187 @@
+__main
+@Lclearscreenall
+@mrk_402
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MRK/MRK0020660
+Good morning!
+MRK/MRK0020670
+Did you sleep well?
+Yup!
+Not really....
+@mrk_402_047
+MRK/MRK0020680
+I'm happy to hear that.
+@mrk_402_073
+@mrk_402_048
+@expose
+MRK/MRK0020690
+Well now, were you looking forward to[nl]our date together *that* much?
+@mrk_402_049
+MRK/MRK0020700
+We were going to[nl]the aquarium, right?
+MRK/MRK0020710
+Let's be off, then.
+@mrk_402_050
+@フェードアウト
+@背景変更
+MRK/MRK0020720
+Do you come here often?
+Yeah, a lot
+Hardly ever
+@mrk_402_051
+MRK/MRK0020730
+Oh. Is that right?
+MRK/MRK0020740
+Who on Earth are you coming with,[nl]leaving me all by myself, then?
+MRK/MRK0020750
+Hehehe. I'm just joking.[nl]I'll count on you to lead the way then.
+@mrk_402_052
+MRK/MRK0020760
+Me neither.
+MRK/MRK0020770
+If I'm visiting somewhere like this,[nl]it's gonna have to be with you....[nl]That is what I decided on.
+MRK/MRK0020780
+So today I'm quite happy.[nl]Do escort me, would you?
+@mrk_402_053
+MRK/MRK0020790
+Alright then, what shall we see first?
+Dolphin show
+Deep-sea fish
+Migratory fish
+@mrk_402_054
+MRK/MRK0020800
+Word on the street is that the[nl]dolphin show here is good.
+MRK/MRK0020810
+I'm interested to see it, too.[nl]Let's hurry!
+MRK/MRK0020820
+Dolphins are bigger[nl]than I was expecting.
+MRK/MRK0020830
+Did they splash you?
+I'm fine
+You good?
+@mrk_402_055
+MRK/MRK0020840
+Oh, that's too bad. I was looking[nl]forward to fussing over you when[nl]you got wet.
+MRK/MRK0020850
+Hehe. Of course I'm joking.[nl]I'm glad you didn't get wet.
+@mrk_402_056
+MRK/MRK0020860
+I'm perfectly fine,[nl]but thank you for your concern.
+@mrk_402_057
+MRK/MRK0020870
+There must be all kinds of interesting[nl]creatures there, I imagine.
+MRK/MRK0020880
+Let's hurry and see them!
+MRK/MRK0020890
+....So many animals at the bottom[nl]of the sea are shaped like that, huh.
+MRK/MRK0020900
+I am utterly speechless.
+Like aliens
+Like monsters
+@mrk_402_058
+MRK/MRK0020910
+Exactly like that.
+MRK/MRK0020920
+Though I guess no one knows what[nl]real aliens look like.
+@mrk_402_059
+MRK/MRK0020930
+Do creatures like that appear in that game[nl]you like playing?
+MRK/MRK0020940
+To think creatures like that exist in reality.[nl]One must never underestimate Mother Nature.
+@mrk_402_060
+MRK/MRK0020950
+I look forward to seeing[nl]what kinds of fish there are.
+MRK/MRK0020960
+Walking through that tube really[nl]felt like we were walking underwater. ♪
+MRK/MRK0020970
+Almost as though we[nl]had become fish ourselves.
+It was fantastical
+Glad you're with me
+@mrk_402_061
+@expose
+MRK/MRK0020980
+Yes! Exactly!
+MRK/MRK0020990
+That pufferfish's belly looked so[nl]squishy and soft, I wanted to touch it.
+@mrk_402_062
+MRK/MRK0021000
+----
+MRK/MRK0021010
+J-Just hearing those words....[nl]....makes me so happy....
+MRK/MRK0021020
+It really....feels like a dream....
+@mrk_402_063
+@フェードアウト
+@背景変更
+MRK/MRK0021030
+Oh? It looks like there's[nl]some kind of event starting over there.
+MRK/MRK0021040
+Let's see....
+MRK/MRK0021050
+Well now![nl]It's a "Couples Event"!
+MRK/MRK0021060
+Hey, hey, wanna join in?[nl]Think of the memories we'll make!
+Sounds good
+Embarrassing
+@mrk_402_064
+MRK/MRK0021070
+Really!?
+MRK/MRK0021080
+It seems as though we can win[nl]a special plush toy by hugging[nl]for 5 minutes in public.
+MRK/MRK0021090
+Alright, let's go!
+MRK/MRK0021100
+Huh? You hadn't heard[nl]about that part?
+MRK/MRK0021110
+Hehe. Too late now![nl]I won't let you go for 5 minutes.
+@mrk_402_065
+MRK/MRK0021120
+Huh? You don't like the idea[nl]of all those eyes on us?
+MRK/MRK0021130
+It'll be fiiine.[nl]In fact, I'd like to flaunt our relationship.
+MRK/MRK0021140
+Huh? Still no?
+MRK/MRK0021150
+I see.[nl]Then it can't be helped.
+@mrk_402_066
+MRK/MRK0021160
+Oh, it's this late already....
+MRK/MRK0021170
+Time flies when we're[nl]together, huh.
+MRK/MRK0021180
+....Um, how was it today?[nl]Did you have a good time?
+Yeah!
+Could be better
+@mrk_402_067
+MRK/MRK0021190
+Me too.
+MRK/MRK0021200
+Would you....go out[nl]with me again sometime?
+@mrk_402_068
+MRK/MRK0021210
+S-Sincerest apologies....[nl]I'll do everything I can to[nl]improve next time!
+MRK/MRK0021220
+Would you be up for[nl]a rematch date sometime?
+@mrk_402_069
+MRK/MRK0021230
+I'll keep my schedule[nl]open for you!
+@マジコイ終了処理
+@mrk_402_070
+MRK/MRK0021240
+Or rather, I'll make the time[nl]even if I already have plans!
+Thank you
+It's a date
+@mrk_402_071
+MRK/MRK0021250
+Of course!
+@mrk_402_139
+@mrk_402_072
+MRK/MRK0021260
+Um....can we hold hands[nl]until we get back?
+MRK/MRK0021270
+MRK/MRK0021280
+Your hand is....warm.
+common.asb
+mrk_402_073.asb

@@ -1,0 +1,544 @@
+__main
+@Lclearscreenall
+@mrk_402_073
+MRK/MRK0021290
+Where shall we go today?
+@mrk_402_074
+MRK/MRK0021300
+Okay, got it. ★
+@mrk_402_050
+@mrk_402_075
+MRK/MRK0021310
+Wow! The arcade!
+@expose
+MRK/MRK0021320
+Oh, but hang on.[nl]I'm afraid I'm not nearly good enough[nl]at these games to match you.
+MRK/MRK0021330
+You don't mind? Very well.[nl]Let us proceed.
+@フェードアウト
+@背景変更
+MRK/MRK0021340
+So *this* is[nl]the arcade, huh.
+MRK/MRK0021350
+Hehehe. Actually, I'd been[nl]meaning to come here at some point.
+How come?
+Never been?
+@mrk_402_076
+MRK/MRK0021360
+Everyone else seems to come[nl]here quite frequently, right?
+MRK/MRK0021370
+And I thought it looked[nl]rather fun....
+MRK/MRK0021380
+On the other hand,[nl]I'm unaccustomed to places[nl]that are this noisy.
+MRK/MRK0021390
+I guess I never found[nl]the right opportunity to stop by.
+@mrk_402_077
+MRK/MRK0021400
+Yeah, I usually try to avoid[nl]places that are this noisy....
+MRK/MRK0021410
+But since everyone else seems to[nl]come here quite frequently,[nl]I was a little curious.
+@mrk_402_078
+MRK/MRK0021420
+And of all the people[nl]I could come with, I came with you,[nl]which makes me very happy.
+Let's go have fun!
+Where to first?
+@mrk_402_079
+MRK/MRK0021430
+Yeah!
+@mrk_402_080
+MRK/MRK0021440
+You pick!
+@mrk_402_081
+MRK/MRK0021450
+I don't know how this one works,[nl]so please teach me all about it.
+MRK/MRK0021460
+Aaaagh~, I've been[nl]defeated once again~.
+MRK/MRK0021470
+I can't seem to win a round,[nl]but I am enjoying these games.
+MRK/MRK0021480
+Hm? Is that....
+MRK/MRK0021490
+Ah! Could that be a legendary[nl]"Photo Stickers" booth!?
+MRK/MRK0021500
+Um! Could we....![nl]Could we get our photos taken[nl]in that!?
+Sure
+Why so eager?
+@mrk_402_082
+MRK/MRK0021510
+For real!?!?
+@mrk_402_083
+MRK/MRK0021520
+I get a little bit jealous when[nl]everyone else is showing off[nl]their photo stickers!
+MRK/MRK0021530
+So please! Take some[nl]photos with me!
+MRK/MRK0021540
+!!![nl]Are you sure!?
+@mrk_402_084
+MRK/MRK0021550
+Thank you so much! Now I can[nl]show some photos off to everyone[nl]at last!
+@フェードアウト
+@背景変更
+MRK/MRK0021560
+Ehehe....♪[nl]They came out great! ♪
+MRK/MRK0021570
+That thing really does take great pictures.[nl]I must get lots of prints made!
+MRK/MRK0021580
+First, one for my diary.[nl]Another to slip under my pillow....
+MRK/MRK0021590
+One for my desk,[nl]and an enlarged print to hang[nl]in the living room....
+MRK/MRK0021600
+Ah, I'll need some formatted for[nl]putting on bookmarks. And then....
+Gimme a break
+Don't need many
+@mrk_402_085
+MRK/MRK0021610
+No, that won't do.
+@mrk_402_086
+MRK/MRK0021620
+No. I want to have you[nl]with me at all times.
+MRK/MRK0021630
+To that end, I'm truly delighted[nl]we could get this photo of us together.
+@mrk_402_087
+MRK/MRK0021640
+This photo from today[nl]will be my treasure.
+@mrk_402_066
+@mrk_402_087_1
+@mrk_402_088
+MRK/MRK0021650
+Hahh....hahh....
+Let's rest
+I'm thirsty
+@mrk_402_089
+MRK/MRK0021660
+Ah....[nl]Thank you for your consideration.
+@mrk_402_090
+MRK/MRK0021670
+Hehehe....[nl]How thoughtful of you.
+@mrk_402_091
+MRK/MRK0021680
+By "pool", you mean[nl]the school pool, right?
+MRK/MRK0021690
+I believe it's open to[nl]the public, free of charge.
+@expose2
+MRK/MRK0021700
+Either way, a swimming pool....[nl]Hehehe, you *are* bold.
+MRK/MRK0021710
+That distinctive[nl]swimming pool smell....[nl]Do you like it?
+I like it
+Not really
+@mrk_402_092
+MRK/MRK0021720
+Smelling that smell really[nl]makes it feel like summer, huh.
+MRK/MRK0021730
+Well, it's *not* summer[nl]right now....
+MRK/MRK0021740
+But, when I was a child,[nl]I wasn't allowed to swim and had to[nl]watch the other children swim....
+@mrk_402_093
+MRK/MRK0021750
+Honestly, me neither.
+MRK/MRK0021760
+I wasn't allowed to swim when I[nl]was a child and had to watch[nl]the other children swim....
+@mrk_402_094
+MRK/MRK0021770
+So when I smell that smell,[nl]it makes me a little wistful.
+MRK/MRK0021780
+But today I don't mind[nl]that smell at all.
+MRK/MRK0021790
+....Because I can swim with you.
+MRK/MRK0021800
+Okay, I'm going to go change.
+@mrk_402_095
+MRK/MRK0021810
+You're quite welcome to[nl]sneak a peek while I do so.
+What are you saying!?
+For realsies? ★
+@mrk_402_096
+MRK/MRK0021820
+I'm only joking, of course. ♪
+MRK/MRK0021830
+Right then, I'll be[nl]back in a moment.
+@mrk_402_097
+MRK/MRK0021840
+I-I was joking....
+MRK/MRK0021850
+We can do....[nl]....that sort of thing....[nl]....some other time, okay?
+@mrk_402_098
+MRK/MRK0021860
+Sorry to keep you waiting.
+MRK/MRK0021870
+How do you like my swimsuit?[nl]I picked out the best one I could find, but....
+It suits you!
+B-Bold choice....
+@mrk_402_099
+MRK/MRK0021880
+Really!?
+MRK/MRK0021890
+Specifically, what about it[nl]do you believe suits me?
+@タッチパート開始処理
+@mrk_402_100
+MRK/MRK0021900
+Hyaaah!
+MRK/MRK0021910
+H-Hang on a sec....[nl]T-That there's....a bit too stimulatin'....
+MRK/MRK0021920
+Kyuuuu....
+MRK/MRK0021930
+Hahh....[nl]I'm alright now.
+MRK/MRK0021940
+Ah, no. No need to apologize![nl]I was taken a bit aback, is all.
+@mrk_402_101
+MRK/MRK0021950
+Hehehe![nl]Some waistline, right?
+MRK/MRK0021960
+All my daily efforts to maintain[nl]my figure are paying off!
+@mrk_402_102
+MRK/MRK0021970
+That's not part of[nl]my swimsuit, though....
+MRK/MRK0021980
+Could it be you're[nl]feeling shy?
+MRK/MRK0021990
+You know you're welcome to[nl]examine thoroughly, right?
+@mrk_402_104
+MRK/MRK0022010
+....Kyah!
+MRK/MRK0022020
+Owwwww....
+MRK/MRK0022030
+My apologies.[nl]I got a bit carried away there.
+@mrk_402_104_1
+@フェードアウト
+@背景変更
+@mrk_402_105
+MRK/MRK0022040
+Hehehe. Your flushed face[nl]is rather lovely as well.
+MRK/MRK0022050
+Alright, I know we're not[nl]at the beach, but how about a game of tag?
+Hahaha, wait up
+Be careful!
+@mrk_402_106
+MRK/MRK0022060
+Ehehehe!
+@mrk_402_107
+MRK/MRK0022070
+Now catch me, if you caaan~!
+@mrk_402_108
+MRK/MRK0022080
+I'm fiiine!
+@mrk_402_109
+MRK/MRK0022090
+Oh, but....[nl]If you really insist it's okay....
+@mrk_402_110
+MRK/MRK0022100
+Oh, that's right.
+@mrk_402_111
+MRK/MRK0022110
+I have a favor to ask of you.[nl]Do you mind hearing me out?
+What is it?
+Nope.
+@mrk_402_112
+MRK/MRK0022120
+Can you rub sun oil on my back?[nl]I can't reach it myself.
+....We're indoors.
+@mrk_402_113
+MRK/MRK0022130
+You could at least hear me out....[nl]How unkind of you....
+@mrk_402_066
+@mrk_402_114
+@expose2
+MRK/MRK0022140
+You noticed that, then....
+MRK/MRK0022150
+It can't be helped, then.[nl]We'll wait until we're next[nl]at a beach together.
+@mrk_402_115
+MRK/MRK0022160
+Waaaagh!?
+MRK/MRK0022170
+N-Now that you've said yes,[nl]I'm feeling rather nervous....
+MRK/MRK0022180
+Well then....um....[nl]P-Please....do so....
+@mrk_402_116
+MRK/MRK0022190
+*You* suggesting we go shopping....[nl]That seems unusual.
+MRK/MRK0022200
+It's perfect, actually.[nl]I had a few things I was[nl]thinking about buying.
+MRK/MRK0022210
+Crowded here, isn't it.
+I'm prepared
+That bother you?
+@mrk_402_117
+MRK/MRK0022220
+Aren't you dependable.
+MRK/MRK0022230
+But I won't be outdone here.
+MRK/MRK0022240
+I intend to thoroughly enjoy[nl]this shopping trip, while we're here....
+@mrk_402_118
+MRK/MRK0022250
+Well, maybe a little.
+MRK/MRK0022260
+But that's okay.[nl]It's well within the range[nl]I expected....
+MRK/MRK0022270
+Above all, I've got[nl]you with me today.
+MRK/MRK0022280
+Besides, as long as we're here,[nl]I might as well thoroughly enjoy[nl]this shopping trip.
+@mrk_402_119
+MRK/MRK0022290
+In fact, I ask that you please[nl]not tucker out before I do. ♪
+MRK/MRK0022300
+Wow! What lovely clothing[nl]options they have here!
+MRK/MRK0022310
+Oh, and this blouse feels[nl]lovely on the skin~!
+MRK/MRK0022320
+There's so many cute bags too![nl]Can I go look at them?
+MRK/MRK0022330
+Hey, hey, look![nl]Look at that trellis!
+MRK/MRK0022340
+I would one day like to live[nl]in a garden with decorations so lovely.
+MRK/MRK0022350
+Oh, I haven't seen this[nl]hair ornament before! What do you think?[nl]Would it look good on me?
+MRK/MRK0022360
+This is a very specialized[nl]tea shop, huh.
+MRK/MRK0022370
+All those lovely scents....[nl]I'm quite torn on which is best.[nl]Which do you prefer?
+MRK/MRK0022380
+Oh my, what a lovely photo frame!
+MRK/MRK0022390
+One day, I'd love to have a photo[nl]of us and our children in this frame.
+MRK/MRK0022400
+....But we don't[nl]have any yet.
+MRK/MRK0022410
+These shoes have such a nice design....[nl]Wait here just a moment!
+MRK/MRK0022420
+Hey, hey, over here![nl]Come look at this!
+Taking forever!
+....Hmmm.
+@mrk_402_120
+MRK/MRK0022430
+Ah....
+MRK/MRK0022440
+My apologies,[nl]I got a little carried away....
+MRK/MRK0022450
+Once I've paid for this,[nl]we can take a break.
+@mrk_402_121
+MRK/MRK0022460
+Oh, by any chance,[nl]are you bored?
+MRK/MRK0022470
+....Oh dear. To think I could[nl]bore you. That really gets me down....
+S-Sorry!
+Didn't mean to....!
+@mrk_402_122
+MRK/MRK0022480
+Hehe, just kidding.
+MRK/MRK0022490
+I'm sorry. I got a little carried away.[nl]Once I've paid for this,[nl]we can take a break.
+@mrk_402_123
+MRK/MRK0022500
+Terribly sorry again about earlier.[nl]I just got carried away....
+No, I'm sorry
+No worries
+@mrk_402_124
+MRK/MRK0022510
+....You're too kind.
+@mrk_402_125
+MRK/MRK0022520
+....I'll be careful not[nl]to do that next time.
+@mrk_402_126
+MRK/MRK0022530
+Ahh, this coffee[nl]is amazing....
+MRK/MRK0022540
+It's got so much depth to its flavor....[nl]and it pairs perfectly with this cake.
+MRK/MRK0022550
+How do you like your cake?
+Want some?
+It's good!
+@mrk_402_127
+MRK/MRK0022560
+Let's take a short rest[nl]at the cafe nearby.
+MRK/MRK0022570
+Ahhhh~♪[nl]This cake and coffee go so well together.
+MRK/MRK0022580
+How are you liking your cake?
+@mrk_402_128
+MRK/MRK0022590
+Ah!
+MRK/MRK0022600
+Yes! Thank you!
+@mrk_402_129
+MRK/MRK0022610
+I'm glad to hear it.[nl]In that case....
+@mrk_402_130
+MRK/MRK0022620
+Ahhh....★
+.........
+@mrk_402_131
+MRK/MRK0022630
+Come on, you mustn't keep[nl]a young lady waiting.
+MRK/MRK0022640
+....Ahhh....★
+@mrk_402_132
+MRK/MRK0022650
+Nom ♪
+MRK/MRK0022660
+Mmmmmmm![nl]That's delicious!
+You like cake?
+Want some more?
+@mrk_402_133
+MRK/MRK0022670
+Sure, I like it....
+MRK/MRK0022680
+But when I say it's delicious,[nl]I'm not talking about the cake....
+MRK/MRK0022690
+I'm talking about the situation,[nl]with the "Ahhh ★" and all that,[nl]that's what's delicious!
+@mrk_402_134
+MRK/MRK0022700
+No, my heart is--[nl]I mean, my stomach is already full[nl]as it is.
+@mrk_402_135
+MRK/MRK0022710
+Alright, you can have[nl]some of mine next.
+MRK/MRK0022720
+Here, say "ahh"! ★
+I-I'm okay....
+@mrk_402_136
+MRK/MRK0022730
+No need to be so polite.[nl]I'll have some of yours, too.
+MRK/MRK0022740
+So, here. Say "ahh"! ★
+Embarrassed!
+@mrk_402_137
+MRK/MRK0022750
+Well? How is it?
+MRK/MRK0022760
+Hehehe....★[nl]Guess that was....an indirect kiss.
+@mrk_402_138
+MRK/MRK0022770
+Is that right....
+MRK/MRK0022780
+When on earth will you get[nl]over such things....
+MRK/MRK0022790
+Oh, I am sorry![nl]To think I could be so reckless as to....
+MRK/MRK0022800
+I suppose it isn't really right[nl]to force things either way....
+@mrk_402_139
+@ＢＧＭ停止
+MRK/MRK0022810
+----
+MRK/MRK0022820
+Um....Would it be alright[nl]if I ask you a question?
+MRK/MRK0022830
+When we go on dates together,[nl]do you genuinely find it enjoyable?
+MRK/MRK0022840
+Do you, maybe, view me[nl]as a burden?
+Why do you ask now?
+Not at all
+@mrk_402_140
+MRK/MRK0022850
+....Right.[nl]Of course.
+@ＢＧＭ再生
+MRK/MRK0022860
+I-I'm sorry.[nl]That was a strange thing to ask.
+MRK/MRK0022870
+Well then,[nl]I'll see you at school.
+MRK/MRK0022880
+Have a good night.
+@マジコイ終了処理
+@mrk_402_141
+MRK/MRK0022890
+I'm just anxious.
+MRK/MRK0022900
+I've been working very hard,[nl]polishing and perfecting myself....
+MRK/MRK0022910
+If I became a wonderful woman,[nl]surely I'd catch your attention.
+MRK/MRK0022920
+Believing that, I persevered,[nl]and I've finally caught your eye....
+MRK/MRK0022930
+And ever since then,[nl]this has been how I felt.
+MRK/MRK0022940
+I don't ask for anything in return.[nl]If I just keep looking forward and pushing ahead,[nl]the results will surely follow.
+MRK/MRK0022950
+I've made it this far on that belief,[nl]but lately I've been feeling terribly anxious....
+MRK/MRK0022960
+The more dates we go on,[nl]the more that restlessness spreads[nl]uncontrollably....
+MRK/MRK0022970
+....I'm sorry.[nl]I'm not explaining this very well.[nl]It's probably illogical.
+MRK/MRK0022980
+Anyway, the more time we spend together,[nl]the more terrified I get that I might lose you....[nl]Terrified....terrified....
+MRK/MRK0022990
+It was never like this[nl]when I was first chasing you....
+MRK/MRK0023000
+Now that we're actually lovers,[nl]this should be the situation I longed for,[nl]so why....!?
+MRK/MRK0023010
+MRK/MRK0023020
+I'm sorry.[nl]Hearing me say things like this[nl]must be terribly confusing for you.
+MRK/MRK0023030
+To trouble someone[nl]as precious as you....
+MRK/MRK0023040
+I couldn't even bring myself[nl]to believe that feeling completely....
+MRK/MRK0023050
+I never imagined I could be[nl]such a dreadful woman....[nl]I'm shocked at myself.
+#fs{18}How can I make you believe me?#fs{}
+You're not dreadful
+@mrk_402_142
+MRK/MRK0023060
+Hehe....[nl]You really are kind.
+@mrk_402_143
+MRK/MRK0023070
+I'm sorry. I seem to be[nl]a little out of sorts since earlier.
+MRK/MRK0023080
+To say things that even cast[nl]a shred of doubt on your feelings for me....[nl]It's not like me, is it?
+MRK/MRK0023090
+Starting tomorrow,[nl]I'll be back to normal Marika Tachibana.
+MRK/MRK0023100
+So today....ends here.
+MRK/MRK0023110
+@mrk_402_144
+MRK/MRK0023120
+When I mentioned our indirect kiss,[nl]you didn't react at all.
+MRK/MRK0023130
+So I....couldn't help[nl]but wonder.
+MRK/MRK0023140
+Wonder that perhaps,[nl]you don't really enjoy kissing me....
+MRK/MRK0023150
+What is it?[nl]Please answer honestly.
+MRK/MRK0023160
+Do you....dislike kissing me?
+Of course not
+Gimme a sec
+@mrk_402_145
+MRK/MRK0023170
+O-Of course. It is rather silly of me[nl]to expect an answer to to something like this[nl]so suddenly.
+@mrk_402_146
+MRK/MRK0023180
+Huh!?
+@タッチパート開始処理
+@mrk_402_147
+@ホワイトアウト
+MRK/MRK0023190
+!!
+.........
+MRK/MRK0023200
+MRK/MRK0023210
+I-I....
+MRK/MRK0023220
+MRK/MRK0023230
+I'm so happy....!
+MRK/MRK0023240
+Finally....it happened....!
+MRK/MRK0023250
+I'm so happy....[nl]I'm really, really happy....
+MRK/MRK0023260
+*sniff*....[nl]*sob*....
+MRK/MRK0023270
+Thank you....[nl]I'll never....ever let you go again....
+MRK/MRK0023280
+Forever and ever....
+MRK/MRK0023290
+Forever....together!
+@mrk_402_901
+Aquarium
+Arcade
+@mrk_402_902
+Pool
+@mrk_402_903
+Shopping
+mrk_402_001.asb
+common.asb

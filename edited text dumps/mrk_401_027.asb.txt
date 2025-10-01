@@ -1,0 +1,157 @@
+__main
+@Lclearscreenall
+@mrk_401_027
+MRK/MRK0020100
+Huh? You want to....[nl]hang out after school?
+@expose
+MRK/MRK0020110
+I never thought you'd extend such an invitation![nl]....I'm truly touched!
+MRK/MRK0020120
+Then do please come[nl]to my house after school.
+@フェードアウト
+@背景変更
+MRK/MRK0020130
+Welcome to my room.[nl]Now then, what shall we do?
+MRK/MRK0020140
+Oh. Why have you taken out[nl]your notebook and textbook?
+MRK/MRK0020150
+Ohhhh, a study session?[nl]I hadn't expected that.
+MRK/MRK0020160
+Admittedly, it is about that time[nl]where we need to start prepping for that test....
+MRK/MRK0020170
+Oh, but a study session alone together[nl]in my room is still pretty good, isn't it?
+MRK/MRK0020180
+Very well.
+MRK/MRK0020190
+Frankly, I had no intention of[nl]prepping for the test....
+MRK/MRK0020200
+But if you'll be my tutor[nl]for the whole day....
+That's the plan
+Let's crack on!
+@mrk_401_028
+MRK/MRK0020210
+That's settled, then.[nl]Alright, I'll study my hardest!
+@mrk_401_029
+MRK/MRK0020220
+Hehehe.... It's just like we're[nl]playing house, I think I'll enjoy this.
+@mrk_401_030
+@時間経過演出
+MRK/MRK0020230
+Phew. I'm a bit tired.
+MRK/MRK0020240
+I need to rest, so can I[nl]ask you the questions for a bit, teacher?
+Bring it!
+I want to rest
+@mrk_401_031
+MRK/MRK0020250
+Thattaboy, teacher![nl]You're so dependable.
+@mrk_401_032
+MRK/MRK0020260
+Not a chance! ♪ This is a study[nl]session, after all. It would be unfair[nl]if I were the only one using my brain.
+@mrk_401_033
+MRK/MRK0020270
+Let's seeee,[nl]here's question 1.
+MRK/MRK0020280
+"What is it called when a coastline is[nl]formed from several complex formations[nl]that were once river valleys?"
+Ria Coast
+Gomez Coast
+Raised Coast
+@mrk_401_034
+MRK/MRK0020290
+Ding ding, that is correct![nl]Splendid work!
+@mrk_401_035
+MRK/MRK0020300
+Hmmm, you were pretty close.[nl]It's called a "ria coast", it seems.
+@mrk_401_036
+MRK/MRK0020310
+Hmmm, that's incorrect.[nl]It's called a "ria coast", it seems?
+@mrk_401_037
+MRK/MRK0020320
+Such a difficult question,[nl]even the teacher got it wrong....
+@mrk_401_038
+MRK/MRK0020330
+Right then, next we've got[nl]a history question.
+MRK/MRK0020340
+"What era did Murasaki Shikibu,[nl]author of 'The Tale of Genji',[nl]live in?"
+Heian era
+Muromachi era
+Jurassic era
+@mrk_401_039
+MRK/MRK0020350
+Ding ding! Another correct answer![nl]Well done!
+MRK/MRK0020360
+For getting both questions correct,[nl]you shall receive a splendid reward.
+MRK/MRK0020370
+Teacher.[nl]Between the big prize and the small prize,[nl]which one would you want?
+Big prize
+Small prize
+@mrk_401_040
+MRK/MRK0020380
+Very well then.[nl]Big prize it is.
+MRK/MRK0020390
+And the big prize is....
+@expose2
+MRK/MRK0020400
+It's me! Come on now, take me!
+MRK/MRK0020410
+Kyaah!?
+MRK/MRK0020420
+Why are you dodging me!?
+@mrk_401_041
+MRK/MRK0020430
+Very well then.[nl]Small prize it is.
+MRK/MRK0020440
+Now then, if you'd please[nl]close your eyes for a moment....
+MRK/MRK0020450
+....*smooch*
+MRK/MRK0020460
+Hehehe. The small prize[nl]was a kiss on the cheek.
+MRK/MRK0020470
+....How was that? I can give you the[nl]middle prize too, if you want....
+MRK/MRK0020480
+Actually, I'll offer it now.[nl]Now, come closer!
+.........
+MRK/MRK0020490
+What's the matter?
+@mrk_401_042
+MRK/MRK0020500
+There's no need to be shy.[nl]It's just the two of us here.
+MRK/MRK0020510
+Now, come closer....★
+MRK/MRK0020520
+Good grief....aren't you slow[nl]on the uptake today, teacher.
+MRK/MRK0020530
+It can't be helped. No reason to force it.[nl]We'll leave it at that for today.
+MRK/MRK0020540
+We'll pick this up another time....[nl]Right?
+@汎用フラグ・変数をすべてクリア
+@マジコイ終了処理
+@mrk_401_043
+@mrk_401_044
+MRK/MRK0020550
+Too bad. The correct answer[nl]was the Heian Era.
+MRK/MRK0020560
+Also, that was a question for[nl]middle schoolers? ....I am concerned about your[nl]academic progress, teacher.
+MRK/MRK0020570
+Oh, but....
+MRK/MRK0020580
+If the teacher and I were[nl]both to fail, wouldn't that[nl]make this better?
+@mrk_401_045
+MRK/MRK0020590
+You have a fantastic sense of humor....[nl]As expected. Love that composure, teacher.
+MRK/MRK0020600
+Oh, just so you know,[nl]the correct answer was the Heian Era.
+@mrk_401_046
+MRK/MRK0020610
+Huh? Time to get back[nl]to studying, you say?
+MRK/MRK0020620
+Hahh.... It's math next, isn't it.[nl]I tend to get sleepy whenever I see numbers....
+MRK/MRK0020630
+But I'll do my best not to doze off.
+@フェードアウト
+MRK/MRK0020640
+Zzz.... Zzz....
+MRK/MRK0020650
+Mnghngh....[nl]I love....you....
+@mrk_401_905
+common.asb

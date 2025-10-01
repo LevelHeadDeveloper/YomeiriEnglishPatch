@@ -149,9 +149,9 @@ What do you say?
 I'm sorry
 Let's talk
 I was worried
-Are you angry?
-Let's head back
-Lighten up!
+You angry?
+Let's go back
+Lighten up
 R_SPIRIT18
 ctg_005_01
 I'd be marooned with...
@@ -247,7 +247,7 @@ mrk_004_01
 Are you hurt?
 You+Animals
 Chitoge
-10 years ago....
+10 years[nl]ago....
 You okay?
 R_SPIRIT29
 mrk_004_02
