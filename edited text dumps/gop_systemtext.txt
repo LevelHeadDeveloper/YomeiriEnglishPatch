@@ -147,7 +147,7 @@ Return to title screen without saving settings?
 R_SystemTextMajikoiReturnTitle
 Return to title screen?
 R_SystemTextMajikoiGoConfirm
-Begin with this scenario?[nl]NOTE: Ruri and Yumekoi scenes are[nl]not yet translated
+Begin with this scenario?[nl]NOTE: Yumekoi (DLC) scenes will still[nl]be in Japanese!
 R_SystemTextMajikoiCtgOpen
 Chitoge unlocked.
 R_SystemTextMajikoiKskOpen

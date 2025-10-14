@@ -1,0 +1,167 @@
+__main
+@Lclearscreenall
+@rur_401
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+RUR/RUR0012760
+Got a favor to ask.[nl]Would you be willing to have a study session[nl]with me for the rest of lunch?
+RUR/RUR0012770
+I realize you may be taken aback[nl]by the suddenness of my question.
+RUR/RUR0012780
+I promised to tutor Kosaki,[nl]but I have no idea how to go about it.
+RUR/RUR0012790
+....So how about it?
+Sounds good.
+I'd like to enjoy my lunch
+@rur_401_002
+RUR/RUR0012800
+That's a relief to hear.
+RUR/RUR0012810
+Once you've finished eating,[nl]come find me.
+@フェードアウト
+@背景変更
+RUR/RUR0012820
+Right then,[nl]let's jump right into it.
+RUR/RUR0012830
+You don't need to review or[nl]go over the basics at this stage, right?
+RUR/RUR0012840
+I'll give you a set of questions,[nl]and you'll solve them practically.
+RUR/RUR0012850
+Alright, here goes.[nl]Question one....
+RUR/RUR0012860
+How much heat is required to raise[nl]the temperature of 1 gram of water by 1°C?
+1 calorie
+10 calories
+100 calories
+@rur_401_003
+RUR/RUR0012870
+In that case, we can do this after school.[nl]Don't make any other plans.
+@rur_401_027
+@rur_401_004
+RUR/RUR0012880
+Correct.
+RUR/RUR0012890
+Right then, next up is an English question.
+@rur_401_005
+RUR/RUR0012900
+Incorrect. Perhaps the question[nl]was too difficult.
+RUR/RUR0012910
+Let's try a question from a different subject.
+@rur_401_006
+RUR/RUR0012920
+Here's an English question:
+@rur_401_007
+RUR/RUR0012930
+Incorrect. You don't need that much heat.
+RUR/RUR0012940
+@rur_401_008
+RUR/RUR0012950
+Translate the following phrase into Japanese:[nl]"She is as tall as he is."[nl]#fs{12}Translator hint: "takai" means "tall" in Japanese#fs{}
+#fs{18}Kanojo wa kare to onaji kurai sei ga takai#fs{}
+#fs{18}Kanojo no kare wa Tooru to iu na da#fs{}
+#fs{18}Ashita, kanojo ga kare no mae wo tooru#fs{}
+@rur_401_009
+RUR/RUR0012960
+Yep, that's right.[nl]Well done.
+@rur_401_010
+@expose2
+RUR/RUR0012970
+Bzzt, incorrect.[nl]What kind of translation even is that....
+RUR/RUR0012980
+Perhaps we should refrain[nl]from translating into Japanese....
+@rur_401_011
+@expose
+RUR/RUR0012990
+Right, final question. Japanese language.[nl]What does "bakyaku wo arawasu" mean?[nl]#fs{12}Translator hint: "arawasu" can mean "to represent" or "to reveal"#fs{}
+#fs{18}To have one's true colors shown#fs{}
+#fs{18}To escape at a high speed#fs{}
+#fs{18}To make a final sprint#fs{}
+@rur_401_012
+RUR/RUR0013000
+Correct. I must say,[nl]you are very good at Japanese, huh.
+@rur_401_013
+RUR/RUR0013010
+Incorrect.[nl]....Are you, maybe, not very good[nl]at Japanese?
+@rur_401_014
+RUR/RUR0013020
+Hmmm, incorrect.[nl]I can sorta see it though.
+@rur_401_015
+RUR/RUR0013030
+That should be about everything.
+RUR/RUR0013040
+Thank you, you've been helpful.
+@rur_401_016
+RUR/RUR0013050
+I'd like to thank you for your help.[nl]You're free after school, right?
+How do you know my schedule
+No need to thank me
+@rur_401_017
+RUR/RUR0013060
+Your academic abilities have declined[nl]a bit, haven't they?
+RUR/RUR0013070
+If you'd like, I can[nl]tutor you again sometime.
+RUR/RUR0013080
+See ya.[nl]Thanks again for your help.
+@マジコイ終了処理
+@rur_401_018
+RUR/RUR0013090
+Really?
+RUR/RUR0013100
+I guess another girl would have[nl]been able to pull that off.
+RUR/RUR0013110
+In that case, let's do this again[nl]another time.
+RUR/RUR0013120
+See you around.
+@rur_401_019
+RUR/RUR0013130
+You're very predictable.
+RUR/RUR0013140
+Anyway, I'd like to walk[nl]home with you today.
+RUR/RUR0013150
+As thanks for helping me study,[nl]I'll treat you to something.
+RUR/RUR0013160
+Any preferences?
+Vending machine coffee
+Fast food hamburger
+Dinner at a posh restaurant
+@rur_401_020
+RUR/RUR0013170
+Oh. You don't need to[nl]hold back so much.
+RUR/RUR0013180
+Well, that's fine.[nl]Let's go.
+@rur_401_021
+RUR/RUR0013190
+That's reasonable.[nl]Let's do that.
+@rur_401_022
+.........
+RUR/RUR0013200
+Keep your jokes to yourself.
+RUR/RUR0013210
+How about that burger place[nl]over there?
+@rur_401_023
+RUR/RUR0013220
+Teaching people isn't easy, huh.
+RUR/RUR0013230
+I don't get what it is about people[nl]that is so hard to grasp for me....
+RUR/RUR0013240
+How on Earth should I go about[nl]teaching Kosaki?
+Start with the basics
+Start with the attitude
+@rur_401_024
+RUR/RUR0013250
+The basics, huh.[nl]I don't think that's something[nl]really learn.
+@rur_401_025
+RUR/RUR0013260
+If academic ability improved[nl]with attitude, everyone would be an elite.
+RUR/RUR0013270
+You've really got that sports-club vibe going, huh.
+@rur_401_026
+RUR/RUR0013280
+Oh, I know.[nl]Why don't I have *you* teach Kosaki?
+RUR/RUR0013290
+That way there'll at least[nl]be a nice atmosphere.
+RUR/RUR0013300
+Hehe, that's a brilliant idea.[nl]I don't need to tutor her after all.
+common.asb
+rur_401_027.asb

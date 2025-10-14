@@ -1,0 +1,133 @@
+__main
+@Lclearscreenall
+@rur_403
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+@背景変更
+MJK1_RUR/RUR0015420
+Oh, you're back, Darling?[nl]You're home early today.
+MJK1_RUR/RUR0015430
+I was in the living room folding laundry,[nl]so I didn't notice.
+MJK1_RUR/RUR0015440
+Don't just stand there,[nl]get the rest of the way in the door.
+MJK1_RUR/RUR0015450
+You're standing in the doorway,[nl]and there's cold air blowing in.
+MJK1_RUR/RUR0015460
+Hm?[nl]You look like you have something to say?
+No "welcome home"?
+No welcome kiss?
+Nothing
+@rur_403_109
+MJK1_RUR/RUR0015470
+I don't need to welcome you home.[nl]You have a key to the door.
+MJK1_RUR/RUR0015480
+I do believe you can get inside[nl]even if I don't welcome you in. Right?
+@rur_403_110
+MJK1_RUR/RUR0015490
+Listen. I'm a new wife, and I'm[nl]completely swamped with just the normal housework.
+MJK1_RUR/RUR0015500
+Therefore, I can't spare any time[nl]for anything extra. Do you understand?
+MJK1_RUR/RUR0015510
+Now I need you to go take your bath.[nl]It would be a waste of gas to reheat the water.
+@rur_403_111
+MJK1_RUR/RUR0015520
+....Why would I need to do that?
+MJK1_RUR/RUR0015530
+I don't believe there's a casual relationship[nl]between you coming home and us kissing.
+MJK1_RUR/RUR0015540
+Is that all?[nl]I'm rather busy, you know.
+@rur_403_112
+@背景変更
+MJK1_RUR/RUR0015550
+I like that you don't waste your words.[nl]Time is finite and ever-decreasing.
+MJK1_RUR/RUR0015560
+For us ordinary people, just doing what[nl]we need to do to get by takes all the time we have.
+MJK1_RUR/RUR0015570
+Alright, go take your bath.[nl]It would be a waste of gas to reheat the water.
+@rur_403_113
+MJK1_RUR/RUR0015580
+Once you're done with your bath, have dinner.[nl]It's gone cold, so zap it in the microwave.
+MJK1_RUR/RUR0015590
+Nothing's getting any cleaner, so please[nl]finish up quickly. Any questions?
+I'd prefer freshly made food
+Try acting more like a newlywed
+Let's have a bath together!
+@rur_403_114
+MJK1_RUR/RUR0015600
+Can't do that. I have work too,[nl]and my schedule is different from yours.
+MJK1_RUR/RUR0015610
+I can't be waiting around to make dinner[nl]on your schedule. You should know that.
+@rur_403_115
+MJK1_RUR/RUR0015620
+Why? Or rather, what do you mean[nl]"act like a newlywed"? I think that's[nl]a tricky thing to define.
+MJK1_RUR/RUR0015630
+I can't change how I've always been,[nl]even before we got married,[nl]and you shouldn't tell me to.
+@rur_403_116
+MJK1_RUR/RUR0015640
+Huh? Both of us?[nl]Why?
+MJK1_RUR/RUR0015650
+Our tub won't even fit both of us[nl]at the same time, so that's physically impossible.
+MJK1_RUR/RUR0015660
+Besides, I took my bath already.
+@rur_403_117
+MJK1_RUR/RUR0015670
+I've been picking up on this for a while,[nl]but aren't you being a bit idealistic?
+MJK1_RUR/RUR0015680
+I don't know what kind of fantasies you had[nl]about being married, but we're living in reality.
+MJK1_RUR/RUR0015690
+You need to face reality squarely.
+MJK1_RUR/RUR0015700
+Maybe if you made a bit more money,[nl]things could be different.
+MJK1_RUR/RUR0015710
+I mean, we've been just scraping by[nl]ever since we got married, right?
+MJK1_RUR/RUR0015720
+We got the new flat, but with the mortgage payments,[nl]we have no money left over every month.
+MJK1_RUR/RUR0015730
+Once we have children, our living expenses[nl]will only increase, and we'll have school fees too.
+MJK1_RUR/RUR0015740
+We really must get into the habit[nl]of living frugally from now on.
+I'm sorry
+Hardly newlyweds then
+@rur_403_118
+MJK1_RUR/RUR0015750
+You don't need to[nl]apologize, really.
+MJK1_RUR/RUR0015760
+But I'm glad you understand.[nl]Let's continue living sensibly from now on.
+@rur_403_119
+MJK1_RUR/RUR0015770
+I don't know what you expected[nl]from newlywed wives.
+MJK1_RUR/RUR0015780
+This *is* one form it can take.
+@rur_403_120
+MJK1_RUR/RUR0015790
+Right then, you go take your bath.
+@フェードアウト
+.........
+MJK1_RUR/RUR0015800
+Maybe I was a little harsh....
+MJK1_RUR/RUR0015810
+Oh....
+MJK1_RUR/RUR0015820
+Darling, you got a second....?
+MJK1_RUR/RUR0015830
+You didn't close the[nl]fridge door properly....
+@ＢＧＭ停止
+@ホワイトアウト
+@ＢＧＭ再生
+MJK1_RUR/RUR0015840
+Good morning. You were tossing and turning[nl]quite a bit. Were you having a bad dream?
+MJK1_RUR/RUR0015850
+You looked as heartbroken[nl]as a cow being sold at market.
+My dream was reality....
+Sorry about the fridge door!
+@rur_403_121
+MJK1_RUR/RUR0015860
+W-What do you mean?[nl]I don't understand....
+@マジコイ終了処理
+@rur_403_122
+MJK1_RUR/RUR0015870
+Huh? What are you talking about?
+MJK1_RUR/RUR0015880
+Lunch break's almost over.[nl]Quit dawdling and pull it together.
+common.asb

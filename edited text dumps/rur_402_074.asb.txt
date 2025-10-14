@@ -1,0 +1,145 @@
+__main
+@Lclearscreenall
+@rur_402_074
+RUR/RUR0014360
+....Where were we[nl]planning to go, again?
+Pool
+Arcade
+@rur_402_075
+RUR/RUR0014370
+That's right.[nl]Shall we get going, then?
+@rur_402_048_1
+@rur_402_076
+RUR/RUR0014380
+That's right. I haven't been to[nl]those sorts of places much, though.
+@フェードアウト
+@背景変更
+RUR/RUR0014390
+This is the arcade?[nl]It's rather noisy in here.
+RUR/RUR0014400
+This must be....a fighting game?[nl]I've never played one of these before....
+RUR/RUR0014410
+But as long as we're here,[nl]we might as well give it a play.
+@時間経過演出
+RUR/RUR0014420
+Okay, that's 9 wins now.[nl]This is actually kind of fun.
+@expose
+RUR/RUR0014430
+How about we make this the final round?[nl]Do you think you'll be able to beat me?
+Chain combos
+One-shot special
+Give up
+@rur_402_077
+RUR/RUR0014440
+Oh. I wasn't familiar with all the mechanics,[nl]but if it's possible to link complex attacks....
+RUR/RUR0014450
+No good, I lose anyway.[nl]Nine wins to one loss.
+RUR/RUR0014460
+Quite clever of you to change up[nl]your attack patterns, I must say.
+@rur_402_078
+RUR/RUR0014470
+How naive.[nl]I knew you'd try that.
+RUR/RUR0014480
+Special attacks leave you wide open.[nl]So if I strike at that opening....
+RUR/RUR0014490
+Okay, I win.[nl]That's a clear 10-0.
+@rur_402_079
+RUR/RUR0014500
+Oh, you're done already?
+RUR/RUR0014510
+But that's just as well.[nl]Saves us buying an unnecessary round.
+RUR/RUR0014520
+Your attacks are too predictable.[nl]I was three moves ahead of you.
+RUR/RUR0014530
+Okay, I believe my nine consecutive wins[nl]settle this matter.
+@rur_402_080
+RUR/RUR0014540
+Can I give that[nl]crane game a shot?
+RUR/RUR0014550
+Something about that stuffed bear[nl]is really drawing me in.
+RUR/RUR0014560
+Ghh....[nl]I've run out of 100-yen coins....
+RUR/RUR0014570
+It looks easy, but it's not.[nl]I can't feel any power in the claw.
+RUR/RUR0014580
+Despite looking so innocent,[nl]that bear is a shrewd businessman.
+RUR/RUR0014590
+Huh? You'll give it a try?
+RUR/RUR0014600
+Where are you aiming the claw?
+The same spot
+The center
+The opposite side
+@rur_402_081
+RUR/RUR0014610
+I tried grabbing on there.[nl]It didn't work. You can try it, though.
+RUR/RUR0014620
+See? They deliberately placed it[nl]so you can't easily get it.
+RUR/RUR0014630
+Guess the bear's impossible after all.[nl]That's kind of a shame.
+@rur_402_082
+RUR/RUR0014640
+A frontal assault....[nl]I wonder if it will work....
+RUR/RUR0014650
+Too bad....[nl]It didn't work.
+RUR/RUR0014660
+It really isn't made to be easy to get.
+RUR/RUR0014670
+Considering what the plushie must have cost,[nl]I guess I can understand that....
+RUR/RUR0014680
+That bear was rather cute, though....
+@rur_402_083
+RUR/RUR0014690
+That spot looks very tricky.[nl]But, by all means.
+RUR/RUR0014700
+Ohhh....you got it on the first try?[nl]Are you good at this sort of thing?
+RUR/RUR0014710
+Huh?[nl]You're giving me the prize?
+RUR/RUR0014720
+....Thank you.[nl]It is kinda cute.
+@rur_402_084
+RUR/RUR0014730
+Oh, it's this late already.[nl]We should get going soon.
+RUR/RUR0014740
+I had a pretty good time today.[nl]See you again later.
+@マジコイ終了処理
+@rur_402_085
+RUR/RUR0014750
+Oh, it's this late already.[nl]Shall we get going?
+Sure
+Let's rest a bit
+@rur_402_086
+RUR/RUR0014760
+It's been ages since I played until I dropped.[nl]Thanks for today, we should do this again.
+RUR/RUR0014770
+Alright, see ya.
+@rur_402_087
+RUR/RUR0014780
+Yeah. No reason to rush home,[nl]and I could use a rest.
+RUR/RUR0014790
+There's a park close by,[nl]we can stop there.
+RUR/RUR0014800
+Oh, a free bench.
+RUR/RUR0014810
+And over there, an extremely[nl]convenient crepe stand.
+RUR/RUR0014820
+Long as we're here,[nl]let's get some crepes.
+RUR/RUR0014830
+....It's kinda like we're[nl]a couple, which is a bit embarrassing.
+@時間経過演出
+RUR/RUR0014840
+That was delicious.[nl]Maybe doing things like this now and then[nl]is pretty okay.
+RUR/RUR0014850
+Alright then. Should we head back?
+Walk her home
+Don't walk her home
+@rur_402_088
+RUR/RUR0014860
+It's fine. I'm not a child,[nl]I can walk home myself.
+RUR/RUR0014870
+Thanks for inviting me along today.[nl]Alright, see you at school tomorrow.
+@rur_402_089
+RUR/RUR0014880
+Alright, I'm heading home.[nl]I had a lovely time today. See ya later.
+rur_402_001.asb
+common.asb

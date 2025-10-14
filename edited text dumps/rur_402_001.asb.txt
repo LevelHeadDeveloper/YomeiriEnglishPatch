@@ -1,0 +1,178 @@
+__main
+@Lclearscreenall
+@rur_402
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+RUR/RUR0013760
+Sorry about the wait.[nl]Were you waiting long?
+RUR/RUR0013770
+I never would've thought it would be[nl]just the two of us....
+RUR/RUR0013780
+Shame everyone else had stuff come up....
+RUR/RUR0013790
+Kosaki, your timing is hopelessly bad....
+RUR/RUR0013800
+No, I didn't say anything....
+RUR/RUR0013810
+I believe today's plans were....
+@rur_402_074
+@rur_402_048
+RUR/RUR0013820
+We were supposed to go to the pool.
+RUR/RUR0013830
+That's just as well. I haven't done a lot[nl]of swimming lately and I've been getting a bit stiff.
+RUR/RUR0013840
+Alright, let's get going.
+@rur_402_048_1
+@フェードアウト
+@背景変更
+@expose
+RUR/RUR0013850
+Why are you staring at me like that?[nl]What are you looking at?
+Your face
+Your chest
+Your waist
+@rur_402_049
+RUR/RUR0013860
+Is there something on my face or something?
+@rur_402_050
+RUR/RUR0013870
+Frankly, I don't like that you're[nl]staring at that so intently.
+@rur_402_051
+RUR/RUR0013880
+I hardly think I'm well toned enough there[nl]to warrant such deliberate staring.
+@rur_402_052
+RUR/RUR0013890
+You're twitching like you have[nl]something to say, what is it?
+It's nothing
+You look good in that swimsuit
+@rur_402_053
+RUR/RUR0013900
+You are strange. If you have something to say,[nl]I'd much prefer you say it outright.
+RUR/RUR0013910
+....Well, whatever.
+@rur_402_054
+RUR/RUR0013920
+I'm not the one you should be[nl]saying that to, I don't think.
+RUR/RUR0013930
+....But thank you[nl]for the compliment.
+@rur_402_055
+@時間経過演出
+RUR/RUR0013940
+Right then, let's get right into swimming.[nl]But first....
+@rur_402_056
+RUR/RUR0013950
+Make sure you do your warm-up exercises.[nl]You can't put them off until an accident happens.
+@rur_402_057
+RUR/RUR0013960
+I know.[nl]How about we warm up together?
+RUR/RUR0013970
+Loosening up your muscles doesn't just[nl]help prevent injuries, it also improves the[nl]quality of your workout.
+RUR/RUR0013980
+By the way, what kind of shape[nl]are your muscles in? Flexible or stiff?
+Flexible
+Stiff
+Amazi-stiff
+@rur_402_058
+RUR/RUR0013990
+Ohhh....[nl]Hang on, let me feel them.
+RUR/RUR0014000
+You're right.[nl]Those muscles are as supple as mine.
+RUR/RUR0014010
+You've got a body built for swimming.[nl]With training, I imagine you could get very good.
+@rur_402_059
+RUR/RUR0014020
+Certainly seems that way.
+RUR/RUR0014030
+But if you keep doing stretching exercises,[nl]you should get gradually more flexible.
+@rur_402_060
+RUR/RUR0014040
+I don't think that's actually a word,[nl]but I think I understand what you mean.
+RUR/RUR0014050
+These actually seem promising.
+RUR/RUR0014060
+Hmm. Shall we do some[nl]stretching together, then?
+RUR/RUR0014070
+....Here goes. It might hurt a bit,[nl]but you can tough it out.
+@expose2
+RUR/RUR0014080
+Okay, stretches are done. If you do this[nl]every day, you'll eventually become more flexible.
+@rur_402_061
+RUR/RUR0014090
+Right then. Let's get started on[nl]swimming practice right away.
+RUR/RUR0014100
+Do you have a particular stroke[nl]you wanted to practice?
+Front crawl
+Butterfly kick
+Dog paddle
+@rur_402_062
+RUR/RUR0014110
+In that case, let me offer some advice.[nl]The key to doing the front crawl is in the breathing.
+@expose
+RUR/RUR0014120
+Try to focus more on exhaling than inhaling.[nl]Inhaling should occur almost unconsciously.
+RUR/RUR0014130
+You should be able to do the crawl[nl]reasonably well once you have the breathing down.
+@rur_402_063
+RUR/RUR0014140
+In that case I can teach you.[nl]I'm rather good at the butterfly kick.
+RUR/RUR0014150
+It's even earned me a nickname.
+RUR/RUR0014160
+....What is that name?[nl]I can't tell you that.
+@rur_402_064
+RUR/RUR0014170
+Well, I'm not sure I can[nl]teach you that one....
+RUR/RUR0014180
+But it's more like that's not[nl]even one you should need to practice?
+@rur_402_065
+RUR/RUR0014190
+Okay, I guess I should swim a bit, too.[nl]I've got a meet coming up soon.
+RUR/RUR0014200
+I'll do 50 meters of the butterfly kick[nl]a few times. Wait there a moment.
+Wow, the Mermaid of Bonyari High!
+I might as well swim too.
+@rur_402_066
+RUR/RUR0014210
+What did you just....?
+RUR/RUR0014220
+Could you not do that again?[nl]It's embarrassing....
+@フェードアウト
+@背景変更
+RUR/RUR0014230
+Phew, it's been a while since I swam last.[nl]I like feeling tired again.
+@rur_402_067
+RUR/RUR0014240
+RUR/RUR0014250
+I was watching you.[nl]You seemed to be enjoying your swim.
+@rur_402_068
+RUR/RUR0014260
+Thanks for today. I haven't been swimming[nl]in a while, so it was a nice change of pace.
+RUR/RUR0014270
+See you at school tomorrow.[nl]....Later.
+@マジコイ終了処理
+@rur_402_069
+RUR/RUR0014280
+It's already evening....[nl]What should we do now?
+Go home
+Take a detour
+@rur_402_070
+RUR/RUR0014290
+Sounds good. If we dawdle,[nl]we'll be late.
+@rur_402_071
+RUR/RUR0014300
+It's not so bad to make[nl]a little detour every now and then, right?
+RUR/RUR0014310
+We've used a lot of energy swimming,[nl]so we should take a short break.
+RUR/RUR0014320
+That bench over there is empty.
+RUR/RUR0014330
+Phew. I've really let my muscles get stiff.[nl]Just a little swimming and I already ache this much.
+RUR/RUR0014340
+....Even such a casual detour....
+.........
+RUR/RUR0014350
+Shall we head home soon?
+common.asb
+rur_402_074.asb

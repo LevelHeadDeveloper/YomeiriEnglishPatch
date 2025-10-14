@@ -1,0 +1,135 @@
+__main
+@Lclearscreenall
+@rur_401_027
+@フェードアウト
+@背景変更
+RUR/RUR0013310
+Oh, you're leaving?[nl]I'm afraid I can't let you do that.
+RUR/RUR0013320
+"Why not", you say?[nl]Did we not agree we'd be doing a study session?
+RUR/RUR0013330
+You can't leave yet.[nl]Now let's get on with the study session.
+RUR/RUR0013340
+You don't seem to need to review the basics,[nl]so we'll proceed with some test questions.
+RUR/RUR0013350
+I shall ask you a series of questions,[nl]and I would like you to answer them.
+RUR/RUR0013360
+Okay, let's get started.[nl]First up is mathematics.
+RUR/RUR0013370
+6, 972, 2340, 49158, and 264963.[nl]What number can evenly divide all of these numbers?
+3
+6
+5
+@rur_401_028
+RUR/RUR0013380
+Hm, correct.[nl]Well done.
+@rur_401_029
+RUR/RUR0013390
+Sorry, that was incorrect.[nl]Pretty close, though.
+@rur_401_030
+RUR/RUR0013400
+Incorrect.
+RUR/RUR0013410
+I would never, in a million years,[nl]think you'd guess *five* of all things....
+@rur_401_031
+RUR/RUR0013420
+Right, next question.[nl]This one is Japanese history.
+RUR/RUR0013430
+Commodore Matthew Perry's Black Ships arrived[nl]in Japan in 1853. Which Japanese era was this in?
+Taika Era
+Kaei Era
+Heisei Era
+@rur_401_032
+@expose2
+RUR/RUR0013440
+Wrong. The Taika Era was part of the Asuka Period.[nl]Are you even trying to study properly?[nl]#fs{12}TN: The Taika era was 645-650 CE, long before 1853.#fs{}
+@rur_401_033
+RUR/RUR0013450
+Correct. You're living up[nl]to your rank of 60th in our grade.
+@rur_401_034
+RUR/RUR0013460
+Wrong. Matthew Perry wasn't that recent.[nl]#fs{12}TN: The Heisei era was 1989-2019, which encompassed Nisekoi's entire run.#fs{}
+@rur_401_035
+RUR/RUR0013470
+Right then, final question.[nl]What is the standard unit for measuring voltage?
+Volt
+Ampere
+Hectopascal
+@rur_401_036
+RUR/RUR0013480
+Correct. Maybe that one was[nl]a touch easy for a final question.
+RUR/RUR0013490
+Making these questions is[nl]hard work, you know.
+@rur_401_037
+RUR/RUR0013500
+That's for *current*, not voltage.
+@rur_401_038
+RUR/RUR0013510
+Extremely incorrect.[nl]That would be for pressure.
+RUR/RUR0013520
+....Is this some kind of joke?
+@rur_401_039
+@フェードアウト
+RUR/RUR0013530
+Has it been this long already?[nl]I'm a bit tired, shall we take a break?
+@rur_401_040
+RUR/RUR0013540
+Has it been this long already?[nl]We should probably call it a day.
+RUR/RUR0013550
+We've got a decent handle on[nl]what Kosaki should be studying now.
+RUR/RUR0013560
+Alright, see you tomorrow.
+@マジコイ終了処理
+@rur_401_041
+I'll get some tea
+Wanna play a game?
+RUR/RUR0013570
+Wait.
+@rur_401_042
+RUR/RUR0013580
+You're alone with a girl.[nl]Surely you can think of something else to do.
+RUR/RUR0013590
+Doesn't seem like you quite get it.[nl]Oh well....I guess I'll have to give you[nl]a special problem to solve.
+RUR/RUR0013600
+After school. Alone together.[nl]Doors shut. What do you think[nl]all this means you should do?
+Play a game
+Small talk
+Check the stove and locks
+@rur_401_043
+RUR/RUR0013610
+What are you talking about?
+@rur_401_044
+.........
+RUR/RUR0013620
+Do you understand why I smacked you?[nl]Of course you don't.
+RUR/RUR0013630
+Honestly, your sheer density[nl]is boundless.
+RUR/RUR0013640
+Even with your eyesight being better than mine,[nl]you still can't see what really matters....
+@rur_401_045
+RUR/RUR0013650
+Before we start chatting,[nl]I believe we have more important matters to attend to.
+@rur_401_046
+RUR/RUR0013660
+Was that meant to be a joke?[nl]It was entirely unfunny.
+@rur_401_047
+RUR/RUR0013670
+The correct answer is[nl]"pin them down and kiss them"! No other answer!
+RUR/RUR0013680
+Don't get the wrong idea, though.[nl]It's not as though I want you to do that.
+RUR/RUR0013690
+Incidentally, I'd like you to teach Kosaki[nl]what I've taught you here today.
+RUR/RUR0013700
+"Why me"?[nl]Don't give me that look.
+RUR/RUR0013710
+As though I'd want to be alone[nl]in your room with you.
+RUR/RUR0013720
+What we learned today is[nl]what Kosaki is having trouble with.
+RUR/RUR0013730
+That's why I organized today's study session.[nl]Okay, don't forget today's problems.
+@expose
+RUR/RUR0013740
+Especially don't forget[nl]that final special problem!
+RUR/RUR0013750
+Good grief....what a troublesome twosome.[nl]I have to go spelling everything out for them.
+common.asb
