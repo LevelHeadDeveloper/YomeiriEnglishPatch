@@ -103,7 +103,7 @@ This is a romhack of the orignal game for the PlayStation Vita. To play it, you 
   * ? Events: 100% complete
   * Miscellaneous Events: ~100% done
   * Raku Route: 100%
-* Majikoi+ Mode: 40% complete
+* Majikoi+ Mode: 100% complete
 * Majikoi+ DLCs: 0% complete
 * Minigames
   * Old Maid character descriptions: 100%
