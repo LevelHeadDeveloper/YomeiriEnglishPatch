@@ -98,7 +98,7 @@ Hey, Raku.
 RAK/RAK0030730
 Hmm?
 SYU/SYU0003920
-Are you really okay with this>
+Are you really okay with this?
 RAK/RAK0030740
 Whaddya mean?
 SYU/SYU0003930
@@ -110,7 +110,7 @@ What's this, two guys whispering to each other?[nl]That's a little creepy.
 SYU/SYU0003940
 Oh, sorry, Ruri. We're going to the bathroom.[nl]We need to take a pee.
 RUR/RUR0003270
-Jeez, being so vulgar when I'm eating....[nl]Just so you know, if you bail on me now[nl]then I'll make you pay tomorrow.
+Jeez, quit being so vulgar. I'm eating.[nl]Just so you know, if you bail on me now[nl]then I'll make you pay tomorrow.
 SYU/SYU0003950
 Right, right, it's okay.
 @フェードアウト
@@ -130,7 +130,7 @@ Yep. Ruri's not usually very expressive,[nl]but she looks happy when she's eatin
 SYU/SYU0004000
 I don't know how to describe it,[nl]but it's kinda like she's a chipmunk happily[nl]chewing on a mouthful of sunflower seeds.
 RAK/RAK0030780
-If you said that to her face,[nl]she'd totally clobber you.
+If you say that to her face,[nl]she'll totally clobber you.
 SYU/SYU0004010
 Well, anyway, I think it's essential for my photo book[nl]to have some "Ruri-chan Eating Things" pictures.
 SYU/SYU0004020

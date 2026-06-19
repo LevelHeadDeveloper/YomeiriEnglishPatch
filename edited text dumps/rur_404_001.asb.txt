@@ -1,0 +1,144 @@
+__main
+@Lclearscreenall
+@rur_404
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK2_RUR/RUR0014890
+Ah, hang on one second.
+@スクリーン変更
+MJK2_RUR/RUR0014900
+Guess who?
+MJK2_RUR/RUR0014910
+Oh, don't look over here.[nl]Just guess by my voice.
+MJK2_RUR/RUR0014920
+You ought to know by now.[nl]Now then, who am I?
+Tsugumi
+Chitoge
+Miyamoto
+@rur_404_091
+@背景変更
+MJK2_RUR/RUR0014930
+Boo, incorrect.[nl]Come on, how could you miss that?
+@rur_404_092
+MJK2_RUR/RUR0014940
+Boo, incorrect.[nl]How do you even mistake Chitoge for me?
+MJK2_RUR/RUR0014950
+I'm not as pretty as her.[nl]That's an insult to her, if you ask me.
+@rur_404_093
+MJK2_RUR/RUR0014960
+Hehe, that's right.[nl]Impressive.
+@rur_404_094
+MJK2_RUR/RUR0014970
+Oh, sorry for talking to you out of the blue.[nl]I hope I didn't bother you.
+MJK2_RUR/RUR0015020
+Hey, why are you staring[nl]so hard at my face?
+MJK2_RUR/RUR0015030
+Do I look weird....?
+Yeah, you do.
+*Really* weird.
+@rur_404_095
+MJK2_RUR/RUR0015040
+I-Is that right?[nl]I don't think I look different....
+@rur_404_096
+MJK2_RUR/RUR0015050
+*Really* weird!?[nl]D-D-D-!!!
+MJK2_RUR/RUR0015060
+Dammit....[nl]Hahhh, I look that weird....
+@rur_404_097
+MJK2_RUR/RUR0015070
+W-Well then! Could I maybe help you[nl]cleaning up in the animal's area today?
+What?
+Didn't catch that
+@rur_404_108
+MJK2_RUR/RUR0015080
+It'd be tough to do it alone, right?[nl]I'll try not to get in the way.
+MJK2_RUR/RUR0015090
+Alright then, let's get started.
+@フェードアウト
+MJK2_RUR/RUR0015100
+Wowww, there's so many animals....![nl]It's lively out here! ♪
+MJK2_RUR/RUR0015110
+I'll go ahead and water the plants.[nl]Then we can feed everyone....
+MJK2_RUR/RUR0015120
+We can wait to clean the shed until last.[nl]Alright, let's get started. ♪
+@背景変更
+MJK2_RUR/RUR0015130
+*humming* ♪[nl]Everyone, I've got you plenty of water!
+MJK2_RUR/RUR0015140
+For the plants: Love and Courage Compost.[nl]And for the goldfish: Wisdom and Energy Flakes.
+MJK2_RUR/RUR0015150
+Be careful not to eat too much.[nl]*humming* ♪
+What are you planning?
+You seem girly today....
+Is that someone else?
+@rur_404_098
+MJK2_RUR/RUR0015160
+Come on, I'm not planning anything![nl]I'm always like this.
+@rur_404_099
+MJK2_RUR/RUR0015170
+I-I mean, I am a girl.[nl]Kind of....
+@rur_404_100
+MJK2_RUR/RUR0015180
+Huh? Why would you think that?[nl]I'm Ruri Miyamoto herself!
+@rur_404_101
+MJK2_RUR/RUR0015190
+Oh, hang on.[nl]Your hand's hurt!
+MJK2_RUR/RUR0015200
+I'll bet it's a rose thorn.[nl]You were pruning the roses earlier, right?
+MJK2_RUR/RUR0015210
+Hang on a sec.[nl]I'm pretty sure I have a bandage....
+MJK2_RUR/RUR0015220
+There it is! Alright, I'll wash[nl]the wound and disinfect it.
+MJK2_RUR/RUR0015230
+And....all set. Now make sure to stop[nl]by the nurse's office later.
+MJK2_RUR/RUR0015240
+Hm? You've been staring at my face.[nl]Is something wrong?
+You look nice today.
+Nah, it's nothing.
+@rur_404_102
+MJK2_RUR/RUR0015250
+Really? But you were saying[nl]I looked weird just a while ago....
+MJK2_RUR/RUR0015260
+When you tell me that like that,[nl]it makes me feel kinda embarrassed....
+MJK2_RUR/RUR0015270
+But I'm happy you complimented me.[nl]Thanks!
+@rur_404_103
+MJK2_RUR/RUR0015280
+Hehe. You're so weird.
+MJK2_RUR/RUR0015290
+Alright then, let's get back to work.[nl]Just a bit more!
+@rur_404_104
+@ＢＧＭ停止
+MJK2_RUR/RUR0015300
+Come on, wake up already.[nl]School's over already, how long are you[nl]going to keep sleeping?
+MJK2_RUR/RUR0015310
+....No response.[nl]In that case, I'll just....
+@ＢＧＭ再生
+MJK2_RUR/RUR0015320
+Goodness gracious....[nl]How do you sleep so soundly in such a noisy classroom?
+MJK2_RUR/RUR0015330
+More importantly, you need to move.[nl]I can't clean that spot if you're sleeping there.
+MJK2_RUR/RUR0015340
+What's wrong? You're all spaced out.[nl]Did you have a dream or something?
+You were so nice in my dream...
+T-The fake Miyamoto!
+@rur_404_105
+MJK2_RUR/RUR0015350
+In your dream....?
+MJK2_RUR/RUR0015360
+Ah, that explains the intensely[nl]unpleasant wave of disappointment I sense.
+@rur_404_106
+MJK2_RUR/RUR0015370
+W-What do you mean "a fake me"?
+MJK2_RUR/RUR0015380
+I don't know what kind of dream you had,[nl]but I'm very much the real me.
+MJK2_RUR/RUR0015390
+....You're disappointed right now.[nl]Very much so. I can sense it.
+@rur_404_107
+MJK2_RUR/RUR0015400
+Now quit talking nonsense and move.
+MJK2_RUR/RUR0015410
+Or else....I'll kick you again.
+@マジコイ終了処理
+common.asb

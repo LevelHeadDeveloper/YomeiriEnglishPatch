@@ -229,7 +229,7 @@ RUR/RUR0006170
 RAK/RAK0033570
 !![nl]Miyamoto!
 SYU/SYU0005670
-You're done changing, Ruri.[nl]While you're at it, take off the glasses as well as the swimsuit.
+You're done changing, Ruri.[nl]While you're at it, take off the glasses[nl]as well as the swimsuit.
 RUR/RUR0006180
 I already told you I don't want to.[nl]How many times do I have to repeat myself?
 RUR/RUR0006190
