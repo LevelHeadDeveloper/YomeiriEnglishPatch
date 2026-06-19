@@ -91,27 +91,27 @@ __main
 @ババ抜き開始処理
 @ババ抜き終了処理
 @タッチパート開始処理
-#fs{14}Find what's different about Chitoge!
-#fs{16}Find Chitoge's ribbon!
-#fs{16}Tap the place you care about!
-#fs{16}Tap where you want to draw!
-#fs{16}What's different about Kosaki?
+Find what's different about Chitoge!
+Find Chitoge's ribbon!
+Tap the place you care about!
+Tap where you want to draw!
+What's different about Kosaki?
 Get the dust off!
-#fs{16}What's different about Seishiro?
-#fs{16}Find out who's watching!
-Take the chalk!
-#fs{16}Tap the charm point!
+What's different about Seishiro?
+Find out who's watching!
+Wipe the chalk off!
+Tap the charm point!
 Get the dust off!
-#fs{16}What's different about Marika?
+What's different about Marika?
 Win Ruri's trust!
-#fs{16}Tap the girl's ears!
-#fs{16}Tap what's suspicious!
-#fs{14}Tap what you want to see!
-#fs{14}Tap where the sound is coming from!
+Tap the fox girl's ears!
+Tap what's suspicious!
+Tap what you want to see!
+Tap where the sound is coming from!
 Stop Marika!
-#fs{16}Where would suit you?
-#fs{16}Show your feelings
-#fs{14}Where would it look good?
+Where would suit you?
+Show your feelings
+Where would it look good?
 @プレゼント選択
 @プレゼント表示
 @ＢＧＭ再生

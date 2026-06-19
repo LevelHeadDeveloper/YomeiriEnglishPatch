@@ -9,94 +9,94 @@ mrk_flag
 rur_flag
 R_Item01
 Pocket Tissues
-Some pocket tissues.[nl]It is good etiquette to carry these.
+It's considered good manners to carry[nl]some tissues with you at all times.
 R_Item02
 Energy Drink
-A drink rumored to give you a half-day's[nl]worth of energy from even one bottle.
+They say even one of these can give you[nl]enough energy for half a day.[nl]A second one does nothing.
 R_Item03
 Coupon
-A voucher for an ice cream shop.[nl]Good for those with a sweet tooth!
+A voucher for ice cream from a super-popular[nl]ice cream shop. A sweet tooth would drool[nl]over this super-rare item!
 R_Item04
 Bandages
-A few adhesive bandages.[nl]Skin-colored, so they blend in.
+These bandages are flesh-colored,[nl]so they aren't easy to spot[nl]when they're in use.
 R_Item05
 Japanese Sweets
-A special sweet from Onodera's sweet shop.[nl]The refreshing sweetness is popular.
+Sweetshop Onodera's special new sweets.[nl]The clean, refreshing sweetness is popular,[nl]even with men.
 R_Item06
 Marshmallow
-A few marshmallows from Onodera.[nl]Some are plain and some are strawberry.
+A few marshmallows from Onodera.[nl]Some plain, some strawberry-flavored.
 R_Item07
 Sports Drink
-A drink with a lot of Vitamin C.[nl]Give this to someone after a workout.
+A drink with a lot of Vitamin C. Perfect to sip[nl]after a workout, or to give you a second[nl]to think of a response to someone.
 R_Item08
 Tea
 A green tea box.[nl]Good to drink when you want to relax.
 R_Item09
 Japanese Dictionary
-A potent weapon! Use this[nl]when you find a difficult Japanese word.
+This Japanese Dictionary is a potent weapon![nl]At least, it is if your opponent is[nl]a difficult word in Japanese.
 R_Item10
 Magazine
-A magazine for the hip youth.[nl]Ideal for gathering information on dating spots.
+A very trendy, youth-oriented magazine.[nl]Ideal for doing research on dating spots.
 R_Item11
 Ningyoyaki
-A kind of cake shaped like a doll.[nl]The vendor is quite proud of it.
+A kind of cake shaped like a doll, and packed[nl]with red bean paste. The vendor is quite[nl]proud of it, and it's even good cold.
 R_Item12
 Old Photo
-A faded photo of Raku with Marika.[nl]Her innocent smile brightens it up.
+A faded photo of Raku with Marika.[nl]Their innocent smiles brighten it up.
 R_Item13
 Body Warmer
-A reliable body warmer.[nl]Keeps you snug for about a half day.
+A reliable body warmer.[nl]Heats up in five seconds and keeps you snug[nl]for about a half day.
 R_Item14
-Stuffed Tiger
-A stuffed animal used at the Festival.[nl]It's ugly enough to make babies cry.
+Tiger Suit
+A tiger costume used at the Festival.[nl]It's ugly enough to make babies cry.
 R_Item15
 Pencil
-A seemingly ordinary pencil.[nl]If you're stumped, give it a spin.
+A pencil that's said to be lucky.[nl]If you're stumped, give it a spin[nl]and your answer will come to you.
 R_Item16
 Earrings
-Earrings from a famous brand. Some say that if[nl]a boy gives them to a girl, she will be thrilled.
+Earrings from a famous brand.[nl]Some say that if a boy gives them to a girl,[nl]she will fall for him instantly.
 R_Item17
 Candies
 Assorted candies, 100 yen per bag.[nl]Some teachers suck these instead of smoking.
 R_Item18
 Illustrated Book
-A book on how to raise maniac animals.[nl]Essential reading for all animal lovers.
+An illustrated book on how to care for exotic[nl]animals. Essential reading for all animal lovers.
 R_Item19
 Handkerchief
-A luxury cloth handkerchief.[nl]Sometimes called a "hanky".
+A luxury cloth handkerchief, from a clothing[nl]store the Beehive frequents. Sometimes called[nl]a "hanky" for short.
 R_Item20
 Music CD
-A compliation album of healing classics.[nl]Soothing enough to put you to sleep.
+A compliation album of healing classics.[nl]Soothing enough to make you sleep[nl]right through your alarm.
 R_Item21
 Chinese Poems
-This particular collection was said to arouse[nl]sympathy from middle and high school boys.
+A book of poems by school-aged boys that[nl]became a best-seller when readers resonated[nl]with the themes.
 R_Item22
 Waka-Waka World
-A popular retro game known for its characters.[nl]Makes you want to play with friends, right?
+A retro game known for its memorable cast of[nl]characters. Kinda makes you feel like getting[nl]all your friends together to play it.
 R_Item23
 Bear Statue
-A souvenir that someone bought for you, and[nl]you don't have room at home for it.
+Someone didn't have room for this souvenir[nl]statue, so they left it at school.[nl]How irresponsible.
 R_Item24
 Phone Strap
-A strap with a cute fox figurine on it. The sort[nl]of thing you should keep on your phone.
+A strap with a cute fox figurine on it.[nl]Perfect for carrying with you[nl]and attaching to your phone.
 R_Item25
 Scented Wax
-Assorted packs of scented wax[nl]that really lift your mood.
+Assorted packs of scented wax that you can[nl]put in your bath to refresh your mood.
 R_Item26
 Music Box
-An antique-style music box. The varnish[nl]is peeling, which makes it look even older.
+An antique-style music box.[nl]The peeling varnish only adds to its[nl]old-timey charm.
 R_Item27
 Barette
-A hair clip for fine women.[nl]The design is painstakingly detailed.
+A fine hair clip for women.[nl]The design is exquisitely detailed.
 R_Item28
 Bracelet
-A silver and leather bracelet. Casual[nl]and fashionable to increase the wearer's power.
+A silver and leather bracelet.[nl]A casual yet fashionable way to[nl]increase your charm.
 R_Item29
 Power Stone
-A lovely ball of polished green quartz. Said[nl]to bring good luck by just placing it in a room.
+A lovely ball of polished green quartz.[nl]Said to bring good luck by just placing it[nl]somewhere in a room.
 R_Item30
 Potted Cactus
-A small potted cactus. Even though it's[nl]small, it's still prickly. Be careful.
+A small potted cactus. It may be small, but it's[nl]still a cactus, so watch out for its spines.
 M
 TABLE
 GOP_TYPE

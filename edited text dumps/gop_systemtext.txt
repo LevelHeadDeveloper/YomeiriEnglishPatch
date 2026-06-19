@@ -147,7 +147,7 @@ Return to title screen without saving settings?
 R_SystemTextMajikoiReturnTitle
 Return to title screen?
 R_SystemTextMajikoiGoConfirm
-Begin with this scenario?[nl]NOTE: Yumekoi (DLC) scenes will still[nl]be in Japanese!
+Begin with this scenario?
 R_SystemTextMajikoiCtgOpen
 Chitoge unlocked.
 R_SystemTextMajikoiKskOpen
@@ -161,31 +161,31 @@ Ruri unlocked.
 R_SystemTextMajikoiCtgNormal
 Chitoge's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiCtgDlc1
-Chitoge's "Marriage" event is now available.
+Chitoge's "Married" event is now available.
 R_SystemTextMajikoiCtgDlc2
 Chitoge's "Yumekoi" event is now available.
 R_SystemTextMajikoiKskNormal
 Kosaki's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiKskDlc1
-Kosaki's "Marriage" event is now available.
+Kosaki's "Married" event is now available.
 R_SystemTextMajikoiKskDlc2
 Kosaki's "Yumekoi" event is now available.
 R_SystemTextMajikoiSsrNormal
 Seishiro's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiSsrDlc1
-Seishiro's "Marriage" event is now available.
+Seishiro's "Married" event is now available.
 R_SystemTextMajikoiSsrDlc2
 Seishiro's "Yumekoi" event is now available.
 R_SystemTextMajikoiMrkNormal
 Marika's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiMrkDlc1
-Marika's "Marriage" events are now available.
+Marika's "Married" events are now available.
 R_SystemTextMajikoiMrkDlc2
 Marika's "Yumekoi" event is now available.
 R_SystemTextMajikoiRurNormal
 Ruri's "School" and "Date" events[nl]are now available.
 R_SystemTextMajikoiRurDlc1
-Ruri's "Marriage" event is now available.
+Ruri's "Married" event is now available.
 R_SystemTextMajikoiRurDlc2
 Ruri's "Yumekoi" event is now available.
 R_SystemTextMajikoiExitConfirm

@@ -207,7 +207,7 @@ Gently
 R_SPIRIT24
 ssr_004_01
 Want an apology?
-Seems out[nl]of character
+Unusual
 Do it cutely
 Smile
 No need
@@ -245,9 +245,9 @@ I trust you
 R_SPIRIT28
 mrk_004_01
 Are you hurt?
-You+Animals
+Animals
 Chitoge
-10 years[nl]ago....
+10 years
 You okay?
 R_SPIRIT29
 mrk_004_02

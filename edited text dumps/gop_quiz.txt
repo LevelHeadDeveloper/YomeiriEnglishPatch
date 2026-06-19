@@ -11,7 +11,7 @@ time_limit
 text_time
 R_Quiz000
 Question 1
-What is the chemical formula for water?
+What is the chemical[nl]formula for water?
 H2O2
 O2
 CO2
@@ -32,7 +32,7 @@ Catcher
 Carry
 R_Quiz003
 Question 4
-Japanese cooking usess[nl]5 basic ingredients:[nl]"Sa, Shi, Su, Se, So".[nl]What is "Se"?
+Japanese cooking uses[nl]5 basic ingredients:[nl]"Sa, Shi, Su, Se, So".[nl]What is "Se"?
 Back fat (Seabura)
 Salt (Shio)
 Soy Sauce (Seuyu)

@@ -1,0 +1,168 @@
+__main
+@Lclearscreenall
+@ctg_404
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK2_CTG/CTG0028750
+Hahh, hahh....[nl]Looks like I'm a bit late.
+MJK2_CTG/CTG0028760
+Sorry if I kept you waiting.
+MJK2_CTG/CTG0028770
+You see, um....[nl]I couldn't get my ribbon to stay on straight.
+MJK2_CTG/CTG0028780
+I mean, considering that today is our[nl]extra special date....
+MJK2_CTG/CTG0028790
+It's not like I could show up[nl]in front of you looking silly.
+MJK2_CTG/CTG0028800
+How do you like me today?[nl]There's nothing weird about me....right?
+Your speech
+Your personality
+@ctg_404_212
+MJK2_CTG/CTG0028810
+Huh? I'm talking weird?
+MJK2_CTG/CTG0028820
+Are you sure?[nl]I always talk like this.
+@ctg_404_213
+MJK2_CTG/CTG0028830
+That's awful![nl]Saying my personality is weird...!
+MJK2_CTG/CTG0028840
+Huh? It's different from usual?
+MJK2_CTG/CTG0028850
+Hmmm, I'm not sure....[nl]I think I've always been like this.
+@ctg_404_214
+MJK2_CTG/CTG0028860
+Oh, hang on, Darling![nl]You've got a bit of lint on your shoulder.
+MJK2_CTG/CTG0028870
+Okay, got it.[nl]All clean!
+MJK2_CTG/CTG0028880
+....What's the matter, Darling?[nl]You look shocked.
+I have a bad feeling
+Something's off
+@ctg_404_215
+MJK2_CTG/CTG0028890
+Whaaaa!?[nl]T-That's what this is about!?
+MJK2_CTG/CTG0028900
+So you hate me.[nl]I couldn't see that at all.
+@ctg_404_216
+MJK2_CTG/CTG0028910
+Huh!? I'm "off"....!?
+MJK2_CTG/CTG0028920
+All I wanted was for you to see[nl]my cuter side, Darling.
+@ctg_404_217
+MJK2_CTG/CTG0028930
+*sob*[nl]*sniff*
+I'm sorry
+Don't cry
+@ctg_404_218
+MJK2_CTG/CTG0028940
+No, it's okay.[nl]It's my fault to begin with.
+MJK2_CTG/CTG0028950
+I'm truly sorry for making[nl]you upset, darling.
+@ctg_404_219
+MJK2_CTG/CTG0028960
+You're comforting me.[nl]That's so kind of you, Darling....
+MJK2_CTG/CTG0028970
+But it's not you who's the problem,[nl]it's me.
+@ctg_404_220
+MJK2_CTG/CTG0028980
+*sniff* I really am hopeless.[nl]Crying won't help anything.
+MJK2_CTG/CTG0028990
+Instead of wasting my time,[nl]I should be trying to change myself.
+MJK2_CTG/CTG0029000
+Hey, Darling.[nl]I want to become the kind of girl you like.
+MJK2_CTG/CTG0029010
+I want to change myself for you.[nl]Darling, what kind of girls do you like.
+You're okay
+Tomboyish
+Short-tempered
+@ctg_404_221
+MJK2_CTG/CTG0029020
+Huh....? Really?[nl]I'm glad....
+MJK2_CTG/CTG0029030
+That means that you accept me as I am[nl]right now, right?
+MJK2_CTG/CTG0029040
+So I can keep being a quiet girl[nl]who cooks very well.
+@ctg_404_222
+MJK2_CTG/CTG0029050
+Tomboyish....[nl]Ghh, that sounds hard....
+MJK2_CTG/CTG0029060
+I mean, I'm no good at sports,[nl]and....I'm shy, as well.
+MJK2_CTG/CTG0029070
+But if that's what you like, Darling,[nl]I can give it a shot....!
+@ctg_404_223
+MJK2_CTG/CTG0029080
+Huh!? That's what you want!?
+MJK2_CTG/CTG0029090
+I doubt there are many girls[nl]out there who are like that....
+MJK2_CTG/CTG0029100
+But if that's what you want,[nl]I can give it a try for you!
+@ctg_404_224
+MJK2_CTG/CTG0029110
+So please, from now on,[nl]I'd like you to stay with me[nl]forever and ever....!
+@ＢＧＭ停止
+@ホワイトアウト
+@フェードアウト
+MJK2_CTG/CTG0029120
+....Heeey.[nl]Come on, hey!
+MJK2_CTG/CTG0029130
+What are you sleeping for!?[nl]Answer me, you idiot!
+@背景変更
+@pan
+@ＢＧＭ再生
+MJK2_CTG/CTG0029140
+You've got some nerve falling asleep[nl]mid-conversation, huh?
+@expose
+MJK2_CTG/CTG0029150
+Jeez. Just because this is one of[nl]our scheduled dates doesn't mean[nl]you can just slack off.
+MJK2_CTG/CTG0029160
+....Hm? What's that dazed look for?[nl]Are you still waking up?
+@expose2
+MJK2_CTG/CTG0029170
+Well, how about I give you[nl]another wake-up call, then?
+Back to normal....
+Dream-you is better
+@ctg_404_225
+MJK2_CTG/CTG0029180
+Huh? Back?[nl]Whaddya mean by that?
+@ctg_404_226
+MJK2_CTG/CTG0029190
+Huh? Dream-me?[nl]What does that mean?
+@ctg_404_227
+MJK2_CTG/CTG0029205
+Ohhh, so you had a dream like *that*.
+MJK2_CTG/CTG0029210
+But it sounds like you're calling[nl]the real me a clumsy, violent woman.
+You got it!
+Says you.
+@ctg_404_228
+MJK2_CTG/CTG0029220
+Mind your business, idiot!
+@ctg_404_229
+MJK2_CTG/CTG0029230
+Hmph, we'll see.
+@ctg_404_230
+MJK2_CTG/CTG0029240
+Aaargh! This is INFURIATING!
+MJK2_CTG/CTG0029250
+I really can't STAND how you[nl]keep dozing off when we're together!
+MJK2_CTG/CTG0029260
+Jeez....and here I am being the[nl]only one to get worked up over this,[nl]like an idiot....
+.........
+MJK2_CTG/CTG0029270
+Hey....do you think I should try[nl]being a bit more ladylike?
+MJK2_CTG/CTG0029280
+Would you still get bored of me then?
+I'm not bored
+Not your fault
+@ctg_404_231
+MJK2_CTG/CTG0029290
+....Well then, it's fine.
+MJK2_CTG/CTG0029300
+Wait, no, it's not fine![nl]That just means you're slacking off!
+MJK2_CTG/CTG0029310
+If you doze off again, I won't let you[nl]off the hook! Get it together!
+MJK2_CTG/CTG0029320
+After all....you're my boyfriend!
+@マジコイ終了処理
+common.asb

@@ -9,1440 +9,1440 @@ file_name
 func_name
 R_EventListctg000
 Chitoge Main 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg001
 Chitoge Main 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg002
 Chitoge Main 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg003
 Chitoge Main 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg004
 Chitoge Main 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg005
 Chitoge Main 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg006
 Chitoge Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg007
 Chitoge Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg008
 Chitoge Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg009
 Chitoge Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg010
 Chitoge Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg011
 Chitoge Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg012
 Chitoge Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg013
 Chitoge Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg014
 Chitoge Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg015
 Chitoge Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg016
 Chitoge Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg017
 Chitoge Map Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg018
 Chitoge Map Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg019
 Chitoge Map Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg020
 Chitoge Map Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg021
 Chitoge Map Event 16
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg022
 Chitoge Map Event 17
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg023
 Chitoge Map Event 18
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg024
 Chitoge Map Event 19
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg025
 Chitoge Map Event 20
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg026
 Chitoge Map Event 21
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg027
 Chitoge Map Event 22
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg028
 Chitoge Map Event 23
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg029
 Chitoge Map Event 24
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg030
 Chitoge Map Event 25
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg031
 Chitoge Map Event 26
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg032
 Chitoge Map Event 27
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg033
 Chitoge Map Event 28
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg034
 Chitoge Map Event 29
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg035
 Chitoge Map Event 30
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg036
 Chitoge Map Event 31
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg037
 Chitoge Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg038
 Chitoge Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg039
 Chitoge Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg040
 Chitoge Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg041
 Chitoge Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg042
 Chitoge Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg043
 Chitoge Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg044
 Chitoge Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg045
 Chitoge Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg046
 Chitoge Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg047
 Chitoge Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg048
 Chitoge Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg049
 Chitoge Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg050
 Chitoge Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg051
 Chitoge Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg052
 Chitoge Saturday 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg053
 Chitoge Saturday 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg054
 Chitoge Saturday 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg055
 Chitoge Saturday 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg056
 Chitoge Majikoi Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg057
 Chitoge Majikoi Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg058
 Chitoge Majikoi Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg059
 Chitoge Majikoi Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListctg077
 Chitoge Main 6 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk100
 Kosaki Main 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk101
 Kosaki Main 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk102
 Kosaki Main 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk103
 Kosaki Main 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk104
 Kosaki Main 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk105
 Kosaki Main 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk106
 Kosaki Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk107
 Kosaki Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk108
 Kosaki Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk109
 Kosaki Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk110
 Kosaki Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk111
 Kosaki Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk112
 Kosaki Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk113
 Kosaki Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk114
 Kosaki Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk115
 Kosaki Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk116
 Kosaki Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk117
 Kosaki Map Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk118
 Kosaki Map Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk119
 Kosaki Map Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk120
 Kosaki Map Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk121
 Kosaki Map Event 16
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk122
 Kosaki Map Event 17
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk123
 Kosaki Map Event 18
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk124
 Kosaki Map Event 19
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk125
 Kosaki Map Event 20
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk126
 Kosaki Map Event 21
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk127
 Kosaki Map Event 22
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk128
 Kosaki Map Event 23
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk129
 Kosaki Map Event 24
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk130
 Kosaki Map Event 25
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk131
 Kosaki Map Event 26
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk132
 Kosaki Map Event 27
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk133
 Kosaki Map Event 28
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk134
 Kosaki Map Event 29
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk135
 Kosaki Map Event 30
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk136
 Kosaki Map Event 31
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk137
 Kosaki Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk138
 Kosaki Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk139
 Kosaki Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk140
 Kosaki Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk141
 Kosaki Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk142
 Kosaki Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk143
 Kosaki Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk144
 Kosaki Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk145
 Kosaki Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk146
 Kosaki Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk147
 Kosaki Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk148
 Kosaki Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk149
 Kosaki Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk150
 Kosaki Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk151
 Kosaki Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk152
 Kosaki Saturday 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk153
 Kosaki Saturday 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk154
 Kosaki Saturday 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk155
 Kosaki Saturday 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk156
 Kosaki Majikoi Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk157
 Kosaki Majikoi Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk158
 Kosaki Majikoi Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk159
 Kosaki Majikoi Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk177
 Kosaki Main 5 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListksk178
 Kosaki Map Event 23 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr200
 Seishiro Main 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr201
 Seishiro Main 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr202
 Seishiro Main 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr203
 Seishiro Main 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr204
 Seishiro Main 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr205
 Seishiro Main 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr206
 Seishiro Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr207
 Seishiro Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr208
 Seishiro Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr209
 Seishiro Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr210
 Seishiro Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr211
 Seishiro Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr212
 Seishiro Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr213
 Seishiro Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr214
 Seishiro Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr215
 Seishiro Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr216
 Seishiro Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr217
 Seishiro Map Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr218
 Seishiro Map Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr219
 Seishiro Map Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr220
 Seishiro Map Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr221
 Seishiro Map Event 16
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr222
 Seishiro Map Event 17
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr223
 Seishiro Map Event 18
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr224
 Seishiro Map Event 19
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr225
 Seishiro Map Event 20
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr226
 Seishiro Map Event 21
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr227
 Seishiro Map Event 22
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr228
 Seishiro Map Event 23
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr229
 Seishiro Map Event 24
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr230
 Seishiro Map Event 25
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr231
 Seishiro Map Event 26
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr232
 Seishiro Map Event 27
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr233
 Seishiro Map Event 28
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr234
 Seishiro Map Event 29
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr235
 Seishiro Map Event 30
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr236
 Seishiro Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr237
 Seishiro Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr238
 Seishiro Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr239
 Seishiro Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr240
 Seishiro Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr241
 Seishiro Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr242
 Seishiro Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr243
 Seishiro Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr244
 Seishiro Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr245
 Seishiro Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr246
 Seishiro Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr247
 Seishiro Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr248
 Seishiro Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr249
 Seishiro Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr250
 Seishiro Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr251
 Seishiro Saturday 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr252
 Seishiro Saturday 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr253
 Seishiro Saturday 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr254
 Seishiro Saturday 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr255
 Seishiro Majikoi Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr256
 Seishiro Majikoi Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr257
 Seishiro Majikoi Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr258
 Seishiro Majikoi Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr276
 Seishiro Main 4 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListssr277
 Seishiro Map Event 6 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk300
 Marika Main 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk301
 Marika Main 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk302
 Marika Main 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk303
 Marika Main 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk304
 Marika Main 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk305
 Marika Main 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk306
 Marika Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk307
 Marika Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk308
 Marika Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk309
 Marika Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk310
 Marika Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk311
 Marika Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk312
 Marika Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk313
 Marika Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk314
 Marika Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk315
 Marika Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk316
 Marika Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk317
 Marika Map Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk318
 Marika Map Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk319
 Marika Map Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk320
 Marika Map Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk321
 Marika Map Event 16
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk322
 Marika Map Event 17
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk323
 Marika Map Event 18
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk324
 Marika Map Event 19
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk325
 Marika Map Event 20
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk326
 Marika Map Event 21
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk327
 Marika Map Event 22
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk328
 Marika Map Event 23
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk329
 Marika Map Event 24
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk330
 Marika Map Event 25
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk331
 Marika Map Event 26
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk332
 Marika Map Event 27
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk333
 Marika Map Event 28
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk334
 Marika Map Event 29
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk335
 Marika Map Event 30
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk336
 Marika Occurence 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk337
 Marika Occurence 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk338
 Marika Occurence 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk339
 Marika Occurence 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk340
 Marika Occurence 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk341
 Marika Occurence 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk342
 Marika Occurence 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk343
 Marika Occurence 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk344
 Marika Occurence 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk345
 Marika Occurence 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk346
 Marika Occurence 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk347
 Marika Occurence 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk348
 Marika Occurence 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk349
 Marika Occurence 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk350
 Marika Occurence 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk351
 Marika Saturday 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk352
 Marika Saturday 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk353
 Marika Saturday 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk354
 Marika Majikoi Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk355
 Marika Majikoi Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk356
 Marika Majikoi Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListmrk357
 Marika Majikoi Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur400
 Ruri Main 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur401
 Ruri Main 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur402
 Ruri Main 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur403
 Ruri Main 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur404
 Ruri Main 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur405
 Ruri Main 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur406
 Ruri Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur407
 Ruri Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur408
 Ruri Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur409
 Ruri Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur410
 Ruri Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur411
 Ruri Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur412
 Ruri Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur413
 Ruri Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur414
 Ruri Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur415
 Ruri Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur416
 Ruri Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur417
 Ruri Map Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur418
 Ruri Map Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur419
 Ruri Map Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur420
 Ruri Map Event 15
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur421
 Ruri Map Event 16
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur422
 Ruri Map Event 17
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur423
 Ruri Map Event 18
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur424
 Ruri Map Event 19
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur425
 Ruri Map Event 20
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur426
 Ruri Map Event 21
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur427
 Ruri Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur428
 Ruri Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur429
 Ruri Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur430
 Ruri Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur431
 Ruri Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur432
 Ruri Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur433
 Ruri Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur434
 Ruri Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur435
 Ruri Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur436
 Ruri Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur437
 Ruri Saturday 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur438
 Ruri Saturday 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur439
 Ruri Majikoi Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur440
 Ruri Majikoi Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur441
 Ruri Majikoi Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur442
 Ruri Majikoi Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur460
 Ruri Main 2 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur461
 Ruri Main 5 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrur462
 Ruri Main 6 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano500
 Shuu Map Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano501
 Shuu Map Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano502
 Shuu Map Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano503
 Shuu Map Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano504
 Shuu Map Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano505
 Shuu Map Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano506
 Shuu Map Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano507
 Shuu Map Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano508
 Shuu Map Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano509
 Shuu Map Event 10
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano510
 Shuu Map Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano511
 Misc Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano512
 Misc Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano513
 Misc Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano514
 Misc Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano515
 Misc Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano516
 Misc Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano517
 Misc Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano518
 Misc Event 8
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano519
 Misc Event 9
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano521
 Misc Event 11
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano522
 Misc Event 12
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano523
 Misc Event 13
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano524
 Misc Event 14
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano525
 Shuu Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano526
 Shuu Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano527
 Shuu Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano528
 Shuu Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano529
 Shuu Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano530
 Shuu Event 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano531
 Shuu Event 7
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano532
 Misc Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano533
 Misc Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano534
 Misc Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano535
 Misc Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano536
 Misc Event 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano537
 Misc Event 7 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano538
 Misc Event 8 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano539
 Misc Event 1 (Old Maid Loss)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListano540
 Misc Event 2 (Old Maid Loss)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak600
 Raku Scenario 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak601
 Raku Scenario 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak602
 Raku Scenario 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak603
 Raku Scenario 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak604
 Raku Scenario 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak605
 Raku Scenario 6
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak607
 Raku Scenario 4 (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrak608
 Raku Scenario 2 Saturday
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday700
 Morning Talk 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday701
 Morning Talk 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday702
 Morning Talk 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday703
 Morning Talk 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday704
 Morning Talk 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday705
 Evening Talk 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday706
 Evening Talk 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday707
 Evening Talk 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday708
 Evening Talk 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListday709
 Evening Talk 5
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListhol710
 Sunday Event 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListhol711
 Sunday Event 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListhol712
 Sunday Event 3
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListhol713
 Sunday Event 4
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListpro715
 Prolugue
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListpro716
 Prologue (Sneak Fail)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListdwn720
 Out of HP (Day)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListdwn721
 Out of HP(After School)
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListbad725
 Bad Ending
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListotm750
 Main Prologue
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListrtn800
 Special Wake-Up
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListall900
 All Clear 1
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 R_EventListall901
 All Clear 2
-mrk_124_001.asb
-@mrk_124
+SCENEDBG_ID_001.asb
+@SCENEDBG_ID
 M
 TABLE
 GOP_TYPE

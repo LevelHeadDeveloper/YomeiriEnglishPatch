@@ -169,7 +169,7 @@ RAK/RAK0006820
 (This was.....the right call, I think.)
 CTG/CTG0007780
 RAK/RAK0006830
-(!![nl] Chitoge!?)
+(!![nl] Chitoge!?)[nl]#fs{12}TN: She said "Congratulations, Raku."#fs{}
 MTG/MTG0002110
 Mr. Raku, where are you going?
 RAK/RAK0006840
