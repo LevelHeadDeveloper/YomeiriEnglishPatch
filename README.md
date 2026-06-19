@@ -101,15 +101,15 @@ This is a romhack of the orignal game for the PlayStation Vita. To play it, you 
   * Marika Tachibana route: 100% complete
   * Ruri Miyamoto route: 100% complete
   * ? Events: 100% complete
-  * Miscellaneous Events: ~100% done
+  * Miscellaneous Events: 100% done
   * Raku Route: 100%
 * Majikoi+ Mode: 100% complete
-* Majikoi+ DLCs: 0% complete
+* Majikoi+ DLCs: 100% complete
 * Minigames
   * Old Maid character descriptions: 100%
   * Old Maid victory phrases: 100%
   * Old Maid dialogue: 0% (game doesn't subtitle it)
-  * Stealth Minigame level names: 80% (gets cut off in menus)
+  * Stealth Minigame level names: 100% (gets cut off in menus)
   * Stealth Minigame level descriptions: 100%
   * Stealth Minigame item names: 100%
   * Minigame UI: 100% (may look a little wonky in menus)
@@ -119,7 +119,7 @@ This is a romhack of the orignal game for the PlayStation Vita. To play it, you 
   * Main Menu: 100%
   * Gallery: 100% (some things may be a little wonky)
   * In-game character descriptions: 100%
-  * In-game item descriptions: 90% (translated, but some may be unreadable due to cropping)
+  * In-game item descriptions: 100%
   * In-game tutorials: 100%
   * Screen prompts and notifications: 100%
   * Manual: 100%
