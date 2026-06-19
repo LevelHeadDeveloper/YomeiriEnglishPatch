@@ -1,0 +1,181 @@
+__main
+@Lclearscreenall
+@ssr_404
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK2_SSR/SSR0027590
+Ah, I've finally found you!
+MJK2_SSR/SSR0027600
+Hehe.... caught you! ♪
+MJK2_SSR/SSR0027630
+You realize I'm not letting you go.
+Who is that!?
+Let go!
+@ssr_404_190
+MJK2_SSR/SSR0027640
+Who am I....[nl]It should be obvious, right?
+MJK2_SSR/SSR0027650
+I'm the one who devoted herself to you.[nl]Your G・I・R・L・F・R・I・E・N・D.
+@ssr_404_191
+MJK2_SSR/SSR0027660
+Come on, you should stop struggling.
+MJK2_SSR/SSR0027670
+If you keep resisting....[nl]I suppose I'd have to hold you tighter!
+@ssr_404_192
+MJK2_SSR/SSR0027680
+Why do you look so flustered....
+Your chest....
+Your face....
+@ssr_404_193
+MJK2_SSR/SSR0027690
+My chest?
+MJK2_SSR/SSR0027700
+Oh, is that all?
+MJK2_SSR/SSR0027710
+If that's what you want, you should know[nl]that you can do whatever you want with me.
+Snap out of it!
+Quit joking around!
+@ssr_404_194
+MJK2_SSR/SSR0027720
+My face?
+MJK2_SSR/SSR0027730
+Could it be that you're blushing[nl]because we're so close together?
+MJK2_SSR/SSR0027740
+I'd like to study your face[nl]even more closely....
+@ssr_404_195
+MJK2_SSR/SSR0027750
+Out of what....[nl]I'm perfectly lucid, thank you very much.
+@ssr_404_196
+MJK2_SSR/SSR0027760
+That's awful. You think my love[nl]for you is a joke?
+@ssr_404_197
+MJK2_SSR/SSR0027770
+Besides, isn't this how it always is when it's[nl]just the two of us?
+MJK2_SSR/SSR0027780
+I'd like to go to the park[nl]with you today, more importantly.
+MJK2_SSR/SSR0027790
+Come on, let's walk a bit faster.
+@フェードアウト
+@背景変更2
+MJK2_SSR/SSR0027800
+Hehe....[nl]This bench is nice to relax on.
+MJK2_SSR/SSR0027810
+There isn't anyone else around.[nl]We're completely alone together right now.
+MJK2_SSR/SSR0027820
+I'll bet you could use my lap[nl]as a pillow and no one would care.
+Sounds good!
+Too embarrassing
+@ssr_404_198
+MJK2_SSR/SSR0027830
+That kind of obedience is what[nl]you should have been doing from the start.
+MJK2_SSR/SSR0027840
+Alright then, lay down.
+@ssr_404_199
+MJK2_SSR/SSR0027850
+We're the only ones around,[nl]so you've got no reason to get shy.
+MJK2_SSR/SSR0027860
+I should say, I won't let you escape. ♪[nl]I'll force your head to my lap if I need to.
+@ssr_404_200
+@pan
+MJK2_SSR/SSR0027870
+How is it?[nl]Feels good, right?
+MJK2_SSR/SSR0027880
+I think it's okay to be sweet for you[nl]like this sometimes, don't you?
+MJK2_SSR/SSR0027890
+After all, you're always saving me....right?
+It's okay sometimes
+I prefer your usual self
+@ssr_404_201
+MJK2_SSR/SSR0027900
+Hehe....If I lift up your head like so,[nl]I could probably kiss you.
+@ssr_404_202
+MJK2_SSR/SSR0027910
+A moment of weakness on your part.
+@ssr_404_203
+MJK2_SSR/SSR0027920
+Now, could you close your eyes?
+MJK2_SSR/SSR0027930
+I can give my dearest a gentler kiss this way.
+"Your dearest"!?
+You're gonna kiss me!?
+@ssr_404_204
+@ＢＧＭ停止
+MJK2_SSR/SSR0027940
+Hehehe....so you finally realized?
+MJK2_SSR/SSR0027950
+But it's too late.[nl]I won't let you escape now.
+@ssr_404_205
+MJK2_SSR/SSR0027960
+Of course. Wouldn't it make you happy[nl]to kiss Tsugumi?
+@ssr_404_206
+MJK2_SSR/SSR0027970
+Now, let's share a passionate kiss....
+Accept
+Resist
+@ssr_404_207
+MJK2_SSR/SSR0027980
+Okay, close your eyes.
+@背景変更
+MJK2_SSR/SSR0027990
+Now you're mine.[nl]I won't let you escape. ♪
+MJK2_SSR/SSR0028000
+Hehehe....
+@ssr_404_208
+MJK2_SSR/SSR0028010
+Ugh! You're *still* resisting!?
+MJK2_SSR/SSR0028020
+If you really like Tsugumi *that* much,[nl]I can act the part no problem!
+MJK2_SSR/SSR0028030
+LIKE SO! HYAAAAH!
+@ホワイトアウト
+@ssr_404_209
+MJK2_SSR/SSR0028040
+....Wake up! Wake up!
+@ＢＧＭ再生
+MJK2_SSR/SSR0028050
+Are you awake!?
+MJK2_SSR/SSR0028060
+Thank goodness....[nl]You weren't waking up and I was worried.
+MJK2_SSR/SSR0028070
+Hm? You don't know what's been going on?
+MJK2_SSR/SSR0028080
+Marika Tachibana was chasing you around,[nl]and you took a fall and hit your head.
+MJK2_SSR/SSR0028090
+Looked like you hit it pretty hard,[nl]so it's no wonder you don't remember....
+@ssr_404_210
+@expose
+MJK2_SSR/SSR0028100
+But I must say it was a bit of a shock[nl]to hear you muttering her name in your sleep.
+MJK2_SSR/SSR0028110
+Huh....?[nl]You thought she was me in the dream?
+MJK2_SSR/SSR0028120
+What a strange dream....
+MJK2_SSR/SSR0028130
+Are you that preoccupied[nl]with Marika Tachibana....?
+MJK2_SSR/SSR0028140
+You understand I could send you[nl]right back to the dream world if you want....?
+@expose2
+MJK2_SSR/SSR0028150
+....Heh. Just kidding.
+MJK2_SSR/SSR0028160
+But you should still watch yourself.
+MJK2_SSR/SSR0028170
+Even I can get jealous sometimes....
+@マジコイ終了処理
+@ssr_404_211
+MJK2_SSR/SSR0028180
+You probably don't remember, but you[nl]were calling out my name in your sleep.
+MJK2_SSR/SSR0028190
+Seeing you desperately cry out for me....[nl]It made me feel more fond of you.
+MJK2_SSR/SSR0028200
+I don't know what was tormenting you,[nl]but I wish I could have saved you,[nl]even in your dreams.
+MJK2_SSR/SSR0028210
+Oh....if you're still hurt,[nl]I can let you take a nap with your head on my lap.
+MJK2_SSR/SSR0028220
+This is your special seat.[nl]I'll watch over you until the pain subsides.
+MJK2_SSR/SSR0028230
+So rest well.
+MJK2_SSR/SSR0028240
+I also can't complain about getting to[nl]hold you like this....
+common.asb
