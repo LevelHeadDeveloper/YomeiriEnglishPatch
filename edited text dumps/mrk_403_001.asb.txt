@@ -53,8 +53,8 @@ MJK1_MRK/MRK0023500
 ....we ultimately decided to leave home[nl]and make our own path through life.
 MJK1_MRK/MRK0023510
 Do you remember[nl]what our current situation is like?
-#fs{12}Don't put us through[nl]hardship#fs{}
-#fs{12}If only we[nl]hadn't eloped....#fs{}
+Don't put us through hardship
+If only we hadn't eloped
 How's your health?
 @mrk_403_154
 MJK1_MRK/MRK0023520

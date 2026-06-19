@@ -4,7 +4,7 @@ __main
 @イベント開始処理
 @ＢＧＭ再生
 SYU/SYU0001530
-Maaaan,[nl]girl's tennis is as good as ever.
+Maaaan, girl's tennis is always[nl]seriously amazing!
 RAK/RAK0022670
 Hey, Shuu. How long do[nl]you plan on staring at the tennis court?[nl]We should be playing soccer with the boys.
 SYU/SYU0001540

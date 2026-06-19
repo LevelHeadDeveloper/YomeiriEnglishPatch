@@ -1,0 +1,150 @@
+__main
+@Lclearscreenall
+@mrk_404
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+@叫び揺れ
+MJK2_MRK/MRK0023960
+It's me!
+MJK2_MRK/MRK0023970
+Hahh....[nl]Hahh....
+MJK2_MRK/MRK0023980
+I heard you came down with a cold[nl]so I came rushing right over!
+MJK2_MRK/MRK0023990
+How's your condition!?[nl]Is your life in danger!?
+Not worth the fuss
+I'm a bit woozy
+*cough cough*
+@mrk_404_164
+MJK2_MRK/MRK0024000
+No, you mustn't take this so lightly![nl]They say a cold is the root of all illnesses!
+@mrk_404_165
+MJK2_MRK/MRK0024010
+Oh, that's terrible! To think you're[nl]suffering through such a terrible ordeal....
+@mrk_404_166
+MJK2_MRK/MRK0024020
+Your symptoms are so bad that you can't speak!?[nl]That's awful!
+@mrk_404_167
+MJK2_MRK/MRK0024030
+Aah, if only I could take[nl]your illness for you!
+MJK2_MRK/MRK0024040
+But that's impossible....[nl]Oh well, I'll do what I can for you!
+MJK2_MRK/MRK0024050
+Let me change your ice pack and wet towel first.[nl]Looks like your sheets need changing, too.
+MJK2_MRK/MRK0024060
+Oh, your pajamas are soaked through![nl]You'll catch an even worse cold this way!
+MJK2_MRK/MRK0024070
+Here, let me take those off for you.[nl]I'll wipe the sweat off your skin, too!
+I can do this myself!
+My head is foggy....
+I feel bad about this
+@mrk_404_168
+MJK2_MRK/MRK0024080
+No way! If you strain yourself,[nl]it might get worse!
+@mrk_404_169
+MJK2_MRK/MRK0024090
+It's fine, try not to think too hard.[nl]Just relax and go with the flow....
+@mrk_404_170
+MJK2_MRK/MRK0024100
+I know how much it hurts you when you're sick,[nl]so please don't feel bad letting me do this.
+@mrk_404_171
+MJK2_MRK/MRK0024110
+All right then, here goes!
+MJK2_MRK/MRK0024120
+My, my....a boy's body sure is[nl]sturdily built, I must say....
+MJK2_MRK/MRK0024130
+Woah. Your upper arms are so firm.[nl]And your shoulders are so broad, too...
+MJK2_MRK/MRK0024140
+*droooool*
+MJK2_MRK/MRK0024150
+....Wait, I can't just be staring![nl]Gotta get you some fresh clothes!
+@フェードアウト
+@背景変更
+MJK2_MRK/MRK0024160
+Alright, you're all changed.
+MJK2_MRK/MRK0024170
+How do you feel?[nl]Are you more refreshed?
+MJK2_MRK/MRK0024180
+Ah, the ice pack's already gone warm.[nl]Lemme just replace it again.
+MJK2_MRK/MRK0024190
+After that, I can make you[nl]some rice porridge to eat.
+MJK2_MRK/MRK0024200
+38 degrees.... I've been doing everything[nl]I can for you, but that fever isn't going down.
+MJK2_MRK/MRK0024210
+It's time, then, for my last resort.[nl]I have this fever-reducings spell I know.
+MJK2_MRK/MRK0024220
+The spell is applied through....a kiss.[nl]I simply kiss you while focusing my wish.
+MJK2_MRK/MRK0024230
+I'll try it posthaste!
+You'll catch my cold!
+Magic isn't real!
+@mrk_404_172
+MJK2_MRK/MRK0024240
+It's agonizing for me to watch you[nl]suffer like this with your fever.
+MJK2_MRK/MRK0024250
+Besides....if I catch your cold,[nl]I'll be satisfied.
+@mrk_404_173
+MJK2_MRK/MRK0024260
+What matters is that I believe.[nl]If I pour my love into it, then surely....!
+MJK2_MRK/MRK0024270
+Now, just resign yourself[nl]and let me do this.
+MJK2_MRK/MRK0024280
+Close your eyes and hold still....
+@mrk_404_174
+MJK2_MRK/MRK0024290
+Okay, here goes....
+@ＢＧＭ停止
+@ホワイトアウト
+MJK2_MRK/MRK0024300
+*cough* *cough*
+@ＢＧＭ再生
+MJK2_MRK/MRK0024310
+Ah, you're awake?
+MJK2_MRK/MRK0024320
+Looked like you were having a dream.
+MJK2_MRK/MRK0024330
+Huh? Where are you, you ask?
+MJK2_MRK/MRK0024340
+Hehe, you're still half-asleep?
+MJK2_MRK/MRK0024350
+You're in my bedroom.
+MJK2_MRK/MRK0024360
+You were taking care of me while I'm[nl]sick with a cold, and you fell asleep.
+MJK2_MRK/MRK0024370
+You seemed so tired, so I decided[nl]I'd let you rest.
+MJK2_MRK/MRK0024380
+What kind of dream were you having?
+You were taking care of me
+You almost kissed me
+@mrk_404_175
+MJK2_MRK/MRK0024390
+Oh, my. That means you dreamed the opposite[nl]of reality: I was the one doing the caring.
+MJK2_MRK/MRK0024400
+But I'm glad it was only a dream.[nl]Thank goodness you didn't catch a cold in real life.
+MJK2_MRK/MRK0024410
+I'll bet you that in your dream I wanted[nl]to take that pain away from you.
+MJK2_MRK/MRK0024420
+*cough* *cough*
+MJK2_MRK/MRK0024430
+....Was I able to take[nl]good care of you in my dream?
+MJK2_MRK/MRK0024440
+....I see. I'm glad I could be of some help,[nl]even if it was just a dream.
+MJK2_MRK/MRK0024450
+I hope I get better soon, too.
+MJK2_MRK/MRK0024460
+Once I'm all better,[nl]let's go out together again.
+@マジコイ終了処理
+@mrk_404_176
+MJK2_MRK/MRK0024470
+Huh? Kissed you!?[nl]What on earth was I up to...?
+@expose
+MJK2_MRK/MRK0024480
+...I see, it was a spell to bring down your fever.[nl]That sounds nice.
+MJK2_MRK/MRK0024490
+Could you cast that spell on me, please?
+MJK2_MRK/MRK0024500
+Hehe, just kidding.[nl]I can't let you go catching my cold.
+MJK2_MRK/MRK0024510
+Rain check the kiss[nl]for after I recover, please ♪
+common.asb

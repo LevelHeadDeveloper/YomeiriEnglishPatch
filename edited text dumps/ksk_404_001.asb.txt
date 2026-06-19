@@ -1,0 +1,124 @@
+__main
+@Lclearscreenall
+@ksk_404
+@ＢＧＭ再生
+@2ショット開始
+@イベント開始処理
+MJK2_KSK/KSK0024480
+Hey, you moron!
+MJK2_KSK/KSK0024490
+Are you even listening!?
+Me?
+.........?
+@ksk_404_296
+MJK2_KSK/KSK0024500
+Of course I'm talking to you!
+Is this usual for you?
+W-What's going on?
+@ksk_404_297
+MJK2_KSK/KSK0024510
+....Hm? Why are you acting like[nl]you've just seen a ghost?
+@ksk_404_298
+MJK2_KSK/KSK0024520
+Huh? What are you talking about?
+@ksk_404_299
+MJK2_KSK/KSK0024530
+I can't even....[nl]Are you okay? Like, mentally?
+@ksk_404_300
+MJK2_KSK/KSK0024540
+Stop talking nonsense and[nl]let's get moving, chop-chop!
+@フェードアウト
+@背景変更
+MJK2_KSK/KSK0024550
+Okay, then....[nl]Everyone, come on out!
+MJK2_KSK/KSK0024560
+You're all such good animals....
+MJK2_KSK/KSK0024570
+Hmmm, there, there.[nl]I'll bet you're hungry.
+MJK2_KSK/KSK0024580
+Alright, you can have this whole bag![nl]Here ya go! ★
+That's too much!
+You're out of character!
+@ksk_404_301
+MJK2_KSK/KSK0024590
+What is even the problem,[nl]this is a fine amount!
+MJK2_KSK/KSK0024600
+Haven't you ever been hungry[nl]enough to eat a whole bunch?
+MJK2_KSK/KSK0024610
+Seriously, you've been acting[nl]*way* weird for a while now.
+@ksk_404_302
+MJK2_KSK/KSK0024620
+Huh? *What* are you talking about?
+@ksk_404_303
+MJK2_KSK/KSK0024630
+If you've got something to say,[nl]just say it already!
+You should be more ladylike!
+This isn't the Kosaki I know
+@ksk_404_304
+MJK2_KSK/KSK0024640
+....Oh.[nl]I'm sorry, you did NOT just say that.
+MJK2_KSK/KSK0024650
+Are you saying I'm not[nl]*plenty* ladylike already?
+Not exactly....
+Yeah, I am!
+@ksk_404_305
+MJK2_KSK/KSK0024660
+I'm sorry, but GROSS!
+MJK2_KSK/KSK0024670
+You're saying you've got some kind of[nl]problem with how I am?
+@ksk_404_306
+MJK2_KSK/KSK0024680
+Yes exactly, I can tell!
+@ksk_404_307
+MJK2_KSK/KSK0024690
+Ohh, you're just gonna[nl]say it outright, okay!
+@ksk_404_308
+MJK2_KSK/KSK0024700
+How dare you speak like that[nl]to a lady, moron! You suck!
+Y-You hit me....!
+What are you doing!?
+@ksk_404_309
+MJK2_KSK/KSK0024710
+Hmph![nl]You asked for it!
+@ksk_404_310
+MJK2_KSK/KSK0024720
+A blockhead like you needs punishing![nl]Owww, now my hand hurts....
+@ksk_404_311
+MJK2_KSK/KSK0024730
+Ghh, you're just so....
+@叫び揺れ
+MJK2_KSK/KSK0024740
+I HATE YOU SO MUCH!
+@pan
+@画面揺らし2
+MJK2_KSK/KSK0024750
+Kyaaah![nl]A-Are you okay?
+MJK2_KSK/KSK0024760
+You fell out of your seat....[nl]Did you hit your head!? Are you hurt!?
+It's the real one!
+You changed back?
+@ksk_404_312
+MJK2_KSK/KSK0024770
+....Huh? The real one?
+@ksk_404_313
+MJK2_KSK/KSK0024780
+Huh? Changed back?[nl]Was something wrong!?
+@ksk_404_314
+MJK2_KSK/KSK0024790
+I've been myself the whole time.[nl]Did you have a weird dream or something?
+@expose
+MJK2_KSK/KSK0024800
+Hey, w-what's wrong....?[nl]You've been staring at my face....
+I love you, Kosaki!
+You really are an angel!
+@ksk_404_315
+MJK2_KSK/KSK0024810
+....Huh!?[nl]HUUUHHHHH!?
+@ksk_404_316
+MJK2_KSK/KSK0024820
+Huh!?[nl]A-An angel!?
+@ksk_404_317
+MJK2_KSK/KSK0024830
+I-I don't think I get it,[nl]but thank you....
+@マジコイ終了処理
+common.asb
